@@ -13,7 +13,24 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7695048,
+      "longitude": 8.185762,
+      "viewport": {
+        "northeast": {
+          "lat": 4.770703379892722,
+          "lng": 8.186942679892724
+        },
+        "southwest": {
+          "lat": 4.768003720107278,
+          "lng": 8.18424302010728
+        }
+      },
+      "formatted_address": "Q59P+R82, 523109, Elei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7695048,8.185762",
+      "google_place_id": "ChIJAQAAAIWTZxARCgTZbRa0SkI"
+    }
   },
   {
     "id": "11659",
@@ -29,7 +46,8 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "11660",
@@ -45,7 +63,8 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "11661",
@@ -61,7 +80,8 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "11662",
@@ -77,6 +97,7 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

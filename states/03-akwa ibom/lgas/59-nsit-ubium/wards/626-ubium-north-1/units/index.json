@@ -13,7 +13,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.771357,
+      "longitude": 7.937010000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772728679892722,
+          "lng": 7.938437529892722
+        },
+        "southwest": {
+          "lat": 4.770029020107278,
+          "lng": 7.935737870107278
+        }
+      },
+      "formatted_address": "QWCP+GRR, 522104, Ikot Eyd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.771357,7.937010000000001",
+      "google_place_id": "ChIJoWJIjN3lZxARapq77l1DNlQ"
+    }
   },
   {
     "id": "10880",
@@ -29,7 +46,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7876824,
+      "longitude": 7.8948623,
+      "viewport": {
+        "northeast": {
+          "lat": 4.789020929892722,
+          "lng": 7.89624512989272
+        },
+        "southwest": {
+          "lat": 4.786321270107278,
+          "lng": 7.893545470107276
+        }
+      },
+      "formatted_address": "QVQV+3WH, 522104, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7876824,7.8948623",
+      "google_place_id": "ChIJ9ZmwONHlZxARN4e4AQWZPZg"
+    }
   },
   {
     "id": "10881",
@@ -45,7 +79,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.788146200000001,
+      "longitude": 7.969427899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.789479929892721,
+          "lng": 7.970704779892722
+        },
+        "southwest": {
+          "lat": 4.786780270107277,
+          "lng": 7.968005120107279
+        }
+      },
+      "formatted_address": "QXQ9+7Q9, 522107, Odot, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.788146200000001,7.969427899999999",
+      "google_place_id": "ChIJU-twZZTvZxARCRsTHCPVyqI"
+    }
   },
   {
     "id": "10882",
@@ -61,7 +112,8 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10883",
@@ -77,7 +129,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7876824,
+      "longitude": 7.8948623,
+      "viewport": {
+        "northeast": {
+          "lat": 4.789020929892722,
+          "lng": 7.89624512989272
+        },
+        "southwest": {
+          "lat": 4.786321270107278,
+          "lng": 7.893545470107276
+        }
+      },
+      "formatted_address": "QVQV+3WH, 522104, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7876824,7.8948623",
+      "google_place_id": "ChIJ9ZmwONHlZxARN4e4AQWZPZg"
+    }
   },
   {
     "id": "10884",
@@ -93,7 +162,8 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10885",
@@ -109,7 +179,8 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10886",
@@ -125,6 +196,23 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.771357,
+      "longitude": 7.937010000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772728679892722,
+          "lng": 7.938437529892722
+        },
+        "southwest": {
+          "lat": 4.770029020107278,
+          "lng": 7.935737870107278
+        }
+      },
+      "formatted_address": "QWCP+GRR, 522104, Ikot Eyd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.771357,7.937010000000001",
+      "google_place_id": "ChIJoWJIjN3lZxARapq77l1DNlQ"
+    }
   }
 ]

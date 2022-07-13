@@ -13,7 +13,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.704439799999999,
+      "longitude": 8.000624799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.705921829892722,
+          "lng": 8.002127979892721
+        },
+        "southwest": {
+          "lat": 4.703222170107278,
+          "lng": 7.999428320107278
+        }
+      },
+      "formatted_address": "P232+Q6H, 522109, Akai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.704439799999999,8.000624799999999",
+      "google_place_id": "ChIJ62lxJZDpZxAR3Y_8MILJ6RE"
+    }
   },
   {
     "id": "10919",
@@ -29,7 +46,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.1536602,
+      "longitude": 7.7041438,
+      "viewport": {
+        "northeast": {
+          "lat": 5.155127879892722,
+          "lng": 7.705428079892721
+        },
+        "southwest": {
+          "lat": 5.152428220107278,
+          "lng": 7.702728420107277
+        }
+      },
+      "formatted_address": "5P33+FM6, 530101, Ikot Ekpene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1536602,7.7041438",
+      "google_place_id": "ChIJXwcM-dutQhARBvqFLjZtWgc"
+    }
   },
   {
     "id": "10920",
@@ -45,7 +79,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.701317299999999,
+      "longitude": 8.0032443,
+      "viewport": {
+        "northeast": {
+          "lat": 4.702664579892723,
+          "lng": 8.004596579892723
+        },
+        "southwest": {
+          "lat": 4.699964920107279,
+          "lng": 8.00189692010728
+        }
+      },
+      "formatted_address": "P223+G7H, Oron Road, 522109, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.701317299999999,8.0032443",
+      "google_place_id": "ChIJTRJ1OS7dZxARM_joVSbLOkI"
+    }
   },
   {
     "id": "10921",
@@ -61,7 +112,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7715773,
+      "longitude": 7.930492099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772939829892723,
+          "lng": 7.932016079892723
+        },
+        "southwest": {
+          "lat": 4.770240170107279,
+          "lng": 7.929316420107279
+        }
+      },
+      "formatted_address": "QWCJ+J5Q, 522104, Ikot Eyd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7715773,7.930492099999999",
+      "google_place_id": "ChIJKR0uvNvlZxARWLGw-aIqLso"
+    }
   },
   {
     "id": "10922",
@@ -77,7 +145,8 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10923",
@@ -93,7 +162,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.771357,
+      "longitude": 7.937010000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.772728679892722,
+          "lng": 7.938437529892722
+        },
+        "southwest": {
+          "lat": 4.770029020107278,
+          "lng": 7.935737870107278
+        }
+      },
+      "formatted_address": "QWCP+GRR, 522104, Ikot Eyd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.771357,7.937010000000001",
+      "google_place_id": "ChIJoWJIjN3lZxARapq77l1DNlQ"
+    }
   },
   {
     "id": "10924",
@@ -109,7 +195,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
   },
   {
     "id": "10925",
@@ -125,7 +228,8 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10926",
@@ -141,7 +245,8 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10927",
@@ -157,7 +262,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7355028,
+      "longitude": 8.027451100000002,
+      "viewport": {
+        "northeast": {
+          "lat": 4.736932379892723,
+          "lng": 8.028806529892723
+        },
+        "southwest": {
+          "lat": 4.734232720107279,
+          "lng": 8.026106870107279
+        }
+      },
+      "formatted_address": "P2PG+6X4, Junction 522109, Ikot Ntung, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7355028,8.027451100000002",
+      "google_place_id": "ChIJ51G8FgrpZxARb7yxvlbtq_U"
+    }
   },
   {
     "id": "10928",
@@ -173,7 +295,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6518073,
+      "longitude": 7.9426044,
+      "viewport": {
+        "northeast": {
+          "lat": 4.653180479892722,
+          "lng": 7.943915879892722
+        },
+        "southwest": {
+          "lat": 4.650480820107278,
+          "lng": 7.941216220107278
+        }
+      },
+      "formatted_address": "MW2V+P29, 524102, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6518073,7.9426044",
+      "google_place_id": "ChIJUaKhVCPdZxARH7aLMQ5TR3Q"
+    }
   },
   {
     "id": "10929",
@@ -189,7 +328,24 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9983713,
+      "longitude": 7.940507500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.999970829892722,
+          "lng": 7.941756979892722
+        },
+        "southwest": {
+          "lat": 4.997271170107278,
+          "lng": 7.939057320107278
+        }
+      },
+      "formatted_address": "Itiam Etoi Rd, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9983713,7.940507500000001",
+      "google_place_id": "ChIJwUodwRn5ZxARWny67OLCEMY"
+    }
   },
   {
     "id": "10930",
@@ -205,6 +361,23 @@
     "local_government_id": "59",
     "local_government_name": "NSIT UBIUM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9777287,
+      "longitude": 8.0228275,
+      "viewport": {
+        "northeast": {
+          "lat": 4.979080979892722,
+          "lng": 8.024209429892721
+        },
+        "southwest": {
+          "lat": 4.976381320107278,
+          "lng": 8.021509770107278
+        }
+      },
+      "formatted_address": "X2HF+34W, Nnung Usanga, Ekpene Ibia, Ikot Inyang Idung, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9777287,8.0228275",
+      "google_place_id": "ChIJXeeNbg_3ZxARLniffpNBTyY"
+    }
   }
 ]

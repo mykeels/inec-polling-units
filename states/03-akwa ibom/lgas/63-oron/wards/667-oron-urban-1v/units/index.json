@@ -13,7 +13,24 @@
     "local_government_id": "63",
     "local_government_name": "ORON",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7948594,
+      "longitude": 8.206422,
+      "viewport": {
+        "northeast": {
+          "lat": 4.796291379892722,
+          "lng": 8.207814729892721
+        },
+        "southwest": {
+          "lat": 4.793591720107278,
+          "lng": 8.205115070107277
+        }
+      },
+      "formatted_address": "Q6V4+WHV Urban X, 523121, Oron, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7948594,8.206422",
+      "google_place_id": "ChIJ43LhBs-TZxAREOVu2j8GxH4"
+    }
   },
   {
     "id": "11324",
@@ -29,7 +46,8 @@
     "local_government_id": "63",
     "local_government_name": "ORON",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "11325",
@@ -45,7 +63,8 @@
     "local_government_id": "63",
     "local_government_name": "ORON",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "11326",
@@ -61,6 +80,7 @@
     "local_government_id": "63",
     "local_government_name": "ORON",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

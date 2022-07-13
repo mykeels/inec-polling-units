@@ -13,7 +13,24 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7452817,
+      "longitude": 8.2814747,
+      "viewport": {
+        "northeast": {
+          "lat": 4.7699042,
+          "lng": 8.3286602
+        },
+        "southwest": {
+          "lat": 4.7193197,
+          "lng": 8.221677999999999
+        }
+      },
+      "formatted_address": "Udung Uko 1, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7452817,8.2814747",
+      "google_place_id": "ChIJ__QbRSOXZxARnUPnEr6oSv8"
+    }
   },
   {
     "id": "11623",
@@ -29,7 +46,24 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7389,
+      "longitude": 8.1698675,
+      "viewport": {
+        "northeast": {
+          "lat": 4.740239879892721,
+          "lng": 8.17122532989272
+        },
+        "southwest": {
+          "lat": 4.737540220107277,
+          "lng": 8.168525670107277
+        }
+      },
+      "formatted_address": "P5Q9+HW9, 523110, Oduko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7389,8.1698675",
+      "google_place_id": "ChIJh4DTqfOUZxAR_h9tMbCZPzA"
+    }
   },
   {
     "id": "11624",
@@ -45,7 +79,24 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7452817,
+      "longitude": 8.2814747,
+      "viewport": {
+        "northeast": {
+          "lat": 4.7699042,
+          "lng": 8.3286602
+        },
+        "southwest": {
+          "lat": 4.7193197,
+          "lng": 8.221677999999999
+        }
+      },
+      "formatted_address": "Udung Uko 1, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7452817,8.2814747",
+      "google_place_id": "ChIJ__QbRSOXZxARnUPnEr6oSv8"
+    }
   },
   {
     "id": "11625",
@@ -61,7 +112,24 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7507369,
+      "longitude": 8.2541155,
+      "viewport": {
+        "northeast": {
+          "lat": 4.781293799999999,
+          "lng": 8.3168212
+        },
+        "southwest": {
+          "lat": 4.7199803,
+          "lng": 8.198616
+        }
+      },
+      "formatted_address": "Udung Uko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7507369,8.2541155",
+      "google_place_id": "ChIJTZozdtqWZxARTraa4BijiQ4"
+    }
   },
   {
     "id": "11626",
@@ -77,7 +145,8 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "11627",
@@ -93,7 +162,24 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0188725,
+      "longitude": 7.9088233,
+      "viewport": {
+        "northeast": {
+          "lat": 5.020144879892722,
+          "lng": 7.91024387989272
+        },
+        "southwest": {
+          "lat": 5.017445220107278,
+          "lng": 7.907544220107276
+        }
+      },
+      "formatted_address": "Efiat Offot, Abak Rd, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0188725,7.9088233",
+      "google_place_id": "ChIJ5aY0H2hXXRAR4wOMTpm7Q4E"
+    }
   },
   {
     "id": "11628",
@@ -109,6 +195,7 @@
     "local_government_id": "65",
     "local_government_name": "UDUNG UKO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]
