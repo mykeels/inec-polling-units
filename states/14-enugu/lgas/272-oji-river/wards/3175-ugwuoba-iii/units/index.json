@@ -13,7 +13,8 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": null
   },
   {
     "id": "58349",
@@ -29,7 +30,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4329342,
+      "longitude": 7.2362924,
+      "viewport": {
+        "northeast": {
+          "lat": 6.434263429892721,
+          "lng": 7.237645479892723
+        },
+        "southwest": {
+          "lat": 6.431563770107277,
+          "lng": 7.23494582010728
+        }
+      },
+      "formatted_address": "C6MP+5GF, 401132, Umueze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4329342,7.2362924",
+      "google_place_id": "ChIJeTjVpGWDRBARBFlo_Co7rVY"
+    }
   },
   {
     "id": "58350",
@@ -45,7 +63,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2446268,
+      "longitude": 7.1654841,
+      "viewport": {
+        "northeast": {
+          "lat": 6.245936479892722,
+          "lng": 7.166808629892722
+        },
+        "southwest": {
+          "lat": 6.243236820107279,
+          "lng": 7.164108970107278
+        }
+      },
+      "formatted_address": "Ugwuoba II, 401145, Ugwuoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2446268,7.1654841",
+      "google_place_id": "ChIJ7274fg95QxAR8kpUBMkvtsE"
+    }
   },
   {
     "id": "58351",
@@ -61,7 +96,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2446268,
+      "longitude": 7.1654841,
+      "viewport": {
+        "northeast": {
+          "lat": 6.245936479892722,
+          "lng": 7.166808629892722
+        },
+        "southwest": {
+          "lat": 6.243236820107279,
+          "lng": 7.164108970107278
+        }
+      },
+      "formatted_address": "Ugwuoba II, 401145, Ugwuoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2446268,7.1654841",
+      "google_place_id": "ChIJ7274fg95QxAR8kpUBMkvtsE"
+    }
   },
   {
     "id": "58352",
@@ -77,6 +129,23 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2446268,
+      "longitude": 7.1654841,
+      "viewport": {
+        "northeast": {
+          "lat": 6.245936479892722,
+          "lng": 7.166808629892722
+        },
+        "southwest": {
+          "lat": 6.243236820107279,
+          "lng": 7.164108970107278
+        }
+      },
+      "formatted_address": "Ugwuoba II, 401145, Ugwuoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2446268,7.1654841",
+      "google_place_id": "ChIJ7274fg95QxAR8kpUBMkvtsE"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 5.9921567,
+      "longitude": 7.400364799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.993654579892723,
+          "lng": 7.401752479892721
+        },
+        "southwest": {
+          "lat": 5.990954920107279,
+          "lng": 7.399052820107276
+        }
+      },
+      "formatted_address": "XCR2+R4X Amuda Isuochi, 441112, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9921567,7.400364799999999",
+      "google_place_id": "ChIJ6eGzTP4VQxARGXUJDMzJdLw"
+    }
   },
   {
     "id": "58410",
@@ -29,7 +46,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.2536531,
+      "longitude": 7.2734798,
+      "viewport": {
+        "northeast": {
+          "lat": 6.255014129892722,
+          "lng": 7.274833279892722
+        },
+        "southwest": {
+          "lat": 6.252314470107278,
+          "lng": 7.272133620107279
+        }
+      },
+      "formatted_address": "Christ Church Isikwe Achi, Oji - Awgu Rd, 401124, Enugu Inyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2536531,7.2734798",
+      "google_place_id": "ChIJ9bNTi0BlQxAR1ZvhzUI5e5A"
+    }
   },
   {
     "id": "58411",
@@ -45,7 +79,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.1522673,
+      "longitude": 7.423034899999998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.153674579892722,
+          "lng": 7.424478929892721
+        },
+        "southwest": {
+          "lat": 6.150974920107278,
+          "lng": 7.421779270107277
+        }
+      },
+      "formatted_address": "5C2F+W63, 402128, Obeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1522673,7.423034899999998",
+      "google_place_id": "ChIJy00RwzBoQxAROfve5F1FhxA"
+    }
   },
   {
     "id": "58412",
@@ -61,7 +112,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.128589799999999,
+      "longitude": 7.3894631,
+      "viewport": {
+        "northeast": {
+          "lat": 6.129926429892722,
+          "lng": 7.39083182989272
+        },
+        "southwest": {
+          "lat": 6.127226770107278,
+          "lng": 7.388132170107276
+        }
+      },
+      "formatted_address": "49HQ+CQP, 402132, Egvu-Dunu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.128589799999999,7.3894631",
+      "google_place_id": "ChIJuVupVAlpQxARUN27OOhWjH0"
+    }
   },
   {
     "id": "58413",
@@ -77,6 +145,23 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.1600079,
+      "longitude": 7.3583496,
+      "viewport": {
+        "northeast": {
+          "lat": 6.161423029892722,
+          "lng": 7.359623229892722
+        },
+        "southwest": {
+          "lat": 6.158723370107278,
+          "lng": 7.356923570107278
+        }
+      },
+      "formatted_address": "Oji - Awgu Road Oji-River, 401147, Achi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1600079,7.3583496",
+      "google_place_id": "ChIJAdbVvCFpQxARGW9U-HibEoU"
+    }
   }
 ]

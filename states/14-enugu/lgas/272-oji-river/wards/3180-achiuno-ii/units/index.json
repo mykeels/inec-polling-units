@@ -13,7 +13,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.162759899999999,
+      "longitude": 7.370563899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.192283499999999,
+          "lng": 7.388610399999999
+        },
+        "southwest": {
+          "lat": 6.1338,
+          "lng": 7.3601491
+        }
+      },
+      "formatted_address": "Achiuno II, 401148, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.162759899999999,7.370563899999999",
+      "google_place_id": "ChIJucF1jOpoQxARYnxtsfINWK4"
+    }
   },
   {
     "id": "58394",
@@ -29,7 +46,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.133347499999999,
+      "longitude": 7.366696899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.134717579892722,
+          "lng": 7.368191729892721
+        },
+        "southwest": {
+          "lat": 6.132017920107279,
+          "lng": 7.365492070107277
+        }
+      },
+      "formatted_address": "49M8+8MV, 402133, Achi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.133347499999999,7.366696899999999",
+      "google_place_id": "ChIJSW5XSDtpQxARKmhNP3aeTc0"
+    }
   },
   {
     "id": "58395",
@@ -45,7 +79,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.162759899999999,
+      "longitude": 7.370563899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.192283499999999,
+          "lng": 7.388610399999999
+        },
+        "southwest": {
+          "lat": 6.1338,
+          "lng": 7.3601491
+        }
+      },
+      "formatted_address": "Achiuno II, 401148, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.162759899999999,7.370563899999999",
+      "google_place_id": "ChIJucF1jOpoQxARYnxtsfINWK4"
+    }
   },
   {
     "id": "58396",
@@ -61,7 +112,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.1600079,
+      "longitude": 7.3583496,
+      "viewport": {
+        "northeast": {
+          "lat": 6.161423029892722,
+          "lng": 7.359623229892722
+        },
+        "southwest": {
+          "lat": 6.158723370107278,
+          "lng": 7.356923570107278
+        }
+      },
+      "formatted_address": "Oji - Awgu Road Oji-River, 401147, Achi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1600079,7.3583496",
+      "google_place_id": "ChIJAdbVvCFpQxARGW9U-HibEoU"
+    }
   },
   {
     "id": "58397",
@@ -77,7 +145,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.1600079,
+      "longitude": 7.3583496,
+      "viewport": {
+        "northeast": {
+          "lat": 6.161423029892722,
+          "lng": 7.359623229892722
+        },
+        "southwest": {
+          "lat": 6.158723370107278,
+          "lng": 7.356923570107278
+        }
+      },
+      "formatted_address": "Oji - Awgu Road Oji-River, 401147, Achi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1600079,7.3583496",
+      "google_place_id": "ChIJAdbVvCFpQxARGW9U-HibEoU"
+    }
   },
   {
     "id": "58398",
@@ -93,7 +178,24 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.1276056,
+      "longitude": 7.293763,
+      "viewport": {
+        "northeast": {
+          "lat": 6.128938629892722,
+          "lng": 7.295086279892724
+        },
+        "southwest": {
+          "lat": 6.126238970107278,
+          "lng": 7.29238662010728
+        }
+      },
+      "formatted_address": "St. Francis Catholic Church Alum Inyi, 401148, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1276056,7.293763",
+      "google_place_id": "ChIJX1bsMEJuQxARVezA2uomeWI"
+    }
   },
   {
     "id": "58399",
@@ -109,7 +211,8 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": null
   },
   {
     "id": "58400",
@@ -125,6 +228,23 @@
     "local_government_id": "272",
     "local_government_name": "OJI-RIVER",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.133347499999999,
+      "longitude": 7.366696899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.134717579892722,
+          "lng": 7.368191729892721
+        },
+        "southwest": {
+          "lat": 6.132017920107279,
+          "lng": 7.365492070107277
+        }
+      },
+      "formatted_address": "49M8+8MV, 402133, Achi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.133347499999999,7.366696899999999",
+      "google_place_id": "ChIJSW5XSDtpQxARKmhNP3aeTc0"
+    }
   }
 ]

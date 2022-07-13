@@ -13,7 +13,8 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": null
   },
   {
     "id": "57853",
@@ -29,7 +30,8 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": null
   },
   {
     "id": "57854",
@@ -45,7 +47,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3561353,
+      "longitude": 7.4941926,
+      "viewport": {
+        "northeast": {
+          "lat": 6.357615579892722,
+          "lng": 7.495346779892722
+        },
+        "southwest": {
+          "lat": 6.354915920107278,
+          "lng": 7.492647120107278
+        }
+      },
+      "formatted_address": "9F4V+FM4, 402107, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3561353,7.4941926",
+      "google_place_id": "ChIJR8zf18ChRBARRsdJ7PjU-Vg"
+    }
   },
   {
     "id": "57855",
@@ -61,7 +80,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.334063599999999,
+      "longitude": 7.5950859,
+      "viewport": {
+        "northeast": {
+          "lat": 6.335320679892722,
+          "lng": 7.596411529892721
+        },
+        "southwest": {
+          "lat": 6.332621020107278,
+          "lng": 7.593711870107277
+        }
+      },
+      "formatted_address": "Nenwe-Mberubu-Umuowalagu-Amagunze-Akpugo Road, 402110, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.334063599999999,7.5950859",
+      "google_place_id": "ChIJKTA8Uj1ZQxARG1UE4beaHt0"
+    }
   },
   {
     "id": "57856",
@@ -77,7 +113,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
   },
   {
     "id": "57857",
@@ -93,7 +146,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.1195382,
+      "longitude": 7.4516578,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1289487,
+          "lng": 7.4564016
+        },
+        "southwest": {
+          "lat": 6.1123924,
+          "lng": 7.4451684
+        }
+      },
+      "formatted_address": "Enugu Agu, 402123, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1195382,7.4516578",
+      "google_place_id": "ChIJRQ3SEgtCQxAR3FEpts_MdqE"
+    }
   },
   {
     "id": "57858",
@@ -109,7 +179,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.337298199999999,
+      "longitude": 7.5774316,
+      "viewport": {
+        "northeast": {
+          "lat": 6.338651929892722,
+          "lng": 7.578616929892722
+        },
+        "southwest": {
+          "lat": 6.335952270107278,
+          "lng": 7.575917270107278
+        }
+      },
+      "formatted_address": "8HPG+WX7, 402115, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.337298199999999,7.5774316",
+      "google_place_id": "ChIJ58FGwmVYQxART4lYzhpWVXs"
+    }
   },
   {
     "id": "57859",
@@ -125,7 +212,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.318495599999999,
+      "longitude": 7.557504799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319950879892722,
+          "lng": 7.558668479892722
+        },
+        "southwest": {
+          "lat": 6.317251220107278,
+          "lng": 7.555968820107278
+        }
+      },
+      "formatted_address": "8H95+92R, Agbani, Akpugo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.318495599999999,7.557504799999999",
+      "google_place_id": "ChIJD8NjrHNZQxARo_i0gqXx7Kg"
+    }
   },
   {
     "id": "57860",
@@ -141,7 +245,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4171472,
+      "longitude": 7.501700299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.418542779892721,
+          "lng": 7.503015779892722
+        },
+        "southwest": {
+          "lat": 6.415843120107278,
+          "lng": 7.500316120107278
+        }
+      },
+      "formatted_address": "34 Kenyatta St, Uwani 400107, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4171472,7.501700299999999",
+      "google_place_id": "ChIJEXNBx96hRBARCSls5TX7fzA"
+    }
   },
   {
     "id": "57861",
@@ -157,7 +278,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.4071653,
+      "longitude": 7.5009731,
+      "viewport": {
+        "northeast": {
+          "lat": 6.408545979892722,
+          "lng": 7.502316529892722
+        },
+        "southwest": {
+          "lat": 6.405846320107278,
+          "lng": 7.499616870107278
+        }
+      },
+      "formatted_address": "CG42+V99, Awuda Cres Rd, Uwani 400107, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4071653,7.5009731",
+      "google_place_id": "ChIJaTw-0ZGhRBARw12BPS11mf8"
+    }
   },
   {
     "id": "57862",
@@ -173,7 +311,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3150413,
+      "longitude": 7.5951577,
+      "viewport": {
+        "northeast": {
+          "lat": 6.328436399999999,
+          "lng": 7.6176892
+        },
+        "southwest": {
+          "lat": 6.298365599999999,
+          "lng": 7.577542200000001
+        }
+      },
+      "formatted_address": "Obinagu Uwani (Akpugo I), Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3150413,7.5951577",
+      "google_place_id": "ChIJOU5ttDNYQxARV5QUC1xdFw0"
+    }
   },
   {
     "id": "57863",
@@ -189,7 +344,8 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": null
   },
   {
     "id": "57864",
@@ -205,7 +361,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3049405,
+      "longitude": 7.568626399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.306400229892722,
+          "lng": 7.569985779892722
+        },
+        "southwest": {
+          "lat": 6.303700570107278,
+          "lng": 7.567286120107278
+        }
+      },
+      "formatted_address": "8H39+XFC, 402110, Agbani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3049405,7.568626399999999",
+      "google_place_id": "ChIJe4jjQT9ZQxARrmG1yS4pwXY"
+    }
   },
   {
     "id": "57865",
@@ -221,7 +394,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3150413,
+      "longitude": 7.5951577,
+      "viewport": {
+        "northeast": {
+          "lat": 6.328436399999999,
+          "lng": 7.6176892
+        },
+        "southwest": {
+          "lat": 6.298365599999999,
+          "lng": 7.577542200000001
+        }
+      },
+      "formatted_address": "Obinagu Uwani (Akpugo I), Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3150413,7.5951577",
+      "google_place_id": "ChIJOU5ttDNYQxARV5QUC1xdFw0"
+    }
   },
   {
     "id": "57866",
@@ -237,7 +427,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.372100800000001,
+      "longitude": 7.5237465,
+      "viewport": {
+        "northeast": {
+          "lat": 6.373463879892721,
+          "lng": 7.525113179892722
+        },
+        "southwest": {
+          "lat": 6.370764220107278,
+          "lng": 7.522413520107278
+        }
+      },
+      "formatted_address": "9GCF+RFX, Ugwuaji 400106, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.372100800000001,7.5237465",
+      "google_place_id": "ChIJ97UIzgWhRBARIdAlYGIauSY"
+    }
   },
   {
     "id": "57867",
@@ -253,7 +460,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3481761,
+      "longitude": 7.6480692,
+      "viewport": {
+        "northeast": {
+          "lat": 6.349571779892722,
+          "lng": 7.649467779892722
+        },
+        "southwest": {
+          "lat": 6.346872120107278,
+          "lng": 7.646768120107279
+        }
+      },
+      "formatted_address": "Uwani Obodo-Uvuru, 402115, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3481761,7.6480692",
+      "google_place_id": "ChIJST8sPh5XQxARfGBFOcCMHRU"
+    }
   },
   {
     "id": "57868",
@@ -269,7 +493,24 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3799744,
+      "longitude": 7.501076200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.381327579892721,
+          "lng": 7.502404429892723
+        },
+        "southwest": {
+          "lat": 6.378627920107277,
+          "lng": 7.499704770107279
+        }
+      },
+      "formatted_address": "9GH2+XCP, Gariki 400107, Enugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3799744,7.501076200000001",
+      "google_place_id": "ChIJ58LSGwShRBARuCD2Mhvz0iM"
+    }
   },
   {
     "id": "57869",
@@ -285,6 +526,23 @@
     "local_government_id": "270",
     "local_government_name": "NKANU WEST",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7757032,
+      "longitude": 7.431757500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.777029679892721,
+          "lng": 7.433081879892722
+        },
+        "southwest": {
+          "lat": 6.774330020107278,
+          "lng": 7.430382220107278
+        }
+      },
+      "formatted_address": "QCGJ+7PJ, 410106, Opi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7757032,7.431757500000001",
+      "google_place_id": "ChIJqaVwMwLqRBARVsJ_32cbosQ"
+    }
   }
 ]

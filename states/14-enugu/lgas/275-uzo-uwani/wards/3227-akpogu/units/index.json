@@ -13,7 +13,24 @@
     "local_government_id": "275",
     "local_government_name": "UZO-UWANI",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7512495,
+      "longitude": 6.9423971,
+      "viewport": {
+        "northeast": {
+          "lat": 6.752535829892722,
+          "lng": 6.943607379892723
+        },
+        "southwest": {
+          "lat": 6.749836170107279,
+          "lng": 6.940907720107279
+        }
+      },
+      "formatted_address": "QW2R+FXR, 432111, Odjo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7512495,6.9423971",
+      "google_place_id": "ChIJ7yp9zVRdRBARAmbc8fUTWKY"
+    }
   },
   {
     "id": "59100",
@@ -29,7 +46,24 @@
     "local_government_id": "275",
     "local_government_name": "UZO-UWANI",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.798968599999999,
+      "longitude": 7.3954599,
+      "viewport": {
+        "northeast": {
+          "lat": 6.800314829892722,
+          "lng": 7.396825129892721
+        },
+        "southwest": {
+          "lat": 6.797615170107278,
+          "lng": 7.394125470107277
+        }
+      },
+      "formatted_address": "Q9XW+H6F, 410106, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798968599999999,7.3954599",
+      "google_place_id": "ChIJWVmI6J_pRBARQ7JAOtW2rtI"
+    }
   },
   {
     "id": "59101",
@@ -45,7 +79,24 @@
     "local_government_id": "275",
     "local_government_name": "UZO-UWANI",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.3150413,
+      "longitude": 7.5951577,
+      "viewport": {
+        "northeast": {
+          "lat": 6.328436399999999,
+          "lng": 7.6176892
+        },
+        "southwest": {
+          "lat": 6.298365599999999,
+          "lng": 7.577542200000001
+        }
+      },
+      "formatted_address": "Obinagu Uwani (Akpugo I), Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3150413,7.5951577",
+      "google_place_id": "ChIJOU5ttDNYQxARV5QUC1xdFw0"
+    }
   },
   {
     "id": "59102",
@@ -61,6 +112,23 @@
     "local_government_id": "275",
     "local_government_name": "UZO-UWANI",
     "state_id": "14",
-    "state_name": "ENUGU"
+    "state_name": "ENUGU",
+    "location": {
+      "latitude": 6.7010948,
+      "longitude": 7.2598913,
+      "viewport": {
+        "northeast": {
+          "lat": 6.725622,
+          "lng": 7.308411
+        },
+        "southwest": {
+          "lat": 6.6693614,
+          "lng": 7.226070200000001
+        }
+      },
+      "formatted_address": "Akpogu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7010948,7.2598913",
+      "google_place_id": "ChIJczaKEFXtRBARPt61jhR-t2M"
+    }
   }
 ]
