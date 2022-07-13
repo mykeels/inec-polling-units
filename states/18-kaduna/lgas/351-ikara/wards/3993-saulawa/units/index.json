@@ -13,7 +13,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73204",
@@ -29,7 +30,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3334297,
+      "longitude": 8.1229329,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3866727,
+          "lng": 8.2067807
+        },
+        "southwest": {
+          "lat": 11.2648078,
+          "lng": 8.0587216
+        }
+      },
+      "formatted_address": "Saulawa, 801125, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3334297,8.1229329",
+      "google_place_id": "ChIJjXJdaaqYrRERBHE9GNZchoU"
+    }
   },
   {
     "id": "73205",
@@ -45,7 +63,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0838241,
+      "longitude": 7.732164800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08511682989272,
+          "lng": 7.733514229892721
+        },
+        "southwest": {
+          "lat": 11.08241717010728,
+          "lng": 7.730814570107277
+        }
+      },
+      "formatted_address": "Gyallesu 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0838241,7.732164800000001",
+      "google_place_id": "ChIJjf-ZtiKDshERbkZyyhgdecw"
+    }
   },
   {
     "id": "73206",
@@ -61,7 +96,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73207",
@@ -77,7 +113,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3119381,
+      "longitude": 8.0885324,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31332257989272,
+          "lng": 8.089717779892721
+        },
+        "southwest": {
+          "lat": 11.31062292010728,
+          "lng": 8.087018120107277
+        }
+      },
+      "formatted_address": "7F3C836Q+QCF T/ Miki, 801125, Ungwan Baribare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3119381,8.0885324",
+      "google_place_id": "ChIJrw8qrxWfrRERlihF_9wmAj8"
+    }
   },
   {
     "id": "73208",
@@ -93,7 +146,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1788116,
+      "longitude": 8.2267543,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18015962989272,
+          "lng": 8.22810017989272
+        },
+        "southwest": {
+          "lat": 11.17745997010728,
+          "lng": 8.225400520107277
+        }
+      },
+      "formatted_address": "801126, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1788116,8.2267543",
+      "google_place_id": "ChIJ2fmZVCoJrRERCZRSKhl0l4k"
+    }
   },
   {
     "id": "73209",
@@ -109,7 +179,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5116847,
+      "longitude": 7.4259573,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51303417989272,
+          "lng": 7.427293179892721
+        },
+        "southwest": {
+          "lat": 10.51033452010728,
+          "lng": 7.424593520107277
+        }
+      },
+      "formatted_address": "7F29GC6G+P88 UNGWAN LIMAN, Doka, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116847,7.4259573",
+      "google_place_id": "ChIJp2LJtxE1TRAR6iAjYGtiKpk"
+    }
   },
   {
     "id": "73210",
@@ -125,7 +212,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73211",
@@ -141,7 +229,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "GC68+5HW, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJH4PqTOU1TRAR1ZqpYVlWVJY"
+    }
   },
   {
     "id": "73212",
@@ -157,7 +262,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73213",
@@ -173,7 +279,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73214",
@@ -189,7 +296,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73215",
@@ -205,7 +313,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1788116,
+      "longitude": 8.2267543,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18015962989272,
+          "lng": 8.22810017989272
+        },
+        "southwest": {
+          "lat": 11.17745997010728,
+          "lng": 8.225400520107277
+        }
+      },
+      "formatted_address": "801126, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1788116,8.2267543",
+      "google_place_id": "ChIJ2fmZVCoJrRERCZRSKhl0l4k"
+    }
   },
   {
     "id": "73216",
@@ -221,7 +346,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73217",
@@ -237,7 +363,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3365334,
+      "longitude": 8.1776051,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33788322989272,
+          "lng": 8.178954929892724
+        },
+        "southwest": {
+          "lat": 11.33518357010727,
+          "lng": 8.17625527010728
+        }
+      },
+      "formatted_address": "7F3C85PH+J27 Pampaida mai dutse Saulawa Kaduna Bisi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3365334,8.1776051",
+      "google_place_id": "ChIJMd6z2kOjrRERwzCfNL-oh_A"
+    }
   },
   {
     "id": "73218",
@@ -253,7 +396,8 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73219",
@@ -269,7 +413,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.278177,
+      "longitude": 8.1249539,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27948647989272,
+          "lng": 8.126292579892723
+        },
+        "southwest": {
+          "lat": 11.27678682010728,
+          "lng": 8.12359292010728
+        }
+      },
+      "formatted_address": "7F3C74HF+7XF, Mafera, 801125, Ungwan Baribare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.278177,8.1249539",
+      "google_place_id": "ChIJ9T0ukF-frRERjz-A5qbmDQY"
+    }
   },
   {
     "id": "73220",
@@ -285,7 +446,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3338776,
+      "longitude": 8.0989922,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33524022989272,
+          "lng": 8.100429879892722
+        },
+        "southwest": {
+          "lat": 11.33254057010728,
+          "lng": 8.097730220107278
+        }
+      },
+      "formatted_address": "7F3C83MX+HH5, 801125, Ungwan Baribare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3338776,8.0989922",
+      "google_place_id": "ChIJSepKP9aZrRERcnkhzjAmMVY"
+    }
   },
   {
     "id": "73221",
@@ -301,7 +479,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3338776,
+      "longitude": 8.0989922,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33524022989272,
+          "lng": 8.100429879892722
+        },
+        "southwest": {
+          "lat": 11.33254057010728,
+          "lng": 8.097730220107278
+        }
+      },
+      "formatted_address": "7F3C83MX+HH5, 801125, Ungwan Baribare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3338776,8.0989922",
+      "google_place_id": "ChIJSepKP9aZrRERcnkhzjAmMVY"
+    }
   },
   {
     "id": "73222",
@@ -317,7 +512,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2775803,
+      "longitude": 7.8173002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27892767989272,
+          "lng": 7.818687479892721
+        },
+        "southwest": {
+          "lat": 11.27622802010728,
+          "lng": 7.815987820107277
+        }
+      },
+      "formatted_address": "7F397RH8+2W9 anguwan makera dandamisa Kaduna Mahuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2775803,7.8173002",
+      "google_place_id": "ChIJ8zfd_WSBrRERQFxjnjXmZ5I"
+    }
   },
   {
     "id": "73223",
@@ -333,7 +545,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5150445,
+      "longitude": 7.829234,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51637072989272,
+          "lng": 7.830545829892722
+        },
+        "southwest": {
+          "lat": 10.51367107010728,
+          "lng": 7.827846170107278
+        }
+      },
+      "formatted_address": "19 Hausawa Rd, Kakuri 800101, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5150445,7.829234",
+      "google_place_id": "ChIJt3o10CmrUhAR4Vn_LY2v5eg"
+    }
   },
   {
     "id": "73224",
@@ -349,7 +578,24 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3331981,
+      "longitude": 8.1249033,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33458482989272,
+          "lng": 8.126233279892721
+        },
+        "southwest": {
+          "lat": 11.33188517010728,
+          "lng": 8.123533620107278
+        }
+      },
+      "formatted_address": "7F3C84MF+7X6 Garin kanawa, Ungwan Baribare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3331981,8.1249033",
+      "google_place_id": "ChIJA-14e6aZrRERIjJljxUr7DE"
+    }
   },
   {
     "id": "73225",
@@ -365,6 +611,23 @@
     "local_government_id": "351",
     "local_government_name": "IKARA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3365334,
+      "longitude": 8.1776051,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33788322989272,
+          "lng": 8.178954929892724
+        },
+        "southwest": {
+          "lat": 11.33518357010727,
+          "lng": 8.17625527010728
+        }
+      },
+      "formatted_address": "7F3C85PH+J27 Pampaida mai dutse Saulawa Kaduna Bisi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3365334,8.1776051",
+      "google_place_id": "ChIJMd6z2kOjrRERwzCfNL-oh_A"
+    }
   }
 ]

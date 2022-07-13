@@ -13,7 +13,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.4621253,
+      "longitude": 8.378389499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.463707779892722,
+          "lng": 8.379635629892721
+        },
+        "southwest": {
+          "lat": 9.461008120107278,
+          "lng": 8.376935970107278
+        }
+      },
+      "formatted_address": "6FXCF96H+V92 Hayin Gada, 801144, Jemaa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4621253,8.378389499999999",
+      "google_place_id": "ChIJ5ceaioxJUhAROao13_UA8r4"
+    }
   },
   {
     "id": "73673",
@@ -29,7 +46,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.873398,
+      "longitude": 7.955157199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.87477452989272,
+          "lng": 7.95650602989272
+        },
+        "southwest": {
+          "lat": 9.872074870107276,
+          "lng": 7.953806370107277
+        }
+      },
+      "formatted_address": "Angwan stadium kachia Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.873398,7.955157199999999",
+      "google_place_id": "ChIJQdmBkDGHUhAR1_O-rKQR1Ac"
+    }
   },
   {
     "id": "73674",
@@ -45,7 +79,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181647989272,
+          "lng": 7.417842829892722
+        },
+        "southwest": {
+          "lat": 10.50911682010728,
+          "lng": 7.415143170107278
+        }
+      },
+      "formatted_address": "19 Hausawa Rd, Kakuri 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJf-ahgB6IUhARzLD6HgKmIEE"
+    }
   },
   {
     "id": "73675",
@@ -61,7 +112,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.459944499999999,
+      "longitude": 8.3896425,
+      "viewport": {
+        "northeast": {
+          "lat": 9.461328929892721,
+          "lng": 8.391016579892723
+        },
+        "southwest": {
+          "lat": 9.458629270107277,
+          "lng": 8.388316920107279
+        }
+      },
+      "formatted_address": "F95Q+XVC, Mile One, Gidan Waya, Jema'a LGA, Kafanchan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.459944499999999,8.3896425",
+      "google_place_id": "ChIJAQAAQPFJUhAR1JmggCqHh_8"
+    }
   },
   {
     "id": "73676",
@@ -77,7 +145,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.354825199999999,
+      "longitude": 8.1144362,
+      "viewport": {
+        "northeast": {
+          "lat": 9.356219529892721,
+          "lng": 8.115824029892721
+        },
+        "southwest": {
+          "lat": 9.353519870107277,
+          "lng": 8.113124370107277
+        }
+      },
+      "formatted_address": "9437+WQM, 801148, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.354825199999999,8.1144362",
+      "google_place_id": "ChIJCcvyAQ0WUhARsWMH2MuFIVk"
+    }
   },
   {
     "id": "73677",
@@ -93,7 +178,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.600262,
+      "longitude": 8.3130432,
+      "viewport": {
+        "northeast": {
+          "lat": 9.601384979892721,
+          "lng": 8.31430027989272
+        },
+        "southwest": {
+          "lat": 9.598685320107277,
+          "lng": 8.311600620107276
+        }
+      },
+      "formatted_address": "J827+463, 802145, Kafanchan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.600262,8.3130432",
+      "google_place_id": "ChIJIXa9R4tPUhARX_DU8dmc2j8"
+    }
   },
   {
     "id": "73678",
@@ -109,7 +211,8 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73679",
@@ -125,7 +228,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.5231602,
+      "longitude": 8.5568779,
+      "viewport": {
+        "northeast": {
+          "lat": 9.524496729892721,
+          "lng": 8.55819987989272
+        },
+        "southwest": {
+          "lat": 9.521797070107278,
+          "lng": 8.555500220107277
+        }
+      },
+      "formatted_address": "6FXCGHF4+7PQ Tajak Atuku Kaduna Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5231602,8.5568779",
+      "google_place_id": "ChIJx7YYIOa1UxAR44sC8JQ4Khs"
+    }
   },
   {
     "id": "73680",
@@ -141,7 +261,8 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73681",
@@ -157,7 +278,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.9818658,
+      "longitude": 8.207452,
+      "viewport": {
+        "northeast": {
+          "lat": 9.983201279892722,
+          "lng": 8.208931629892723
+        },
+        "southwest": {
+          "lat": 9.980501620107278,
+          "lng": 8.206231970107279
+        }
+      },
+      "formatted_address": "6FXCX6J4+PX8 Ungwan Wakili, 802121, Yadai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9818658,8.207452",
+      "google_place_id": "ChIJKf0y0rTtUhARdWJiAmxGeo0"
+    }
   },
   {
     "id": "73682",
@@ -173,7 +311,8 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73683",
@@ -189,7 +328,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.5187276,
+      "longitude": 8.533616199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.52016552989272,
+          "lng": 8.53477042989272
+        },
+        "southwest": {
+          "lat": 9.517465870107277,
+          "lng": 8.532070770107277
+        }
+      },
+      "formatted_address": "6FXCGG9M+9CG, Katsak, 801117, Gimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5187276,8.533616199999999",
+      "google_place_id": "ChIJhx6fWxS1UxARbUUqz9xEGPs"
+    }
   },
   {
     "id": "73684",
@@ -205,7 +361,8 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73685",
@@ -221,7 +378,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.8128253,
+      "longitude": 8.1823984,
+      "viewport": {
+        "northeast": {
+          "lat": 9.81426812989272,
+          "lng": 8.18365147989272
+        },
+        "southwest": {
+          "lat": 9.811568470107277,
+          "lng": 8.180951820107277
+        }
+      },
+      "formatted_address": "6FXCR57J+4XJ UNG RANA ASHAFA KAMANTAN Kaduna Lena, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8128253,8.1823984",
+      "google_place_id": "ChIJK8-eNk_1UhAR6iV6WPWlJQc"
+    }
   },
   {
     "id": "73686",
@@ -237,7 +411,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.614122,
+      "longitude": 8.3118345,
+      "viewport": {
+        "northeast": {
+          "lat": 9.61488137989272,
+          "lng": 8.312879050000001
+        },
+        "southwest": {
+          "lat": 9.612181720107277,
+          "lng": 8.30870085
+        }
+      },
+      "formatted_address": "J876+JPW, 802124, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.614122,8.3118345",
+      "google_place_id": "ChIJdTuNrflPUhAROhRVzEe1IBQ"
+    }
   },
   {
     "id": "73687",
@@ -253,7 +444,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.4641073,
+      "longitude": 8.388272299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.483983,
+          "lng": 8.396045899999999
+        },
+        "southwest": {
+          "lat": 9.454090899999999,
+          "lng": 8.3754911
+        }
+      },
+      "formatted_address": "Jemaa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4641073,8.388272299999999",
+      "google_place_id": "ChIJsybOQfFJUhARcqSS4_xUXwg"
+    }
   },
   {
     "id": "73688",
@@ -269,7 +477,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.45,
+      "longitude": 8.049999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.451404529892722,
+          "lng": 8.05156217989272
+        },
+        "southwest": {
+          "lat": 9.448704870107278,
+          "lng": 8.048862520107276
+        }
+      },
+      "formatted_address": "F322+222, 801143, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.45,8.049999999999999",
+      "google_place_id": "ChIJ9UUeCKsUUhARS08PU4AKQN8"
+    }
   },
   {
     "id": "73689",
@@ -285,7 +510,24 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.396193000000002,
+      "longitude": 8.310006,
+      "viewport": {
+        "northeast": {
+          "lat": 9.397580179892724,
+          "lng": 8.311365879892723
+        },
+        "southwest": {
+          "lat": 9.39488052010728,
+          "lng": 8.308666220107279
+        }
+      },
+      "formatted_address": "98W6+F2C, 801103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.396193000000002,8.310006",
+      "google_place_id": "ChIJa6Fy6X03UhARsPqktIXB-UU"
+    }
   },
   {
     "id": "73690",
@@ -301,6 +543,7 @@
     "local_government_id": "353",
     "local_government_name": "JEMA'A",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   }
 ]

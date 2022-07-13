@@ -13,7 +13,8 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83761",
@@ -29,7 +30,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.971706,
+      "longitude": 7.779291,
+      "viewport": {
+        "northeast": {
+          "lat": 10.97309357989272,
+          "lng": 7.780685879892721
+        },
+        "southwest": {
+          "lat": 10.97039392010728,
+          "lng": 7.777986220107277
+        }
+      },
+      "formatted_address": "XQCH+MPM, 810282, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.971706,7.779291",
+      "google_place_id": "ChIJQYsXVgeeshERr-NvVMTLq1E"
+    }
   },
   {
     "id": "83762",
@@ -45,7 +63,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0166316,
+      "longitude": 7.749401599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.01778092989272,
+          "lng": 7.750812179892721
+        },
+        "southwest": {
+          "lat": 11.01508127010728,
+          "lng": 7.748112520107277
+        }
+      },
+      "formatted_address": "7F392P8X+MQ2 Wucicciri Kaduna, Panga, 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0166316,7.749401599999999",
+      "google_place_id": "ChIJ8X7o41SdshERB50sKrEe5v8"
+    }
   },
   {
     "id": "83763",
@@ -61,7 +96,8 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83764",
@@ -77,7 +113,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1511678,
+      "longitude": 7.654591299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.15248787989272,
+          "lng": 7.656064179892722
+        },
+        "southwest": {
+          "lat": 11.14978822010728,
+          "lng": 7.653364520107278
+        }
+      },
+      "formatted_address": "Samaru Campus, Community Market, 810211, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1511678,7.654591299999999",
+      "google_place_id": "ChIJrd_OICuEshERsF4T6CpiGM4"
+    }
   },
   {
     "id": "83765",
@@ -93,7 +146,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0853197,
+      "longitude": 7.7138205,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08666952989272,
+          "lng": 7.715170329892723
+        },
+        "southwest": {
+          "lat": 11.08396987010728,
+          "lng": 7.712470670107279
+        }
+      },
+      "formatted_address": "Tundun Wada, No 15 Hospital Road Tudun Wada Zaria ZARIA, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0853197,7.7138205",
+      "google_place_id": "ChIJoRYxgi6DshERvK1np2-mM_8"
+    }
   },
   {
     "id": "83766",
@@ -109,7 +179,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1109338,
+      "longitude": 7.7204807,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11228507989272,
+          "lng": 7.721841829892722
+        },
+        "southwest": {
+          "lat": 11.10958542010728,
+          "lng": 7.719142170107278
+        }
+      },
+      "formatted_address": "4P6C+95H Kaduna Rd Zaria, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1109338,7.7204807",
+      "google_place_id": "ChIJZf7tKcODshERbvwJZUr4AWI"
+    }
   },
   {
     "id": "83767",
@@ -125,7 +212,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1585171,
+      "longitude": 7.655214299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.15987932989272,
+          "lng": 7.656574829892722
+        },
+        "southwest": {
+          "lat": 11.15717967010728,
+          "lng": 7.653875170107278
+        }
+      },
+      "formatted_address": "59 Habibu St, 810106, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1585171,7.655214299999999",
+      "google_place_id": "ChIJ4zOWkT-HshER6hkwADW0mek"
+    }
   },
   {
     "id": "83768",
@@ -141,7 +245,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0835506,
+      "longitude": 7.7193252,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08486452989272,
+          "lng": 7.72063962989272
+        },
+        "southwest": {
+          "lat": 11.08216487010728,
+          "lng": 7.717939970107276
+        }
+      },
+      "formatted_address": "3PM9+CPP, Tudan Wada 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0835506,7.7193252",
+      "google_place_id": "ChIJrbIO2TyDshERCTiCz_7wPss"
+    }
   },
   {
     "id": "83769",
@@ -157,7 +278,8 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83770",
@@ -173,7 +295,8 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83771",
@@ -189,7 +312,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1511678,
+      "longitude": 7.654591299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.15248787989272,
+          "lng": 7.656064179892722
+        },
+        "southwest": {
+          "lat": 11.14978822010728,
+          "lng": 7.653364520107278
+        }
+      },
+      "formatted_address": "Samaru Campus, Community Market, 810211, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1511678,7.654591299999999",
+      "google_place_id": "ChIJrd_OICuEshERsF4T6CpiGM4"
+    }
   },
   {
     "id": "83772",
@@ -205,7 +345,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1511678,
+      "longitude": 7.654591299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.15248787989272,
+          "lng": 7.656064179892722
+        },
+        "southwest": {
+          "lat": 11.14978822010728,
+          "lng": 7.653364520107278
+        }
+      },
+      "formatted_address": "Samaru Campus, Community Market, 810211, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1511678,7.654591299999999",
+      "google_place_id": "ChIJrd_OICuEshERsF4T6CpiGM4"
+    }
   },
   {
     "id": "83773",
@@ -221,7 +378,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0853197,
+      "longitude": 7.7138205,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08666952989272,
+          "lng": 7.715170329892723
+        },
+        "southwest": {
+          "lat": 11.08396987010728,
+          "lng": 7.712470670107279
+        }
+      },
+      "formatted_address": "T, No 16 Hospital Rd, Wada 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0853197,7.7138205",
+      "google_place_id": "ChIJTT4zU8mDshERtdhCyKiJsSY"
+    }
   },
   {
     "id": "83774",
@@ -237,7 +411,8 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83775",
@@ -253,7 +428,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0870805,
+      "longitude": 7.718498100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08846117989272,
+          "lng": 7.71975842989272
+        },
+        "southwest": {
+          "lat": 11.08576152010728,
+          "lng": 7.717058770107275
+        }
+      },
+      "formatted_address": "46 Maje Rd, Tudan Wada 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0870805,7.718498100000001",
+      "google_place_id": "ChIJ4VQ33eKDshERLaLMKmmTZ5c"
+    }
   },
   {
     "id": "83776",
@@ -269,7 +461,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1109338,
+      "longitude": 7.7204807,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11228507989272,
+          "lng": 7.721841829892722
+        },
+        "southwest": {
+          "lat": 11.10958542010728,
+          "lng": 7.719142170107278
+        }
+      },
+      "formatted_address": "4P6C+95H Kaduna Rd Zaria, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1109338,7.7204807",
+      "google_place_id": "ChIJZf7tKcODshERbvwJZUr4AWI"
+    }
   },
   {
     "id": "83777",
@@ -285,7 +494,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1453696,
+      "longitude": 7.6878092,
+      "viewport": {
+        "northeast": {
+          "lat": 11.14675912989272,
+          "lng": 7.689196829892722
+        },
+        "southwest": {
+          "lat": 11.14405947010728,
+          "lng": 7.686497170107279
+        }
+      },
+      "formatted_address": "810106, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1453696,7.6878092",
+      "google_place_id": "ChIJZxMn1gSEshERKxivykUYaDM"
+    }
   },
   {
     "id": "83778",
@@ -301,7 +527,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.171555,
+      "longitude": 7.679908,
+      "viewport": {
+        "northeast": {
+          "lat": 11.17292502989272,
+          "lng": 7.681428879892723
+        },
+        "southwest": {
+          "lat": 11.17022537010728,
+          "lng": 7.678729220107279
+        }
+      },
+      "formatted_address": "Old, Kaduna-Kano Rd, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.171555,7.679908",
+      "google_place_id": "ChIJSXHk65WGshERTLF476Chs6U"
+    }
   },
   {
     "id": "83779",
@@ -317,7 +560,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1109338,
+      "longitude": 7.7204807,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11228507989272,
+          "lng": 7.721841829892722
+        },
+        "southwest": {
+          "lat": 11.10958542010728,
+          "lng": 7.719142170107278
+        }
+      },
+      "formatted_address": "4P6C+95H Kaduna Rd Zaria, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1109338,7.7204807",
+      "google_place_id": "ChIJZf7tKcODshERbvwJZUr4AWI"
+    }
   },
   {
     "id": "83780",
@@ -333,7 +593,8 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83781",
@@ -349,7 +610,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0855364,
+      "longitude": 7.7199587,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08689902989272,
+          "lng": 7.721273579892721
+        },
+        "southwest": {
+          "lat": 11.08419937010728,
+          "lng": 7.718573920107278
+        }
+      },
+      "formatted_address": "Kasuwan Zaria Zaria City ZARIA Zaria, City, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0855364,7.7199587",
+      "google_place_id": "ChIJXYOExyODshERlu07qmpodso"
+    }
   },
   {
     "id": "83782",
@@ -365,7 +643,24 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0834515,
+      "longitude": 7.715353399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08482872989272,
+          "lng": 7.716719029892722
+        },
+        "southwest": {
+          "lat": 11.08212907010728,
+          "lng": 7.714019370107278
+        }
+      },
+      "formatted_address": "No. 32 Tudun Wada, Tudan Wada 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0834515,7.715353399999999",
+      "google_place_id": "ChIJwyqx3neDshER6vIKmgZk3kw"
+    }
   },
   {
     "id": "83783",
@@ -381,6 +676,7 @@
     "local_government_id": "369",
     "local_government_name": "ZARIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   }
 ]

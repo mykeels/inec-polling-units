@@ -13,7 +13,8 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73400",
@@ -29,7 +30,24 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.4988948,
+      "longitude": 8.032268499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.500245879892722,
+          "lng": 8.033601879892721
+        },
+        "southwest": {
+          "lat": 9.497546220107278,
+          "lng": 8.030902220107278
+        }
+      },
+      "formatted_address": "F2XJ+HW2, 802111, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4988948,8.032268499999999",
+      "google_place_id": "ChIJTSC_XGJsUhAR4D528Oxo2yA"
+    }
   },
   {
     "id": "73401",
@@ -45,7 +63,8 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73402",
@@ -61,7 +80,8 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73403",
@@ -77,7 +97,24 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6626497,
+      "longitude": 7.8788513,
+      "viewport": {
+        "northeast": {
+          "lat": 9.663999529892722,
+          "lng": 7.880201129892722
+        },
+        "southwest": {
+          "lat": 9.661299870107278,
+          "lng": 7.877501470107278
+        }
+      },
+      "formatted_address": "6FX9MV7H+3G2 Ungwan Jaba ARIBI Kaduna, Kurmin Jatau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6626497,7.8788513",
+      "google_place_id": "ChIJgc7nmVl7UhARag8hSHjGcL4"
+    }
   },
   {
     "id": "73404",
@@ -93,7 +130,24 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5155348,
+      "longitude": 7.452516199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51688462989272,
+          "lng": 7.45386602989272
+        },
+        "southwest": {
+          "lat": 10.51418497010728,
+          "lng": 7.451166370107276
+        }
+      },
+      "formatted_address": "71 Tafawa Balewa Way, Kabala Coastain 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5155348,7.452516199999999",
+      "google_place_id": "ChIJWdcribtKTRARdWfJCnqrsA0"
+    }
   },
   {
     "id": "73405",
@@ -109,6 +163,7 @@
     "local_government_id": "352",
     "local_government_name": "JABA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   }
 ]

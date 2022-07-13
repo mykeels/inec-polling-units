@@ -13,7 +13,24 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0855364,
+      "longitude": 7.7199587,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08689902989272,
+          "lng": 7.721273579892721
+        },
+        "southwest": {
+          "lat": 11.08419937010728,
+          "lng": 7.718573920107278
+        }
+      },
+      "formatted_address": "No 34 Kofar Gayan Zaria City Zaria Zaria, city, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0855364,7.7199587",
+      "google_place_id": "ChIJOXy9Et6DshERyFUPSMM4D6Y"
+    }
   },
   {
     "id": "80251",
@@ -29,7 +46,24 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.4968075,
+      "longitude": 7.6970851,
+      "viewport": {
+        "northeast": {
+          "lat": 9.498105079892722,
+          "lng": 7.698453129892723
+        },
+        "southwest": {
+          "lat": 9.495405420107279,
+          "lng": 7.695753470107279
+        }
+      },
+      "formatted_address": "FMWW+PRP, Unnamed Road, Kagarko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4968075,7.6970851",
+      "google_place_id": "ChIJMwigTSiNTRARwimZg-_cioY"
+    }
   },
   {
     "id": "80252",
@@ -45,7 +79,24 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4590899,
+      "longitude": 7.3824162,
+      "viewport": {
+        "northeast": {
+          "lat": 10.46044087989272,
+          "lng": 7.383771679892723
+        },
+        "southwest": {
+          "lat": 10.45774122010728,
+          "lng": 7.381072020107279
+        }
+      },
+      "formatted_address": "F95J+JXM, Hassan Street, off power plant road, Agwa New Extension, Kudenda, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4590899,7.3824162",
+      "google_place_id": "ChIJsYUBOJ41TRARe35yU-xV6Wk"
+    }
   },
   {
     "id": "80253",
@@ -61,7 +112,8 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "80254",
@@ -77,7 +129,24 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.4933404,
+      "longitude": 7.688468,
+      "viewport": {
+        "northeast": {
+          "lat": 9.494613329892722,
+          "lng": 7.689632729892723
+        },
+        "southwest": {
+          "lat": 9.491913670107278,
+          "lng": 7.686933070107279
+        }
+      },
+      "formatted_address": "FMVQ+89P, 802113, Kagarko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4933404,7.688468",
+      "google_place_id": "ChIJN-0_t5qMTRARYuVn42qElBs"
+    }
   },
   {
     "id": "80255",
@@ -93,7 +162,8 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "80256",
@@ -109,7 +179,8 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "80257",
@@ -125,7 +196,8 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "80258",
@@ -141,7 +213,8 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "80259",
@@ -157,6 +230,23 @@
     "local_government_id": "357",
     "local_government_name": "KAGARKO",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.8503743,
+      "longitude": 8.0142343,
+      "viewport": {
+        "northeast": {
+          "lat": 9.851366279892725,
+          "lng": 8.015715979892722
+        },
+        "southwest": {
+          "lat": 9.84866662010728,
+          "lng": 8.013016320107278
+        }
+      },
+      "formatted_address": "V227+4MX, 802101, Kachia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8503743,8.0142343",
+      "google_place_id": "ChIJm71c5KeJUhARR7JgOTbsSbg"
+    }
   }
 ]

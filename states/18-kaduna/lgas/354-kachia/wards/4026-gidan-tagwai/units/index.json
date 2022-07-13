@@ -13,7 +13,8 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73926",
@@ -29,7 +30,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.7119197,
+      "longitude": 8.0294726,
+      "viewport": {
+        "northeast": {
+          "lat": 9.713244999999999,
+          "lng": 8.031046
+        },
+        "southwest": {
+          "lat": 9.709646,
+          "lng": 8.0279911
+        }
+      },
+      "formatted_address": "802155, Gidan Tagwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7119197,8.0294726",
+      "google_place_id": "ChIJU1rFGQxkUhARxVYE8lrV3Xs"
+    }
   },
   {
     "id": "73927",
@@ -45,7 +63,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.8503743,
+      "longitude": 8.0142343,
+      "viewport": {
+        "northeast": {
+          "lat": 9.851366279892725,
+          "lng": 8.015715979892722
+        },
+        "southwest": {
+          "lat": 9.84866662010728,
+          "lng": 8.013016320107278
+        }
+      },
+      "formatted_address": "V227+4MX, 802101, Kachia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8503743,8.0142343",
+      "google_place_id": "ChIJm71c5KeJUhARR7JgOTbsSbg"
+    }
   },
   {
     "id": "73928",
@@ -61,7 +96,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5614198,
+      "longitude": 7.4699837,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56276947989272,
+          "lng": 7.471313829892721
+        },
+        "southwest": {
+          "lat": 10.56006982010728,
+          "lng": 7.468614170107277
+        }
+      },
+      "formatted_address": "HF69+HW9, Cameroun Road, Malali 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5614198,7.4699837",
+      "google_place_id": "ChIJGa5hkBC1shER35CqixGwdQk"
+    }
   },
   {
     "id": "73929",
@@ -77,7 +129,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.710748899999999,
+      "longitude": 8.060702899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.712110329892722,
+          "lng": 8.062000829892723
+        },
+        "southwest": {
+          "lat": 9.709410670107278,
+          "lng": 8.059301170107279
+        }
+      },
+      "formatted_address": "6FXCP366+67V, Yarbung, 802155, Gidan Tagwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.710748899999999,8.060702899999999",
+      "google_place_id": "ChIJ061RmPxnUhARVmCEcxcVnO4"
+    }
   },
   {
     "id": "73930",
@@ -93,7 +162,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.710748899999999,
+      "longitude": 8.060702899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.712110329892722,
+          "lng": 8.062000829892723
+        },
+        "southwest": {
+          "lat": 9.709410670107278,
+          "lng": 8.059301170107279
+        }
+      },
+      "formatted_address": "6FXCP366+67V, Yarbung, 802155, Gidan Tagwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.710748899999999,8.060702899999999",
+      "google_place_id": "ChIJ061RmPxnUhARVmCEcxcVnO4"
+    }
   },
   {
     "id": "73931",
@@ -109,7 +195,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.727240199999999,
+      "longitude": 7.999444700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.728878779892721,
+          "lng": 8.001170729892722
+        },
+        "southwest": {
+          "lat": 9.726179120107277,
+          "lng": 7.998471070107279
+        }
+      },
+      "formatted_address": "6FX9PXGX+VQW Santai Gidan Tagwai, Dagwarga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.727240199999999,7.999444700000001",
+      "google_place_id": "ChIJOa92G39jUhARQBeZyAZTKiA"
+    }
   },
   {
     "id": "73932",
@@ -125,7 +228,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.729980699999999,
+      "longitude": 7.9970911,
+      "viewport": {
+        "northeast": {
+          "lat": 9.73129322989272,
+          "lng": 7.998717129892721
+        },
+        "southwest": {
+          "lat": 9.728593570107277,
+          "lng": 7.996017470107277
+        }
+      },
+      "formatted_address": "6FX9PXHW+XR4 Gidan gyara Gidan Gyara Kaduna, Dagwarga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.729980699999999,7.9970911",
+      "google_place_id": "ChIJT9APCyljUhARifPQsKvFPpE"
+    }
   },
   {
     "id": "73933",
@@ -141,7 +261,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.693671499999999,
+      "longitude": 8.0562639,
+      "viewport": {
+        "northeast": {
+          "lat": 9.695442929892723,
+          "lng": 8.057617879892723
+        },
+        "southwest": {
+          "lat": 9.692743270107279,
+          "lng": 8.054918220107279
+        }
+      },
+      "formatted_address": "6FXCM3V4+FGM Magaji Ram Gidan Tagwai, Fadan Waiwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.693671499999999,8.0562639",
+      "google_place_id": "ChIJdUOpfHVnUhAR-mejAKhh3c8"
+    }
   },
   {
     "id": "73934",
@@ -157,7 +294,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5259871,
+      "longitude": 7.409349499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52745322989272,
+          "lng": 7.410684429892722
+        },
+        "southwest": {
+          "lat": 10.52475357010728,
+          "lng": 7.407984770107278
+        }
+      },
+      "formatted_address": "GCG5+9PQ, Ungwan Sanusi 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5259871,7.409349499999999",
+      "google_place_id": "ChIJfbkElSA1TRAR3BZPL7F7HrU"
+    }
   },
   {
     "id": "73935",
@@ -173,7 +327,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5038915,
+      "longitude": 7.425514799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50520267989272,
+          "lng": 7.426890679892722
+        },
+        "southwest": {
+          "lat": 10.50250302010728,
+          "lng": 7.424191020107278
+        }
+      },
+      "formatted_address": "Ungwan Seriki, NO 4&5 Kuturu Rd, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5038915,7.425514799999999",
+      "google_place_id": "ChIJzTiylt01TRARpc-StdUnRsc"
+    }
   },
   {
     "id": "73936",
@@ -189,7 +360,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104642,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "Waziri Comfort Agricultural Services Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104642,7.4165053",
+      "google_place_id": "ChIJdRoiWNE1TRARsesbTKap6fk"
+    }
   },
   {
     "id": "73937",
@@ -205,7 +393,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5259871,
+      "longitude": 7.409349499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52745322989272,
+          "lng": 7.410684429892722
+        },
+        "southwest": {
+          "lat": 10.52475357010728,
+          "lng": 7.407984770107278
+        }
+      },
+      "formatted_address": "GCG5+9PQ, Ungwan Sanusi 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5259871,7.409349499999999",
+      "google_place_id": "ChIJfbkElSA1TRAR3BZPL7F7HrU"
+    }
   },
   {
     "id": "73938",
@@ -221,7 +426,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5834811,
+      "longitude": 7.400287199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.596706,
+          "lng": 7.4290268
+        },
+        "southwest": {
+          "lat": 10.567014,
+          "lng": 7.3868461
+        }
+      },
+      "formatted_address": "Sabon Gida, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5834811,7.400287199999999",
+      "google_place_id": "ChIJ2d9volnKshERZneYw9NjXc0"
+    }
   },
   {
     "id": "73939",
@@ -237,7 +459,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5241119,
+      "longitude": 7.4300234,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5283658,
+          "lng": 7.4405587
+        },
+        "southwest": {
+          "lat": 10.5176198,
+          "lng": 7.421863399999999
+        }
+      },
+      "formatted_address": "Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5241119,7.4300234",
+      "google_place_id": "ChIJXaAy6lA1TRARxOE6SQFRniM"
+    }
   },
   {
     "id": "73940",
@@ -253,7 +492,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4462457,
+      "longitude": 7.446516399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44761117989272,
+          "lng": 7.447855779892722
+        },
+        "southwest": {
+          "lat": 10.44491152010728,
+          "lng": 7.445156120107278
+        }
+      },
+      "formatted_address": "Local Government Area, Kachia Road Sabon Tasha Express Way, Adjacent to Ejeg Filling Station Television Village, 800104, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4462457,7.446516399999999",
+      "google_place_id": "ChIJvSuOdHU1TRARjAafmVpdRRo"
+    }
   },
   {
     "id": "73941",
@@ -269,7 +525,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6016084,
+      "longitude": 8.051974,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60312507989272,
+          "lng": 8.053942379892721
+        },
+        "southwest": {
+          "lat": 9.600425420107277,
+          "lng": 8.051242720107277
+        }
+      },
+      "formatted_address": "C/O First Ecwa Church, Kurmin Musa, Kachia Lga, Kaduna State Kachia, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6016084,8.051974",
+      "google_place_id": "ChIJLzbbDGtpUhARNayo_iLWrfc"
+    }
   },
   {
     "id": "73942",
@@ -285,7 +558,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5038616,
+      "longitude": 7.4354174,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50521142989272,
+          "lng": 7.436767229892721
+        },
+        "southwest": {
+          "lat": 10.50251177010728,
+          "lng": 7.434067570107278
+        }
+      },
+      "formatted_address": "GC3P+G5V, Constitution Rd, Kabala Doki 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5038616,7.4354174",
+      "google_place_id": "ChIJjzpPuMY1TRARISRJQXzHUJE"
+    }
   },
   {
     "id": "73943",
@@ -301,7 +591,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.8503743,
+      "longitude": 8.0142343,
+      "viewport": {
+        "northeast": {
+          "lat": 9.851366279892725,
+          "lng": 8.015715979892722
+        },
+        "southwest": {
+          "lat": 9.84866662010728,
+          "lng": 8.013016320107278
+        }
+      },
+      "formatted_address": "V227+4MX, 802101, Kachia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8503743,8.0142343",
+      "google_place_id": "ChIJm71c5KeJUhARR7JgOTbsSbg"
+    }
   },
   {
     "id": "73944",
@@ -317,7 +624,24 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "GC68+5HW, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJH4PqTOU1TRAR1ZqpYVlWVJY"
+    }
   },
   {
     "id": "73945",
@@ -333,6 +657,23 @@
     "local_government_id": "354",
     "local_government_name": "KACHIA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "GC68+5HW, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJH4PqTOU1TRAR1ZqpYVlWVJY"
+    }
   }
 ]

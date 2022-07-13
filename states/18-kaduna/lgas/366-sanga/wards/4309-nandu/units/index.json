@@ -13,7 +13,8 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82628",
@@ -29,7 +30,8 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82629",
@@ -45,7 +47,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.2294397,
+      "longitude": 8.4951777,
+      "viewport": {
+        "northeast": {
+          "lat": 9.23080037989272,
+          "lng": 8.496512879892723
+        },
+        "southwest": {
+          "lat": 9.228100720107276,
+          "lng": 8.49381322010728
+        }
+      },
+      "formatted_address": "6FHW+Q3F, 801107, Nandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2294397,8.4951777",
+      "google_place_id": "ChIJj_OAk_HTUxARsXM3Q7bGbqI"
+    }
   },
   {
     "id": "82630",
@@ -61,7 +80,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.3164678,
+      "longitude": 8.3333347,
+      "viewport": {
+        "northeast": {
+          "lat": 9.317817629892723,
+          "lng": 8.334684529892723
+        },
+        "southwest": {
+          "lat": 9.315117970107279,
+          "lng": 8.331984870107279
+        }
+      },
+      "formatted_address": "888M+H8P, 801142, Anga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3164678,8.3333347",
+      "google_place_id": "ChIJkfvJIWkxUhARJQNFQILBuJg"
+    }
   },
   {
     "id": "82631",
@@ -77,7 +113,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.228299999999999,
+      "longitude": 8.4072,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22959982989272,
+          "lng": 8.408486779892723
+        },
+        "southwest": {
+          "lat": 9.226900170107276,
+          "lng": 8.405787120107279
+        }
+      },
+      "formatted_address": "6CH4+8VG, 801107, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.228299999999999,8.4072",
+      "google_place_id": "ChIJcycWdNItUhARXMo-b3ewKgY"
+    }
   },
   {
     "id": "82632",
@@ -93,7 +146,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.228299999999999,
+      "longitude": 8.4072,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22959982989272,
+          "lng": 8.408486779892723
+        },
+        "southwest": {
+          "lat": 9.226900170107276,
+          "lng": 8.405787120107279
+        }
+      },
+      "formatted_address": "6CH4+8VG, 801107, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.228299999999999,8.4072",
+      "google_place_id": "ChIJcycWdNItUhARXMo-b3ewKgY"
+    }
   },
   {
     "id": "82633",
@@ -109,7 +179,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.8110406,
+      "longitude": 6.770719199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.8220003,
+          "lng": 6.7867266
+        },
+        "southwest": {
+          "lat": 10.8000805,
+          "lng": 6.7547118
+        }
+      },
+      "formatted_address": "800108, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8110406,6.770719199999999",
+      "google_place_id": "ChIJSZ1nOi0_sxER2rJI5vofxSs"
+    }
   },
   {
     "id": "82634",
@@ -125,7 +212,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.2049,
+      "longitude": 8.440299999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.20612767989272,
+          "lng": 8.441927049999997
+        },
+        "southwest": {
+          "lat": 9.203428020107276,
+          "lng": 8.435418849999996
+        }
+      },
+      "formatted_address": "6FXC6C3R+X43 Agom Nandu, Gwantu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2049,8.440299999999999",
+      "google_place_id": "ChIJzR-Pb3UtUhAR8x58JfZgNsc"
+    }
   },
   {
     "id": "82635",
@@ -141,7 +245,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.45,
+      "longitude": 8.049999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.451404529892722,
+          "lng": 8.05156217989272
+        },
+        "southwest": {
+          "lat": 9.448704870107278,
+          "lng": 8.048862520107276
+        }
+      },
+      "formatted_address": "F322+222, 801143, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.45,8.049999999999999",
+      "google_place_id": "ChIJ9UUeCKsUUhARS08PU4AKQN8"
+    }
   },
   {
     "id": "82636",
@@ -157,7 +278,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4367367,
+      "longitude": 7.465298400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43810247989272,
+          "lng": 7.466648079892723
+        },
+        "southwest": {
+          "lat": 10.43540282010728,
+          "lng": 7.463948420107279
+        }
+      },
+      "formatted_address": "CFP8+M4M, Tsaunin Kura 800104, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4367367,7.465298400000001",
+      "google_place_id": "ChIJob3MCdtJTRARLhc5t93Xp-c"
+    }
   },
   {
     "id": "82637",
@@ -173,7 +311,8 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82638",
@@ -189,7 +328,8 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82639",
@@ -205,7 +345,8 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82640",
@@ -221,7 +362,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.2311753,
+      "longitude": 8.4556722,
+      "viewport": {
+        "northeast": {
+          "lat": 9.232659829892723,
+          "lng": 8.457168979892723
+        },
+        "southwest": {
+          "lat": 9.22996017010728,
+          "lng": 8.454469320107279
+        }
+      },
+      "formatted_address": "6FJ4+F68, 801131, Gwantu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2311753,8.4556722",
+      "google_place_id": "ChIJTUO_yRstUhARLQx2zM__pk8"
+    }
   },
   {
     "id": "82641",
@@ -237,7 +395,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.1942901,
+      "longitude": 8.3727492,
+      "viewport": {
+        "northeast": {
+          "lat": 9.195639929892721,
+          "lng": 8.374099029892722
+        },
+        "southwest": {
+          "lat": 9.192940270107277,
+          "lng": 8.371399370107278
+        }
+      },
+      "formatted_address": "6FXC59VF+P3H Ungwar Goge Nandu Kaduna Gani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1942901,8.3727492",
+      "google_place_id": "ChIJ7RjuPPEvUhARHoEusk6gpew"
+    }
   },
   {
     "id": "82642",
@@ -253,7 +428,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.2288651,
+      "longitude": 8.495147099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.230301579892721,
+          "lng": 8.496484679892722
+        },
+        "southwest": {
+          "lat": 9.227601920107277,
+          "lng": 8.493785020107278
+        }
+      },
+      "formatted_address": "6FXC6FHW+G3P Nandu B, Nandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2288651,8.495147099999999",
+      "google_place_id": "ChIJDwz_R9DTUxARLiZqaY6aRSw"
+    }
   },
   {
     "id": "82643",
@@ -269,7 +461,24 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.25,
+      "longitude": 8.4499,
+      "viewport": {
+        "northeast": {
+          "lat": 9.251349829892725,
+          "lng": 8.451249829892724
+        },
+        "southwest": {
+          "lat": 9.24865017010728,
+          "lng": 8.44855017010728
+        }
+      },
+      "formatted_address": "7C2X+2XR, 801131, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.25,8.4499",
+      "google_place_id": "ChIJP3uRPXItUhARWj-E_ldB1o4"
+    }
   },
   {
     "id": "82644",
@@ -285,6 +494,23 @@
     "local_government_id": "366",
     "local_government_name": "SANGA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.2311753,
+      "longitude": 8.4556722,
+      "viewport": {
+        "northeast": {
+          "lat": 9.232659829892723,
+          "lng": 8.457168979892723
+        },
+        "southwest": {
+          "lat": 9.22996017010728,
+          "lng": 8.454469320107279
+        }
+      },
+      "formatted_address": "6FJ4+F68, 801131, Gwantu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2311753,8.4556722",
+      "google_place_id": "ChIJTUO_yRstUhARLQx2zM__pk8"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "81249",
@@ -29,7 +30,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2439678,
+      "longitude": 7.6105431,
+      "viewport": {
+        "northeast": {
+          "lat": 11.24520767989272,
+          "lng": 7.611935329892722
+        },
+        "southwest": {
+          "lat": 11.24250802010728,
+          "lng": 7.609235670107278
+        }
+      },
+      "formatted_address": "7F396JV6+H6M Unguwan Madaki Danmahawahi Kaduna, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2439678,7.6105431",
+      "google_place_id": "ChIJMVSXkbmJshERLPBscShciSw"
+    }
   },
   {
     "id": "81250",
@@ -45,7 +63,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81251",
@@ -61,7 +96,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2599555,
+      "longitude": 7.6483817,
+      "viewport": {
+        "northeast": {
+          "lat": 11.26124467989272,
+          "lng": 7.649418629892724
+        },
+        "southwest": {
+          "lat": 11.25854502010728,
+          "lng": 7.64671897010728
+        }
+      },
+      "formatted_address": "7J5X+X9J, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2599555,7.6483817",
+      "google_place_id": "ChIJW1tMOXF9shERe9N8WDbeoMQ"
+    }
   },
   {
     "id": "81252",
@@ -77,7 +129,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.281659,
+      "longitude": 7.663317299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28292287989272,
+          "lng": 7.664558629892723
+        },
+        "southwest": {
+          "lat": 11.28022322010728,
+          "lng": 7.661858970107279
+        }
+      },
+      "formatted_address": "7F397MJ7+M8M Maraban Danja Primary School, 812104, Kudan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.281659,7.663317299999999",
+      "google_place_id": "ChIJj1JRHAR9shERe816a212XmQ"
+    }
   },
   {
     "id": "81253",
@@ -93,7 +162,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81254",
@@ -109,7 +195,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81255",
@@ -125,7 +228,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2658847,
+      "longitude": 7.6480296,
+      "viewport": {
+        "northeast": {
+          "lat": 11.26719892989272,
+          "lng": 7.649420679892723
+        },
+        "southwest": {
+          "lat": 11.26449927010728,
+          "lng": 7.646721020107279
+        }
+      },
+      "formatted_address": "No 13 kofar kudu Hunkuyi, KADUNA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2658847,7.6480296",
+      "google_place_id": "ChIJZaOIHth9shERcMIJAGrlccs"
+    }
   },
   {
     "id": "81256",
@@ -141,7 +261,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81257",
@@ -157,7 +294,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81258",
@@ -173,7 +327,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81259",
@@ -189,7 +360,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81260",
@@ -205,7 +393,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5618219,
+      "longitude": 7.455412399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56322217989272,
+          "lng": 7.456759429892722
+        },
+        "southwest": {
+          "lat": 10.56052252010728,
+          "lng": 7.454059770107278
+        }
+      },
+      "formatted_address": "HF64+R56, Badarawa 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5618219,7.455412399999999",
+      "google_place_id": "ChIJGzL8OWy1shERXKuiXj25irY"
+    }
   },
   {
     "id": "81261",
@@ -221,7 +426,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2726458,
+      "longitude": 7.651529600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27398352989272,
+          "lng": 7.652864529892723
+        },
+        "southwest": {
+          "lat": 11.27128387010728,
+          "lng": 7.650164870107279
+        }
+      },
+      "formatted_address": "7MF2+3J2, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2726458,7.651529600000001",
+      "google_place_id": "ChIJ-5AJ1wt9shERnM348rjQxPM"
+    }
   },
   {
     "id": "81262",
@@ -237,7 +459,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81263",
@@ -253,7 +492,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2439678,
+      "longitude": 7.6105431,
+      "viewport": {
+        "northeast": {
+          "lat": 11.24520767989272,
+          "lng": 7.611935329892722
+        },
+        "southwest": {
+          "lat": 11.24250802010728,
+          "lng": 7.609235670107278
+        }
+      },
+      "formatted_address": "7F396JV6+H6M Unguwan Madaki Danmahawahi Kaduna, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2439678,7.6105431",
+      "google_place_id": "ChIJMVSXkbmJshERLPBscShciSw"
+    }
   },
   {
     "id": "81264",
@@ -269,7 +525,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2439678,
+      "longitude": 7.6105431,
+      "viewport": {
+        "northeast": {
+          "lat": 11.24520767989272,
+          "lng": 7.611935329892722
+        },
+        "southwest": {
+          "lat": 11.24250802010728,
+          "lng": 7.609235670107278
+        }
+      },
+      "formatted_address": "7F396JV6+H6M Unguwan Madaki Danmahawahi Kaduna, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2439678,7.6105431",
+      "google_place_id": "ChIJMVSXkbmJshERLPBscShciSw"
+    }
   },
   {
     "id": "81265",
@@ -285,7 +558,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   },
   {
     "id": "81266",
@@ -301,7 +591,24 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5923268,
+      "longitude": 7.4691484,
+      "viewport": {
+        "northeast": {
+          "lat": 10.59366047989272,
+          "lng": 7.470456679892723
+        },
+        "southwest": {
+          "lat": 10.59096082010728,
+          "lng": 7.467757020107279
+        }
+      },
+      "formatted_address": "No 16, Mansur Street, Waziri, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5923268,7.4691484",
+      "google_place_id": "ChIJgxs1Pbq1shERC0xfNta1KAg"
+    }
   },
   {
     "id": "81267",
@@ -317,6 +624,23 @@
     "local_government_id": "362",
     "local_government_name": "KUDAN",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2747215,
+      "longitude": 7.653954700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27628127989272,
+          "lng": 7.655179629892721
+        },
+        "southwest": {
+          "lat": 11.27358162010728,
+          "lng": 7.652479970107277
+        }
+      },
+      "formatted_address": "7MF3+VHP, 812104, Hunkuyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2747215,7.653954700000001",
+      "google_place_id": "ChIJe7yyxQl9shER5Dz8KCRn3HI"
+    }
   }
 ]

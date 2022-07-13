@@ -13,7 +13,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79167",
@@ -29,7 +30,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79168",
@@ -45,7 +47,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79169",
@@ -61,7 +64,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79170",
@@ -77,7 +81,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79171",
@@ -93,7 +98,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5781472,
+      "longitude": 7.443140199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57949057989272,
+          "lng": 7.44465617989272
+        },
+        "southwest": {
+          "lat": 10.57679092010728,
+          "lng": 7.441956520107277
+        }
+      },
+      "formatted_address": "7F29HCHV+77C, Hayan Banki 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5781472,7.443140199999999",
+      "google_place_id": "ChIJKyUGgOq1shERsTB9TTll2RI"
+    }
   },
   {
     "id": "79172",
@@ -109,7 +131,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4984264,
+      "longitude": 7.4422915,
+      "viewport": {
+        "northeast": {
+          "lat": 10.49978377989272,
+          "lng": 7.443665629892722
+        },
+        "southwest": {
+          "lat": 10.49708412010728,
+          "lng": 7.440965970107278
+        }
+      },
+      "formatted_address": "13 Rock Rd, Kabala Doki 800212, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4984264,7.4422915",
+      "google_place_id": "ChIJhy69Cgq1shERgtfbq-eAKP8"
+    }
   },
   {
     "id": "79173",
@@ -125,7 +164,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5406086,
+      "longitude": 7.441624999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54198842989272,
+          "lng": 7.44296502989272
+        },
+        "southwest": {
+          "lat": 10.53928877010728,
+          "lng": 7.440265370107277
+        }
+      },
+      "formatted_address": "12, Galadima Road L.E.A Hayin Banki Dandali Bus Stop, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5406086,7.441624999999999",
+      "google_place_id": "ChIJB3fa3mC1shERrLgKP57T9Q4"
+    }
   },
   {
     "id": "79174",
@@ -141,7 +197,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5787717,
+      "longitude": 7.4383683,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58011257989272,
+          "lng": 7.43971482989272
+        },
+        "southwest": {
+          "lat": 10.57741292010728,
+          "lng": 7.437015170107276
+        }
+      },
+      "formatted_address": "HCHQ+G85, Na Taala Road, Hayan Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5787717,7.4383683",
+      "google_place_id": "ChIJ3_SnmxS1shERQgW9RMnN-gE"
+    }
   },
   {
     "id": "79175",
@@ -157,7 +230,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5219759,
+      "longitude": 7.466366300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52342257989272,
+          "lng": 7.467635229892723
+        },
+        "southwest": {
+          "lat": 10.52072292010728,
+          "lng": 7.464935570107279
+        }
+      },
+      "formatted_address": "GFC8+QGX, Ramat Rd, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5219759,7.466366300000001",
+      "google_place_id": "ChIJ4-EJP89KTRARkQcF99oR8W0"
+    }
   },
   {
     "id": "79176",
@@ -173,7 +263,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.586704,
+      "longitude": 7.4424655,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58807892989272,
+          "lng": 7.443822079892722
+        },
+        "southwest": {
+          "lat": 10.58537927010728,
+          "lng": 7.441122420107278
+        }
+      },
+      "formatted_address": "Shop A24/25, Airforce Mami Market, Kawo, Kaduna North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.586704,7.4424655",
+      "google_place_id": "ChIJLUxXa4a1shERZDrVpFhCebM"
+    }
   },
   {
     "id": "79177",
@@ -189,7 +296,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.55001,
+      "longitude": 7.412990000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55121597989272,
+          "lng": 7.414417629892722
+        },
+        "southwest": {
+          "lat": 10.54851632010728,
+          "lng": 7.411717970107278
+        }
+      },
+      "formatted_address": "HC27+255, Abakpa 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.55001,7.412990000000001",
+      "google_place_id": "ChIJ4auHMcHKshERpjaE6jBB3LU"
+    }
   },
   {
     "id": "79178",
@@ -205,7 +329,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5320907,
+      "longitude": 7.425937199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53347957989272,
+          "lng": 7.427250379892722
+        },
+        "southwest": {
+          "lat": 10.53077992010728,
+          "lng": 7.424550720107278
+        }
+      },
+      "formatted_address": "Pmb 2023, Sokoto Road, By, Bank Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5320907,7.425937199999999",
+      "google_place_id": "ChIJD_xJNk01TRARxXCqJfiyfCY"
+    }
   },
   {
     "id": "79179",
@@ -221,7 +362,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.586802,
+      "longitude": 7.441588799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58810912989272,
+          "lng": 7.442925879892722
+        },
+        "southwest": {
+          "lat": 10.58540947010728,
+          "lng": 7.440226220107278
+        }
+      },
+      "formatted_address": "HCPR+PJG, A2, Hayan Banki 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.586802,7.441588799999999",
+      "google_place_id": "ChIJa_w-OIa1shERrf3SjRaYqC4"
+    }
   },
   {
     "id": "79180",
@@ -237,7 +395,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5869782,
+      "longitude": 7.423129100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58834467989272,
+          "lng": 7.424507779892722
+        },
+        "southwest": {
+          "lat": 10.58564502010728,
+          "lng": 7.421808120107278
+        }
+      },
+      "formatted_address": "Mando Road, P.M.B. 2134, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5869782,7.423129100000001",
+      "google_place_id": "ChIJkWSLcYa1shERVqZ_fesm2f0"
+    }
   },
   {
     "id": "79181",
@@ -253,7 +428,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5844964,
+      "longitude": 7.420400000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58585337989272,
+          "lng": 7.421727529892721
+        },
+        "southwest": {
+          "lat": 10.58315372010728,
+          "lng": 7.419027870107278
+        }
+      },
+      "formatted_address": "AB 2 Constitution Rd, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5844964,7.420400000000001",
+      "google_place_id": "ChIJ0Wxy52bKshERl6xZrEHGtxk"
+    }
   },
   {
     "id": "79182",
@@ -269,7 +461,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5913592,
+      "longitude": 7.4121685,
+      "viewport": {
+        "northeast": {
+          "lat": 10.59271912989272,
+          "lng": 7.413521129892723
+        },
+        "southwest": {
+          "lat": 10.59001947010728,
+          "lng": 7.41082147010728
+        }
+      },
+      "formatted_address": "HCR6+HV8, 802151, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5913592,7.4121685",
+      "google_place_id": "ChIJEfO3dUPKshERi3nkhB-Ru6s"
+    }
   },
   {
     "id": "79183",
@@ -285,7 +494,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5547086,
+      "longitude": 7.440450899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55606022989272,
+          "lng": 7.441821629892722
+        },
+        "southwest": {
+          "lat": 10.55336057010728,
+          "lng": 7.439121970107278
+        }
+      },
+      "formatted_address": "G22 Unguwakanawa St, Ungwan Shanu 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5547086,7.440450899999999",
+      "google_place_id": "ChIJq1GCpF01TRAR2mk5OEQYTr0"
+    }
   },
   {
     "id": "79184",
@@ -301,7 +527,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5564647,
+      "longitude": 7.442909599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55773392989272,
+          "lng": 7.444279629892722
+        },
+        "southwest": {
+          "lat": 10.55503427010728,
+          "lng": 7.441579970107278
+        }
+      },
+      "formatted_address": "7F29HC4V+J56, Unguwakanawa St, Ungwan Shanu 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5564647,7.442909599999999",
+      "google_place_id": "ChIJIayWHPS1shER2uJug3JeBN8"
+    }
   },
   {
     "id": "79185",
@@ -317,7 +560,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5632214,
+      "longitude": 7.4300234,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5734454,
+          "lng": 7.443546599999999
+        },
+        "southwest": {
+          "lat": 10.5503573,
+          "lng": 7.415245799999999
+        }
+      },
+      "formatted_address": "Ungwan Kanawa 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5632214,7.4300234",
+      "google_place_id": "ChIJIZIRSJrKshERxWeT73JC_9s"
+    }
   },
   {
     "id": "79186",
@@ -333,7 +593,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "GC68+5HW, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJH4PqTOU1TRAR1ZqpYVlWVJY"
+    }
   },
   {
     "id": "79187",
@@ -349,7 +626,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.466411,
+      "longitude": 7.4201522,
+      "viewport": {
+        "northeast": {
+          "lat": 10.46777257989272,
+          "lng": 7.421393279892722
+        },
+        "southwest": {
+          "lat": 10.46507292010728,
+          "lng": 7.418693620107278
+        }
+      },
+      "formatted_address": "FC8C+H36, Kakuri 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.466411,7.4201522",
+      "google_place_id": "ChIJ8U8RQes1TRARUwXNbT7_HvE"
+    }
   },
   {
     "id": "79188",
@@ -365,7 +659,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5323465,
+      "longitude": 7.430592799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53366532989272,
+          "lng": 7.43193692989272
+        },
+        "southwest": {
+          "lat": 10.53096567010727,
+          "lng": 7.429237270107276
+        }
+      },
+      "formatted_address": "No. 4B Alimi Road By Sambo Road, Off Sokoto Road,Kaduna Birnin Gwari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5323465,7.430592799999999",
+      "google_place_id": "ChIJQ99kEeg1TRAR04O6jH79Kuk"
+    }
   },
   {
     "id": "79189",
@@ -381,7 +692,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.52042,
+      "longitude": 7.4168826,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52181627989272,
+          "lng": 7.41814237989272
+        },
+        "southwest": {
+          "lat": 10.51911662010728,
+          "lng": 7.415442720107277
+        }
+      },
+      "formatted_address": "GCC8+5Q6, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.52042,7.4168826",
+      "google_place_id": "ChIJm1Hr80c1TRARYj1VG5NpdIo"
+    }
   },
   {
     "id": "79190",
@@ -397,7 +725,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5787717,
+      "longitude": 7.4383683,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58011257989272,
+          "lng": 7.43971482989272
+        },
+        "southwest": {
+          "lat": 10.57741292010728,
+          "lng": 7.437015170107276
+        }
+      },
+      "formatted_address": "HCHQ+G85, Na Taala Road, Hayan Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5787717,7.4383683",
+      "google_place_id": "ChIJ3_SnmxS1shERQgW9RMnN-gE"
+    }
   },
   {
     "id": "79191",
@@ -413,7 +758,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4719494,
+      "longitude": 7.4323988,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47322437989272,
+          "lng": 7.433746429892722
+        },
+        "southwest": {
+          "lat": 10.47052472010728,
+          "lng": 7.431046770107278
+        }
+      },
+      "formatted_address": "20C Aliyu Makama Road, Barnawa 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4719494,7.4323988",
+      "google_place_id": "ChIJk3dls441TRARSu6C9Lo05Sw"
+    }
   },
   {
     "id": "79192",
@@ -429,7 +791,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5780309,
+      "longitude": 7.4409756,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57939272989272,
+          "lng": 7.442326629892722
+        },
+        "southwest": {
+          "lat": 10.57669307010728,
+          "lng": 7.439626970107278
+        }
+      },
+      "formatted_address": "HCHR+69Q, Hayan Banki 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5780309,7.4409756",
+      "google_place_id": "ChIJP5V9SeO1shERK4Re3N5jko0"
+    }
   },
   {
     "id": "79193",
@@ -445,7 +824,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5787717,
+      "longitude": 7.4383683,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58011257989272,
+          "lng": 7.43971482989272
+        },
+        "southwest": {
+          "lat": 10.57741292010728,
+          "lng": 7.437015170107276
+        }
+      },
+      "formatted_address": "HCHQ+G85, Na Taala Road, Hayan Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5787717,7.4383683",
+      "google_place_id": "ChIJ3_SnmxS1shERQgW9RMnN-gE"
+    }
   },
   {
     "id": "79194",
@@ -461,7 +857,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5811621,
+      "longitude": 7.439487599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5869971,
+          "lng": 7.4466724
+        },
+        "southwest": {
+          "lat": 10.5778575,
+          "lng": 7.430536200000001
+        }
+      },
+      "formatted_address": "Hayin Banki Kawo, Hayan Banki 800283, Kurmin Mashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5811621,7.439487599999999",
+      "google_place_id": "ChIJM8D_7IC1shERDdW69pe5qPs"
+    }
   },
   {
     "id": "79195",
@@ -477,7 +890,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5761204,
+      "longitude": 7.4396616,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57749917989272,
+          "lng": 7.441000729892721
+        },
+        "southwest": {
+          "lat": 10.57479952010728,
+          "lng": 7.438301070107277
+        }
+      },
+      "formatted_address": "F16 ARMY STREET, SATELLITE AREA, Hayin Banki, DANMANI, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5761204,7.4396616",
+      "google_place_id": "ChIJo7Urf5S1shERpNu1CEGfdSA"
+    }
   },
   {
     "id": "79196",
@@ -493,7 +923,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5787717,
+      "longitude": 7.4383683,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58011257989272,
+          "lng": 7.43971482989272
+        },
+        "southwest": {
+          "lat": 10.57741292010728,
+          "lng": 7.437015170107276
+        }
+      },
+      "formatted_address": "HCHQ+G85, Na Taala Road, Hayan Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5787717,7.4383683",
+      "google_place_id": "ChIJ3_SnmxS1shERQgW9RMnN-gE"
+    }
   },
   {
     "id": "79197",
@@ -509,7 +956,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.52095,
+      "longitude": 7.425470000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52229557989272,
+          "lng": 7.426829379892722
+        },
+        "southwest": {
+          "lat": 10.51959592010728,
+          "lng": 7.424129720107278
+        }
+      },
+      "formatted_address": "GCCG+95H, Kasuwa Barchi Road, Tundun Wada kaduna North, Kaduna North, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.52095,7.425470000000001",
+      "google_place_id": "ChIJHzRYZEU1TRARKjQz8LUZoHc"
+    }
   },
   {
     "id": "79198",
@@ -525,7 +989,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5827187,
+      "longitude": 7.4327273,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6186075,
+          "lng": 7.465639899999999
+        },
+        "southwest": {
+          "lat": 10.5493987,
+          "lng": 7.412528899999999
+        }
+      },
+      "formatted_address": "Hayin Banki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5827187,7.4327273",
+      "google_place_id": "ChIJ2XPmaYe1shERYq51IDv0SOM"
+    }
   },
   {
     "id": "79199",
@@ -541,7 +1022,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5787717,
+      "longitude": 7.4383683,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58011257989272,
+          "lng": 7.43971482989272
+        },
+        "southwest": {
+          "lat": 10.57741292010728,
+          "lng": 7.437015170107276
+        }
+      },
+      "formatted_address": "HCHQ+G85, Na Taala Road, Hayan Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5787717,7.4383683",
+      "google_place_id": "ChIJ3_SnmxS1shERQgW9RMnN-gE"
+    }
   },
   {
     "id": "79200",
@@ -557,7 +1055,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.545185,
+      "longitude": 7.4341459,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54653482989272,
+          "lng": 7.435495729892721
+        },
+        "southwest": {
+          "lat": 10.54383517010728,
+          "lng": 7.432796070107277
+        }
+      },
+      "formatted_address": "3 Abdullahi Yaro Rd, City Centre 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.545185,7.4341459",
+      "google_place_id": "EjgzIEFiZHVsbGFoaSBZYXJvIFJkLCBDaXR5IENlbnRyZSA4MDAyODMsIEthZHVuYSwgTmlnZXJpYSIwEi4KFAoSCcGaOG2myrIREV3KkihMLkGXEAMqFAoSCbN_SumlyrIRESOXmgA11TLG"
+    }
   },
   {
     "id": "79201",
@@ -573,7 +1088,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5446982,
+      "longitude": 7.451150200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54604802989272,
+          "lng": 7.452500029892721
+        },
+        "southwest": {
+          "lat": 10.54334837010728,
+          "lng": 7.449800370107277
+        }
+      },
+      "formatted_address": "30 Sule Rd, City Centre 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5446982,7.451150200000001",
+      "google_place_id": "Ei8zMCBTdWxlIFJkLCBDaXR5IENlbnRyZSA4MDAyODMsIEthZHVuYSwgTmlnZXJpYSIwEi4KFAoSCZN_RWhFtbIREVSvAZwVkIVoEB4qFAoSCW0fUadFtbIREUVIasEsL2uA"
+    }
   },
   {
     "id": "79202",
@@ -589,7 +1121,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79203",
@@ -605,7 +1138,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.521512,
+      "longitude": 7.425497999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52291267989272,
+          "lng": 7.426717229892722
+        },
+        "southwest": {
+          "lat": 10.52021302010728,
+          "lng": 7.424017570107278
+        }
+      },
+      "formatted_address": "GCCG+J55, Birnin Kudu Rd, Sabon Gari 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.521512,7.425497999999999",
+      "google_place_id": "ChIJkemau0c1TRARe2AZ2FBkXkI"
+    }
   },
   {
     "id": "79204",
@@ -621,7 +1171,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79205",
@@ -637,7 +1188,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5787717,
+      "longitude": 7.4383683,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58011257989272,
+          "lng": 7.43971482989272
+        },
+        "southwest": {
+          "lat": 10.57741292010728,
+          "lng": 7.437015170107276
+        }
+      },
+      "formatted_address": "HCHQ+G85, Na Taala Road, Hayan Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5787717,7.4383683",
+      "google_place_id": "ChIJ3_SnmxS1shERQgW9RMnN-gE"
+    }
   },
   {
     "id": "79206",
@@ -653,7 +1221,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5618144,
+      "longitude": 7.4383891,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56316422989272,
+          "lng": 7.439738929892722
+        },
+        "southwest": {
+          "lat": 10.56046457010728,
+          "lng": 7.437039270107278
+        }
+      },
+      "formatted_address": "Barracks, Ungwan Kanawa 800283, Ungwan Kanawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5618144,7.4383891",
+      "google_place_id": "ChIJE6atdmK1shERaMc_hzhazwo"
+    }
   },
   {
     "id": "79207",
@@ -669,7 +1254,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5618144,
+      "longitude": 7.4383891,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56316422989272,
+          "lng": 7.439738929892722
+        },
+        "southwest": {
+          "lat": 10.56046457010728,
+          "lng": 7.437039270107278
+        }
+      },
+      "formatted_address": "Barracks, Ungwan Kanawa 800283, Ungwan Kanawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5618144,7.4383891",
+      "google_place_id": "ChIJE6atdmK1shERaMc_hzhazwo"
+    }
   },
   {
     "id": "79208",
@@ -685,7 +1287,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.581898,
+      "longitude": 7.445611999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58325077989272,
+          "lng": 7.446953629892723
+        },
+        "southwest": {
+          "lat": 10.58055112010728,
+          "lng": 7.444253970107279
+        }
+      },
+      "formatted_address": "30 Zaria Rd, Hayan Banki 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.581898,7.445611999999999",
+      "google_place_id": "ChIJ-cWChYO1shERxQO7B2FlPSc"
+    }
   },
   {
     "id": "79209",
@@ -701,7 +1320,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5810887,
+      "longitude": 7.439492099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58244667989272,
+          "lng": 7.440898979892721
+        },
+        "southwest": {
+          "lat": 10.57974702010728,
+          "lng": 7.438199320107278
+        }
+      },
+      "formatted_address": "No. 1/2 PTF Road, Kawo, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5810887,7.439492099999999",
+      "google_place_id": "ChIJE0vkSHO1shERa2TOpLd2qMY"
+    }
   },
   {
     "id": "79210",
@@ -717,7 +1353,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79211",
@@ -733,7 +1370,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5847922,
+      "longitude": 7.439718399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58596162989272,
+          "lng": 7.442717329892722
+        },
+        "southwest": {
+          "lat": 10.58326197010728,
+          "lng": 7.440017670107278
+        }
+      },
+      "formatted_address": "8 Yoruba Street, Off Zaria Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5847922,7.439718399999999",
+      "google_place_id": "ChIJxyiHC4e1shERZj3s7X5sAA0"
+    }
   },
   {
     "id": "79212",
@@ -749,7 +1403,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5470248,
+      "longitude": 7.4490971,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54827412989272,
+          "lng": 7.450514979892723
+        },
+        "southwest": {
+          "lat": 10.54557447010728,
+          "lng": 7.447815320107279
+        }
+      },
+      "formatted_address": "19 Isa Kaita Road, City Centre 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5470248,7.4490971",
+      "google_place_id": "ChIJtahibbW1shER6xD-8r-Xfgo"
+    }
   },
   {
     "id": "79213",
@@ -765,7 +1436,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5030771,
+      "longitude": 7.4268865,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50439452989272,
+          "lng": 7.428290729892722
+        },
+        "southwest": {
+          "lat": 10.50169487010728,
+          "lng": 7.425591070107278
+        }
+      },
+      "formatted_address": "15/17 Gwari Rd, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5030771,7.4268865",
+      "google_place_id": "ChIJS38fZ281TRARSYWrxHXoXMc"
+    }
   },
   {
     "id": "79214",
@@ -781,7 +1469,8 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "79215",
@@ -797,7 +1486,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5827187,
+      "longitude": 7.4327273,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6186075,
+          "lng": 7.465639899999999
+        },
+        "southwest": {
+          "lat": 10.5493987,
+          "lng": 7.412528899999999
+        }
+      },
+      "formatted_address": "Hayin Banki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5827187,7.4327273",
+      "google_place_id": "ChIJ2XPmaYe1shERYq51IDv0SOM"
+    }
   },
   {
     "id": "79216",
@@ -813,7 +1519,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5776379,
+      "longitude": 7.4435237,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57896712989272,
+          "lng": 7.444933829892722
+        },
+        "southwest": {
+          "lat": 10.57626747010728,
+          "lng": 7.442234170107279
+        }
+      },
+      "formatted_address": "No. 3, Rail-Line, Hayin Banki, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5776379,7.4435237",
+      "google_place_id": "ChIJ06ObjPK1shEReMXMzpOf87k"
+    }
   },
   {
     "id": "79217",
@@ -829,7 +1552,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571977,
+      "longitude": 7.443513599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55855877989272,
+          "lng": 7.444971529892721
+        },
+        "southwest": {
+          "lat": 10.55585912010728,
+          "lng": 7.442271870107278
+        }
+      },
+      "formatted_address": "G5 Mamma, Jallo Street, Ungwan Kanawa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571977,7.443513599999999",
+      "google_place_id": "ChIJG98kk8C1shERDz9H9MJ-Xdk"
+    }
   },
   {
     "id": "79218",
@@ -845,7 +1585,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5632214,
+      "longitude": 7.4300234,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56455342989272,
+          "lng": 7.431373329892722
+        },
+        "southwest": {
+          "lat": 10.56185377010728,
+          "lng": 7.428673670107278
+        }
+      },
+      "formatted_address": "NO. DD2 ALIYU MOH'D ROAD, Ungwan Kanawa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5632214,7.4300234",
+      "google_place_id": "ChIJKV_22zfLshERFt898RzW_Ts"
+    }
   },
   {
     "id": "79219",
@@ -861,7 +1618,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5538794,
+      "longitude": 7.440922299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55522922989272,
+          "lng": 7.44227212989272
+        },
+        "southwest": {
+          "lat": 10.55252957010727,
+          "lng": 7.439572470107276
+        }
+      },
+      "formatted_address": "Ladan Rd, Ungwan Shanu 800283, Ungwan Kanawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5538794,7.440922299999999",
+      "google_place_id": "ChIJ-ZqdI161shERbSYSUn-o0sI"
+    }
   },
   {
     "id": "79220",
@@ -877,7 +1651,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5141079,
+      "longitude": 7.4288859,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51545772989272,
+          "lng": 7.430235729892722
+        },
+        "southwest": {
+          "lat": 10.51275807010728,
+          "lng": 7.427536070107278
+        }
+      },
+      "formatted_address": "B26/S4, Doka Line, Lagos Street, near Usama Line, Central Market, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5141079,7.4288859",
+      "google_place_id": "ChIJPbk7r8E1TRAR4c2DpM-JDGM"
+    }
   },
   {
     "id": "79221",
@@ -893,7 +1684,24 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5827187,
+      "longitude": 7.4327273,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6186075,
+          "lng": 7.465639899999999
+        },
+        "southwest": {
+          "lat": 10.5493987,
+          "lng": 7.412528899999999
+        }
+      },
+      "formatted_address": "Hayin Banki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5827187,7.4327273",
+      "google_place_id": "ChIJ2XPmaYe1shERYq51IDv0SOM"
+    }
   },
   {
     "id": "79222",
@@ -909,6 +1717,23 @@
     "local_government_id": "355",
     "local_government_name": "KADUNA NORTH",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5811621,
+      "longitude": 7.439487599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5869971,
+          "lng": 7.4466724
+        },
+        "southwest": {
+          "lat": 10.5778575,
+          "lng": 7.430536200000001
+        }
+      },
+      "formatted_address": "Hayin Banki Kawo, Hayan Banki 800283, Kurmin Mashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5811621,7.439487599999999",
+      "google_place_id": "ChIJM8D_7IC1shERDdW69pe5qPs"
+    }
   }
 ]

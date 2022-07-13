@@ -13,7 +13,8 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82309",
@@ -29,7 +30,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.51235,
+      "longitude": 7.428449999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51371382989272,
+          "lng": 7.427805229892722
+        },
+        "southwest": {
+          "lat": 10.51101417010728,
+          "lng": 7.425105570107278
+        }
+      },
+      "formatted_address": "AH 7, Kastina Road, kaduna north, Kaduna North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.51235,7.428449999999999",
+      "google_place_id": "ChIJ7Yo8I101TRARBREgec9bD2c"
+    }
   },
   {
     "id": "82310",
@@ -45,7 +63,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1231453,
+      "longitude": 7.732164800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12446587989272,
+          "lng": 7.733446229892723
+        },
+        "southwest": {
+          "lat": 11.12176622010728,
+          "lng": 7.73074657010728
+        }
+      },
+      "formatted_address": "Alhaji Street, Sabon Gari 810103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231453,7.732164800000001",
+      "google_place_id": "ChIJTQ67oCuDshERJ3obZQalTbo"
+    }
   },
   {
     "id": "82311",
@@ -61,7 +96,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1252814,
+      "longitude": 7.703656099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.144554,
+          "lng": 7.7210303
+        },
+        "southwest": {
+          "lat": 11.1023146,
+          "lng": 7.6762212
+        }
+      },
+      "formatted_address": "Hanwa, 810103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1252814,7.703656099999999",
+      "google_place_id": "ChIJk7bELoiDshERi8GX1OanrXk"
+    }
   },
   {
     "id": "82312",
@@ -77,7 +129,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1254443,
+      "longitude": 7.706304999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12679417989272,
+          "lng": 7.707648679892721
+        },
+        "southwest": {
+          "lat": 11.12409452010728,
+          "lng": 7.704949020107277
+        }
+      },
+      "formatted_address": "4PG4+5GQ, Unnamed Road, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1254443,7.706304999999999",
+      "google_place_id": "ChIJx83L1I2DshERUtD6JW7pbkQ"
+    }
   },
   {
     "id": "82313",
@@ -93,7 +162,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1254443,
+      "longitude": 7.706304999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12679417989272,
+          "lng": 7.707648679892721
+        },
+        "southwest": {
+          "lat": 11.12409452010728,
+          "lng": 7.704949020107277
+        }
+      },
+      "formatted_address": "4PG4+5GQ, Unnamed Road, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1254443,7.706304999999999",
+      "google_place_id": "ChIJx83L1I2DshERUtD6JW7pbkQ"
+    }
   },
   {
     "id": "82314",
@@ -109,7 +195,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1303314,
+      "longitude": 7.702352299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13168122989272,
+          "lng": 7.703702129892721
+        },
+        "southwest": {
+          "lat": 11.12898157010728,
+          "lng": 7.701002470107277
+        }
+      },
+      "formatted_address": "ZARIA - KADUNA BYE PASS SANGA, Kwangila Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1303314,7.702352299999999",
+      "google_place_id": "ChIJl8qcHliDshERzjfP4hRDad8"
+    }
   },
   {
     "id": "82315",
@@ -125,7 +228,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1247243,
+      "longitude": 7.725376,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12605937989272,
+          "lng": 7.726866129892722
+        },
+        "southwest": {
+          "lat": 11.12335972010728,
+          "lng": 7.724166470107278
+        }
+      },
+      "formatted_address": "Yan Lemu, Randan Kano, off First prestige, Sabon Gari, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1247243,7.725376",
+      "google_place_id": "ChIJMforF_eDshERy7s8JabK0AY"
+    }
   },
   {
     "id": "82316",
@@ -141,7 +261,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1282217,
+      "longitude": 7.699993000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12947102989272,
+          "lng": 7.70135892989272
+        },
+        "southwest": {
+          "lat": 11.12677137010728,
+          "lng": 7.698659270107276
+        }
+      },
+      "formatted_address": "2 Aunty Grace Schools Road Hanwa Low Cost Estate, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1282217,7.699993000000001",
+      "google_place_id": "ChIJhVgX9oqDshERVjbpc_GQmnI"
+    }
   },
   {
     "id": "82317",
@@ -157,7 +294,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1280323,
+      "longitude": 7.6967724,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12931702989272,
+          "lng": 7.698023879892721
+        },
+        "southwest": {
+          "lat": 11.12661737010728,
+          "lng": 7.695324220107278
+        }
+      },
+      "formatted_address": "Hanwa Lowcost, 810211, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1280323,7.6967724",
+      "google_place_id": "ChIJxWwmE5KFshERs-bBZP5GxXc"
+    }
   },
   {
     "id": "82318",
@@ -173,7 +327,8 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82319",
@@ -189,7 +344,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1119216,
+      "longitude": 7.732295100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11330277989272,
+          "lng": 7.733647929892723
+        },
+        "southwest": {
+          "lat": 11.11060312010728,
+          "lng": 7.730948270107279
+        }
+      },
+      "formatted_address": "28 DOGON BAUCHI ROAD SABON GARI ZARIA, Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1119216,7.732295100000001",
+      "google_place_id": "ChIJ_5QJcE2DshER1b8pTuRyyoE"
+    }
   },
   {
     "id": "82320",
@@ -205,7 +377,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1293828,
+      "longitude": 7.7039346,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13076062989272,
+          "lng": 7.705300879892723
+        },
+        "southwest": {
+          "lat": 11.12806097010728,
+          "lng": 7.70260122010728
+        }
+      },
+      "formatted_address": "4PH3+QH3, Kaduna-Kano Rd, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1293828,7.7039346",
+      "google_place_id": "ChIJM1jreFiFshERUD2ryZsynhc"
+    }
   },
   {
     "id": "82321",
@@ -221,7 +410,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1293828,
+      "longitude": 7.7039346,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13076062989272,
+          "lng": 7.705300879892723
+        },
+        "southwest": {
+          "lat": 11.12806097010728,
+          "lng": 7.70260122010728
+        }
+      },
+      "formatted_address": "4PH3+QH3, Kaduna-Kano Rd, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1293828,7.7039346",
+      "google_place_id": "ChIJM1jreFiFshERUD2ryZsynhc"
+    }
   },
   {
     "id": "82322",
@@ -237,7 +443,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1231095,
+      "longitude": 7.732069099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12446317989272,
+          "lng": 7.733438979892723
+        },
+        "southwest": {
+          "lat": 11.12176352010728,
+          "lng": 7.730739320107279
+        }
+      },
+      "formatted_address": "No 12 Park Road Sabon Gari Zaria, Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231095,7.732069099999999",
+      "google_place_id": "ChIJC21-LHqDshERiAiXeDuK0jc"
+    }
   },
   {
     "id": "82323",
@@ -253,7 +476,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1241055,
+      "longitude": 7.7114688,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12547627989272,
+          "lng": 7.712861279892723
+        },
+        "southwest": {
+          "lat": 11.12277662010728,
+          "lng": 7.710161620107279
+        }
+      },
+      "formatted_address": "7F394PF6+JJM HANWA VILLAGE HANWA Kaduna, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1241055,7.7114688",
+      "google_place_id": "ChIJwz_o8_2DshERqUuYajhSemU"
+    }
   },
   {
     "id": "82324",
@@ -269,7 +509,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1231095,
+      "longitude": 7.732069099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12446317989272,
+          "lng": 7.733438979892723
+        },
+        "southwest": {
+          "lat": 11.12176352010728,
+          "lng": 7.730739320107279
+        }
+      },
+      "formatted_address": "No 1 Manchester Road PZ Sabon Gari, Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231095,7.732069099999999",
+      "google_place_id": "ChIJ76lEPAuDshER1rAyibNGQWY"
+    }
   },
   {
     "id": "82325",
@@ -285,7 +542,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1231095,
+      "longitude": 7.732069099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12446317989272,
+          "lng": 7.733438979892723
+        },
+        "southwest": {
+          "lat": 11.12176352010728,
+          "lng": 7.730739320107279
+        }
+      },
+      "formatted_address": "No 7 Park Road, Sabon Gari 810103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231095,7.732069099999999",
+      "google_place_id": "ChIJcYf2TleDshERpnd1L0uS-eU"
+    }
   },
   {
     "id": "82326",
@@ -301,7 +575,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.08192,
+      "longitude": 7.715954999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08329417989272,
+          "lng": 7.717214679892722
+        },
+        "southwest": {
+          "lat": 11.08059452010728,
+          "lng": 7.714515020107278
+        }
+      },
+      "formatted_address": "2 Circular Road 800212, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.08192,7.715954999999999",
+      "google_place_id": "ChIJ5ZkiE0GDshERnv1rCpg67UM"
+    }
   },
   {
     "id": "82327",
@@ -317,7 +608,8 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "82328",
@@ -333,7 +625,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1238402,
+      "longitude": 7.691184199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12517142989272,
+          "lng": 7.692579029892722
+        },
+        "southwest": {
+          "lat": 11.12247177010728,
+          "lng": 7.689879370107279
+        }
+      },
+      "formatted_address": "Along Hanyan Gidan Addu'a Graceland, Hanwa New Extension, Zaria Sokoto Rd, Sabon Gari, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1238402,7.691184199999999",
+      "google_place_id": "ChIJET2gFnGEshERRdLVOie4YEw"
+    }
   },
   {
     "id": "82329",
@@ -349,7 +658,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1252008,
+      "longitude": 7.711463500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12657792989272,
+          "lng": 7.712829329892722
+        },
+        "southwest": {
+          "lat": 11.12387827010728,
+          "lng": 7.710129670107278
+        }
+      },
+      "formatted_address": "No 12 Sokoto Road Hanwa Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1252008,7.711463500000001",
+      "google_place_id": "ChIJO-D1_wmDshERroNndx9RpcI"
+    }
   },
   {
     "id": "82330",
@@ -365,7 +691,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.104369,
+      "longitude": 7.723643999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.10574287989272,
+          "lng": 7.72497307989272
+        },
+        "southwest": {
+          "lat": 11.10304322010728,
+          "lng": 7.722273420107276
+        }
+      },
+      "formatted_address": "no 8 Crescent Road, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.104369,7.723643999999999",
+      "google_place_id": "ChIJ59dMkW-DshERwsilOlQ4KYI"
+    }
   },
   {
     "id": "82331",
@@ -381,7 +724,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1252008,
+      "longitude": 7.711463500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12657792989272,
+          "lng": 7.712829329892722
+        },
+        "southwest": {
+          "lat": 11.12387827010728,
+          "lng": 7.710129670107278
+        }
+      },
+      "formatted_address": "No 12 Sokoto Road Hanwa Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1252008,7.711463500000001",
+      "google_place_id": "ChIJO-D1_wmDshERroNndx9RpcI"
+    }
   },
   {
     "id": "82332",
@@ -397,7 +757,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1188101,
+      "longitude": 7.6997743,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11952965,
+          "lng": 7.701175429892723
+        },
+        "southwest": {
+          "lat": 11.11665145,
+          "lng": 7.698475770107279
+        }
+      },
+      "formatted_address": "4M9X+GWC, Kano-Zaria Rd, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1188101,7.6997743",
+      "google_place_id": "ChIJydB7H3iDshERosO2XRuT9L8"
+    }
   },
   {
     "id": "82333",
@@ -413,7 +790,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.51235,
+      "longitude": 7.428449999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51371382989272,
+          "lng": 7.427805229892722
+        },
+        "southwest": {
+          "lat": 10.51101417010728,
+          "lng": 7.425105570107278
+        }
+      },
+      "formatted_address": "AH 7, Kastina Road, kaduna north, Kaduna North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.51235,7.428449999999999",
+      "google_place_id": "ChIJ7Yo8I101TRARBREgec9bD2c"
+    }
   },
   {
     "id": "82334",
@@ -429,7 +823,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0894607,
+      "longitude": 7.6967127,
+      "viewport": {
+        "northeast": {
+          "lat": 11.09077652989272,
+          "lng": 7.698107629892723
+        },
+        "southwest": {
+          "lat": 11.08807687010728,
+          "lng": 7.695407970107279
+        }
+      },
+      "formatted_address": "3MQW+QMP, Kano-Zaria Rd, 810282, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0894607,7.6967127",
+      "google_place_id": "ChIJwQSrSZ6EshERc_bD4hN2arc"
+    }
   },
   {
     "id": "82335",
@@ -445,7 +856,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1231399,
+      "longitude": 7.732150300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12446317989272,
+          "lng": 7.733438979892723
+        },
+        "southwest": {
+          "lat": 11.12176352010728,
+          "lng": 7.730739320107279
+        }
+      },
+      "formatted_address": "HANWA DANDALI, Sabon Gari 810222, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231399,7.732150300000001",
+      "google_place_id": "ChIJ5Ss3MYCDshERG4R0MDfD_PU"
+    }
   },
   {
     "id": "82336",
@@ -461,7 +889,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1252814,
+      "longitude": 7.703656099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.144554,
+          "lng": 7.7210303
+        },
+        "southwest": {
+          "lat": 11.1023146,
+          "lng": 7.6762212
+        }
+      },
+      "formatted_address": "Hanwa, 810103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1252814,7.703656099999999",
+      "google_place_id": "ChIJk7bELoiDshERi8GX1OanrXk"
+    }
   },
   {
     "id": "82337",
@@ -477,7 +922,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1254443,
+      "longitude": 7.706304999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12679417989272,
+          "lng": 7.707648679892721
+        },
+        "southwest": {
+          "lat": 11.12409452010728,
+          "lng": 7.704949020107277
+        }
+      },
+      "formatted_address": "4PG4+5GQ, Unnamed Road, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1254443,7.706304999999999",
+      "google_place_id": "ChIJx83L1I2DshERUtD6JW7pbkQ"
+    }
   },
   {
     "id": "82338",
@@ -493,7 +955,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5116391,
+      "longitude": 7.425958799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51299042989272,
+          "lng": 7.427351829892723
+        },
+        "southwest": {
+          "lat": 10.51029077010728,
+          "lng": 7.424652170107279
+        }
+      },
+      "formatted_address": "1 Main Street Road, By Alba Bello, Sabo Gari Bus Stop, Sabon Gari, 800211, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116391,7.425958799999999",
+      "google_place_id": "ChIJAQAAwEI1TRARZ-NnFAZ7kQ8"
+    }
   },
   {
     "id": "82339",
@@ -509,7 +988,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1212593,
+      "longitude": 7.716616800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12266837989272,
+          "lng": 7.71803627989272
+        },
+        "southwest": {
+          "lat": 11.11996872010728,
+          "lng": 7.715336620107276
+        }
+      },
+      "formatted_address": "Trader 's plaza, No 2c Zaria Sokoto Rd, GRA 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1212593,7.716616800000001",
+      "google_place_id": "ChIJE0eoL26DshERCssNufuE-WY"
+    }
   },
   {
     "id": "82340",
@@ -525,7 +1021,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1284916,
+      "longitude": 7.699577999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12984122989272,
+          "lng": 7.700942979892722
+        },
+        "southwest": {
+          "lat": 11.12714157010728,
+          "lng": 7.698243320107278
+        }
+      },
+      "formatted_address": "1,Anty Grace Road,Hanwa Lowcost Estate, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1284916,7.699577999999999",
+      "google_place_id": "ChIJ4Rc6JCaDshERzazinC38QS4"
+    }
   },
   {
     "id": "82341",
@@ -541,7 +1054,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1253305,
+      "longitude": 7.703695199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12666237989272,
+          "lng": 7.705061079892721
+        },
+        "southwest": {
+          "lat": 11.12396272010728,
+          "lng": 7.702361420107277
+        }
+      },
+      "formatted_address": "GRACELAND HANWA ZARIA, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1253305,7.703695199999999",
+      "google_place_id": "ChIJnc-7CYqDshER3LeUA55xaG8"
+    }
   },
   {
     "id": "82342",
@@ -557,7 +1087,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1303314,
+      "longitude": 7.702352299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13168122989272,
+          "lng": 7.703702129892721
+        },
+        "southwest": {
+          "lat": 11.12898157010728,
+          "lng": 7.701002470107277
+        }
+      },
+      "formatted_address": "2 Kwangila Rd, Junction 810103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1303314,7.702352299999999",
+      "google_place_id": "ChIJJfNTVaKDshERKTyyp--QRM4"
+    }
   },
   {
     "id": "82343",
@@ -573,7 +1120,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.0855366,
+      "longitude": 7.7199579,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08689902989272,
+          "lng": 7.721273579892721
+        },
+        "southwest": {
+          "lat": 11.08419937010728,
+          "lng": 7.718573920107278
+        }
+      },
+      "formatted_address": "Kuyambana Road Kofar Gayan Zaria Zaria Zaria, City, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0855366,7.7199579",
+      "google_place_id": "ChIJNeDLsZ2DshER8Ky-gf_aNNs"
+    }
   },
   {
     "id": "82344",
@@ -589,7 +1153,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1293828,
+      "longitude": 7.7039346,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13076062989272,
+          "lng": 7.705300879892723
+        },
+        "southwest": {
+          "lat": 11.12806097010728,
+          "lng": 7.70260122010728
+        }
+      },
+      "formatted_address": "4PH3+QH3, Kaduna-Kano Rd, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1293828,7.7039346",
+      "google_place_id": "ChIJM1jreFiFshERUD2ryZsynhc"
+    }
   },
   {
     "id": "82345",
@@ -605,7 +1186,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1293828,
+      "longitude": 7.7039346,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13076062989272,
+          "lng": 7.705300879892723
+        },
+        "southwest": {
+          "lat": 11.12806097010728,
+          "lng": 7.70260122010728
+        }
+      },
+      "formatted_address": "4PH3+QH3, Kaduna-Kano Rd, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1293828,7.7039346",
+      "google_place_id": "ChIJM1jreFiFshERUD2ryZsynhc"
+    }
   },
   {
     "id": "82346",
@@ -621,7 +1219,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1034058,
+      "longitude": 7.7128994,
+      "viewport": {
+        "northeast": {
+          "lat": 11.10500672989272,
+          "lng": 7.714046179892722
+        },
+        "southwest": {
+          "lat": 11.10230707010728,
+          "lng": 7.711346520107278
+        }
+      },
+      "formatted_address": "4P37+956, Manchester Rd, GRA 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1034058,7.7128994",
+      "google_place_id": "ChIJAaw1Cn2DshER4NaxPUTM9dg"
+    }
   },
   {
     "id": "82347",
@@ -637,7 +1252,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1231095,
+      "longitude": 7.732069099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12446317989272,
+          "lng": 7.733438979892723
+        },
+        "southwest": {
+          "lat": 11.12176352010728,
+          "lng": 7.730739320107279
+        }
+      },
+      "formatted_address": "No 1 Manchester Road PZ Sabon Gari, Sabon Gari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231095,7.732069099999999",
+      "google_place_id": "ChIJ76lEPAuDshER1rAyibNGQWY"
+    }
   },
   {
     "id": "82348",
@@ -653,7 +1285,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1188101,
+      "longitude": 7.6997743,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11952965,
+          "lng": 7.701175429892723
+        },
+        "southwest": {
+          "lat": 11.11665145,
+          "lng": 7.698475770107279
+        }
+      },
+      "formatted_address": "4M9X+GWC, Kano-Zaria Rd, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1188101,7.6997743",
+      "google_place_id": "ChIJydB7H3iDshERosO2XRuT9L8"
+    }
   },
   {
     "id": "82349",
@@ -669,7 +1318,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1020124,
+      "longitude": 7.7206857,
+      "viewport": {
+        "northeast": {
+          "lat": 11.10340767989272,
+          "lng": 7.721789229892724
+        },
+        "southwest": {
+          "lat": 11.10070802010728,
+          "lng": 7.71908957010728
+        }
+      },
+      "formatted_address": "4P2C+R73, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1020124,7.7206857",
+      "google_place_id": "ChIJWy7ipQyDshERy_cdu8Zbbto"
+    }
   },
   {
     "id": "82350",
@@ -685,7 +1351,24 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1065412,
+      "longitude": 7.7202513,
+      "viewport": {
+        "northeast": {
+          "lat": 11.10781262989272,
+          "lng": 7.721658979892722
+        },
+        "southwest": {
+          "lat": 11.10511297010728,
+          "lng": 7.718959320107278
+        }
+      },
+      "formatted_address": "4P4C+J46, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1065412,7.7202513",
+      "google_place_id": "ChIJg9kbygqDshERdlPUQWt_kEw"
+    }
   },
   {
     "id": "82351",
@@ -701,6 +1384,7 @@
     "local_government_id": "365",
     "local_government_name": "SABON GARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   }
 ]

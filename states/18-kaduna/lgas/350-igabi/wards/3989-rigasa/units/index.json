@@ -13,7 +13,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571713,
+      "longitude": 7.330053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5942522,
+          "lng": 7.4143542
+        },
+        "southwest": {
+          "lat": 10.4870874,
+          "lng": 7.2376979
+        }
+      },
+      "formatted_address": "Rigasa, 800103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571713,7.330053",
+      "google_place_id": "ChIJJ-R9YMnMshERcM4PlpFvUeA"
+    }
   },
   {
     "id": "72937",
@@ -29,7 +46,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5400855,
+      "longitude": 7.3658397,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54138842989272,
+          "lng": 7.367154679892721
+        },
+        "southwest": {
+          "lat": 10.53868877010728,
+          "lng": 7.364455020107277
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar By Yankifi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5400855,7.3658397",
+      "google_place_id": "ChIJG0LJjIPLshERyRjAHgpsJYA"
+    }
   },
   {
     "id": "72938",
@@ -45,7 +79,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72939",
@@ -61,7 +112,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "72940",
@@ -77,7 +145,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5249791,
+      "longitude": 7.394392199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52632892989272,
+          "lng": 7.395742029892722
+        },
+        "southwest": {
+          "lat": 10.52362927010728,
+          "lng": 7.393042370107278
+        }
+      },
+      "formatted_address": "Abuja Rd, Rigyasa 800103, Rigyasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5249791,7.394392199999999",
+      "google_place_id": "ChIJF1zv0tc0TRARSI-BXbkOaf4"
+    }
   },
   {
     "id": "72941",
@@ -93,7 +178,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104642,
+      "longitude": 7.4165053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "Graceland zaria Birnin Gwari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104642,7.4165053",
+      "google_place_id": "ChIJtyBgZvg1TRAR8iGXEB2zug0"
+    }
   },
   {
     "id": "72942",
@@ -109,7 +211,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72943",
@@ -125,7 +228,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72944",
@@ -141,7 +261,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571713,
+      "longitude": 7.330053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5942522,
+          "lng": 7.4143542
+        },
+        "southwest": {
+          "lat": 10.4870874,
+          "lng": 7.2376979
+        }
+      },
+      "formatted_address": "Rigasa, 800103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571713,7.330053",
+      "google_place_id": "ChIJJ-R9YMnMshERcM4PlpFvUeA"
+    }
   },
   {
     "id": "72945",
@@ -157,7 +294,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5212625,
+      "longitude": 7.403712899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52264362989272,
+          "lng": 7.405066379892721
+        },
+        "southwest": {
+          "lat": 10.51994397010728,
+          "lng": 7.402366720107278
+        }
+      },
+      "formatted_address": "Faskari Road, Tudun Wada, Kaduna, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5212625,7.403712899999999",
+      "google_place_id": "ChIJ3Zt2oCg1TRARMNOPWBoBWR0"
+    }
   },
   {
     "id": "72946",
@@ -173,7 +327,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "72947",
@@ -189,7 +360,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5422885,
+      "longitude": 7.3772206,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54364227989272,
+          "lng": 7.378567979892721
+        },
+        "southwest": {
+          "lat": 10.54094262010728,
+          "lng": 7.375868320107277
+        }
+      },
+      "formatted_address": "G9RG+WW7, lokoja road by layin mai unguwa dalibiRigyasa, Ungwan Tama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5422885,7.3772206",
+      "google_place_id": "ChIJi3mZnfDLshERv70Vv4bLCw4"
+    }
   },
   {
     "id": "72948",
@@ -205,7 +393,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72949",
@@ -221,7 +426,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72950",
@@ -237,7 +443,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5398315,
+      "longitude": 7.4607369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54121257989272,
+          "lng": 7.462090079892722
+        },
+        "southwest": {
+          "lat": 10.53851292010728,
+          "lng": 7.459390420107278
+        }
+      },
+      "formatted_address": "Yahaya Road, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5398315,7.4607369",
+      "google_place_id": "ChIJkSDUNTa1shERp4q6jQsCnLw"
+    }
   },
   {
     "id": "72951",
@@ -253,7 +476,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1913429,
+      "longitude": 8.2435866,
+      "viewport": {
+        "northeast": {
+          "lat": 11.19264442989272,
+          "lng": 8.245007129892723
+        },
+        "southwest": {
+          "lat": 11.18994477010728,
+          "lng": 8.24230747010728
+        }
+      },
+      "formatted_address": "primary school, Zage Zagi, 801126, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1913429,8.2435866",
+      "google_place_id": "ChIJz5W9_ygJrRERSphIBvKLCbI"
+    }
   },
   {
     "id": "72952",
@@ -269,7 +509,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5184991,
+      "longitude": 7.383881100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51985777989272,
+          "lng": 7.385232729892723
+        },
+        "southwest": {
+          "lat": 10.51715812010728,
+          "lng": 7.382533070107279
+        }
+      },
+      "formatted_address": "G99M+9HR, Makarfi Road, Rigyasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5184991,7.383881100000001",
+      "google_place_id": "ChIJ9To5T7o1TRARqMuKfScdROg"
+    }
   },
   {
     "id": "72953",
@@ -285,7 +542,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1913429,
+      "longitude": 8.2435866,
+      "viewport": {
+        "northeast": {
+          "lat": 11.19264442989272,
+          "lng": 8.245007129892723
+        },
+        "southwest": {
+          "lat": 11.18994477010728,
+          "lng": 8.24230747010728
+        }
+      },
+      "formatted_address": "primary school, Zage Zagi, 801126, Ikara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1913429,8.2435866",
+      "google_place_id": "ChIJz5W9_ygJrRERSphIBvKLCbI"
+    }
   },
   {
     "id": "72954",
@@ -301,7 +575,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72955",
@@ -317,7 +608,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5184991,
+      "longitude": 7.383881100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51985777989272,
+          "lng": 7.385232729892723
+        },
+        "southwest": {
+          "lat": 10.51715812010728,
+          "lng": 7.382533070107279
+        }
+      },
+      "formatted_address": "G99M+9HR, Makarfi Road, Rigyasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5184991,7.383881100000001",
+      "google_place_id": "ChIJ9To5T7o1TRARqMuKfScdROg"
+    }
   },
   {
     "id": "72956",
@@ -333,7 +641,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5491957,
+      "longitude": 7.373715199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55054572989272,
+          "lng": 7.375060179892722
+        },
+        "southwest": {
+          "lat": 10.54784607010728,
+          "lng": 7.372360520107279
+        }
+      },
+      "formatted_address": "7F29G9XF+MCG, Danmadami St, Rigasa 810282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5491957,7.373715199999999",
+      "google_place_id": "ChIJyzx6EVjLshER8HG1vtiolDA"
+    }
   },
   {
     "id": "72957",
@@ -349,7 +674,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5491957,
+      "longitude": 7.373715199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55054572989272,
+          "lng": 7.375060179892722
+        },
+        "southwest": {
+          "lat": 10.54784607010728,
+          "lng": 7.372360520107279
+        }
+      },
+      "formatted_address": "7F29G9XF+MCG, Danmadami St, Rigasa 810282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5491957,7.373715199999999",
+      "google_place_id": "ChIJyzx6EVjLshER8HG1vtiolDA"
+    }
   },
   {
     "id": "72958",
@@ -365,7 +707,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5453032,
+      "longitude": 7.3862565,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54644667989272,
+          "lng": 7.387570379892722
+        },
+        "southwest": {
+          "lat": 10.54374702010728,
+          "lng": 7.384870720107278
+        }
+      },
+      "formatted_address": "7F29G9WP+4G6 Hayin taro taro, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5453032,7.3862565",
+      "google_place_id": "ChIJQShBQinLshERLW-xp3VxlW0"
+    }
   },
   {
     "id": "72959",
@@ -381,7 +740,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "72960",
@@ -397,7 +773,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5398315,
+      "longitude": 7.4607369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54121257989272,
+          "lng": 7.462090079892722
+        },
+        "southwest": {
+          "lat": 10.53851292010728,
+          "lng": 7.459390420107278
+        }
+      },
+      "formatted_address": "Yahaya Road, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5398315,7.4607369",
+      "google_place_id": "ChIJkSDUNTa1shERp4q6jQsCnLw"
+    }
   },
   {
     "id": "72961",
@@ -413,7 +806,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5400855,
+      "longitude": 7.3658397,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54138842989272,
+          "lng": 7.367154679892721
+        },
+        "southwest": {
+          "lat": 10.53868877010728,
+          "lng": 7.364455020107277
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar By Yankifi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5400855,7.3658397",
+      "google_place_id": "ChIJG0LJjIPLshERyRjAHgpsJYA"
+    }
   },
   {
     "id": "72962",
@@ -429,7 +839,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5497294,
+      "longitude": 7.373146599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55107562989272,
+          "lng": 7.37448622989272
+        },
+        "southwest": {
+          "lat": 10.54837597010728,
+          "lng": 7.371786570107275
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5497294,7.373146599999999",
+      "google_place_id": "ChIJx9NsM5LLshERWcM_I5qWABc"
+    }
   },
   {
     "id": "72963",
@@ -445,7 +872,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5497294,
+      "longitude": 7.373146599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55107562989272,
+          "lng": 7.37448622989272
+        },
+        "southwest": {
+          "lat": 10.54837597010728,
+          "lng": 7.371786570107275
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5497294,7.373146599999999",
+      "google_place_id": "ChIJx9NsM5LLshERWcM_I5qWABc"
+    }
   },
   {
     "id": "72964",
@@ -461,7 +905,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285168,
+      "longitude": 7.386583399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "No.5 Biliyaminu Steet, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285168,7.386583399999999",
+      "google_place_id": "ChIJWXCcKBs1TRARlWD1n-NPHl0"
+    }
   },
   {
     "id": "72965",
@@ -477,7 +938,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4394001,
+      "longitude": 7.4547664,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44072292989272,
+          "lng": 7.45611932989272
+        },
+        "southwest": {
+          "lat": 10.43802327010727,
+          "lng": 7.453419670107277
+        }
+      },
+      "formatted_address": "No 12 Doka Afaka Road Rigasa Igabi Kaduna#, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4394001,7.4547664",
+      "google_place_id": "ChIJX3bx3g1JTRARFGCv3JKJBg4"
+    }
   },
   {
     "id": "72966",
@@ -493,7 +971,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "72967",
@@ -509,7 +1004,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5398315,
+      "longitude": 7.4607369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54121257989272,
+          "lng": 7.462090079892722
+        },
+        "southwest": {
+          "lat": 10.53851292010728,
+          "lng": 7.459390420107278
+        }
+      },
+      "formatted_address": "Yahaya Road, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5398315,7.4607369",
+      "google_place_id": "ChIJkSDUNTa1shERp4q6jQsCnLw"
+    }
   },
   {
     "id": "72968",
@@ -525,7 +1037,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5475949,
+      "longitude": 7.404255500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54897737989272,
+          "lng": 7.405581479892723
+        },
+        "southwest": {
+          "lat": 10.54627772010728,
+          "lng": 7.402881820107279
+        }
+      },
+      "formatted_address": "7F29GCX3+2MX Hayin Dan Mani village, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5475949,7.404255500000001",
+      "google_place_id": "ChIJGRoywsrLshERKjd9JFZNdIw"
+    }
   },
   {
     "id": "72969",
@@ -541,7 +1070,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "No 3 Habibu Road K/Farakwai, Igabi Local Government, Kaduna State, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJw7-nBVI1TRAR_Ox-KzQxTHg"
+    }
   },
   {
     "id": "72970",
@@ -557,7 +1103,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285168,
+      "longitude": 7.386583399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "Karshen Kwalta, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285168,7.386583399999999",
+      "google_place_id": "ChIJM9vCBZ7LshERAHP3sRrqXKQ"
+    }
   },
   {
     "id": "72971",
@@ -573,7 +1136,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72972",
@@ -589,7 +1169,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72973",
@@ -605,7 +1202,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72974",
@@ -621,7 +1235,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72975",
@@ -637,7 +1252,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72976",
@@ -653,7 +1269,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4772861,
+      "longitude": 7.398615399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47864372989272,
+          "lng": 7.39996142989272
+        },
+        "southwest": {
+          "lat": 10.47594407010728,
+          "lng": 7.397261770107276
+        }
+      },
+      "formatted_address": "No. 11 off market road ungwan gwari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4772861,7.398615399999999",
+      "google_place_id": "ChIJR8brY9A1TRARuIlzK_ecCgA"
+    }
   },
   {
     "id": "72977",
@@ -669,7 +1302,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "72978",
@@ -685,7 +1335,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72979",
@@ -701,7 +1352,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72980",
@@ -717,7 +1369,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5281037,
+      "longitude": 7.378668900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5481536,
+          "lng": 7.398231
+        },
+        "southwest": {
+          "lat": 10.5100848,
+          "lng": 7.362128
+        }
+      },
+      "formatted_address": "Rigyasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5281037,7.378668900000001",
+      "google_place_id": "ChIJZ5t_Psw0TRARS_kT-pUQcms"
+    }
   },
   {
     "id": "72981",
@@ -733,7 +1402,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "72982",
@@ -749,7 +1435,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5107253,
+      "longitude": 7.399721099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51207097989272,
+          "lng": 7.401023879892721
+        },
+        "southwest": {
+          "lat": 10.50937132010728,
+          "lng": 7.398324220107277
+        }
+      },
+      "formatted_address": "Hayin Danmani, No 54 Rahama Rd, Rigasa 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5107253,7.399721099999999",
+      "google_place_id": "ChIJfcqOtmw1TRARj3aOvAmDFWY"
+    }
   },
   {
     "id": "72983",
@@ -765,7 +1468,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5400855,
+      "longitude": 7.3658397,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54138842989272,
+          "lng": 7.367154679892721
+        },
+        "southwest": {
+          "lat": 10.53868877010728,
+          "lng": 7.364455020107277
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar By Yankifi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5400855,7.3658397",
+      "google_place_id": "ChIJG0LJjIPLshERyRjAHgpsJYA"
+    }
   },
   {
     "id": "72984",
@@ -781,7 +1501,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5339037,
+      "longitude": 7.3945209,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53528007989272,
+          "lng": 7.395888729892722
+        },
+        "southwest": {
+          "lat": 10.53258042010728,
+          "lng": 7.393189070107278
+        }
+      },
+      "formatted_address": "7F29G9MV+HRF, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5339037,7.3945209",
+      "google_place_id": "ChIJPbsRIQvLshERiJsX4TIpbGA"
+    }
   },
   {
     "id": "72985",
@@ -797,7 +1534,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5339037,
+      "longitude": 7.3945209,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53528007989272,
+          "lng": 7.395888729892722
+        },
+        "southwest": {
+          "lat": 10.53258042010728,
+          "lng": 7.393189070107278
+        }
+      },
+      "formatted_address": "7F29G9MV+HRF, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5339037,7.3945209",
+      "google_place_id": "ChIJPbsRIQvLshERiJsX4TIpbGA"
+    }
   },
   {
     "id": "72986",
@@ -813,7 +1567,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "72987",
@@ -829,7 +1600,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "72988",
@@ -845,7 +1633,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5421297,
+      "longitude": 7.3740223,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54346177989272,
+          "lng": 7.375276179892721
+        },
+        "southwest": {
+          "lat": 10.54076212010728,
+          "lng": 7.372576520107277
+        }
+      },
+      "formatted_address": "G9RF+VJ2, Danmani by Abuja road, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5421297,7.3740223",
+      "google_place_id": "ChIJWWCdYunLshERDW08qFlsvBg"
+    }
   },
   {
     "id": "72989",
@@ -861,7 +1666,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5339037,
+      "longitude": 7.3945209,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53528007989272,
+          "lng": 7.395888729892722
+        },
+        "southwest": {
+          "lat": 10.53258042010728,
+          "lng": 7.393189070107278
+        }
+      },
+      "formatted_address": "7F29G9MV+HRF, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5339037,7.3945209",
+      "google_place_id": "ChIJPbsRIQvLshERiJsX4TIpbGA"
+    }
   },
   {
     "id": "72990",
@@ -877,7 +1699,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5142524,
+      "longitude": 7.386009,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51558277989272,
+          "lng": 7.387352079892722
+        },
+        "southwest": {
+          "lat": 10.51288312010728,
+          "lng": 7.384652420107278
+        }
+      },
+      "formatted_address": "G97P+PC2, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5142524,7.386009",
+      "google_place_id": "ChIJA201CMQ1TRAREepXRi8eixo"
+    }
   },
   {
     "id": "72991",
@@ -893,7 +1732,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5142524,
+      "longitude": 7.386009,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51558277989272,
+          "lng": 7.387352079892722
+        },
+        "southwest": {
+          "lat": 10.51288312010728,
+          "lng": 7.384652420107278
+        }
+      },
+      "formatted_address": "G97P+PC2, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5142524,7.386009",
+      "google_place_id": "ChIJA201CMQ1TRAREepXRi8eixo"
+    }
   },
   {
     "id": "72992",
@@ -909,7 +1765,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5142524,
+      "longitude": 7.386009,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51558277989272,
+          "lng": 7.387352079892722
+        },
+        "southwest": {
+          "lat": 10.51288312010728,
+          "lng": 7.384652420107278
+        }
+      },
+      "formatted_address": "G97P+PC2, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5142524,7.386009",
+      "google_place_id": "ChIJA201CMQ1TRAREepXRi8eixo"
+    }
   },
   {
     "id": "72993",
@@ -925,7 +1798,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "72994",
@@ -941,7 +1831,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5432338,
+      "longitude": 7.374004800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54454307989272,
+          "lng": 7.375355979892722
+        },
+        "southwest": {
+          "lat": 10.54184342010728,
+          "lng": 7.372656320107279
+        }
+      },
+      "formatted_address": "G9VF+7JR, Nuhu bamalli street by dattawa road, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5432338,7.374004800000001",
+      "google_place_id": "ChIJ0YVch1DLshERrgJchlccMZc"
+    }
   },
   {
     "id": "72995",
@@ -957,7 +1864,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5027531,
+      "longitude": 7.425548099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50405617989272,
+          "lng": 7.426979029892721
+        },
+        "southwest": {
+          "lat": 10.50135652010728,
+          "lng": 7.424279370107278
+        }
+      },
+      "formatted_address": "No. 5 Junction Rd, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5027531,7.425548099999999",
+      "google_place_id": "ChIJ50wDEW81TRARdnvOB_4Slcw"
+    }
   },
   {
     "id": "72996",
@@ -973,7 +1897,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5416597,
+      "longitude": 7.4019672,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54301367989272,
+          "lng": 7.403317429892721
+        },
+        "southwest": {
+          "lat": 10.54031402010728,
+          "lng": 7.400617770107277
+        }
+      },
+      "formatted_address": "GCR2+MQ8, Hospital Raod by School Road, Hayin Danmani, Ungwan Tama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5416597,7.4019672",
+      "google_place_id": "ChIJO_Byx-bLshERA11XHYfzKIQ"
+    }
   },
   {
     "id": "72997",
@@ -989,7 +1930,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "72998",
@@ -1005,7 +1963,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "72999",
@@ -1021,7 +1996,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73000",
@@ -1037,7 +2029,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5233602,
+      "longitude": 7.4014724,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52470982989272,
+          "lng": 7.402791879892722
+        },
+        "southwest": {
+          "lat": 10.52201017010728,
+          "lng": 7.400092220107278
+        }
+      },
+      "formatted_address": "GCF2+8HX, Lokoja Rd, Rigasa 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5233602,7.4014724",
+      "google_place_id": "ChIJb5uRQC81TRARZXUCM94jLro"
+    }
   },
   {
     "id": "73001",
@@ -1053,7 +2062,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5233602,
+      "longitude": 7.4014724,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52470982989272,
+          "lng": 7.402791879892722
+        },
+        "southwest": {
+          "lat": 10.52201017010728,
+          "lng": 7.400092220107278
+        }
+      },
+      "formatted_address": "GCF2+8HX, Lokoja Rd, Rigasa 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5233602,7.4014724",
+      "google_place_id": "ChIJb5uRQC81TRARZXUCM94jLro"
+    }
   },
   {
     "id": "73002",
@@ -1069,7 +2095,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73003",
@@ -1085,7 +2128,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73004",
@@ -1101,7 +2161,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.507849,
+      "longitude": 7.408403600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50928757989272,
+          "lng": 7.409872679892723
+        },
+        "southwest": {
+          "lat": 10.50658792010728,
+          "lng": 7.40717302010728
+        }
+      },
+      "formatted_address": "Kz 30 Kajr Road, Tudun Wada, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.507849,7.408403600000001",
+      "google_place_id": "ChIJIW2_z4Y1TRARrdJognogLxU"
+    }
   },
   {
     "id": "73005",
@@ -1117,7 +2194,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73006",
@@ -1133,7 +2211,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571091,
+      "longitude": 7.4670538,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55845967989272,
+          "lng": 7.468435679892721
+        },
+        "southwest": {
+          "lat": 10.55576002010728,
+          "lng": 7.465736020107277
+        }
+      },
+      "formatted_address": "HF48+RRV, Malali 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571091,7.4670538",
+      "google_place_id": "ChIJDX7BG4m1shERl4WPEKi2mrc"
+    }
   },
   {
     "id": "73007",
@@ -1149,7 +2244,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73008",
@@ -1165,7 +2277,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5289359,
+      "longitude": 7.4624776,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5430246,
+          "lng": 7.4768257
+        },
+        "southwest": {
+          "lat": 10.5184717,
+          "lng": 7.4509442
+        }
+      },
+      "formatted_address": "Ungwan Rimi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5289359,7.4624776",
+      "google_place_id": "ChIJzQVpR8tKTRARG1bvzvjY7CQ"
+    }
   },
   {
     "id": "73009",
@@ -1181,7 +2310,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5421297,
+      "longitude": 7.3740223,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54346177989272,
+          "lng": 7.375276179892721
+        },
+        "southwest": {
+          "lat": 10.54076212010728,
+          "lng": 7.372576520107277
+        }
+      },
+      "formatted_address": "G9RF+VJ2, Danmani by Abuja road, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5421297,7.3740223",
+      "google_place_id": "ChIJWWCdYunLshERDW08qFlsvBg"
+    }
   },
   {
     "id": "73010",
@@ -1197,7 +2343,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5212625,
+      "longitude": 7.403712899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52264362989272,
+          "lng": 7.405066379892721
+        },
+        "southwest": {
+          "lat": 10.51994397010728,
+          "lng": 7.402366720107278
+        }
+      },
+      "formatted_address": "Faskari Road, Tudun Wada, Kaduna, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5212625,7.403712899999999",
+      "google_place_id": "ChIJ3Zt2oCg1TRARMNOPWBoBWR0"
+    }
   },
   {
     "id": "73011",
@@ -1213,7 +2376,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5212625,
+      "longitude": 7.403712899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52264362989272,
+          "lng": 7.405066379892721
+        },
+        "southwest": {
+          "lat": 10.51994397010728,
+          "lng": 7.402366720107278
+        }
+      },
+      "formatted_address": "Faskari Road, Tudun Wada, Kaduna, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5212625,7.403712899999999",
+      "google_place_id": "ChIJ3Zt2oCg1TRARMNOPWBoBWR0"
+    }
   },
   {
     "id": "73012",
@@ -1229,7 +2409,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5212625,
+      "longitude": 7.403712899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52264362989272,
+          "lng": 7.405066379892721
+        },
+        "southwest": {
+          "lat": 10.51994397010728,
+          "lng": 7.402366720107278
+        }
+      },
+      "formatted_address": "Faskari Road, Tudun Wada, Kaduna, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5212625,7.403712899999999",
+      "google_place_id": "ChIJ3Zt2oCg1TRARMNOPWBoBWR0"
+    }
   },
   {
     "id": "73013",
@@ -1245,7 +2442,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5212625,
+      "longitude": 7.403712899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52264362989272,
+          "lng": 7.405066379892721
+        },
+        "southwest": {
+          "lat": 10.51994397010728,
+          "lng": 7.402366720107278
+        }
+      },
+      "formatted_address": "Faskari Road, Tudun Wada, Kaduna, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5212625,7.403712899999999",
+      "google_place_id": "ChIJ3Zt2oCg1TRARMNOPWBoBWR0"
+    }
   },
   {
     "id": "73014",
@@ -1261,7 +2475,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5089114,
+      "longitude": 7.430680699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51020567989272,
+          "lng": 7.432032729892722
+        },
+        "southwest": {
+          "lat": 10.50750602010728,
+          "lng": 7.429333070107278
+        }
+      },
+      "formatted_address": "No 10 Abuja Road Rigasa Kaduna#, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5089114,7.430680699999999",
+      "google_place_id": "ChIJoXPHNzQ1TRARvzY22lf85kU"
+    }
   },
   {
     "id": "73015",
@@ -1277,7 +2508,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73016",
@@ -1293,7 +2541,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73017",
@@ -1309,7 +2574,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73018",
@@ -1325,7 +2607,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5398059,
+      "longitude": 7.3598352,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54110017989272,
+          "lng": 7.361101579892722
+        },
+        "southwest": {
+          "lat": 10.53840052010728,
+          "lng": 7.358401920107278
+        }
+      },
+      "formatted_address": "G9Q5+WWH, Rigasa Road, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5398059,7.3598352",
+      "google_place_id": "ChIJWycuJAnLshERV3hegknVMf8"
+    }
   },
   {
     "id": "73019",
@@ -1341,7 +2640,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5105153,
+      "longitude": 7.434989400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51185082989272,
+          "lng": 7.436340329892722
+        },
+        "southwest": {
+          "lat": 10.50915117010728,
+          "lng": 7.433640670107279
+        }
+      },
+      "formatted_address": "GC6M+5X5, Daura Rd, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5105153,7.434989400000001",
+      "google_place_id": "ChIJudyWAAw1TRARdlAlATn5TgM"
+    }
   },
   {
     "id": "73020",
@@ -1357,7 +2673,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5978216,
+      "longitude": 7.503066899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6682801,
+          "lng": 7.6323249
+        },
+        "southwest": {
+          "lat": 10.5586208,
+          "lng": 7.4318819
+        }
+      },
+      "formatted_address": "Rigachikun, 800102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5978216,7.503066899999999",
+      "google_place_id": "ChIJr8xrj_uzshEROwczWhk1glg"
+    }
   },
   {
     "id": "73021",
@@ -1373,7 +2706,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5400855,
+      "longitude": 7.3658397,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54138842989272,
+          "lng": 7.367154679892721
+        },
+        "southwest": {
+          "lat": 10.53868877010728,
+          "lng": 7.364455020107277
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar By Yankifi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5400855,7.3658397",
+      "google_place_id": "ChIJG0LJjIPLshERyRjAHgpsJYA"
+    }
   },
   {
     "id": "73022",
@@ -1389,7 +2739,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73023",
@@ -1405,7 +2756,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5444334,
+      "longitude": 7.365736099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54578867989272,
+          "lng": 7.367127079892723
+        },
+        "southwest": {
+          "lat": 10.54308902010728,
+          "lng": 7.364427420107279
+        }
+      },
+      "formatted_address": "55 Umar Idris Dangaladiman, Zazzau Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5444334,7.365736099999999",
+      "google_place_id": "ChIJnTagdfvLshERhynEqWWa-BI"
+    }
   },
   {
     "id": "73024",
@@ -1421,7 +2789,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73025",
@@ -1437,7 +2806,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73026",
@@ -1453,7 +2823,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73027",
@@ -1469,7 +2856,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5421297,
+      "longitude": 7.3740223,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54346177989272,
+          "lng": 7.375276179892721
+        },
+        "southwest": {
+          "lat": 10.54076212010728,
+          "lng": 7.372576520107277
+        }
+      },
+      "formatted_address": "G9RF+VJ2, Danmani by Abuja road, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5421297,7.3740223",
+      "google_place_id": "ChIJWWCdYunLshERDW08qFlsvBg"
+    }
   },
   {
     "id": "73028",
@@ -1485,7 +2889,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285168,
+      "longitude": 7.386583399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "G9HP+CJP, Yakubu Bala Road, Rigasa 800103, Rigyasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285168,7.386583399999999",
+      "google_place_id": "ChIJ5XNhipg1TRARqKK2yh-TaBM"
+    }
   },
   {
     "id": "73029",
@@ -1501,7 +2922,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73030",
@@ -1517,7 +2939,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285168,
+      "longitude": 7.386583399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "G9HP+CJP, Yakubu Bala Road, Rigasa 800103, Rigyasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285168,7.386583399999999",
+      "google_place_id": "ChIJ5XNhipg1TRARqKK2yh-TaBM"
+    }
   },
   {
     "id": "73031",
@@ -1533,7 +2972,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285168,
+      "longitude": 7.386583399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "G9HP+CJP, Yakubu Bala Road, Rigasa 800103, Rigyasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285168,7.386583399999999",
+      "google_place_id": "ChIJ5XNhipg1TRARqKK2yh-TaBM"
+    }
   },
   {
     "id": "73032",
@@ -1549,7 +3005,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5109449,
+      "longitude": 7.4288123,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51228252989272,
+          "lng": 7.430163379892723
+        },
+        "southwest": {
+          "lat": 10.50958287010728,
+          "lng": 7.427463720107279
+        }
+      },
+      "formatted_address": "No A, 23 Zaria Rd, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5109449,7.4288123",
+      "google_place_id": "ChIJcRLL5Tk1TRARQBoJVzKeLPA"
+    }
   },
   {
     "id": "73033",
@@ -1565,7 +3038,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285168,
+      "longitude": 7.386583399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "G9HP+CJP, Yakubu Bala Road, Rigasa 800103, Rigyasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285168,7.386583399999999",
+      "google_place_id": "ChIJ5XNhipg1TRARqKK2yh-TaBM"
+    }
   },
   {
     "id": "73034",
@@ -1581,7 +3071,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5342195,
+      "longitude": 7.377190100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53556692989272,
+          "lng": 7.378661779892721
+        },
+        "southwest": {
+          "lat": 10.53286727010728,
+          "lng": 7.375962120107277
+        }
+      },
+      "formatted_address": "7F29G9MG+PV4, Lokoja Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5342195,7.377190100000001",
+      "google_place_id": "ChIJ5-MdITnLshERUDL83OTrmuI"
+    }
   },
   {
     "id": "73035",
@@ -1597,7 +3104,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5339652,
+      "longitude": 7.376528299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53538027989272,
+          "lng": 7.377737979892721
+        },
+        "southwest": {
+          "lat": 10.53268062010728,
+          "lng": 7.375038320107278
+        }
+      },
+      "formatted_address": "7F29G9MG+HJJ Rigasa, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5339652,7.376528299999999",
+      "google_place_id": "ChIJGxHL-4fLshER1cibwih4jLw"
+    }
   },
   {
     "id": "73036",
@@ -1613,7 +3137,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5137064,
+      "longitude": 7.369389300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51505532989272,
+          "lng": 7.370722429892722
+        },
+        "southwest": {
+          "lat": 10.51235567010728,
+          "lng": 7.368022770107278
+        }
+      },
+      "formatted_address": "No 1 Tafida road, Nariya new Extension, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5137064,7.369389300000001",
+      "google_place_id": "ChIJLwUqRY81TRAR-IjCvAMoTqQ"
+    }
   },
   {
     "id": "73037",
@@ -1629,7 +3170,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571713,
+      "longitude": 7.330053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5942522,
+          "lng": 7.4143542
+        },
+        "southwest": {
+          "lat": 10.4870874,
+          "lng": 7.2376979
+        }
+      },
+      "formatted_address": "Rigasa, 800103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571713,7.330053",
+      "google_place_id": "ChIJJ-R9YMnMshERcM4PlpFvUeA"
+    }
   },
   {
     "id": "73038",
@@ -1645,7 +3203,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5416597,
+      "longitude": 7.4019672,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54301367989272,
+          "lng": 7.403317429892721
+        },
+        "southwest": {
+          "lat": 10.54031402010728,
+          "lng": 7.400617770107277
+        }
+      },
+      "formatted_address": "GCR2+MQ8, Hospital Raod by School Road, Hayin Danmani, Ungwan Tama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5416597,7.4019672",
+      "google_place_id": "ChIJO_Byx-bLshERA11XHYfzKIQ"
+    }
   },
   {
     "id": "73039",
@@ -1661,7 +3236,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73040",
@@ -1677,7 +3253,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73041",
@@ -1693,7 +3286,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5398315,
+      "longitude": 7.4607369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54121257989272,
+          "lng": 7.462090079892722
+        },
+        "southwest": {
+          "lat": 10.53851292010728,
+          "lng": 7.459390420107278
+        }
+      },
+      "formatted_address": "Yahaya Road, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5398315,7.4607369",
+      "google_place_id": "ChIJkSDUNTa1shERp4q6jQsCnLw"
+    }
   },
   {
     "id": "73042",
@@ -1709,7 +3319,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5400855,
+      "longitude": 7.3658397,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54138842989272,
+          "lng": 7.367154679892721
+        },
+        "southwest": {
+          "lat": 10.53868877010728,
+          "lng": 7.364455020107277
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar By Yankifi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5400855,7.3658397",
+      "google_place_id": "ChIJG0LJjIPLshERyRjAHgpsJYA"
+    }
   },
   {
     "id": "73043",
@@ -1725,7 +3352,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73044",
@@ -1741,7 +3385,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5289359,
+      "longitude": 7.4624776,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5430246,
+          "lng": 7.4768257
+        },
+        "southwest": {
+          "lat": 10.5184717,
+          "lng": 7.4509442
+        }
+      },
+      "formatted_address": "Ungwan Rimi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5289359,7.4624776",
+      "google_place_id": "ChIJzQVpR8tKTRARG1bvzvjY7CQ"
+    }
   },
   {
     "id": "73045",
@@ -1757,7 +3418,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5372513,
+      "longitude": 7.465182799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.547452,
+          "lng": 7.4781231
+        },
+        "southwest": {
+          "lat": 10.5169692,
+          "lng": 7.4339817
+        }
+      },
+      "formatted_address": "Unguwar Rimi, 802125, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5372513,7.465182799999999",
+      "google_place_id": "ChIJU6YANEu1shERjlAboNjelx0"
+    }
   },
   {
     "id": "73046",
@@ -1773,7 +3451,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73047",
@@ -1789,7 +3484,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73048",
@@ -1805,7 +3501,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73049",
@@ -1821,7 +3518,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5184991,
+      "longitude": 7.383881100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51985777989272,
+          "lng": 7.385232729892723
+        },
+        "southwest": {
+          "lat": 10.51715812010728,
+          "lng": 7.382533070107279
+        }
+      },
+      "formatted_address": "G99M+9HR, Makarfi Road, Rigyasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5184991,7.383881100000001",
+      "google_place_id": "ChIJ9To5T7o1TRARqMuKfScdROg"
+    }
   },
   {
     "id": "73050",
@@ -1837,7 +3551,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73051",
@@ -1853,7 +3584,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5182249,
+      "longitude": 7.380913499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51957007989272,
+          "lng": 7.382024829892721
+        },
+        "southwest": {
+          "lat": 10.51687042010728,
+          "lng": 7.379325170107277
+        }
+      },
+      "formatted_address": "G99J+79M, Makarfi Rd, Rigyasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5182249,7.380913499999999",
+      "google_place_id": "ChIJj7tvZ8Q0TRARlJ0PakjKlQg"
+    }
   },
   {
     "id": "73052",
@@ -1869,7 +3617,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5184165,
+      "longitude": 7.384581499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51976632989272,
+          "lng": 7.38593132989272
+        },
+        "southwest": {
+          "lat": 10.51706667010728,
+          "lng": 7.383231670107276
+        }
+      },
+      "formatted_address": "After Sec. Sch, No Makarfi Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5184165,7.384581499999999",
+      "google_place_id": "ChIJc0ks3vo1TRAROG_ZYNShp9Y"
+    }
   },
   {
     "id": "73053",
@@ -1885,7 +3650,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73054",
@@ -1901,7 +3683,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5189659,
+      "longitude": 7.390384099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52021332989272,
+          "lng": 7.391722979892721
+        },
+        "southwest": {
+          "lat": 10.51751367010728,
+          "lng": 7.389023320107277
+        }
+      },
+      "formatted_address": "Keke A, Chikun local government area, Kaduna Kagoro by express K/south, Kaduna Makarfi Road Rigasa Igabi, Kaduna Rigachikun, Igabi Kaduna Kachia local government area, Kaduna Chikun local government area, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5189659,7.390384099999999",
+      "google_place_id": "ChIJJ6-pn381TRARMOGrKeYQV30"
+    }
   },
   {
     "id": "73055",
@@ -1917,7 +3716,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73056",
@@ -1933,7 +3749,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5978216,
+      "longitude": 7.503066899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6682801,
+          "lng": 7.6323249
+        },
+        "southwest": {
+          "lat": 10.5586208,
+          "lng": 7.4318819
+        }
+      },
+      "formatted_address": "Rigachikun, 800102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5978216,7.503066899999999",
+      "google_place_id": "ChIJr8xrj_uzshEROwczWhk1glg"
+    }
   },
   {
     "id": "73057",
@@ -1949,7 +3782,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73058",
@@ -1965,7 +3815,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.475837,
+      "longitude": 7.457390399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47719477989272,
+          "lng": 7.458722879892723
+        },
+        "southwest": {
+          "lat": 10.47449512010728,
+          "lng": 7.456023220107279
+        }
+      },
+      "formatted_address": "FFG4+8XM, Bayan Dutse, Narayi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.475837,7.457390399999999",
+      "google_place_id": "ChIJ0TamuX5LTRARWiYzWEJrW8w"
+    }
   },
   {
     "id": "73059",
@@ -1981,7 +3848,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73060",
@@ -1997,7 +3881,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5372513,
+      "longitude": 7.465182799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.547452,
+          "lng": 7.4781231
+        },
+        "southwest": {
+          "lat": 10.5169692,
+          "lng": 7.4339817
+        }
+      },
+      "formatted_address": "Unguwar Rimi, 802125, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5372513,7.465182799999999",
+      "google_place_id": "ChIJU6YANEu1shERjlAboNjelx0"
+    }
   },
   {
     "id": "73061",
@@ -2013,7 +3914,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73062",
@@ -2029,7 +3947,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5372513,
+      "longitude": 7.465182799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.547452,
+          "lng": 7.4781231
+        },
+        "southwest": {
+          "lat": 10.5169692,
+          "lng": 7.4339817
+        }
+      },
+      "formatted_address": "Unguwar Rimi, 802125, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5372513,7.465182799999999",
+      "google_place_id": "ChIJU6YANEu1shERjlAboNjelx0"
+    }
   },
   {
     "id": "73063",
@@ -2045,7 +3980,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5400855,
+      "longitude": 7.3658397,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54138842989272,
+          "lng": 7.367154679892721
+        },
+        "southwest": {
+          "lat": 10.53868877010728,
+          "lng": 7.364455020107277
+        }
+      },
+      "formatted_address": "35/36 Abdu Umar By Yankifi, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5400855,7.3658397",
+      "google_place_id": "ChIJG0LJjIPLshERyRjAHgpsJYA"
+    }
   },
   {
     "id": "73064",
@@ -2061,7 +4013,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5761205,
+      "longitude": 7.4396616,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57749917989272,
+          "lng": 7.441000729892721
+        },
+        "southwest": {
+          "lat": 10.57479952010728,
+          "lng": 7.438301070107277
+        }
+      },
+      "formatted_address": "NO 12 HAYIN MALLAM BELLO, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5761205,7.4396616",
+      "google_place_id": "ChIJ1YwbIvS1shERT29NOCk-tgg"
+    }
   },
   {
     "id": "73065",
@@ -2077,7 +4046,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4772861,
+      "longitude": 7.398615399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47864372989272,
+          "lng": 7.39996142989272
+        },
+        "southwest": {
+          "lat": 10.47594407010728,
+          "lng": 7.397261770107276
+        }
+      },
+      "formatted_address": "No. 11 off market road ungwan gwari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4772861,7.398615399999999",
+      "google_place_id": "ChIJR8brY9A1TRARuIlzK_ecCgA"
+    }
   },
   {
     "id": "73066",
@@ -2093,7 +4079,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571713,
+      "longitude": 7.330053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5942522,
+          "lng": 7.4143542
+        },
+        "southwest": {
+          "lat": 10.4870874,
+          "lng": 7.2376979
+        }
+      },
+      "formatted_address": "Rigasa, 800103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571713,7.330053",
+      "google_place_id": "ChIJJ-R9YMnMshERcM4PlpFvUeA"
+    }
   },
   {
     "id": "73067",
@@ -2109,7 +4112,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73068",
@@ -2125,7 +4145,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5220866,
+      "longitude": 7.3759776,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52350197989272,
+          "lng": 7.377329629892722
+        },
+        "southwest": {
+          "lat": 10.52080232010728,
+          "lng": 7.374629970107278
+        }
+      },
+      "formatted_address": "G9CG+R9Q, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5220866,7.3759776",
+      "google_place_id": "ChIJrwgiiuY1TRARdAKru4nqzV8"
+    }
   },
   {
     "id": "73069",
@@ -2141,7 +4178,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5473527,
+      "longitude": 7.404298,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54869627989272,
+          "lng": 7.405645979892721
+        },
+        "southwest": {
+          "lat": 10.54599662010728,
+          "lng": 7.402946320107278
+        }
+      },
+      "formatted_address": "GCW3+WPV, Primary school road hayin danmani, Ungwan Tama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5473527,7.404298",
+      "google_place_id": "ChIJ48-2FijLshERuZdEfz3BUFU"
+    }
   },
   {
     "id": "73070",
@@ -2157,7 +4211,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5387876,
+      "longitude": 7.405442000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54017352989272,
+          "lng": 7.406827329892723
+        },
+        "southwest": {
+          "lat": 10.53747387010728,
+          "lng": 7.404127670107279
+        }
+      },
+      "formatted_address": "No 4B Dangaladima Road off Nnamdi Azikwe, Abuja - Kaduna - Zaria Express Way, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5387876,7.405442000000001",
+      "google_place_id": "ChIJKQ4Y_9HKshERX3NyUzIvcgI"
+    }
   },
   {
     "id": "73071",
@@ -2173,7 +4244,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73072",
@@ -2189,7 +4277,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5475949,
+      "longitude": 7.404255500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54897737989272,
+          "lng": 7.405581479892723
+        },
+        "southwest": {
+          "lat": 10.54627772010728,
+          "lng": 7.402881820107279
+        }
+      },
+      "formatted_address": "7F29GCX3+2MX Hayin Dan Mani village, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5475949,7.404255500000001",
+      "google_place_id": "ChIJGRoywsrLshERKjd9JFZNdIw"
+    }
   },
   {
     "id": "73073",
@@ -2205,7 +4310,8 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "73074",
@@ -2221,7 +4327,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73075",
@@ -2237,7 +4360,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285795,
+      "longitude": 7.386587399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.52981907989272,
+          "lng": 7.387882829892722
+        },
+        "southwest": {
+          "lat": 10.52711942010728,
+          "lng": 7.385183170107277
+        }
+      },
+      "formatted_address": "Bakin Ruwa Rigasa Before Bridge, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285795,7.386587399999999",
+      "google_place_id": "ChIJG5CjpLY1TRAR3Te-G0tYxBc"
+    }
   },
   {
     "id": "73076",
@@ -2253,7 +4393,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73077",
@@ -2269,7 +4426,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73078",
@@ -2285,7 +4459,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   },
   {
     "id": "73079",
@@ -2301,7 +4492,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5475949,
+      "longitude": 7.404255500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54897737989272,
+          "lng": 7.405581479892723
+        },
+        "southwest": {
+          "lat": 10.54627772010728,
+          "lng": 7.402881820107279
+        }
+      },
+      "formatted_address": "7F29GCX3+2MX Hayin Dan Mani village, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5475949,7.404255500000001",
+      "google_place_id": "ChIJGRoywsrLshERKjd9JFZNdIw"
+    }
   },
   {
     "id": "73080",
@@ -2317,7 +4525,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73081",
@@ -2333,7 +4558,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73082",
@@ -2349,7 +4591,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73083",
@@ -2365,7 +4624,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5761205,
+      "longitude": 7.4396616,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57749917989272,
+          "lng": 7.441000729892721
+        },
+        "southwest": {
+          "lat": 10.57479952010728,
+          "lng": 7.438301070107277
+        }
+      },
+      "formatted_address": "NO 12 HAYIN MALLAM BELLO, Rigasa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5761205,7.4396616",
+      "google_place_id": "ChIJ1YwbIvS1shERT29NOCk-tgg"
+    }
   },
   {
     "id": "73084",
@@ -2381,7 +4657,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5285803,
+      "longitude": 7.3865754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5360493,
+          "lng": 7.404263999999999
+        },
+        "southwest": {
+          "lat": 10.5199487,
+          "lng": 7.3772249
+        }
+      },
+      "formatted_address": "Rigasa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5285803,7.3865754",
+      "google_place_id": "ChIJAeb-qS81TRARg263b1dIFSE"
+    }
   },
   {
     "id": "73085",
@@ -2397,7 +4690,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.548137,
+      "longitude": 7.3551114,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54944257989272,
+          "lng": 7.356366829892721
+        },
+        "southwest": {
+          "lat": 10.54674292010728,
+          "lng": 7.353667170107277
+        }
+      },
+      "formatted_address": "800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.548137,7.3551114",
+      "google_place_id": "ChIJXyMppFnLshERlSwUnp-MMIs"
+    }
   },
   {
     "id": "73086",
@@ -2413,7 +4723,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5571713,
+      "longitude": 7.330053,
+      "viewport": {
+        "northeast": {
+          "lat": 10.5942522,
+          "lng": 7.4143542
+        },
+        "southwest": {
+          "lat": 10.4870874,
+          "lng": 7.2376979
+        }
+      },
+      "formatted_address": "Rigasa, 800103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5571713,7.330053",
+      "google_place_id": "ChIJJ-R9YMnMshERcM4PlpFvUeA"
+    }
   },
   {
     "id": "73087",
@@ -2429,7 +4756,24 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5487561,
+      "longitude": 7.3551649,
+      "viewport": {
+        "northeast": {
+          "lat": 10.55003747989272,
+          "lng": 7.356717429892721
+        },
+        "southwest": {
+          "lat": 10.54733782010728,
+          "lng": 7.354017770107277
+        }
+      },
+      "formatted_address": "G9X4+G33, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5487561,7.3551649",
+      "google_place_id": "ChIJ_4haQMHLshER_JwVYijf_UE"
+    }
   },
   {
     "id": "73088",
@@ -2445,6 +4789,23 @@
     "local_government_id": "350",
     "local_government_name": "IGABI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.531112,
+      "longitude": 7.381193799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.53237767989272,
+          "lng": 7.382488179892722
+        },
+        "southwest": {
+          "lat": 10.52967802010728,
+          "lng": 7.379788520107279
+        }
+      },
+      "formatted_address": "Zaria Rd, Rigasa 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.531112,7.381193799999999",
+      "google_place_id": "ChIJie4d-xU1TRARmN4iz19Vme4"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "83163",
@@ -29,7 +30,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "GC68+5HW, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJH4PqTOU1TRAR1ZqpYVlWVJY"
+    }
   },
   {
     "id": "83164",
@@ -45,7 +63,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5119121,
+      "longitude": 7.401717100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51321707989272,
+          "lng": 7.403071079892721
+        },
+        "southwest": {
+          "lat": 10.51051742010728,
+          "lng": 7.400371420107277
+        }
+      },
+      "formatted_address": "Fadan kagoro Primary School, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5119121,7.401717100000001",
+      "google_place_id": "ChIJp1c-ayI1TRARrrzD-yqz8fo"
+    }
   },
   {
     "id": "83165",
@@ -61,7 +96,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6812203,
+      "longitude": 8.1884949,
+      "viewport": {
+        "northeast": {
+          "lat": 9.7725244,
+          "lng": 8.298910900000001
+        },
+        "southwest": {
+          "lat": 9.587664900000002,
+          "lng": 8.1100502
+        }
+      },
+      "formatted_address": "Gidan Jatau, 802127, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6812203,8.1884949",
+      "google_place_id": "ChIJxQdDD2ZcUhARjwUlI7pWK8A"
+    }
   },
   {
     "id": "83166",
@@ -77,7 +129,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.677311699999999,
+      "longitude": 8.1959483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67867317989272,
+          "lng": 8.197324529892722
+        },
+        "southwest": {
+          "lat": 9.675973520107275,
+          "lng": 8.194624870107278
+        }
+      },
+      "formatted_address": "6FXCM5GW+X9C Abet kufai, Kamrum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.677311699999999,8.1959483",
+      "google_place_id": "ChIJWT6EtyxdUhARhvWd9IVUzb8"
+    }
   },
   {
     "id": "83167",
@@ -93,7 +162,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.677311699999999,
+      "longitude": 8.1959483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67867317989272,
+          "lng": 8.197324529892722
+        },
+        "southwest": {
+          "lat": 9.675973520107275,
+          "lng": 8.194624870107278
+        }
+      },
+      "formatted_address": "6FXCM5GW+X9C Abet kufai, Kamrum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.677311699999999,8.1959483",
+      "google_place_id": "ChIJWT6EtyxdUhARhvWd9IVUzb8"
+    }
   },
   {
     "id": "83168",
@@ -109,7 +195,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.150559,
+      "longitude": 8.409175,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151899629892721,
+          "lng": 8.410526129892721
+        },
+        "southwest": {
+          "lat": 9.149199970107277,
+          "lng": 8.407826470107278
+        }
+      },
+      "formatted_address": "5C25+6MF, 801124, Nunku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150559,8.409175",
+      "google_place_id": "ChIJV33f48QrUhARse91-LH7lYY"
+    }
   },
   {
     "id": "83169",
@@ -125,7 +228,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6812203,
+      "longitude": 8.1884949,
+      "viewport": {
+        "northeast": {
+          "lat": 9.68257012989272,
+          "lng": 8.189844729892721
+        },
+        "southwest": {
+          "lat": 9.679870470107277,
+          "lng": 8.187145070107276
+        }
+      },
+      "formatted_address": "Ziyachat Clinic Sakwak Bajju Gidan Jatau Ward, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6812203,8.1884949",
+      "google_place_id": "ChIJmWcWNz1dUhARZsBvv1_k8_g"
+    }
   },
   {
     "id": "83170",
@@ -141,7 +261,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6165401,
+      "longitude": 8.283906,
+      "viewport": {
+        "northeast": {
+          "lat": 9.617939029892723,
+          "lng": 8.285290929892723
+        },
+        "southwest": {
+          "lat": 9.615239370107279,
+          "lng": 8.282591270107279
+        }
+      },
+      "formatted_address": "6FXCJ78M+JH6, Kurdan 1, 802127, Kafanchan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6165401,8.283906",
+      "google_place_id": "ChIJgaydYhlFUhARRS_CvTTpgrE"
+    }
   },
   {
     "id": "83171",
@@ -157,7 +294,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.150559,
+      "longitude": 8.409175,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151899629892721,
+          "lng": 8.410526129892721
+        },
+        "southwest": {
+          "lat": 9.149199970107277,
+          "lng": 8.407826470107278
+        }
+      },
+      "formatted_address": "5C25+6MF, 801124, Nunku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150559,8.409175",
+      "google_place_id": "ChIJV33f48QrUhARse91-LH7lYY"
+    }
   },
   {
     "id": "83172",
@@ -173,7 +327,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.567886699999999,
+      "longitude": 8.2725487,
+      "viewport": {
+        "northeast": {
+          "lat": 9.569199329892722,
+          "lng": 8.274004729892722
+        },
+        "southwest": {
+          "lat": 9.566499670107278,
+          "lng": 8.271305070107278
+        }
+      },
+      "formatted_address": "YANSHI TAUKU Kaduna, 6FXCH79C+5X4 UNGWAR, Kafanchan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.567886699999999,8.2725487",
+      "google_place_id": "ChIJbf03xntFUhARsTen-95yEjM"
+    }
   },
   {
     "id": "83173",
@@ -189,7 +360,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4764954,
+      "longitude": 7.628196699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47786052989272,
+          "lng": 7.62953162989272
+        },
+        "southwest": {
+          "lat": 10.47516087010728,
+          "lng": 7.626831970107276
+        }
+      },
+      "formatted_address": "FJGH+J7V, 800104, Kujama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4764954,7.628196699999999",
+      "google_place_id": "ChIJ8dldpGZSTRAROy_d7OLPP9M"
+    }
   },
   {
     "id": "83174",
@@ -205,7 +393,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4764954,
+      "longitude": 7.628196699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47786052989272,
+          "lng": 7.62953162989272
+        },
+        "southwest": {
+          "lat": 10.47516087010728,
+          "lng": 7.626831970107276
+        }
+      },
+      "formatted_address": "FJGH+J7V, 800104, Kujama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4764954,7.628196699999999",
+      "google_place_id": "ChIJ8dldpGZSTRAROy_d7OLPP9M"
+    }
   },
   {
     "id": "83175",
@@ -221,7 +426,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.645038,
+      "longitude": 8.2717263,
+      "viewport": {
+        "northeast": {
+          "lat": 9.646096379892722,
+          "lng": 8.273535879892723
+        },
+        "southwest": {
+          "lat": 9.643396720107278,
+          "lng": 8.27083622010728
+        }
+      },
+      "formatted_address": "6FXCJ7WC+3J5, Kanem, 802127, Kamrum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.645038,8.2717263",
+      "google_place_id": "ChIJHeVl7B9bUhARJ1djWYbK3n8"
+    }
   },
   {
     "id": "83176",
@@ -237,7 +459,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4764954,
+      "longitude": 7.628196699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47786052989272,
+          "lng": 7.62953162989272
+        },
+        "southwest": {
+          "lat": 10.47516087010728,
+          "lng": 7.626831970107276
+        }
+      },
+      "formatted_address": "FJGH+J7V, 800104, Kujama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4764954,7.628196699999999",
+      "google_place_id": "ChIJ8dldpGZSTRAROy_d7OLPP9M"
+    }
   },
   {
     "id": "83177",
@@ -253,7 +492,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.677311699999999,
+      "longitude": 8.1959483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67867317989272,
+          "lng": 8.197324529892722
+        },
+        "southwest": {
+          "lat": 9.675973520107275,
+          "lng": 8.194624870107278
+        }
+      },
+      "formatted_address": "6FXCM5GW+X9C Abet kufai, Kamrum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.677311699999999,8.1959483",
+      "google_place_id": "ChIJWT6EtyxdUhARhvWd9IVUzb8"
+    }
   },
   {
     "id": "83178",
@@ -269,7 +525,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "GC68+5HW, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJH4PqTOU1TRAR1ZqpYVlWVJY"
+    }
   },
   {
     "id": "83179",
@@ -285,7 +558,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.150559,
+      "longitude": 8.409175,
+      "viewport": {
+        "northeast": {
+          "lat": 9.151899629892721,
+          "lng": 8.410526129892721
+        },
+        "southwest": {
+          "lat": 9.149199970107277,
+          "lng": 8.407826470107278
+        }
+      },
+      "formatted_address": "5C25+6MF, 801124, Nunku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.150559,8.409175",
+      "google_place_id": "ChIJV33f48QrUhARse91-LH7lYY"
+    }
   },
   {
     "id": "83180",
@@ -301,7 +591,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.577597599999999,
+      "longitude": 8.2701385,
+      "viewport": {
+        "northeast": {
+          "lat": 9.578950929892722,
+          "lng": 8.27146567989272
+        },
+        "southwest": {
+          "lat": 9.576251270107278,
+          "lng": 8.268766020107277
+        }
+      },
+      "formatted_address": "H7HC+23J, 802129, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.577597599999999,8.2701385",
+      "google_place_id": "ChIJw3zqLqpFUhARMCMO9oUO7Ws"
+    }
   },
   {
     "id": "83181",
@@ -317,7 +624,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5055732,
+      "longitude": 7.4296005,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50693082989272,
+          "lng": 7.430949279892721
+        },
+        "southwest": {
+          "lat": 10.50423117010728,
+          "lng": 7.428249620107277
+        }
+      },
+      "formatted_address": "JEMA\"\"A LGA KAFACHAN, Jema Road, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5055732,7.4296005",
+      "google_place_id": "ChIJQ2NKklc1TRAR3bXPYdS0YTQ"
+    }
   },
   {
     "id": "83182",
@@ -333,7 +657,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4493868,
+      "longitude": 7.3961702,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45071057989272,
+          "lng": 7.397538079892723
+        },
+        "southwest": {
+          "lat": 10.44801092010728,
+          "lng": 7.394838420107279
+        }
+      },
+      "formatted_address": "kinkinau, Kajuru Street, Nasarawa 800104, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4493868,7.3961702",
+      "google_place_id": "ChIJw2Nixxo1TRARVTM35-iw6_U"
+    }
   },
   {
     "id": "83183",
@@ -349,7 +690,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6812203,
+      "longitude": 8.1884949,
+      "viewport": {
+        "northeast": {
+          "lat": 9.7725244,
+          "lng": 8.298910900000001
+        },
+        "southwest": {
+          "lat": 9.587664900000002,
+          "lng": 8.1100502
+        }
+      },
+      "formatted_address": "Gidan Jatau, 802127, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6812203,8.1884949",
+      "google_place_id": "ChIJxQdDD2ZcUhARjwUlI7pWK8A"
+    }
   },
   {
     "id": "83184",
@@ -365,7 +723,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "No 42 Ecwa Hausa Street Angwan Boro Kaduna, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJ45quAJU1TRARy1_YaUe2vqE"
+    }
   },
   {
     "id": "83185",
@@ -381,7 +756,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6867824,
+      "longitude": 8.137448599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.688128129892721,
+          "lng": 8.138740879892723
+        },
+        "southwest": {
+          "lat": 9.685428470107277,
+          "lng": 8.136041220107279
+        }
+      },
+      "formatted_address": "6FXCM4PP+PX8 Achin Abet Gida Jatua Kaduna, Fadan Waiwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6867824,8.137448599999999",
+      "google_place_id": "ChIJueNVjC9dUhARv2WWwetC9o0"
+    }
   },
   {
     "id": "83186",
@@ -397,7 +789,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6812203,
+      "longitude": 8.1884949,
+      "viewport": {
+        "northeast": {
+          "lat": 9.7725244,
+          "lng": 8.298910900000001
+        },
+        "southwest": {
+          "lat": 9.587664900000002,
+          "lng": 8.1100502
+        }
+      },
+      "formatted_address": "Gidan Jatau, 802127, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6812203,8.1884949",
+      "google_place_id": "ChIJxQdDD2ZcUhARjwUlI7pWK8A"
+    }
   },
   {
     "id": "83187",
@@ -413,7 +822,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.577597599999999,
+      "longitude": 8.2701385,
+      "viewport": {
+        "northeast": {
+          "lat": 9.578950929892722,
+          "lng": 8.27146567989272
+        },
+        "southwest": {
+          "lat": 9.576251270107278,
+          "lng": 8.268766020107277
+        }
+      },
+      "formatted_address": "H7HC+23J, 802129, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.577597599999999,8.2701385",
+      "google_place_id": "ChIJw3zqLqpFUhARMCMO9oUO7Ws"
+    }
   },
   {
     "id": "83188",
@@ -429,7 +855,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6266252,
+      "longitude": 8.2696581,
+      "viewport": {
+        "northeast": {
+          "lat": 9.62794912989272,
+          "lng": 8.271013979892722
+        },
+        "southwest": {
+          "lat": 9.625249470107276,
+          "lng": 8.268314320107278
+        }
+      },
+      "formatted_address": "6FXCJ7G9+MV3, Kurdan, 802127, Kafanchan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6266252,8.2696581",
+      "google_place_id": "ChIJR023WIdbUhARgvIF9h4mi-g"
+    }
   },
   {
     "id": "83189",
@@ -445,7 +888,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.5995226,
+      "longitude": 8.2715478,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60094832989272,
+          "lng": 8.272994729892721
+        },
+        "southwest": {
+          "lat": 9.598248670107276,
+          "lng": 8.270295070107277
+        }
+      },
+      "formatted_address": "6FXCH7XC+RJ2 ZAURU 2, Kafanchan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5995226,8.2715478",
+      "google_place_id": "ChIJoek3LMtFUhARkioW8RqtoEA"
+    }
   },
   {
     "id": "83190",
@@ -461,7 +921,24 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6863978,
+      "longitude": 8.1778628,
+      "viewport": {
+        "northeast": {
+          "lat": 9.68760757989272,
+          "lng": 8.17899262989272
+        },
+        "southwest": {
+          "lat": 9.684907920107277,
+          "lng": 8.176292970107276
+        }
+      },
+      "formatted_address": "6FXCM5PH+H4X Abet kumi, Kamrum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6863978,8.1778628",
+      "google_place_id": "ChIJ4V6eQDhdUhARSesbvf5Y1Yg"
+    }
   },
   {
     "id": "83191",
@@ -477,6 +954,23 @@
     "local_government_id": "368",
     "local_government_name": "ZANGON KATAF",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 9.6812203,
+      "longitude": 8.1884949,
+      "viewport": {
+        "northeast": {
+          "lat": 9.7725244,
+          "lng": 8.298910900000001
+        },
+        "southwest": {
+          "lat": 9.587664900000002,
+          "lng": 8.1100502
+        }
+      },
+      "formatted_address": "Gidan Jatau, 802127, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6812203,8.1884949",
+      "google_place_id": "ChIJxQdDD2ZcUhARjwUlI7pWK8A"
+    }
   }
 ]
