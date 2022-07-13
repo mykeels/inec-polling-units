@@ -1,0 +1,25 @@
+{
+  "name": "inec-polling-units",
+  "version": "1.0.0",
+  "description": "Retrieved from https://www.inecnigeria.org/elections/polling-units/",
+  "main": "scripts/generate-csv-file.script.js",
+  "scripts": {
+    "generate-csv-file": "node scripts/generate-csv-file.script.js",
+    "lookup-geocode": "node scripts/lookup-geocode.script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykeels/inec-polling-units.git"
+  },
+  "keywords": ["inec", "nigeria", "polling units data"],
+  "author": "mykeels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykeels/inec-polling-units/issues"
+  },
+  "homepage": "https://github.com/mykeels/inec-polling-units#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}

@@ -1,3 +1,9 @@
+/**
+ * The script should walk through all polling units data, and generate a giant CSV
+ * that can be used in Excel or Google sheets with the format:
+ * name, ward_name, local_government_name, state_name, latitude, longitude
+ */
+
 const fs = require("fs");
 const path = require("path");
 
@@ -11,6 +17,6 @@ async function* walk(dir) {
 
 (async () => {
   for await (const file of walk(`./states/`)) {
-    console.log(file);
+    // @TODO Write code here
   }
 })();
