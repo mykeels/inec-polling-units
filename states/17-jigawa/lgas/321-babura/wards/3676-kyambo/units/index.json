@@ -13,7 +13,8 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67240",
@@ -29,7 +30,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4773481,
+      "longitude": 8.7734177,
+      "viewport": {
+        "northeast": {
+          "lat": 12.47873272989272,
+          "lng": 8.77465167989272
+        },
+        "southwest": {
+          "lat": 12.47603307010728,
+          "lng": 8.771952020107276
+        }
+      },
+      "formatted_address": "Duzau Primary School, 732104, Duzau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4773481,8.7734177",
+      "google_place_id": "ChIJayeMNp7orhER8gxP1C2Cm50"
+    }
   },
   {
     "id": "67241",
@@ -45,7 +63,8 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67242",
@@ -61,7 +80,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5190097,
+      "longitude": 8.780648,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52030177989272,
+          "lng": 8.781954279892723
+        },
+        "southwest": {
+          "lat": 12.51760212010728,
+          "lng": 8.77925462010728
+        }
+      },
+      "formatted_address": "732104, Kyambo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5190097,8.780648",
+      "google_place_id": "ChIJpZ0Q5VnmrhERPcABd648GIw"
+    }
   },
   {
     "id": "67243",
@@ -77,7 +113,8 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67244",
@@ -93,7 +130,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5466482,
+      "longitude": 8.7405022,
+      "viewport": {
+        "northeast": {
+          "lat": 12.54801587989272,
+          "lng": 8.741917979892722
+        },
+        "southwest": {
+          "lat": 12.54531622010728,
+          "lng": 8.739218320107279
+        }
+      },
+      "formatted_address": "Lamintani Primary School, 732104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5466482,8.7405022",
+      "google_place_id": "ChIJJ0CfaCLkrhERRYfqkmersik"
+    }
   },
   {
     "id": "67245",
@@ -109,7 +163,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6304939,
+      "longitude": 8.990793799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7318575,
+          "lng": 9.0427623
+        },
+        "southwest": {
+          "lat": 12.5680396,
+          "lng": 8.898819399999999
+        }
+      },
+      "formatted_address": "Jigawa, 732104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6304939,8.990793799999999",
+      "google_place_id": "ChIJ5zGyXH7YrhERhnsbpIYDKvY"
+    }
   },
   {
     "id": "67246",
@@ -125,7 +196,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7645262,
+      "longitude": 9.013846,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76580987989272,
+          "lng": 9.015023229892721
+        },
+        "southwest": {
+          "lat": 12.76311022010728,
+          "lng": 9.012323570107277
+        }
+      },
+      "formatted_address": "Q277+RG9, 732104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7645262,9.013846",
+      "google_place_id": "ChIJQWLqk18vrxEREBgaeVH7zKY"
+    }
   },
   {
     "id": "67247",
@@ -141,7 +229,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4852726,
+      "longitude": 8.7426101,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5515069,
+          "lng": 8.7934155
+        },
+        "southwest": {
+          "lat": 12.4159426,
+          "lng": 8.698853999999999
+        }
+      },
+      "formatted_address": "Kyambo, 732104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4852726,8.7426101",
+      "google_place_id": "ChIJtc-hQv7lrhERZqoXVk9yZSs"
+    }
   },
   {
     "id": "67248",
@@ -157,7 +262,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6304939,
+      "longitude": 8.990793799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7318575,
+          "lng": 9.0427623
+        },
+        "southwest": {
+          "lat": 12.5680396,
+          "lng": 8.898819399999999
+        }
+      },
+      "formatted_address": "Jigawa, 732104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6304939,8.990793799999999",
+      "google_place_id": "ChIJ5zGyXH7YrhERhnsbpIYDKvY"
+    }
   },
   {
     "id": "67249",
@@ -173,6 +295,23 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4852726,
+      "longitude": 8.7426101,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5515069,
+          "lng": 8.7934155
+        },
+        "southwest": {
+          "lat": 12.4159426,
+          "lng": 8.698853999999999
+        }
+      },
+      "formatted_address": "Kyambo, 732104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4852726,8.7426101",
+      "google_place_id": "ChIJtc-hQv7lrhERZqoXVk9yZSs"
+    }
   }
 ]

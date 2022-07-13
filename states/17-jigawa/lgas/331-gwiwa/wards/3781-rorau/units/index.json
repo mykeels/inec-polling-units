@@ -13,7 +13,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2789744,
+      "longitude": 9.430906799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28025772989272,
+          "lng": 9.432194279892723
+        },
+        "southwest": {
+          "lat": 12.27755807010728,
+          "lng": 9.42949462010728
+        }
+      },
+      "formatted_address": "7CHJ+HCR, 733103, Ringim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2789744,9.430906799999999",
+      "google_place_id": "ChIJ72uE4Z44qRERGt28WNbSwYk"
+    }
   },
   {
     "id": "68958",
@@ -29,7 +46,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5712504,
+      "longitude": 8.3636131,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57294185,
+          "lng": 8.36536402989272
+        },
+        "southwest": {
+          "lat": 12.56617605,
+          "lng": 8.362664370107277
+        }
+      },
+      "formatted_address": "H9C7+GC5, 705104, Roni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5712504,8.3636131",
+      "google_place_id": "ChIJVVVVVWVRrhERI7yVGE45EZI"
+    }
   },
   {
     "id": "68959",
@@ -45,7 +79,8 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68960",
@@ -61,7 +96,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7502269,
+      "longitude": 8.2542971,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75162152989272,
+          "lng": 8.255760679892724
+        },
+        "southwest": {
+          "lat": 12.74892187010728,
+          "lng": 8.253061020107278
+        }
+      },
+      "formatted_address": "Q723+3PV, 705105, Gwiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7502269,8.2542971",
+      "google_place_id": "ChIJfQec-JKzrxERUNk38JpTvRI"
+    }
   },
   {
     "id": "68961",
@@ -77,7 +129,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.1507881,
+      "longitude": 9.1598398,
+      "viewport": {
+        "northeast": {
+          "lat": 12.15214162989272,
+          "lng": 9.16119672989272
+        },
+        "southwest": {
+          "lat": 12.14944197010728,
+          "lng": 9.158497070107277
+        }
+      },
+      "formatted_address": "5525+8W9, Walawa 733102, Ringim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1507881,9.1598398",
+      "google_place_id": "ChIJX-EiNOKzrhERkw7jyeKRFXs"
+    }
   },
   {
     "id": "68962",
@@ -93,6 +162,23 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6233934,
+      "longitude": 9.3792862,
+      "viewport": {
+        "northeast": {
+          "lat": 12.62424437989272,
+          "lng": 9.380864279892721
+        },
+        "southwest": {
+          "lat": 12.62154472010728,
+          "lng": 9.378164620107277
+        }
+      },
+      "formatted_address": "J9FH+9P3, Kano-Gumel Rd, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6233934,9.3792862",
+      "google_place_id": "ChIJBwTD-OUnqRERknwooD8w2fU"
+    }
   }
 ]

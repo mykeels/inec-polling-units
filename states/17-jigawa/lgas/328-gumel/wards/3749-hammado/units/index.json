@@ -13,7 +13,24 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5906331,
+      "longitude": 9.4213585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.59192157989272,
+          "lng": 9.422790429892723
+        },
+        "southwest": {
+          "lat": 12.58922192010728,
+          "lng": 9.42009077010728
+        }
+      },
+      "formatted_address": "HCRC+7G5, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5906331,9.4213585",
+      "google_place_id": "ChIJOTYLu5YnqRERztBB8cEcK_U"
+    }
   },
   {
     "id": "68448",
@@ -29,7 +46,8 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68449",
@@ -45,7 +63,24 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6343501,
+      "longitude": 9.3883109,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6357853,
+          "lng": 9.390042729892723
+        },
+        "southwest": {
+          "lat": 12.6328465,
+          "lng": 9.38734307010728
+        }
+      },
+      "formatted_address": "Gagarawa-Gumel-Maigatari Road, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6343501,9.3883109",
+      "google_place_id": "ChIJtXeqo_QnqRERyR2ljz2muT4"
+    }
   },
   {
     "id": "68450",
@@ -61,7 +96,24 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5906331,
+      "longitude": 9.4213585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.59192157989272,
+          "lng": 9.422790429892723
+        },
+        "southwest": {
+          "lat": 12.58922192010728,
+          "lng": 9.42009077010728
+        }
+      },
+      "formatted_address": "HCRC+7G5, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5906331,9.4213585",
+      "google_place_id": "ChIJOTYLu5YnqRERztBB8cEcK_U"
+    }
   },
   {
     "id": "68451",
@@ -77,6 +129,23 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6184998,
+      "longitude": 9.3769216,
+      "viewport": {
+        "northeast": {
+          "lat": 12.61986007989272,
+          "lng": 9.378364929892722
+        },
+        "southwest": {
+          "lat": 12.61716042010728,
+          "lng": 9.375665270107278
+        }
+      },
+      "formatted_address": "Local Government, Kano Rd, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6184998,9.3769216",
+      "google_place_id": "ChIJZ0kzlecnqRERcrdqjbUe8fg"
+    }
   }
 ]

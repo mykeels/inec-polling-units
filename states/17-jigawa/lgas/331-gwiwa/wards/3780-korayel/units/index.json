@@ -13,7 +13,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2029497,
+      "longitude": 9.3214154,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20422092989272,
+          "lng": 9.32273877989272
+        },
+        "southwest": {
+          "lat": 12.20152127010728,
+          "lng": 9.320039120107277
+        }
+      },
+      "formatted_address": "683C+5HF, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2029497,9.3214154",
+      "google_place_id": "ChIJyQEhDSdJqRER5sB7KiLMIwM"
+    }
   },
   {
     "id": "68950",
@@ -29,7 +46,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6757669,
+      "longitude": 9.2641399,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67714202989272,
+          "lng": 9.265466179892721
+        },
+        "southwest": {
+          "lat": 12.67444237010728,
+          "lng": 9.262766520107277
+        }
+      },
+      "formatted_address": "M7G7+8J4, 732106, Sule Tankarka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6757669,9.2641399",
+      "google_place_id": "ChIJ7bPBr8XVqBERLLdpX46-6j0"
+    }
   },
   {
     "id": "68951",
@@ -45,7 +79,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7776672,
+      "longitude": 7.903306400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77898162989272,
+          "lng": 7.904670729892723
+        },
+        "southwest": {
+          "lat": 12.77628197010728,
+          "lng": 7.901971070107279
+        }
+      },
+      "formatted_address": "QWH3+38V, 822105, Doro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7776672,7.903306400000001",
+      "google_place_id": "ChIJaZHoatjTrxERFXebuxmCorQ"
+    }
   },
   {
     "id": "68952",
@@ -61,7 +112,8 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68953",
@@ -77,7 +129,8 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68954",
@@ -93,7 +146,8 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68955",
@@ -109,7 +163,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3635,
+      "longitude": 9.594199999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.36474017989272,
+          "lng": 9.595110629892721
+        },
+        "southwest": {
+          "lat": 11.36204052010728,
+          "lng": 9.592410970107277
+        }
+      },
+      "formatted_address": "9H7V+CM4, 721101, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3635,9.594199999999999",
+      "google_place_id": "ChIJqV2S7CujqxERrXrQGzUY67I"
+    }
   },
   {
     "id": "68956",
@@ -125,6 +196,23 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7502269,
+      "longitude": 8.2542971,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75162152989272,
+          "lng": 8.255760679892724
+        },
+        "southwest": {
+          "lat": 12.74892187010728,
+          "lng": 8.253061020107278
+        }
+      },
+      "formatted_address": "Q723+3PV, 705105, Gwiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7502269,8.2542971",
+      "google_place_id": "ChIJfQec-JKzrxERUNk38JpTvRI"
+    }
   }
 ]

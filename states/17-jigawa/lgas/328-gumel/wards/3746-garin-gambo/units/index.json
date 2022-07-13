@@ -13,7 +13,24 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6892098,
+      "longitude": 9.4283801,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7058041,
+          "lng": 9.475270799999999
+        },
+        "southwest": {
+          "lat": 12.6642878,
+          "lng": 9.3941239
+        }
+      },
+      "formatted_address": "Garin Gambo, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6892098,9.4283801",
+      "google_place_id": "ChIJTZyjPCDZqBERKuH4FRLjYrA"
+    }
   },
   {
     "id": "68420",
@@ -29,7 +46,24 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6892098,
+      "longitude": 9.4283801,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7058041,
+          "lng": 9.475270799999999
+        },
+        "southwest": {
+          "lat": 12.6642878,
+          "lng": 9.3941239
+        }
+      },
+      "formatted_address": "Garin Gambo, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6892098,9.4283801",
+      "google_place_id": "ChIJTZyjPCDZqBERKuH4FRLjYrA"
+    }
   },
   {
     "id": "68421",
@@ -45,6 +79,23 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6892098,
+      "longitude": 9.4283801,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7058041,
+          "lng": 9.475270799999999
+        },
+        "southwest": {
+          "lat": 12.6642878,
+          "lng": 9.3941239
+        }
+      },
+      "formatted_address": "Garin Gambo, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6892098,9.4283801",
+      "google_place_id": "ChIJTZyjPCDZqBERKuH4FRLjYrA"
+    }
   }
 ]

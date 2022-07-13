@@ -13,7 +13,24 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3328673,
+      "longitude": 9.9376105,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33429102989272,
+          "lng": 9.939073779892722
+        },
+        "southwest": {
+          "lat": 12.33159137010728,
+          "lng": 9.936374120107278
+        }
+      },
+      "formatted_address": "8WMQ+42X, 731107, Kiggin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3328673,9.9376105",
+      "google_place_id": "ChIJo1NTAcOhqRERC4ZK2w8CvvA"
+    }
   },
   {
     "id": "68567",
@@ -29,7 +46,24 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3328673,
+      "longitude": 9.9376105,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33429102989272,
+          "lng": 9.939073779892722
+        },
+        "southwest": {
+          "lat": 12.33159137010728,
+          "lng": 9.936374120107278
+        }
+      },
+      "formatted_address": "8WMQ+42X, 731107, Kiggin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3328673,9.9376105",
+      "google_place_id": "ChIJo1NTAcOhqRERC4ZK2w8CvvA"
+    }
   },
   {
     "id": "68568",
@@ -45,7 +79,8 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68569",
@@ -61,7 +96,8 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68570",
@@ -77,6 +113,23 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5608538,
+      "longitude": 9.8814932,
+      "viewport": {
+        "northeast": {
+          "lat": 12.56223317989272,
+          "lng": 9.882878329892723
+        },
+        "southwest": {
+          "lat": 12.55953352010728,
+          "lng": 9.880178670107279
+        }
+      },
+      "formatted_address": "Tashar Challe Road Malam madori Malam Madori, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5608538,9.8814932",
+      "google_place_id": "ChIJ8RrLbUEBqRER75vsEffELsg"
+    }
   }
 ]

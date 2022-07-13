@@ -13,7 +13,8 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68423",
@@ -29,7 +30,24 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJrf1sGOgWqRERK-FKp9jPu5g"
+    }
   },
   {
     "id": "68424",
@@ -45,7 +63,8 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68425",
@@ -61,7 +80,8 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68426",
@@ -77,7 +97,8 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68427",
@@ -93,7 +114,8 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68428",
@@ -109,6 +131,23 @@
     "local_government_id": "328",
     "local_government_name": "GUMEL",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5909366,
+      "longitude": 9.3738125,
+      "viewport": {
+        "northeast": {
+          "lat": 12.59222347989272,
+          "lng": 9.375223779892723
+        },
+        "southwest": {
+          "lat": 12.58952382010728,
+          "lng": 9.372524120107279
+        }
+      },
+      "formatted_address": "Maigazari Primary School, 732102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5909366,9.3738125",
+      "google_place_id": "ChIJOZYubywmqRER7DHjRZDf06U"
+    }
   }
 ]

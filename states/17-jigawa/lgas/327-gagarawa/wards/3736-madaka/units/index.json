@@ -13,7 +13,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5652068,
+      "longitude": 9.880963999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.56654072989272,
+          "lng": 9.88232302989272
+        },
+        "southwest": {
+          "lat": 12.56384107010728,
+          "lng": 9.879623370107277
+        }
+      },
+      "formatted_address": "730101, Dunari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5652068,9.880963999999999",
+      "google_place_id": "ChIJM0pWmT0BqRERA48R9LSEmSI"
+    }
   },
   {
     "id": "68324",
@@ -29,7 +46,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.054951,
+      "longitude": 9.0164258,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05619632989272,
+          "lng": 9.017821179892724
+        },
+        "southwest": {
+          "lat": 12.05349667010728,
+          "lng": 9.01512152010728
+        }
+      },
+      "formatted_address": "7F4F3238+XHM, Gumel - Gagarawa Rd, Unguabai 713103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.054951,9.0164258",
+      "google_place_id": "ChIJBciSRXyvrhEReasHKCWBDbg"
+    }
   },
   {
     "id": "68325",
@@ -45,7 +79,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6343501,
+      "longitude": 9.3883109,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6357853,
+          "lng": 9.390042729892723
+        },
+        "southwest": {
+          "lat": 12.6328465,
+          "lng": 9.38734307010728
+        }
+      },
+      "formatted_address": "Gagarawa-Gumel-Maigatari Road, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6343501,9.3883109",
+      "google_place_id": "ChIJtXeqo_QnqRERyR2ljz2muT4"
+    }
   },
   {
     "id": "68326",
@@ -61,7 +112,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5313628,
+      "longitude": 9.556221899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6025482,
+          "lng": 9.5926084
+        },
+        "southwest": {
+          "lat": 12.4886037,
+          "lng": 9.4865101
+        }
+      },
+      "formatted_address": "Madaka, 732103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5313628,9.556221899999999",
+      "google_place_id": "ChIJKYQuLf8hqRERCABDXHSavvc"
+    }
   },
   {
     "id": "68327",
@@ -77,7 +145,8 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68328",
@@ -93,7 +162,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.257141,
+      "longitude": 9.4004694,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26254415,
+          "lng": 9.402685200000002
+        },
+        "southwest": {
+          "lat": 12.25533995,
+          "lng": 9.3997308
+        }
+      },
+      "formatted_address": "7C42+V55, Unnamed Road, 733103, Kwalan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.257141,9.4004694",
+      "google_place_id": "ChIJA-cd4NVHqRERpFK1cwk2yKU"
+    }
   },
   {
     "id": "68329",
@@ -109,6 +195,23 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0501953,
+      "longitude": 9.003269699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05153682989272,
+          "lng": 9.00460642989272
+        },
+        "southwest": {
+          "lat": 12.04883717010728,
+          "lng": 9.001906770107276
+        }
+      },
+      "formatted_address": "3223+38C, 713103, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0501953,9.003269699999999",
+      "google_place_id": "ChIJZcyVv4-lrhERYm-th9bhzv0"
+    }
   }
 ]

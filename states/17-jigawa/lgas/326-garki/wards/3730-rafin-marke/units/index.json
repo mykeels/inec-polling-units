@@ -13,7 +13,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68263",
@@ -29,7 +30,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68264",
@@ -45,7 +47,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68265",
@@ -61,7 +64,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68266",
@@ -77,7 +81,24 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
   },
   {
     "id": "68267",
@@ -93,7 +114,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68268",
@@ -109,7 +131,24 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4199997,
+      "longitude": 9.1686585,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42126252989272,
+          "lng": 9.17001122989272
+        },
+        "southwest": {
+          "lat": 12.41856287010728,
+          "lng": 9.167311570107277
+        }
+      },
+      "formatted_address": "C599+XFV, kwanar, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4199997,9.1686585",
+      "google_place_id": "ChIJB6nPbJvNrhERsZg082ePSB8"
+    }
   },
   {
     "id": "68269",
@@ -125,7 +164,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68270",
@@ -141,7 +181,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68271",
@@ -157,7 +198,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68272",
@@ -173,7 +215,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68273",
@@ -189,6 +232,23 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4356153,
+      "longitude": 9.1857039,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43685057989272,
+          "lng": 9.187042929892725
+        },
+        "southwest": {
+          "lat": 12.43415092010728,
+          "lng": 9.18434327010728
+        }
+      },
+      "formatted_address": "C5PP+67W, 733101, Garki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4356153,9.1857039",
+      "google_place_id": "ChIJIQlVKVTNrhERLH4hT0nXkxM"
+    }
   }
 ]

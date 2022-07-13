@@ -13,7 +13,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3810163,
+      "longitude": 9.5339744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4203405,
+          "lng": 9.6154697
+        },
+        "southwest": {
+          "lat": 11.3154671,
+          "lng": 9.4975998
+        }
+      },
+      "formatted_address": "Kiyako, 721101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3810163,9.5339744",
+      "google_place_id": "ChIJW2ZmobKiqxERB3qyLA-JOKg"
+    }
   },
   {
     "id": "67383",
@@ -29,7 +46,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 10.3992483,
+      "longitude": 12.0000843,
+      "viewport": {
+        "northeast": {
+          "lat": 10.404646,
+          "lng": 12.0121579
+        },
+        "southwest": {
+          "lat": 10.393535,
+          "lng": 11.995213
+        }
+      },
+      "formatted_address": "603103, Bakin Kasuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3992483,12.0000843",
+      "google_place_id": "ChIJF9WuDiL-ARER8OR712ChcgI"
+    }
   },
   {
     "id": "67384",
@@ -45,7 +79,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3570112,
+      "longitude": 9.5280659,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35849632989272,
+          "lng": 9.529537829892721
+        },
+        "southwest": {
+          "lat": 11.35579667010728,
+          "lng": 9.526838170107277
+        }
+      },
+      "formatted_address": "721101, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3570112,9.5280659",
+      "google_place_id": "ChIJM6VPNBeYqxERJJAIIOddT-8"
+    }
   },
   {
     "id": "67385",
@@ -61,7 +112,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.4654398,
+      "longitude": 9.481354699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46663967989272,
+          "lng": 9.482539079892721
+        },
+        "southwest": {
+          "lat": 11.46394002010728,
+          "lng": 9.479839420107277
+        }
+      },
+      "formatted_address": "FF8J+5GH, Kano-Kari Rd, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4654398,9.481354699999999",
+      "google_place_id": "ChIJEywfCyGUqxERTNrTMQF9HMY"
+    }
   },
   {
     "id": "67386",
@@ -77,7 +145,8 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67387",
@@ -93,7 +162,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.4374238,
+      "longitude": 9.4739813,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43873477989272,
+          "lng": 9.475406779892719
+        },
+        "southwest": {
+          "lat": 11.43603512010728,
+          "lng": 9.472707120107275
+        }
+      },
+      "formatted_address": "CFPF+XH9, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4374238,9.4739813",
+      "google_place_id": "ChIJHztLMFuXqxER1n4B_u2zKpk"
+    }
   },
   {
     "id": "67388",
@@ -109,7 +195,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3774453,
+      "longitude": 9.5424675,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37887392989272,
+          "lng": 9.543856679892722
+        },
+        "southwest": {
+          "lat": 11.37617427010728,
+          "lng": 9.541157020107278
+        }
+      },
+      "formatted_address": "Kano Rd, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774453,9.5424675",
+      "google_place_id": "ChIJuSb6rP2XqxERNei7OiD5qT4"
+    }
   },
   {
     "id": "67389",
@@ -125,7 +228,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 10.8700992,
+      "longitude": 7.7678169,
+      "viewport": {
+        "northeast": {
+          "lat": 10.8707581,
+          "lng": 7.7707691
+        },
+        "southwest": {
+          "lat": 10.8632579,
+          "lng": 7.761045900000001
+        }
+      },
+      "formatted_address": "800101, Birnin Barwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8700992,7.7678169",
+      "google_place_id": "ChIJYYEoXhagshER8Tn4LXb81qU"
+    }
   },
   {
     "id": "67390",
@@ -141,7 +261,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3774453,
+      "longitude": 9.5424675,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37887392989272,
+          "lng": 9.543856679892722
+        },
+        "southwest": {
+          "lat": 11.37617427010728,
+          "lng": 9.541157020107278
+        }
+      },
+      "formatted_address": "Kano Rd, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774453,9.5424675",
+      "google_place_id": "ChIJuSb6rP2XqxERNei7OiD5qT4"
+    }
   },
   {
     "id": "67391",
@@ -157,7 +294,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3774453,
+      "longitude": 9.5424675,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37887392989272,
+          "lng": 9.543856679892722
+        },
+        "southwest": {
+          "lat": 11.37617427010728,
+          "lng": 9.541157020107278
+        }
+      },
+      "formatted_address": "Kano Rd, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774453,9.5424675",
+      "google_place_id": "ChIJuSb6rP2XqxERNei7OiD5qT4"
+    }
   },
   {
     "id": "67392",
@@ -173,7 +327,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.4374238,
+      "longitude": 9.4739813,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43873477989272,
+          "lng": 9.475406779892719
+        },
+        "southwest": {
+          "lat": 11.43603512010728,
+          "lng": 9.472707120107275
+        }
+      },
+      "formatted_address": "CFPF+XH9, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4374238,9.4739813",
+      "google_place_id": "ChIJHztLMFuXqxER1n4B_u2zKpk"
+    }
   },
   {
     "id": "67393",
@@ -189,7 +360,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.356214,
+      "longitude": 9.594196000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35757872989272,
+          "lng": 9.595575529892722
+        },
+        "southwest": {
+          "lat": 11.35487907010728,
+          "lng": 9.592875870107278
+        }
+      },
+      "formatted_address": "9H4V+FMP, 721101, Hambarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.356214,9.594196000000002",
+      "google_place_id": "ChIJlx9JHSajqxERoO1UQdoXsgU"
+    }
   },
   {
     "id": "67394",
@@ -205,7 +393,8 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67395",
@@ -221,7 +410,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.4374238,
+      "longitude": 9.4739813,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43873477989272,
+          "lng": 9.475406779892719
+        },
+        "southwest": {
+          "lat": 11.43603512010728,
+          "lng": 9.472707120107275
+        }
+      },
+      "formatted_address": "CFPF+XH9, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4374238,9.4739813",
+      "google_place_id": "ChIJHztLMFuXqxER1n4B_u2zKpk"
+    }
   },
   {
     "id": "67396",
@@ -237,7 +443,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJrf1sGOgWqRERK-FKp9jPu5g"
+    }
   },
   {
     "id": "67397",
@@ -253,7 +476,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.5056389,
+      "longitude": 9.500614299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7294111,
+          "lng": 9.6651218
+        },
+        "southwest": {
+          "lat": 11.2519725,
+          "lng": 9.1921255
+        }
+      },
+      "formatted_address": "Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5056389,9.500614299999999",
+      "google_place_id": "ChIJ8RRqrL6TqxERNmwuQqqp9HE"
+    }
   },
   {
     "id": "67398",
@@ -269,7 +509,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3810163,
+      "longitude": 9.5339744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4203405,
+          "lng": 9.6154697
+        },
+        "southwest": {
+          "lat": 11.3154671,
+          "lng": 9.4975998
+        }
+      },
+      "formatted_address": "Kiyako, 721101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3810163,9.5339744",
+      "google_place_id": "ChIJW2ZmobKiqxERB3qyLA-JOKg"
+    }
   },
   {
     "id": "67399",
@@ -285,7 +542,8 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67400",
@@ -301,7 +559,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3810163,
+      "longitude": 9.5339744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4203405,
+          "lng": 9.6154697
+        },
+        "southwest": {
+          "lat": 11.3154671,
+          "lng": 9.4975998
+        }
+      },
+      "formatted_address": "Kiyako, 721101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3810163,9.5339744",
+      "google_place_id": "ChIJW2ZmobKiqxERB3qyLA-JOKg"
+    }
   },
   {
     "id": "67401",
@@ -317,7 +592,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3810163,
+      "longitude": 9.5339744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4203405,
+          "lng": 9.6154697
+        },
+        "southwest": {
+          "lat": 11.3154671,
+          "lng": 9.4975998
+        }
+      },
+      "formatted_address": "Kiyako, 721101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3810163,9.5339744",
+      "google_place_id": "ChIJW2ZmobKiqxERB3qyLA-JOKg"
+    }
   },
   {
     "id": "67402",
@@ -333,7 +625,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3810163,
+      "longitude": 9.5339744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4203405,
+          "lng": 9.6154697
+        },
+        "southwest": {
+          "lat": 11.3154671,
+          "lng": 9.4975998
+        }
+      },
+      "formatted_address": "Kiyako, 721101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3810163,9.5339744",
+      "google_place_id": "ChIJW2ZmobKiqxERB3qyLA-JOKg"
+    }
   },
   {
     "id": "67403",
@@ -349,7 +658,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3810163,
+      "longitude": 9.5339744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4203405,
+          "lng": 9.6154697
+        },
+        "southwest": {
+          "lat": 11.3154671,
+          "lng": 9.4975998
+        }
+      },
+      "formatted_address": "Kiyako, 721101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3810163,9.5339744",
+      "google_place_id": "ChIJW2ZmobKiqxERB3qyLA-JOKg"
+    }
   },
   {
     "id": "67404",
@@ -365,7 +691,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3774453,
+      "longitude": 9.5424675,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37887392989272,
+          "lng": 9.543856679892722
+        },
+        "southwest": {
+          "lat": 11.37617427010728,
+          "lng": 9.541157020107278
+        }
+      },
+      "formatted_address": "Kano Rd, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774453,9.5424675",
+      "google_place_id": "ChIJuSb6rP2XqxERNei7OiD5qT4"
+    }
   },
   {
     "id": "67405",
@@ -381,7 +724,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.3774453,
+      "longitude": 9.5424675,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37887392989272,
+          "lng": 9.543856679892722
+        },
+        "southwest": {
+          "lat": 11.37617427010728,
+          "lng": 9.541157020107278
+        }
+      },
+      "formatted_address": "Kano Rd, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774453,9.5424675",
+      "google_place_id": "ChIJuSb6rP2XqxERNei7OiD5qT4"
+    }
   },
   {
     "id": "67406",
@@ -397,7 +757,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.356214,
+      "longitude": 9.594196000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35757872989272,
+          "lng": 9.595575529892722
+        },
+        "southwest": {
+          "lat": 11.35487907010728,
+          "lng": 9.592875870107278
+        }
+      },
+      "formatted_address": "9H4V+FMP, 721101, Hambarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.356214,9.594196000000002",
+      "google_place_id": "ChIJlx9JHSajqxERoO1UQdoXsgU"
+    }
   },
   {
     "id": "67407",
@@ -413,7 +790,24 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.356214,
+      "longitude": 9.594196000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35757872989272,
+          "lng": 9.595575529892722
+        },
+        "southwest": {
+          "lat": 11.35487907010728,
+          "lng": 9.592875870107278
+        }
+      },
+      "formatted_address": "9H4V+FMP, 721101, Hambarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.356214,9.594196000000002",
+      "google_place_id": "ChIJlx9JHSajqxERoO1UQdoXsgU"
+    }
   },
   {
     "id": "67408",
@@ -429,6 +823,7 @@
     "local_government_id": "322",
     "local_government_name": "BIRNIN KUDU",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

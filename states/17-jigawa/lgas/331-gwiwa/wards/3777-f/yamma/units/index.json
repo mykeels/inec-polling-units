@@ -13,7 +13,8 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68926",
@@ -29,7 +30,8 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68927",
@@ -45,7 +47,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5712504,
+      "longitude": 8.3636131,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57294185,
+          "lng": 8.36536402989272
+        },
+        "southwest": {
+          "lat": 12.56617605,
+          "lng": 8.362664370107277
+        }
+      },
+      "formatted_address": "H9C7+GC5, 705104, Roni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5712504,8.3636131",
+      "google_place_id": "ChIJVVVVVWVRrhERI7yVGE45EZI"
+    }
   },
   {
     "id": "68928",
@@ -61,7 +80,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7502269,
+      "longitude": 8.2542971,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75162152989272,
+          "lng": 8.255760679892724
+        },
+        "southwest": {
+          "lat": 12.74892187010728,
+          "lng": 8.253061020107278
+        }
+      },
+      "formatted_address": "Q723+3PV, 705105, Gwiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7502269,8.2542971",
+      "google_place_id": "ChIJfQec-JKzrxERUNk38JpTvRI"
+    }
   },
   {
     "id": "68929",
@@ -77,7 +113,24 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7528239,
+      "longitude": 8.3997836,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75407052989272,
+          "lng": 8.400971929892721
+        },
+        "southwest": {
+          "lat": 12.75137087010728,
+          "lng": 8.398272270107277
+        }
+      },
+      "formatted_address": "Q93X+4W3, 705105, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7528239,8.3997836",
+      "google_place_id": "ChIJf1zO0PmrrxERqInysFSWZ4Y"
+    }
   },
   {
     "id": "68930",
@@ -93,6 +146,23 @@
     "local_government_id": "331",
     "local_government_name": "GWIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7528239,
+      "longitude": 8.3997836,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75407052989272,
+          "lng": 8.400971929892721
+        },
+        "southwest": {
+          "lat": 12.75137087010728,
+          "lng": 8.398272270107277
+        }
+      },
+      "formatted_address": "Q93X+4W3, 705105, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7528239,8.3997836",
+      "google_place_id": "ChIJf1zO0PmrrxERqInysFSWZ4Y"
+    }
   }
 ]

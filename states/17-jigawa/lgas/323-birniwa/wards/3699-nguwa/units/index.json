@@ -13,7 +13,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.8966925,
+      "longitude": 10.1143176,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9813529,
+          "lng": 10.2443828
+        },
+        "southwest": {
+          "lat": 12.8078527,
+          "lng": 10.0193342
+        }
+      },
+      "formatted_address": "Nguwa, 731106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8966925,10.1143176",
+      "google_place_id": "ChIJW3lXvYRDqBERjf78UzG4pMw"
+    }
   },
   {
     "id": "67727",
@@ -29,7 +46,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7898518,
+      "longitude": 10.2313909,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79115587989272,
+          "lng": 10.23275262989272
+        },
+        "southwest": {
+          "lat": 12.78845622010728,
+          "lng": 10.23005297010728
+        }
+      },
+      "formatted_address": "Q6QJ+WHR, 731106, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7898518,10.2313909",
+      "google_place_id": "ChIJe7_tAnZIqBERFtK5it6nNY0"
+    }
   },
   {
     "id": "67728",
@@ -45,7 +79,8 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67729",
@@ -61,7 +96,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.9690007,
+      "longitude": 8.8708596,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97043642989272,
+          "lng": 8.872146029892722
+        },
+        "southwest": {
+          "lat": 11.96773677010728,
+          "lng": 8.869446370107278
+        }
+      },
+      "formatted_address": "7F3CXV9C+H8X Fagawa Kwari Dabi, Balare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9690007,8.8708596",
+      "google_place_id": "ChIJWVeq1eWhrhERp7xksm95ilw"
+    }
   },
   {
     "id": "67730",
@@ -77,7 +129,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6184998,
+      "longitude": 9.3769216,
+      "viewport": {
+        "northeast": {
+          "lat": 12.61986007989272,
+          "lng": 9.378364929892722
+        },
+        "southwest": {
+          "lat": 12.61716042010728,
+          "lng": 9.375665270107278
+        }
+      },
+      "formatted_address": "Local Government, Kano Rd, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6184998,9.3769216",
+      "google_place_id": "ChIJZ0kzlecnqRERcrdqjbUe8fg"
+    }
   },
   {
     "id": "67731",
@@ -93,7 +162,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2051001,
+      "longitude": 11.048549,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3124903,
+          "lng": 11.2238774
+        },
+        "southwest": {
+          "lat": 11.0997651,
+          "lng": 10.9495858
+        }
+      },
+      "formatted_address": "Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2051001,11.048549",
+      "google_place_id": "ChIJF53_tb32ABERcEaQ0XvFoFI"
+    }
   },
   {
     "id": "67732",
@@ -109,7 +195,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.2051001,
+      "longitude": 11.048549,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3124903,
+          "lng": 11.2238774
+        },
+        "southwest": {
+          "lat": 11.0997651,
+          "lng": 10.9495858
+        }
+      },
+      "formatted_address": "Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2051001,11.048549",
+      "google_place_id": "ChIJF53_tb32ABERcEaQ0XvFoFI"
+    }
   },
   {
     "id": "67733",
@@ -125,7 +228,8 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67734",
@@ -141,6 +245,23 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3328673,
+      "longitude": 9.9376105,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33429102989272,
+          "lng": 9.939073779892722
+        },
+        "southwest": {
+          "lat": 12.33159137010728,
+          "lng": 9.936374120107278
+        }
+      },
+      "formatted_address": "8WMQ+42X, 731107, Kiggin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3328673,9.9376105",
+      "google_place_id": "ChIJo1NTAcOhqRERC4ZK2w8CvvA"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67251",
@@ -29,7 +30,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6209003,
+      "longitude": 8.863501000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.62210737989272,
+          "lng": 8.865035279892721
+        },
+        "southwest": {
+          "lat": 12.61940772010728,
+          "lng": 8.862335620107277
+        }
+      },
+      "formatted_address": "732104, Dangarkuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6209003,8.863501000000001",
+      "google_place_id": "ChIJgTEGK7ffrhERSJMknnH9PSM"
+    }
   },
   {
     "id": "67252",
@@ -45,7 +63,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6133556,
+      "longitude": 8.897977299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6199241,
+          "lng": 8.8999349
+        },
+        "southwest": {
+          "lat": 12.6110349,
+          "lng": 8.896602
+        }
+      },
+      "formatted_address": "732104, Dan Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6133556,8.897977299999999",
+      "google_place_id": "ChIJE9ayuB7frhERSiOabO_X0Q0"
+    }
   },
   {
     "id": "67253",
@@ -61,7 +96,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6038436,
+      "longitude": 8.874187,
+      "viewport": {
+        "northeast": {
+          "lat": 12.60548,
+          "lng": 8.875213
+        },
+        "southwest": {
+          "lat": 12.601313,
+          "lng": 8.8721579
+        }
+      },
+      "formatted_address": "732104, Dogon Marke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6038436,8.874187",
+      "google_place_id": "ChIJL90LIVHerhERsnpjGB74S9k"
+    }
   },
   {
     "id": "67254",
@@ -77,7 +129,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7648837,
+      "longitude": 9.0098434,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76626877989272,
+          "lng": 9.011570379892722
+        },
+        "southwest": {
+          "lat": 12.76356912010728,
+          "lng": 9.008870720107279
+        }
+      },
+      "formatted_address": "732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7648837,9.0098434",
+      "google_place_id": "ChIJP3Zq5_QlrxERgCs1dMJyWh4"
+    }
   },
   {
     "id": "67255",
@@ -93,7 +162,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7791184,
+      "longitude": 9.014322800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78027082989272,
+          "lng": 9.015690179892722
+        },
+        "southwest": {
+          "lat": 12.77757117010728,
+          "lng": 9.012990520107278
+        }
+      },
+      "formatted_address": "Q2H7+JPW, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7791184,9.014322800000002",
+      "google_place_id": "ChIJcXklPXgvrxEREpJhzmDFbdU"
+    }
   },
   {
     "id": "67256",
@@ -109,7 +195,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7648837,
+      "longitude": 9.0098434,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76626877989272,
+          "lng": 9.011570379892722
+        },
+        "southwest": {
+          "lat": 12.76356912010728,
+          "lng": 9.008870720107279
+        }
+      },
+      "formatted_address": "732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7648837,9.0098434",
+      "google_place_id": "ChIJP3Zq5_QlrxERgCs1dMJyWh4"
+    }
   },
   {
     "id": "67257",
@@ -125,7 +228,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7648837,
+      "longitude": 9.0098434,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76626877989272,
+          "lng": 9.011570379892722
+        },
+        "southwest": {
+          "lat": 12.76356912010728,
+          "lng": 9.008870720107279
+        }
+      },
+      "formatted_address": "732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7648837,9.0098434",
+      "google_place_id": "ChIJP3Zq5_QlrxERgCs1dMJyWh4"
+    }
   },
   {
     "id": "67258",
@@ -141,7 +261,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7648837,
+      "longitude": 9.0098434,
+      "viewport": {
+        "northeast": {
+          "lat": 12.76626877989272,
+          "lng": 9.011570379892722
+        },
+        "southwest": {
+          "lat": 12.76356912010728,
+          "lng": 9.008870720107279
+        }
+      },
+      "formatted_address": "732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7648837,9.0098434",
+      "google_place_id": "ChIJP3Zq5_QlrxERgCs1dMJyWh4"
+    }
   },
   {
     "id": "67259",
@@ -157,7 +294,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7826637,
+      "longitude": 9.0102415,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78390467989272,
+          "lng": 9.0110527
+        },
+        "southwest": {
+          "lat": 12.78120502010728,
+          "lng": 9.007807899999998
+        }
+      },
+      "formatted_address": "Q2M6+339, 732104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7826637,9.0102415",
+      "google_place_id": "ChIJ85bEJ4clrxERSbG5x-NTYDA"
+    }
   },
   {
     "id": "67260",
@@ -173,7 +327,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7826637,
+      "longitude": 9.0102415,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78390467989272,
+          "lng": 9.0110527
+        },
+        "southwest": {
+          "lat": 12.78120502010728,
+          "lng": 9.007807899999998
+        }
+      },
+      "formatted_address": "Q2M6+339, 732104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7826637,9.0102415",
+      "google_place_id": "ChIJ85bEJ4clrxERSbG5x-NTYDA"
+    }
   },
   {
     "id": "67261",
@@ -189,7 +360,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7757947,
+      "longitude": 9.0207832,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77722102989272,
+          "lng": 9.021929329892721
+        },
+        "southwest": {
+          "lat": 12.77452137010728,
+          "lng": 9.019229670107277
+        }
+      },
+      "formatted_address": "Q2GC+887, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7757947,9.0207832",
+      "google_place_id": "ChIJ5ax96vwvrxERdI8y3xTIBCE"
+    }
   },
   {
     "id": "67262",
@@ -205,7 +393,8 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67263",
@@ -221,7 +410,24 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7024113,
+      "longitude": 9.3339187,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70377157989272,
+          "lng": 9.335269179892721
+        },
+        "southwest": {
+          "lat": 11.70107192010728,
+          "lng": 9.332569520107278
+        }
+      },
+      "formatted_address": "Ground Floor, State New Secretariat Complex, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7024113,9.3339187",
+      "google_place_id": "ChIJVVVVVUXwqxER1b0VhC2p9sY"
+    }
   },
   {
     "id": "67264",
@@ -237,6 +443,23 @@
     "local_government_id": "321",
     "local_government_name": "BABURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6304939,
+      "longitude": 8.990793799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7318575,
+          "lng": 9.0427623
+        },
+        "southwest": {
+          "lat": 12.5680396,
+          "lng": 8.898819399999999
+        }
+      },
+      "formatted_address": "Jigawa, 732104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6304939,8.990793799999999",
+      "google_place_id": "ChIJ5zGyXH7YrhERhnsbpIYDKvY"
+    }
   }
 ]

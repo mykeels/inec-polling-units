@@ -13,7 +13,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4816999,
+      "longitude": 9.5172926,
+      "viewport": {
+        "northeast": {
+          "lat": 12.499494,
+          "lng": 9.5643728
+        },
+        "southwest": {
+          "lat": 12.448213,
+          "lng": 9.479581800000002
+        }
+      },
+      "formatted_address": "Yalawa, 732103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4816999,9.5172926",
+      "google_place_id": "ChIJB74Jb8AiqRERBI57YKMTOzQ"
+    }
   },
   {
     "id": "68363",
@@ -29,7 +46,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4816999,
+      "longitude": 9.5172926,
+      "viewport": {
+        "northeast": {
+          "lat": 12.499494,
+          "lng": 9.5643728
+        },
+        "southwest": {
+          "lat": 12.448213,
+          "lng": 9.479581800000002
+        }
+      },
+      "formatted_address": "Yalawa, 732103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4816999,9.5172926",
+      "google_place_id": "ChIJB74Jb8AiqRERBI57YKMTOzQ"
+    }
   },
   {
     "id": "68364",
@@ -45,7 +79,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.054951,
+      "longitude": 9.0164258,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05619632989272,
+          "lng": 9.017821179892724
+        },
+        "southwest": {
+          "lat": 12.05349667010728,
+          "lng": 9.01512152010728
+        }
+      },
+      "formatted_address": "7F4F3238+XHM, Gumel - Gagarawa Rd, Unguabai 713103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.054951,9.0164258",
+      "google_place_id": "ChIJBciSRXyvrhEReasHKCWBDbg"
+    }
   },
   {
     "id": "68365",
@@ -61,7 +112,24 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.257141,
+      "longitude": 9.4004694,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26254415,
+          "lng": 9.402685200000002
+        },
+        "southwest": {
+          "lat": 12.25533995,
+          "lng": 9.3997308
+        }
+      },
+      "formatted_address": "7C42+V55, Unnamed Road, 733103, Kwalan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.257141,9.4004694",
+      "google_place_id": "ChIJA-cd4NVHqRERpFK1cwk2yKU"
+    }
   },
   {
     "id": "68366",
@@ -77,6 +145,7 @@
     "local_government_id": "327",
     "local_government_name": "GAGARAWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

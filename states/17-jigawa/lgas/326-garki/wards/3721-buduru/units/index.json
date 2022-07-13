@@ -13,7 +13,24 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3765401,
+      "longitude": 9.3007151,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37791977989272,
+          "lng": 9.302073279892722
+        },
+        "southwest": {
+          "lat": 12.37522012010728,
+          "lng": 9.299373620107279
+        }
+      },
+      "formatted_address": "Buduru Primary School, 733101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3765401,9.3007151",
+      "google_place_id": "ChIJvRqr4kkxqRERa6UHgMK-A5Q"
+    }
   },
   {
     "id": "68118",
@@ -29,7 +46,24 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.6688802,
+      "longitude": 11.0454842,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67030492989272,
+          "lng": 11.04732617989272
+        },
+        "southwest": {
+          "lat": 11.66760527010728,
+          "lng": 11.04462652010728
+        }
+      },
+      "formatted_address": "M29W+J53, 622101, Potiskum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6688802,11.0454842",
+      "google_place_id": "ChIJJYzs0yPGABER5OjqvQpYOa8"
+    }
   },
   {
     "id": "68119",
@@ -45,7 +79,24 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 9.0346938,
+      "longitude": 7.484116599999998,
+      "viewport": {
+        "northeast": {
+          "lat": 9.036394929892719,
+          "lng": 7.485681979892721
+        },
+        "southwest": {
+          "lat": 9.033695270107275,
+          "lng": 7.482982320107277
+        }
+      },
+      "formatted_address": "2FMM+VJH, Kam Salem Street, Garki 900103, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0346938,7.484116599999998",
+      "google_place_id": "ChIJWSnyIIMLThARdJKqlpfdaSY"
+    }
   },
   {
     "id": "68120",
@@ -61,7 +112,24 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4027512,
+      "longitude": 9.2925491,
+      "viewport": {
+        "northeast": {
+          "lat": 12.40412762989272,
+          "lng": 9.293946079892722
+        },
+        "southwest": {
+          "lat": 12.40142797010728,
+          "lng": 9.291246420107278
+        }
+      },
+      "formatted_address": "Maigaggafa Primary School, 733101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4027512,9.2925491",
+      "google_place_id": "ChIJzT2eS24xqRERmFlu9zrKTIQ"
+    }
   },
   {
     "id": "68121",
@@ -77,7 +145,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68122",
@@ -93,7 +162,8 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68123",
@@ -109,6 +179,7 @@
     "local_government_id": "326",
     "local_government_name": "GARKI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

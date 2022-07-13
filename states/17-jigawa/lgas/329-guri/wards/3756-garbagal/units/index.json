@@ -13,7 +13,24 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7388486,
+      "longitude": 10.7966423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015152989272,
+          "lng": 10.8008417
+        },
+        "southwest": {
+          "lat": 11.73745187010728,
+          "lng": 10.7952425
+        }
+      },
+      "formatted_address": "PQQW+GMJ, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7388486,10.7966423",
+      "google_place_id": "ChIJ2zo88iiuABERBPSnTj4t0F4"
+    }
   },
   {
     "id": "68519",
@@ -29,7 +46,24 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7388486,
+      "longitude": 10.7966423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015152989272,
+          "lng": 10.8008417
+        },
+        "southwest": {
+          "lat": 11.73745187010728,
+          "lng": 10.7952425
+        }
+      },
+      "formatted_address": "PQQW+GMJ, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7388486,10.7966423",
+      "google_place_id": "ChIJ2zo88iiuABERBPSnTj4t0F4"
+    }
   },
   {
     "id": "68520",
@@ -45,7 +79,8 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68521",
@@ -61,7 +96,8 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68522",
@@ -77,7 +113,8 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "68523",
@@ -93,7 +130,24 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6936654,
+      "longitude": 10.2541497,
+      "viewport": {
+        "northeast": {
+          "lat": 12.69501647989272,
+          "lng": 10.25551612989272
+        },
+        "southwest": {
+          "lat": 12.69231682010728,
+          "lng": 10.25281647010728
+        }
+      },
+      "formatted_address": "Nguru-Hadejia Rd, 731104, Kirikasama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6936654,10.2541497",
+      "google_place_id": "ChIJ3-somSNLqBER6ryhINKESC8"
+    }
   },
   {
     "id": "68524",
@@ -109,6 +163,23 @@
     "local_government_id": "329",
     "local_government_name": "GURI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7388486,
+      "longitude": 10.7966423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015152989272,
+          "lng": 10.8008417
+        },
+        "southwest": {
+          "lat": 11.73745187010728,
+          "lng": 10.7952425
+        }
+      },
+      "formatted_address": "PQQW+GMJ, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7388486,10.7966423",
+      "google_place_id": "ChIJ2zo88iiuABERBPSnTj4t0F4"
+    }
   }
 ]

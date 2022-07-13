@@ -13,7 +13,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7250339,
+      "longitude": 10.1479182,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7874819,
+          "lng": 10.2419801
+        },
+        "southwest": {
+          "lat": 12.6741688,
+          "lng": 10.0737549
+        }
+      },
+      "formatted_address": "Fagi, 731106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7250339,10.1479182",
+      "google_place_id": "ChIJmV4E58VOqBER8t-V5ZTTZR0"
+    }
   },
   {
     "id": "67651",
@@ -29,7 +46,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4630575,
+      "longitude": 10.0410391,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46454212989272,
+          "lng": 10.04245992989272
+        },
+        "southwest": {
+          "lat": 12.46184247010728,
+          "lng": 10.03976027010728
+        }
+      },
+      "formatted_address": "Gandun Sarki Primary School, 730101, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4630575,10.0410391",
+      "google_place_id": "ChIJF5544lyvqRER3RZnueVDZYU"
+    }
   },
   {
     "id": "67652",
@@ -45,7 +79,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6343501,
+      "longitude": 9.3883109,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6357853,
+          "lng": 9.390042729892723
+        },
+        "southwest": {
+          "lat": 12.6328465,
+          "lng": 9.38734307010728
+        }
+      },
+      "formatted_address": "Gagarawa-Gumel-Maigatari Road, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6343501,9.3883109",
+      "google_place_id": "ChIJtXeqo_QnqRERyR2ljz2muT4"
+    }
   },
   {
     "id": "67653",
@@ -61,7 +112,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4460001,
+      "longitude": 9.7232673,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44734992989272,
+          "lng": 9.72461712989272
+        },
+        "southwest": {
+          "lat": 12.44465027010727,
+          "lng": 9.721917470107277
+        }
+      },
+      "formatted_address": "730102, Kaugama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4460001,9.7232673",
+      "google_place_id": "ChIJS_fVXGUPqRERauV1I3lF690"
+    }
   },
   {
     "id": "67654",
@@ -77,7 +145,8 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67655",
@@ -93,7 +162,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4460001,
+      "longitude": 9.7232673,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44734992989272,
+          "lng": 9.72461712989272
+        },
+        "southwest": {
+          "lat": 12.44465027010727,
+          "lng": 9.721917470107277
+        }
+      },
+      "formatted_address": "730102, Kaugama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4460001,9.7232673",
+      "google_place_id": "ChIJS_fVXGUPqRERauV1I3lF690"
+    }
   },
   {
     "id": "67656",
@@ -109,7 +195,24 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJB_XP0wqvqRER1IIlpPXm5ec"
+    }
   },
   {
     "id": "67657",
@@ -125,7 +228,8 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67658",
@@ -141,7 +245,8 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "67659",
@@ -157,6 +262,23 @@
     "local_government_id": "323",
     "local_government_name": "BIRNIWA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJB_XP0wqvqRER1IIlpPXm5ec"
+    }
   }
 ]
