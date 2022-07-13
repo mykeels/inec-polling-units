@@ -13,7 +13,8 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41002",
@@ -29,7 +30,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5098535,
+      "longitude": 6.1161762,
+      "viewport": {
+        "northeast": {
+          "lat": 5.510975129892722,
+          "lng": 6.117415279892722
+        },
+        "southwest": {
+          "lat": 5.508275470107278,
+          "lng": 6.114715620107278
+        }
+      },
+      "formatted_address": "G458+WFV, 334116, Uruovo Owe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5098535,6.1161762",
+      "google_place_id": "ChIJI_HJUXOXQRAR95x_ejHVqKc"
+    }
   },
   {
     "id": "41003",
@@ -45,7 +63,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5051733,
+      "longitude": 6.1168616,
+      "viewport": {
+        "northeast": {
+          "lat": 5.506513479892721,
+          "lng": 6.118229929892721
+        },
+        "southwest": {
+          "lat": 5.503813820107277,
+          "lng": 6.115530270107277
+        }
+      },
+      "formatted_address": "Old Emevor Rd, 334116, Emevo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5051733,6.1168616",
+      "google_place_id": "ChIJr5LcZ2qXQRARLotn45DuaAs"
+    }
   },
   {
     "id": "41004",
@@ -61,7 +96,8 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41005",
@@ -77,7 +113,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4360634,
+      "longitude": 6.2068299,
+      "viewport": {
+        "northeast": {
+          "lat": 5.437421529892722,
+          "lng": 6.208173879892723
+        },
+        "southwest": {
+          "lat": 5.434721870107278,
+          "lng": 6.205474220107279
+        }
+      },
+      "formatted_address": "Off Irri grammar school Road, 334117, Irri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4360634,6.2068299",
+      "google_place_id": "ChIJ4RvS3wqTQRARKBR5UiiU1y0"
+    }
   },
   {
     "id": "41006",
@@ -93,7 +146,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.480378,
+      "longitude": 6.0729792,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481758829892722,
+          "lng": 6.074314729892721
+        },
+        "southwest": {
+          "lat": 5.479059170107278,
+          "lng": 6.071615070107277
+        }
+      },
+      "formatted_address": "F3JF+555, Ekugbo Iyede Community, Oter-Iyede Road, Ogara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480378,6.0729792",
+      "google_place_id": "ChIJGea-zSiWQRARJgxKzk-b1i8"
+    }
   },
   {
     "id": "41007",
@@ -109,7 +179,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.547641400000001,
+      "longitude": 6.2354144,
+      "viewport": {
+        "northeast": {
+          "lat": 5.549076479892721,
+          "lng": 6.236737129892721
+        },
+        "southwest": {
+          "lat": 5.546376820107278,
+          "lng": 6.234037470107277
+        }
+      },
+      "formatted_address": "G6XP+259 Opute Hall, 334111, Ozoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.547641400000001,6.2354144",
+      "google_place_id": "ChIJFZNaA7WaQRARt3QQWxYPcNY"
+    }
   },
   {
     "id": "41008",
@@ -125,7 +212,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.547641400000001,
+      "longitude": 6.2354144,
+      "viewport": {
+        "northeast": {
+          "lat": 5.549076479892721,
+          "lng": 6.236737129892721
+        },
+        "southwest": {
+          "lat": 5.546376820107278,
+          "lng": 6.234037470107277
+        }
+      },
+      "formatted_address": "G6XP+259 Opute Hall, 334111, Ozoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.547641400000001,6.2354144",
+      "google_place_id": "ChIJFZNaA7WaQRARt3QQWxYPcNY"
+    }
   },
   {
     "id": "41009",
@@ -141,7 +245,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.556565399999999,
+      "longitude": 6.3465379,
+      "viewport": {
+        "northeast": {
+          "lat": 5.562226,
+          "lng": 6.3551571
+        },
+        "southwest": {
+          "lat": 5.5346459,
+          "lng": 6.3356569
+        }
+      },
+      "formatted_address": "334114, Ofagbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.556565399999999,6.3465379",
+      "google_place_id": "ChIJUcj0JUKGQRARYmT7xuigXO8"
+    }
   },
   {
     "id": "41010",
@@ -157,7 +278,8 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41011",
@@ -173,7 +295,8 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41012",
@@ -189,7 +312,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.582231999999999,
+      "longitude": 6.142094999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.583581829892721,
+          "lng": 6.14344482989272
+        },
+        "southwest": {
+          "lat": 5.580882170107277,
+          "lng": 6.140745170107277
+        }
+      },
+      "formatted_address": "73 Emevor Orogun Road Delta Akiewhe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.582231999999999,6.142094999999999",
+      "google_place_id": "ChIJj3XIvtOZQRARTbn12EJJQKk"
+    }
   },
   {
     "id": "41013",
@@ -205,7 +345,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4953837,
+      "longitude": 5.7819866,
+      "viewport": {
+        "northeast": {
+          "lat": 5.496744879892722,
+          "lng": 5.783375879892722
+        },
+        "southwest": {
+          "lat": 5.494045220107278,
+          "lng": 5.780676220107278
+        }
+      },
+      "formatted_address": "FQWJ+5Q5, Aladja 330103, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4953837,5.7819866",
+      "google_place_id": "ChIJ36UEblKyQRARXRBW5FYWlt4"
+    }
   },
   {
     "id": "41014",
@@ -221,7 +378,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5180838,
+      "longitude": 6.1222051,
+      "viewport": {
+        "northeast": {
+          "lat": 5.519481329892722,
+          "lng": 6.123415129892721
+        },
+        "southwest": {
+          "lat": 5.516781670107278,
+          "lng": 6.120715470107277
+        }
+      },
+      "formatted_address": "G49C+6VP, 334112, Uruovo Owe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5180838,6.1222051",
+      "google_place_id": "ChIJz69Zx2-XQRARgzNW1G2pYck"
+    }
   },
   {
     "id": "41015",
@@ -237,7 +411,8 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41016",
@@ -253,7 +428,24 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.582231999999999,
+      "longitude": 6.142094999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.583581829892721,
+          "lng": 6.14344482989272
+        },
+        "southwest": {
+          "lat": 5.580882170107277,
+          "lng": 6.140745170107277
+        }
+      },
+      "formatted_address": "73 Emevor Orogun Road Delta Akiewhe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.582231999999999,6.142094999999999",
+      "google_place_id": "ChIJj3XIvtOZQRARTbn12EJJQKk"
+    }
   },
   {
     "id": "41017",
@@ -269,6 +461,23 @@
     "local_government_id": "195",
     "local_government_name": "ISOKO NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.582231999999999,
+      "longitude": 6.142094999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.583581829892721,
+          "lng": 6.14344482989272
+        },
+        "southwest": {
+          "lat": 5.580882170107277,
+          "lng": 6.140745170107277
+        }
+      },
+      "formatted_address": "73 Emevor Orogun Road Delta Akiewhe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.582231999999999,6.142094999999999",
+      "google_place_id": "ChIJj3XIvtOZQRARTbn12EJJQKk"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "40695",
@@ -29,7 +30,24 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.195231199999999,
+      "longitude": 6.274827500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.196576479892721,
+          "lng": 6.276205829892722
+        },
+        "southwest": {
+          "lat": 6.193876820107278,
+          "lng": 6.273506170107278
+        }
+      },
+      "formatted_address": "57WF+3WR, 321112, Uteh Okpu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.195231199999999,6.274827500000001",
+      "google_place_id": "ChIJq6qqqoZaQRARCvw9y1YmDQQ"
+    }
   },
   {
     "id": "40696",
@@ -45,7 +63,24 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.195231199999999,
+      "longitude": 6.274827500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.196576479892721,
+          "lng": 6.276205829892722
+        },
+        "southwest": {
+          "lat": 6.193876820107278,
+          "lng": 6.273506170107278
+        }
+      },
+      "formatted_address": "57WF+3WR, 321112, Uteh Okpu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.195231199999999,6.274827500000001",
+      "google_place_id": "ChIJq6qqqoZaQRARCvw9y1YmDQQ"
+    }
   },
   {
     "id": "40697",
@@ -61,7 +96,8 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "40698",
@@ -77,7 +113,24 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.195231199999999,
+      "longitude": 6.274827500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.196576479892721,
+          "lng": 6.276205829892722
+        },
+        "southwest": {
+          "lat": 6.193876820107278,
+          "lng": 6.273506170107278
+        }
+      },
+      "formatted_address": "57WF+3WR, 321112, Uteh Okpu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.195231199999999,6.274827500000001",
+      "google_place_id": "ChIJq6qqqoZaQRARCvw9y1YmDQQ"
+    }
   },
   {
     "id": "40699",
@@ -93,7 +146,24 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.195231199999999,
+      "longitude": 6.274827500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.196576479892721,
+          "lng": 6.276205829892722
+        },
+        "southwest": {
+          "lat": 6.193876820107278,
+          "lng": 6.273506170107278
+        }
+      },
+      "formatted_address": "57WF+3WR, 321112, Uteh Okpu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.195231199999999,6.274827500000001",
+      "google_place_id": "ChIJq6qqqoZaQRARCvw9y1YmDQQ"
+    }
   },
   {
     "id": "40700",
@@ -109,6 +179,7 @@
     "local_government_id": "193",
     "local_government_name": "IKA NORTH- EAST",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   }
 ]

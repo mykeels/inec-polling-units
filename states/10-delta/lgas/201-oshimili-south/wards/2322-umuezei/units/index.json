@@ -13,7 +13,8 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42219",
@@ -29,7 +30,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2060213,
+      "longitude": 6.6959328,
+      "viewport": {
+        "northeast": {
+          "lat": 6.207324029892722,
+          "lng": 6.697258129892722
+        },
+        "southwest": {
+          "lat": 6.204624370107278,
+          "lng": 6.694558470107278
+        }
+      },
+      "formatted_address": "6M4W+C93, Central Area 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2060213,6.6959328",
+      "google_place_id": "ChIJAQAAAHDyQxARcbkEkTRDQfY"
+    }
   },
   {
     "id": "42220",
@@ -45,7 +63,8 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42221",
@@ -61,7 +80,8 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42222",
@@ -77,7 +97,8 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42223",
@@ -93,7 +114,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1919992,
+      "longitude": 6.7393724,
+      "viewport": {
+        "northeast": {
+          "lat": 6.193317579892722,
+          "lng": 6.740753129892722
+        },
+        "southwest": {
+          "lat": 6.190617920107278,
+          "lng": 6.738053470107278
+        }
+      },
+      "formatted_address": "5PRQ+QPX, Ezenei Ave, Umueze 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1919992,6.7393724",
+      "google_place_id": "ChIJTfxMsPPtQxARTYJ-X4h10WI"
+    }
   },
   {
     "id": "42224",
@@ -109,7 +147,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2136216,
+      "longitude": 6.707989299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.214957179892722,
+          "lng": 6.709331179892722
+        },
+        "southwest": {
+          "lat": 6.212257520107278,
+          "lng": 6.706631520107278
+        }
+      },
+      "formatted_address": "6P75+C5X Local Government Area, Isieke 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2136216,6.707989299999999",
+      "google_place_id": "ChIJy5STooryQxARb2Flls7D4V8"
+    }
   },
   {
     "id": "42225",
@@ -125,7 +180,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.194655699999999,
+      "longitude": 6.7375521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195943829892723,
+          "lng": 6.738947479892722
+        },
+        "southwest": {
+          "lat": 6.193244170107279,
+          "lng": 6.736247820107279
+        }
+      },
+      "formatted_address": "5PVQ+V2C, Along Ilukwu Ofili Nwamu, off Nnebisis Road, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.194655699999999,6.7375521",
+      "google_place_id": "ChIJK8peCljtQxARuWQO5_OzC4w"
+    }
   },
   {
     "id": "42226",
@@ -141,7 +213,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.2005452,
+      "longitude": 6.696306099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.201832879892722,
+          "lng": 6.697635429892722
+        },
+        "southwest": {
+          "lat": 6.199133220107278,
+          "lng": 6.694935770107278
+        }
+      },
+      "formatted_address": "6M2W+6G7 Summit Junction, Benin Express Way, Central Area 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2005452,6.696306099999999",
+      "google_place_id": "ChIJLd13fYrzQxARv9JF7G29N3I"
+    }
   },
   {
     "id": "42227",
@@ -157,7 +246,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42228",
@@ -173,7 +279,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42229",
@@ -189,7 +312,8 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42230",
@@ -205,7 +329,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1875857,
+      "longitude": 6.7351914,
+      "viewport": {
+        "northeast": {
+          "lat": 6.188957029892721,
+          "lng": 6.736556279892722
+        },
+        "southwest": {
+          "lat": 6.186257370107278,
+          "lng": 6.733856620107278
+        }
+      },
+      "formatted_address": "5PQP+23M, Umueze 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1875857,6.7351914",
+      "google_place_id": "ChIJs6eTNVrtQxARKU_e35eFdJY"
+    }
   },
   {
     "id": "42231",
@@ -221,7 +362,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1875857,
+      "longitude": 6.7351914,
+      "viewport": {
+        "northeast": {
+          "lat": 6.188957029892721,
+          "lng": 6.736556279892722
+        },
+        "southwest": {
+          "lat": 6.186257370107278,
+          "lng": 6.733856620107278
+        }
+      },
+      "formatted_address": "5PQP+23M, Umueze 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1875857,6.7351914",
+      "google_place_id": "ChIJs6eTNVrtQxARKU_e35eFdJY"
+    }
   },
   {
     "id": "42232",
@@ -237,7 +395,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42233",
@@ -253,7 +428,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42234",
@@ -269,7 +461,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42235",
@@ -285,7 +494,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42236",
@@ -301,7 +527,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42237",
@@ -317,7 +560,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42238",
@@ -333,7 +593,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42239",
@@ -349,7 +626,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.194655699999999,
+      "longitude": 6.7375521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195943829892723,
+          "lng": 6.738947479892722
+        },
+        "southwest": {
+          "lat": 6.193244170107279,
+          "lng": 6.736247820107279
+        }
+      },
+      "formatted_address": "5PVQ+V2C, Along Ilukwu Ofili Nwamu, off Nnebisis Road, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.194655699999999,6.7375521",
+      "google_place_id": "ChIJK8peCljtQxARuWQO5_OzC4w"
+    }
   },
   {
     "id": "42240",
@@ -365,7 +659,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1939594,
+      "longitude": 6.737838699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195380379892722,
+          "lng": 6.739190979892721
+        },
+        "southwest": {
+          "lat": 6.192680720107278,
+          "lng": 6.736491320107278
+        }
+      },
+      "formatted_address": "5PVQ+H4P, Along Oni Edozien Street, off Ilukwu Ofili Nwamu, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1939594,6.737838699999999",
+      "google_place_id": "ChIJ57UeEVjtQxARMTr19PCITUI"
+    }
   },
   {
     "id": "42241",
@@ -381,7 +692,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1939594,
+      "longitude": 6.737838699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195380379892722,
+          "lng": 6.739190979892721
+        },
+        "southwest": {
+          "lat": 6.192680720107278,
+          "lng": 6.736491320107278
+        }
+      },
+      "formatted_address": "5PVQ+H4P, Along Oni Edozien Street, off Ilukwu Ofili Nwamu, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1939594,6.737838699999999",
+      "google_place_id": "ChIJ57UeEVjtQxARMTr19PCITUI"
+    }
   },
   {
     "id": "42242",
@@ -397,7 +725,8 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42243",
@@ -413,7 +742,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42244",
@@ -429,7 +775,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42245",
@@ -445,7 +808,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42246",
@@ -461,7 +841,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42247",
@@ -477,7 +874,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1893198,
+      "longitude": 6.7367404,
+      "viewport": {
+        "northeast": {
+          "lat": 6.190669629892722,
+          "lng": 6.738090229892721
+        },
+        "southwest": {
+          "lat": 6.187969970107278,
+          "lng": 6.735390570107278
+        }
+      },
+      "formatted_address": "Off Ezenei Ave, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1893198,6.7367404",
+      "google_place_id": "ChIJb9m1O1HtQxARzCaNEg1uLzk"
+    }
   },
   {
     "id": "42248",
@@ -493,7 +907,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1893198,
+      "longitude": 6.7367404,
+      "viewport": {
+        "northeast": {
+          "lat": 6.190669629892722,
+          "lng": 6.738090229892721
+        },
+        "southwest": {
+          "lat": 6.187969970107278,
+          "lng": 6.735390570107278
+        }
+      },
+      "formatted_address": "Off Ezenei Ave, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1893198,6.7367404",
+      "google_place_id": "ChIJb9m1O1HtQxARzCaNEg1uLzk"
+    }
   },
   {
     "id": "42249",
@@ -509,7 +940,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1893198,
+      "longitude": 6.7367404,
+      "viewport": {
+        "northeast": {
+          "lat": 6.190669629892722,
+          "lng": 6.738090229892721
+        },
+        "southwest": {
+          "lat": 6.187969970107278,
+          "lng": 6.735390570107278
+        }
+      },
+      "formatted_address": "Off Ezenei Ave, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1893198,6.7367404",
+      "google_place_id": "ChIJb9m1O1HtQxARzCaNEg1uLzk"
+    }
   },
   {
     "id": "42250",
@@ -525,7 +973,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42251",
@@ -541,7 +1006,24 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   },
   {
     "id": "42252",
@@ -557,6 +1039,23 @@
     "local_government_id": "201",
     "local_government_name": "OSHIMILI - SOUTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.1964928,
+      "longitude": 6.708067499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.197834929892722,
+          "lng": 6.709437379892721
+        },
+        "southwest": {
+          "lat": 6.195135270107278,
+          "lng": 6.706737720107277
+        }
+      },
+      "formatted_address": "5PW5+H6W, Onuorah Chukwurah Drive, Umuagu 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1964928,6.708067499999999",
+      "google_place_id": "ChIJr_lgJcvzQxARenHb7ytndUg"
+    }
   }
 ]

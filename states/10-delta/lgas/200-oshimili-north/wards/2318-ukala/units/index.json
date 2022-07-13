@@ -13,7 +13,24 @@
     "local_government_id": "200",
     "local_government_name": "OSHIMILI - NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.194655699999999,
+      "longitude": 6.7375521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195943829892723,
+          "lng": 6.738947479892722
+        },
+        "southwest": {
+          "lat": 6.193244170107279,
+          "lng": 6.736247820107279
+        }
+      },
+      "formatted_address": "5PVQ+V2C, Along Ilukwu Ofili Nwamu, off Nnebisis Road, Umuezei 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.194655699999999,6.7375521",
+      "google_place_id": "ChIJK8peCljtQxARuWQO5_OzC4w"
+    }
   },
   {
     "id": "42156",
@@ -29,7 +46,24 @@
     "local_government_id": "200",
     "local_government_name": "OSHIMILI - NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.180494200000001,
+      "longitude": 6.635662099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.181832829892723,
+          "lng": 6.636805029892721
+        },
+        "southwest": {
+          "lat": 6.179133170107279,
+          "lng": 6.634105370107277
+        }
+      },
+      "formatted_address": "5JJP+57V, 320103, Igbuzor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.180494200000001,6.635662099999999",
+      "google_place_id": "ChIJWcQp3_TvQxARprf-OZgets0"
+    }
   },
   {
     "id": "42157",
@@ -45,7 +79,8 @@
     "local_government_id": "200",
     "local_government_name": "OSHIMILI - NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42158",
@@ -61,7 +96,24 @@
     "local_government_id": "200",
     "local_government_name": "OSHIMILI - NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.180494200000001,
+      "longitude": 6.635662099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.181832829892723,
+          "lng": 6.636805029892721
+        },
+        "southwest": {
+          "lat": 6.179133170107279,
+          "lng": 6.634105370107277
+        }
+      },
+      "formatted_address": "5JJP+57V, 320103, Igbuzor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.180494200000001,6.635662099999999",
+      "google_place_id": "ChIJWcQp3_TvQxARprf-OZgets0"
+    }
   },
   {
     "id": "42159",
@@ -77,6 +129,7 @@
     "local_government_id": "200",
     "local_government_name": "OSHIMILI - NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   }
 ]

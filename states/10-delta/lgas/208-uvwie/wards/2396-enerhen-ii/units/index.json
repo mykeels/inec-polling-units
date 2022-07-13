@@ -13,7 +13,8 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "44049",
@@ -29,7 +30,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.570938700000001,
+      "longitude": 5.8054066,
+      "viewport": {
+        "northeast": {
+          "lat": 5.572331029892722,
+          "lng": 5.806653079892722
+        },
+        "southwest": {
+          "lat": 5.569631370107278,
+          "lng": 5.803953420107278
+        }
+      },
+      "formatted_address": "Dsc, Effurun GRA 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.570938700000001,5.8054066",
+      "google_place_id": "ChIJRROjCLStQRARG9AkCO0P4ow"
+    }
   },
   {
     "id": "44050",
@@ -45,7 +63,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5294446,
+      "longitude": 5.7815899,
+      "viewport": {
+        "northeast": {
+          "lat": 5.530750929892721,
+          "lng": 5.782835529892722
+        },
+        "southwest": {
+          "lat": 5.528051270107277,
+          "lng": 5.780135870107278
+        }
+      },
+      "formatted_address": "GQHJ+QJG, Mbaise Close, Enerhen Town 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5294446,5.7815899",
+      "google_place_id": "ChIJ6aH8oHmyQRARJArMjp_JDA0"
+    }
   },
   {
     "id": "44051",
@@ -61,7 +96,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5498039,
+      "longitude": 5.7767084,
+      "viewport": {
+        "northeast": {
+          "lat": 5.551153729892722,
+          "lng": 5.778058229892721
+        },
+        "southwest": {
+          "lat": 5.548454070107278,
+          "lng": 5.775358570107278
+        }
+      },
+      "formatted_address": "Mosheshe St, 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5498039,5.7767084",
+      "google_place_id": "ChIJ6UtCGJytQRARdIPXXLPxwJw"
+    }
   },
   {
     "id": "44052",
@@ -77,7 +129,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5317849,
+      "longitude": 5.783871,
+      "viewport": {
+        "northeast": {
+          "lat": 5.533152429892722,
+          "lng": 5.785249329892721
+        },
+        "southwest": {
+          "lat": 5.530452770107278,
+          "lng": 5.782549670107277
+        }
+      },
+      "formatted_address": "GQJM+PG9, Enerhe 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5317849,5.783871",
+      "google_place_id": "ChIJ4Xazl3eyQRARFLxxoTKp_VE"
+    }
   },
   {
     "id": "44053",
@@ -93,7 +162,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.526898699999999,
+      "longitude": 5.7784914,
+      "viewport": {
+        "northeast": {
+          "lat": 5.528298079892722,
+          "lng": 5.779874479892722
+        },
+        "southwest": {
+          "lat": 5.525598420107278,
+          "lng": 5.777174820107278
+        }
+      },
+      "formatted_address": "86 Udu Rd, Enerhe 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.526898699999999,5.7784914",
+      "google_place_id": "ChIJT9EF7WiyQRAR3kfnLrB0BlQ"
+    }
   },
   {
     "id": "44054",
@@ -109,7 +195,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.539837500000001,
+      "longitude": 5.7837283,
+      "viewport": {
+        "northeast": {
+          "lat": 5.541202929892722,
+          "lng": 5.785105479892722
+        },
+        "southwest": {
+          "lat": 5.538503270107278,
+          "lng": 5.782405820107278
+        }
+      },
+      "formatted_address": "5, Otalekor Drive, Atamakolomi, Enerhen Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.539837500000001,5.7837283",
+      "google_place_id": "ChIJoRZS_q6tQRARnZbF3FiTkQQ"
+    }
   },
   {
     "id": "44055",
@@ -125,7 +228,8 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "44056",
@@ -141,7 +245,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5715357,
+      "longitude": 5.8098347,
+      "viewport": {
+        "northeast": {
+          "lat": 5.572947229892722,
+          "lng": 5.811145229892722
+        },
+        "southwest": {
+          "lat": 5.570247570107278,
+          "lng": 5.808445570107279
+        }
+      },
+      "formatted_address": "HRC5+JW8, Okuokoko 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5715357,5.8098347",
+      "google_place_id": "ChIJvx0RZUWtQRARqelefqxROq8"
+    }
   },
   {
     "id": "44057",
@@ -157,7 +278,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5223146,
+      "longitude": 5.7937071,
+      "viewport": {
+        "northeast": {
+          "lat": 5.523656679892722,
+          "lng": 5.795083629892722
+        },
+        "southwest": {
+          "lat": 5.520957020107278,
+          "lng": 5.792383970107278
+        }
+      },
+      "formatted_address": "Jehovah's witness street, Sedco Road, Uvwis, Enerehen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5223146,5.7937071",
+      "google_place_id": "ChIJ-_xQm4qzQRARhEa6HIPIi0c"
+    }
   },
   {
     "id": "44058",
@@ -173,7 +311,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7914018,
+      "longitude": 6.1046701,
+      "viewport": {
+        "northeast": {
+          "lat": 5.792649779892722,
+          "lng": 6.106022379892721
+        },
+        "southwest": {
+          "lat": 5.789950120107278,
+          "lng": 6.103322720107277
+        }
+      },
+      "formatted_address": "Abraka - Abbi Rd, 330105, Uruoka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7914018,6.1046701",
+      "google_place_id": "ChIJeStZYOxzQRARU8he-3_PaeQ"
+    }
   },
   {
     "id": "44059",
@@ -189,7 +344,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5332928,
+      "longitude": 5.786366999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.534746529892723,
+          "lng": 5.787764979892722
+        },
+        "southwest": {
+          "lat": 5.532046870107279,
+          "lng": 5.785065320107278
+        }
+      },
+      "formatted_address": "GQMP+8G, Enerhe 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5332928,5.786366999999999",
+      "google_place_id": "ChIJlctSWrmzQRARuscHakOMtXs"
+    }
   },
   {
     "id": "44060",
@@ -205,7 +377,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.556438399999999,
+      "longitude": 5.789362,
+      "viewport": {
+        "northeast": {
+          "lat": 5.557870279892723,
+          "lng": 5.790675179892723
+        },
+        "southwest": {
+          "lat": 5.555170620107279,
+          "lng": 5.787975520107278
+        }
+      },
+      "formatted_address": "HQ4Q+HPQ, Effurun GRA 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.556438399999999,5.789362",
+      "google_place_id": "ChIJ-bE8Xb6tQRARUQ5x9wRomyE"
+    }
   },
   {
     "id": "44061",
@@ -221,7 +410,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.534315299999999,
+      "longitude": 5.7873158,
+      "viewport": {
+        "northeast": {
+          "lat": 5.535721729892722,
+          "lng": 5.788673579892722
+        },
+        "southwest": {
+          "lat": 5.533022070107278,
+          "lng": 5.785973920107278
+        }
+      },
+      "formatted_address": "GQMP+PW7, Mbaise Cl, Enerhe 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.534315299999999,5.7873158",
+      "google_place_id": "ChIJLwgtZK2tQRARfUWRsAHSLWQ"
+    }
   },
   {
     "id": "44062",
@@ -237,7 +443,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5512595,
+      "longitude": 5.7441679,
+      "viewport": {
+        "northeast": {
+          "lat": 5.552589929892722,
+          "lng": 5.745398229892721
+        },
+        "southwest": {
+          "lat": 5.549890270107278,
+          "lng": 5.742698570107277
+        }
+      },
+      "formatted_address": "HP2V+GM3, Warri 332104, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5512595,5.7441679",
+      "google_place_id": "ChIJ-3H760atQRARj1RwOfE36Lk"
+    }
   },
   {
     "id": "44063",
@@ -253,7 +476,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5158027,
+      "longitude": 5.7580436,
+      "viewport": {
+        "northeast": {
+          "lat": 5.517155829892721,
+          "lng": 5.759278779892721
+        },
+        "southwest": {
+          "lat": 5.514456170107278,
+          "lng": 5.756579120107277
+        }
+      },
+      "formatted_address": "GQ85+86F, Cementery Road, Odion 332104, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5158027,5.7580436",
+      "google_place_id": "ChIJTcDtppOyQRAR5DpEPIOedds"
+    }
   },
   {
     "id": "44064",
@@ -269,7 +509,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.539837500000001,
+      "longitude": 5.7837283,
+      "viewport": {
+        "northeast": {
+          "lat": 5.541202929892722,
+          "lng": 5.785105479892722
+        },
+        "southwest": {
+          "lat": 5.538503270107278,
+          "lng": 5.782405820107278
+        }
+      },
+      "formatted_address": "Enerhen Rd, Effurun 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.539837500000001,5.7837283",
+      "google_place_id": "ChIJv5xIQY-tQRARrrtx5PPSOIM"
+    }
   },
   {
     "id": "44065",
@@ -285,7 +542,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5324313,
+      "longitude": 5.7859047,
+      "viewport": {
+        "northeast": {
+          "lat": 5.53374327989272,
+          "lng": 5.787295229892723
+        },
+        "southwest": {
+          "lat": 5.531043620107276,
+          "lng": 5.784595570107279
+        }
+      },
+      "formatted_address": "GQJP+X9R, Mbaise Cl, Enerhe 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5324313,5.7859047",
+      "google_place_id": "ChIJRb11N3ayQRARaaArGJEkav8"
+    }
   },
   {
     "id": "44066",
@@ -301,7 +575,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 39.4399793,
+      "longitude": -78.9738064,
+      "viewport": {
+        "northeast": {
+          "lat": 39.44130717989272,
+          "lng": -78.97242122010728
+        },
+        "southwest": {
+          "lat": 39.43860752010728,
+          "lng": -78.97512087989271
+        }
+      },
+      "formatted_address": "105 West St, Keyser, WV 26726, United States",
+      "google_map_url": "https://maps.google.com?q=39.4399793,-78.9738064",
+      "google_place_id": "ChIJFaZJjMxhtYkR76NwfzbhuK0"
+    }
   },
   {
     "id": "44067",
@@ -317,7 +608,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5041721,
+      "longitude": 5.809448499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.505532179892722,
+          "lng": 5.810787079892722
+        },
+        "southwest": {
+          "lat": 5.502832520107278,
+          "lng": 5.808087420107278
+        }
+      },
+      "formatted_address": "behind Ekete Market, Ekete 330103, Ovwian, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5041721,5.809448499999999",
+      "google_place_id": "ChIJv6-fOCayQRARxVoFHmEgT-E"
+    }
   },
   {
     "id": "44068",
@@ -333,7 +641,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5280276,
+      "longitude": 5.7263228,
+      "viewport": {
+        "northeast": {
+          "lat": 5.529404129892721,
+          "lng": 5.727696029892722
+        },
+        "southwest": {
+          "lat": 5.526704470107277,
+          "lng": 5.724996370107278
+        }
+      },
+      "formatted_address": "31 Ogunu Rd, Ekured Itsekiri 332104, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5280276,5.7263228",
+      "google_place_id": "ChIJ8U7dk1NNQBARqNjOhRMXovQ"
+    }
   },
   {
     "id": "44069",
@@ -349,7 +674,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.513701999999999,
+      "longitude": 5.755337600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.514912279892721,
+          "lng": 5.756740729892722
+        },
+        "southwest": {
+          "lat": 5.512212620107277,
+          "lng": 5.754041070107278
+        }
+      },
+      "formatted_address": "GQ74+F4P, Agbasa 332104, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.513701999999999,5.755337600000001",
+      "google_place_id": "ChIJ_58fupSyQRARiPU_TMxbDmI"
+    }
   },
   {
     "id": "44070",
@@ -365,7 +707,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7914018,
+      "longitude": 6.1046701,
+      "viewport": {
+        "northeast": {
+          "lat": 5.792649779892722,
+          "lng": 6.106022379892721
+        },
+        "southwest": {
+          "lat": 5.789950120107278,
+          "lng": 6.103322720107277
+        }
+      },
+      "formatted_address": "Abraka - Abbi Rd, 330105, Uruoka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7914018,6.1046701",
+      "google_place_id": "ChIJeStZYOxzQRARU8he-3_PaeQ"
+    }
   },
   {
     "id": "44071",
@@ -381,7 +740,24 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5677902,
+      "longitude": 5.834378399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.569153229892722,
+          "lng": 5.835710429892722
+        },
+        "southwest": {
+          "lat": 5.566453570107278,
+          "lng": 5.833010770107278
+        }
+      },
+      "formatted_address": "HR9M+4PF, 330102, Effurun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5677902,5.834378399999999",
+      "google_place_id": "ChIJy9tUbGeuQRARGsmKNuiLsEA"
+    }
   },
   {
     "id": "44072",
@@ -397,6 +773,23 @@
     "local_government_id": "208",
     "local_government_name": "UVWIE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.570938700000001,
+      "longitude": 5.8054066,
+      "viewport": {
+        "northeast": {
+          "lat": 5.572331029892722,
+          "lng": 5.806653079892722
+        },
+        "southwest": {
+          "lat": 5.569631370107278,
+          "lng": 5.803953420107278
+        }
+      },
+      "formatted_address": "Dsc, Effurun GRA 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.570938700000001,5.8054066",
+      "google_place_id": "ChIJRROjCLStQRARG9AkCO0P4ow"
+    }
   }
 ]

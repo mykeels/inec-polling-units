@@ -13,7 +13,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41880",
@@ -29,7 +30,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.726139,
+      "longitude": 6.1394441,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7345929,
+          "lng": 6.145295099999999
+        },
+        "southwest": {
+          "lat": 5.722385,
+          "lng": 6.128985999999999
+        }
+      },
+      "formatted_address": "333111, Aragba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.726139,6.1394441",
+      "google_place_id": "ChIJd0MThcV1QRAR8vA-AEWvrpY"
+    }
   },
   {
     "id": "41881",
@@ -45,7 +63,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.726139,
+      "longitude": 6.1394441,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7345929,
+          "lng": 6.145295099999999
+        },
+        "southwest": {
+          "lat": 5.722385,
+          "lng": 6.128985999999999
+        }
+      },
+      "formatted_address": "333111, Aragba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.726139,6.1394441",
+      "google_place_id": "ChIJd0MThcV1QRAR8vA-AEWvrpY"
+    }
   },
   {
     "id": "41882",
@@ -61,7 +96,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4896273,
+      "longitude": 5.7563451,
+      "viewport": {
+        "northeast": {
+          "lat": 5.490922629892721,
+          "lng": 5.757626279892722
+        },
+        "southwest": {
+          "lat": 5.488222970107278,
+          "lng": 5.754926620107278
+        }
+      },
+      "formatted_address": "Wado City, FQQ4+VG5, Aladja Wado City, Delta State, Nigeria, 330103, Aladja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4896273,5.7563451",
+      "google_place_id": "ChIJ94Z41R2zQRARz7a8CJQ0SYw"
+    }
   },
   {
     "id": "41883",
@@ -77,7 +129,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.542510399999999,
+      "longitude": 5.731532,
+      "viewport": {
+        "northeast": {
+          "lat": 5.543742829892722,
+          "lng": 5.732954429892723
+        },
+        "southwest": {
+          "lat": 5.541043170107278,
+          "lng": 5.730254770107279
+        }
+      },
+      "formatted_address": "GPVJ+2J3, Road, Edjeba 332104, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.542510399999999,5.731532",
+      "google_place_id": "ChIJF20_5lKtQRARl8c0fvmRkd4"
+    }
   },
   {
     "id": "41884",
@@ -93,7 +162,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.791386,
+      "longitude": 5.794109,
+      "viewport": {
+        "northeast": {
+          "lat": 5.792687079892722,
+          "lng": 5.795238179892721
+        },
+        "southwest": {
+          "lat": 5.789987420107278,
+          "lng": 5.792538520107277
+        }
+      },
+      "formatted_address": "QQRV+HJ5, 330101, Asagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.791386,5.794109",
+      "google_place_id": "ChIJeaDDaecDQRAR_0apaHX3gdE"
+    }
   },
   {
     "id": "41885",
@@ -109,7 +195,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.791386,
+      "longitude": 5.794109,
+      "viewport": {
+        "northeast": {
+          "lat": 5.792687079892722,
+          "lng": 5.795238179892721
+        },
+        "southwest": {
+          "lat": 5.789987420107278,
+          "lng": 5.792538520107277
+        }
+      },
+      "formatted_address": "QQRV+HJ5, 330101, Asagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.791386,5.794109",
+      "google_place_id": "ChIJeaDDaecDQRAR_0apaHX3gdE"
+    }
   },
   {
     "id": "41886",
@@ -125,7 +228,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41887",
@@ -141,7 +245,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.769029,
+      "longitude": 5.853019,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77035787989272,
+          "lng": 5.854342379892721
+        },
+        "southwest": {
+          "lat": 5.767658220107276,
+          "lng": 5.851642720107277
+        }
+      },
+      "formatted_address": "QV93+J66, 330101, Asagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.769029,5.853019",
+      "google_place_id": "ChIJwbKeZYkGQRARB-9XVOqxTtM"
+    }
   },
   {
     "id": "41888",
@@ -157,7 +278,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4896273,
+      "longitude": 5.7563451,
+      "viewport": {
+        "northeast": {
+          "lat": 5.490922629892721,
+          "lng": 5.757626279892722
+        },
+        "southwest": {
+          "lat": 5.488222970107278,
+          "lng": 5.754926620107278
+        }
+      },
+      "formatted_address": "Wado City, FQQ4+VG5, Aladja Wado City, Delta State, Nigeria, 330103, Aladja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4896273,5.7563451",
+      "google_place_id": "ChIJ94Z41R2zQRARz7a8CJQ0SYw"
+    }
   },
   {
     "id": "41889",
@@ -173,7 +311,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5892705,
+      "longitude": 5.8594573,
+      "viewport": {
+        "northeast": {
+          "lat": 5.590554029892722,
+          "lng": 5.860792329892722
+        },
+        "southwest": {
+          "lat": 5.587854370107278,
+          "lng": 5.858092670107278
+        }
+      },
+      "formatted_address": "HVQ5+PQ4, Warri-Agbor Rd, Agbarho 333110, Oghara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5892705,5.8594573",
+      "google_place_id": "ChIJE-ifNhyvQRARLBY8vrUFW3M"
+    }
   },
   {
     "id": "41890",
@@ -189,7 +344,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41891",
@@ -205,6 +361,23 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.769029,
+      "longitude": 5.853019,
+      "viewport": {
+        "northeast": {
+          "lat": 5.77035787989272,
+          "lng": 5.854342379892721
+        },
+        "southwest": {
+          "lat": 5.767658220107276,
+          "lng": 5.851642720107277
+        }
+      },
+      "formatted_address": "QV93+J66, 330101, Asagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.769029,5.853019",
+      "google_place_id": "ChIJwbKeZYkGQRARB-9XVOqxTtM"
+    }
   }
 ]

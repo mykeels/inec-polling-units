@@ -13,7 +13,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43224",
@@ -29,7 +46,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43225",
@@ -45,7 +79,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4830072,
+      "longitude": 6.0124602,
+      "viewport": {
+        "northeast": {
+          "lat": 5.484492829892722,
+          "lng": 6.013957679892722
+        },
+        "southwest": {
+          "lat": 5.481793170107277,
+          "lng": 6.011258020107278
+        }
+      },
+      "formatted_address": "14 Otovwodo Rd, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4830072,6.0124602",
+      "google_place_id": "ChIJN5GWsVu8QRARelEJpImkHqg"
+    }
   },
   {
     "id": "43226",
@@ -61,7 +112,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.490170099999999,
+      "longitude": 6.0107811,
+      "viewport": {
+        "northeast": {
+          "lat": 5.491502779892722,
+          "lng": 6.012133529892721
+        },
+        "southwest": {
+          "lat": 5.488803120107278,
+          "lng": 6.009433870107277
+        }
+      },
+      "formatted_address": "Lowcost Housing Estate, 2 Love Street, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.490170099999999,6.0107811",
+      "google_place_id": "ChIJp1K8Gfa8QRARP4kwfxZRrIM"
+    }
   },
   {
     "id": "43227",
@@ -77,7 +145,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5093983,
+      "longitude": 5.9785433,
+      "viewport": {
+        "northeast": {
+          "lat": 5.510570829892721,
+          "lng": 5.979689879892722
+        },
+        "southwest": {
+          "lat": 5.507871170107277,
+          "lng": 5.976990220107278
+        }
+      },
+      "formatted_address": "GX5H+QC3, Ekiugbo - Warri Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5093983,5.9785433",
+      "google_place_id": "ChIJ-b8_yGC7QRAR210AjSAbPKM"
+    }
   },
   {
     "id": "43228",
@@ -93,7 +178,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5001866,
+      "longitude": 5.993833899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500928729892722,
+          "lng": 5.995331829892722
+        },
+        "southwest": {
+          "lat": 5.498229070107278,
+          "lng": 5.992632170107278
+        }
+      },
+      "formatted_address": "GX2V+3GG, Owevwe Community Ughelli, 100001, Owevwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5001866,5.993833899999999",
+      "google_place_id": "ChIJA5XY4m-9QRARN4ugYUa8X1w"
+    }
   },
   {
     "id": "43229",
@@ -109,7 +211,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43230",
@@ -125,7 +228,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5093983,
+      "longitude": 5.9785433,
+      "viewport": {
+        "northeast": {
+          "lat": 5.510570829892721,
+          "lng": 5.979689879892722
+        },
+        "southwest": {
+          "lat": 5.507871170107277,
+          "lng": 5.976990220107278
+        }
+      },
+      "formatted_address": "GX5H+QC3, Ekiugbo - Warri Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5093983,5.9785433",
+      "google_place_id": "ChIJ-b8_yGC7QRAR210AjSAbPKM"
+    }
   },
   {
     "id": "43231",
@@ -141,7 +261,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43232",
@@ -157,7 +278,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5017668,
+      "longitude": 6.0113237,
+      "viewport": {
+        "northeast": {
+          "lat": 5.503115979892723,
+          "lng": 6.012674729892722
+        },
+        "southwest": {
+          "lat": 5.500416320107279,
+          "lng": 6.009975070107278
+        }
+      },
+      "formatted_address": "G226+MHJ, Oveto St, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5017668,6.0113237",
+      "google_place_id": "ChIJG05tRO68QRARaOfIGu04AoA"
+    }
   },
   {
     "id": "43233",
@@ -173,7 +311,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.513001,
+      "longitude": 5.976228,
+      "viewport": {
+        "northeast": {
+          "lat": 5.514349079892722,
+          "lng": 5.977521529892722
+        },
+        "southwest": {
+          "lat": 5.511649420107278,
+          "lng": 5.974821870107278
+        }
+      },
+      "formatted_address": "GX7G+6F5, Ekiugbo - Warri Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.513001,5.976228",
+      "google_place_id": "ChIJNU2Iuu-7QRARxiN7_bVTvd8"
+    }
   },
   {
     "id": "43234",
@@ -189,7 +344,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4999975,
+      "longitude": 5.983317599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.501348779892721,
+          "lng": 5.984612929892721
+        },
+        "southwest": {
+          "lat": 5.498649120107277,
+          "lng": 5.981913270107277
+        }
+      },
+      "formatted_address": "GX2M+28W, Ughelli-Ekiugbo, Opposite Grammar School Ekingbo, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4999975,5.983317599999999",
+      "google_place_id": "ChIJcUYYqoK8QRARGDjx8mg_QME"
+    }
   },
   {
     "id": "43235",
@@ -205,7 +377,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.475545299999999,
+      "longitude": 6.029512,
+      "viewport": {
+        "northeast": {
+          "lat": 5.477037329892721,
+          "lng": 6.030786929892721
+        },
+        "southwest": {
+          "lat": 5.474337670107277,
+          "lng": 6.028087270107277
+        }
+      },
+      "formatted_address": "F2GH+6R6, Ighwrovie,, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.475545299999999,6.029512",
+      "google_place_id": "ChIJFQaSuLO9QRARHegAlniioFA"
+    }
   },
   {
     "id": "43236",
@@ -221,7 +410,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.498907099999999,
+      "longitude": 5.9886405,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500212879892722,
+          "lng": 5.989873379892722
+        },
+        "southwest": {
+          "lat": 5.497513220107278,
+          "lng": 5.987173720107278
+        }
+      },
+      "formatted_address": "FXXQ+HF6, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.498907099999999,5.9886405",
+      "google_place_id": "ChIJmc6EzSu9QRARcLD3PZk1o6Y"
+    }
   },
   {
     "id": "43237",
@@ -237,7 +443,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 40.9547353,
+      "longitude": -81.44893239999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.95634702989272,
+          "lng": -81.44768527010727
+        },
+        "southwest": {
+          "lat": 40.95364737010728,
+          "lng": -81.45038492989272
+        }
+      },
+      "formatted_address": "2300 Graybill Rd, Uniontown, OH 44685, United States",
+      "google_map_url": "https://maps.google.com?q=40.9547353,-81.44893239999999",
+      "google_place_id": "ChIJ3xEmNbbUNogR4Q-Xj0QhEkk"
+    }
   },
   {
     "id": "43238",
@@ -253,7 +476,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 49.5846824,
+      "longitude": -115.7539978,
+      "viewport": {
+        "northeast": {
+          "lat": 49.58608042989272,
+          "lng": -115.7529511701073
+        },
+        "southwest": {
+          "lat": 49.58338077010728,
+          "lng": -115.7556508298927
+        }
+      },
+      "formatted_address": "7500 Mission Road, Cranbrook, BC V1C 7E5, Canada",
+      "google_map_url": "https://maps.google.com?q=49.5846824,-115.7539978",
+      "google_place_id": "ChIJp9pXYpQnZVMRZk2CR0OHAfA"
+    }
   },
   {
     "id": "43239",
@@ -269,7 +509,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5130243,
+      "longitude": 6.0269039,
+      "viewport": {
+        "northeast": {
+          "lat": 5.514354679892721,
+          "lng": 6.028255929892722
+        },
+        "southwest": {
+          "lat": 5.511655020107277,
+          "lng": 6.025556270107278
+        }
+      },
+      "formatted_address": "G27G+5QF, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5130243,6.0269039",
+      "google_place_id": "ChIJBcHkjdC9QRARMe-yeKWO4YY"
+    }
   },
   {
     "id": "43240",
@@ -285,7 +542,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4778251,
+      "longitude": 6.019619899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.479150179892723,
+          "lng": 6.020815279892721
+        },
+        "southwest": {
+          "lat": 5.476450520107279,
+          "lng": 6.018115620107277
+        }
+      },
+      "formatted_address": "315 Warri-Patani Rd, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4778251,6.019619899999999",
+      "google_place_id": "ChIJ0dC1RLu9QRAROK6l-98Tdzg"
+    }
   },
   {
     "id": "43241",
@@ -301,7 +575,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4981743,
+      "longitude": 5.995298,
+      "viewport": {
+        "northeast": {
+          "lat": 5.499552629892722,
+          "lng": 5.996647579892722
+        },
+        "southwest": {
+          "lat": 5.496852970107279,
+          "lng": 5.993947920107278
+        }
+      },
+      "formatted_address": "FXXW+743, Okorodafe St, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4981743,5.995298",
+      "google_place_id": "ChIJ6RQoKiW9QRARPv86TEJHP7s"
+    }
   },
   {
     "id": "43242",
@@ -317,7 +608,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4972118,
+      "longitude": 5.993674800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.498486979892721,
+          "lng": 5.994992329892722
+        },
+        "southwest": {
+          "lat": 5.495787320107278,
+          "lng": 5.992292670107278
+        }
+      },
+      "formatted_address": "Market, Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4972118,5.993674800000001",
+      "google_place_id": "ChIJxbF3h4W8QRARtBxGX8vihtg"
+    }
   },
   {
     "id": "43243",
@@ -333,7 +641,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43244",
@@ -349,7 +658,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 43.43539,
+      "longitude": -80.490048,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43666232989273,
+          "lng": -80.48888202010727
+        },
+        "southwest": {
+          "lat": 43.43396267010728,
+          "lng": -80.49158167989272
+        }
+      },
+      "formatted_address": "296 Highland Rd E, Kitchener, ON N2M 3W4, Canada",
+      "google_map_url": "https://maps.google.com?q=43.43539,-80.490048",
+      "google_place_id": "ChIJy8rCHP30K4gRuxpNWQPgme0"
+    }
   },
   {
     "id": "43245",
@@ -365,7 +691,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43246",
@@ -381,7 +724,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.480399999999999,
+      "longitude": 6.031693,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481713929892722,
+          "lng": 6.033054829892722
+        },
+        "southwest": {
+          "lat": 5.479014270107278,
+          "lng": 6.030355170107278
+        }
+      },
+      "formatted_address": "F2JJ+5M8, I, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480399999999999,6.031693",
+      "google_place_id": "ChIJ8_7_bK69QRARTxSA5QBpRRk"
+    }
   },
   {
     "id": "43247",
@@ -397,7 +757,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4999975,
+      "longitude": 5.983317599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.501348779892721,
+          "lng": 5.984612929892721
+        },
+        "southwest": {
+          "lat": 5.498649120107277,
+          "lng": 5.981913270107277
+        }
+      },
+      "formatted_address": "GX2M+28W, Ughelli-Ekiugbo, Opposite Grammar School Ekingbo, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4999975,5.983317599999999",
+      "google_place_id": "ChIJcUYYqoK8QRARGDjx8mg_QME"
+    }
   },
   {
     "id": "43248",
@@ -413,7 +790,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.514528299999999,
+      "longitude": 5.975441699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.515924229892722,
+          "lng": 5.976734379892722
+        },
+        "southwest": {
+          "lat": 5.513224570107278,
+          "lng": 5.974034720107278
+        }
+      },
+      "formatted_address": "I, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.514528299999999,5.975441699999999",
+      "google_place_id": "ChIJm7YPX1y7QRARUrjaezltso8"
+    }
   },
   {
     "id": "43249",
@@ -429,7 +823,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43250",
@@ -445,7 +840,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4999975,
+      "longitude": 5.983317599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.501348779892721,
+          "lng": 5.984612929892721
+        },
+        "southwest": {
+          "lat": 5.498649120107277,
+          "lng": 5.981913270107277
+        }
+      },
+      "formatted_address": "GX2M+28W, Ughelli-Ekiugbo, Opposite Grammar School Ekingbo, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4999975,5.983317599999999",
+      "google_place_id": "ChIJcUYYqoK8QRARGDjx8mg_QME"
+    }
   },
   {
     "id": "43251",
@@ -461,7 +873,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43252",
@@ -477,7 +906,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43253",
@@ -493,7 +939,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.501553599999999,
+      "longitude": 5.9762324,
+      "viewport": {
+        "northeast": {
+          "lat": 5.50597820000005,
+          "lng": 5.987644199999999
+        },
+        "southwest": {
+          "lat": 5.49692179999995,
+          "lng": 5.965178200000001
+        }
+      },
+      "formatted_address": "Imohwe St, 333105, Oteri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.501553599999999,5.9762324",
+      "google_place_id": "EiFJbW9od2UgU3QsIDMzMzEwNSwgT3RlcmksIE5pZ2VyaWEiLiosChQKEgnfCG3BZLtBEBEYfzW2dAfHnhIUChIJxQ0PK5u8QRARKwXfxN4QKgw"
+    }
   },
   {
     "id": "43254",
@@ -509,7 +972,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.501553599999999,
+      "longitude": 5.9762324,
+      "viewport": {
+        "northeast": {
+          "lat": 5.50597820000005,
+          "lng": 5.987644199999999
+        },
+        "southwest": {
+          "lat": 5.49692179999995,
+          "lng": 5.965178200000001
+        }
+      },
+      "formatted_address": "Imohwe St, 333105, Oteri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.501553599999999,5.9762324",
+      "google_place_id": "EiFJbW9od2UgU3QsIDMzMzEwNSwgT3RlcmksIE5pZ2VyaWEiLiosChQKEgnfCG3BZLtBEBEYfzW2dAfHnhIUChIJxQ0PK5u8QRARKwXfxN4QKgw"
+    }
   },
   {
     "id": "43255",
@@ -525,7 +1005,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43256",
@@ -541,7 +1038,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43257",
@@ -557,7 +1071,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43258",
@@ -573,7 +1088,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5001866,
+      "longitude": 5.993833899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500928729892722,
+          "lng": 5.995331829892722
+        },
+        "southwest": {
+          "lat": 5.498229070107278,
+          "lng": 5.992632170107278
+        }
+      },
+      "formatted_address": "GX2V+3GG, Owevwe Community Ughelli, 100001, Owevwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5001866,5.993833899999999",
+      "google_place_id": "ChIJA5XY4m-9QRARN4ugYUa8X1w"
+    }
   },
   {
     "id": "43259",
@@ -589,7 +1121,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.480399999999999,
+      "longitude": 6.031693,
+      "viewport": {
+        "northeast": {
+          "lat": 5.481713929892722,
+          "lng": 6.033054829892722
+        },
+        "southwest": {
+          "lat": 5.479014270107278,
+          "lng": 6.030355170107278
+        }
+      },
+      "formatted_address": "F2JJ+5M8, I, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480399999999999,6.031693",
+      "google_place_id": "ChIJ8_7_bK69QRARTxSA5QBpRRk"
+    }
   },
   {
     "id": "43260",
@@ -605,7 +1154,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43261",
@@ -621,7 +1187,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43262",
@@ -637,7 +1204,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43263",
@@ -653,7 +1221,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5130243,
+      "longitude": 6.0269039,
+      "viewport": {
+        "northeast": {
+          "lat": 5.514354679892721,
+          "lng": 6.028255929892722
+        },
+        "southwest": {
+          "lat": 5.511655020107277,
+          "lng": 6.025556270107278
+        }
+      },
+      "formatted_address": "G27G+5QF, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5130243,6.0269039",
+      "google_place_id": "ChIJBcHkjdC9QRARMe-yeKWO4YY"
+    }
   },
   {
     "id": "43264",
@@ -669,7 +1254,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5001866,
+      "longitude": 5.993833899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500928729892722,
+          "lng": 5.995331829892722
+        },
+        "southwest": {
+          "lat": 5.498229070107278,
+          "lng": 5.992632170107278
+        }
+      },
+      "formatted_address": "Hall 101, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5001866,5.993833899999999",
+      "google_place_id": "ChIJ7cfFicS9QRARQsMlHHm9Zgc"
+    }
   },
   {
     "id": "43265",
@@ -685,7 +1287,8 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "43266",
@@ -701,7 +1304,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.482925,
+      "longitude": 6.0082437,
+      "viewport": {
+        "northeast": {
+          "lat": 5.484260279892722,
+          "lng": 6.009605279892721
+        },
+        "southwest": {
+          "lat": 5.481560620107278,
+          "lng": 6.006905620107277
+        }
+      },
+      "formatted_address": "No.14, Upper Agbarho, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.482925,6.0082437",
+      "google_place_id": "ChIJRVRcQFy8QRAR9hS3vTaS2LU"
+    }
   },
   {
     "id": "43267",
@@ -717,7 +1337,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4909295,
+      "longitude": 5.979087499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.492281129892721,
+          "lng": 5.980444379892722
+        },
+        "southwest": {
+          "lat": 5.489581470107277,
+          "lng": 5.977744720107278
+        }
+      },
+      "formatted_address": "FXRH+9JG, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4909295,5.979087499999999",
+      "google_place_id": "ChIJkzr4zBW7QRAROElEopzDc6s"
+    }
   },
   {
     "id": "43268",
@@ -733,7 +1370,24 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4884355,
+      "longitude": 5.989013,
+      "viewport": {
+        "northeast": {
+          "lat": 5.489613829892722,
+          "lng": 5.990246379892722
+        },
+        "southwest": {
+          "lat": 5.486914170107278,
+          "lng": 5.987546720107278
+        }
+      },
+      "formatted_address": "FXQQ+9JC, Oteri - Okpare Road, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4884355,5.989013",
+      "google_place_id": "ChIJ1ceb3X28QRARM8T0DgkLbCA"
+    }
   },
   {
     "id": "43269",
@@ -749,6 +1403,23 @@
     "local_government_id": "205",
     "local_government_name": "UGHELLI NORTH",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4976968,
+      "longitude": 6.008721899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.498933329892721,
+          "lng": 6.010217079892722
+        },
+        "southwest": {
+          "lat": 5.496233670107277,
+          "lng": 6.007517420107278
+        }
+      },
+      "formatted_address": "F2X5+3FH, Ezewu Street, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4976968,6.008721899999999",
+      "google_place_id": "ChIJTW6GM6G9QRARd-8w5YNt4Rk"
+    }
   }
 ]

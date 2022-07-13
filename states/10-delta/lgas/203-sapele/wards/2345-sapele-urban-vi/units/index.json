@@ -13,7 +13,8 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42687",
@@ -29,7 +30,8 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42688",
@@ -45,7 +47,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9054764,
+      "longitude": 5.676036,
+      "viewport": {
+        "northeast": {
+          "lat": 5.9176495,
+          "lng": 5.6809596
+        },
+        "southwest": {
+          "lat": 5.8923401,
+          "lng": 5.6686033
+        }
+      },
+      "formatted_address": "Sapele Urban VI, 331107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9054764,5.676036",
+      "google_place_id": "ChIJuQZ2HQ_jQBARxgBrnoU3CVA"
+    }
   },
   {
     "id": "42689",
@@ -61,7 +80,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.9054764,
+      "longitude": 5.676036,
+      "viewport": {
+        "northeast": {
+          "lat": 5.9176495,
+          "lng": 5.6809596
+        },
+        "southwest": {
+          "lat": 5.8923401,
+          "lng": 5.6686033
+        }
+      },
+      "formatted_address": "Sapele Urban VI, 331107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9054764,5.676036",
+      "google_place_id": "ChIJuQZ2HQ_jQBARxgBrnoU3CVA"
+    }
   },
   {
     "id": "42690",
@@ -77,7 +113,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8936201,
+      "longitude": 5.673328,
+      "viewport": {
+        "northeast": {
+          "lat": 5.894999529892721,
+          "lng": 5.674688229892721
+        },
+        "southwest": {
+          "lat": 5.892299870107277,
+          "lng": 5.671988570107278
+        }
+      },
+      "formatted_address": "48 Commercial Ave, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8936201,5.673328",
+      "google_place_id": "ChIJeYoCfgrjQBARGwAEYYawWuY"
+    }
   },
   {
     "id": "42691",
@@ -93,7 +146,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897836100000001,
+      "longitude": 5.6754061,
+      "viewport": {
+        "northeast": {
+          "lat": 5.899179579892722,
+          "lng": 5.676770929892722
+        },
+        "southwest": {
+          "lat": 5.896479920107278,
+          "lng": 5.674071270107278
+        }
+      },
+      "formatted_address": "VMXG+45M, Ogodo Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897836100000001,5.6754061",
+      "google_place_id": "ChIJjTQNAfPjQBARd3zoFdJswoo"
+    }
   },
   {
     "id": "42692",
@@ -109,7 +179,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897836100000001,
+      "longitude": 5.6754061,
+      "viewport": {
+        "northeast": {
+          "lat": 5.899179579892722,
+          "lng": 5.676770929892722
+        },
+        "southwest": {
+          "lat": 5.896479920107278,
+          "lng": 5.674071270107278
+        }
+      },
+      "formatted_address": "VMXG+45M, Ogodo Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897836100000001,5.6754061",
+      "google_place_id": "ChIJjTQNAfPjQBARd3zoFdJswoo"
+    }
   },
   {
     "id": "42693",
@@ -125,7 +212,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8869792,
+      "longitude": 5.6919772,
+      "viewport": {
+        "northeast": {
+          "lat": 5.888343929892723,
+          "lng": 5.693406929892722
+        },
+        "southwest": {
+          "lat": 5.885644270107279,
+          "lng": 5.690707270107279
+        }
+      },
+      "formatted_address": "48,Atufe Road, off Okpe Rd, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8869792,5.6919772",
+      "google_place_id": "ChIJC0yAld7iQBARcD2MCQvApmw"
+    }
   },
   {
     "id": "42694",
@@ -141,7 +245,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42695",
@@ -157,7 +278,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42696",
@@ -173,7 +311,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42697",
@@ -189,7 +344,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.328659699999999,
+      "longitude": 5.628485899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.330036879892722,
+          "lng": 5.629806579892723
+        },
+        "southwest": {
+          "lat": 6.327337220107278,
+          "lng": 5.627106920107279
+        }
+      },
+      "formatted_address": "42B Sakpoba Rd, Avbiama 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.328659699999999,5.628485899999999",
+      "google_place_id": "ChIJZzGjntjTQBARtZ11ixkEQd0"
+    }
   },
   {
     "id": "42698",
@@ -205,7 +377,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42699",
@@ -221,7 +410,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42700",
@@ -237,7 +443,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42701",
@@ -253,7 +476,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.897442799999999,
+      "longitude": 5.6781425,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898768529892721,
+          "lng": 5.679558529892723
+        },
+        "southwest": {
+          "lat": 5.896068870107277,
+          "lng": 5.676858870107279
+        }
+      },
+      "formatted_address": "VMWH+X7C, Yoruba Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.897442799999999,5.6781425",
+      "google_place_id": "ChIJbc1ajxDjQBARUvKNOkUtehA"
+    }
   },
   {
     "id": "42702",
@@ -269,7 +509,24 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8751032,
+      "longitude": 5.693232999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.876367829892723,
+          "lng": 5.694534579892721
+        },
+        "southwest": {
+          "lat": 5.873668170107279,
+          "lng": 5.691834920107277
+        }
+      },
+      "formatted_address": "3 Ogbimi Drive, Amukpe 331107, Olimpia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8751032,5.693232999999999",
+      "google_place_id": "ChIJm8tkcDjjQBARAmaSQ56imp4"
+    }
   },
   {
     "id": "42703",
@@ -285,6 +542,23 @@
     "local_government_id": "203",
     "local_government_name": "SAPELE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8751032,
+      "longitude": 5.693232999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.876367829892723,
+          "lng": 5.694534579892721
+        },
+        "southwest": {
+          "lat": 5.873668170107279,
+          "lng": 5.691834920107277
+        }
+      },
+      "formatted_address": "3 Ogbimi Drive, Amukpe 331107, Olimpia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8751032,5.693232999999999",
+      "google_place_id": "ChIJm8tkcDjjQBARAmaSQ56imp4"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.650761,
+      "longitude": 5.7675101,
+      "viewport": {
+        "northeast": {
+          "lat": 5.654986999999999,
+          "lng": 5.775350899999999
+        },
+        "southwest": {
+          "lat": 5.647017,
+          "lng": 5.761215
+        }
+      },
+      "formatted_address": "330101, Oviri-Court, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.650761,5.7675101",
+      "google_place_id": "ChIJZZzHXQarQRARu_USIfB2bkY"
+    }
   },
   {
     "id": "41914",
@@ -29,7 +46,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41915",
@@ -45,7 +63,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.6783161,
+      "longitude": 5.7649993,
+      "viewport": {
+        "northeast": {
+          "lat": 5.679673229892722,
+          "lng": 5.766381129892721
+        },
+        "southwest": {
+          "lat": 5.676973570107278,
+          "lng": 5.763681470107278
+        }
+      },
+      "formatted_address": "Adeje Primary School, 330101, Delta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6783161,5.7649993",
+      "google_place_id": "ChIJ__kyEPOqQRARaFGJc01ycZw"
+    }
   },
   {
     "id": "41916",
@@ -61,7 +96,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.6929083,
+      "longitude": 5.7951567,
+      "viewport": {
+        "northeast": {
+          "lat": 5.694098679892722,
+          "lng": 5.796384279892721
+        },
+        "southwest": {
+          "lat": 5.691399020107278,
+          "lng": 5.793684620107277
+        }
+      },
+      "formatted_address": "MQVW+537, 330101, Okolovu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6929083,5.7951567",
+      "google_place_id": "ChIJeQcuHQ2qQRARFwuu-au7WFE"
+    }
   },
   {
     "id": "41917",
@@ -77,7 +129,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7436137,
+      "longitude": 5.9905596,
+      "viewport": {
+        "northeast": {
+          "lat": 5.745012779892722,
+          "lng": 5.991963829892722
+        },
+        "southwest": {
+          "lat": 5.742313120107278,
+          "lng": 5.989264170107278
+        }
+      },
+      "formatted_address": "PXVR+C6V, Eko-Obiaruku Road, 330105, Igun Watershed, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7436137,5.9905596",
+      "google_place_id": "ChIJbyaCWiYLQRARJPnASPP0feA"
+    }
   },
   {
     "id": "41918",
@@ -93,7 +162,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7033668,
+      "longitude": 5.760430599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.704817729892723,
+          "lng": 5.761635079892722
+        },
+        "southwest": {
+          "lat": 5.702118070107279,
+          "lng": 5.758935420107278
+        }
+      },
+      "formatted_address": "Okwejeba Primary School, 330101, Okoejeba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7033668,5.760430599999999",
+      "google_place_id": "ChIJAVqhmHcAQRARZQ2KEzr7-Tc"
+    }
   },
   {
     "id": "41919",
@@ -109,7 +195,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5411302,
+      "longitude": 5.7638565,
+      "viewport": {
+        "northeast": {
+          "lat": 5.542435429892722,
+          "lng": 5.765181329892722
+        },
+        "southwest": {
+          "lat": 5.539735770107278,
+          "lng": 5.762481670107278
+        }
+      },
+      "formatted_address": "Ugborikoko Shrine, Warri, 330102, Wado City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5411302,5.7638565",
+      "google_place_id": "ChIJ96kNPnytQRAR-oaxYdSKHy0"
+    }
   },
   {
     "id": "41920",
@@ -125,7 +228,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7436137,
+      "longitude": 5.9905596,
+      "viewport": {
+        "northeast": {
+          "lat": 5.745012779892722,
+          "lng": 5.991963829892722
+        },
+        "southwest": {
+          "lat": 5.742313120107278,
+          "lng": 5.989264170107278
+        }
+      },
+      "formatted_address": "PXVR+C6V, Eko-Obiaruku Road, 330105, Igun Watershed, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7436137,5.9905596",
+      "google_place_id": "ChIJbyaCWiYLQRARJPnASPP0feA"
+    }
   },
   {
     "id": "41921",
@@ -141,7 +261,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.6401001,
+      "longitude": 5.8962545,
+      "viewport": {
+        "northeast": {
+          "lat": 5.641534929892721,
+          "lng": 5.897512079892722
+        },
+        "southwest": {
+          "lat": 5.638835270107277,
+          "lng": 5.894812420107278
+        }
+      },
+      "formatted_address": "JVRW+2GR, Warri-Agbor, Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6401001,5.8962545",
+      "google_place_id": "ChIJFyD3Vp6oQRARzJcIhj8bq0Y"
+    }
   },
   {
     "id": "41922",
@@ -157,7 +294,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.693372999999999,
+      "longitude": 5.7198635,
+      "viewport": {
+        "northeast": {
+          "lat": 5.694741179892722,
+          "lng": 5.721278629892723
+        },
+        "southwest": {
+          "lat": 5.692041520107278,
+          "lng": 5.718578970107279
+        }
+      },
+      "formatted_address": "Iriama Primary School, 330101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.693372999999999,5.7198635",
+      "google_place_id": "ChIJF6See1BVQBARxC_OcEZLFMY"
+    }
   },
   {
     "id": "41923",
@@ -173,7 +327,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8880762,
+      "longitude": 5.6842827,
+      "viewport": {
+        "northeast": {
+          "lat": 5.889313779892722,
+          "lng": 5.685583829892721
+        },
+        "southwest": {
+          "lat": 5.886614120107279,
+          "lng": 5.682884170107277
+        }
+      },
+      "formatted_address": "Omarin Primary School, Okpe Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8880762,5.6842827",
+      "google_place_id": "ChIJ4_BGCSHjQBARXCbPbt4_TU8"
+    }
   },
   {
     "id": "41924",
@@ -189,7 +360,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8880762,
+      "longitude": 5.6842827,
+      "viewport": {
+        "northeast": {
+          "lat": 5.889313779892722,
+          "lng": 5.685583829892721
+        },
+        "southwest": {
+          "lat": 5.886614120107279,
+          "lng": 5.682884170107277
+        }
+      },
+      "formatted_address": "Omarin Primary School, Okpe Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8880762,5.6842827",
+      "google_place_id": "ChIJ4_BGCSHjQBARXCbPbt4_TU8"
+    }
   },
   {
     "id": "41925",
@@ -205,7 +393,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8880762,
+      "longitude": 5.6842827,
+      "viewport": {
+        "northeast": {
+          "lat": 5.889313779892722,
+          "lng": 5.685583829892721
+        },
+        "southwest": {
+          "lat": 5.886614120107279,
+          "lng": 5.682884170107277
+        }
+      },
+      "formatted_address": "Omarin Primary School, Okpe Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8880762,5.6842827",
+      "google_place_id": "ChIJ4_BGCSHjQBARXCbPbt4_TU8"
+    }
   },
   {
     "id": "41926",
@@ -221,7 +426,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.8880762,
+      "longitude": 5.6842827,
+      "viewport": {
+        "northeast": {
+          "lat": 5.889313779892722,
+          "lng": 5.685583829892721
+        },
+        "southwest": {
+          "lat": 5.886614120107279,
+          "lng": 5.682884170107277
+        }
+      },
+      "formatted_address": "Omarin Primary School, Okpe Rd, Sapele 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8880762,5.6842827",
+      "google_place_id": "ChIJ4_BGCSHjQBARXCbPbt4_TU8"
+    }
   },
   {
     "id": "41927",
@@ -237,7 +459,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7436137,
+      "longitude": 5.9905596,
+      "viewport": {
+        "northeast": {
+          "lat": 5.745012779892722,
+          "lng": 5.991963829892722
+        },
+        "southwest": {
+          "lat": 5.742313120107278,
+          "lng": 5.989264170107278
+        }
+      },
+      "formatted_address": "PXVR+C6V, Eko-Obiaruku Road, 330105, Igun Watershed, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7436137,5.9905596",
+      "google_place_id": "ChIJbyaCWiYLQRARJPnASPP0feA"
+    }
   },
   {
     "id": "41928",
@@ -253,7 +492,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5411302,
+      "longitude": 5.7638565,
+      "viewport": {
+        "northeast": {
+          "lat": 5.542435429892722,
+          "lng": 5.765181329892722
+        },
+        "southwest": {
+          "lat": 5.539735770107278,
+          "lng": 5.762481670107278
+        }
+      },
+      "formatted_address": "Ugborikoko Shrine, Warri, 330102, Wado City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5411302,5.7638565",
+      "google_place_id": "ChIJ96kNPnytQRAR-oaxYdSKHy0"
+    }
   },
   {
     "id": "41929",
@@ -269,7 +525,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41930",
@@ -285,7 +542,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41931",
@@ -301,7 +559,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.688103700000001,
+      "longitude": 5.7642172,
+      "viewport": {
+        "northeast": {
+          "lat": 5.7019301,
+          "lng": 5.7774771
+        },
+        "southwest": {
+          "lat": 5.6721549,
+          "lng": 5.7566941
+        }
+      },
+      "formatted_address": "330101, Adeje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.688103700000001,5.7642172",
+      "google_place_id": "ChIJfbJtNImqQRARmnYpnymIeIs"
+    }
   },
   {
     "id": "41932",
@@ -317,7 +592,8 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "41933",
@@ -333,7 +609,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.870691799999999,
+      "longitude": 5.7067195,
+      "viewport": {
+        "northeast": {
+          "lat": 5.872044979892721,
+          "lng": 5.708072079892722
+        },
+        "southwest": {
+          "lat": 5.869345320107278,
+          "lng": 5.705372420107278
+        }
+      },
+      "formatted_address": "VPC4+7MH, Sapele-Warri Rd, Amukpe 331107, Sapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.870691799999999,5.7067195",
+      "google_place_id": "ChIJ23_f9e3jQBARBHZaPS59jqw"
+    }
   },
   {
     "id": "41934",
@@ -349,7 +642,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5938659,
+      "longitude": 5.7065764,
+      "viewport": {
+        "northeast": {
+          "lat": 5.595204879892722,
+          "lng": 5.707931929892721
+        },
+        "southwest": {
+          "lat": 5.592505220107278,
+          "lng": 5.705232270107278
+        }
+      },
+      "formatted_address": "HPV4+GJW, 330101, Jeddo 330101, Wado City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5938659,5.7065764",
+      "google_place_id": "ChIJR51MSXtTQBAR6PIAygynr1Y"
+    }
   },
   {
     "id": "41935",
@@ -365,7 +675,24 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.7436137,
+      "longitude": 5.9905596,
+      "viewport": {
+        "northeast": {
+          "lat": 5.745012779892722,
+          "lng": 5.991963829892722
+        },
+        "southwest": {
+          "lat": 5.742313120107278,
+          "lng": 5.989264170107278
+        }
+      },
+      "formatted_address": "PXVR+C6V, Eko-Obiaruku Road, 330105, Igun Watershed, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7436137,5.9905596",
+      "google_place_id": "ChIJbyaCWiYLQRARJPnASPP0feA"
+    }
   },
   {
     "id": "41936",
@@ -381,6 +708,7 @@
     "local_government_id": "199",
     "local_government_name": "OKPE",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   }
 ]

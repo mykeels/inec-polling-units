@@ -13,7 +13,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2391478,
+      "longitude": 6.200009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.240735379892723,
+          "lng": 6.201160179892722
+        },
+        "southwest": {
+          "lat": 5.238035720107279,
+          "lng": 6.198460520107278
+        }
+      },
+      "formatted_address": "66Q2+M22, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2391478,6.200009",
+      "google_place_id": "ChIJFxmXmFTuQRARGJawk80MRV0"
+    }
   },
   {
     "id": "42523",
@@ -29,7 +46,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2391478,
+      "longitude": 6.200009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.240735379892723,
+          "lng": 6.201160179892722
+        },
+        "southwest": {
+          "lat": 5.238035720107279,
+          "lng": 6.198460520107278
+        }
+      },
+      "formatted_address": "66Q2+M22, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2391478,6.200009",
+      "google_place_id": "ChIJFxmXmFTuQRARGJawk80MRV0"
+    }
   },
   {
     "id": "42524",
@@ -45,7 +79,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2391478,
+      "longitude": 6.200009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.240735379892723,
+          "lng": 6.201160179892722
+        },
+        "southwest": {
+          "lat": 5.238035720107279,
+          "lng": 6.198460520107278
+        }
+      },
+      "formatted_address": "66Q2+M22, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2391478,6.200009",
+      "google_place_id": "ChIJFxmXmFTuQRARGJawk80MRV0"
+    }
   },
   {
     "id": "42525",
@@ -61,7 +112,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2391478,
+      "longitude": 6.200009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.240735379892723,
+          "lng": 6.201160179892722
+        },
+        "southwest": {
+          "lat": 5.238035720107279,
+          "lng": 6.198460520107278
+        }
+      },
+      "formatted_address": "66Q2+M22, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2391478,6.200009",
+      "google_place_id": "ChIJFxmXmFTuQRARGJawk80MRV0"
+    }
   },
   {
     "id": "42526",
@@ -77,7 +145,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2391478,
+      "longitude": 6.200009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.240735379892723,
+          "lng": 6.201160179892722
+        },
+        "southwest": {
+          "lat": 5.238035720107279,
+          "lng": 6.198460520107278
+        }
+      },
+      "formatted_address": "66Q2+M22, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2391478,6.200009",
+      "google_place_id": "ChIJFxmXmFTuQRARGJawk80MRV0"
+    }
   },
   {
     "id": "42527",
@@ -93,7 +178,8 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42528",
@@ -109,6 +195,7 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   }
 ]

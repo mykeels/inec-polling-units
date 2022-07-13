@@ -13,7 +13,8 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42507",
@@ -29,7 +30,8 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42508",
@@ -45,7 +47,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2289213,
+      "longitude": 6.1912235,
+      "viewport": {
+        "northeast": {
+          "lat": 5.230378979892722,
+          "lng": 6.19260827989272
+        },
+        "southwest": {
+          "lat": 5.227679320107278,
+          "lng": 6.189908620107277
+        }
+      },
+      "formatted_address": "AKOWARE QUARTER, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2289213,6.1912235",
+      "google_place_id": "ChIJTc0ZrL3vQRARIPgWw5sGVjU"
+    }
   },
   {
     "id": "42509",
@@ -61,7 +80,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2391478,
+      "longitude": 6.200009,
+      "viewport": {
+        "northeast": {
+          "lat": 5.240735379892723,
+          "lng": 6.201160179892722
+        },
+        "southwest": {
+          "lat": 5.238035720107279,
+          "lng": 6.198460520107278
+        }
+      },
+      "formatted_address": "66Q2+M22, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2391478,6.200009",
+      "google_place_id": "ChIJFxmXmFTuQRARGJawk80MRV0"
+    }
   },
   {
     "id": "42510",
@@ -77,7 +113,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.230033199999999,
+      "longitude": 6.213393399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.231199079892722,
+          "lng": 6.214897729892721
+        },
+        "southwest": {
+          "lat": 5.228499420107278,
+          "lng": 6.212198070107277
+        }
+      },
+      "formatted_address": "66J7+296, 561101, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.230033199999999,6.213393399999999",
+      "google_place_id": "ChIJL3F-_rbvQRAR9zTre-uLlIA"
+    }
   },
   {
     "id": "42511",
@@ -93,7 +146,24 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.230033199999999,
+      "longitude": 6.213393399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.231199079892722,
+          "lng": 6.214897729892721
+        },
+        "southwest": {
+          "lat": 5.228499420107278,
+          "lng": 6.212198070107277
+        }
+      },
+      "formatted_address": "66J7+296, 561101, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.230033199999999,6.213393399999999",
+      "google_place_id": "ChIJL3F-_rbvQRAR9zTre-uLlIA"
+    }
   },
   {
     "id": "42512",
@@ -109,6 +179,23 @@
     "local_government_id": "202",
     "local_government_name": "PATANI",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.2270319,
+      "longitude": 6.1896049,
+      "viewport": {
+        "northeast": {
+          "lat": 5.228397029892722,
+          "lng": 6.191002979892721
+        },
+        "southwest": {
+          "lat": 5.225697370107278,
+          "lng": 6.188303320107277
+        }
+      },
+      "formatted_address": "65GQ+VVJ Ekise Quarters, beside Former Uduaghan Park, 333104, Patani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2270319,6.1896049",
+      "google_place_id": "ChIJ547UKs_vQRAR5Nxh4k_E9hM"
+    }
   }
 ]

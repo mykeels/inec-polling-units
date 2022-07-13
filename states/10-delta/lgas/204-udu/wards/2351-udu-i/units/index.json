@@ -13,7 +13,8 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42847",
@@ -29,7 +30,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4520469,
+      "longitude": 5.8688293,
+      "viewport": {
+        "northeast": {
+          "lat": 5.463154299999999,
+          "lng": 5.8848367
+        },
+        "southwest": {
+          "lat": 5.4409393,
+          "lng": 5.852821899999999
+        }
+      },
+      "formatted_address": "330103, Otor Udu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4520469,5.8688293",
+      "google_place_id": "ChIJvTf6ps2wQRARuyIcyOLaa2k"
+    }
   },
   {
     "id": "42848",
@@ -45,7 +63,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4505908,
+      "longitude": 5.8689227,
+      "viewport": {
+        "northeast": {
+          "lat": 5.451931129892722,
+          "lng": 5.870304829892722
+        },
+        "southwest": {
+          "lat": 5.449231470107278,
+          "lng": 5.867605170107278
+        }
+      },
+      "formatted_address": "FV29+6H2, 330103, Ugbisi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4505908,5.8689227",
+      "google_place_id": "ChIJDUN6Pc2wQRARb4FccjPjeGI"
+    }
   },
   {
     "id": "42849",
@@ -61,7 +96,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4542172,
+      "longitude": 5.870350699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.455573929892721,
+          "lng": 5.871639979892721
+        },
+        "southwest": {
+          "lat": 5.452874270107277,
+          "lng": 5.868940320107277
+        }
+      },
+      "formatted_address": "FV3C+J4M, 330103, Otudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4542172,5.870350699999999",
+      "google_place_id": "ChIJUZjdL_CxQRARupGYX_A5PUQ"
+    }
   },
   {
     "id": "42850",
@@ -77,7 +129,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.443993499999999,
+      "longitude": 5.8723182,
+      "viewport": {
+        "northeast": {
+          "lat": 5.4650266,
+          "lng": 5.8905433
+        },
+        "southwest": {
+          "lat": 5.409665599999999,
+          "lng": 5.8403455
+        }
+      },
+      "formatted_address": "Udu I, 330103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.443993499999999,5.8723182",
+      "google_place_id": "ChIJ665lFCW3QRAR_cmTdG2xNkE"
+    }
   },
   {
     "id": "42851",
@@ -93,7 +162,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5583443,
+      "longitude": 5.7801309,
+      "viewport": {
+        "northeast": {
+          "lat": 5.559708629892722,
+          "lng": 5.781445679892721
+        },
+        "southwest": {
+          "lat": 5.557008970107278,
+          "lng": 5.778746020107278
+        }
+      },
+      "formatted_address": "32 Okoloba St, Tori 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5583443,5.7801309",
+      "google_place_id": "ChIJYRJGw82wQRARG6AQyepKqaE"
+    }
   },
   {
     "id": "42852",
@@ -109,7 +195,8 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42853",
@@ -125,7 +212,8 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42854",
@@ -141,7 +229,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5583443,
+      "longitude": 5.7801309,
+      "viewport": {
+        "northeast": {
+          "lat": 5.559708629892722,
+          "lng": 5.781445679892721
+        },
+        "southwest": {
+          "lat": 5.557008970107278,
+          "lng": 5.778746020107278
+        }
+      },
+      "formatted_address": "32 Okoloba St, Tori 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5583443,5.7801309",
+      "google_place_id": "ChIJYRJGw82wQRARG6AQyepKqaE"
+    }
   },
   {
     "id": "42855",
@@ -157,7 +262,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5583443,
+      "longitude": 5.7801309,
+      "viewport": {
+        "northeast": {
+          "lat": 5.559708629892722,
+          "lng": 5.781445679892721
+        },
+        "southwest": {
+          "lat": 5.557008970107278,
+          "lng": 5.778746020107278
+        }
+      },
+      "formatted_address": "32 Okoloba St, Tori 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5583443,5.7801309",
+      "google_place_id": "ChIJYRJGw82wQRARG6AQyepKqaE"
+    }
   },
   {
     "id": "42856",
@@ -173,7 +295,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.5583443,
+      "longitude": 5.7801309,
+      "viewport": {
+        "northeast": {
+          "lat": 5.559708629892722,
+          "lng": 5.781445679892721
+        },
+        "southwest": {
+          "lat": 5.557008970107278,
+          "lng": 5.778746020107278
+        }
+      },
+      "formatted_address": "32 Okoloba St, Tori 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5583443,5.7801309",
+      "google_place_id": "ChIJYRJGw82wQRARG6AQyepKqaE"
+    }
   },
   {
     "id": "42857",
@@ -189,7 +328,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4542172,
+      "longitude": 5.870350699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.455573929892721,
+          "lng": 5.871639979892721
+        },
+        "southwest": {
+          "lat": 5.452874270107277,
+          "lng": 5.868940320107277
+        }
+      },
+      "formatted_address": "FV3C+J4M, 330103, Otudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4542172,5.870350699999999",
+      "google_place_id": "ChIJUZjdL_CxQRARupGYX_A5PUQ"
+    }
   },
   {
     "id": "42858",
@@ -205,7 +361,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.4904509,
+      "longitude": 5.991810399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.491792029892722,
+          "lng": 5.993167979892721
+        },
+        "southwest": {
+          "lat": 5.489092370107278,
+          "lng": 5.990468320107277
+        }
+      },
+      "formatted_address": "FXRR+5QJ, 333105, Ughelli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4904509,5.991810399999999",
+      "google_place_id": "ChIJ1UoFkIe8QRARaEI97mVDuuU"
+    }
   },
   {
     "id": "42859",
@@ -221,7 +394,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 6.4074259,
+      "longitude": 5.2581444,
+      "viewport": {
+        "northeast": {
+          "lat": 6.408775729892723,
+          "lng": 5.259494229892723
+        },
+        "southwest": {
+          "lat": 6.406076070107279,
+          "lng": 5.256794570107279
+        }
+      },
+      "formatted_address": "L.G.A, Okomu Oil Palm Estate Okomuudo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4074259,5.2581444",
+      "google_place_id": "ChIJdfU8655NRxARvun6jgJ_27I"
+    }
   },
   {
     "id": "42860",
@@ -237,7 +427,24 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.506252,
+      "longitude": 5.7863145,
+      "viewport": {
+        "northeast": {
+          "lat": 5.507531079892721,
+          "lng": 5.787586029892721
+        },
+        "southwest": {
+          "lat": 5.504831420107277,
+          "lng": 5.784886370107277
+        }
+      },
+      "formatted_address": "Km 2 Otor-Udu Road, Ovwian, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.506252,5.7863145",
+      "google_place_id": "ChIJyXEhakSyQRARi-HRgBW3hyE"
+    }
   },
   {
     "id": "42861",
@@ -253,7 +460,8 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": null
   },
   {
     "id": "42862",
@@ -269,6 +477,23 @@
     "local_government_id": "204",
     "local_government_name": "UDU",
     "state_id": "10",
-    "state_name": "DELTA"
+    "state_name": "DELTA",
+    "location": {
+      "latitude": 5.569050799999999,
+      "longitude": 5.7761908,
+      "viewport": {
+        "northeast": {
+          "lat": 5.570402479892722,
+          "lng": 5.777518079892721
+        },
+        "southwest": {
+          "lat": 5.567702820107278,
+          "lng": 5.774818420107278
+        }
+      },
+      "formatted_address": "HQ9G+JFG, Effurun 330102, Warri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.569050799999999,5.7761908",
+      "google_place_id": "ChIJL_1EQKmtQRARg2rd_PVQVVs"
+    }
   }
 ]
