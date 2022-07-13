@@ -13,7 +13,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.431215900000001,
+      "longitude": 5.453869699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.432584779892725,
+          "lng": 5.455345179892721
+        },
+        "southwest": {
+          "lat": 7.429885120107281,
+          "lng": 5.452645520107278
+        }
+      },
+      "formatted_address": "new owo Road along general hospital, beside as ikot house, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.431215900000001,5.453869699999999",
+      "google_place_id": "ChIJH839Dw7BRxAR4gSqp0XLxcY"
+    }
   },
   {
     "id": "53540",
@@ -29,7 +46,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.4316665,
+      "longitude": 5.462054500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.433001229892722,
+          "lng": 5.463364679892722
+        },
+        "southwest": {
+          "lat": 7.430301570107278,
+          "lng": 5.460665020107278
+        }
+      },
+      "formatted_address": "Ogboti Oro Street, Along Palace Road, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4316665,5.462054500000001",
+      "google_place_id": "ChIJeWTg-MTBRxARKuycj6_l7bU"
+    }
   },
   {
     "id": "53541",
@@ -45,7 +79,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.431215900000001,
+      "longitude": 5.453869699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.432584779892725,
+          "lng": 5.455345179892721
+        },
+        "southwest": {
+          "lat": 7.429885120107281,
+          "lng": 5.452645520107278
+        }
+      },
+      "formatted_address": "new owo Road along general hospital, beside as ikot house, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.431215900000001,5.453869699999999",
+      "google_place_id": "ChIJH839Dw7BRxAR4gSqp0XLxcY"
+    }
   },
   {
     "id": "53542",
@@ -61,7 +112,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.438447299999999,
+      "longitude": 5.4623725,
+      "viewport": {
+        "northeast": {
+          "lat": 7.43979917989272,
+          "lng": 5.463774229892722
+        },
+        "southwest": {
+          "lat": 7.437099520107276,
+          "lng": 5.461074570107278
+        }
+      },
+      "formatted_address": "CFQ6+9WH, 361104, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.438447299999999,5.4623725",
+      "google_place_id": "ChIJ1XW4YNvARxARQ0NyOquD4bM"
+    }
   },
   {
     "id": "53543",
@@ -77,6 +145,7 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   }
 ]

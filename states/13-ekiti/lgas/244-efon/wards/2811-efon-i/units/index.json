@@ -13,7 +13,24 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6539799,
+      "longitude": 4.9195154,
+      "viewport": {
+        "northeast": {
+          "lat": 7.655324329892721,
+          "lng": 4.920788479892721
+        },
+        "southwest": {
+          "lat": 7.652624670107278,
+          "lng": 4.918088820107277
+        }
+      },
+      "formatted_address": "Igbo Egun Quaters, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6539799,4.9195154",
+      "google_place_id": "ChIJHXdqIfQFOBARFbOCR50rdeE"
+    }
   },
   {
     "id": "52929",
@@ -29,7 +46,24 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.662437,
+      "longitude": 4.9131632,
+      "viewport": {
+        "northeast": {
+          "lat": 7.66375622989272,
+          "lng": 4.91445287989272
+        },
+        "southwest": {
+          "lat": 7.661056570107276,
+          "lng": 4.911753220107276
+        }
+      },
+      "formatted_address": "MW67+X7F, 362104, Efon Alaaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.662437,4.9131632",
+      "google_place_id": "ChIJ5cSFTCsFOBARYJtK8oVPQCs"
+    }
   },
   {
     "id": "52930",
@@ -45,7 +79,24 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.655519999999999,
+      "longitude": 4.916800299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.656962029892721,
+          "lng": 4.918220829892721
+        },
+        "southwest": {
+          "lat": 7.654262370107277,
+          "lng": 4.915521170107278
+        }
+      },
+      "formatted_address": "1, Walemisoro Street, Efon Alaaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.655519999999999,4.916800299999999",
+      "google_place_id": "ChIJ0dMBX5YEOBAR_J8yKDdmbXQ"
+    }
   },
   {
     "id": "52931",
@@ -61,7 +112,8 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "52932",
@@ -77,7 +129,24 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6539799,
+      "longitude": 4.9195154,
+      "viewport": {
+        "northeast": {
+          "lat": 7.655324329892721,
+          "lng": 4.920788479892721
+        },
+        "southwest": {
+          "lat": 7.652624670107278,
+          "lng": 4.918088820107277
+        }
+      },
+      "formatted_address": "Igbo Egun Quaters, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6539799,4.9195154",
+      "google_place_id": "ChIJHXdqIfQFOBARFbOCR50rdeE"
+    }
   },
   {
     "id": "52933",
@@ -93,7 +162,24 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.654834899999999,
+      "longitude": 4.9162173,
+      "viewport": {
+        "northeast": {
+          "lat": 7.656184529892722,
+          "lng": 4.917616279892722
+        },
+        "southwest": {
+          "lat": 7.653484870107278,
+          "lng": 4.914916620107278
+        }
+      },
+      "formatted_address": "MW38+WFQ, Apare Street, Efon Alaaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.654834899999999,4.9162173",
+      "google_place_id": "ChIJGeuGb5YEOBAR9JWW40qqjgc"
+    }
   },
   {
     "id": "52934",
@@ -109,6 +195,23 @@
     "local_government_id": "244",
     "local_government_name": "EFON",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 6.541433500000001,
+      "longitude": 3.2231587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542760379892722,
+          "lng": 3.224513429892722
+        },
+        "southwest": {
+          "lat": 6.540060720107278,
+          "lng": 3.221813770107278
+        }
+      },
+      "formatted_address": "G6RF+H7F, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.541433500000001,3.2231587",
+      "google_place_id": "ChIJU-6zzKuFOxARUDCfQkT4Di0"
+    }
   }
 ]

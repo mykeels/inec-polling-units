@@ -13,7 +13,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8353826,
+      "longitude": 4.922164899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.836789329892722,
+          "lng": 4.923584379892723
+        },
+        "southwest": {
+          "lat": 7.834089670107279,
+          "lng": 4.920884720107279
+        }
+      },
+      "formatted_address": "Local Govenment, Kilometre 5,Okemesi/Ikoro Road, 362103, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8353826,4.922164899999999",
+      "google_place_id": "ChIJB301Mjv5NxARVzyUmcOfxYg"
+    }
   },
   {
     "id": "53282",
@@ -29,7 +46,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8353826,
+      "longitude": 4.922164899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.836789679892723,
+          "lng": 4.923584079892722
+        },
+        "southwest": {
+          "lat": 7.834090020107279,
+          "lng": 4.920884420107278
+        }
+      },
+      "formatted_address": "Odo - Ese Street, PMB No. 01, 362103, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8353826,4.922164899999999",
+      "google_place_id": "ChIJAQAAAI_5NxARPhr9szVEE04"
+    }
   },
   {
     "id": "53283",
@@ -45,7 +79,8 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53284",
@@ -61,7 +96,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8356001,
+      "longitude": 4.9200856,
+      "viewport": {
+        "northeast": {
+          "lat": 7.837143979892722,
+          "lng": 4.921585879892723
+        },
+        "southwest": {
+          "lat": 7.834444320107278,
+          "lng": 4.918886220107279
+        }
+      },
+      "formatted_address": "RWPC+62W, Odowo, Oke-Imesi, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8356001,4.9200856",
+      "google_place_id": "ChIJ1XYE07L5NxARcNRmbjrNa3c"
+    }
   },
   {
     "id": "53285",
@@ -77,7 +129,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7151245,
+      "longitude": 5.154566200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716466129892721,
+          "lng": 5.155973829892721
+        },
+        "southwest": {
+          "lat": 7.713766470107277,
+          "lng": 5.153274170107277
+        }
+      },
+      "formatted_address": "P583+5V5, 362103, Awo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151245,5.154566200000001",
+      "google_place_id": "ChIJBV-wlOn9RxARxvcdl6Tha18"
+    }
   },
   {
     "id": "53286",
@@ -93,7 +162,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.860852899999999,
+      "longitude": 4.9138953,
+      "viewport": {
+        "northeast": {
+          "lat": 7.862229729892721,
+          "lng": 4.915252629892723
+        },
+        "southwest": {
+          "lat": 7.859530070107277,
+          "lng": 4.912552970107279
+        }
+      },
+      "formatted_address": "VW67+8HJ, 233130, Oruraw, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.860852899999999,4.9138953",
+      "google_place_id": "ChIJ2bD7h-b7NxARe24NZsrn5zk"
+    }
   },
   {
     "id": "53287",
@@ -109,7 +195,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.834522799999998,
+      "longitude": 4.9154119,
+      "viewport": {
+        "northeast": {
+          "lat": 7.835914279892722,
+          "lng": 4.916784929892721
+        },
+        "southwest": {
+          "lat": 7.833214620107278,
+          "lng": 4.914085270107277
+        }
+      },
+      "formatted_address": "RWM8+Q5R, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.834522799999998,4.9154119",
+      "google_place_id": "ChIJMfcVPI35NxARzKkseABVIgo"
+    }
   },
   {
     "id": "53288",
@@ -125,7 +228,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8248928,
+      "longitude": 4.9244477,
+      "viewport": {
+        "northeast": {
+          "lat": 7.826230529892721,
+          "lng": 4.925758229892722
+        },
+        "southwest": {
+          "lat": 7.823530870107277,
+          "lng": 4.923058570107278
+        }
+      },
+      "formatted_address": "RWFF+XQW, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8248928,4.9244477",
+      "google_place_id": "ChIJO_XrYzb5NxARRrwl5bMF3kg"
+    }
   },
   {
     "id": "53289",
@@ -141,7 +261,8 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53290",
@@ -157,7 +278,8 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53291",
@@ -173,7 +295,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8741752,
+      "longitude": 4.9491682,
+      "viewport": {
+        "northeast": {
+          "lat": 7.875391279892723,
+          "lng": 4.950259179892721
+        },
+        "southwest": {
+          "lat": 7.872691620107279,
+          "lng": 4.947559520107277
+        }
+      },
+      "formatted_address": "VWFX+PM2, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8741752,4.9491682",
+      "google_place_id": "ChIJx8-1Fbv7NxAR6rJ68vO55nw"
+    }
   },
   {
     "id": "53292",
@@ -189,7 +328,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8353579,
+      "longitude": 4.922111399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.836775929892722,
+          "lng": 4.923554329892721
+        },
+        "southwest": {
+          "lat": 7.834076270107278,
+          "lng": 4.920854670107278
+        }
+      },
+      "formatted_address": "RWPC+4RX, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8353579,4.922111399999999",
+      "google_place_id": "ChIJG7FFuib5NxARMYVVTyKvoy0"
+    }
   },
   {
     "id": "53293",
@@ -205,7 +361,8 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53294",
@@ -221,7 +378,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8574105,
+      "longitude": 4.9384313,
+      "viewport": {
+        "northeast": {
+          "lat": 7.858337229892721,
+          "lng": 4.94378165
+        },
+        "southwest": {
+          "lat": 7.855637570107278,
+          "lng": 4.936647849999999
+        }
+      },
+      "formatted_address": "p.o.box 25,okeonire quarter's odobi street, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8574105,4.9384313",
+      "google_place_id": "ChIJ_3q--x77NxARAoQd0-5kG8c"
+    }
   },
   {
     "id": "53295",
@@ -237,7 +411,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8353579,
+      "longitude": 4.922111399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.836775929892722,
+          "lng": 4.923554329892721
+        },
+        "southwest": {
+          "lat": 7.834076270107278,
+          "lng": 4.920854670107278
+        }
+      },
+      "formatted_address": "RWPC+4RX, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8353579,4.922111399999999",
+      "google_place_id": "ChIJG7FFuib5NxARMYVVTyKvoy0"
+    }
   },
   {
     "id": "53296",
@@ -253,7 +444,8 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53297",
@@ -269,7 +461,8 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53298",
@@ -285,7 +478,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.836463200000001,
+      "longitude": 4.9153141,
+      "viewport": {
+        "northeast": {
+          "lat": 7.837828779892723,
+          "lng": 4.916696679892722
+        },
+        "southwest": {
+          "lat": 7.835129120107279,
+          "lng": 4.913997020107278
+        }
+      },
+      "formatted_address": "RWP8+H4P, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.836463200000001,4.9153141",
+      "google_place_id": "ChIJa8xVwYz5NxARCn7mGhYIiqc"
+    }
   },
   {
     "id": "53299",
@@ -301,7 +511,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.603643099999998,
+      "longitude": 5.104449,
+      "viewport": {
+        "northeast": {
+          "lat": 7.605001779892722,
+          "lng": 5.105843229892722
+        },
+        "southwest": {
+          "lat": 7.602302120107278,
+          "lng": 5.103143570107278
+        }
+      },
+      "formatted_address": "Oke Emo Hall, Ilawe Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.603643099999998,5.104449",
+      "google_place_id": "ChIJAyAMoKj5RxAR6VzfM7P3Gvg"
+    }
   },
   {
     "id": "53300",
@@ -317,6 +544,23 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.4821976,
+      "longitude": 4.5602666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483640929892724,
+          "lng": 4.561520929892723
+        },
+        "southwest": {
+          "lat": 7.48094127010728,
+          "lng": 4.558821270107279
+        }
+      },
+      "formatted_address": "FHJ6+V4C, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4821976,4.5602666",
+      "google_place_id": "ChIJ__-_qV83OBAR_Sdkra_pXkM"
+    }
   }
 ]

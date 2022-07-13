@@ -13,7 +13,24 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6369442,
+      "longitude": 5.417088199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.638454629892723,
+          "lng": 5.418548529892722
+        },
+        "southwest": {
+          "lat": 7.635754970107279,
+          "lng": 5.415848870107278
+        }
+      },
+      "formatted_address": "JCP8+QRG, Iluomoba-, ILU-Omoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6369442,5.417088199999999",
+      "google_place_id": "ChIJb97F1r3dRxARqKFsqnYiPaE"
+    }
   },
   {
     "id": "53906",
@@ -29,7 +46,24 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.812597899999999,
+      "longitude": 5.0701109,
+      "viewport": {
+        "northeast": {
+          "lat": 7.81396662989272,
+          "lng": 5.071478579892722
+        },
+        "southwest": {
+          "lat": 7.811266970107276,
+          "lng": 5.068778920107278
+        }
+      },
+      "formatted_address": "R37C+329, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812597899999999,5.0701109",
+      "google_place_id": "ChIJgeaGMtsBSBARQ29pb0cXsQg"
+    }
   },
   {
     "id": "53907",
@@ -45,7 +79,24 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.812597899999999,
+      "longitude": 5.0701109,
+      "viewport": {
+        "northeast": {
+          "lat": 7.81396662989272,
+          "lng": 5.071478579892722
+        },
+        "southwest": {
+          "lat": 7.811266970107276,
+          "lng": 5.068778920107278
+        }
+      },
+      "formatted_address": "R37C+329, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812597899999999,5.0701109",
+      "google_place_id": "ChIJgeaGMtsBSBARQ29pb0cXsQg"
+    }
   },
   {
     "id": "53908",
@@ -61,7 +112,24 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.813452300000001,
+      "longitude": 5.0698457,
+      "viewport": {
+        "northeast": {
+          "lat": 7.814861629892722,
+          "lng": 5.071196229892721
+        },
+        "southwest": {
+          "lat": 7.812161970107279,
+          "lng": 5.068496570107277
+        }
+      },
+      "formatted_address": "R379+8WQ, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.813452300000001,5.0698457",
+      "google_place_id": "ChIJ7WchT9sBSBARMZPYWdjLbFA"
+    }
   },
   {
     "id": "53909",
@@ -77,7 +145,8 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53910",
@@ -93,7 +162,24 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8103801,
+      "longitude": 5.0811644,
+      "viewport": {
+        "northeast": {
+          "lat": 7.811921279892722,
+          "lng": 5.082646279892722
+        },
+        "southwest": {
+          "lat": 7.809221620107278,
+          "lng": 5.079946620107278
+        }
+      },
+      "formatted_address": "372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8103801,5.0811644",
+      "google_place_id": "ChIJnXz2m-EBSBARpnLW3He8xLg"
+    }
   },
   {
     "id": "53911",
@@ -109,6 +195,23 @@
     "local_government_id": "251",
     "local_government_name": "IJERO",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.812597899999999,
+      "longitude": 5.0701109,
+      "viewport": {
+        "northeast": {
+          "lat": 7.81396662989272,
+          "lng": 5.071478579892722
+        },
+        "southwest": {
+          "lat": 7.811266970107276,
+          "lng": 5.068778920107278
+        }
+      },
+      "formatted_address": "R37C+329, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812597899999999,5.0701109",
+      "google_place_id": "ChIJgeaGMtsBSBARQ29pb0cXsQg"
+    }
   }
 ]

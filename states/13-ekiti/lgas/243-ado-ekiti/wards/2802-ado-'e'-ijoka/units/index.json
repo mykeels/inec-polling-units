@@ -13,7 +13,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6227752,
+      "longitude": 5.2193754,
+      "viewport": {
+        "northeast": {
+          "lat": 7.624126829892721,
+          "lng": 5.220728579892722
+        },
+        "southwest": {
+          "lat": 7.621427170107277,
+          "lng": 5.218028920107278
+        }
+      },
+      "formatted_address": "27 Ereguru, street 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6227752,5.2193754",
+      "google_place_id": "ChIJmfXfL9b6RxARnei2xNpfjl0"
+    }
   },
   {
     "id": "52673",
@@ -29,7 +46,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.894414800000001,
+      "longitude": 4.7017885,
+      "viewport": {
+        "northeast": {
+          "lat": 7.895727829892722,
+          "lng": 4.703143729892722
+        },
+        "southwest": {
+          "lat": 7.893028170107278,
+          "lng": 4.700444070107278
+        }
+      },
+      "formatted_address": "Aagba/ada junction,,ada Obada market, ada, Iree, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.894414800000001,4.7017885",
+      "google_place_id": "ChIJ46TCTsGNNxAR-Xsen1gmZ0Y"
+    }
   },
   {
     "id": "52674",
@@ -45,7 +79,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.609871900000001,
+      "longitude": 5.2506793,
+      "viewport": {
+        "northeast": {
+          "lat": 7.611422379892722,
+          "lng": 5.252016779892722
+        },
+        "southwest": {
+          "lat": 7.608722720107278,
+          "lng": 5.249317120107278
+        }
+      },
+      "formatted_address": "J752+W7V, Off Local Government Road, Odo-Ado, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.609871900000001,5.2506793",
+      "google_place_id": "ChIJE4R9AxflRxAR649DNFtXF10"
+    }
   },
   {
     "id": "52675",
@@ -61,7 +112,8 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "52676",
@@ -77,7 +129,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 36.8821803,
+      "longitude": -76.3027652,
+      "viewport": {
+        "northeast": {
+          "lat": 36.88353137989272,
+          "lng": -76.30137432010729
+        },
+        "southwest": {
+          "lat": 36.88083172010728,
+          "lng": -76.30407397989272
+        }
+      },
+      "formatted_address": "4111 Hampton Blvd, Norfolk, VA 23508, United States",
+      "google_map_url": "https://maps.google.com?q=36.8821803,-76.3027652",
+      "google_place_id": "ChIJ__9v_kyYuokRnGdEFDh3buQ"
+    }
   },
   {
     "id": "52677",
@@ -93,7 +162,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6125072,
+      "longitude": 5.2370789,
+      "viewport": {
+        "northeast": {
+          "lat": 7.613828479892722,
+          "lng": 5.238416379892723
+        },
+        "southwest": {
+          "lat": 7.611128820107278,
+          "lng": 5.235716720107278
+        }
+      },
+      "formatted_address": "Arowolo gardens, opposite fajuyi pavilion, 360001, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6125072,5.2370789",
+      "google_place_id": "ChIJGcn1riX7RxARyw62N5ERjnU"
+    }
   },
   {
     "id": "52678",
@@ -109,7 +195,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6207631,
+      "longitude": 5.2220169,
+      "viewport": {
+        "northeast": {
+          "lat": 7.622074879892722,
+          "lng": 5.223324329892722
+        },
+        "southwest": {
+          "lat": 7.619375220107278,
+          "lng": 5.220624670107278
+        }
+      },
+      "formatted_address": "J6CC+8R2, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6207631,5.2220169",
+      "google_place_id": "ChIJtYXH0tX6RxAR1vFi6gr3OWA"
+    }
   },
   {
     "id": "52679",
@@ -125,7 +228,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.621685599999999,
+      "longitude": 5.223290899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62290292989272,
+          "lng": 5.224632429892721
+        },
+        "southwest": {
+          "lat": 7.620203270107276,
+          "lng": 5.221932770107277
+        }
+      },
+      "formatted_address": "54 Market Road, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.621685599999999,5.223290899999999",
+      "google_place_id": "ChIJtzJcu9X6RxARG5_jxpGpPUY"
+    }
   },
   {
     "id": "52680",
@@ -141,7 +261,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6234349,
+      "longitude": 5.224278,
+      "viewport": {
+        "northeast": {
+          "lat": 7.624786679892719,
+          "lng": 5.225668579892722
+        },
+        "southwest": {
+          "lat": 7.622087020107275,
+          "lng": 5.222968920107277
+        }
+      },
+      "formatted_address": "J6FF+9PC, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6234349,5.224278",
+      "google_place_id": "ChIJ15XEgSr7RxAR-5mSw7CKttU"
+    }
   },
   {
     "id": "52681",
@@ -157,7 +294,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.623382699999999,
+      "longitude": 5.226357399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62475422989272,
+          "lng": 5.227648779892721
+        },
+        "southwest": {
+          "lat": 7.622054570107276,
+          "lng": 5.224949120107278
+        }
+      },
+      "formatted_address": "J6FG+9G5, Old Garage, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.623382699999999,5.226357399999999",
+      "google_place_id": "ChIJrc76qCr7RxARJn9w83IjleI"
+    }
   },
   {
     "id": "52682",
@@ -173,7 +327,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6227063,
+      "longitude": 5.22471,
+      "viewport": {
+        "northeast": {
+          "lat": 7.625405100000001,
+          "lng": 5.2287143
+        },
+        "southwest": {
+          "lat": 7.618571999999999,
+          "lng": 5.2213447
+        }
+      },
+      "formatted_address": "Ado 'E' Ijoka, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6227063,5.22471",
+      "google_place_id": "ChIJL5FXE9X6RxARDaMtEM2E-J0"
+    }
   },
   {
     "id": "52683",
@@ -189,7 +360,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.620137799999999,
+      "longitude": 5.2211773,
+      "viewport": {
+        "northeast": {
+          "lat": 7.621488029892721,
+          "lng": 5.222524779892721
+        },
+        "southwest": {
+          "lat": 7.618788370107277,
+          "lng": 5.219825120107277
+        }
+      },
+      "formatted_address": "6 Adebolu Street, GRA, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.620137799999999,5.2211773",
+      "google_place_id": "ChIJzUQVg9b6RxARfyRo_V87sEM"
+    }
   },
   {
     "id": "52684",
@@ -205,7 +393,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6227063,
+      "longitude": 5.22471,
+      "viewport": {
+        "northeast": {
+          "lat": 7.625405100000001,
+          "lng": 5.2287143
+        },
+        "southwest": {
+          "lat": 7.618571999999999,
+          "lng": 5.2213447
+        }
+      },
+      "formatted_address": "Ado 'E' Ijoka, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6227063,5.22471",
+      "google_place_id": "ChIJL5FXE9X6RxARDaMtEM2E-J0"
+    }
   },
   {
     "id": "52685",
@@ -221,7 +426,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.5974118,
+      "longitude": 5.2915944,
+      "viewport": {
+        "northeast": {
+          "lat": 7.59875352989272,
+          "lng": 5.292970029892722
+        },
+        "southwest": {
+          "lat": 7.596053870107276,
+          "lng": 5.290270370107278
+        }
+      },
+      "formatted_address": "H7WR+XJ8, Campus Inner Road, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5974118,5.2915944",
+      "google_place_id": "ChIJs57YDuvlRxARQX50JLsoSIY"
+    }
   },
   {
     "id": "52686",
@@ -237,7 +459,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6227063,
+      "longitude": 5.22471,
+      "viewport": {
+        "northeast": {
+          "lat": 7.625405100000001,
+          "lng": 5.2287143
+        },
+        "southwest": {
+          "lat": 7.618571999999999,
+          "lng": 5.2213447
+        }
+      },
+      "formatted_address": "Ado 'E' Ijoka, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6227063,5.22471",
+      "google_place_id": "ChIJL5FXE9X6RxARDaMtEM2E-J0"
+    }
   },
   {
     "id": "52687",
@@ -253,7 +492,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6246844,
+      "longitude": 5.2106577,
+      "viewport": {
+        "northeast": {
+          "lat": 7.625977429892724,
+          "lng": 5.212213679892722
+        },
+        "southwest": {
+          "lat": 7.62327777010728,
+          "lng": 5.209514020107278
+        }
+      },
+      "formatted_address": "J6F6+V7F, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6246844,5.2106577",
+      "google_place_id": "ChIJ1WqbtiD7RxARGMa0CQrqvg0"
+    }
   },
   {
     "id": "52688",
@@ -269,7 +525,24 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.621685599999999,
+      "longitude": 5.223290899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62290292989272,
+          "lng": 5.224632429892721
+        },
+        "southwest": {
+          "lat": 7.620203270107276,
+          "lng": 5.221932770107277
+        }
+      },
+      "formatted_address": "Suite 3 & 4 Fajuyi Hall, 54 Market Road, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.621685599999999,5.223290899999999",
+      "google_place_id": "ChIJWzlmvNX6RxARwdJPIJwgePM"
+    }
   },
   {
     "id": "52689",
@@ -285,6 +558,23 @@
     "local_government_id": "243",
     "local_government_name": "ADO EKITI",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.623382699999999,
+      "longitude": 5.226357399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62475422989272,
+          "lng": 5.227648779892721
+        },
+        "southwest": {
+          "lat": 7.622054570107276,
+          "lng": 5.224949120107278
+        }
+      },
+      "formatted_address": "J6FG+9G5, Old Garage, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.623382699999999,5.226357399999999",
+      "google_place_id": "ChIJrc76qCr7RxARJn9w83IjleI"
+    }
   }
 ]

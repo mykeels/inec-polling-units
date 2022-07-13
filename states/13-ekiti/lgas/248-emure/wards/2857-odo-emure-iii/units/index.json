@@ -13,7 +13,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.437767699999999,
+      "longitude": 5.4672351,
+      "viewport": {
+        "northeast": {
+          "lat": 7.439050329892721,
+          "lng": 5.468612729892722
+        },
+        "southwest": {
+          "lat": 7.436350670107277,
+          "lng": 5.465913070107278
+        }
+      },
+      "formatted_address": "CFQ8+4V5, 361104, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.437767699999999,5.4672351",
+      "google_place_id": "ChIJbf-Tp9rARxARvbITjWy1nSw"
+    }
   },
   {
     "id": "53545",
@@ -29,7 +46,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.4377434,
+      "longitude": 5.459788,
+      "viewport": {
+        "northeast": {
+          "lat": 7.439087179892723,
+          "lng": 5.461220179892722
+        },
+        "southwest": {
+          "lat": 7.436387520107279,
+          "lng": 5.458520520107278
+        }
+      },
+      "formatted_address": "2, FAIR JUNCTION, EMURE#, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4377434,5.459788",
+      "google_place_id": "ChIJC1n52RDBRxARApNmUkWGfeo"
+    }
   },
   {
     "id": "53546",
@@ -45,7 +79,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.449811100000001,
+      "longitude": 5.4426537,
+      "viewport": {
+        "northeast": {
+          "lat": 7.451064129892721,
+          "lng": 5.444108079892722
+        },
+        "southwest": {
+          "lat": 7.448364470107277,
+          "lng": 5.441408420107278
+        }
+      },
+      "formatted_address": "CCXV+W3C, 361103, Ise, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.449811100000001,5.4426537",
+      "google_place_id": "ChIJ4VaUHALBRxAR0OZF0JOK4-c"
+    }
   },
   {
     "id": "53547",
@@ -61,7 +112,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.438603,
+      "longitude": 5.469506000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.439940079892722,
+          "lng": 5.470892929892722
+        },
+        "southwest": {
+          "lat": 7.437240420107278,
+          "lng": 5.468193270107278
+        }
+      },
+      "formatted_address": "CFQ9+CRR, 361104, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.438603,5.469506000000001",
+      "google_place_id": "ChIJP2BISdDARxARLhLznx-XNLQ"
+    }
   },
   {
     "id": "53548",
@@ -77,7 +145,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.435791500000001,
+      "longitude": 5.5141692,
+      "viewport": {
+        "northeast": {
+          "lat": 7.437564229892721,
+          "lng": 5.515558879892722
+        },
+        "southwest": {
+          "lat": 7.434864570107277,
+          "lng": 5.512859220107278
+        }
+      },
+      "formatted_address": "CGP7+8M7, 361104, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.435791500000001,5.5141692",
+      "google_place_id": "ChIJPUf1UQ_HRxARNTjswVHsl70"
+    }
   },
   {
     "id": "53549",
@@ -93,7 +178,8 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53550",
@@ -109,7 +195,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.499123999999999,
+      "longitude": 5.2319339,
+      "viewport": {
+        "northeast": {
+          "lat": 7.50047387989272,
+          "lng": 5.233261779892722
+        },
+        "southwest": {
+          "lat": 7.497774220107276,
+          "lng": 5.230562120107278
+        }
+      },
+      "formatted_address": "IWARO STREET, Aramoko Ekiti-Ado Ekiti Rd, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.499123999999999,5.2319339",
+      "google_place_id": "ChIJXWYZ0WXvRxARlb0I4XY9oDo"
+    }
   },
   {
     "id": "53551",
@@ -125,7 +228,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.4545114,
+      "longitude": 5.4314697,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455776129892723,
+          "lng": 5.432605529892722
+        },
+        "southwest": {
+          "lat": 7.453076470107279,
+          "lng": 5.429905870107278
+        }
+      },
+      "formatted_address": "FC3J+RH5, Ise/Orun, Emure Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4545114,5.4314697",
+      "google_place_id": "ChIJVcy0RanBRxARf9azJylxSU4"
+    }
   },
   {
     "id": "53552",
@@ -141,7 +261,24 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.449811100000001,
+      "longitude": 5.4426537,
+      "viewport": {
+        "northeast": {
+          "lat": 7.451064129892721,
+          "lng": 5.444108079892722
+        },
+        "southwest": {
+          "lat": 7.448364470107277,
+          "lng": 5.441408420107278
+        }
+      },
+      "formatted_address": "CCXV+W3C, 361103, Ise, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.449811100000001,5.4426537",
+      "google_place_id": "ChIJ4VaUHALBRxAR0OZF0JOK4-c"
+    }
   },
   {
     "id": "53553",
@@ -157,6 +294,7 @@
     "local_government_id": "248",
     "local_government_name": "EMURE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   }
 ]

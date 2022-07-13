@@ -13,7 +13,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.9606092,
+      "longitude": 5.216057,
+      "viewport": {
+        "northeast": {
+          "lat": 7.961940229892721,
+          "lng": 5.217381629892721
+        },
+        "southwest": {
+          "lat": 7.959240570107276,
+          "lng": 5.214681970107277
+        }
+      },
+      "formatted_address": "X668+6CX, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9606092,5.216057",
+      "google_place_id": "ChIJK7vS4_YbSBAR5JQxAGvP3aQ"
+    }
   },
   {
     "id": "54425",
@@ -29,7 +46,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54426",
@@ -45,7 +79,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54427",
@@ -61,7 +112,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.3781404,
+      "longitude": -80.3109249,
+      "viewport": {
+        "northeast": {
+          "lat": 43.37948457989273,
+          "lng": -80.30956917010728
+        },
+        "southwest": {
+          "lat": 43.37678492010728,
+          "lng": -80.31226882989272
+        }
+      },
+      "formatted_address": "92 Avenue Rd, Cambridge, ON N1R 1C1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.3781404,-80.3109249",
+      "google_place_id": "ChIJS4vYi9h3LIgRfd33Gq3_mkw"
+    }
   },
   {
     "id": "54428",
@@ -77,7 +145,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54429",
@@ -93,7 +178,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54430",
@@ -109,7 +211,8 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54431",
@@ -125,7 +228,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.812597899999999,
+      "longitude": 5.0701109,
+      "viewport": {
+        "northeast": {
+          "lat": 7.81396662989272,
+          "lng": 5.071478579892722
+        },
+        "southwest": {
+          "lat": 7.811266970107276,
+          "lng": 5.068778920107278
+        }
+      },
+      "formatted_address": "R37C+329, 372101, Ijero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812597899999999,5.0701109",
+      "google_place_id": "ChIJgeaGMtsBSBARQ29pb0cXsQg"
+    }
   },
   {
     "id": "54432",
@@ -141,7 +261,8 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54433",
@@ -157,6 +278,7 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   }
 ]

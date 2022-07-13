@@ -13,7 +13,8 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53397",
@@ -29,7 +30,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.5692599,
+      "longitude": -80.2219058,
+      "viewport": {
+        "northeast": {
+          "lat": 43.57063852989272,
+          "lng": -80.22077022010727
+        },
+        "southwest": {
+          "lat": 43.56793887010727,
+          "lng": -80.22346987989272
+        }
+      },
+      "formatted_address": "487 Grange Rd, Guelph, ON N1E 7C4, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5692599,-80.2219058",
+      "google_place_id": "ChIJvxC8c6-bK4gRzM0uYB6ag8s"
+    }
   },
   {
     "id": "53398",
@@ -45,7 +63,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.616249,
+      "longitude": 5.2120205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.617549529892722,
+          "lng": 5.213349429892721
+        },
+        "southwest": {
+          "lat": 7.614849870107278,
+          "lng": 5.210649770107278
+        }
+      },
+      "formatted_address": "Ile - Abiye Hospital, 360101, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.616249,5.2120205",
+      "google_place_id": "ChIJVVWVltv6RxAR80_ndvkVIa8"
+    }
   },
   {
     "id": "53399",
@@ -61,7 +96,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 42.8232671,
+      "longitude": -80.31211309999999,
+      "viewport": {
+        "northeast": {
+          "lat": 42.82502522989273,
+          "lng": -80.31086582010727
+        },
+        "southwest": {
+          "lat": 42.82232557010729,
+          "lng": -80.31356547989272
+        }
+      },
+      "formatted_address": "128 Evergreen Hill Rd, Simcoe, ON N3Y 4N5, Canada",
+      "google_map_url": "https://maps.google.com?q=42.8232671,-80.31211309999999",
+      "google_place_id": "ChIJ-clJy8dNLIgR-a8B7eaRCtY"
+    }
   },
   {
     "id": "53400",
@@ -77,7 +129,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.629675599999999,
+      "longitude": 5.2177643,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630941129892723,
+          "lng": 5.219181879892722
+        },
+        "southwest": {
+          "lat": 7.628241470107279,
+          "lng": 5.216482220107278
+        }
+      },
+      "formatted_address": "J6H9+V3H, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.629675599999999,5.2177643",
+      "google_place_id": "ChIJ23lk6mP7RxARWcH55xD5krY"
+    }
   },
   {
     "id": "53401",
@@ -93,7 +162,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
   },
   {
     "id": "53402",
@@ -109,7 +195,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.793695499999999,
+      "longitude": 5.4941551,
+      "viewport": {
+        "northeast": {
+          "lat": 7.794791679892723,
+          "lng": 5.495273729892722
+        },
+        "southwest": {
+          "lat": 7.792092020107279,
+          "lng": 5.492574070107278
+        }
+      },
+      "formatted_address": "QFVV+FP9, 370101, Ikole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.793695499999999,5.4941551",
+      "google_place_id": "ChIJBwYwDop2SBAR49237ShckC4"
+    }
   },
   {
     "id": "53403",
@@ -125,7 +228,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.793695499999999,
+      "longitude": 5.4941551,
+      "viewport": {
+        "northeast": {
+          "lat": 7.794791679892723,
+          "lng": 5.495273729892722
+        },
+        "southwest": {
+          "lat": 7.792092020107279,
+          "lng": 5.492574070107278
+        }
+      },
+      "formatted_address": "QFVV+FP9, 370101, Ikole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.793695499999999,5.4941551",
+      "google_place_id": "ChIJBwYwDop2SBAR49237ShckC4"
+    }
   },
   {
     "id": "53404",
@@ -141,7 +261,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.793695499999999,
+      "longitude": 5.4941551,
+      "viewport": {
+        "northeast": {
+          "lat": 7.794791679892723,
+          "lng": 5.495273729892722
+        },
+        "southwest": {
+          "lat": 7.792092020107279,
+          "lng": 5.492574070107278
+        }
+      },
+      "formatted_address": "QFVV+FP9, 370101, Ikole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.793695499999999,5.4941551",
+      "google_place_id": "ChIJBwYwDop2SBAR49237ShckC4"
+    }
   },
   {
     "id": "53405",
@@ -157,7 +294,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.4199692,
+      "longitude": -80.4670052,
+      "viewport": {
+        "northeast": {
+          "lat": 43.42125357989273,
+          "lng": -80.46587502010728
+        },
+        "southwest": {
+          "lat": 43.41855392010728,
+          "lng": -80.46857467989271
+        }
+      },
+      "formatted_address": "1500 Block Line Rd, Kitchener, ON N2C 2S2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4199692,-80.4670052",
+      "google_place_id": "ChIJc7LamTr1K4gR-Wc57v6emho"
+    }
   },
   {
     "id": "53406",
@@ -173,7 +327,24 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.614038300000001,
+      "longitude": 5.129699899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.615400429892723,
+          "lng": 5.130980429892722
+        },
+        "southwest": {
+          "lat": 7.61270077010728,
+          "lng": 5.128280770107278
+        }
+      },
+      "formatted_address": "Local Government, Road, 360101, Igbara Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.614038300000001,5.129699899999999",
+      "google_place_id": "ChIJ-zV-eZr5RxARU5kqaxA7fJs"
+    }
   },
   {
     "id": "53407",
@@ -189,6 +360,7 @@
     "local_government_id": "247",
     "local_government_name": "EKITI SOUTH WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   }
 ]

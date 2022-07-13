@@ -13,7 +13,8 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54362",
@@ -29,7 +30,8 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54363",
@@ -45,7 +47,8 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54364",
@@ -61,7 +64,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.799223699999999,
+      "longitude": 5.3309652,
+      "viewport": {
+        "northeast": {
+          "lat": 7.800534079892722,
+          "lng": 5.332381779892722
+        },
+        "southwest": {
+          "lat": 7.797834420107278,
+          "lng": 5.329682120107277
+        }
+      },
+      "formatted_address": "Q8XJ+M9P, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.799223699999999,5.3309652",
+      "google_place_id": "ChIJS_syGdMLSBARE1ueeXmwrnc"
+    }
   },
   {
     "id": "54365",
@@ -77,7 +97,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54366",
@@ -93,7 +130,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54367",
@@ -109,7 +163,24 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.957310300000001,
+      "longitude": 5.223307699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.958710579892723,
+          "lng": 5.224426329892721
+        },
+        "southwest": {
+          "lat": 7.956010920107279,
+          "lng": 5.221726670107278
+        }
+      },
+      "formatted_address": "X64F+W8F, Unnamed Road, 360104, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.957310300000001,5.223307699999999",
+      "google_place_id": "ChIJcfT9R5UbSBARgNBNSfuSJaI"
+    }
   },
   {
     "id": "54368",
@@ -125,6 +196,23 @@
     "local_government_id": "254",
     "local_government_name": "ILEJEMEJE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.955061899999999,
+      "longitude": 5.2305828,
+      "viewport": {
+        "northeast": {
+          "lat": 7.956428379892722,
+          "lng": 5.231934329892722
+        },
+        "southwest": {
+          "lat": 7.953728720107279,
+          "lng": 5.229234670107278
+        }
+      },
+      "formatted_address": "X64J+26G, 360103, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.955061899999999,5.2305828",
+      "google_place_id": "ChIJn0Ot394RSBARLMk_q0MpAlU"
+    }
   }
 ]

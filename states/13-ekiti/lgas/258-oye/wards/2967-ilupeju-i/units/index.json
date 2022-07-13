@@ -13,7 +13,8 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54909",
@@ -29,7 +30,8 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54910",
@@ -45,7 +47,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7739774,
+      "longitude": 5.3117183,
+      "viewport": {
+        "northeast": {
+          "lat": 7.775161779892724,
+          "lng": 5.312940729892722
+        },
+        "southwest": {
+          "lat": 7.77246212010728,
+          "lng": 5.310241070107278
+        }
+      },
+      "formatted_address": "Q8F6+HPJ, Unnamed Road, 370111, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7739774,5.3117183",
+      "google_place_id": "ChIJC7IUX-ALSBARY2JVI4ktIQs"
+    }
   },
   {
     "id": "54911",
@@ -61,7 +80,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7795923,
+      "longitude": 5.315455099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.780986929892721,
+          "lng": 5.316631779892723
+        },
+        "southwest": {
+          "lat": 7.778287270107278,
+          "lng": 5.313932120107279
+        }
+      },
+      "formatted_address": "Oye-Are Road, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7795923,5.315455099999999",
+      "google_place_id": "ChIJAQAAALULSBARgqoBoXJSFyw"
+    }
   },
   {
     "id": "54912",
@@ -77,7 +113,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.795316,
+      "longitude": 5.330011,
+      "viewport": {
+        "northeast": {
+          "lat": 7.796883179892721,
+          "lng": 5.331377029892722
+        },
+        "southwest": {
+          "lat": 7.794183520107278,
+          "lng": 5.328677370107278
+        }
+      },
+      "formatted_address": "Q8WJ+42C, Oye-Egbo Road, Oye-Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.795316,5.330011",
+      "google_place_id": "ChIJ3S8cgjUKSBARV4q8gQWbY8s"
+    }
   },
   {
     "id": "54913",
@@ -93,7 +146,8 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54914",
@@ -109,7 +163,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.79699,
+      "longitude": 5.3261972,
+      "viewport": {
+        "northeast": {
+          "lat": 7.798355579892724,
+          "lng": 5.327496279892722
+        },
+        "southwest": {
+          "lat": 7.79565592010728,
+          "lng": 5.324796620107278
+        }
+      },
+      "formatted_address": "Q8WG+QFW, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.79699,5.3261972",
+      "google_place_id": "ChIJWe6ZY8sLSBARpxwwljrXiPU"
+    }
   },
   {
     "id": "54915",
@@ -125,7 +196,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.652714599999999,
+      "longitude": 4.92184,
+      "viewport": {
+        "northeast": {
+          "lat": 7.654042629892722,
+          "lng": 4.923236529892722
+        },
+        "southwest": {
+          "lat": 7.651342970107279,
+          "lng": 4.920536870107278
+        }
+      },
+      "formatted_address": "CAC power house, 362104, Efon Alaaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.652714599999999,4.92184",
+      "google_place_id": "ChIJgc_4Ui8FOBARqZ_yNXgOGTk"
+    }
   },
   {
     "id": "54916",
@@ -141,7 +229,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.801802899999998,
+      "longitude": 5.3321125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803083779892718,
+          "lng": 5.333465079892721
+        },
+        "southwest": {
+          "lat": 7.800384120107275,
+          "lng": 5.330765420107277
+        }
+      },
+      "formatted_address": "R82J+PRH, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801802899999998,5.3321125",
+      "google_place_id": "ChIJ-297FrYLSBARuiijMibvF-s"
+    }
   },
   {
     "id": "54917",
@@ -157,7 +262,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6048317,
+      "longitude": 4.7020789,
+      "viewport": {
+        "northeast": {
+          "lat": 7.60618612989272,
+          "lng": 4.703432779892722
+        },
+        "southwest": {
+          "lat": 7.603486470107276,
+          "lng": 4.700733120107278
+        }
+      },
+      "formatted_address": "JP32+WRP, Isua, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6048317,4.7020789",
+      "google_place_id": "ChIJyXf8fsEiOBARQoGJXZB9jXY"
+    }
   },
   {
     "id": "54918",
@@ -173,7 +295,8 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54919",
@@ -189,7 +312,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.498711999999998,
+      "longitude": 5.243459,
+      "viewport": {
+        "northeast": {
+          "lat": 7.500062479892721,
+          "lng": 5.244774079892722
+        },
+        "southwest": {
+          "lat": 7.497362820107277,
+          "lng": 5.242074420107278
+        }
+      },
+      "formatted_address": "NO 4 ASIPA LANE ARAROMI STREET IKERE#, Ikere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.498711999999998,5.243459",
+      "google_place_id": "ChIJe0ncC7TvRxARBpEuB0nSvnM"
+    }
   },
   {
     "id": "54920",
@@ -205,7 +345,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.801802899999998,
+      "longitude": 5.3321125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803083779892718,
+          "lng": 5.333465079892721
+        },
+        "southwest": {
+          "lat": 7.800384120107275,
+          "lng": 5.330765420107277
+        }
+      },
+      "formatted_address": "R82J+PRH, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801802899999998,5.3321125",
+      "google_place_id": "ChIJ-297FrYLSBARuiijMibvF-s"
+    }
   },
   {
     "id": "54921",
@@ -221,7 +378,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8015949,
+      "longitude": 5.3398081,
+      "viewport": {
+        "northeast": {
+          "lat": 7.802665879892721,
+          "lng": 5.341312329892721
+        },
+        "southwest": {
+          "lat": 7.799966220107277,
+          "lng": 5.338612670107278
+        }
+      },
+      "formatted_address": "R82Q+JWM, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8015949,5.3398081",
+      "google_place_id": "ChIJiTlgacQLSBARkqfys7OxKZU"
+    }
   },
   {
     "id": "54922",
@@ -237,7 +411,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.801802899999998,
+      "longitude": 5.3321125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803083779892718,
+          "lng": 5.333465079892721
+        },
+        "southwest": {
+          "lat": 7.800384120107275,
+          "lng": 5.330765420107277
+        }
+      },
+      "formatted_address": "R82J+PRH, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801802899999998,5.3321125",
+      "google_place_id": "ChIJ-297FrYLSBARuiijMibvF-s"
+    }
   },
   {
     "id": "54923",
@@ -253,7 +444,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7795923,
+      "longitude": 5.315455099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.780986929892721,
+          "lng": 5.316631779892723
+        },
+        "southwest": {
+          "lat": 7.778287270107278,
+          "lng": 5.313932120107279
+        }
+      },
+      "formatted_address": "Oye-Are Road, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7795923,5.315455099999999",
+      "google_place_id": "ChIJAQAAALULSBARgqoBoXJSFyw"
+    }
   },
   {
     "id": "54924",
@@ -269,7 +477,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.801802899999998,
+      "longitude": 5.3321125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803083779892718,
+          "lng": 5.333465079892721
+        },
+        "southwest": {
+          "lat": 7.800384120107275,
+          "lng": 5.330765420107277
+        }
+      },
+      "formatted_address": "R82J+PRH, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801802899999998,5.3321125",
+      "google_place_id": "ChIJ-297FrYLSBARuiijMibvF-s"
+    }
   },
   {
     "id": "54925",
@@ -285,7 +510,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.801802899999998,
+      "longitude": 5.3321125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803083779892718,
+          "lng": 5.333465079892721
+        },
+        "southwest": {
+          "lat": 7.800384120107275,
+          "lng": 5.330765420107277
+        }
+      },
+      "formatted_address": "R82J+PRH, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801802899999998,5.3321125",
+      "google_place_id": "ChIJ-297FrYLSBARuiijMibvF-s"
+    }
   },
   {
     "id": "54926",
@@ -301,7 +543,24 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7795923,
+      "longitude": 5.315455099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.780986929892721,
+          "lng": 5.316631779892723
+        },
+        "southwest": {
+          "lat": 7.778287270107278,
+          "lng": 5.313932120107279
+        }
+      },
+      "formatted_address": "Oye-Are Road, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7795923,5.315455099999999",
+      "google_place_id": "ChIJAQAAALULSBARgqoBoXJSFyw"
+    }
   },
   {
     "id": "54927",
@@ -317,6 +576,23 @@
     "local_government_id": "258",
     "local_government_name": "OYE",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.801802899999998,
+      "longitude": 5.3321125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803083779892718,
+          "lng": 5.333465079892721
+        },
+        "southwest": {
+          "lat": 7.800384120107275,
+          "lng": 5.330765420107277
+        }
+      },
+      "formatted_address": "R82J+PRH, 370112, Oye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801802899999998,5.3321125",
+      "google_place_id": "ChIJ-297FrYLSBARuiijMibvF-s"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54622",
@@ -29,7 +30,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54623",
@@ -45,7 +47,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54624",
@@ -61,7 +64,24 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.816293099999999,
+      "longitude": 5.5853597,
+      "viewport": {
+        "northeast": {
+          "lat": 7.825502,
+          "lng": 5.5994438
+        },
+        "southwest": {
+          "lat": 7.8098559,
+          "lng": 5.5721712
+        }
+      },
+      "formatted_address": "370102, Odo Ayedun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.816293099999999,5.5853597",
+      "google_place_id": "ChIJXbKT55V5SBARFVHaIkogePA"
+    }
   },
   {
     "id": "54625",
@@ -77,7 +97,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54626",
@@ -93,7 +114,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54627",
@@ -109,7 +131,24 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 6.657310499999999,
+      "longitude": 3.304041,
+      "viewport": {
+        "northeast": {
+          "lat": 6.658629979892722,
+          "lng": 3.305431829892723
+        },
+        "southwest": {
+          "lat": 6.655930320107278,
+          "lng": 3.302732170107278
+        }
+      },
+      "formatted_address": "Local Government, 1 Omololu Olotu Street Off Abiodun Onitiri Avenue Abule Egba, Lagos, 100276, Abule -Egba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.657310499999999,3.304041",
+      "google_place_id": "ChIJu0Uj5CqXOxARWwb5FYGyqqI"
+    }
   },
   {
     "id": "54628",
@@ -125,7 +164,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54629",
@@ -141,7 +181,8 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54630",
@@ -157,6 +198,7 @@
     "local_government_id": "256",
     "local_government_name": "ISE / ORUN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   }
 ]

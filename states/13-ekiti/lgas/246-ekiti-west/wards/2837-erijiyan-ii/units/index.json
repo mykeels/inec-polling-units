@@ -13,7 +13,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.642038599999998,
+      "longitude": 5.2214813,
+      "viewport": {
+        "northeast": {
+          "lat": 7.64337867989272,
+          "lng": 5.222941129892721
+        },
+        "southwest": {
+          "lat": 7.640679020107276,
+          "lng": 5.220241470107277
+        }
+      },
+      "formatted_address": "State Hospital Road, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.642038599999998,5.2214813",
+      "google_place_id": "ChIJaQUFKjT7RxAR2CVe2Eo2D60"
+    }
   },
   {
     "id": "53254",
@@ -29,7 +46,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8873661,
+      "longitude": 5.109336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8964547,
+          "lng": 5.120101099999999
+        },
+        "southwest": {
+          "lat": 7.8763052,
+          "lng": 5.0944805
+        }
+      },
+      "formatted_address": "Ijurin Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8873661,5.109336",
+      "google_place_id": "ChIJDTokOwcDSBARxiLU_WVeuac"
+    }
   },
   {
     "id": "53255",
@@ -45,7 +79,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6300955,
+      "longitude": 5.1812219,
+      "viewport": {
+        "northeast": {
+          "lat": 7.631405179892719,
+          "lng": 5.182549029892723
+        },
+        "southwest": {
+          "lat": 7.628705520107276,
+          "lng": 5.179849370107279
+        }
+      },
+      "formatted_address": "J5JJ+2FQ, Ifeoluwa Quaters, NTA Area, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6300955,5.1812219",
+      "google_place_id": "ChIJ1bL6Q2f7RxARNArh3B52fEo"
+    }
   },
   {
     "id": "53256",
@@ -61,7 +112,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.661991599999999,
+      "longitude": 5.1588657,
+      "viewport": {
+        "northeast": {
+          "lat": 7.663341179892722,
+          "lng": 5.160212329892722
+        },
+        "southwest": {
+          "lat": 7.660641520107278,
+          "lng": 5.157512670107279
+        }
+      },
+      "formatted_address": "M565+QGW, IRO QUARTERS ARAROMI LCDA, 362106, Iyin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.661991599999999,5.1588657",
+      "google_place_id": "ChIJ0eWFWGb7RxARifQdThCQC20"
+    }
   },
   {
     "id": "53257",
@@ -77,7 +145,24 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.499125500000001,
+      "longitude": 5.231887899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5343791,
+          "lng": 5.264333
+        },
+        "southwest": {
+          "lat": 7.487890899999999,
+          "lng": 5.209817
+        }
+      },
+      "formatted_address": "361101, Ikere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.499125500000001,5.231887899999999",
+      "google_place_id": "ChIJNaTTqf_tRxARuraNmqnIDso"
+    }
   },
   {
     "id": "53258",
@@ -93,6 +178,23 @@
     "local_government_id": "246",
     "local_government_name": "EKITI WEST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.6979994,
+      "longitude": 5.0404219,
+      "viewport": {
+        "northeast": {
+          "lat": 7.699349979892721,
+          "lng": 5.041782429892722
+        },
+        "southwest": {
+          "lat": 7.696650320107277,
+          "lng": 5.039082770107278
+        }
+      },
+      "formatted_address": "M2XR+55V, Oke-Oja 362107, Aramoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6979994,5.0404219",
+      "google_place_id": "ChIJv3tV0XQBOBAR2YttoPoHvJc"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.9815568,
+      "longitude": 5.1744903,
+      "viewport": {
+        "northeast": {
+          "lat": 8.0336231,
+          "lng": 5.1892844
+        },
+        "southwest": {
+          "lat": 7.9382296,
+          "lng": 5.1345569
+        }
+      },
+      "formatted_address": "Igogo II, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9815568,5.1744903",
+      "google_place_id": "ChIJUSkEZ5YbSBARjB44zRucmMw"
+    }
   },
   {
     "id": "54761",
@@ -29,7 +46,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.984129200000001,
+      "longitude": 5.166125699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985455229892722,
+          "lng": 5.167498279892722
+        },
+        "southwest": {
+          "lat": 7.982755570107278,
+          "lng": 5.164798620107278
+        }
+      },
+      "formatted_address": "X5M8+MF2, 372103, Igogo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.984129200000001,5.166125699999999",
+      "google_place_id": "ChIJY2i_6b0bSBARLojIqUKrYYE"
+    }
   },
   {
     "id": "54762",
@@ -45,7 +79,8 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54763",
@@ -61,7 +96,8 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54764",
@@ -77,7 +113,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.4067835,
+      "longitude": 3.9008784,
+      "viewport": {
+        "northeast": {
+          "lat": 7.407875479892721,
+          "lng": 3.902269729892721
+        },
+        "southwest": {
+          "lat": 7.405175820107277,
+          "lng": 3.899570070107278
+        }
+      },
+      "formatted_address": "Agodi Gardens, North 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4067835,3.9008784",
+      "google_place_id": "ChIJHbDoYVmNORAR4DklWfAnaeg"
+    }
   },
   {
     "id": "54765",
@@ -93,7 +146,8 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54766",
@@ -109,7 +163,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.134375,
+      "longitude": -79.923718,
+      "viewport": {
+        "northeast": {
+          "lat": 43.13580932989272,
+          "lng": -79.92271597010728
+        },
+        "southwest": {
+          "lat": 43.13310967010728,
+          "lng": -79.92541562989273
+        }
+      },
+      "formatted_address": "3975 ON-6, Mount Hope, ON L0R 1W0, Canada",
+      "google_map_url": "https://maps.google.com?q=43.134375,-79.923718",
+      "google_place_id": "ChIJOahD77SPLIgReEQyZ5GjmBE"
+    }
   },
   {
     "id": "54767",
@@ -125,7 +196,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.987733199999998,
+      "longitude": 5.122457,
+      "viewport": {
+        "northeast": {
+          "lat": 7.989055129892722,
+          "lng": 5.123741379892722
+        },
+        "southwest": {
+          "lat": 7.986355470107278,
+          "lng": 5.121041720107279
+        }
+      },
+      "formatted_address": "X4QF+422, 372103, Otun Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.987733199999998,5.122457",
+      "google_place_id": "ChIJ6TNTs5sdSBARDivaueb2ez4"
+    }
   },
   {
     "id": "54768",
@@ -141,7 +229,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 45.51525609999999,
+      "longitude": -73.5616624,
+      "viewport": {
+        "northeast": {
+          "lat": 45.51659422989272,
+          "lng": -73.56030682010726
+        },
+        "southwest": {
+          "lat": 45.51389457010728,
+          "lng": -73.5630064798927
+        }
+      },
+      "formatted_address": "475 Boul. de Maisonneuve E, Montréal, QC H2L 5C4, Canada",
+      "google_map_url": "https://maps.google.com?q=45.51525609999999,-73.5616624",
+      "google_place_id": "ChIJ-YgvO7MbyUwR7ZMFiZwfTsc"
+    }
   },
   {
     "id": "54769",
@@ -157,7 +262,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.5766967,
+      "longitude": -80.25782,
+      "viewport": {
+        "northeast": {
+          "lat": 43.57802162989272,
+          "lng": -80.25673157010728
+        },
+        "southwest": {
+          "lat": 43.57532197010728,
+          "lng": -80.25943122989271
+        }
+      },
+      "formatted_address": "391 Victoria Rd N, Guelph, ON N1E 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5766967,-80.25782",
+      "google_place_id": "ChIJR4ybi2iaK4gRAvIq2IOtRco"
+    }
   },
   {
     "id": "54770",
@@ -173,7 +295,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 43.5766967,
+      "longitude": -80.25782,
+      "viewport": {
+        "northeast": {
+          "lat": 43.57802162989272,
+          "lng": -80.25673157010728
+        },
+        "southwest": {
+          "lat": 43.57532197010728,
+          "lng": -80.25943122989271
+        }
+      },
+      "formatted_address": "391 Victoria Rd N, Guelph, ON N1E 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5766967,-80.25782",
+      "google_place_id": "ChIJR4ybi2iaK4gRAvIq2IOtRco"
+    }
   },
   {
     "id": "54771",
@@ -189,7 +328,8 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "54772",
@@ -205,7 +345,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.9842292,
+      "longitude": 5.1274868,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985603029892723,
+          "lng": 5.128811079892722
+        },
+        "southwest": {
+          "lat": 7.982903370107279,
+          "lng": 5.126111420107278
+        }
+      },
+      "formatted_address": "X4MG+PWG, 372103, Otun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9842292,5.1274868",
+      "google_place_id": "ChIJrzaIQsQdSBARNHEXtyr3g-Q"
+    }
   },
   {
     "id": "54773",
@@ -221,7 +378,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.984129200000001,
+      "longitude": 5.166125699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985455229892722,
+          "lng": 5.167498279892722
+        },
+        "southwest": {
+          "lat": 7.982755570107278,
+          "lng": 5.164798620107278
+        }
+      },
+      "formatted_address": "X5M8+MF2, 372103, Igogo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.984129200000001,5.166125699999999",
+      "google_place_id": "ChIJY2i_6b0bSBARLojIqUKrYYE"
+    }
   },
   {
     "id": "54774",
@@ -237,7 +411,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.984129200000001,
+      "longitude": 5.166125699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985455229892722,
+          "lng": 5.167498279892722
+        },
+        "southwest": {
+          "lat": 7.982755570107278,
+          "lng": 5.164798620107278
+        }
+      },
+      "formatted_address": "X5M8+MF2, 372103, Igogo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.984129200000001,5.166125699999999",
+      "google_place_id": "ChIJY2i_6b0bSBARLojIqUKrYYE"
+    }
   },
   {
     "id": "54775",
@@ -253,7 +444,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.9839172,
+      "longitude": 5.164624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985287429892721,
+          "lng": 5.166052529892722
+        },
+        "southwest": {
+          "lat": 7.982587770107277,
+          "lng": 5.163352870107278
+        }
+      },
+      "formatted_address": "X5M7+JW4, 372103, Igogo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9839172,5.164624",
+      "google_place_id": "ChIJzfi5PmobSBARXgK7uBj-po8"
+    }
   },
   {
     "id": "54776",
@@ -269,7 +477,24 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.9818454,
+      "longitude": 5.1336309,
+      "viewport": {
+        "northeast": {
+          "lat": 7.983221729892723,
+          "lng": 5.135033029892723
+        },
+        "southwest": {
+          "lat": 7.980522070107279,
+          "lng": 5.132333370107279
+        }
+      },
+      "formatted_address": "X4JM+PCQ, 372103, Otun Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9818454,5.1336309",
+      "google_place_id": "ChIJQTh5bgcdSBARTYVN9hJQjMA"
+    }
   },
   {
     "id": "54777",
@@ -285,6 +510,23 @@
     "local_government_id": "257",
     "local_government_name": "MOBA",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.9839172,
+      "longitude": 5.164624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985287429892721,
+          "lng": 5.166052529892722
+        },
+        "southwest": {
+          "lat": 7.982587770107277,
+          "lng": 5.163352870107278
+        }
+      },
+      "formatted_address": "X5M7+JW4, 372103, Igogo Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9839172,5.164624",
+      "google_place_id": "ChIJzfi5PmobSBARXgK7uBj-po8"
+    }
   }
 ]

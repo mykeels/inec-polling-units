@@ -13,7 +13,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7361417,
+      "longitude": 5.7212722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.737501079892722,
+          "lng": 5.722611329892721
+        },
+        "southwest": {
+          "lat": 7.734801420107278,
+          "lng": 5.719911670107277
+        }
+      },
+      "formatted_address": "Obadore, 362221, Omuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7361417,5.7212722",
+      "google_place_id": "ChIJycIl8i_VRxARo74-hFyXi4I"
+    }
   },
   {
     "id": "53113",
@@ -29,7 +46,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.685275999999999,
+      "longitude": 5.6299613,
+      "viewport": {
+        "northeast": {
+          "lat": 7.686623929892721,
+          "lng": 5.631312629892722
+        },
+        "southwest": {
+          "lat": 7.683924270107277,
+          "lng": 5.628612970107278
+        }
+      },
+      "formatted_address": "MJPH+4X8, 362221, Ijesha Ishu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.685275999999999,5.6299613",
+      "google_place_id": "ChIJWdV2eJbWRxAREQX-Shrxpks"
+    }
   },
   {
     "id": "53114",
@@ -45,7 +79,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.665581299999999,
+      "longitude": 5.3102505,
+      "viewport": {
+        "northeast": {
+          "lat": 7.666962079892721,
+          "lng": 5.311510949999999
+        },
+        "southwest": {
+          "lat": 7.664262420107277,
+          "lng": 5.306469150000001
+        }
+      },
+      "formatted_address": "Off Omisan Jana Street, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.665581299999999,5.3102505",
+      "google_place_id": "ChIJVVVVVVXhRxARkMO2tqPU2R4"
+    }
   },
   {
     "id": "53115",
@@ -61,7 +112,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 6.4526034,
+      "longitude": 3.3903005,
+      "viewport": {
+        "northeast": {
+          "lat": 6.453967229892722,
+          "lng": 3.391677079892722
+        },
+        "southwest": {
+          "lat": 6.451267570107278,
+          "lng": 3.388977420107278
+        }
+      },
+      "formatted_address": "F93R+24V, Broad St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4526034,3.3903005",
+      "google_place_id": "ChIJNUdfyxGLOxARkE-02Gbw2c8"
+    }
   },
   {
     "id": "53116",
@@ -77,7 +145,8 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53117",
@@ -93,7 +162,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.736124500000001,
+      "longitude": 5.7213905,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73754857989272,
+          "lng": 5.722656779892722
+        },
+        "southwest": {
+          "lat": 7.734848920107276,
+          "lng": 5.719957120107278
+        }
+      },
+      "formatted_address": "PPPC+CHR, 362221, Omuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.736124500000001,5.7213905",
+      "google_place_id": "ChIJBRbbJ1DVRxARLy-j33pIjUE"
+    }
   },
   {
     "id": "53118",
@@ -109,7 +195,8 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53119",
@@ -125,7 +212,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.620137799999999,
+      "longitude": 5.2211773,
+      "viewport": {
+        "northeast": {
+          "lat": 7.621488029892721,
+          "lng": 5.222524779892721
+        },
+        "southwest": {
+          "lat": 7.618788370107277,
+          "lng": 5.219825120107277
+        }
+      },
+      "formatted_address": "1a New Generation Avenue, Adetoun-Housing Access Road, Iworoko Road, Iworoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.620137799999999,5.2211773",
+      "google_place_id": "ChIJzUQVg9b6RxAR4rshmJoFkfM"
+    }
   },
   {
     "id": "53120",
@@ -141,7 +245,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.648419400000001,
+      "longitude": 5.5493695,
+      "viewport": {
+        "northeast": {
+          "lat": 7.649738529892721,
+          "lng": 5.550678929892721
+        },
+        "southwest": {
+          "lat": 7.647038870107277,
+          "lng": 5.547979270107278
+        }
+      },
+      "formatted_address": "JGXX+9QC, odo 370107, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.648419400000001,5.5493695",
+      "google_place_id": "ChIJC4QTmdXbRxARe1i748e1Iu4"
+    }
   },
   {
     "id": "53121",
@@ -157,7 +278,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.738927799999999,
+      "longitude": 5.7205935,
+      "viewport": {
+        "northeast": {
+          "lat": 7.740332379892721,
+          "lng": 5.721925379892721
+        },
+        "southwest": {
+          "lat": 7.737632720107277,
+          "lng": 5.719225720107278
+        }
+      },
+      "formatted_address": "PPQC+H6G, 362221, Omuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.738927799999999,5.7205935",
+      "google_place_id": "ChIJv_leiVDVRxARr_gsaM_oWMY"
+    }
   },
   {
     "id": "53122",
@@ -173,7 +311,24 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.7361417,
+      "longitude": 5.7212722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.737501079892722,
+          "lng": 5.722611329892721
+        },
+        "southwest": {
+          "lat": 7.734801420107278,
+          "lng": 5.719911670107277
+        }
+      },
+      "formatted_address": "Obadore, 362221, Omuo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7361417,5.7212722",
+      "google_place_id": "ChIJycIl8i_VRxARo74-hFyXi4I"
+    }
   },
   {
     "id": "53123",
@@ -189,6 +344,7 @@
     "local_government_id": "245",
     "local_government_name": "EKITI EAST",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   }
 ]

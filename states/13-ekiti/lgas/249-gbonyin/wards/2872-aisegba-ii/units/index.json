@@ -13,7 +13,8 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53705",
@@ -29,7 +30,8 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53706",
@@ -45,7 +47,24 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.629675599999999,
+      "longitude": 5.2177643,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630941129892723,
+          "lng": 5.219181879892722
+        },
+        "southwest": {
+          "lat": 7.628241470107279,
+          "lng": 5.216482220107278
+        }
+      },
+      "formatted_address": "J6H9+V3H, 360102, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.629675599999999,5.2177643",
+      "google_place_id": "ChIJ23lk6mP7RxARWcH55xD5krY"
+    }
   },
   {
     "id": "53707",
@@ -61,7 +80,24 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.615773399999999,
+      "longitude": 5.2287193,
+      "viewport": {
+        "northeast": {
+          "lat": 7.617123929892722,
+          "lng": 5.230076079892722
+        },
+        "southwest": {
+          "lat": 7.614424270107278,
+          "lng": 5.227376420107278
+        }
+      },
+      "formatted_address": "8 Ijigbo Street, 360241, Ado Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.615773399999999,5.2287193",
+      "google_place_id": "ChIJ8dkfBuvlRxARy4LhejmZ5lo"
+    }
   },
   {
     "id": "53708",
@@ -77,7 +113,8 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53709",
@@ -93,7 +130,24 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.8026001,
+      "longitude": 5.52116,
+      "viewport": {
+        "northeast": {
+          "lat": 7.804111529892721,
+          "lng": 5.522505179892721
+        },
+        "southwest": {
+          "lat": 7.801411870107277,
+          "lng": 5.519805520107277
+        }
+      },
+      "formatted_address": "370105, Ikole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8026001,5.52116",
+      "google_place_id": "ChIJS98zxwJ3SBARaA1DcRE7G20"
+    }
   },
   {
     "id": "53710",
@@ -109,7 +163,24 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.596872299999999,
+      "longitude": 5.4955747,
+      "viewport": {
+        "northeast": {
+          "lat": 7.598730179892722,
+          "lng": 5.497087229892722
+        },
+        "southwest": {
+          "lat": 7.596030520107278,
+          "lng": 5.494387570107278
+        }
+      },
+      "formatted_address": "HFWW+P6W, 370110, Aisegba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.596872299999999,5.4955747",
+      "google_place_id": "ChIJRdk6gVDbRxARQXotujEkr18"
+    }
   },
   {
     "id": "53711",
@@ -125,7 +196,8 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": null
   },
   {
     "id": "53712",
@@ -141,6 +213,23 @@
     "local_government_id": "249",
     "local_government_name": "GBONYIN",
     "state_id": "13",
-    "state_name": "EKITI"
+    "state_name": "EKITI",
+    "location": {
+      "latitude": 7.552349800000001,
+      "longitude": 5.474313899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.553699629892721,
+          "lng": 5.475663729892722
+        },
+        "southwest": {
+          "lat": 7.550999970107277,
+          "lng": 5.472964070107278
+        }
+      },
+      "formatted_address": "HF2F+WPP, 370110, Aisegba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.552349800000001,5.474313899999999",
+      "google_place_id": "ChIJZR6vG2HDRxARDRpFOCoeIYE"
+    }
   }
 ]
