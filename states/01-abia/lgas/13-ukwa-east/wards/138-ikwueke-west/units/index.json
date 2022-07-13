@@ -13,7 +13,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 4.889575499999999,
+      "longitude": 7.357136300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.890829029892722,
+          "lng": 7.358492079892722
+        },
+        "southwest": {
+          "lat": 4.888129370107278,
+          "lng": 7.355792420107278
+        }
+      },
+      "formatted_address": "Road, 452103, Akwete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.889575499999999,7.357136300000001",
+      "google_place_id": "ChIJ1T4u0TQjaBARmDPdP6oB5rY"
+    }
   },
   {
     "id": "3175",
@@ -29,7 +46,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 4.896165,
+      "longitude": 7.3665967,
+      "viewport": {
+        "northeast": {
+          "lat": 4.897493179892722,
+          "lng": 7.367948479892721
+        },
+        "southwest": {
+          "lat": 4.894793520107277,
+          "lng": 7.365248820107277
+        }
+      },
+      "formatted_address": "V9W8+FJ9, Azumini - Obehie Road, Ohanso, Ohango, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.896165,7.3665967",
+      "google_place_id": "ChIJc7PH_YYjaBARiWlEavuM_UU"
+    }
   },
   {
     "id": "3176",
@@ -45,7 +79,8 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "3177",
@@ -61,7 +96,8 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "3178",
@@ -77,7 +113,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1163827,
+      "longitude": 7.3293668,
+      "viewport": {
+        "northeast": {
+          "lat": 5.117734879892721,
+          "lng": 7.330694979892722
+        },
+        "southwest": {
+          "lat": 5.115035220107277,
+          "lng": 7.327995320107277
+        }
+      },
+      "formatted_address": "1 Alozie St, Ariaria 450102, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1163827,7.3293668",
+      "google_place_id": "ChIJLdFp4F6WQhARAK2hlu17HWw"
+    }
   },
   {
     "id": "3179",
@@ -93,6 +146,23 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1163827,
+      "longitude": 7.3293668,
+      "viewport": {
+        "northeast": {
+          "lat": 5.117734879892721,
+          "lng": 7.330694979892722
+        },
+        "southwest": {
+          "lat": 5.115035220107277,
+          "lng": 7.327995320107277
+        }
+      },
+      "formatted_address": "1 Alozie St, Ariaria 450102, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1163827,7.3293668",
+      "google_place_id": "ChIJLdFp4F6WQhARAK2hlu17HWw"
+    }
   }
 ]

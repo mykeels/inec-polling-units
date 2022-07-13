@@ -13,7 +13,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6936259,
+      "longitude": 7.741960899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.694933629892722,
+          "lng": 7.743217829892721
+        },
+        "southwest": {
+          "lat": 5.692233970107278,
+          "lng": 7.740518170107277
+        }
+      },
+      "formatted_address": "MPVR+FQ4, 442111, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6936259,7.741960899999999",
+      "google_place_id": "ChIJjd7smRIrQxAREQXbbPs0uEg"
+    }
   },
   {
     "id": "2612",
@@ -29,7 +46,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2613",
@@ -45,7 +79,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6156773,
+      "longitude": 7.828422000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.617061429892721,
+          "lng": 7.829759329892722
+        },
+        "southwest": {
+          "lat": 5.614361770107277,
+          "lng": 7.827059670107278
+        }
+      },
+      "formatted_address": "JR8H+79F, 442112, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6156773,7.828422000000001",
+      "google_place_id": "ChIJI5kbsQorXRARXRJ-AqIzF3M"
+    }
   },
   {
     "id": "2614",
@@ -61,7 +112,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5633683,
+      "longitude": 7.846702499999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.564578629892722,
+          "lng": 7.848058279892721
+        },
+        "southwest": {
+          "lat": 5.561878970107278,
+          "lng": 7.845358620107278
+        }
+      },
+      "formatted_address": "HR7W+8MW, Arochukwu Road, 442115, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5633683,7.846702499999998",
+      "google_place_id": "ChIJf7xV3EotXRARU8JixncPK-g"
+    }
   },
   {
     "id": "2615",
@@ -77,7 +145,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6223207,
+      "longitude": 7.8570824,
+      "viewport": {
+        "northeast": {
+          "lat": 5.623783079892721,
+          "lng": 7.858942629892721
+        },
+        "southwest": {
+          "lat": 5.621083420107277,
+          "lng": 7.856242970107277
+        }
+      },
+      "formatted_address": "JVC4+WRG, Isiama Okagwe, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6223207,7.8570824",
+      "google_place_id": "ChIJd1FJyMUrXRARpIHDEu1xdNs"
+    }
   },
   {
     "id": "2616",
@@ -93,7 +178,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6223207,
+      "longitude": 7.8570824,
+      "viewport": {
+        "northeast": {
+          "lat": 5.623783079892721,
+          "lng": 7.858942629892721
+        },
+        "southwest": {
+          "lat": 5.621083420107277,
+          "lng": 7.856242970107277
+        }
+      },
+      "formatted_address": "JVC4+WRG, Isiama Okagwe, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6223207,7.8570824",
+      "google_place_id": "ChIJd1FJyMUrXRARpIHDEu1xdNs"
+    }
   },
   {
     "id": "2617",
@@ -109,7 +211,8 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "2618",
@@ -125,7 +228,8 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "2619",
@@ -141,7 +245,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.539159199999999,
+      "longitude": 7.842067099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.540555179892721,
+          "lng": 7.84341627989272
+        },
+        "southwest": {
+          "lat": 5.537855520107277,
+          "lng": 7.840716620107276
+        }
+      },
+      "formatted_address": "Awoke, Mission Roundabout, 442115, Ndi-Uduma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.539159199999999,7.842067099999999",
+      "google_place_id": "ChIJl8PT-LotXRAR9NLsAzKAfF8"
+    }
   },
   {
     "id": "2620",
@@ -157,7 +278,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.543216399999999,
+      "longitude": 7.841555,
+      "viewport": {
+        "northeast": {
+          "lat": 5.55484,
+          "lng": 7.848366
+        },
+        "southwest": {
+          "lat": 5.534114,
+          "lng": 7.8379979
+        }
+      },
+      "formatted_address": "442115, Ania, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.543216399999999,7.841555",
+      "google_place_id": "ChIJsYYLGrEtXRAR38LbIMdwuPw"
+    }
   },
   {
     "id": "2621",
@@ -173,7 +311,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2622",
@@ -189,7 +344,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.476822299999999,
+      "longitude": 7.9154724,
+      "viewport": {
+        "northeast": {
+          "lat": 5.478187129892722,
+          "lng": 7.916847079892722
+        },
+        "southwest": {
+          "lat": 5.475487470107278,
+          "lng": 7.914147420107278
+        }
+      },
+      "formatted_address": "FWG8+P5H, Okpo Community School,, Ohafia-Arochukwu Rd, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.476822299999999,7.9154724",
+      "google_place_id": "ChIJcTqUS60xXRARDQIc6Y9C0pM"
+    }
   },
   {
     "id": "2623",
@@ -205,7 +377,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2624",
@@ -221,7 +410,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.8027089,
+      "longitude": 7.7681893,
+      "viewport": {
+        "northeast": {
+          "lat": 5.803740629892722,
+          "lng": 7.769618129892723
+        },
+        "southwest": {
+          "lat": 5.801040970107278,
+          "lng": 7.766918470107279
+        }
+      },
+      "formatted_address": "RQ39+37P, 442111, Item, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8027089,7.7681893",
+      "google_place_id": "ChIJDb2Fdm8tQxARhIV6NIG8YLc"
+    }
   },
   {
     "id": "2625",
@@ -237,7 +443,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2626",
@@ -253,7 +476,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2627",
@@ -269,7 +509,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2628",
@@ -285,7 +542,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.603733999999999,
+      "longitude": 7.817882,
+      "viewport": {
+        "northeast": {
+          "lat": 5.604931529892721,
+          "lng": 7.819226179892721
+        },
+        "southwest": {
+          "lat": 5.602231870107278,
+          "lng": 7.816526520107277
+        }
+      },
+      "formatted_address": "JR39+F5R, 442112, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.603733999999999,7.817882",
+      "google_place_id": "ChIJAUrArHorXRARBx6ehUy8XH8"
+    }
   },
   {
     "id": "2629",
@@ -301,7 +575,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3888828,
+      "longitude": 7.888464799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.389994529892721,
+          "lng": 7.889816079892721
+        },
+        "southwest": {
+          "lat": 5.387294870107278,
+          "lng": 7.887116420107277
+        }
+      },
+      "formatted_address": "9VQQ+H99, 442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3888828,7.888464799999999",
+      "google_place_id": "ChIJH1JRX4k2XRARmo_1yb-3kuo"
+    }
   },
   {
     "id": "2630",
@@ -317,7 +608,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.560268,
+      "longitude": 7.8377649,
+      "viewport": {
+        "northeast": {
+          "lat": 5.561474179892722,
+          "lng": 7.839137329892722
+        },
+        "southwest": {
+          "lat": 5.558774520107278,
+          "lng": 7.836437670107278
+        }
+      },
+      "formatted_address": "HR6Q+442, 442115, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.560268,7.8377649",
+      "google_place_id": "ChIJMZ3CRVAsXRARlHppTHr6WBY"
+    }
   },
   {
     "id": "2631",
@@ -333,7 +641,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.476822299999999,
+      "longitude": 7.9154724,
+      "viewport": {
+        "northeast": {
+          "lat": 5.478187129892722,
+          "lng": 7.916847079892722
+        },
+        "southwest": {
+          "lat": 5.475487470107278,
+          "lng": 7.914147420107278
+        }
+      },
+      "formatted_address": "FWG8+P5H, Okpo Community School,, Ohafia-Arochukwu Rd, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.476822299999999,7.9154724",
+      "google_place_id": "ChIJcTqUS60xXRARDQIc6Y9C0pM"
+    }
   },
   {
     "id": "2632",
@@ -349,7 +674,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2633",
@@ -365,7 +707,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5327829,
+      "longitude": 7.496395499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.534008529892722,
+          "lng": 7.497693429892723
+        },
+        "southwest": {
+          "lat": 5.531308870107278,
+          "lng": 7.494993770107279
+        }
+      },
+      "formatted_address": "28/30 Ohafia St, LGA 440102, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5327829,7.496395499999999",
+      "google_place_id": "ChIJA8-tTMLcQhARqWzJiAmEaMw"
+    }
   },
   {
     "id": "2634",
@@ -381,6 +740,23 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 43.4731293,
+      "longitude": -80.541687,
+      "viewport": {
+        "northeast": {
+          "lat": 43.47450512989272,
+          "lng": -80.54028157010727
+        },
+        "southwest": {
+          "lat": 43.47180547010728,
+          "lng": -80.54298122989272
+        }
+      },
+      "formatted_address": "Waterloo, ON N2L 3G1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4731293,-80.541687",
+      "google_place_id": "ChIJBaxtrQH0K4gRkicxTySDDbw"
+    }
   }
 ]

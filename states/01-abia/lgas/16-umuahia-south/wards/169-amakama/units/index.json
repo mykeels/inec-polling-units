@@ -13,7 +13,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.469696799999999,
+      "longitude": 7.485022700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.471036679892721,
+          "lng": 7.486418879892721
+        },
+        "southwest": {
+          "lat": 5.468337020107277,
+          "lng": 7.483719220107277
+        }
+      },
+      "formatted_address": "FF9P+V3M, 440105, Amakama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.469696799999999,7.485022700000001",
+      "google_place_id": "ChIJwyNZt6vDQhAR5K5MW_4743Q"
+    }
   },
   {
     "id": "3807",
@@ -29,7 +46,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4765548,
+      "longitude": 7.5101831,
+      "viewport": {
+        "northeast": {
+          "lat": 5.477935429892722,
+          "lng": 7.511539029892723
+        },
+        "southwest": {
+          "lat": 5.475235770107278,
+          "lng": 7.508839370107279
+        }
+      },
+      "formatted_address": "Olokoro Village, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4765548,7.5101831",
+      "google_place_id": "ChIJbXiSbHzDQhARTnd1juF9xHw"
+    }
   },
   {
     "id": "3808",
@@ -45,7 +79,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5436634,
+      "longitude": 7.478983400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.545097329892722,
+          "lng": 7.480012579892721
+        },
+        "southwest": {
+          "lat": 5.542397670107278,
+          "lng": 7.477312920107277
+        }
+      },
+      "formatted_address": "GFVH+FH9, Road, Amafor Isingwu 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5436634,7.478983400000001",
+      "google_place_id": "ChIJlbtHPPzdQhAR-9beLjcliuA"
+    }
   },
   {
     "id": "3809",
@@ -61,7 +112,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4776286,
+      "longitude": 7.4777339,
+      "viewport": {
+        "northeast": {
+          "lat": 5.478996279892722,
+          "lng": 7.479075129892721
+        },
+        "southwest": {
+          "lat": 5.476296620107277,
+          "lng": 7.476375470107278
+        }
+      },
+      "formatted_address": "FFHH+23H, Amakama Housing Estate, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4776286,7.4777339",
+      "google_place_id": "ChIJCQbx8mbDQhAR0iwRAYjqGUI"
+    }
   },
   {
     "id": "3810",
@@ -77,7 +145,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.47701,
+      "longitude": 7.4686512,
+      "viewport": {
+        "northeast": {
+          "lat": 5.478331429892721,
+          "lng": 7.470018679892721
+        },
+        "southwest": {
+          "lat": 5.475631770107277,
+          "lng": 7.467319020107277
+        }
+      },
+      "formatted_address": "FFG9+RCQ, 440221, Amakama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.47701,7.4686512",
+      "google_place_id": "ChIJD0viF_fCQhARgHkXX-L9ucg"
+    }
   },
   {
     "id": "3811",
@@ -93,7 +178,8 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "3812",
@@ -109,7 +195,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5436634,
+      "longitude": 7.478983400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.545097329892722,
+          "lng": 7.480012579892721
+        },
+        "southwest": {
+          "lat": 5.542397670107278,
+          "lng": 7.477312920107277
+        }
+      },
+      "formatted_address": "GFVH+FH9, Road, Amafor Isingwu 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5436634,7.478983400000001",
+      "google_place_id": "ChIJlbtHPPzdQhAR-9beLjcliuA"
+    }
   },
   {
     "id": "3813",
@@ -125,7 +228,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.5436634,
+      "longitude": 7.478983400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.545097329892722,
+          "lng": 7.480012579892721
+        },
+        "southwest": {
+          "lat": 5.542397670107278,
+          "lng": 7.477312920107277
+        }
+      },
+      "formatted_address": "GFVH+FH9, Road, Amafor Isingwu 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5436634,7.478983400000001",
+      "google_place_id": "ChIJlbtHPPzdQhAR-9beLjcliuA"
+    }
   },
   {
     "id": "3814",
@@ -141,7 +261,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4778216,
+      "longitude": 7.4818455,
+      "viewport": {
+        "northeast": {
+          "lat": 5.479262629892721,
+          "lng": 7.483173929892723
+        },
+        "southwest": {
+          "lat": 5.476562970107278,
+          "lng": 7.480474270107278
+        }
+      },
+      "formatted_address": "FFHJ+JQ3, 440105, Amakama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4778216,7.4818455",
+      "google_place_id": "ChIJIWHI5WTDQhAR1w5KeqNXjes"
+    }
   },
   {
     "id": "3815",
@@ -157,7 +294,24 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4991644,
+      "longitude": 7.4997637,
+      "viewport": {
+        "northeast": {
+          "lat": 5.500515379892723,
+          "lng": 7.501113029892723
+        },
+        "southwest": {
+          "lat": 5.497815720107279,
+          "lng": 7.498413370107279
+        }
+      },
+      "formatted_address": "FFXX+MW6, 440102, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4991644,7.4997637",
+      "google_place_id": "ChIJM_Gkpd_cQhARO1pYAAgZbyw"
+    }
   },
   {
     "id": "3816",
@@ -173,6 +327,23 @@
     "local_government_id": "16",
     "local_government_name": "UMUAHIA  SOUTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4669354,
+      "longitude": 7.488350499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.468258,
+          "lng": 7.488824
+        },
+        "southwest": {
+          "lat": 5.462702,
+          "lng": 7.4832689
+        }
+      },
+      "formatted_address": "Amakama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4669354,7.488350499999999",
+      "google_place_id": "ChIJ40b2kqzDQhARwoV7WTE8GGc"
+    }
   }
 ]

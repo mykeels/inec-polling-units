@@ -13,7 +13,8 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "2504",
@@ -29,7 +30,8 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "2505",
@@ -45,7 +47,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2506",
@@ -61,7 +80,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.571859,
+      "longitude": 7.8767074,
+      "viewport": {
+        "northeast": {
+          "lat": 5.573167179892721,
+          "lng": 7.878052729892722
+        },
+        "southwest": {
+          "lat": 5.570467520107277,
+          "lng": 7.875353070107278
+        }
+      },
+      "formatted_address": "HVCG+PMW, 442114, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.571859,7.8767074",
+      "google_place_id": "ChIJLdAcWZ8uXRAR0YC8HzXEvGg"
+    }
   },
   {
     "id": "2507",
@@ -77,7 +113,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7175808,
+      "longitude": 7.7413308,
+      "viewport": {
+        "northeast": {
+          "lat": 5.719417,
+          "lng": 7.743871
+        },
+        "southwest": {
+          "lat": 5.7146009,
+          "lng": 7.740731099999999
+        }
+      },
+      "formatted_address": "442111, Ameke-Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7175808,7.7413308",
+      "google_place_id": "ChIJNxjDef8qQxARCxJSS1g9hOk"
+    }
   },
   {
     "id": "2508",
@@ -93,7 +146,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6985654,
+      "longitude": 7.738424399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.699894729892723,
+          "lng": 7.739764679892723
+        },
+        "southwest": {
+          "lat": 5.697195070107279,
+          "lng": 7.737065020107279
+        }
+      },
+      "formatted_address": "MPXQ+C9F, amaghuzo, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6985654,7.738424399999999",
+      "google_place_id": "ChIJn3jOvRArQxARKdHHZbJ7B1w"
+    }
   },
   {
     "id": "2509",
@@ -109,7 +179,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.715166,
+      "longitude": 7.724402,
+      "viewport": {
+        "northeast": {
+          "lat": 5.716339879892721,
+          "lng": 7.725648879892722
+        },
+        "southwest": {
+          "lat": 5.713640220107277,
+          "lng": 7.722949220107278
+        }
+      },
+      "formatted_address": "5°42'54.6\"N 7°43'27.9\"E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.715166,7.724402",
+      "google_place_id": "ChIJZXzw40sqQxARVGkXvCLDxRs"
+    }
   },
   {
     "id": "2510",
@@ -125,7 +212,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6969932,
+      "longitude": 7.737132000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.698336479892721,
+          "lng": 7.738466379892722
+        },
+        "southwest": {
+          "lat": 5.695636820107278,
+          "lng": 7.735766720107279
+        }
+      },
+      "formatted_address": "MPWP+QVR, Amogudu 442110, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6969932,7.737132000000001",
+      "google_place_id": "ChIJOaW32mAqQxARbZlORz57vYQ"
+    }
   },
   {
     "id": "2511",
@@ -141,7 +245,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7175808,
+      "longitude": 7.7413308,
+      "viewport": {
+        "northeast": {
+          "lat": 5.718852229892721,
+          "lng": 7.742671379892724
+        },
+        "southwest": {
+          "lat": 5.716152570107277,
+          "lng": 7.73997172010728
+        }
+      },
+      "formatted_address": "Ugwuezi Road, 442111, Ameke-Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7175808,7.7413308",
+      "google_place_id": "ChIJOR4W4_4rQxARwf-bsXOAaPE"
+    }
   },
   {
     "id": "2512",
@@ -157,7 +278,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7021555,
+      "longitude": 7.735729099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.703539629892722,
+          "lng": 7.737125979892721
+        },
+        "southwest": {
+          "lat": 5.700839970107278,
+          "lng": 7.734426320107278
+        }
+      },
+      "formatted_address": "ALINDI ORIRI LAYOUT AMEKE, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7021555,7.735729099999999",
+      "google_place_id": "ChIJnd6O3h4rQxARjztpkscjiJE"
+    }
   },
   {
     "id": "2513",
@@ -173,7 +311,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2514",
@@ -189,7 +344,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2515",
@@ -205,7 +377,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2516",
@@ -221,7 +410,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2517",
@@ -237,7 +443,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2518",
@@ -253,7 +476,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.693220999999999,
+      "longitude": 7.737730999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.694571029892722,
+          "lng": 7.739081629892722
+        },
+        "southwest": {
+          "lat": 5.691871370107278,
+          "lng": 7.736381970107278
+        }
+      },
+      "formatted_address": "MPVQ+73Q, 442110, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.693220999999999,7.737730999999999",
+      "google_place_id": "ChIJL0GYk2MqQxARHSuAv_FmmkI"
+    }
   },
   {
     "id": "2519",
@@ -269,7 +509,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6931702,
+      "longitude": 7.7353463,
+      "viewport": {
+        "northeast": {
+          "lat": 5.694536879892722,
+          "lng": 7.736857779892722
+        },
+        "southwest": {
+          "lat": 5.691837220107278,
+          "lng": 7.734158120107279
+        }
+      },
+      "formatted_address": "MPVP+749, 442110, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6931702,7.7353463",
+      "google_place_id": "ChIJNUNlsc8rQxARkV88ycMuY_A"
+    }
   },
   {
     "id": "2520",
@@ -285,7 +542,8 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "2521",
@@ -301,7 +559,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6917313,
+      "longitude": 7.733122699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.693127629892721,
+          "lng": 7.734495629892721
+        },
+        "southwest": {
+          "lat": 5.690427970107277,
+          "lng": 7.731795970107277
+        }
+      },
+      "formatted_address": "MPRM+M6X, 442110, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6917313,7.733122699999999",
+      "google_place_id": "ChIJe06JrmUqQxARYJxRW6r3SLc"
+    }
   },
   {
     "id": "2522",
@@ -317,7 +592,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7096182,
+      "longitude": 7.730739499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.710837829892722,
+          "lng": 7.732088879892722
+        },
+        "southwest": {
+          "lat": 5.708138170107278,
+          "lng": 7.729389220107278
+        }
+      },
+      "formatted_address": "PP5J+R7X, Amuba 442110, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7096182,7.730739499999999",
+      "google_place_id": "ChIJH9skOXkrQxARmgM61kgOGDY"
+    }
   },
   {
     "id": "2523",
@@ -333,7 +625,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.476822299999999,
+      "longitude": 7.9154724,
+      "viewport": {
+        "northeast": {
+          "lat": 5.478187129892722,
+          "lng": 7.916847079892722
+        },
+        "southwest": {
+          "lat": 5.475487470107278,
+          "lng": 7.914147420107278
+        }
+      },
+      "formatted_address": "FWG8+P5H, Okpo Community School,, Ohafia-Arochukwu Rd, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.476822299999999,7.9154724",
+      "google_place_id": "ChIJcTqUS60xXRARDQIc6Y9C0pM"
+    }
   },
   {
     "id": "2524",
@@ -349,7 +658,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6890994,
+      "longitude": 7.739762900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.690454779892721,
+          "lng": 7.741153779892722
+        },
+        "southwest": {
+          "lat": 5.687755120107277,
+          "lng": 7.738454120107278
+        }
+      },
+      "formatted_address": "MPQQ+JWJ, Biama Community Primary School AMUBA, Ameke, Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6890994,7.739762900000001",
+      "google_place_id": "ChIJ8Ua_yf4rQxARu243w0BQ6NU"
+    }
   },
   {
     "id": "2525",
@@ -365,7 +691,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.6606048,
+      "longitude": 7.823981000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.661973529892722,
+          "lng": 7.825372029892723
+        },
+        "southwest": {
+          "lat": 5.659273870107278,
+          "lng": 7.822672370107279
+        }
+      },
+      "formatted_address": "MR6F+6HP, By Ifumaku Road, Amaekpu, Ohafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6606048,7.823981000000001",
+      "google_place_id": "ChIJ-RU0emkrXRARaey-Dcg81xo"
+    }
   },
   {
     "id": "2526",
@@ -381,7 +724,24 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.539159199999999,
+      "longitude": 7.842067099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.540555179892721,
+          "lng": 7.84341627989272
+        },
+        "southwest": {
+          "lat": 5.537855520107277,
+          "lng": 7.840716620107276
+        }
+      },
+      "formatted_address": "Awoke, Mission Roundabout, 442115, Ndi-Uduma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.539159199999999,7.842067099999999",
+      "google_place_id": "ChIJl8PT-LotXRAR9NLsAzKAfF8"
+    }
   },
   {
     "id": "2527",
@@ -397,6 +757,23 @@
     "local_government_id": "10",
     "local_government_name": "OHAFIA",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7248803,
+      "longitude": 7.7325043,
+      "viewport": {
+        "northeast": {
+          "lat": 5.726869,
+          "lng": 7.733938879892722
+        },
+        "southwest": {
+          "lat": 5.724003,
+          "lng": 7.731239220107279
+        }
+      },
+      "formatted_address": "Abiriba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7248803,7.7325043",
+      "google_place_id": "ChIJE8AmRF0qQxARwJrl9KgE5wY"
+    }
   }
 ]

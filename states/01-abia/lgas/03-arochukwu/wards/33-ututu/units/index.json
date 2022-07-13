@@ -13,7 +13,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4315807,
+      "longitude": 7.9177952,
+      "viewport": {
+        "northeast": {
+          "lat": 5.432930429892721,
+          "lng": 7.919146779892722
+        },
+        "southwest": {
+          "lat": 5.430230770107277,
+          "lng": 7.916447120107279
+        }
+      },
+      "formatted_address": "CWJ9+J4M, 441120, Ututu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4315807,7.9177952",
+      "google_place_id": "ChIJf2GPetYwXRARl1W0My5xXy8"
+    }
   },
   {
     "id": "1145",
@@ -29,7 +46,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4350008,
+      "longitude": 7.911046000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.436624629892721,
+          "lng": 7.912360929892722
+        },
+        "southwest": {
+          "lat": 5.433924970107277,
+          "lng": 7.909661270107278
+        }
+      },
+      "formatted_address": "CWP6+2C3, Ohafia-Arochukwu Rd, 441120, Ututu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4350008,7.911046000000001",
+      "google_place_id": "ChIJ7QVDb-sxXRAR9NsFtcXmOIg"
+    }
   },
   {
     "id": "1146",
@@ -45,7 +79,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.557042600000001,
+      "longitude": 7.6304012,
+      "viewport": {
+        "northeast": {
+          "lat": 5.558210379892722,
+          "lng": 7.631243629892722
+        },
+        "southwest": {
+          "lat": 5.555510720107279,
+          "lng": 7.628543970107278
+        }
+      },
+      "formatted_address": "Community School, LGA, 442106, Amaeke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.557042600000001,7.6304012",
+      "google_place_id": "ChIJTQ7ud1XRQhARmpamPAep304"
+    }
   },
   {
     "id": "1147",
@@ -61,7 +112,8 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1148",
@@ -77,7 +129,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3853981,
+      "longitude": 7.911866799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.386892679892722,
+          "lng": 7.913012329892724
+        },
+        "southwest": {
+          "lat": 5.384193020107278,
+          "lng": 7.91031267010728
+        }
+      },
+      "formatted_address": "442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3853981,7.911866799999999",
+      "google_place_id": "ChIJebBZhzw3XRARp3SUyR8gxzQ"
+    }
   },
   {
     "id": "1149",
@@ -93,7 +162,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3888828,
+      "longitude": 7.888464799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.389994529892721,
+          "lng": 7.889816079892721
+        },
+        "southwest": {
+          "lat": 5.387294870107278,
+          "lng": 7.887116420107277
+        }
+      },
+      "formatted_address": "9VQQ+H99, 442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3888828,7.888464799999999",
+      "google_place_id": "ChIJH1JRX4k2XRARmo_1yb-3kuo"
+    }
   },
   {
     "id": "1150",
@@ -109,7 +195,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.388622199999999,
+      "longitude": 7.887787,
+      "viewport": {
+        "northeast": {
+          "lat": 5.389994679892721,
+          "lng": 7.88916842989272
+        },
+        "southwest": {
+          "lat": 5.387295020107278,
+          "lng": 7.886468770107276
+        }
+      },
+      "formatted_address": "9VQQ+C4V, Unnamed Rd, 442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.388622199999999,7.887787",
+      "google_place_id": "ChIJNQAYYYk2XRARCLdQiZBfYtI"
+    }
   },
   {
     "id": "1151",
@@ -125,7 +228,8 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1152",
@@ -141,7 +245,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.436410599999999,
+      "longitude": 7.912493500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.437747029892721,
+          "lng": 7.913817029892723
+        },
+        "southwest": {
+          "lat": 5.435047370107277,
+          "lng": 7.911117370107279
+        }
+      },
+      "formatted_address": "CWP6+HX9 Isiama Ohafia, Road, 441120, Ututu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.436410599999999,7.912493500000001",
+      "google_place_id": "ChIJeSbScu4xXRAR7t4eBcWjXXA"
+    }
   },
   {
     "id": "1153",
@@ -157,7 +278,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4536273,
+      "longitude": 7.8831036,
+      "viewport": {
+        "northeast": {
+          "lat": 5.45498572989272,
+          "lng": 7.884488829892721
+        },
+        "southwest": {
+          "lat": 5.452286070107276,
+          "lng": 7.881789170107277
+        }
+      },
+      "formatted_address": "FV3M+F65, Isiama Ohafia Road, 442104, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4536273,7.8831036",
+      "google_place_id": "ChIJzeKXVG8xXRARUEWSrd6JB40"
+    }
   },
   {
     "id": "1154",
@@ -173,7 +311,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4324778,
+      "longitude": 7.9075384,
+      "viewport": {
+        "northeast": {
+          "lat": 5.433809329892721,
+          "lng": 7.908935679892721
+        },
+        "southwest": {
+          "lat": 5.431109670107277,
+          "lng": 7.906236020107277
+        }
+      },
+      "formatted_address": "CWJ5+X2V, 441120, Ututu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4324778,7.9075384",
+      "google_place_id": "ChIJKxoCYC4xXRAR_3M8VcDlkSs"
+    }
   },
   {
     "id": "1155",
@@ -189,7 +344,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4324778,
+      "longitude": 7.9075384,
+      "viewport": {
+        "northeast": {
+          "lat": 5.433809329892721,
+          "lng": 7.908935679892721
+        },
+        "southwest": {
+          "lat": 5.431109670107277,
+          "lng": 7.906236020107277
+        }
+      },
+      "formatted_address": "CWJ5+X2V, 441120, Ututu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4324778,7.9075384",
+      "google_place_id": "ChIJKxoCYC4xXRAR_3M8VcDlkSs"
+    }
   },
   {
     "id": "1156",
@@ -205,7 +377,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.423976,
+      "longitude": 7.914018599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.425353779892723,
+          "lng": 7.915124679892723
+        },
+        "southwest": {
+          "lat": 5.422654120107279,
+          "lng": 7.912425020107279
+        }
+      },
+      "formatted_address": "Ohafia-Arochukwu Rd, 441120, Mkpakpi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.423976,7.914018599999999",
+      "google_place_id": "ChIJDX4AEtU2XRARmXEVbTPW3-s"
+    }
   },
   {
     "id": "1157",
@@ -221,7 +410,8 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1158",
@@ -237,7 +427,8 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1159",
@@ -253,7 +444,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4536273,
+      "longitude": 7.8831036,
+      "viewport": {
+        "northeast": {
+          "lat": 5.45498572989272,
+          "lng": 7.884488829892721
+        },
+        "southwest": {
+          "lat": 5.452286070107276,
+          "lng": 7.881789170107277
+        }
+      },
+      "formatted_address": "FV3M+F65, Isiama Ohafia Road, 442104, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4536273,7.8831036",
+      "google_place_id": "ChIJzeKXVG8xXRARUEWSrd6JB40"
+    }
   },
   {
     "id": "1160",
@@ -269,7 +477,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.423976,
+      "longitude": 7.914018599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.425353779892723,
+          "lng": 7.915124679892723
+        },
+        "southwest": {
+          "lat": 5.422654120107279,
+          "lng": 7.912425020107279
+        }
+      },
+      "formatted_address": "Ohafia-Arochukwu Rd, 441120, Mkpakpi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.423976,7.914018599999999",
+      "google_place_id": "ChIJDX4AEtU2XRARmXEVbTPW3-s"
+    }
   },
   {
     "id": "1161",
@@ -285,7 +510,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3888828,
+      "longitude": 7.888464799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.389994529892721,
+          "lng": 7.889816079892721
+        },
+        "southwest": {
+          "lat": 5.387294870107278,
+          "lng": 7.887116420107277
+        }
+      },
+      "formatted_address": "9VQQ+H99, 442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3888828,7.888464799999999",
+      "google_place_id": "ChIJH1JRX4k2XRARmo_1yb-3kuo"
+    }
   },
   {
     "id": "1162",
@@ -301,7 +543,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.410518,
+      "longitude": 7.9310131,
+      "viewport": {
+        "northeast": {
+          "lat": 5.411994179892721,
+          "lng": 7.932458129892721
+        },
+        "southwest": {
+          "lat": 5.409294520107277,
+          "lng": 7.929758470107277
+        }
+      },
+      "formatted_address": "CW6J+6C2, 441120, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.410518,7.9310131",
+      "google_place_id": "ChIJl-Tg8zs3XRARxhpXnRyoeeM"
+    }
   },
   {
     "id": "1163",
@@ -317,7 +576,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3947343,
+      "longitude": 7.904565799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.395976579892722,
+          "lng": 7.905979129892721
+        },
+        "southwest": {
+          "lat": 5.393276920107279,
+          "lng": 7.903279470107277
+        }
+      },
+      "formatted_address": "9WV3+VRW, 442103, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3947343,7.904565799999999",
+      "google_place_id": "ChIJeZMKAfA2XRARuNm8l-dfQwY"
+    }
   },
   {
     "id": "1164",
@@ -333,7 +609,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3888828,
+      "longitude": 7.888464799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.389994529892721,
+          "lng": 7.889816079892721
+        },
+        "southwest": {
+          "lat": 5.387294870107278,
+          "lng": 7.887116420107277
+        }
+      },
+      "formatted_address": "9VQQ+H99, 442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3888828,7.888464799999999",
+      "google_place_id": "ChIJH1JRX4k2XRARmo_1yb-3kuo"
+    }
   },
   {
     "id": "1165",
@@ -349,7 +642,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4536273,
+      "longitude": 7.8831036,
+      "viewport": {
+        "northeast": {
+          "lat": 5.45498572989272,
+          "lng": 7.884488829892721
+        },
+        "southwest": {
+          "lat": 5.452286070107276,
+          "lng": 7.881789170107277
+        }
+      },
+      "formatted_address": "FV3M+F65, Isiama Ohafia Road, 442104, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4536273,7.8831036",
+      "google_place_id": "ChIJzeKXVG8xXRARUEWSrd6JB40"
+    }
   },
   {
     "id": "1166",
@@ -365,7 +675,24 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4324778,
+      "longitude": 7.9075384,
+      "viewport": {
+        "northeast": {
+          "lat": 5.433809329892721,
+          "lng": 7.908935679892721
+        },
+        "southwest": {
+          "lat": 5.431109670107277,
+          "lng": 7.906236020107277
+        }
+      },
+      "formatted_address": "CWJ5+X2V, 441120, Ututu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4324778,7.9075384",
+      "google_place_id": "ChIJKxoCYC4xXRAR_3M8VcDlkSs"
+    }
   },
   {
     "id": "1167",
@@ -381,6 +708,23 @@
     "local_government_id": "3",
     "local_government_name": "AROCHUKWU",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.423976,
+      "longitude": 7.914018599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.425353779892723,
+          "lng": 7.915124679892723
+        },
+        "southwest": {
+          "lat": 5.422654120107279,
+          "lng": 7.912425020107279
+        }
+      },
+      "formatted_address": "Ohafia-Arochukwu Rd, 441120, Mkpakpi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.423976,7.914018599999999",
+      "google_place_id": "ChIJDX4AEtU2XRARmXEVbTPW3-s"
+    }
   }
 ]

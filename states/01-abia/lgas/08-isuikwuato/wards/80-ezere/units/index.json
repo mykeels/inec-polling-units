@@ -13,7 +13,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7257812,
+      "longitude": 7.505893700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.727131029892721,
+          "lng": 7.507243529892722
+        },
+        "southwest": {
+          "lat": 5.724431370107277,
+          "lng": 7.504543870107279
+        }
+      },
+      "formatted_address": "PGG4+896, 441101, Ovim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7257812,7.505893700000001",
+      "google_place_id": "ChIJtRb3ACEhQxARkqHwN1fMjDY"
+    }
   },
   {
     "id": "1935",
@@ -29,7 +46,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.787395699999999,
+      "longitude": 7.527840899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.788742929892721,
+          "lng": 7.529258479892722
+        },
+        "southwest": {
+          "lat": 5.786043270107277,
+          "lng": 7.526558820107279
+        }
+      },
+      "formatted_address": "QGPH+X44, 441102, Ezere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.787395699999999,7.527840899999999",
+      "google_place_id": "ChIJnQU-hXwlQxARd-9JSXDh9Qw"
+    }
   },
   {
     "id": "1936",
@@ -45,7 +79,8 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1937",
@@ -61,7 +96,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7394621,
+      "longitude": 7.4981619,
+      "viewport": {
+        "northeast": {
+          "lat": 5.740731629892722,
+          "lng": 7.49959547989272
+        },
+        "southwest": {
+          "lat": 5.738031970107278,
+          "lng": 7.496895820107277
+        }
+      },
+      "formatted_address": "Okigwe-Mbalano Road, 441101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7394621,7.4981619",
+      "google_place_id": "ChIJu228yz4hQxARTrEVZN8LPqE"
+    }
   },
   {
     "id": "1938",
@@ -77,7 +129,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7918376,
+      "longitude": 7.531747500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.793024879892722,
+          "lng": 7.533334829892722
+        },
+        "southwest": {
+          "lat": 5.790325220107278,
+          "lng": 7.530635170107278
+        }
+      },
+      "formatted_address": "441102, Ozara Station, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7918376,7.531747500000001",
+      "google_place_id": "ChIJkRRKbHEkQxARXx6RFVJV448"
+    }
   },
   {
     "id": "1939",
@@ -93,7 +162,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.730734900000001,
+      "longitude": 7.4823689,
+      "viewport": {
+        "northeast": {
+          "lat": 5.732069329892721,
+          "lng": 7.483742379892723
+        },
+        "southwest": {
+          "lat": 5.729369670107277,
+          "lng": 7.481042720107278
+        }
+      },
+      "formatted_address": "PFJJ+8X4, 441109, Ovim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.730734900000001,7.4823689",
+      "google_place_id": "ChIJxwH5cwchQxARV4X_YV2LLSY"
+    }
   },
   {
     "id": "1940",
@@ -109,7 +195,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7498108,
+      "longitude": 7.537533000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.751174579892722,
+          "lng": 7.538892429892723
+        },
+        "southwest": {
+          "lat": 5.748474920107278,
+          "lng": 7.536192770107279
+        }
+      },
+      "formatted_address": "PGXQ+W2F, 441102, Otampa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7498108,7.537533000000001",
+      "google_place_id": "ChIJCXfPObomQxAR3JOWN6ImXYA"
+    }
   },
   {
     "id": "1941",
@@ -125,7 +228,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.8225266,
+      "longitude": 7.3940761,
+      "viewport": {
+        "northeast": {
+          "lat": 5.823873879892721,
+          "lng": 7.395522329892723
+        },
+        "southwest": {
+          "lat": 5.821174220107277,
+          "lng": 7.392822670107279
+        }
+      },
+      "formatted_address": "441103, Uturu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8225266,7.3940761",
+      "google_place_id": "ChIJR1aEPo0bQxARUP5pEQY8tiw"
+    }
   },
   {
     "id": "1942",
@@ -141,7 +261,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.717817999999999,
+      "longitude": 7.469931300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.719210429892722,
+          "lng": 7.47118537989272
+        },
+        "southwest": {
+          "lat": 5.716510770107278,
+          "lng": 7.468485720107276
+        }
+      },
+      "formatted_address": "Unnamed Road, 441109, Eluama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.717817999999999,7.469931300000001",
+      "google_place_id": "ChIJjaA4ap0hQxARA4KRsmOmDiA"
+    }
   },
   {
     "id": "1943",
@@ -157,7 +294,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.743357899999999,
+      "longitude": 7.421827499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.744742429892721,
+          "lng": 7.423006679892723
+        },
+        "southwest": {
+          "lat": 5.742042770107277,
+          "lng": 7.42030702010728
+        }
+      },
+      "formatted_address": "PCVC+8PW, 441109, Amiyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.743357899999999,7.421827499999999",
+      "google_place_id": "ChIJs6rKIGofQxARGinVEehrnrk"
+    }
   },
   {
     "id": "1944",
@@ -173,7 +327,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7185853,
+      "longitude": 7.537904900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.720520329892722,
+          "lng": 7.539163879892723
+        },
+        "southwest": {
+          "lat": 5.717820670107278,
+          "lng": 7.536464220107279
+        }
+      },
+      "formatted_address": "PG9Q+C5J, 441102, Ezere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7185853,7.537904900000001",
+      "google_place_id": "ChIJU1dZjyInQxARQW3_AKO8w14"
+    }
   },
   {
     "id": "1945",
@@ -189,7 +360,8 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1946",
@@ -205,7 +377,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7232555,
+      "longitude": 7.4667754,
+      "viewport": {
+        "northeast": {
+          "lat": 5.724573979892722,
+          "lng": 7.468128429892722
+        },
+        "southwest": {
+          "lat": 5.721874320107278,
+          "lng": 7.465428770107278
+        }
+      },
+      "formatted_address": "PFF8+8P2, 441109, Ovim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7232555,7.4667754",
+      "google_place_id": "ChIJw9jQfLEhQxARmUI9tGAgzXY"
+    }
   },
   {
     "id": "1947",
@@ -221,7 +410,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7394621,
+      "longitude": 7.4981619,
+      "viewport": {
+        "northeast": {
+          "lat": 5.740731629892722,
+          "lng": 7.49959547989272
+        },
+        "southwest": {
+          "lat": 5.738031970107278,
+          "lng": 7.496895820107277
+        }
+      },
+      "formatted_address": "Okigwe-Mbalano Road, 441101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7394621,7.4981619",
+      "google_place_id": "ChIJu228yz4hQxARTrEVZN8LPqE"
+    }
   },
   {
     "id": "1948",
@@ -237,7 +443,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.542989200000001,
+      "longitude": 7.500362699999998,
+      "viewport": {
+        "northeast": {
+          "lat": 5.544344429892722,
+          "lng": 7.501712779892721
+        },
+        "southwest": {
+          "lat": 5.541644770107278,
+          "lng": 7.499013120107276
+        }
+      },
+      "formatted_address": "GGV2+34Q, Amuzukwu 440236, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.542989200000001,7.500362699999998",
+      "google_place_id": "ChIJPfAcVuzcQhARFNCtWbd6kcg"
+    }
   },
   {
     "id": "1949",
@@ -253,7 +476,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.730734900000001,
+      "longitude": 7.4823689,
+      "viewport": {
+        "northeast": {
+          "lat": 5.732069329892721,
+          "lng": 7.483742379892723
+        },
+        "southwest": {
+          "lat": 5.729369670107277,
+          "lng": 7.481042720107278
+        }
+      },
+      "formatted_address": "PFJJ+8X4, 441109, Ovim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.730734900000001,7.4823689",
+      "google_place_id": "ChIJxwH5cwchQxARV4X_YV2LLSY"
+    }
   },
   {
     "id": "1950",
@@ -269,7 +509,24 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.7498108,
+      "longitude": 7.537533000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.751174579892722,
+          "lng": 7.538892429892723
+        },
+        "southwest": {
+          "lat": 5.748474920107278,
+          "lng": 7.536192770107279
+        }
+      },
+      "formatted_address": "PGXQ+W2F, 441102, Otampa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7498108,7.537533000000001",
+      "google_place_id": "ChIJCXfPObomQxAR3JOWN6ImXYA"
+    }
   },
   {
     "id": "1951",
@@ -285,6 +542,23 @@
     "local_government_id": "8",
     "local_government_name": "ISUIKWUATO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.729784299999999,
+      "longitude": 7.514956100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.731062179892723,
+          "lng": 7.516317429892721
+        },
+        "southwest": {
+          "lat": 5.728362520107279,
+          "lng": 7.513617770107277
+        }
+      },
+      "formatted_address": "Methodist Church, Amaba, 441101, Amaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.729784299999999,7.514956100000001",
+      "google_place_id": "ChIJFY0wMeohQxARFeSgxSZ09uM"
+    }
   }
 ]

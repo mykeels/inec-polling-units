@@ -13,7 +13,8 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "3137",
@@ -29,7 +30,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 4.9326577,
+      "longitude": 7.2803521,
+      "viewport": {
+        "northeast": {
+          "lat": 4.934022629892723,
+          "lng": 7.281708179892723
+        },
+        "southwest": {
+          "lat": 4.931322970107279,
+          "lng": 7.279008520107279
+        }
+      },
+      "formatted_address": "W7MJ+349, 452112, Asa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9326577,7.2803521",
+      "google_place_id": "ChIJtSK66-MlaBARz_1o09oW4_w"
+    }
   },
   {
     "id": "3138",
@@ -45,7 +63,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.18,
+      "longitude": 7.33,
+      "viewport": {
+        "northeast": {
+          "lat": 5.182040899999998,
+          "lng": 7.330693929892722
+        },
+        "southwest": {
+          "lat": 5.179319700000001,
+          "lng": 7.327994270107278
+        }
+      },
+      "formatted_address": "UMUGHASO EGBELUM VILLAGE OSISIOMA NGWA#, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.18,7.33",
+      "google_place_id": "ChIJA--H8gybQhARbN3zYsFdeec"
+    }
   },
   {
     "id": "3139",
@@ -61,7 +96,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.0439389,
+      "longitude": 7.4895798,
+      "viewport": {
+        "northeast": {
+          "lat": 5.046652399999998,
+          "lng": 7.490813829892721
+        },
+        "southwest": {
+          "lat": 5.0430344,
+          "lng": 7.488114170107277
+        }
+      },
+      "formatted_address": "2FVQ+HRG, 453110, Aba Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0439389,7.4895798",
+      "google_place_id": "ChIJbbjCn_GgQhARz9BrxOtSlkw"
+    }
   },
   {
     "id": "3140",
@@ -77,7 +129,24 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.114041299999999,
+      "longitude": 7.366799899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.115473679892721,
+          "lng": 7.36801642989272
+        },
+        "southwest": {
+          "lat": 5.112774020107278,
+          "lng": 7.365316770107277
+        }
+      },
+      "formatted_address": "4978+HQC, Hospital Rd, Aba 450101, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.114041299999999,7.366799899999999",
+      "google_place_id": "ChIJU84tkwuZQhAR9I9ZzVVFLFU"
+    }
   },
   {
     "id": "3141",
@@ -93,6 +162,23 @@
     "local_government_id": "13",
     "local_government_name": "UKWA EAST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 4.9874477,
+      "longitude": 7.457780199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.988611279892722,
+          "lng": 7.458922379892724
+        },
+        "southwest": {
+          "lat": 4.985911620107278,
+          "lng": 7.456222720107279
+        }
+      },
+      "formatted_address": "Opobo Rd, 453110, Ikora-Ika, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9874477,7.457780199999999",
+      "google_place_id": "ChIJL0d4l5cfaBARKi9fp5YrsD8"
+    }
   }
 ]

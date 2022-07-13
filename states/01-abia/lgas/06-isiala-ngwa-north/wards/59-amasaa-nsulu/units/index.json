@@ -13,7 +13,8 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1546",
@@ -29,7 +30,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.207742,
+      "longitude": 7.4351489,
+      "viewport": {
+        "northeast": {
+          "lat": 5.209107479892722,
+          "lng": 7.436492429892721
+        },
+        "southwest": {
+          "lat": 5.206407820107279,
+          "lng": 7.433792770107277
+        }
+      },
+      "formatted_address": "1 Alozie Street, Ariaria 453101, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.207742,7.4351489",
+      "google_place_id": "ChIJE-3V3d6XQhARlEx0xEktb7g"
+    }
   },
   {
     "id": "1547",
@@ -45,7 +63,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3354658,
+      "longitude": 7.501942799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.336704029892721,
+          "lng": 7.503274629892721
+        },
+        "southwest": {
+          "lat": 5.334004370107277,
+          "lng": 7.500574970107277
+        }
+      },
+      "formatted_address": "8GP2+5QP, 451107, Umuakwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3354658,7.501942799999999",
+      "google_place_id": "ChIJ-e6TNmi_QhARqUyBVin2FCE"
+    }
   },
   {
     "id": "1548",
@@ -61,7 +96,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.2572046,
+      "longitude": 7.4101925,
+      "viewport": {
+        "northeast": {
+          "lat": 5.258579279892722,
+          "lng": 7.411551279892723
+        },
+        "southwest": {
+          "lat": 5.255879620107278,
+          "lng": 7.40885162010728
+        }
+      },
+      "formatted_address": "7C46+V3P, 451114, Omoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2572046,7.4101925",
+      "google_place_id": "ChIJzwwOk3GWQhARxl_tzPyZ7EE"
+    }
   },
   {
     "id": "1549",
@@ -77,7 +129,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4158158,
+      "longitude": 7.491688700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.417078429892723,
+          "lng": 7.493253079892722
+        },
+        "southwest": {
+          "lat": 5.414378770107279,
+          "lng": 7.490553420107278
+        }
+      },
+      "formatted_address": "Umuode Nsulu Village Isiala Ngwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4158158,7.491688700000001",
+      "google_place_id": "ChIJQc9E-HHBQhAR09mjMUoTIOw"
+    }
   },
   {
     "id": "1550",
@@ -93,7 +162,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.356757,
+      "longitude": 7.410600699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.358111129892722,
+          "lng": 7.411952029892722
+        },
+        "southwest": {
+          "lat": 5.355411470107277,
+          "lng": 7.409252370107279
+        }
+      },
+      "formatted_address": "9C46+P65, 451112, Ikem, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.356757,7.410600699999999",
+      "google_place_id": "ChIJGxv91s7qQhARzjkqh480TpQ"
+    }
   },
   {
     "id": "1551",
@@ -109,7 +195,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.346852,
+      "longitude": 7.547262,
+      "viewport": {
+        "northeast": {
+          "lat": 5.348211529892722,
+          "lng": 7.548629479892721
+        },
+        "southwest": {
+          "lat": 5.345511870107278,
+          "lng": 7.545929820107277
+        }
+      },
+      "formatted_address": "8GWW+PWR, 440111, Ohuhu Nsulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.346852,7.547262",
+      "google_place_id": "ChIJqVF575-4QhAR2NpjvNJtBqU"
+    }
   },
   {
     "id": "1552",
@@ -125,7 +228,8 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1553",
@@ -141,7 +245,8 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1554",
@@ -157,7 +262,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4344965,
+      "longitude": 7.4684662,
+      "viewport": {
+        "northeast": {
+          "lat": 5.435855079892722,
+          "lng": 7.469796179892721
+        },
+        "southwest": {
+          "lat": 5.433155420107278,
+          "lng": 7.467096520107277
+        }
+      },
+      "formatted_address": "CFM9+Q9W, 451111, Umu Ezeukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4344965,7.4684662",
+      "google_place_id": "ChIJZWUhUibCQhARQW4XONMlA3Q"
+    }
   },
   {
     "id": "1555",
@@ -173,7 +295,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.351077699999999,
+      "longitude": 7.5142014,
+      "viewport": {
+        "northeast": {
+          "lat": 5.352317479892721,
+          "lng": 7.515857929892722
+        },
+        "southwest": {
+          "lat": 5.349617820107277,
+          "lng": 7.513158270107279
+        }
+      },
+      "formatted_address": "9G27+CMP, 451117, Umuakwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.351077699999999,7.5142014",
+      "google_place_id": "ChIJ0eJpg6jAQhARHswgCtlpA7c"
+    }
   },
   {
     "id": "1556",
@@ -189,7 +328,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.351077699999999,
+      "longitude": 7.5142014,
+      "viewport": {
+        "northeast": {
+          "lat": 5.352317479892721,
+          "lng": 7.515857929892722
+        },
+        "southwest": {
+          "lat": 5.349617820107277,
+          "lng": 7.513158270107279
+        }
+      },
+      "formatted_address": "9G27+CMP, 451117, Umuakwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.351077699999999,7.5142014",
+      "google_place_id": "ChIJ0eJpg6jAQhARHswgCtlpA7c"
+    }
   },
   {
     "id": "1557",
@@ -205,7 +361,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.2726388,
+      "longitude": 7.3225139,
+      "viewport": {
+        "northeast": {
+          "lat": 5.273979729892722,
+          "lng": 7.32383147989272
+        },
+        "southwest": {
+          "lat": 5.271280070107278,
+          "lng": 7.321131820107276
+        }
+      },
+      "formatted_address": "78FF+322, 451101, Owerrinta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2726388,7.3225139",
+      "google_place_id": "ChIJV4M719uTQhARxrX14Vi4doA"
+    }
   },
   {
     "id": "1558",
@@ -221,7 +394,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.346852,
+      "longitude": 7.547262,
+      "viewport": {
+        "northeast": {
+          "lat": 5.348211529892722,
+          "lng": 7.548629479892721
+        },
+        "southwest": {
+          "lat": 5.345511870107278,
+          "lng": 7.545929820107277
+        }
+      },
+      "formatted_address": "8GWW+PWR, 440111, Ohuhu Nsulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.346852,7.547262",
+      "google_place_id": "ChIJqVF575-4QhAR2NpjvNJtBqU"
+    }
   },
   {
     "id": "1559",
@@ -237,7 +427,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.346852,
+      "longitude": 7.547262,
+      "viewport": {
+        "northeast": {
+          "lat": 5.348211529892722,
+          "lng": 7.548629479892721
+        },
+        "southwest": {
+          "lat": 5.345511870107278,
+          "lng": 7.545929820107277
+        }
+      },
+      "formatted_address": "8GWW+PWR, 440111, Ohuhu Nsulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.346852,7.547262",
+      "google_place_id": "ChIJqVF575-4QhAR2NpjvNJtBqU"
+    }
   },
   {
     "id": "1560",
@@ -253,7 +460,8 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1561",
@@ -269,7 +477,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4344965,
+      "longitude": 7.4684662,
+      "viewport": {
+        "northeast": {
+          "lat": 5.435855079892722,
+          "lng": 7.469796179892721
+        },
+        "southwest": {
+          "lat": 5.433155420107278,
+          "lng": 7.467096520107277
+        }
+      },
+      "formatted_address": "CFM9+Q9W, 451111, Umu Ezeukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4344965,7.4684662",
+      "google_place_id": "ChIJZWUhUibCQhARQW4XONMlA3Q"
+    }
   },
   {
     "id": "1562",
@@ -285,7 +510,24 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.0859781,
+      "longitude": 7.357702600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.087383779892722,
+          "lng": 7.358986829892723
+        },
+        "southwest": {
+          "lat": 5.084684120107278,
+          "lng": 7.356287170107279
+        }
+      },
+      "formatted_address": "39P5+94C, Umu Mba 450104, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0859781,7.357702600000001",
+      "google_place_id": "ChIJG6iKBqSeQhARc5RF2C0cu04"
+    }
   },
   {
     "id": "1563",
@@ -301,6 +543,23 @@
     "local_government_id": "6",
     "local_government_name": "ISIALA NGWA NORTH",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4344965,
+      "longitude": 7.4684662,
+      "viewport": {
+        "northeast": {
+          "lat": 5.435855079892722,
+          "lng": 7.469796179892721
+        },
+        "southwest": {
+          "lat": 5.433155420107278,
+          "lng": 7.467096520107277
+        }
+      },
+      "formatted_address": "CFM9+Q9W, 451111, Umu Ezeukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4344965,7.4684662",
+      "google_place_id": "ChIJZWUhUibCQhARQW4XONMlA3Q"
+    }
   }
 ]

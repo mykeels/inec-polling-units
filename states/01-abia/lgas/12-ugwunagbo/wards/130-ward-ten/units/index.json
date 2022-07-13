@@ -13,7 +13,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.114527,
+      "longitude": 7.364861299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.115839279892722,
+          "lng": 7.366170179892721
+        },
+        "southwest": {
+          "lat": 5.113139620107278,
+          "lng": 7.363470520107278
+        }
+      },
+      "formatted_address": "Opposite Primary School, 3/4 Okigwe Rd, Aba 450102, Aba, Abia State, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.114527,7.364861299999999",
+      "google_place_id": "ChIJk_3v-USZQhARHqke5xK8zNQ"
+    }
   },
   {
     "id": "3109",
@@ -29,7 +46,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.388985799999999,
+      "longitude": 7.4984952,
+      "viewport": {
+        "northeast": {
+          "lat": 5.390333379892722,
+          "lng": 7.499819729892722
+        },
+        "southwest": {
+          "lat": 5.387633720107278,
+          "lng": 7.497120070107278
+        }
+      },
+      "formatted_address": "9FQX+H9X, 451117, Umuosu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.388985799999999,7.4984952",
+      "google_place_id": "ChIJcTmA7-HAQhARoPpjI9JGHco"
+    }
   },
   {
     "id": "3110",
@@ -45,7 +79,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4536273,
+      "longitude": 7.8831036,
+      "viewport": {
+        "northeast": {
+          "lat": 5.45498572989272,
+          "lng": 7.884488829892721
+        },
+        "southwest": {
+          "lat": 5.452286070107276,
+          "lng": 7.881789170107277
+        }
+      },
+      "formatted_address": "FV3M+F65, Isiama Ohafia Road, 442104, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4536273,7.8831036",
+      "google_place_id": "ChIJzeKXVG8xXRARUEWSrd6JB40"
+    }
   },
   {
     "id": "3111",
@@ -61,7 +112,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1157788,
+      "longitude": 7.368680899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.117039179892722,
+          "lng": 7.369937279892721
+        },
+        "southwest": {
+          "lat": 5.114339520107278,
+          "lng": 7.367237620107277
+        }
+      },
+      "formatted_address": "51, Milverton Rd, Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1157788,7.368680899999999",
+      "google_place_id": "ChIJO86Br0aZQhARtwH5CwRu-cQ"
+    }
   },
   {
     "id": "3112",
@@ -77,7 +145,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.3629012,
+      "longitude": 7.372156599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.364250079892721,
+          "lng": 7.373501829892721
+        },
+        "southwest": {
+          "lat": 5.361550420107277,
+          "lng": 7.370802170107277
+        }
+      },
+      "formatted_address": "997C+5V7, 451113, Obiakabia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3629012,7.372156599999999",
+      "google_place_id": "ChIJsVlydEfrQhAR9tY20Xjw7Co"
+    }
   },
   {
     "id": "3113",
@@ -93,7 +178,8 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "3114",
@@ -109,7 +195,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": -12.5954473,
+      "longitude": 27.944347,
+      "viewport": {
+        "northeast": {
+          "lat": -12.59406937010728,
+          "lng": 27.94568227989273
+        },
+        "southwest": {
+          "lat": -12.59676902989272,
+          "lng": 27.94298262010728
+        }
+      },
+      "formatted_address": "Plot 2041 Kitwe Road, Zambia",
+      "google_map_url": "https://maps.google.com?q=-12.5954473,27.944347",
+      "google_place_id": "ChIJOziyxbQAbRkRAhkQ5r9dlYQ"
+    }
   },
   {
     "id": "3115",
@@ -125,7 +228,24 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.388985799999999,
+      "longitude": 7.4984952,
+      "viewport": {
+        "northeast": {
+          "lat": 5.390333379892722,
+          "lng": 7.499819729892722
+        },
+        "southwest": {
+          "lat": 5.387633720107278,
+          "lng": 7.497120070107278
+        }
+      },
+      "formatted_address": "9FQX+H9X, 451117, Umuosu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.388985799999999,7.4984952",
+      "google_place_id": "ChIJcTmA7-HAQhARoPpjI9JGHco"
+    }
   },
   {
     "id": "3116",
@@ -141,6 +261,7 @@
     "local_government_id": "12",
     "local_government_name": "UGWUNAGBO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   }
 ]

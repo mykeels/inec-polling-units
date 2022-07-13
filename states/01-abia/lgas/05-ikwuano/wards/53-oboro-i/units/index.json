@@ -13,7 +13,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4315011,
+      "longitude": 7.5699103,
+      "viewport": {
+        "northeast": {
+          "lat": 5.432816879892722,
+          "lng": 7.571185929892722
+        },
+        "southwest": {
+          "lat": 5.430117220107278,
+          "lng": 7.568486270107278
+        }
+      },
+      "formatted_address": "Community, 440107, Ndoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4315011,7.5699103",
+      "google_place_id": "ChIJC6GopfHFQhAR9PvLPlC9Pt8"
+    }
   },
   {
     "id": "1463",
@@ -29,7 +46,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4516436,
+      "longitude": 7.562589900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.453214679892721,
+          "lng": 7.563736929892722
+        },
+        "southwest": {
+          "lat": 5.450515020107277,
+          "lng": 7.561037270107278
+        }
+      },
+      "formatted_address": "FH27+M24, 440113, Amawom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4516436,7.562589900000001",
+      "google_place_id": "ChIJA_Z5-EnEQhARLzz17zlLk-8"
+    }
   },
   {
     "id": "1464",
@@ -45,7 +79,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.480959599999999,
+      "longitude": 7.546951200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.482437629892722,
+          "lng": 7.548128529892721
+        },
+        "southwest": {
+          "lat": 5.479737970107278,
+          "lng": 7.545428870107277
+        }
+      },
+      "formatted_address": "FGJW+9QP, Umudike, local, government area 440109, Umuahia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480959599999999,7.546951200000001",
+      "google_place_id": "ChIJAZlHnYbEQhARrmU3ykAQbyk"
+    }
   },
   {
     "id": "1465",
@@ -61,7 +112,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4516436,
+      "longitude": 7.562589900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.453214679892721,
+          "lng": 7.563736929892722
+        },
+        "southwest": {
+          "lat": 5.450515020107277,
+          "lng": 7.561037270107278
+        }
+      },
+      "formatted_address": "FH27+M24, 440113, Amawom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4516436,7.562589900000001",
+      "google_place_id": "ChIJA_Z5-EnEQhARLzz17zlLk-8"
+    }
   },
   {
     "id": "1466",
@@ -77,7 +145,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.480959599999999,
+      "longitude": 7.546951200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.482210329892721,
+          "lng": 7.547897479892723
+        },
+        "southwest": {
+          "lat": 5.479510670107278,
+          "lng": 7.545197820107279
+        }
+      },
+      "formatted_address": "Umuariaga Village, Umuahia - Ikot Ekpene Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480959599999999,7.546951200000001",
+      "google_place_id": "ChIJX8GXtaPFQhARqpvOyvOxVJY"
+    }
   },
   {
     "id": "1467",
@@ -93,7 +178,8 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1468",
@@ -109,7 +195,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.480959599999999,
+      "longitude": 7.546951200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.482210329892721,
+          "lng": 7.547897479892723
+        },
+        "southwest": {
+          "lat": 5.479510670107278,
+          "lng": 7.545197820107279
+        }
+      },
+      "formatted_address": "Umuariaga Village, Umuahia - Ikot Ekpene Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480959599999999,7.546951200000001",
+      "google_place_id": "ChIJX8GXtaPFQhARqpvOyvOxVJY"
+    }
   },
   {
     "id": "1469",
@@ -125,7 +228,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4516436,
+      "longitude": 7.562589900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.453214679892721,
+          "lng": 7.563736929892722
+        },
+        "southwest": {
+          "lat": 5.450515020107277,
+          "lng": 7.561037270107278
+        }
+      },
+      "formatted_address": "FH27+M24, 440113, Amawom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4516436,7.562589900000001",
+      "google_place_id": "ChIJA_Z5-EnEQhARLzz17zlLk-8"
+    }
   },
   {
     "id": "1470",
@@ -141,7 +261,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4516436,
+      "longitude": 7.562589900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.453214679892721,
+          "lng": 7.563736929892722
+        },
+        "southwest": {
+          "lat": 5.450515020107277,
+          "lng": 7.561037270107278
+        }
+      },
+      "formatted_address": "FH27+M24, 440113, Amawom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4516436,7.562589900000001",
+      "google_place_id": "ChIJA_Z5-EnEQhARLzz17zlLk-8"
+    }
   },
   {
     "id": "1471",
@@ -157,7 +294,8 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "1472",
@@ -173,7 +311,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4516436,
+      "longitude": 7.562589900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.453214679892721,
+          "lng": 7.563736929892722
+        },
+        "southwest": {
+          "lat": 5.450515020107277,
+          "lng": 7.561037270107278
+        }
+      },
+      "formatted_address": "FH27+M24, 440113, Amawom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4516436,7.562589900000001",
+      "google_place_id": "ChIJA_Z5-EnEQhARLzz17zlLk-8"
+    }
   },
   {
     "id": "1473",
@@ -189,7 +344,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.4315011,
+      "longitude": 7.5699103,
+      "viewport": {
+        "northeast": {
+          "lat": 5.432816879892722,
+          "lng": 7.571185929892722
+        },
+        "southwest": {
+          "lat": 5.430117220107278,
+          "lng": 7.568486270107278
+        }
+      },
+      "formatted_address": "Community, 440107, Ndoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4315011,7.5699103",
+      "google_place_id": "ChIJC6GopfHFQhAR9PvLPlC9Pt8"
+    }
   },
   {
     "id": "1474",
@@ -205,7 +377,24 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.480959599999999,
+      "longitude": 7.546951200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.482210329892721,
+          "lng": 7.547897479892723
+        },
+        "southwest": {
+          "lat": 5.479510670107278,
+          "lng": 7.545197820107279
+        }
+      },
+      "formatted_address": "Umuariaga Village, Umuahia - Ikot Ekpene Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.480959599999999,7.546951200000001",
+      "google_place_id": "ChIJX8GXtaPFQhARqpvOyvOxVJY"
+    }
   },
   {
     "id": "1475",
@@ -221,6 +410,7 @@
     "local_government_id": "5",
     "local_government_name": "IKWUANO",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   }
 ]

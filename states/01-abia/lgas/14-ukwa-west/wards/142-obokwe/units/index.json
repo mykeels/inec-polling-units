@@ -13,7 +13,24 @@
     "local_government_id": "14",
     "local_government_name": "UKWA  WEST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.0658844,
+      "longitude": 7.2706807,
+      "viewport": {
+        "northeast": {
+          "lat": 5.0812405,
+          "lng": 7.2844305
+        },
+        "southwest": {
+          "lat": 5.0412531,
+          "lng": 7.251376
+        }
+      },
+      "formatted_address": "Obokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0658844,7.2706807",
+      "google_place_id": "ChIJs5VgeNWcQhAROGgH4z4sKr4"
+    }
   },
   {
     "id": "3215",
@@ -29,7 +46,24 @@
     "local_government_id": "14",
     "local_government_name": "UKWA  WEST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.0658844,
+      "longitude": 7.2706807,
+      "viewport": {
+        "northeast": {
+          "lat": 5.0812405,
+          "lng": 7.2844305
+        },
+        "southwest": {
+          "lat": 5.0412531,
+          "lng": 7.251376
+        }
+      },
+      "formatted_address": "Obokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0658844,7.2706807",
+      "google_place_id": "ChIJs5VgeNWcQhAROGgH4z4sKr4"
+    }
   },
   {
     "id": "3216",
@@ -45,7 +79,24 @@
     "local_government_id": "14",
     "local_government_name": "UKWA  WEST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.0658844,
+      "longitude": 7.2706807,
+      "viewport": {
+        "northeast": {
+          "lat": 5.0812405,
+          "lng": 7.2844305
+        },
+        "southwest": {
+          "lat": 5.0412531,
+          "lng": 7.251376
+        }
+      },
+      "formatted_address": "Obokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0658844,7.2706807",
+      "google_place_id": "ChIJs5VgeNWcQhAROGgH4z4sKr4"
+    }
   },
   {
     "id": "3217",
@@ -61,7 +112,24 @@
     "local_government_id": "14",
     "local_government_name": "UKWA  WEST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 4.9411119,
+      "longitude": 7.260455899999998,
+      "viewport": {
+        "northeast": {
+          "lat": 4.942401679892722,
+          "lng": 7.261630879892722
+        },
+        "southwest": {
+          "lat": 4.939702020107278,
+          "lng": 7.258931220107278
+        }
+      },
+      "formatted_address": "W7R6+C5W, Asa road, 452113, Obehie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9411119,7.260455899999998",
+      "google_place_id": "ChIJp5mqXLQpaBARsQr3VEa-GtE"
+    }
   },
   {
     "id": "3218",
@@ -77,7 +145,24 @@
     "local_government_id": "14",
     "local_government_name": "UKWA  WEST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.0617725,
+      "longitude": 7.2629257,
+      "viewport": {
+        "northeast": {
+          "lat": 5.062603629892721,
+          "lng": 7.263881329892723
+        },
+        "southwest": {
+          "lat": 5.059903970107277,
+          "lng": 7.261181670107279
+        }
+      },
+      "formatted_address": "Obokwe Secondary School, 452114, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0617725,7.2629257",
+      "google_place_id": "ChIJv3OafSqDQhARhe-2pSVIlU0"
+    }
   },
   {
     "id": "3219",
@@ -93,6 +178,7 @@
     "local_government_id": "14",
     "local_government_name": "UKWA  WEST",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   }
 ]
