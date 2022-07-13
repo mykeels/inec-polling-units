@@ -13,7 +13,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7432",
@@ -29,7 +30,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.112222299999999,
+      "longitude": 12.048037,
+      "viewport": {
+        "northeast": {
+          "lat": 8.113540629892722,
+          "lng": 12.04938682989272
+        },
+        "southwest": {
+          "lat": 8.110840970107278,
+          "lng": 12.04668717010728
+        }
+      },
+      "formatted_address": "641118, Tungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.112222299999999,12.048037",
+      "google_place_id": "ChIJB9ZXJf-J-RARLqYNzVZosZg"
+    }
   },
   {
     "id": "7433",
@@ -45,7 +63,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7434",
@@ -61,7 +80,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7435",
@@ -77,6 +97,23 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.112222299999999,
+      "longitude": 12.048037,
+      "viewport": {
+        "northeast": {
+          "lat": 8.113540629892722,
+          "lng": 12.04938682989272
+        },
+        "southwest": {
+          "lat": 8.110840970107278,
+          "lng": 12.04668717010728
+        }
+      },
+      "formatted_address": "641118, Tungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.112222299999999,12.048037",
+      "google_place_id": "ChIJB9ZXJf-J-RARLqYNzVZosZg"
+    }
   }
 ]

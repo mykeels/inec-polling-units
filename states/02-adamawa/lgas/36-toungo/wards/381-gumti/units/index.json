@@ -13,7 +13,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7399",
@@ -29,7 +30,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7400",
@@ -45,7 +47,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.112222299999999,
+      "longitude": 12.048037,
+      "viewport": {
+        "northeast": {
+          "lat": 8.113540629892722,
+          "lng": 12.04938682989272
+        },
+        "southwest": {
+          "lat": 8.110840970107278,
+          "lng": 12.04668717010728
+        }
+      },
+      "formatted_address": "641118, Tungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.112222299999999,12.048037",
+      "google_place_id": "ChIJB9ZXJf-J-RARLqYNzVZosZg"
+    }
   },
   {
     "id": "7401",
@@ -61,7 +80,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7402",
@@ -77,7 +97,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7403",
@@ -93,7 +114,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 7.542400000000001,
+      "longitude": 11.6157773,
+      "viewport": {
+        "northeast": {
+          "lat": 7.543749829892723,
+          "lng": 11.61712712989272
+        },
+        "southwest": {
+          "lat": 7.541050170107279,
+          "lng": 11.61442747010727
+        }
+      },
+      "formatted_address": "GJR8+X86, Gashaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.542400000000001,11.6157773",
+      "google_place_id": "ChIJ53PU8WVk9xARUoVQq_dpcsc"
+    }
   },
   {
     "id": "7404",
@@ -109,7 +147,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.194531699999999,
+      "longitude": 12.0026815,
+      "viewport": {
+        "northeast": {
+          "lat": 8.195881529892718,
+          "lng": 12.00403132989272
+        },
+        "southwest": {
+          "lat": 8.193181870107274,
+          "lng": 12.00133167010728
+        }
+      },
+      "formatted_address": "52V3+R37, 641117, Amadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.194531699999999,12.0026815",
+      "google_place_id": "ChIJ8Upz8L-G-RARMzUikJtpKhY"
+    }
   },
   {
     "id": "7405",
@@ -125,7 +180,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 7.542400000000001,
+      "longitude": 11.6157773,
+      "viewport": {
+        "northeast": {
+          "lat": 7.543749829892723,
+          "lng": 11.61712712989272
+        },
+        "southwest": {
+          "lat": 7.541050170107279,
+          "lng": 11.61442747010727
+        }
+      },
+      "formatted_address": "GJR8+X86, Gashaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.542400000000001,11.6157773",
+      "google_place_id": "ChIJ53PU8WVk9xARUoVQq_dpcsc"
+    }
   },
   {
     "id": "7406",
@@ -141,6 +213,7 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

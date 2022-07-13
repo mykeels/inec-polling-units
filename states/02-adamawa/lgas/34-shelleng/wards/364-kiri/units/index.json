@@ -13,7 +13,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 42.9092335,
+      "longitude": -81.42009039999999,
+      "viewport": {
+        "northeast": {
+          "lat": 42.91061857989272,
+          "lng": -81.41874747010728
+        },
+        "southwest": {
+          "lat": 42.90791892010728,
+          "lng": -81.42144712989271
+        }
+      },
+      "formatted_address": "Delaware, ON N0L 1E0, Canada",
+      "google_map_url": "https://maps.google.com?q=42.9092335,-81.42009039999999",
+      "google_place_id": "ChIJdQrAUTb5LogRJB5OPhscWVM"
+    }
   },
   {
     "id": "7119",
@@ -29,7 +46,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "7120",
@@ -45,7 +79,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2250233,
+      "longitude": 12.4216467,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22638852989272,
+          "lng": 12.42309667989272
+        },
+        "southwest": {
+          "lat": 9.223688870107276,
+          "lng": 12.42039702010728
+        }
+      },
+      "formatted_address": "6CGC+2M2, Barracks Road, Bargare 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2250233,12.4216467",
+      "google_place_id": "ChIJNYG7YkQT_BARaY9gMrh3BaU"
+    }
   },
   {
     "id": "7121",
@@ -61,7 +112,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
   },
   {
     "id": "7122",
@@ -77,7 +145,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7123",
@@ -93,7 +162,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7124",
@@ -109,7 +179,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 11.8264673,
+      "longitude": 13.123976,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82766587989272,
+          "lng": 13.12556132989272
+        },
+        "southwest": {
+          "lat": 11.82496622010728,
+          "lng": 13.12286167010728
+        }
+      },
+      "formatted_address": "R4GF+HHQ, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8264673,13.123976",
+      "google_place_id": "ChIJAYdpgF6fBBERtOvHm0xdy0Y"
+    }
   },
   {
     "id": "7125",
@@ -125,7 +212,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.319409499999999,
+      "longitude": 12.44379,
+      "viewport": {
+        "northeast": {
+          "lat": 9.320700229892722,
+          "lng": 12.44508997989272
+        },
+        "southwest": {
+          "lat": 9.318000570107278,
+          "lng": 12.44239032010728
+        }
+      },
+      "formatted_address": "8C9V+QG7, 652101, Damare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.319409499999999,12.44379",
+      "google_place_id": "ChIJVVVVValq_BARJvoCfTnhgZo"
+    }
   },
   {
     "id": "7126",
@@ -141,6 +245,23 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2169433,
+      "longitude": 12.0611657,
+      "viewport": {
+        "northeast": {
+          "lat": 10.21827992989272,
+          "lng": 12.06254472989272
+        },
+        "southwest": {
+          "lat": 10.21558027010728,
+          "lng": 12.05984507010728
+        }
+      },
+      "formatted_address": "Shani No 26 Shani Central Ward Ungwan Abuja, opposite Pol, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2169433,12.0611657",
+      "google_place_id": "ChIJY4AMHAUH_hARptc4vCUJcco"
+    }
   }
 ]

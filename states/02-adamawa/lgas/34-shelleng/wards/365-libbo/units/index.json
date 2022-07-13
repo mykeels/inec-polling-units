@@ -13,7 +13,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7128",
@@ -29,7 +30,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.367307000000002,
+      "longitude": 12.549968,
+      "viewport": {
+        "northeast": {
+          "lat": 9.368657079892724,
+          "lng": 12.55131302989272
+        },
+        "southwest": {
+          "lat": 9.36595742010728,
+          "lng": 12.54861337010728
+        }
+      },
+      "formatted_address": "Modibbo Adama University Yola, 652105, Girei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.367307000000002,12.549968",
+      "google_place_id": "ChIJpUVePRlB_BARlDFN7R2GX5c"
+    }
   },
   {
     "id": "7129",
@@ -45,7 +63,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2085381,
+      "longitude": 12.4651803,
+      "viewport": {
+        "northeast": {
+          "lat": 9.209901479892721,
+          "lng": 12.46682327989272
+        },
+        "southwest": {
+          "lat": 9.207201820107278,
+          "lng": 12.46412362010728
+        }
+      },
+      "formatted_address": "Yola 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2085381,12.4651803",
+      "google_place_id": "ChIJhxXKu8pt_BARjxYST_BqZqA"
+    }
   },
   {
     "id": "7130",
@@ -61,7 +96,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.707227699999999,
+      "longitude": 12.174261,
+      "viewport": {
+        "northeast": {
+          "lat": 9.708575979892721,
+          "lng": 12.17563242989272
+        },
+        "southwest": {
+          "lat": 9.705876320107278,
+          "lng": 12.17293277010728
+        }
+      },
+      "formatted_address": "Libbo Primary School, 643117, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.707227699999999,12.174261",
+      "google_place_id": "ChIJAwE-2mfT_RARi3Fk_T3uQKA"
+    }
   },
   {
     "id": "7131",
@@ -77,7 +129,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7132",
@@ -93,7 +146,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6893428,
+      "longitude": 12.0984317,
+      "viewport": {
+        "northeast": {
+          "lat": 9.690633429892722,
+          "lng": 12.09965207989272
+        },
+        "southwest": {
+          "lat": 9.687933770107279,
+          "lng": 12.09695242010728
+        }
+      },
+      "formatted_address": "Wuro Yanka Primary School, 643117, Wuroyanka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6893428,12.0984317",
+      "google_place_id": "ChIJEwpuWjTV_RARZon6rgE9aQM"
+    }
   },
   {
     "id": "7133",
@@ -109,7 +179,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2967943,
+      "longitude": 12.2347654,
+      "viewport": {
+        "northeast": {
+          "lat": 9.29838632989272,
+          "lng": 12.23621962989272
+        },
+        "southwest": {
+          "lat": 9.295686670107276,
+          "lng": 12.23351997010728
+        }
+      },
+      "formatted_address": "Wuro Yanka Primary School, 640284, Ngurore, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2967943,12.2347654",
+      "google_place_id": "ChIJ4w5rCskZ_BARw1A4zowP2TU"
+    }
   },
   {
     "id": "7134",
@@ -125,7 +212,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6893428,
+      "longitude": 12.0984317,
+      "viewport": {
+        "northeast": {
+          "lat": 9.690633429892722,
+          "lng": 12.09965207989272
+        },
+        "southwest": {
+          "lat": 9.687933770107279,
+          "lng": 12.09695242010728
+        }
+      },
+      "formatted_address": "Wuro Yanka Primary School, 643117, Wuroyanka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6893428,12.0984317",
+      "google_place_id": "ChIJEwpuWjTV_RARZon6rgE9aQM"
+    }
   },
   {
     "id": "7135",
@@ -141,7 +245,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7136",
@@ -157,7 +262,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7137",
@@ -173,7 +279,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.367307000000002,
+      "longitude": 12.549968,
+      "viewport": {
+        "northeast": {
+          "lat": 9.368657079892724,
+          "lng": 12.55131302989272
+        },
+        "southwest": {
+          "lat": 9.36595742010728,
+          "lng": 12.54861337010728
+        }
+      },
+      "formatted_address": "Modibbo Adama University Yola, 652105, Girei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.367307000000002,12.549968",
+      "google_place_id": "ChIJpUVePRlB_BARlDFN7R2GX5c"
+    }
   },
   {
     "id": "7138",
@@ -189,7 +312,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7139",
@@ -205,7 +329,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.265938,
+      "longitude": 12.410822,
+      "viewport": {
+        "northeast": {
+          "lat": 9.26728897989272,
+          "lng": 12.41217227989272
+        },
+        "southwest": {
+          "lat": 9.264589320107277,
+          "lng": 12.40947262010728
+        }
+      },
+      "formatted_address": "Opposite Custom Office, Zone 3, Wuro Jabbe, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.265938,12.410822",
+      "google_place_id": "ChIJiZb53esU_BARWbgSRRkZ240"
+    }
   },
   {
     "id": "7140",
@@ -221,7 +362,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6893428,
+      "longitude": 12.0984317,
+      "viewport": {
+        "northeast": {
+          "lat": 9.690633429892722,
+          "lng": 12.09965207989272
+        },
+        "southwest": {
+          "lat": 9.687933770107279,
+          "lng": 12.09695242010728
+        }
+      },
+      "formatted_address": "Wuro Yanka Primary School, 643117, Wuroyanka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6893428,12.0984317",
+      "google_place_id": "ChIJEwpuWjTV_RARZon6rgE9aQM"
+    }
   },
   {
     "id": "7141",
@@ -237,6 +395,23 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6893428,
+      "longitude": 12.0984317,
+      "viewport": {
+        "northeast": {
+          "lat": 9.690633429892722,
+          "lng": 12.09965207989272
+        },
+        "southwest": {
+          "lat": 9.687933770107279,
+          "lng": 12.09695242010728
+        }
+      },
+      "formatted_address": "Wuro Yanka Primary School, 643117, Wuroyanka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6893428,12.0984317",
+      "google_place_id": "ChIJEwpuWjTV_RARZon6rgE9aQM"
+    }
   }
 ]

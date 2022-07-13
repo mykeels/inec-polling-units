@@ -13,7 +13,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7419",
@@ -29,7 +30,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.112222299999999,
+      "longitude": 12.048037,
+      "viewport": {
+        "northeast": {
+          "lat": 8.113540629892722,
+          "lng": 12.04938682989272
+        },
+        "southwest": {
+          "lat": 8.110840970107278,
+          "lng": 12.04668717010728
+        }
+      },
+      "formatted_address": "641118, Tungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.112222299999999,12.048037",
+      "google_place_id": "ChIJB9ZXJf-J-RARLqYNzVZosZg"
+    }
   },
   {
     "id": "7420",
@@ -45,7 +63,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.450286,
+      "longitude": 11.632719,
+      "viewport": {
+        "northeast": {
+          "lat": 8.45163147989272,
+          "lng": 11.63420617989272
+        },
+        "southwest": {
+          "lat": 8.448931820107276,
+          "lng": 11.63150652010728
+        }
+      },
+      "formatted_address": "FJ2M+439, 672001, Gandole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.450286,11.632719",
+      "google_place_id": "ChIJD8IaLc8N-RARfQTlTRn51Jw"
+    }
   },
   {
     "id": "7421",
@@ -61,7 +96,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.571254099999999,
+      "longitude": 11.8844785,
+      "viewport": {
+        "northeast": {
+          "lat": 9.572622929892722,
+          "lng": 11.88585822989272
+        },
+        "southwest": {
+          "lat": 9.569923270107278,
+          "lng": 11.88315857010728
+        }
+      },
+      "formatted_address": "HVCM+FQW, 642104, Giwano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.571254099999999,11.8844785",
+      "google_place_id": "ChIJh4ZR4peP_hARadqdWahFpxM"
+    }
   },
   {
     "id": "7422",
@@ -77,7 +129,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7423",
@@ -93,7 +146,24 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.194531699999999,
+      "longitude": 12.0026815,
+      "viewport": {
+        "northeast": {
+          "lat": 8.195881529892718,
+          "lng": 12.00403132989272
+        },
+        "southwest": {
+          "lat": 8.193181870107274,
+          "lng": 12.00133167010728
+        }
+      },
+      "formatted_address": "52V3+R37, 641117, Amadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.194531699999999,12.0026815",
+      "google_place_id": "ChIJ8Upz8L-G-RARMzUikJtpKhY"
+    }
   },
   {
     "id": "7424",
@@ -109,7 +179,8 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7425",
@@ -125,6 +196,23 @@
     "local_government_id": "36",
     "local_government_name": "TOUNGO",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.194531699999999,
+      "longitude": 12.0026815,
+      "viewport": {
+        "northeast": {
+          "lat": 8.195881529892718,
+          "lng": 12.00403132989272
+        },
+        "southwest": {
+          "lat": 8.193181870107274,
+          "lng": 12.00133167010728
+        }
+      },
+      "formatted_address": "52V3+R37, 641117, Amadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.194531699999999,12.0026815",
+      "google_place_id": "ChIJ8Upz8L-G-RARMzUikJtpKhY"
+    }
   }
 ]

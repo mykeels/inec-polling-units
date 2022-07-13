@@ -13,7 +13,8 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7857",
@@ -29,7 +30,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.227088000000002,
+      "longitude": 12.5819796,
+      "viewport": {
+        "northeast": {
+          "lat": 9.228277479892723,
+          "lng": 12.58320052989272
+        },
+        "southwest": {
+          "lat": 9.22557782010728,
+          "lng": 12.58050087010728
+        }
+      },
+      "formatted_address": "6HGJ+RQQ, 640230, Fufore, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.227088000000002,12.5819796",
+      "google_place_id": "ChIJpQjCri5v_BARQjVKZqA8vcg"
+    }
   },
   {
     "id": "7858",
@@ -45,7 +63,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.200304,
+      "longitude": 12.5056547,
+      "viewport": {
+        "northeast": {
+          "lat": 9.20167297989272,
+          "lng": 12.50701792989272
+        },
+        "southwest": {
+          "lat": 9.198973320107276,
+          "lng": 12.50431827010728
+        }
+      },
+      "formatted_address": "6G24+47C, Abuja Road, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.200304,12.5056547",
+      "google_place_id": "ChIJV2YQy0ls_BARfhbL78uvDVI"
+    }
   },
   {
     "id": "7859",
@@ -61,7 +96,8 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7860",
@@ -77,7 +113,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2134083,
+      "longitude": 12.4901821,
+      "viewport": {
+        "northeast": {
+          "lat": 9.214666929892722,
+          "lng": 12.49154007989272
+        },
+        "southwest": {
+          "lat": 9.211967270107278,
+          "lng": 12.48884042010728
+        }
+      },
+      "formatted_address": "6F7R+937, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2134083,12.4901821",
+      "google_place_id": "ChIJZwkld9ht_BARcnBhywJ5Yb4"
+    }
   },
   {
     "id": "7861",
@@ -93,7 +146,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.207548700000002,
+      "longitude": 12.4900712,
+      "viewport": {
+        "northeast": {
+          "lat": 9.209031379892721,
+          "lng": 12.49143647989272
+        },
+        "southwest": {
+          "lat": 9.206331720107277,
+          "lng": 12.48873682010728
+        }
+      },
+      "formatted_address": "6F5R+226, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.207548700000002,12.4900712",
+      "google_place_id": "ChIJ_____09s_BARWTLRYw067wA"
+    }
   },
   {
     "id": "7862",
@@ -109,7 +179,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2134083,
+      "longitude": 12.4901821,
+      "viewport": {
+        "northeast": {
+          "lat": 9.214666929892722,
+          "lng": 12.49154007989272
+        },
+        "southwest": {
+          "lat": 9.211967270107278,
+          "lng": 12.48884042010728
+        }
+      },
+      "formatted_address": "6F7R+937, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2134083,12.4901821",
+      "google_place_id": "ChIJZwkld9ht_BARcnBhywJ5Yb4"
+    }
   },
   {
     "id": "7863",
@@ -125,7 +212,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.198957,
+      "longitude": 12.49912,
+      "viewport": {
+        "northeast": {
+          "lat": 9.2087106,
+          "lng": 12.5162993
+        },
+        "southwest": {
+          "lat": 9.1906938,
+          "lng": 12.4916363
+        }
+      },
+      "formatted_address": "Wuro Hausa, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.198957,12.49912",
+      "google_place_id": "ChIJ39Ipkk5s_BARmHhzKrcqP0k"
+    }
   },
   {
     "id": "7864",
@@ -141,7 +245,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7865",
@@ -157,7 +278,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7866",
@@ -173,7 +311,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7867",
@@ -189,7 +344,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2057087,
+      "longitude": 12.5097274,
+      "viewport": {
+        "northeast": {
+          "lat": 9.224240199999999,
+          "lng": 12.5377054
+        },
+        "southwest": {
+          "lat": 9.1855238,
+          "lng": 12.4910824
+        }
+      },
+      "formatted_address": "Adarawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2057087,12.5097274",
+      "google_place_id": "ChIJD-tUTzps_BARCfYpy0eXd9w"
+    }
   },
   {
     "id": "7868",
@@ -205,7 +377,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2057087,
+      "longitude": 12.5097274,
+      "viewport": {
+        "northeast": {
+          "lat": 9.224240199999999,
+          "lng": 12.5377054
+        },
+        "southwest": {
+          "lat": 9.1855238,
+          "lng": 12.4910824
+        }
+      },
+      "formatted_address": "Adarawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2057087,12.5097274",
+      "google_place_id": "ChIJD-tUTzps_BARCfYpy0eXd9w"
+    }
   },
   {
     "id": "7869",
@@ -221,7 +410,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2057087,
+      "longitude": 12.5097274,
+      "viewport": {
+        "northeast": {
+          "lat": 9.224240199999999,
+          "lng": 12.5377054
+        },
+        "southwest": {
+          "lat": 9.1855238,
+          "lng": 12.4910824
+        }
+      },
+      "formatted_address": "Adarawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2057087,12.5097274",
+      "google_place_id": "ChIJD-tUTzps_BARCfYpy0eXd9w"
+    }
   },
   {
     "id": "7870",
@@ -237,7 +443,8 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7871",
@@ -253,7 +460,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2057087,
+      "longitude": 12.5097274,
+      "viewport": {
+        "northeast": {
+          "lat": 9.224240199999999,
+          "lng": 12.5377054
+        },
+        "southwest": {
+          "lat": 9.1855238,
+          "lng": 12.4910824
+        }
+      },
+      "formatted_address": "Adarawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2057087,12.5097274",
+      "google_place_id": "ChIJD-tUTzps_BARCfYpy0eXd9w"
+    }
   },
   {
     "id": "7872",
@@ -269,7 +493,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2057087,
+      "longitude": 12.5097274,
+      "viewport": {
+        "northeast": {
+          "lat": 9.224240199999999,
+          "lng": 12.5377054
+        },
+        "southwest": {
+          "lat": 9.1855238,
+          "lng": 12.4910824
+        }
+      },
+      "formatted_address": "Adarawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2057087,12.5097274",
+      "google_place_id": "ChIJD-tUTzps_BARCfYpy0eXd9w"
+    }
   },
   {
     "id": "7873",
@@ -285,7 +526,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2134083,
+      "longitude": 12.4901821,
+      "viewport": {
+        "northeast": {
+          "lat": 9.214666929892722,
+          "lng": 12.49154007989272
+        },
+        "southwest": {
+          "lat": 9.211967270107278,
+          "lng": 12.48884042010728
+        }
+      },
+      "formatted_address": "6F7R+937, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2134083,12.4901821",
+      "google_place_id": "ChIJZwkld9ht_BARcnBhywJ5Yb4"
+    }
   },
   {
     "id": "7874",
@@ -301,7 +559,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7875",
@@ -317,7 +592,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7876",
@@ -333,7 +625,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7877",
@@ -349,7 +658,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7878",
@@ -365,7 +691,24 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   },
   {
     "id": "7879",
@@ -381,6 +724,23 @@
     "local_government_id": "38",
     "local_government_name": "YOLA SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.205968200000001,
+      "longitude": 12.5012483,
+      "viewport": {
+        "northeast": {
+          "lat": 9.207345279892722,
+          "lng": 12.50269467989272
+        },
+        "southwest": {
+          "lat": 9.204645620107279,
+          "lng": 12.49999502010728
+        }
+      },
+      "formatted_address": "6G42+9FQ, Wuro Hausa 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.205968200000001,12.5012483",
+      "google_place_id": "ChIJN8siARRt_BARxV0vk2788Rs"
+    }
   }
 ]

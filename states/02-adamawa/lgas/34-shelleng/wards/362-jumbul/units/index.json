@@ -13,7 +13,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.0285665,
+      "longitude": 11.8127333,
+      "viewport": {
+        "northeast": {
+          "lat": 9.029911029892721,
+          "lng": 11.81407207989272
+        },
+        "southwest": {
+          "lat": 9.027211370107278,
+          "lng": 11.81137242010728
+        }
+      },
+      "formatted_address": "2RH7+C3H, 642121, Bisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0285665,11.8127333",
+      "google_place_id": "ChIJYd3iVm6z_hARD2ivi7wCeWA"
+    }
   },
   {
     "id": "7096",
@@ -29,7 +46,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.788223000000002,
+      "longitude": 11.87389,
+      "viewport": {
+        "northeast": {
+          "lat": 9.789724679892725,
+          "lng": 11.87484917989272
+        },
+        "southwest": {
+          "lat": 9.787025020107281,
+          "lng": 11.87214952010728
+        }
+      },
+      "formatted_address": "QVQF+7HJ, 643111, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.788223000000002,11.87389",
+      "google_place_id": "ChIJT7E7OaRk_hARzVuTEr0mDTo"
+    }
   },
   {
     "id": "7097",
@@ -45,7 +79,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2279977,
+      "longitude": 12.5133453,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22941997989272,
+          "lng": 12.51485557989272
+        },
+        "southwest": {
+          "lat": 9.226720320107276,
+          "lng": 12.51215592010728
+        }
+      },
+      "formatted_address": "6GH7+5C4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2279977,12.5133453",
+      "google_place_id": "ChIJG9_hkQ5s_BARkj8ZrtKsVQM"
+    }
   },
   {
     "id": "7098",
@@ -61,7 +112,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 50.8599201,
+      "longitude": -0.1627486,
+      "viewport": {
+        "northeast": {
+          "lat": 50.86137427989271,
+          "lng": -0.1614081201072778
+        },
+        "southwest": {
+          "lat": 50.85867462010727,
+          "lng": -0.1641077798927222
+        }
+      },
+      "formatted_address": "Bankside, Brighton BN1 5GN, United Kingdom",
+      "google_map_url": "https://maps.google.com?q=50.8599201,-0.1627486",
+      "google_place_id": "ChIJG08yueyPdUgRS6kE7l9l4qg"
+    }
   },
   {
     "id": "7099",
@@ -77,7 +145,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7100",
@@ -93,7 +162,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7101",
@@ -109,7 +179,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.626014,
+      "longitude": 13.385562,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62745167989272,
+          "lng": 13.38695952989272
+        },
+        "southwest": {
+          "lat": 10.62475202010728,
+          "lng": 13.38425987010728
+        }
+      },
+      "formatted_address": "651109, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.626014,13.385562",
+      "google_place_id": "ChIJV9k1TRS3AhER3Dljf5Dr0Bw"
+    }
   },
   {
     "id": "7102",
@@ -125,7 +212,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7103",
@@ -141,7 +229,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.894943699999999,
+      "longitude": 12.0059226,
+      "viewport": {
+        "northeast": {
+          "lat": 9.896327679892721,
+          "lng": 12.00726362989272
+        },
+        "southwest": {
+          "lat": 9.893628020107277,
+          "lng": 12.00456397010728
+        }
+      },
+      "formatted_address": "V2W4+292, 643121, Shellen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.894943699999999,12.0059226",
+      "google_place_id": "ChIJnSgJ_Ex3_hARVC3SAFBc08c"
+    }
   },
   {
     "id": "7104",
@@ -157,7 +262,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 6.5834836,
+      "longitude": 3.3823364,
+      "viewport": {
+        "northeast": {
+          "lat": 6.584859779892722,
+          "lng": 3.383649229892722
+        },
+        "southwest": {
+          "lat": 6.582160120107278,
+          "lng": 3.380949570107277
+        }
+      },
+      "formatted_address": "39 Alh. Amoo St, Ojota 105102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5834836,3.3823364",
+      "google_place_id": "ChIJa7OB0IuSOxARc3yxmpl_Zwo"
+    }
   },
   {
     "id": "7105",
@@ -173,6 +295,23 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.6392682,
+      "longitude": -79.5489458,
+      "viewport": {
+        "northeast": {
+          "lat": 43.64060682989273,
+          "lng": -79.54749332010728
+        },
+        "southwest": {
+          "lat": 43.63790717010728,
+          "lng": -79.55019297989273
+        }
+      },
+      "formatted_address": "3962 Bloor St W, Toronto, ON M9B 1M3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6392682,-79.5489458",
+      "google_place_id": "ChIJw5MvGmg3K4gRyhDYJVRMv6k"
+    }
   }
 ]
