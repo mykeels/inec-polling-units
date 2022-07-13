@@ -13,7 +13,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1533717,
+      "longitude": 7.4577212,
+      "viewport": {
+        "northeast": {
+          "lat": 5.154657079892722,
+          "lng": 7.459275579892722
+        },
+        "southwest": {
+          "lat": 5.151957420107278,
+          "lng": 7.456575920107277
+        }
+      },
+      "formatted_address": "5F35+83X, Aba-Umuahia Road, 453106, Mgboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1533717,7.4577212",
+      "google_place_id": "ChIJ_9Pb8ZKiQhARIVAsWbs3YJc"
+    }
   },
   {
     "id": "4018",
@@ -29,7 +46,8 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": null
   },
   {
     "id": "4019",
@@ -45,7 +63,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9237921,
+      "longitude": 7.362459800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.9598365,
+          "lng": 7.404387799999999
+        },
+        "southwest": {
+          "lat": 5.903469,
+          "lng": 7.331087999999999
+        }
+      },
+      "formatted_address": "Obinolu/Obiagu/La, 441111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9237921,7.362459800000001",
+      "google_place_id": "ChIJmw-SKqcWQxARsAHuDz2on2M"
+    }
   },
   {
     "id": "4020",
@@ -61,7 +96,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9455642,
+      "longitude": 7.3829752,
+      "viewport": {
+        "northeast": {
+          "lat": 5.946813979892722,
+          "lng": 7.384329929892722
+        },
+        "southwest": {
+          "lat": 5.944114320107278,
+          "lng": 7.381630270107278
+        }
+      },
+      "formatted_address": "Technical Secondary School, 441111, Ngodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9455642,7.3829752",
+      "google_place_id": "ChIJzXK4vjoUQxARcdXcmbvMZd4"
+    }
   },
   {
     "id": "4021",
@@ -77,7 +129,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.1533717,
+      "longitude": 7.4577212,
+      "viewport": {
+        "northeast": {
+          "lat": 5.154657079892722,
+          "lng": 7.459275579892722
+        },
+        "southwest": {
+          "lat": 5.151957420107278,
+          "lng": 7.456575920107277
+        }
+      },
+      "formatted_address": "5F35+83X, Aba-Umuahia Road, 453106, Mgboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1533717,7.4577212",
+      "google_place_id": "ChIJ_9Pb8ZKiQhARIVAsWbs3YJc"
+    }
   },
   {
     "id": "4022",
@@ -93,7 +162,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9731871,
+      "longitude": 7.3952231,
+      "viewport": {
+        "northeast": {
+          "lat": 5.974537979892721,
+          "lng": 7.396618179892721
+        },
+        "southwest": {
+          "lat": 5.971838320107278,
+          "lng": 7.393918520107277
+        }
+      },
+      "formatted_address": "X9FW+73H, 441111, Ngodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9731871,7.3952231",
+      "google_place_id": "ChIJH5P_KasVQxAR_nje8S5-eUM"
+    }
   },
   {
     "id": "4023",
@@ -109,7 +195,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9852984,
+      "longitude": 7.402345500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.986653279892722,
+          "lng": 7.403731379892722
+        },
+        "southwest": {
+          "lat": 5.983953620107278,
+          "lng": 7.401031720107278
+        }
+      },
+      "formatted_address": "XCP2+4W9, Nkwoagu Amuda Isuochi, Ugwueme, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9852984,7.402345500000001",
+      "google_place_id": "ChIJ2chNpgUVQxARZIPQj8i6OG8"
+    }
   },
   {
     "id": "4024",
@@ -125,7 +228,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9731871,
+      "longitude": 7.3952231,
+      "viewport": {
+        "northeast": {
+          "lat": 5.974537979892721,
+          "lng": 7.396618179892721
+        },
+        "southwest": {
+          "lat": 5.971838320107278,
+          "lng": 7.393918520107277
+        }
+      },
+      "formatted_address": "X9FW+73H, 441111, Ngodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9731871,7.3952231",
+      "google_place_id": "ChIJH5P_KasVQxAR_nje8S5-eUM"
+    }
   },
   {
     "id": "4025",
@@ -141,7 +261,24 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9731871,
+      "longitude": 7.3952231,
+      "viewport": {
+        "northeast": {
+          "lat": 5.974537979892721,
+          "lng": 7.396618179892721
+        },
+        "southwest": {
+          "lat": 5.971838320107278,
+          "lng": 7.393918520107277
+        }
+      },
+      "formatted_address": "X9FW+73H, 441111, Ngodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9731871,7.3952231",
+      "google_place_id": "ChIJH5P_KasVQxAR_nje8S5-eUM"
+    }
   },
   {
     "id": "4026",
@@ -157,6 +294,23 @@
     "local_government_id": "17",
     "local_government_name": "UMU - NNEOCHI",
     "state_id": "1",
-    "state_name": "ABIA"
+    "state_name": "ABIA",
+    "location": {
+      "latitude": 5.9731871,
+      "longitude": 7.3952231,
+      "viewport": {
+        "northeast": {
+          "lat": 5.974537979892721,
+          "lng": 7.396618179892721
+        },
+        "southwest": {
+          "lat": 5.971838320107278,
+          "lng": 7.393918520107277
+        }
+      },
+      "formatted_address": "X9FW+73H, 441111, Ngodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9731871,7.3952231",
+      "google_place_id": "ChIJH5P_KasVQxAR_nje8S5-eUM"
+    }
   }
 ]
