@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/mykeels/inec-polling-units.git"
   },
-  "keywords": ["inec", "nigeria", "polling units data"],
+  "keywords": [
+    "inec",
+    "nigeria",
+    "polling units data"
+  ],
   "author": "mykeels",
   "license": "MIT",
   "bugs": {
@@ -20,6 +24,7 @@
   "homepage": "https://github.com/mykeels/inec-polling-units#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "json-2-csv": "^3.17.1"
   }
 }
