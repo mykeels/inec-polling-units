@@ -13,7 +13,24 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5215329,
+      "longitude": 7.754387100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.523041629892721,
+          "lng": 7.755851129892723
+        },
+        "southwest": {
+          "lat": 4.520341970107277,
+          "lng": 7.753151470107279
+        }
+      },
+      "formatted_address": "GQC3+JQ6, 534206, Iko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5215329,7.754387100000001",
+      "google_place_id": "ChIJO6yw0eB3aBARiCr6PC2c39o"
+    }
   },
   {
     "id": "8369",
@@ -29,7 +46,24 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5116152,
+      "longitude": 7.665662500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.5650833,
+          "lng": 7.8241684
+        },
+        "southwest": {
+          "lat": 4.4655282,
+          "lng": 7.5677564
+        }
+      },
+      "formatted_address": "Eastern Obolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5116152,7.665662500000001",
+      "google_place_id": "ChIJa7f2NgJ6aBAREi-THWu_Unc"
+    }
   },
   {
     "id": "8370",
@@ -45,6 +79,23 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.526684599999999,
+      "longitude": 7.7550984,
+      "viewport": {
+        "northeast": {
+          "lat": 4.527981929892722,
+          "lng": 7.756342829892721
+        },
+        "southwest": {
+          "lat": 4.525282270107278,
+          "lng": 7.753643170107277
+        }
+      },
+      "formatted_address": "Eastern Obolo V111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.526684599999999,7.7550984",
+      "google_place_id": "ChIJdcA34oF3aBARuh0cM_3kw3U"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.508018799999999,
+      "longitude": 7.731448699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.509368629892721,
+          "lng": 7.732798529892721
+        },
+        "southwest": {
+          "lat": 4.506668970107278,
+          "lng": 7.730098870107277
+        }
+      },
+      "formatted_address": "GP5J+6H4, 534206, Amadaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.508018799999999,7.731448699999999",
+      "google_place_id": "ChIJK74Ees95aBARYo4QbqEuUuc"
+    }
   },
   {
     "id": "8332",
@@ -29,7 +46,8 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8333",
@@ -45,7 +63,24 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.536426800000001,
+      "longitude": 7.7362384,
+      "viewport": {
+        "northeast": {
+          "lat": 4.5531134,
+          "lng": 7.773271
+        },
+        "southwest": {
+          "lat": 4.5230179,
+          "lng": 7.724194
+        }
+      },
+      "formatted_address": "Eastern Obolo 1, 534107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.536426800000001,7.7362384",
+      "google_place_id": "ChIJtUAhF5l3aBARGJGftLinC-A"
+    }
   },
   {
     "id": "8334",
@@ -61,6 +96,23 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5399724,
+      "longitude": 7.73518,
+      "viewport": {
+        "northeast": {
+          "lat": 4.541582779892722,
+          "lng": 7.736507279892722
+        },
+        "southwest": {
+          "lat": 4.538883120107278,
+          "lng": 7.733807620107278
+        }
+      },
+      "formatted_address": "GPQP+X3M, 534107, Iko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5399724,7.73518",
+      "google_place_id": "ChIJ7fwqMQd3aBARWEOf-81hkEw"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10271",
@@ -29,7 +30,24 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.013291600000001,
+      "longitude": 7.917171499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.014713829892721,
+          "lng": 7.918349979892721
+        },
+        "southwest": {
+          "lat": 5.012014170107277,
+          "lng": 7.915650320107277
+        }
+      },
+      "formatted_address": "Ibom Hall, IBB Ave, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.013291600000001,7.917171499999999",
+      "google_place_id": "ChIJx5HaQdVXXRARg9IhzBAx8Fs"
+    }
   },
   {
     "id": "10272",
@@ -45,7 +63,8 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10273",
@@ -61,7 +80,24 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.047268,
+      "longitude": 7.9089139,
+      "viewport": {
+        "northeast": {
+          "lat": 5.048586079892722,
+          "lng": 7.910240979892722
+        },
+        "southwest": {
+          "lat": 5.045886420107278,
+          "lng": 7.907541320107279
+        }
+      },
+      "formatted_address": "2WW5+WH4, Mkporong Emien, Itam-Itu 520261, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.047268,7.9089139",
+      "google_place_id": "ChIJc3FxR1FWXRARPwRJN_FJGwI"
+    }
   },
   {
     "id": "10274",
@@ -77,7 +113,24 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.1437409,
+      "longitude": 7.7724397,
+      "viewport": {
+        "northeast": {
+          "lat": 5.145105379892723,
+          "lng": 7.773776229892722
+        },
+        "southwest": {
+          "lat": 5.142405720107279,
+          "lng": 7.771076570107279
+        }
+      },
+      "formatted_address": "4QVC+FXW, 532105, Ibiaku Ntok Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1437409,7.7724397",
+      "google_place_id": "ChIJYw2OxiWtQhARga8CSjwhRQI"
+    }
   },
   {
     "id": "10275",
@@ -93,7 +146,24 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.050974399999999,
+      "longitude": 7.914038599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.052375979892722,
+          "lng": 7.915374179892724
+        },
+        "southwest": {
+          "lat": 5.049676320107278,
+          "lng": 7.91267452010728
+        }
+      },
+      "formatted_address": "3W27+8HC, 520108, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.050974399999999,7.914038599999999",
+      "google_place_id": "ChIJ45KF21RWXRARDlgTooe19T0"
+    }
   },
   {
     "id": "10276",
@@ -109,7 +179,24 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0907396,
+      "longitude": 7.929386,
+      "viewport": {
+        "northeast": {
+          "lat": 5.091930829892722,
+          "lng": 7.930847729892722
+        },
+        "southwest": {
+          "lat": 5.089231170107278,
+          "lng": 7.928148070107278
+        }
+      },
+      "formatted_address": "3WRH+7QR, Ettu street odiok itam, Odiok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0907396,7.929386",
+      "google_place_id": "ChIJkR14ArxXXRARYEdBBJyvG3w"
+    }
   },
   {
     "id": "10277",
@@ -125,6 +212,7 @@
     "local_government_id": "54",
     "local_government_name": "ITU",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

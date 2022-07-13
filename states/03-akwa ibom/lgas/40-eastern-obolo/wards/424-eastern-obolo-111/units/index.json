@@ -13,7 +13,24 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.532204399999999,
+      "longitude": 7.702352400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.533636429892722,
+          "lng": 7.703722729892722
+        },
+        "southwest": {
+          "lat": 4.530936770107278,
+          "lng": 7.701023070107278
+        }
+      },
+      "formatted_address": "GPJ2+WX5, 534206, Amadaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.532204399999999,7.702352400000001",
+      "google_place_id": "ChIJNRli8k13aBARb055yPRubUE"
+    }
   },
   {
     "id": "8328",
@@ -29,7 +46,8 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8329",
@@ -45,7 +63,8 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8330",
@@ -61,6 +80,7 @@
     "local_government_id": "40",
     "local_government_name": "EASTERN OBOLO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

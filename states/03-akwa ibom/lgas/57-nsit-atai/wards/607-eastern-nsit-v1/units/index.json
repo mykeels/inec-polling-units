@@ -13,7 +13,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8833,
+      "longitude": 8.0212135,
+      "viewport": {
+        "northeast": {
+          "lat": 4.884536929892721,
+          "lng": 8.022639729892722
+        },
+        "southwest": {
+          "lat": 4.881837270107277,
+          "lng": 8.019940070107278
+        }
+      },
+      "formatted_address": "V2MC+8F8, 521108, Idu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8833,8.0212135",
+      "google_place_id": "ChIJsYLO_0PxZxARwxNv_SsWMCM"
+    }
   },
   {
     "id": "10668",
@@ -29,7 +46,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8833,
+      "longitude": 8.0212135,
+      "viewport": {
+        "northeast": {
+          "lat": 4.884536929892721,
+          "lng": 8.022639729892722
+        },
+        "southwest": {
+          "lat": 4.881837270107277,
+          "lng": 8.019940070107278
+        }
+      },
+      "formatted_address": "V2MC+8F8, 521108, Idu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8833,8.0212135",
+      "google_place_id": "ChIJsYLO_0PxZxARwxNv_SsWMCM"
+    }
   },
   {
     "id": "10669",
@@ -45,7 +79,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8637456,
+      "longitude": 8.0186587,
+      "viewport": {
+        "northeast": {
+          "lat": 4.864954229892722,
+          "lng": 8.019969879892722
+        },
+        "southwest": {
+          "lat": 4.862254570107278,
+          "lng": 8.017270220107278
+        }
+      },
+      "formatted_address": "V279+JC7, Unnamed Road, 521108, Ikot Ebiyan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8637456,8.0186587",
+      "google_place_id": "ChIJ7b59fmzxZxAR6klBhNAmXaU"
+    }
   },
   {
     "id": "10670",
@@ -61,7 +112,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10671",
@@ -77,7 +129,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8601245,
+      "longitude": 8.057663999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.861492629892721,
+          "lng": 8.058903129892721
+        },
+        "southwest": {
+          "lat": 4.858792970107277,
+          "lng": 8.056203470107278
+        }
+      },
+      "formatted_address": "V365+23V, 521108, Ikot Asua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8601245,8.057663999999999",
+      "google_place_id": "ChIJW7ssmkLzZxAR3-ZFbdVR_bA"
+    }
   },
   {
     "id": "10672",
@@ -93,7 +162,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10673",
@@ -109,6 +179,23 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.876693,
+      "longitude": 8.0536789,
+      "viewport": {
+        "northeast": {
+          "lat": 4.877964229892722,
+          "lng": 8.055237229892722
+        },
+        "southwest": {
+          "lat": 4.875264570107278,
+          "lng": 8.052537570107278
+        }
+      },
+      "formatted_address": "V3G3+MFF, NYSC Camp Ikot Itie Idung, Nsit Atai LGA, Ikot Mkpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.876693,8.0536789",
+      "google_place_id": "ChIJOblkXi_yZxARqnF4PGLg5ao"
+    }
   }
 ]

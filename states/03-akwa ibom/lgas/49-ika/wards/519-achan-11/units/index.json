@@ -13,7 +13,8 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9620",
@@ -29,7 +30,8 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9621",
@@ -45,7 +47,8 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9622",
@@ -61,7 +64,8 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9623",
@@ -77,7 +81,8 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9624",
@@ -93,7 +98,24 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0047136,
+      "longitude": 7.523599000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.005634329892722,
+          "lng": 7.525625349999999
+        },
+        "southwest": {
+          "lat": 5.002934670107278,
+          "lng": 7.522923550000003
+        }
+      },
+      "formatted_address": "2G3F+VCQ, 524102, Urua Inyang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0047136,7.523599000000001",
+      "google_place_id": "ChIJWWnuPggeaBARh3dizyRqG-g"
+    }
   },
   {
     "id": "9625",
@@ -109,7 +131,24 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0047136,
+      "longitude": 7.523599000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.005634329892722,
+          "lng": 7.525625349999999
+        },
+        "southwest": {
+          "lat": 5.002934670107278,
+          "lng": 7.522923550000003
+        }
+      },
+      "formatted_address": "2G3F+VCQ, 524102, Urua Inyang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0047136,7.523599000000001",
+      "google_place_id": "ChIJWWnuPggeaBARh3dizyRqG-g"
+    }
   },
   {
     "id": "9626",
@@ -125,6 +164,7 @@
     "local_government_id": "49",
     "local_government_name": "IKA",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

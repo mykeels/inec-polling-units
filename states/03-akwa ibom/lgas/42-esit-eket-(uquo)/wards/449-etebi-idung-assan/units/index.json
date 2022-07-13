@@ -13,7 +13,8 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8633",
@@ -29,7 +30,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6558682,
+      "longitude": 7.966482999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.657288979892722,
+          "lng": 7.96779787989272
+        },
+        "southwest": {
+          "lat": 4.654589320107278,
+          "lng": 7.965098220107277
+        }
+      },
+      "formatted_address": "MX48+8HX, 524103, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6558682,7.966482999999999",
+      "google_place_id": "ChIJXcg6xM7CZxARw_tQMmw0tU4"
+    }
   },
   {
     "id": "8634",
@@ -45,7 +63,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6569585,
+      "longitude": 8.1284888,
+      "viewport": {
+        "northeast": {
+          "lat": 4.658281429892722,
+          "lng": 8.129836479892722
+        },
+        "southwest": {
+          "lat": 4.655581770107278,
+          "lng": 8.127136820107278
+        }
+      },
+      "formatted_address": "L.G.A, No.10 A James Town Road Idung Assan Akwa Ibom NG, 155907, Etebi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6569585,8.1284888",
+      "google_place_id": "ChIJ2fXE9PnBZxAR-i1LdzHL4mI"
+    }
   },
   {
     "id": "8635",
@@ -61,7 +96,8 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8636",
@@ -77,7 +113,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0220041,
+      "longitude": 7.9576903,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023373579892722,
+          "lng": 7.958935629892722
+        },
+        "southwest": {
+          "lat": 5.020673920107278,
+          "lng": 7.956235970107278
+        }
+      },
+      "formatted_address": "Sitippe Ke, 520101, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0220041,7.9576903",
+      "google_place_id": "ChIJaZlPifdXXRARSE5PDNEALm8"
+    }
   },
   {
     "id": "8637",
@@ -93,7 +146,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6557095,
+      "longitude": 8.140294599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.657047779892723,
+          "lng": 8.141645679892722
+        },
+        "southwest": {
+          "lat": 4.654348120107279,
+          "lng": 8.138946020107278
+        }
+      },
+      "formatted_address": "M44R+74Q, 524108, Etebi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6557095,8.140294599999999",
+      "google_place_id": "ChIJ1-KpFoy_ZxARuKzLiFF0G5g"
+    }
   },
   {
     "id": "8638",
@@ -109,7 +179,8 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8639",
@@ -125,7 +196,8 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8640",
@@ -141,6 +213,7 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

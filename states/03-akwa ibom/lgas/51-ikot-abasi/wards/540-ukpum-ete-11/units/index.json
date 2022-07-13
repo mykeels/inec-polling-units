@@ -13,7 +13,8 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9883",
@@ -29,7 +30,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.575516299999999,
+      "longitude": 7.566031299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.576943879892721,
+          "lng": 7.56707842989272
+        },
+        "southwest": {
+          "lat": 4.574244220107277,
+          "lng": 7.564378770107276
+        }
+      },
+      "formatted_address": "HHG8+6C3, 534101, Ikot Abasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.575516299999999,7.566031299999999",
+      "google_place_id": "ChIJcwdjUdNvaBARqGTCemuZHY8"
+    }
   },
   {
     "id": "9884",
@@ -45,7 +63,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5982911,
+      "longitude": 7.636311800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.599484579892722,
+          "lng": 7.637704029892722
+        },
+        "southwest": {
+          "lat": 4.596784920107278,
+          "lng": 7.635004370107279
+        }
+      },
+      "formatted_address": "HJXP+8G7, 534105, Ikot Abasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5982911,7.636311800000001",
+      "google_place_id": "ChIJ4TIve4xxaBARSEavsRhUA78"
+    }
   },
   {
     "id": "9885",
@@ -61,7 +96,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7471301,
+      "longitude": 7.903114100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.748478829892722,
+          "lng": 7.904457979892721
+        },
+        "southwest": {
+          "lat": 4.745779170107278,
+          "lng": 7.901758320107278
+        }
+      },
+      "formatted_address": "PWW3+V65, Uyo Road, 522108, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7471301,7.903114100000001",
+      "google_place_id": "ChIJW0YH9pLmZxAR9-2Cw82ZMTA"
+    }
   },
   {
     "id": "9886",
@@ -77,7 +129,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5968269,
+      "longitude": 7.6327543,
+      "viewport": {
+        "northeast": {
+          "lat": 4.598152329892722,
+          "lng": 7.634032029892722
+        },
+        "southwest": {
+          "lat": 4.595452670107278,
+          "lng": 7.631332370107279
+        }
+      },
+      "formatted_address": "HJWM+P3H, 534105, Ikot Abasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5968269,7.6327543",
+      "google_place_id": "ChIJHQ2FLvNxaBARnmneLpJ0g_M"
+    }
   },
   {
     "id": "9887",
@@ -93,7 +162,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5739124,
+      "longitude": 7.5788975,
+      "viewport": {
+        "northeast": {
+          "lat": 4.6049149,
+          "lng": 7.623996600000001
+        },
+        "southwest": {
+          "lat": 4.5384366,
+          "lng": 7.526836400000001
+        }
+      },
+      "formatted_address": "534101, Ikot Abasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5739124,7.5788975",
+      "google_place_id": "ChIJnbZn41BuaBARRi7DFArqfjU"
+    }
   },
   {
     "id": "9888",
@@ -109,7 +195,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.002881299999999,
+      "longitude": 7.850228700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.004210079892721,
+          "lng": 7.851594329892722
+        },
+        "southwest": {
+          "lat": 5.001510420107278,
+          "lng": 7.848894670107278
+        }
+      },
+      "formatted_address": "2V32+535, 520104, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.002881299999999,7.850228700000001",
+      "google_place_id": "ChIJhdBW5F3_ZxAR1dcgfTymoPs"
+    }
   },
   {
     "id": "9889",
@@ -125,7 +228,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.604185,
+      "longitude": 7.682707600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.605520579892722,
+          "lng": 7.684093629892722
+        },
+        "southwest": {
+          "lat": 4.602820920107277,
+          "lng": 7.681393970107278
+        }
+      },
+      "formatted_address": "Orono - Ikot Akan Rd, 531103, Ikot Ata Udo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.604185,7.682707600000001",
+      "google_place_id": "ChIJg3MiEOJzaBARTIfBVaeaEBQ"
+    }
   },
   {
     "id": "9890",
@@ -141,7 +261,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5968269,
+      "longitude": 7.6327543,
+      "viewport": {
+        "northeast": {
+          "lat": 4.598152329892722,
+          "lng": 7.634032029892722
+        },
+        "southwest": {
+          "lat": 4.595452670107278,
+          "lng": 7.631332370107279
+        }
+      },
+      "formatted_address": "HJWM+P3H, 534105, Ikot Abasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5968269,7.6327543",
+      "google_place_id": "ChIJHQ2FLvNxaBARnmneLpJ0g_M"
+    }
   },
   {
     "id": "9891",
@@ -157,7 +294,24 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.9983713,
+      "longitude": 7.940507500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.999970829892722,
+          "lng": 7.941756979892722
+        },
+        "southwest": {
+          "lat": 4.997271170107278,
+          "lng": 7.939057320107278
+        }
+      },
+      "formatted_address": "Itiam Etoi Rd, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9983713,7.940507500000001",
+      "google_place_id": "ChIJwUodwRn5ZxARWny67OLCEMY"
+    }
   },
   {
     "id": "9892",
@@ -173,6 +327,23 @@
     "local_government_id": "51",
     "local_government_name": "IKOT ABASI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.60663,
+      "longitude": 7.653543999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.607973179892722,
+          "lng": 7.65481897989272
+        },
+        "southwest": {
+          "lat": 4.605273520107279,
+          "lng": 7.652119320107277
+        }
+      },
+      "formatted_address": "JM43+MC3, Ikot Akan - Opobo Rd, 534103, Ikot Akan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.60663,7.653543999999999",
+      "google_place_id": "ChIJsQm_IStyaBARoRitbCtUxks"
+    }
   }
 ]

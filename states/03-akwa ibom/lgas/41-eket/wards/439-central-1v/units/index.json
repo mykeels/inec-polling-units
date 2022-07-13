@@ -13,7 +13,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8533",
@@ -29,7 +30,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8534",
@@ -45,7 +47,24 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.665100000000001,
+      "longitude": 8.010299999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.666501279892723,
+          "lng": 8.01170347989272
+        },
+        "southwest": {
+          "lat": 4.663801620107279,
+          "lng": 8.009003820107276
+        }
+      },
+      "formatted_address": "M286+24M, 524103, Efoi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.665100000000001,8.010299999999999",
+      "google_place_id": "ChIJJ_4_7WbCZxARWRCfr9Q431I"
+    }
   },
   {
     "id": "8535",
@@ -61,7 +80,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8536",
@@ -77,7 +97,24 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.646815399999999,
+      "longitude": 7.9418988,
+      "viewport": {
+        "northeast": {
+          "lat": 4.648191579892722,
+          "lng": 7.943304029892722
+        },
+        "southwest": {
+          "lat": 4.645491920107278,
+          "lng": 7.940604370107279
+        }
+      },
+      "formatted_address": "3 Uqua Rd, 524102, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.646815399999999,7.9418988",
+      "google_place_id": "ChIJEcnyGl50aBARosEnYXZypV8"
+    }
   },
   {
     "id": "8537",
@@ -93,7 +130,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8538",
@@ -109,7 +147,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8539",
@@ -125,7 +164,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8540",
@@ -141,7 +181,8 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8541",
@@ -157,6 +198,7 @@
     "local_government_id": "41",
     "local_government_name": "EKET",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

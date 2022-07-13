@@ -13,7 +13,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
   },
   {
     "id": "10634",
@@ -29,7 +46,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8601245,
+      "longitude": 8.057663999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.861492629892721,
+          "lng": 8.058903129892721
+        },
+        "southwest": {
+          "lat": 4.858792970107277,
+          "lng": 8.056203470107278
+        }
+      },
+      "formatted_address": "V365+23V, 521108, Ikot Asua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8601245,8.057663999999999",
+      "google_place_id": "ChIJW7ssmkLzZxAR3-ZFbdVR_bA"
+    }
   },
   {
     "id": "10635",
@@ -45,7 +79,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8601245,
+      "longitude": 8.057663999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.861492629892721,
+          "lng": 8.058903129892721
+        },
+        "southwest": {
+          "lat": 4.858792970107277,
+          "lng": 8.056203470107278
+        }
+      },
+      "formatted_address": "V365+23V, 521108, Ikot Asua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8601245,8.057663999999999",
+      "google_place_id": "ChIJW7ssmkLzZxAR3-ZFbdVR_bA"
+    }
   },
   {
     "id": "10636",
@@ -61,7 +112,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8601245,
+      "longitude": 8.057663999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.861492629892721,
+          "lng": 8.058903129892721
+        },
+        "southwest": {
+          "lat": 4.858792970107277,
+          "lng": 8.056203470107278
+        }
+      },
+      "formatted_address": "V365+23V, 521108, Ikot Asua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8601245,8.057663999999999",
+      "google_place_id": "ChIJW7ssmkLzZxAR3-ZFbdVR_bA"
+    }
   },
   {
     "id": "10637",
@@ -77,7 +145,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10638",
@@ -93,7 +162,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10639",
@@ -109,7 +179,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8297563,
+      "longitude": 7.8530341,
+      "viewport": {
+        "northeast": {
+          "lat": 4.831159429892723,
+          "lng": 7.854318929892723
+        },
+        "southwest": {
+          "lat": 4.828459770107279,
+          "lng": 7.851619270107279
+        }
+      },
+      "formatted_address": "afaha nsit, L.G.A, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8297563,7.8530341",
+      "google_place_id": "ChIJsTyNn5XjZxARIf5BruHIkpM"
+    }
   },
   {
     "id": "10640",
@@ -125,6 +212,7 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

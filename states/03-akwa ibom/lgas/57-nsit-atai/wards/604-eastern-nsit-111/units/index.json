@@ -13,7 +13,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10642",
@@ -29,7 +30,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8701148,
+      "longitude": 8.0606899,
+      "viewport": {
+        "northeast": {
+          "lat": 4.871451779892722,
+          "lng": 8.062015429892721
+        },
+        "southwest": {
+          "lat": 4.868752120107279,
+          "lng": 8.059315770107277
+        }
+      },
+      "formatted_address": "V3C6+27W, 521108, Ikot Akpabio, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8701148,8.0606899",
+      "google_place_id": "ChIJX2dXm4zzZxAROOWQb9iqkvY"
+    }
   },
   {
     "id": "10643",
@@ -45,7 +63,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10644",
@@ -61,7 +80,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8701148,
+      "longitude": 8.0606899,
+      "viewport": {
+        "northeast": {
+          "lat": 4.871451779892722,
+          "lng": 8.062015429892721
+        },
+        "southwest": {
+          "lat": 4.868752120107279,
+          "lng": 8.059315770107277
+        }
+      },
+      "formatted_address": "V3C6+27W, 521108, Ikot Akpabio, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8701148,8.0606899",
+      "google_place_id": "ChIJX2dXm4zzZxAROOWQb9iqkvY"
+    }
   },
   {
     "id": "10645",
@@ -77,7 +113,24 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8637456,
+      "longitude": 8.0186587,
+      "viewport": {
+        "northeast": {
+          "lat": 4.864954229892722,
+          "lng": 8.019969879892722
+        },
+        "southwest": {
+          "lat": 4.862254570107278,
+          "lng": 8.017270220107278
+        }
+      },
+      "formatted_address": "V279+JC7, Unnamed Road, 521108, Ikot Ebiyan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8637456,8.0186587",
+      "google_place_id": "ChIJ7b59fmzxZxAR6klBhNAmXaU"
+    }
   },
   {
     "id": "10646",
@@ -93,7 +146,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10647",
@@ -109,7 +163,8 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10648",
@@ -125,6 +180,23 @@
     "local_government_id": "57",
     "local_government_name": "NSIT ATAI",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.8299417,
+      "longitude": 7.855890400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.831252429892722,
+          "lng": 7.857291279892722
+        },
+        "southwest": {
+          "lat": 4.828552770107278,
+          "lng": 7.854591620107279
+        }
+      },
+      "formatted_address": "RVH4+X8P, 522102, Etinan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.8299417,7.855890400000001",
+      "google_place_id": "ChIJd_Dnf0HjZxARAfiCMTWQtWs"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.168689500000001,
+      "longitude": 7.715406100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.170032179892721,
+          "lng": 7.716759479892721
+        },
+        "southwest": {
+          "lat": 5.167332520107277,
+          "lng": 7.714059820107277
+        }
+      },
+      "formatted_address": "5P98+F5J, 530101, Ikot Ekpene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.168689500000001,7.715406100000001",
+      "google_place_id": "ChIJ-1-28e2tQhARM2vk0BWzikM"
+    }
   },
   {
     "id": "9675",
@@ -29,7 +46,24 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.2103601,
+      "longitude": 7.715910699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.211725179892722,
+          "lng": 7.717232829892723
+        },
+        "southwest": {
+          "lat": 5.209025520107278,
+          "lng": 7.714533170107279
+        }
+      },
+      "formatted_address": "Nung ukim, Ikono Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2103601,7.715910699999999",
+      "google_place_id": "ChIJi5Zi54WzQhARzpj-lIThBmM"
+    }
   },
   {
     "id": "9676",
@@ -45,7 +79,24 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.002881299999999,
+      "longitude": 7.850228700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.004210079892721,
+          "lng": 7.851594329892722
+        },
+        "southwest": {
+          "lat": 5.001510420107278,
+          "lng": 7.848894670107278
+        }
+      },
+      "formatted_address": "2V32+535, 520104, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.002881299999999,7.850228700000001",
+      "google_place_id": "ChIJhdBW5F3_ZxAR1dcgfTymoPs"
+    }
   },
   {
     "id": "9677",
@@ -61,7 +112,8 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9678",
@@ -77,7 +129,24 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.002881299999999,
+      "longitude": 7.850228700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.004210079892721,
+          "lng": 7.851594329892722
+        },
+        "southwest": {
+          "lat": 5.001510420107278,
+          "lng": 7.848894670107278
+        }
+      },
+      "formatted_address": "2V32+535, 520104, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.002881299999999,7.850228700000001",
+      "google_place_id": "ChIJhdBW5F3_ZxAR1dcgfTymoPs"
+    }
   },
   {
     "id": "9679",
@@ -93,7 +162,24 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.1360435,
+      "longitude": 7.791085099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.137433529892721,
+          "lng": 7.792409329892723
+        },
+        "southwest": {
+          "lat": 5.134733870107278,
+          "lng": 7.789709670107279
+        }
+      },
+      "formatted_address": "4QPR+CC8, 532105, Ibiaku Ntok Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1360435,7.791085099999999",
+      "google_place_id": "ChIJzyTMC69TXRARVZ_81Zje-jo"
+    }
   },
   {
     "id": "9680",
@@ -109,7 +195,24 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.2570098,
+      "longitude": 7.7362384,
+      "viewport": {
+        "northeast": {
+          "lat": 5.288732599999999,
+          "lng": 7.763394099999999
+        },
+        "southwest": {
+          "lat": 5.2211617,
+          "lng": 7.711953499999999
+        }
+      },
+      "formatted_address": "Ikono Middle 1, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2570098,7.7362384",
+      "google_place_id": "ChIJc2OTooOzQhARzaNYmymcqGs"
+    }
   },
   {
     "id": "9681",
@@ -125,7 +228,8 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9682",
@@ -141,7 +245,8 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "9683",
@@ -157,6 +262,23 @@
     "local_government_id": "50",
     "local_government_name": "IKONO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.289901,
+      "longitude": 7.595513,
+      "viewport": {
+        "northeast": {
+          "lat": 5.291265279892722,
+          "lng": 7.596858079892721
+        },
+        "southwest": {
+          "lat": 5.288565620107279,
+          "lng": 7.594158420107277
+        }
+      },
+      "formatted_address": "29 Ikot Ekpene - Calabar Rd, 530105, Ikot Okum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.289901,7.595513",
+      "google_place_id": "ChIJs980B8S5QhARM8GeuIrTdTk"
+    }
   }
 ]

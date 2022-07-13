@@ -13,7 +13,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8729",
@@ -29,7 +30,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8730",
@@ -45,7 +47,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8731",
@@ -61,7 +64,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8732",
@@ -77,7 +81,24 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
   },
   {
     "id": "8733",
@@ -93,7 +114,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8734",
@@ -109,7 +131,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8735",
@@ -125,7 +148,24 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0206399,
+      "longitude": 7.9387279,
+      "viewport": {
+        "northeast": {
+          "lat": 5.022041229892722,
+          "lng": 7.940047729892719
+        },
+        "southwest": {
+          "lat": 5.019341570107278,
+          "lng": 7.937348070107276
+        }
+      },
+      "formatted_address": "2WCQ+6GG, Udo Inyang Close, Ewet Housing Estate 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0206399,7.9387279",
+      "google_place_id": "ChIJZSGTYBVXXRARAbcCUdh3t0M"
+    }
   },
   {
     "id": "8736",
@@ -141,7 +181,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8737",
@@ -157,7 +198,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8738",
@@ -173,7 +215,8 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "8739",
@@ -189,6 +232,7 @@
     "local_government_id": "43",
     "local_government_name": "ESSIEN UDIM",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

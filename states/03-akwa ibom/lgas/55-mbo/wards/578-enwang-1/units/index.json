@@ -13,7 +13,24 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6528551,
+      "longitude": 8.2526421,
+      "viewport": {
+        "northeast": {
+          "lat": 4.654112529892721,
+          "lng": 8.253920529892723
+        },
+        "southwest": {
+          "lat": 4.651412870107277,
+          "lng": 8.251220870107279
+        }
+      },
+      "formatted_address": "M733+43R, 523115, Enwang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6528551,8.2526421",
+      "google_place_id": "ChIJw6vAZ7u9ZxARg4nZSaNaPOQ"
+    }
   },
   {
     "id": "10377",
@@ -29,7 +46,8 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10378",
@@ -45,7 +63,8 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10379",
@@ -61,7 +80,8 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10380",
@@ -77,7 +97,8 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10381",
@@ -93,7 +114,8 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10382",
@@ -109,7 +131,8 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   },
   {
     "id": "10383",
@@ -125,6 +148,7 @@
     "local_government_id": "55",
     "local_government_name": "MBO",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": null
   }
 ]

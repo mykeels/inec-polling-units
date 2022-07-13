@@ -13,7 +13,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.0218541,
+      "longitude": 7.922816,
+      "viewport": {
+        "northeast": {
+          "lat": 5.023170929892722,
+          "lng": 7.924210929892721
+        },
+        "southwest": {
+          "lat": 5.020471270107278,
+          "lng": 7.921511270107277
+        }
+      },
+      "formatted_address": "107 Aka Rd, 520241, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0218541,7.922816",
+      "google_place_id": "ChIJuejQVp_jZxARd-74tkhz7-4"
+    }
   },
   {
     "id": "8599",
@@ -29,7 +46,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6574712,
+      "longitude": 8.0597829,
+      "viewport": {
+        "northeast": {
+          "lat": 4.659015929892721,
+          "lng": 8.061307429892723
+        },
+        "southwest": {
+          "lat": 4.656316270107277,
+          "lng": 8.05860777010728
+        }
+      },
+      "formatted_address": "M345+XWM, Uquo 524109, Ikpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6574712,8.0597829",
+      "google_place_id": "ChIJrYdxTpLBZxARGKOwBjR6lB4"
+    }
   },
   {
     "id": "8600",
@@ -45,7 +79,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6557095,
+      "longitude": 8.140294599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.657047779892723,
+          "lng": 8.141645679892722
+        },
+        "southwest": {
+          "lat": 4.654348120107279,
+          "lng": 8.138946020107278
+        }
+      },
+      "formatted_address": "M44R+74Q, 524108, Etebi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6557095,8.140294599999999",
+      "google_place_id": "ChIJ1-KpFoy_ZxARuKzLiFF0G5g"
+    }
   },
   {
     "id": "8601",
@@ -61,7 +112,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.6587754,
+      "longitude": 7.955596899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.660116479892721,
+          "lng": 7.956942379892722
+        },
+        "southwest": {
+          "lat": 4.657416820107278,
+          "lng": 7.954242720107279
+        }
+      },
+      "formatted_address": "MX54+F6Q, 524103, Eket, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.6587754,7.955596899999999",
+      "google_place_id": "ChIJDafHRTTdZxARUDZN9E22nRQ"
+    }
   },
   {
     "id": "8602",
@@ -77,7 +145,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.5874403,
+      "longitude": 7.597249700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.5985625,
+          "lng": 7.6132571
+        },
+        "southwest": {
+          "lat": 4.576318000000001,
+          "lng": 7.5812423
+        }
+      },
+      "formatted_address": "Township, 534101, Ikot Abasi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5874403,7.597249700000001",
+      "google_place_id": "ChIJ3cHl5RZuaBARpYFmzeiZDts"
+    }
   },
   {
     "id": "8603",
@@ -93,7 +178,24 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 5.189166999999999,
+      "longitude": 7.5611687,
+      "viewport": {
+        "northeast": {
+          "lat": 5.190596429892722,
+          "lng": 7.562450329892721
+        },
+        "southwest": {
+          "lat": 5.187896770107278,
+          "lng": 7.559750670107277
+        }
+      },
+      "formatted_address": "5HQ6+MF7, 530104, Okop, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.189166999999999,7.5611687",
+      "google_place_id": "ChIJ3aM54C67QhARfllFWFh2TwA"
+    }
   },
   {
     "id": "8604",
@@ -109,6 +211,23 @@
     "local_government_id": "42",
     "local_government_name": "ESIT EKET (UQUO)",
     "state_id": "3",
-    "state_name": "AKWA IBOM"
+    "state_name": "AKWA IBOM",
+    "location": {
+      "latitude": 4.7374203,
+      "longitude": 8.100489,
+      "viewport": {
+        "northeast": {
+          "lat": 4.738768479892721,
+          "lng": 8.10182142989272
+        },
+        "southwest": {
+          "lat": 4.736068820107278,
+          "lng": 8.099121770107276
+        }
+      },
+      "formatted_address": "P4P2+X59, 521104, Odot, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7374203,8.100489",
+      "google_place_id": "ChIJG869_A3rZxARDTBeU9Nn598"
+    }
   }
 ]
