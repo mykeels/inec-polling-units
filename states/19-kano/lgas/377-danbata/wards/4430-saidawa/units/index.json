@@ -13,7 +13,8 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85899",
@@ -29,7 +30,8 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85900",
@@ -45,7 +47,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9501714,
+      "longitude": 8.5109058,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95149812989272,
+          "lng": 8.512227379892721
+        },
+        "southwest": {
+          "lat": 11.94879847010728,
+          "lng": 8.509527720107277
+        }
+      },
+      "formatted_address": "XG26+396, Sabuwar, Gandu Road, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9501714,8.5109058",
+      "google_place_id": "ChIJzXd4NiOArhERSPjAd7gs23o"
+    }
   },
   {
     "id": "85901",
@@ -61,7 +80,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3158043,
+      "longitude": 8.5756395,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31707667989272,
+          "lng": 8.577759350000004
+        },
+        "southwest": {
+          "lat": 12.31437702010728,
+          "lng": 8.574911549999998
+        }
+      },
+      "formatted_address": "7F4C8H8G+96H Geza, Mahuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3158043,8.5756395",
+      "google_place_id": "ChIJnzWqLEvzrhERuZHQDzRBhLc"
+    }
   },
   {
     "id": "85902",
@@ -77,7 +113,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.264673,
+      "longitude": 8.6174439,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26610077989272,
+          "lng": 8.618904779892722
+        },
+        "southwest": {
+          "lat": 12.26340112010728,
+          "lng": 8.616205120107278
+        }
+      },
+      "formatted_address": "7F4C7J78+VX8 Koya, 702104, Gasgainu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.264673,8.6174439",
+      "google_place_id": "ChIJDRp66wCNrhERU8CgmT9QYno"
+    }
   },
   {
     "id": "85903",
@@ -93,7 +146,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3212278,
+      "longitude": 8.6056134,
+      "viewport": {
+        "northeast": {
+          "lat": 12.32271997989272,
+          "lng": 8.607716649999999
+        },
+        "southwest": {
+          "lat": 12.32002032010728,
+          "lng": 8.604918050000002
+        }
+      },
+      "formatted_address": "7F4C8JC4+F7F Mahuta Saidawa Kano, Mahuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3212278,8.6056134",
+      "google_place_id": "ChIJ9VHxWUbzrhER1aL-i675J4o"
+    }
   },
   {
     "id": "85904",
@@ -109,7 +179,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3879388,
+      "longitude": 8.6292952,
+      "viewport": {
+        "northeast": {
+          "lat": 12.38923642989272,
+          "lng": 8.630546179892722
+        },
+        "southwest": {
+          "lat": 12.38653677010728,
+          "lng": 8.627846520107278
+        }
+      },
+      "formatted_address": "7F4C9JQH+5PF Marke Saidawa Kano, Marke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3879388,8.6292952",
+      "google_place_id": "ChIJ55RIDnvzrhERwbETnUVlQM8"
+    }
   },
   {
     "id": "85905",
@@ -125,7 +212,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9887832,
+      "longitude": 8.521037,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99017327989272,
+          "lng": 8.522377579892723
+        },
+        "southwest": {
+          "lat": 11.98747362010728,
+          "lng": 8.519677920107279
+        }
+      },
+      "formatted_address": "Emir Palace Rd, Wudilawa 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9887832,8.521037",
+      "google_place_id": "ChIJdQGJvPiArhERt5bnkI8X1ck"
+    }
   },
   {
     "id": "85906",
@@ -141,7 +245,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 43.6005156,
+      "longitude": -79.77583109999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.60196587989272,
+          "lng": -79.77450317010728
+        },
+        "southwest": {
+          "lat": 43.59926622010727,
+          "lng": -79.77720282989273
+        }
+      },
+      "formatted_address": "2865 Argentia Rd. Units 4-5, Mississauga, ON L5N 8G6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6005156,-79.77583109999999",
+      "google_place_id": "ChIJl3FK4PVqK4gRr3dKymJwDRc"
+    }
   },
   {
     "id": "85907",
@@ -157,7 +278,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2748483,
+      "longitude": 8.6292244,
+      "viewport": {
+        "northeast": {
+          "lat": 12.27621117989272,
+          "lng": 8.63072482989272
+        },
+        "southwest": {
+          "lat": 12.27351152010728,
+          "lng": 8.628025170107277
+        }
+      },
+      "formatted_address": "7F4C7JFH+WMJ Saidawa Saidawa Kano Gasgainu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2748483,8.6292244",
+      "google_place_id": "ChIJX5FM-eKNrhERI14bXY26Aec"
+    }
   },
   {
     "id": "85908",
@@ -173,7 +311,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3745817,
+      "longitude": 8.595790899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37585502989272,
+          "lng": 8.597327629892721
+        },
+        "southwest": {
+          "lat": 12.37315537010728,
+          "lng": 8.594627970107277
+        }
+      },
+      "formatted_address": "7F4C9HFW+R84 Takai Saidawa Kano, 702104, Takara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3745817,8.595790899999999",
+      "google_place_id": "ChIJNb6UOPTzrhERd_grjZAF8FA"
+    }
   },
   {
     "id": "85909",
@@ -189,7 +344,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0021529,
+      "longitude": 8.5919749,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00344017989272,
+          "lng": 8.593338279892722
+        },
+        "southwest": {
+          "lat": 12.00074052010728,
+          "lng": 8.590638620107278
+        }
+      },
+      "formatted_address": "4th Floor Zainab House, Murtala Mohammed Way, GRA 700271, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0021529,8.5919749",
+      "google_place_id": "ChIJv50xXVyDrhER6fYlZ1pPSeA"
+    }
   },
   {
     "id": "85910",
@@ -205,7 +377,8 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85911",
@@ -221,7 +394,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3363754,
+      "longitude": 8.605073599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4033246,
+          "lng": 8.673065099999999
+        },
+        "southwest": {
+          "lat": 12.2531162,
+          "lng": 8.5653442
+        }
+      },
+      "formatted_address": "Saidawa, 702104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3363754,8.605073599999999",
+      "google_place_id": "ChIJfxg4D-HyrhERnAIXjrFaM58"
+    }
   },
   {
     "id": "85912",
@@ -237,7 +427,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2641622,
+      "longitude": 8.6198696,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26553212989272,
+          "lng": 8.621281829892721
+        },
+        "southwest": {
+          "lat": 12.26283247010728,
+          "lng": 8.618582170107278
+        }
+      },
+      "formatted_address": "7J79+MW9, 702104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2641622,8.6198696",
+      "google_place_id": "ChIJ1RtouwONrhERJXDJ4Ed4fD4"
+    }
   },
   {
     "id": "85913",
@@ -253,7 +460,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3363754,
+      "longitude": 8.605073599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4033246,
+          "lng": 8.673065099999999
+        },
+        "southwest": {
+          "lat": 12.2531162,
+          "lng": 8.5653442
+        }
+      },
+      "formatted_address": "Saidawa, 702104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3363754,8.605073599999999",
+      "google_place_id": "ChIJfxg4D-HyrhERnAIXjrFaM58"
+    }
   },
   {
     "id": "85914",
@@ -269,7 +493,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3363754,
+      "longitude": 8.605073599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4033246,
+          "lng": 8.673065099999999
+        },
+        "southwest": {
+          "lat": 12.2531162,
+          "lng": 8.5653442
+        }
+      },
+      "formatted_address": "Saidawa, 702104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3363754,8.605073599999999",
+      "google_place_id": "ChIJfxg4D-HyrhERnAIXjrFaM58"
+    }
   },
   {
     "id": "85915",
@@ -285,7 +526,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3745817,
+      "longitude": 8.595790899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37585502989272,
+          "lng": 8.597327629892721
+        },
+        "southwest": {
+          "lat": 12.37315537010728,
+          "lng": 8.594627970107277
+        }
+      },
+      "formatted_address": "7F4C9HFW+R84 Takai Saidawa Kano, 702104, Takara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3745817,8.595790899999999",
+      "google_place_id": "ChIJNb6UOPTzrhERd_grjZAF8FA"
+    }
   },
   {
     "id": "85916",
@@ -301,6 +559,23 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.099387,
+      "longitude": 8.8845297,
+      "viewport": {
+        "northeast": {
+          "lat": 12.106335,
+          "lng": 8.896277099999999
+        },
+        "southwest": {
+          "lat": 12.092702,
+          "lng": 8.878824
+        }
+      },
+      "formatted_address": "702102, Zakirai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.099387,8.8845297",
+      "google_place_id": "ChIJgYBXMiajrhERgKLmNk-ER3U"
+    }
   }
 ]

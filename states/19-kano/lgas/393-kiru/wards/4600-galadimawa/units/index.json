@@ -13,7 +13,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7732206,
+      "longitude": 8.2585607,
+      "viewport": {
+        "northeast": {
+          "lat": 11.788535,
+          "lng": 8.272158000000001
+        },
+        "southwest": {
+          "lat": 11.7679271,
+          "lng": 8.238268999999999
+        }
+      },
+      "formatted_address": "Dumi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7732206,8.2585607",
+      "google_place_id": "ChIJfeXmyy_brRERCpys6dEUyI0"
+    }
   },
   {
     "id": "89974",
@@ -29,7 +46,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7529943,
+      "longitude": 8.237704899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7890088,
+          "lng": 8.2594935
+        },
+        "southwest": {
+          "lat": 11.7231162,
+          "lng": 8.1994118
+        }
+      },
+      "formatted_address": "Galadimawa, 711105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7529943,8.237704899999999",
+      "google_place_id": "ChIJt-qyqqXErRERZi44cDrmGDE"
+    }
   },
   {
     "id": "89975",
@@ -45,7 +79,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7529943,
+      "longitude": 8.237704899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7890088,
+          "lng": 8.2594935
+        },
+        "southwest": {
+          "lat": 11.7231162,
+          "lng": 8.1994118
+        }
+      },
+      "formatted_address": "Galadimawa, 711105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7529943,8.237704899999999",
+      "google_place_id": "ChIJt-qyqqXErRERZi44cDrmGDE"
+    }
   },
   {
     "id": "89976",
@@ -61,7 +112,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89977",
@@ -77,7 +129,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89978",
@@ -93,7 +146,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0241875,
+      "longitude": 8.5820625,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02550612989272,
+          "lng": 8.583021629892722
+        },
+        "southwest": {
+          "lat": 12.02280647010728,
+          "lng": 8.580321970107278
+        }
+      },
+      "formatted_address": "Kawaji, L.G.A 2HFJ+MR4 Kawaji Small scale Industrial estate, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0241875,8.5820625",
+      "google_place_id": "ChIJQcZ9E_qDrhERXYgt4Tk_rRQ"
+    }
   },
   {
     "id": "89979",
@@ -109,6 +179,7 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   }
 ]

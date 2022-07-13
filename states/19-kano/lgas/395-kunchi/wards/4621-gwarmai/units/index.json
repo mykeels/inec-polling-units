@@ -13,7 +13,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.059199,
+      "longitude": 8.735383299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.06798,
+          "lng": 8.7432689
+        },
+        "southwest": {
+          "lat": 12.05298,
+          "lng": 8.732158
+        }
+      },
+      "formatted_address": "702101, Agalawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.059199,8.735383299999999",
+      "google_place_id": "ChIJJxMTBtCbrhERO88GVKQfkq8"
+    }
   },
   {
     "id": "90550",
@@ -29,7 +46,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3757966,
+      "longitude": 8.307133199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3885351,
+          "lng": 8.309935
+        },
+        "southwest": {
+          "lat": 12.369646,
+          "lng": 8.2979909
+        }
+      },
+      "formatted_address": "703103, Dankauri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3757966,8.307133199999999",
+      "google_place_id": "ChIJPbbK-jVDrhER1cWOCp8aaIs"
+    }
   },
   {
     "id": "90551",
@@ -45,7 +79,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3913743,
+      "longitude": 8.402238400000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39271052989272,
+          "lng": 8.403592329892723
+        },
+        "southwest": {
+          "lat": 12.39001087010728,
+          "lng": 8.400892670107279
+        }
+      },
+      "formatted_address": "7F4C9CR2+GVH, 703103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3913743,8.402238400000002",
+      "google_place_id": "ChIJ5Wq9rXxfrhERrKsGimzazL4"
+    }
   },
   {
     "id": "90552",
@@ -61,7 +112,8 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90553",
@@ -77,7 +129,8 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90554",
@@ -93,7 +146,8 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90555",
@@ -109,7 +163,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3682136,
+      "longitude": 8.4049999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36957837989272,
+          "lng": 8.406404479892721
+        },
+        "southwest": {
+          "lat": 12.36687872010728,
+          "lng": 8.403704820107277
+        }
+      },
+      "formatted_address": "7F4C9C94+72P, Cikin gari 703103, Gwarmai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3682136,8.4049999",
+      "google_place_id": "ChIJ64KiqSdfrhERecsa30tPfV8"
+    }
   },
   {
     "id": "90556",
@@ -125,7 +196,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4014685,
+      "longitude": 8.31277,
+      "viewport": {
+        "northeast": {
+          "lat": 12.40281232989272,
+          "lng": 8.314116679892722
+        },
+        "southwest": {
+          "lat": 12.40011267010728,
+          "lng": 8.311417020107278
+        }
+      },
+      "formatted_address": "7F4CC827+H4F Kargon Kunchi Gwarmai, Kuka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4014685,8.31277",
+      "google_place_id": "ChIJD12oe2RdrhERl__1EeKTWzU"
+    }
   },
   {
     "id": "90557",
@@ -141,7 +229,8 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90558",
@@ -157,7 +246,8 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90559",
@@ -173,7 +263,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.5027544,
+      "longitude": 8.2647697,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50387032989272,
+          "lng": 8.26608632989272
+        },
+        "southwest": {
+          "lat": 12.50117067010728,
+          "lng": 8.263386670107277
+        }
+      },
+      "formatted_address": "G737+5W2, 703103, Kunchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5027544,8.2647697",
+      "google_place_id": "ChIJn4ZEgXhPrhER-ulGLOF2HqI"
+    }
   },
   {
     "id": "90560",
@@ -189,7 +296,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3544217,
+      "longitude": 8.380633999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.35583622989272,
+          "lng": 8.382047979892722
+        },
+        "southwest": {
+          "lat": 12.35313657010728,
+          "lng": 8.379348320107278
+        }
+      },
+      "formatted_address": "7F4C993J+Q76, Zalli, 703103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3544217,8.380633999999999",
+      "google_place_id": "ChIJoY74kAZdrhERa0H11B9setc"
+    }
   },
   {
     "id": "90561",
@@ -205,6 +329,23 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9152831,
+      "longitude": 8.526069399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.91662582989272,
+          "lng": 8.527380879892723
+        },
+        "southwest": {
+          "lat": 11.91392617010728,
+          "lng": 8.52468122010728
+        }
+      },
+      "formatted_address": "7F3CWG8G+4CC, Ummarawa, 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9152831,8.526069399999999",
+      "google_place_id": "ChIJCV61ZT0rrBERM-DoKLeo-Z0"
+    }
   }
 ]

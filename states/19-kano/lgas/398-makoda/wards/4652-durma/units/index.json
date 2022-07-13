@@ -13,7 +13,8 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91073",
@@ -29,7 +30,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0130939,
+      "longitude": 8.4913481,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01445397989272,
+          "lng": 8.492740629892722
+        },
+        "southwest": {
+          "lat": 12.01175432010728,
+          "lng": 8.490040970107279
+        }
+      },
+      "formatted_address": "Masallacin mal.umar yusif makoda, Kofar Waika Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0130939,8.4913481",
+      "google_place_id": "ChIJTWJGs_iBrhERVvtm3HDrLHA"
+    }
   },
   {
     "id": "91074",
@@ -45,7 +63,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9934745,
+      "longitude": 8.4740717,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99484017989272,
+          "lng": 8.475423079892725
+        },
+        "southwest": {
+          "lat": 11.99214052010728,
+          "lng": 8.47272342010728
+        }
+      },
+      "formatted_address": "Tudun yola, Gwale Local Government, Tudun Yola, Kofar Kabuga, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9934745,8.4740717",
+      "google_place_id": "ChIJT50FrD5_rhERm--R3p8LGWw"
+    }
   },
   {
     "id": "91075",
@@ -61,7 +96,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4187,
+      "longitude": 8.4324999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42007537989272,
+          "lng": 8.43384637989272
+        },
+        "southwest": {
+          "lat": 12.41737572010728,
+          "lng": 8.431146720107277
+        }
+      },
+      "formatted_address": "CC9J+FXQ, 702105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4187,8.4324999",
+      "google_place_id": "ChIJ-ZSMUyJZrhERGQfLzxj78Bw"
+    }
   },
   {
     "id": "91076",
@@ -77,7 +129,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3852584,
+      "longitude": 8.701437499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.38656192989272,
+          "lng": 8.70283937989272
+        },
+        "southwest": {
+          "lat": 12.38386227010728,
+          "lng": 8.700139720107277
+        }
+      },
+      "formatted_address": "7F4C9PP2+3H6 Unguwar Ciroma, Tadwea 702104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3852584,8.701437499999999",
+      "google_place_id": "ChIJpSLcQbbtrhERUJOQv7lWia4"
+    }
   },
   {
     "id": "91077",
@@ -93,7 +162,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.7067596,
+      "longitude": 8.7672207,
+      "viewport": {
+        "northeast": {
+          "lat": 12.70805027989272,
+          "lng": 8.7685459
+        },
+        "southwest": {
+          "lat": 12.70535062010728,
+          "lng": 8.765768999999999
+        }
+      },
+      "formatted_address": "824105, Unguwar Adamu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7067596,8.7672207",
+      "google_place_id": "ChIJVQtEfIoerxERuGAwD7pOHyU"
+    }
   },
   {
     "id": "91078",
@@ -109,7 +195,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0021529,
+      "longitude": 8.5919749,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00344017989272,
+          "lng": 8.593338279892722
+        },
+        "southwest": {
+          "lat": 12.00074052010728,
+          "lng": 8.590638620107278
+        }
+      },
+      "formatted_address": "24, Gidan Inuwa Me Mai, Kantin Kwari Market, Saman Bene, Kano State, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0021529,8.5919749",
+      "google_place_id": "ChIJdx6ExMeDrhERtopVi9URSTw"
+    }
   },
   {
     "id": "91079",
@@ -125,7 +228,24 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3305691,
+      "longitude": 8.4826309,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33189642989272,
+          "lng": 8.484022329892722
+        },
+        "southwest": {
+          "lat": 12.32919677010728,
+          "lng": 8.481322670107279
+        }
+      },
+      "formatted_address": "7F4C8FJM+63C, Wango Durma, 702105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3305691,8.4826309",
+      "google_place_id": "ChIJlVwBIINfrhERvZCr8m5b1VA"
+    }
   },
   {
     "id": "91080",
@@ -141,6 +261,23 @@
     "local_government_id": "398",
     "local_government_name": "MAKODA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3852584,
+      "longitude": 8.701437499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.38656192989272,
+          "lng": 8.70283937989272
+        },
+        "southwest": {
+          "lat": 12.38386227010728,
+          "lng": 8.700139720107277
+        }
+      },
+      "formatted_address": "7F4C9PP2+3H6 Unguwar Ciroma, Tadwea 702104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3852584,8.701437499999999",
+      "google_place_id": "ChIJpSLcQbbtrhERUJOQv7lWia4"
+    }
   }
 ]

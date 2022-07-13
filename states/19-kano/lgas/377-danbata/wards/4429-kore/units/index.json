@@ -13,7 +13,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4347245,
+      "longitude": 8.5109239,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43575707989272,
+          "lng": 8.51244242989272
+        },
+        "southwest": {
+          "lat": 12.43305742010728,
+          "lng": 8.509742770107277
+        }
+      },
+      "formatted_address": "7F4CCGM6+W9M yamma Kano, 702104, Dambarta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4347245,8.5109239",
+      "google_place_id": "ChIJjVRiQvP3rhERRVxEiqv7Dpw"
+    }
   },
   {
     "id": "85879",
@@ -29,7 +46,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4298939,
+      "longitude": 8.5140963,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43124822989272,
+          "lng": 8.515446279892723
+        },
+        "southwest": {
+          "lat": 12.42854857010728,
+          "lng": 8.51274662010728
+        }
+      },
+      "formatted_address": "CGH7+XJ5, 702104, Dambarta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4298939,8.5140963",
+      "google_place_id": "ChIJyZJQ5c33rhERNYmTRUfwnRw"
+    }
   },
   {
     "id": "85880",
@@ -45,7 +79,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9887832,
+      "longitude": 8.521037,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99017327989272,
+          "lng": 8.522377579892723
+        },
+        "southwest": {
+          "lat": 11.98747362010728,
+          "lng": 8.519677920107279
+        }
+      },
+      "formatted_address": "Emir Palace Rd, Wudilawa 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9887832,8.521037",
+      "google_place_id": "ChIJdQGJvPiArhERt5bnkI8X1ck"
+    }
   },
   {
     "id": "85881",
@@ -61,7 +112,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3472482,
+      "longitude": 8.7504553,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34855492989272,
+          "lng": 8.751778979892721
+        },
+        "southwest": {
+          "lat": 12.34585527010728,
+          "lng": 8.749079320107278
+        }
+      },
+      "formatted_address": "7F4C8QW2+W5F Faba Kore Kano, 702104, Gwazo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3472482,8.7504553",
+      "google_place_id": "ChIJWXUyzZTrrhER466gCfYno4c"
+    }
   },
   {
     "id": "85882",
@@ -77,7 +145,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4347245,
+      "longitude": 8.5109239,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43575707989272,
+          "lng": 8.51244242989272
+        },
+        "southwest": {
+          "lat": 12.43305742010728,
+          "lng": 8.509742770107277
+        }
+      },
+      "formatted_address": "7F4CCGM6+W9M yamma Kano, 702104, Dambarta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4347245,8.5109239",
+      "google_place_id": "ChIJjVRiQvP3rhERRVxEiqv7Dpw"
+    }
   },
   {
     "id": "85883",
@@ -93,7 +178,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4277208,
+      "longitude": 8.514526199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.42909682989272,
+          "lng": 8.515739629892721
+        },
+        "southwest": {
+          "lat": 12.42639717010728,
+          "lng": 8.513039970107277
+        }
+      },
+      "formatted_address": "Kano - Daura Road, 700281, Dambatta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4277208,8.514526199999999",
+      "google_place_id": "ChIJ-X0AmN-ArhERQaQnyxP44CY"
+    }
   },
   {
     "id": "85884",
@@ -109,7 +211,8 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85885",
@@ -125,7 +228,8 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85886",
@@ -141,7 +245,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9887832,
+      "longitude": 8.521037,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99017327989272,
+          "lng": 8.522377579892723
+        },
+        "southwest": {
+          "lat": 11.98747362010728,
+          "lng": 8.519677920107279
+        }
+      },
+      "formatted_address": "Emir Palace Rd, Wudilawa 700103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9887832,8.521037",
+      "google_place_id": "ChIJdQGJvPiArhERt5bnkI8X1ck"
+    }
   },
   {
     "id": "85887",
@@ -157,7 +278,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4347245,
+      "longitude": 8.5109239,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43575707989272,
+          "lng": 8.51244242989272
+        },
+        "southwest": {
+          "lat": 12.43305742010728,
+          "lng": 8.509742770107277
+        }
+      },
+      "formatted_address": "7F4CCGM6+W9M yamma Kano, 702104, Dambarta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4347245,8.5109239",
+      "google_place_id": "ChIJjVRiQvP3rhERRVxEiqv7Dpw"
+    }
   },
   {
     "id": "85888",
@@ -173,7 +311,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4075727,
+      "longitude": 8.7381703,
+      "viewport": {
+        "northeast": {
+          "lat": 12.40892052989272,
+          "lng": 8.739492179892723
+        },
+        "southwest": {
+          "lat": 12.40622087010728,
+          "lng": 8.73679252010728
+        }
+      },
+      "formatted_address": "7F4CCP5Q+27F, Ruwantsa, 702104, Ungua Dogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4075727,8.7381703",
+      "google_place_id": "ChIJL-PIKpzvrhERfQA5_bq1MmM"
+    }
   },
   {
     "id": "85889",
@@ -189,7 +344,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0087943,
+      "longitude": 8.5458222,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01011327989272,
+          "lng": 8.547165479892723
+        },
+        "southwest": {
+          "lat": 12.00741362010728,
+          "lng": 8.544465820107279
+        }
+      },
+      "formatted_address": "KM 9 Hadejia Rd, Fagge 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0087943,8.5458222",
+      "google_place_id": "ChIJZcmc7RWBrhERHRIN_SMPfd8"
+    }
   },
   {
     "id": "85890",
@@ -205,7 +377,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3901546,
+      "longitude": 8.7816453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39137082989272,
+          "lng": 8.782910429892722
+        },
+        "southwest": {
+          "lat": 12.38867117010728,
+          "lng": 8.780210770107278
+        }
+      },
+      "formatted_address": "7F4C9QRJ+3M6 Unguwar Dogo Kore Kano, Kanya Baba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3901546,8.7816453",
+      "google_place_id": "ChIJWWBet9HprhER5O_m7cb67Q0"
+    }
   },
   {
     "id": "85891",
@@ -221,7 +410,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3901546,
+      "longitude": 8.7816453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39137082989272,
+          "lng": 8.782910429892722
+        },
+        "southwest": {
+          "lat": 12.38867117010728,
+          "lng": 8.780210770107278
+        }
+      },
+      "formatted_address": "7F4C9QRJ+3M6 Unguwar Dogo Kore Kano, Kanya Baba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3901546,8.7816453",
+      "google_place_id": "ChIJWWBet9HprhER5O_m7cb67Q0"
+    }
   },
   {
     "id": "85892",
@@ -237,7 +443,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3472482,
+      "longitude": 8.7504553,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34855492989272,
+          "lng": 8.751778979892721
+        },
+        "southwest": {
+          "lat": 12.34585527010728,
+          "lng": 8.749079320107278
+        }
+      },
+      "formatted_address": "7F4C8QW2+W5F Faba Kore Kano, 702104, Gwazo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3472482,8.7504553",
+      "google_place_id": "ChIJWXUyzZTrrhER466gCfYno4c"
+    }
   },
   {
     "id": "85893",
@@ -253,7 +476,8 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85894",
@@ -269,7 +493,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3775671,
+      "longitude": 8.7371039,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4254981,
+          "lng": 8.7950991
+        },
+        "southwest": {
+          "lat": 12.3319837,
+          "lng": 8.6704976
+        }
+      },
+      "formatted_address": "Kore, 702104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3775671,8.7371039",
+      "google_place_id": "ChIJ8WuCExrsrhER1bPpHSBVxtI"
+    }
   },
   {
     "id": "85895",
@@ -285,7 +526,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3775671,
+      "longitude": 8.7371039,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4254981,
+          "lng": 8.7950991
+        },
+        "southwest": {
+          "lat": 12.3319837,
+          "lng": 8.6704976
+        }
+      },
+      "formatted_address": "Kore, 702104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3775671,8.7371039",
+      "google_place_id": "ChIJ8WuCExrsrhER1bPpHSBVxtI"
+    }
   },
   {
     "id": "85896",
@@ -301,7 +559,24 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.408,
+      "longitude": 8.7386,
+      "viewport": {
+        "northeast": {
+          "lat": 12.40942887989272,
+          "lng": 8.739961029892722
+        },
+        "southwest": {
+          "lat": 12.40672922010728,
+          "lng": 8.737261370107278
+        }
+      },
+      "formatted_address": "CP5Q+6C5, 702104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.408,8.7386",
+      "google_place_id": "ChIJYwubErfurhEReiMbnj_3dsU"
+    }
   },
   {
     "id": "85897",
@@ -317,6 +592,23 @@
     "local_government_id": "377",
     "local_government_name": "DANBATA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4345552,
+      "longitude": 8.5226015,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43592142989272,
+          "lng": 8.523732829892722
+        },
+        "southwest": {
+          "lat": 12.43322177010728,
+          "lng": 8.521033170107277
+        }
+      },
+      "formatted_address": "7F4CCGMF+R2H east Kano, 702104, Dambarta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4345552,8.5226015",
+      "google_place_id": "ChIJexRKYuf3rhERi9DM7QBgWN8"
+    }
   }
 ]

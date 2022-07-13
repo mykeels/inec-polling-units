@@ -13,7 +13,24 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8815566,
+      "longitude": 8.3788925,
+      "viewport": {
+        "northeast": {
+          "lat": 11.88236647989272,
+          "lng": 8.379578299999999
+        },
+        "southwest": {
+          "lat": 11.87966682010728,
+          "lng": 8.3768351
+        }
+      },
+      "formatted_address": "Km 18 Kano - Madobi Road Kafin Agur Agalawa Madobi, 110101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8815566,8.3788925",
+      "google_place_id": "ChIJo6NmrYbXrRERs4FCgPsCwiI"
+    }
   },
   {
     "id": "90930",
@@ -29,7 +46,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90931",
@@ -45,7 +63,24 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9562591,
+      "longitude": 8.5309068,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9669521,
+          "lng": 8.5502814
+        },
+        "southwest": {
+          "lat": 11.9379826,
+          "lng": 8.5177516
+        }
+      },
+      "formatted_address": "kofar Kudu, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9562591,8.5309068",
+      "google_place_id": "ChIJncqyh82BrhERK8mBw-UTf6U"
+    }
   },
   {
     "id": "90932",
@@ -61,7 +96,24 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9562591,
+      "longitude": 8.5309068,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9669521,
+          "lng": 8.5502814
+        },
+        "southwest": {
+          "lat": 11.9379826,
+          "lng": 8.5177516
+        }
+      },
+      "formatted_address": "kofar Kudu, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9562591,8.5309068",
+      "google_place_id": "ChIJncqyh82BrhERK8mBw-UTf6U"
+    }
   },
   {
     "id": "90933",
@@ -77,7 +129,24 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9321776,
+      "longitude": 8.5605683,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93352792989272,
+          "lng": 8.56191942989272
+        },
+        "southwest": {
+          "lat": 11.93082827010728,
+          "lng": 8.559219770107276
+        }
+      },
+      "formatted_address": "WHJ6+V68, Unnamed Road, Nayibawa 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9321776,8.5605683",
+      "google_place_id": "ChIJ9QjKZ-0rrBER-45UK1irSYc"
+    }
   },
   {
     "id": "90934",
@@ -93,7 +162,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90935",
@@ -109,7 +179,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90936",
@@ -125,6 +196,23 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8815566,
+      "longitude": 8.3788925,
+      "viewport": {
+        "northeast": {
+          "lat": 11.88236647989272,
+          "lng": 8.379578299999999
+        },
+        "southwest": {
+          "lat": 11.87966682010728,
+          "lng": 8.3768351
+        }
+      },
+      "formatted_address": "Km 18 Kano - Madobi Road Kafin Agur Agalawa Madobi, 110101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8815566,8.3788925",
+      "google_place_id": "ChIJo6NmrYbXrRERs4FCgPsCwiI"
+    }
   }
 ]

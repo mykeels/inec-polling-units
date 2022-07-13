@@ -13,7 +13,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2277507,
+      "longitude": 8.2439052,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22889522989272,
+          "lng": 8.245132979892723
+        },
+        "southwest": {
+          "lat": 12.22619557010728,
+          "lng": 8.24243332010728
+        }
+      },
+      "formatted_address": "7F4C66HV+3HF, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2277507,8.2439052",
+      "google_place_id": "ChIJMSOY3VJprhERaQC4_Es-Qks"
+    }
   },
   {
     "id": "84830",
@@ -29,7 +46,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2997967,
+      "longitude": 8.3340424,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30114772989272,
+          "lng": 8.335300929892721
+        },
+        "southwest": {
+          "lat": 12.29844807010728,
+          "lng": 8.332601270107277
+        }
+      },
+      "formatted_address": "7F4C78XM+WJF Daddo Yanlami Kano, Damargu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2997967,8.3340424",
+      "google_place_id": "ChIJZadJVDlnrhERp_eK3aUG2nI"
+    }
   },
   {
     "id": "84831",
@@ -45,7 +79,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84832",
@@ -61,7 +112,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84833",
@@ -77,7 +145,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4494405,
+      "longitude": 8.417736999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.453258,
+          "lng": 8.422435
+        },
+        "southwest": {
+          "lat": 12.439924,
+          "lng": 8.413914
+        }
+      },
+      "formatted_address": "702105, Dunawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4494405,8.417736999999999",
+      "google_place_id": "ChIJ910ghp9ZrhERFXPm28sMq_M"
+    }
   },
   {
     "id": "84834",
@@ -93,7 +178,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3078871,
+      "longitude": 8.3147135,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30928442989272,
+          "lng": 8.316077379892722
+        },
+        "southwest": {
+          "lat": 12.30658477010728,
+          "lng": 8.313377720107278
+        }
+      },
+      "formatted_address": "7F4C8857+5V4 Yanlami Kano, Kantakara, 703101, Damargu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3078871,8.3147135",
+      "google_place_id": "ChIJgyBwmetnrhER1UrS2njgcU4"
+    }
   },
   {
     "id": "84835",
@@ -109,7 +211,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84836",
@@ -125,7 +228,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.234924,
+      "longitude": 8.3088397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23619817989272,
+          "lng": 8.31015217989272
+        },
+        "southwest": {
+          "lat": 12.23349852010728,
+          "lng": 8.307452520107276
+        }
+      },
+      "formatted_address": "7F4C68M5+XG8 Santar rago, Kyauta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.234924,8.3088397",
+      "google_place_id": "ChIJlwXYUA5prhER9ayGf4Y2nJs"
+    }
   },
   {
     "id": "84837",
@@ -141,7 +261,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2496719,
+      "longitude": 8.4047163,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2589819,
+          "lng": 8.411363
+        },
+        "southwest": {
+          "lat": 11.2365909,
+          "lng": 8.3751549
+        }
+      },
+      "formatted_address": "801136, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2496719,8.4047163",
+      "google_place_id": "ChIJE2ofjBmqrRERXnjAQQSFCBI"
+    }
   },
   {
     "id": "84838",
@@ -157,7 +294,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84839",
@@ -173,7 +327,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84840",
@@ -189,7 +360,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.226786,
+      "longitude": 8.2148465,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22813872989272,
+          "lng": 8.216195379892723
+        },
+        "southwest": {
+          "lat": 12.22543907010728,
+          "lng": 8.213495720107279
+        }
+      },
+      "formatted_address": "66G7+PW9, Eleven road Sabon layi kanti, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.226786,8.2148465",
+      "google_place_id": "ChIJkQhV-AFrrhERF-H3T_lJI1M"
+    }
   },
   {
     "id": "84841",
@@ -205,7 +393,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84842",
@@ -221,7 +426,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84843",
@@ -237,7 +459,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84844",
@@ -253,7 +476,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84845",
@@ -269,7 +493,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3078871,
+      "longitude": 8.3147135,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30928442989272,
+          "lng": 8.316077379892722
+        },
+        "southwest": {
+          "lat": 12.30658477010728,
+          "lng": 8.313377720107278
+        }
+      },
+      "formatted_address": "7F4C8857+5V4 Yanlami Kano, Kantakara, 703101, Damargu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3078871,8.3147135",
+      "google_place_id": "ChIJgyBwmetnrhER1UrS2njgcU4"
+    }
   },
   {
     "id": "84846",
@@ -285,7 +526,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.321856,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3937535,
+          "lng": 8.4394191
+        },
+        "southwest": {
+          "lat": 12.2259968,
+          "lng": 8.2977093
+        }
+      },
+      "formatted_address": "Yallami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.321856,8.3417006",
+      "google_place_id": "ChIJtcP-_IldrhERPhj_HAtsuLE"
+    }
   },
   {
     "id": "84847",
@@ -301,6 +559,23 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3078871,
+      "longitude": 8.3147135,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30928442989272,
+          "lng": 8.316077379892722
+        },
+        "southwest": {
+          "lat": 12.30658477010728,
+          "lng": 8.313377720107278
+        }
+      },
+      "formatted_address": "7F4C8857+5V4 Yanlami Kano, Kantakara, 703101, Damargu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3078871,8.3147135",
+      "google_place_id": "ChIJgyBwmetnrhER1UrS2njgcU4"
+    }
   }
 ]

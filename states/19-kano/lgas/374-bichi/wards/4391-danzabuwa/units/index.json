@@ -13,7 +13,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3456653,
+      "longitude": 8.1102837,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34701512989272,
+          "lng": 8.111633529892721
+        },
+        "southwest": {
+          "lat": 12.34431547010728,
+          "lng": 8.108933870107277
+        }
+      },
+      "formatted_address": "Danzabuwa Rd, 703101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3456653,8.1102837",
+      "google_place_id": "ChIJfeL8c74_rhERA5eqwo4MT0c"
+    }
   },
   {
     "id": "84683",
@@ -29,7 +46,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3511791,
+      "longitude": 8.1229329,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4275758,
+          "lng": 8.1937594
+        },
+        "southwest": {
+          "lat": 12.2985782,
+          "lng": 8.0778257
+        }
+      },
+      "formatted_address": "Danzabuwa, 703101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3511791,8.1229329",
+      "google_place_id": "ChIJ-4wOb4BArhERdOleamEHBjY"
+    }
   },
   {
     "id": "84684",
@@ -45,7 +79,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9303939,
+      "longitude": 8.5144079,
+      "viewport": {
+        "northeast": {
+          "lat": 11.93174327989272,
+          "lng": 8.51575297989272
+        },
+        "southwest": {
+          "lat": 11.92904362010728,
+          "lng": 8.513053320107277
+        }
+      },
+      "formatted_address": "Shagari quarters Kumbotso, 700104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9303939,8.5144079",
+      "google_place_id": "ChIJg5IHjy2ArhERxqcv-kCZEBo"
+    }
   },
   {
     "id": "84685",
@@ -61,7 +112,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2314553,
+      "longitude": 8.2277465,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23278797989272,
+          "lng": 8.229080229892721
+        },
+        "southwest": {
+          "lat": 12.23008832010728,
+          "lng": 8.226380570107278
+        }
+      },
+      "formatted_address": "7F4C66JH+J48, BUDE WOJE, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2314553,8.2277465",
+      "google_place_id": "ChIJPW384elprhERZMTS7tLlY54"
+    }
   },
   {
     "id": "84686",
@@ -77,7 +145,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0049526,
+      "longitude": 8.4983981,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00632817989272,
+          "lng": 8.499729179892723
+        },
+        "southwest": {
+          "lat": 12.00362852010728,
+          "lng": 8.49702952010728
+        }
+      },
+      "formatted_address": "School, Kano City 700251, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0049526,8.4983981",
+      "google_place_id": "ChIJJ8cPd7KBrhERsKxgZh9-D8I"
+    }
   },
   {
     "id": "84687",
@@ -93,7 +178,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84688",
@@ -109,7 +195,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2102717,
+      "longitude": 8.2810576,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21159922989272,
+          "lng": 8.282431479892722
+        },
+        "southwest": {
+          "lat": 12.20889957010728,
+          "lng": 8.279731820107278
+        }
+      },
+      "formatted_address": "7F4C676J+4C3 Sabon-gado Badume Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2102717,8.2810576",
+      "google_place_id": "ChIJK7BqbWVvrhERHAlAtlrEpS0"
+    }
   },
   {
     "id": "84689",
@@ -125,7 +228,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3511791,
+      "longitude": 8.1229329,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4275758,
+          "lng": 8.1937594
+        },
+        "southwest": {
+          "lat": 12.2985782,
+          "lng": 8.0778257
+        }
+      },
+      "formatted_address": "Danzabuwa, 703101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3511791,8.1229329",
+      "google_place_id": "ChIJ-4wOb4BArhERdOleamEHBjY"
+    }
   },
   {
     "id": "84690",
@@ -141,7 +261,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2348,
+      "longitude": 8.2363,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23635257989272,
+          "lng": 8.23757227989272
+        },
+        "southwest": {
+          "lat": 12.23365292010728,
+          "lng": 8.234872620107277
+        }
+      },
+      "formatted_address": "66MP+WGF, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2348,8.2363",
+      "google_place_id": "ChIJV20vjUVprhERgD4GYxu16VY"
+    }
   },
   {
     "id": "84691",
@@ -157,7 +294,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3760567,
+      "longitude": 8.1485221,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37739677989272,
+          "lng": 8.149873029892722
+        },
+        "southwest": {
+          "lat": 12.37469712010728,
+          "lng": 8.147173370107279
+        }
+      },
+      "formatted_address": "7F4C94GX+C99 sarari Danzabuwa Kano, 703101, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3760567,8.1485221",
+      "google_place_id": "ChIJiTjg9bJBrhERsSNcnejuHl0"
+    }
   },
   {
     "id": "84692",
@@ -173,7 +327,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3760567,
+      "longitude": 8.1485221,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37739677989272,
+          "lng": 8.149873029892722
+        },
+        "southwest": {
+          "lat": 12.37469712010728,
+          "lng": 8.147173370107279
+        }
+      },
+      "formatted_address": "7F4C94GX+C99 sarari Danzabuwa Kano, 703101, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3760567,8.1485221",
+      "google_place_id": "ChIJiTjg9bJBrhERsSNcnejuHl0"
+    }
   },
   {
     "id": "84693",
@@ -189,7 +360,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9970897,
+      "longitude": 8.5830907,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0197327,
+          "lng": 8.6194767
+        },
+        "southwest": {
+          "lat": 11.9597777,
+          "lng": 8.545029699999999
+        }
+      },
+      "formatted_address": "Nassarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9970897,8.5830907",
+      "google_place_id": "ChIJIQLMbdKDrhERIj5TOir0Pps"
+    }
   },
   {
     "id": "84694",
@@ -205,7 +393,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2140283,
+      "longitude": 8.2771321,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21537787989272,
+          "lng": 8.278455929892719
+        },
+        "southwest": {
+          "lat": 12.21267822010728,
+          "lng": 8.275756270107275
+        }
+      },
+      "formatted_address": "7F4C677G+JR5 Sabo Badume Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2140283,8.2771321",
+      "google_place_id": "ChIJ8Z__GlhvrhER82WwvzpV5mI"
+    }
   },
   {
     "id": "84695",
@@ -221,7 +426,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2140283,
+      "longitude": 8.2771321,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21537787989272,
+          "lng": 8.278455929892719
+        },
+        "southwest": {
+          "lat": 12.21267822010728,
+          "lng": 8.275756270107275
+        }
+      },
+      "formatted_address": "7F4C677G+JR5 Sabo Badume Kano, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2140283,8.2771321",
+      "google_place_id": "ChIJ8Z__GlhvrhER82WwvzpV5mI"
+    }
   },
   {
     "id": "84696",
@@ -237,7 +459,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84697",
@@ -253,7 +476,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3149571,
+      "longitude": 8.1094331,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31626327989272,
+          "lng": 8.110808579892723
+        },
+        "southwest": {
+          "lat": 12.31356362010728,
+          "lng": 8.108108920107279
+        }
+      },
+      "formatted_address": "7F4C8475+XQM, Farawa, 703101, Dan Zabuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3149571,8.1094331",
+      "google_place_id": "ChIJtYXZjKoVrhERuV_EBTwbRvM"
+    }
   },
   {
     "id": "84698",
@@ -269,7 +509,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3149571,
+      "longitude": 8.1094331,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31626327989272,
+          "lng": 8.110808579892723
+        },
+        "southwest": {
+          "lat": 12.31356362010728,
+          "lng": 8.108108920107279
+        }
+      },
+      "formatted_address": "7F4C8475+XQM, Farawa, 703101, Dan Zabuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3149571,8.1094331",
+      "google_place_id": "ChIJtYXZjKoVrhERuV_EBTwbRvM"
+    }
   },
   {
     "id": "84699",
@@ -285,7 +542,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3760567,
+      "longitude": 8.1485221,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37739677989272,
+          "lng": 8.149873029892722
+        },
+        "southwest": {
+          "lat": 12.37469712010728,
+          "lng": 8.147173370107279
+        }
+      },
+      "formatted_address": "7F4C94GX+C99 sarari Danzabuwa Kano, 703101, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3760567,8.1485221",
+      "google_place_id": "ChIJiTjg9bJBrhERsSNcnejuHl0"
+    }
   },
   {
     "id": "84700",
@@ -301,7 +575,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3760567,
+      "longitude": 8.1485221,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37739677989272,
+          "lng": 8.149873029892722
+        },
+        "southwest": {
+          "lat": 12.37469712010728,
+          "lng": 8.147173370107279
+        }
+      },
+      "formatted_address": "7F4C94GX+C99 sarari Danzabuwa Kano, 703101, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3760567,8.1485221",
+      "google_place_id": "ChIJiTjg9bJBrhERsSNcnejuHl0"
+    }
   },
   {
     "id": "84701",
@@ -317,7 +608,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3828182,
+      "longitude": 8.127624599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.38417352989272,
+          "lng": 8.128976129892722
+        },
+        "southwest": {
+          "lat": 12.38147387010728,
+          "lng": 8.126276470107278
+        }
+      },
+      "formatted_address": "7F4C94MH+438 Kyallin bula, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3828182,8.127624599999999",
+      "google_place_id": "ChIJP0q_bIw_rhERLvRGv5oYphg"
+    }
   },
   {
     "id": "84702",
@@ -333,7 +641,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3760567,
+      "longitude": 8.1485221,
+      "viewport": {
+        "northeast": {
+          "lat": 12.37739677989272,
+          "lng": 8.149873029892722
+        },
+        "southwest": {
+          "lat": 12.37469712010728,
+          "lng": 8.147173370107279
+        }
+      },
+      "formatted_address": "7F4C94GX+C99 sarari Danzabuwa Kano, 703101, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3760567,8.1485221",
+      "google_place_id": "ChIJiTjg9bJBrhERsSNcnejuHl0"
+    }
   },
   {
     "id": "84703",
@@ -349,7 +674,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84704",
@@ -365,7 +691,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84705",
@@ -381,7 +708,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84706",
@@ -397,6 +725,23 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3974449,
+      "longitude": 8.1559394,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39884707989272,
+          "lng": 8.15741907989272
+        },
+        "southwest": {
+          "lat": 12.39614742010728,
+          "lng": 8.154719420107277
+        }
+      },
+      "formatted_address": "7F4C95W4+X8G garu Danzabuwa Kano, 703101, Malikawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3974449,8.1559394",
+      "google_place_id": "ChIJzxhUVQRBrhERP39FKpReHsA"
+    }
   }
 ]

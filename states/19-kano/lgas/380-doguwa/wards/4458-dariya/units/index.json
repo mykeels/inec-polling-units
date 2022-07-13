@@ -13,7 +13,24 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 10.6695441,
+      "longitude": 8.7414494,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67084642989272,
+          "lng": 8.742582679892724
+        },
+        "southwest": {
+          "lat": 10.66814677010728,
+          "lng": 8.73988302010728
+        }
+      },
+      "formatted_address": "7F2CMP9R+RH8 Dariya Shere Dariya shere Kano Kwondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6695441,8.7414494",
+      "google_place_id": "ChIJ31JMG__PrBERi_cwNaqzT_Q"
+    }
   },
   {
     "id": "86462",
@@ -29,7 +46,24 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 10.6670491,
+      "longitude": 8.800068999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6681558,
+          "lng": 8.803234699999999
+        },
+        "southwest": {
+          "lat": 10.6644206,
+          "lng": 8.7982744
+        }
+      },
+      "formatted_address": "800118, Dariya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6670491,8.800068999999999",
+      "google_place_id": "ChIJE2M-G3vIrBERTeQHvnAMseM"
+    }
   },
   {
     "id": "86463",
@@ -45,7 +79,8 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "86464",
@@ -61,7 +96,24 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 10.8153118,
+      "longitude": 8.7641356,
+      "viewport": {
+        "northeast": {
+          "lat": 10.81669012989272,
+          "lng": 8.765468279892723
+        },
+        "southwest": {
+          "lat": 10.81399047010728,
+          "lng": 8.762768620107279
+        }
+      },
+      "formatted_address": "7F2CRQ87+4J4 Daurawa Zainabi Kano Zenabi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8153118,8.7641356",
+      "google_place_id": "ChIJTe9I2XTBrBERHFvgl9WIjQM"
+    }
   },
   {
     "id": "86465",
@@ -77,7 +129,24 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 10.3124335,
+      "longitude": 9.842559099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3141838,
+          "lng": 9.8453669
+        },
+        "southwest": {
+          "lat": 10.3105005,
+          "lng": 9.840047
+        }
+      },
+      "formatted_address": "Dogon Ruwa, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3124335,9.842559099999999",
+      "google_place_id": "ChIJW_fyJRPXVBARlEZqNDGID04"
+    }
   },
   {
     "id": "86466",
@@ -93,7 +162,24 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 10.6670491,
+      "longitude": 8.800068999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6681558,
+          "lng": 8.803234699999999
+        },
+        "southwest": {
+          "lat": 10.6644206,
+          "lng": 8.7982744
+        }
+      },
+      "formatted_address": "800118, Dariya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6670491,8.800068999999999",
+      "google_place_id": "ChIJE2M-G3vIrBERTeQHvnAMseM"
+    }
   },
   {
     "id": "86467",
@@ -109,6 +195,23 @@
     "local_government_id": "380",
     "local_government_name": "DOGUWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0894389,
+      "longitude": 8.432131,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1043684,
+          "lng": 8.447628
+        },
+        "southwest": {
+          "lat": 12.0777636,
+          "lng": 8.4136391
+        }
+      },
+      "formatted_address": "Dawanau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0894389,8.432131",
+      "google_place_id": "ChIJP44n5_h8rhERK9v7egOMHmk"
+    }
   }
 ]

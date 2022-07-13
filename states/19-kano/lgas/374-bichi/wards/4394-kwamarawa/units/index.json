@@ -13,7 +13,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2400015,
+      "longitude": 8.2383159,
+      "viewport": {
+        "northeast": {
+          "lat": 12.24136097989272,
+          "lng": 8.239716829892723
+        },
+        "southwest": {
+          "lat": 12.23866132010728,
+          "lng": 8.23701717010728
+        }
+      },
+      "formatted_address": "66RQ+284, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2400015,8.2383159",
+      "google_place_id": "ChIJiTnzUkFprhERQnO5RShytII"
+    }
   },
   {
     "id": "84740",
@@ -29,7 +46,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0332545,
+      "longitude": 8.5562997,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03459722989272,
+          "lng": 8.557650429892723
+        },
+        "southwest": {
+          "lat": 12.03189757010728,
+          "lng": 8.55495077010728
+        }
+      },
+      "formatted_address": "NO.1279 GAMA 'B' NASSARAWA, LGA, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0332545,8.5562997",
+      "google_place_id": "ChIJ_0qSgdiHrhER3-nr_1mku1g"
+    }
   },
   {
     "id": "84741",
@@ -45,7 +79,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.959721,
+      "longitude": 8.5581291,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96099292989272,
+          "lng": 8.559396079892723
+        },
+        "southwest": {
+          "lat": 11.95829327010728,
+          "lng": 8.55669642010728
+        }
+      },
+      "formatted_address": "XH55+V7J, Kano-Zaria Rd, Unguwa Uku 700102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.959721,8.5581291",
+      "google_place_id": "ChIJv4rzM-yBrhERDOA-_x9wNdA"
+    }
   },
   {
     "id": "84742",
@@ -61,7 +112,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.226786,
+      "longitude": 8.2148465,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22813872989272,
+          "lng": 8.216195379892723
+        },
+        "southwest": {
+          "lat": 12.22543907010728,
+          "lng": 8.213495720107279
+        }
+      },
+      "formatted_address": "66G7+PW9, Eleven road Sabon layi kanti, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.226786,8.2148465",
+      "google_place_id": "ChIJkQhV-AFrrhERF-H3T_lJI1M"
+    }
   },
   {
     "id": "84743",
@@ -77,7 +145,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9829515,
+      "longitude": 8.5239669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98432602989272,
+          "lng": 8.525350479892722
+        },
+        "southwest": {
+          "lat": 11.98162637010728,
+          "lng": 8.522650820107279
+        }
+      },
+      "formatted_address": "XGMF+5HP, Kofar, Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9829515,8.5239669",
+      "google_place_id": "ChIJ6Zlki9SBrhERzyTvDCz8nCI"
+    }
   },
   {
     "id": "84744",
@@ -93,7 +178,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3205126,
+      "longitude": 8.385532,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3459935,
+          "lng": 8.424622099999999
+        },
+        "southwest": {
+          "lat": 12.2572795,
+          "lng": 8.3448286
+        }
+      },
+      "formatted_address": "Kwamarawa, 703101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3205126,8.385532",
+      "google_place_id": "ChIJ7eNCblpnrhERmgfEjMV8CYs"
+    }
   },
   {
     "id": "84745",
@@ -109,7 +211,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84746",
@@ -125,7 +228,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3205126,
+      "longitude": 8.385532,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3459935,
+          "lng": 8.424622099999999
+        },
+        "southwest": {
+          "lat": 12.2572795,
+          "lng": 8.3448286
+        }
+      },
+      "formatted_address": "Kwamarawa, 703101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3205126,8.385532",
+      "google_place_id": "ChIJ7eNCblpnrhERmgfEjMV8CYs"
+    }
   },
   {
     "id": "84747",
@@ -141,7 +261,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0354875,
+      "longitude": 8.2215208,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03683217989272,
+          "lng": 8.222826179892719
+        },
+        "southwest": {
+          "lat": 12.03413252010727,
+          "lng": 8.220126520107275
+        }
+      },
+      "formatted_address": "26PC+5JR, 701104, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0354875,8.2215208",
+      "google_place_id": "ChIJffM846l2rhERO65JcnJ5TeQ"
+    }
   },
   {
     "id": "84748",
@@ -157,7 +294,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2865689,
+      "longitude": 8.3677647,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28786417989272,
+          "lng": 8.369116429892722
+        },
+        "southwest": {
+          "lat": 12.28516452010727,
+          "lng": 8.366416770107278
+        }
+      },
+      "formatted_address": "7F4C79P9+J3V Marga Kwamarawa Kano Saye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2865689,8.3677647",
+      "google_place_id": "ChIJl36iqqZnrhERmLvJPKK03Go"
+    }
   },
   {
     "id": "84749",
@@ -173,7 +327,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84750",
@@ -189,7 +344,8 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84751",
@@ -205,7 +361,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2743819,
+      "longitude": 8.277230399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.27572827989272,
+          "lng": 8.278586679892722
+        },
+        "southwest": {
+          "lat": 12.27302862010728,
+          "lng": 8.275887020107279
+        }
+      },
+      "formatted_address": "77FG+QW2, 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2743819,8.277230399999999",
+      "google_place_id": "ChIJRaNdalporhER330DyyOhP-8"
+    }
   },
   {
     "id": "84752",
@@ -221,7 +394,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3429993,
+      "longitude": 8.416941099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34435962989272,
+          "lng": 8.418287079892723
+        },
+        "southwest": {
+          "lat": 12.34165997010728,
+          "lng": 8.41558742010728
+        }
+      },
+      "formatted_address": "7F4C8CV8+6QM, Maginzawa, 703101, Gwarmai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3429993,8.416941099999999",
+      "google_place_id": "ChIJHcrPmrNfrhERodEwOIpp55I"
+    }
   },
   {
     "id": "84753",
@@ -237,7 +427,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3088399,
+      "longitude": 8.3564882,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31019527989272,
+          "lng": 8.357844229892722
+        },
+        "southwest": {
+          "lat": 12.30749562010728,
+          "lng": 8.355144570107278
+        }
+      },
+      "formatted_address": "7F4C8954+GHQ TINKI KWAMARAWA, Saye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3088399,8.3564882",
+      "google_place_id": "ChIJu4gKMNxnrhERZMdC2EGHR8U"
+    }
   },
   {
     "id": "84754",
@@ -253,7 +460,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3088399,
+      "longitude": 8.3564882,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31019527989272,
+          "lng": 8.357844229892722
+        },
+        "southwest": {
+          "lat": 12.30749562010728,
+          "lng": 8.355144570107278
+        }
+      },
+      "formatted_address": "7F4C8954+GHQ TINKI KWAMARAWA, Saye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3088399,8.3564882",
+      "google_place_id": "ChIJu4gKMNxnrhERZMdC2EGHR8U"
+    }
   },
   {
     "id": "84755",
@@ -269,7 +493,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3088399,
+      "longitude": 8.3564882,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31019527989272,
+          "lng": 8.357844229892722
+        },
+        "southwest": {
+          "lat": 12.30749562010728,
+          "lng": 8.355144570107278
+        }
+      },
+      "formatted_address": "7F4C8954+GHQ TINKI KWAMARAWA, Saye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3088399,8.3564882",
+      "google_place_id": "ChIJu4gKMNxnrhERZMdC2EGHR8U"
+    }
   },
   {
     "id": "84756",
@@ -285,7 +526,24 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3302353,
+      "longitude": 8.3898098,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33155272989272,
+          "lng": 8.391037329892722
+        },
+        "southwest": {
+          "lat": 12.32885307010728,
+          "lng": 8.388337670107278
+        }
+      },
+      "formatted_address": "89JQ+3WV, 703101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3302353,8.3898098",
+      "google_place_id": "ChIJXxKBP-ddrhERZSVsjtFzULg"
+    }
   },
   {
     "id": "84757",
@@ -301,6 +559,23 @@
     "local_government_id": "374",
     "local_government_name": "BICHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2865689,
+      "longitude": 8.3677647,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28786417989272,
+          "lng": 8.369116429892722
+        },
+        "southwest": {
+          "lat": 12.28516452010727,
+          "lng": 8.366416770107278
+        }
+      },
+      "formatted_address": "7F4C79P9+J3V Marga Kwamarawa Kano Saye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2865689,8.3677647",
+      "google_place_id": "ChIJl36iqqZnrhERmLvJPKK03Go"
+    }
   }
 ]

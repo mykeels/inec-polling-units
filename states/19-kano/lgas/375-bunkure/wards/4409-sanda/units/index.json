@@ -13,7 +13,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0024404,
+      "longitude": 8.51271,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00338302989272,
+          "lng": 8.514093629892722
+        },
+        "southwest": {
+          "lat": 12.00068337010728,
+          "lng": 8.511393970107276
+        }
+      },
+      "formatted_address": "local government, Gwale 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0024404,8.51271",
+      "google_place_id": "ChIJQz6wj-6ArhERHTBMmPudvt8"
+    }
   },
   {
     "id": "85015",
@@ -29,7 +46,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6986052,
+      "longitude": 8.5415283,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69993737989272,
+          "lng": 8.54287317989272
+        },
+        "southwest": {
+          "lat": 11.69723772010728,
+          "lng": 8.540173520107276
+        }
+      },
+      "formatted_address": "BUNKURE ALH DAUDA STREET OPP POLICE STATION BUNKURE, kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6986052,8.5415283",
+      "google_place_id": "ChIJ9dzs9HUzrBERqonDPclqE90"
+    }
   },
   {
     "id": "85016",
@@ -45,7 +79,8 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85017",
@@ -61,7 +96,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7163874,
+      "longitude": 8.569768999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71771502989272,
+          "lng": 8.571086229892721
+        },
+        "southwest": {
+          "lat": 11.71501537010728,
+          "lng": 8.568386570107277
+        }
+      },
+      "formatted_address": "7F3CPH89+HV2 GWMMS Kano, TUGUGU, 710103, Bunkure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7163874,8.569768999999999",
+      "google_place_id": "ChIJBZfdICsyrBER4v6MnWUF3fM"
+    }
   },
   {
     "id": "85018",
@@ -77,7 +129,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6419194,
+      "longitude": 8.7467959,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64340007989272,
+          "lng": 8.74813392989272
+        },
+        "southwest": {
+          "lat": 11.64070042010728,
+          "lng": 8.745434270107276
+        }
+      },
+      "formatted_address": "JPRW+QP7, 710103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6419194,8.7467959",
+      "google_place_id": "ChIJjejpXzU5rBERWzqF6J7QzJc"
+    }
   },
   {
     "id": "85019",
@@ -93,7 +162,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7163874,
+      "longitude": 8.569768999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71771502989272,
+          "lng": 8.571086229892721
+        },
+        "southwest": {
+          "lat": 11.71501537010728,
+          "lng": 8.568386570107277
+        }
+      },
+      "formatted_address": "7F3CPH89+HV2 GWMMS Kano, TUGUGU, 710103, Bunkure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7163874,8.569768999999999",
+      "google_place_id": "ChIJBZfdICsyrBER4v6MnWUF3fM"
+    }
   },
   {
     "id": "85020",
@@ -109,7 +195,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6782957,
+      "longitude": 8.7229221,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67957902989272,
+          "lng": 8.72429282989272
+        },
+        "southwest": {
+          "lat": 11.67687937010728,
+          "lng": 8.721593170107276
+        }
+      },
+      "formatted_address": "7F3CMPHF+85R Jigawar Sanda Kano, Dususu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6782957,8.7229221",
+      "google_place_id": "ChIJXe21o2s7rBER-WmcFGjq2Zo"
+    }
   },
   {
     "id": "85021",
@@ -125,7 +228,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9795052,
+      "longitude": 8.5648939,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98077682989272,
+          "lng": 8.566321479892721
+        },
+        "southwest": {
+          "lat": 11.97807717010727,
+          "lng": 8.563621820107278
+        }
+      },
+      "formatted_address": "XHH7+RX2, UDB Road, Hotoro GRA 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9795052,8.5648939",
+      "google_place_id": "ChIJQ03fa4SBrhERq5aIcd2NJBU"
+    }
   },
   {
     "id": "85022",
@@ -141,7 +261,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0315866,
+      "longitude": 8.4881768,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03293172989272,
+          "lng": 8.489514879892722
+        },
+        "southwest": {
+          "lat": 12.03023207010728,
+          "lng": 8.486815220107278
+        }
+      },
+      "formatted_address": "Kofar Lunkdi 700252, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0315866,8.4881768",
+      "google_place_id": "ChIJ-WIWDKuArhERfonTUSLwGQE"
+    }
   },
   {
     "id": "85023",
@@ -157,7 +294,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0335889,
+      "longitude": 8.4865427,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03492587989272,
+          "lng": 8.48791937989272
+        },
+        "southwest": {
+          "lat": 12.03222622010728,
+          "lng": 8.485219720107276
+        }
+      },
+      "formatted_address": "2FMP+CJM, Kurna Babban Layi Rd, Kofar Lunkdi 700252, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0335889,8.4865427",
+      "google_place_id": "ChIJS0txq5-BrhERJjy7dSZ8r3Y"
+    }
   },
   {
     "id": "85024",
@@ -173,7 +327,8 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85025",
@@ -189,7 +344,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0371127,
+      "longitude": 8.4858923,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03850632989272,
+          "lng": 8.487227679892722
+        },
+        "southwest": {
+          "lat": 12.03580667010728,
+          "lng": 8.484528020107279
+        }
+      },
+      "formatted_address": "juma'a, Kurna Asabe Road, Kofar Lunkdi 700252, mouqes, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0371127,8.4858923",
+      "google_place_id": "ChIJ-Va47aGHrhERLWuVQ-KrKGo"
+    }
   },
   {
     "id": "85026",
@@ -205,7 +377,8 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "85027",
@@ -221,7 +394,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6986052,
+      "longitude": 8.5415283,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69993737989272,
+          "lng": 8.54287317989272
+        },
+        "southwest": {
+          "lat": 11.69723772010728,
+          "lng": 8.540173520107276
+        }
+      },
+      "formatted_address": "BUNKURE ALH DAUDA STREET OPP POLICE STATION BUNKURE, kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6986052,8.5415283",
+      "google_place_id": "ChIJ9dzs9HUzrBERqonDPclqE90"
+    }
   },
   {
     "id": "85028",
@@ -237,7 +427,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6419194,
+      "longitude": 8.7467959,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64340007989272,
+          "lng": 8.74813392989272
+        },
+        "southwest": {
+          "lat": 11.64070042010728,
+          "lng": 8.745434270107276
+        }
+      },
+      "formatted_address": "JPRW+QP7, 710103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6419194,8.7467959",
+      "google_place_id": "ChIJjejpXzU5rBERWzqF6J7QzJc"
+    }
   },
   {
     "id": "85029",
@@ -253,7 +460,24 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9942958,
+      "longitude": 8.53444,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99565842989272,
+          "lng": 8.535743829892722
+        },
+        "southwest": {
+          "lat": 11.99295877010728,
+          "lng": 8.533044170107278
+        }
+      },
+      "formatted_address": "7 Ibrahim Taiwo Rd, Kofar Mata 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9942958,8.53444",
+      "google_place_id": "ChIJqzwJtM8wrBERcJqFMkGLYtk"
+    }
   },
   {
     "id": "85030",
@@ -269,6 +493,23 @@
     "local_government_id": "375",
     "local_government_name": "BUNKURE",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6474252,
+      "longitude": 8.7199103,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64878072989272,
+          "lng": 8.721205929892722
+        },
+        "southwest": {
+          "lat": 11.64608107010728,
+          "lng": 8.718506270107278
+        }
+      },
+      "formatted_address": "7F3CJPWC+X2J Masama Torankawa Sanda Kano, Dususu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6474252,8.7199103",
+      "google_place_id": "ChIJoW1mQEk5rBERs8nx8yfgu2A"
+    }
   }
 ]

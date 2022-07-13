@@ -13,7 +13,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4687969,
+      "longitude": 8.3143192,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5035046,
+          "lng": 8.3532219
+        },
+        "southwest": {
+          "lat": 11.4381873,
+          "lng": 8.286334199999999
+        }
+      },
+      "formatted_address": "Anadariya, 711104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4687969,8.3143192",
+      "google_place_id": "ChIJqxXe15mwrRERRGiIi5LNvaI"
+    }
   },
   {
     "id": "84411",
@@ -29,7 +46,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4687969,
+      "longitude": 8.3143192,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5035046,
+          "lng": 8.3532219
+        },
+        "southwest": {
+          "lat": 11.4381873,
+          "lng": 8.286334199999999
+        }
+      },
+      "formatted_address": "Anadariya, 711104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4687969,8.3143192",
+      "google_place_id": "ChIJqxXe15mwrRERRGiIi5LNvaI"
+    }
   },
   {
     "id": "84412",
@@ -45,7 +79,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4521287,
+      "longitude": 8.318768,
+      "viewport": {
+        "northeast": {
+          "lat": 11.453768,
+          "lng": 8.3203651
+        },
+        "southwest": {
+          "lat": 11.450311,
+          "lng": 8.316631
+        }
+      },
+      "formatted_address": "711104, Tashar Mara B, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4521287,8.318768",
+      "google_place_id": "ChIJ1frA9IewrRERXq0tov-S1-A"
+    }
   },
   {
     "id": "84413",
@@ -61,6 +112,23 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.451606,
+      "longitude": 8.317912,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45297072989272,
+          "lng": 8.31928987989272
+        },
+        "southwest": {
+          "lat": 11.45027107010728,
+          "lng": 8.316590220107276
+        }
+      },
+      "formatted_address": "7F3CF829+M4H Anadariya Anadariya Kano Danmako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.451606,8.317912",
+      "google_place_id": "ChIJ4wwS2IGxrRERXSVxmu4d4Hs"
+    }
   }
 ]

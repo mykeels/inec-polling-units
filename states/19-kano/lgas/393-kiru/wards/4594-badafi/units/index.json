@@ -13,7 +13,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89888",
@@ -29,7 +30,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89889",
@@ -45,7 +47,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89890",
@@ -61,7 +64,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3324067,
+      "longitude": 8.1980416,
+      "viewport": {
+        "northeast": {
+          "lat": 11.33375652989272,
+          "lng": 8.199391429892723
+        },
+        "southwest": {
+          "lat": 11.33105687010728,
+          "lng": 8.196691770107279
+        }
+      },
+      "formatted_address": "Badafi Kano, 7F3C85JX+X6J Dukku, Sabuwar, Badafi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3324067,8.1980416",
+      "google_place_id": "ChIJEyCJMWWjrRERLGok6F_YnHY"
+    }
   },
   {
     "id": "89891",
@@ -77,7 +97,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4355329,
+      "longitude": 8.2400514,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43682382989272,
+          "lng": 8.241121379892721
+        },
+        "southwest": {
+          "lat": 11.43412417010728,
+          "lng": 8.238421720107278
+        }
+      },
+      "formatted_address": "Gidan Buhari, 7F3CC6PQ+6X9 Gajale, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4355329,8.2400514",
+      "google_place_id": "ChIJqaKl7mi7rRERyVy_aPBvgu0"
+    }
   },
   {
     "id": "89892",
@@ -93,7 +130,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4355329,
+      "longitude": 8.2400514,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43682382989272,
+          "lng": 8.241121379892721
+        },
+        "southwest": {
+          "lat": 11.43412417010728,
+          "lng": 8.238421720107278
+        }
+      },
+      "formatted_address": "Gidan Buhari, 7F3CC6PQ+6X9 Gajale, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4355329,8.2400514",
+      "google_place_id": "ChIJqaKl7mi7rRERyVy_aPBvgu0"
+    }
   },
   {
     "id": "89893",
@@ -109,7 +163,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8223417,
+      "longitude": 8.3260598,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82372862989272,
+          "lng": 8.327490429892721
+        },
+        "southwest": {
+          "lat": 11.82102897010728,
+          "lng": 8.324790770107278
+        }
+      },
+      "formatted_address": "No 13 Gora Galadanci, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8223417,8.3260598",
+      "google_place_id": "ChIJ-e_xg3fRrRERR5Waodsa9TI"
+    }
   },
   {
     "id": "89894",
@@ -125,7 +196,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.352478,
+      "longitude": 8.228646399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35412087989272,
+          "lng": 8.230325329892722
+        },
+        "southwest": {
+          "lat": 11.35142122010728,
+          "lng": 8.227625670107278
+        }
+      },
+      "formatted_address": "711105, Katsalle, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.352478,8.228646399999999",
+      "google_place_id": "ChIJ1fIIg3CkrRERJyoqoR3EAnk"
+    }
   },
   {
     "id": "89895",
@@ -141,7 +229,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3741822,
+      "longitude": 8.168714099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3768691,
+          "lng": 8.170491
+        },
+        "southwest": {
+          "lat": 11.3718689,
+          "lng": 8.161577
+        }
+      },
+      "formatted_address": "711105, Sabuwar Badafi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3741822,8.168714099999999",
+      "google_place_id": "ChIJy51xAuairRERrnBJsVcB9_M"
+    }
   },
   {
     "id": "89896",
@@ -157,7 +262,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3741822,
+      "longitude": 8.168714099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3768691,
+          "lng": 8.170491
+        },
+        "southwest": {
+          "lat": 11.3718689,
+          "lng": 8.161577
+        }
+      },
+      "formatted_address": "711105, Sabuwar Badafi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3741822,8.168714099999999",
+      "google_place_id": "ChIJy51xAuairRERrnBJsVcB9_M"
+    }
   },
   {
     "id": "89897",
@@ -173,7 +295,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8617306,
+      "longitude": 9.0039485,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86306762989272,
+          "lng": 9.005279879892724
+        },
+        "southwest": {
+          "lat": 11.86036797010728,
+          "lng": 9.00258022010728
+        }
+      },
+      "formatted_address": "V263+MHW, Malikawa way Gaya, 713102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8617306,9.0039485",
+      "google_place_id": "ChIJERH1tbMdrBER5xLzIuvBD-A"
+    }
   },
   {
     "id": "89898",
@@ -189,7 +328,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.40162,
+      "longitude": 8.2689343,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40320852989272,
+          "lng": 8.270601029892722
+        },
+        "southwest": {
+          "lat": 11.40050887010728,
+          "lng": 8.267901370107278
+        }
+      },
+      "formatted_address": "7F3CC729+JHG Gajale Badafi Kano, Gajale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.40162,8.2689343",
+      "google_place_id": "ChIJadMyWNWlrRERmadoq8pHhjQ"
+    }
   },
   {
     "id": "89899",
@@ -205,7 +361,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.40162,
+      "longitude": 8.2689343,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40320852989272,
+          "lng": 8.270601029892722
+        },
+        "southwest": {
+          "lat": 11.40050887010728,
+          "lng": 8.267901370107278
+        }
+      },
+      "formatted_address": "7F3CC729+JHG Gajale Badafi Kano, Gajale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.40162,8.2689343",
+      "google_place_id": "ChIJadMyWNWlrRERmadoq8pHhjQ"
+    }
   },
   {
     "id": "89900",
@@ -221,7 +394,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3314974,
+      "longitude": 8.281132699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3321461,
+          "lng": 8.282812779892723
+        },
+        "southwest": {
+          "lat": 11.3290909,
+          "lng": 8.280113120107279
+        }
+      },
+      "formatted_address": "711105, Turame, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3314974,8.281132699999999",
+      "google_place_id": "ChIJlwMrnsSlrRERyFgxS8wmuIk"
+    }
   },
   {
     "id": "89901",
@@ -237,7 +427,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 10.6228365,
+      "longitude": 8.2869478,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62424737989272,
+          "lng": 8.288349179892723
+        },
+        "southwest": {
+          "lat": 10.62154772010728,
+          "lng": 8.28564952010728
+        }
+      },
+      "formatted_address": "Ung. Barde - Pambegua, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6228365,8.2869478",
+      "google_place_id": "ChIJAVe4T3UxrRERVZOjy1QHmVE"
+    }
   },
   {
     "id": "89902",
@@ -253,7 +460,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89903",
@@ -269,7 +477,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6802394,
+      "longitude": 8.1517012,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68162187989272,
+          "lng": 8.153031479892723
+        },
+        "southwest": {
+          "lat": 11.67892222010728,
+          "lng": 8.15033182010728
+        }
+      },
+      "formatted_address": "7F3CM5J2+3P2 Ung makera, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6802394,8.1517012",
+      "google_place_id": "ChIJZ5YWM1PBrRER3s4PAdg-I6Q"
+    }
   },
   {
     "id": "89904",
@@ -285,7 +510,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3737992,
+      "longitude": 8.266400899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37518052989272,
+          "lng": 8.267698229892721
+        },
+        "southwest": {
+          "lat": 11.37248087010728,
+          "lng": 8.264998570107277
+        }
+      },
+      "formatted_address": "7F3C97F8+GHF Ung. Nagge, Ungwan Arna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3737992,8.266400899999999",
+      "google_place_id": "ChIJDZufM2ClrRERyyWglHBSbLo"
+    }
   },
   {
     "id": "89905",
@@ -301,7 +543,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0036294,
+      "longitude": 8.4833289,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00487657989272,
+          "lng": 8.484702379892722
+        },
+        "southwest": {
+          "lat": 12.00217692010728,
+          "lng": 8.482002720107278
+        }
+      },
+      "formatted_address": "2F3M+F84, Kofar Kansakali 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0036294,8.4833289",
+      "google_place_id": "ChIJe3aodAGBrhERnj9RJij72R8"
+    }
   },
   {
     "id": "89906",
@@ -317,7 +576,8 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "89907",
@@ -333,7 +593,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3774201,
+      "longitude": 8.2743238,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37878557989272,
+          "lng": 8.27582292989272
+        },
+        "southwest": {
+          "lat": 11.37608592010728,
+          "lng": 8.273123270107277
+        }
+      },
+      "formatted_address": "7F3C97GF+XP8, Yarganji, 711105, Ungwan Arna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3774201,8.2743238",
+      "google_place_id": "ChIJjXrna1WlrRER9J6kGJKyIHo"
+    }
   },
   {
     "id": "89908",
@@ -349,7 +626,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3746195,
+      "longitude": 8.1625079,
+      "viewport": {
+        "northeast": {
+          "lat": 11.37598717989272,
+          "lng": 8.163854379892722
+        },
+        "southwest": {
+          "lat": 11.37328752010728,
+          "lng": 8.161154720107278
+        }
+      },
+      "formatted_address": "7F3C95F6+VXQ Badafi cikin Gari Badafi Kano Sabuwar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3746195,8.1625079",
+      "google_place_id": "ChIJo00pmVGjrRERqOIhlAXJdF8"
+    }
   },
   {
     "id": "89909",
@@ -365,7 +659,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4355329,
+      "longitude": 8.2400514,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43682382989272,
+          "lng": 8.241121379892721
+        },
+        "southwest": {
+          "lat": 11.43412417010728,
+          "lng": 8.238421720107278
+        }
+      },
+      "formatted_address": "Gidan Buhari, 7F3CC6PQ+6X9 Gajale, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4355329,8.2400514",
+      "google_place_id": "ChIJqaKl7mi7rRERyVy_aPBvgu0"
+    }
   },
   {
     "id": "89910",
@@ -381,7 +692,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4355329,
+      "longitude": 8.2400514,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43682382989272,
+          "lng": 8.241121379892721
+        },
+        "southwest": {
+          "lat": 11.43412417010728,
+          "lng": 8.238421720107278
+        }
+      },
+      "formatted_address": "Gidan Buhari, 7F3CC6PQ+6X9 Gajale, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4355329,8.2400514",
+      "google_place_id": "ChIJqaKl7mi7rRERyVy_aPBvgu0"
+    }
   },
   {
     "id": "89911",
@@ -397,7 +725,24 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.40162,
+      "longitude": 8.2689343,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40320852989272,
+          "lng": 8.270601029892722
+        },
+        "southwest": {
+          "lat": 11.40050887010728,
+          "lng": 8.267901370107278
+        }
+      },
+      "formatted_address": "7F3CC729+JHG Gajale Badafi Kano, Gajale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.40162,8.2689343",
+      "google_place_id": "ChIJadMyWNWlrRERmadoq8pHhjQ"
+    }
   },
   {
     "id": "89912",
@@ -413,6 +758,23 @@
     "local_government_id": "393",
     "local_government_name": "KIRU",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6802394,
+      "longitude": 8.1517012,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68162187989272,
+          "lng": 8.153031479892723
+        },
+        "southwest": {
+          "lat": 11.67892222010728,
+          "lng": 8.15033182010728
+        }
+      },
+      "formatted_address": "7F3CM5J2+3P2 Ung makera, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6802394,8.1517012",
+      "google_place_id": "ChIJZ5YWM1PBrRER3s4PAdg-I6Q"
+    }
   }
 ]

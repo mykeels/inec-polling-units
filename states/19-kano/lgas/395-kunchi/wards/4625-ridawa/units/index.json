@@ -13,7 +13,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.4518554,
+      "longitude": 8.3248178,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45320422989272,
+          "lng": 8.32616972989272
+        },
+        "southwest": {
+          "lat": 12.45050457010728,
+          "lng": 8.323470070107277
+        }
+      },
+      "formatted_address": "7F4CF82F+PWW Galadimawa, Kuka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4518554,8.3248178",
+      "google_place_id": "ChIJ61_CclJbrhERtdQL0sti9p8"
+    }
   },
   {
     "id": "90608",
@@ -29,7 +46,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.5055216,
+      "longitude": 8.2649324,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50679727989272,
+          "lng": 8.26629807989272
+        },
+        "southwest": {
+          "lat": 12.50409762010728,
+          "lng": 8.263598420107277
+        }
+      },
+      "formatted_address": "G747+6X3, 703103, Kunchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5055216,8.2649324",
+      "google_place_id": "ChIJTX0IB3hPrhERPiTEumdh96U"
+    }
   },
   {
     "id": "90609",
@@ -45,7 +79,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.5027544,
+      "longitude": 8.2647697,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50387032989272,
+          "lng": 8.26608632989272
+        },
+        "southwest": {
+          "lat": 12.50117067010728,
+          "lng": 8.263386670107277
+        }
+      },
+      "formatted_address": "G737+5W2, 703103, Kunchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5027544,8.2647697",
+      "google_place_id": "ChIJn4ZEgXhPrhER-ulGLOF2HqI"
+    }
   },
   {
     "id": "90610",
@@ -61,7 +112,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0315866,
+      "longitude": 8.4881768,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03293172989272,
+          "lng": 8.489514879892722
+        },
+        "southwest": {
+          "lat": 12.03023207010728,
+          "lng": 8.486815220107278
+        }
+      },
+      "formatted_address": "Kofar Lunkdi 700252, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0315866,8.4881768",
+      "google_place_id": "ChIJ-WIWDKuArhERfonTUSLwGQE"
+    }
   },
   {
     "id": "90611",
@@ -77,7 +145,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3889801,
+      "longitude": 8.2004526,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4040911,
+          "lng": 8.206324
+        },
+        "southwest": {
+          "lat": 12.384369,
+          "lng": 8.187713
+        }
+      },
+      "formatted_address": "703103, Kwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3889801,8.2004526",
+      "google_place_id": "ChIJ17vUKzhBrhER5PkOdeE4Xjc"
+    }
   },
   {
     "id": "90612",
@@ -93,7 +178,24 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0124287,
+      "longitude": 8.534216899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01374702989272,
+          "lng": 8.535566029892724
+        },
+        "southwest": {
+          "lat": 12.01104737010728,
+          "lng": 8.53286637010728
+        }
+      },
+      "formatted_address": "Laying jirgi, Metamsile NU, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0124287,8.534216899999999",
+      "google_place_id": "ChIJs3YgSdOBrhERjiPkKpTRSg4"
+    }
   },
   {
     "id": "90613",
@@ -109,7 +211,8 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "90614",
@@ -125,6 +228,23 @@
     "local_government_id": "395",
     "local_government_name": "KUNCHI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0154197,
+      "longitude": 8.539894,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01664182989272,
+          "lng": 8.541244979892722
+        },
+        "southwest": {
+          "lat": 12.01394217010728,
+          "lng": 8.538545320107279
+        }
+      },
+      "formatted_address": "Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0154197,8.539894",
+      "google_place_id": "ChIJ10a-9j-BrhER4UI-XRzqPkc"
+    }
   }
 ]

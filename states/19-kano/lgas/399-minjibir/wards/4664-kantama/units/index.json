@@ -13,7 +13,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2122257,
+      "longitude": 8.589232599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21361122989272,
+          "lng": 8.590708529892721
+        },
+        "southwest": {
+          "lat": 12.21091157010728,
+          "lng": 8.588008870107277
+        }
+      },
+      "formatted_address": "7F4C6H6Q+VP6 Garke Kantama Kano, Garke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2122257,8.589232599999999",
+      "google_place_id": "ChIJg4r-tKCNrhERDXImLfrVG7w"
+    }
   },
   {
     "id": "91222",
@@ -29,7 +46,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2122257,
+      "longitude": 8.589232599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21361122989272,
+          "lng": 8.590708529892721
+        },
+        "southwest": {
+          "lat": 12.21091157010728,
+          "lng": 8.588008870107277
+        }
+      },
+      "formatted_address": "7F4C6H6Q+VP6 Garke Kantama Kano, Garke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2122257,8.589232599999999",
+      "google_place_id": "ChIJg4r-tKCNrhERDXImLfrVG7w"
+    }
   },
   {
     "id": "91223",
@@ -45,7 +79,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9638996,
+      "longitude": 8.5015653,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96525007989272,
+          "lng": 8.502947229892722
+        },
+        "southwest": {
+          "lat": 11.96255042010728,
+          "lng": 8.500247570107279
+        }
+      },
+      "formatted_address": "Sharada 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9638996,8.5015653",
+      "google_place_id": "ChIJ7YauGBmBrhER3zRbOSfdP6c"
+    }
   },
   {
     "id": "91224",
@@ -61,7 +112,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1697284,
+      "longitude": 8.5615898,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17111182989272,
+          "lng": 8.562931029892722
+        },
+        "southwest": {
+          "lat": 12.16841217010728,
+          "lng": 8.560231370107278
+        }
+      },
+      "formatted_address": "7F4C5H96+VJW Kachi shirwa, Garke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1697284,8.5615898",
+      "google_place_id": "ChIJA5AeCQqJrhERf4pr6AbMiyw"
+    }
   },
   {
     "id": "91225",
@@ -77,7 +145,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9437275,
+      "longitude": 8.5437657,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94513372989272,
+          "lng": 8.545096129892721
+        },
+        "southwest": {
+          "lat": 11.94243407010728,
+          "lng": 8.542396470107278
+        }
+      },
+      "formatted_address": "WGVV+FG6, Local Govt Line Bariki, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9437275,8.5437657",
+      "google_place_id": "ChIJo530_B-BrhERgRHXQSv2QgE"
+    }
   },
   {
     "id": "91226",
@@ -93,7 +178,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9437275,
+      "longitude": 8.5437657,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94513372989272,
+          "lng": 8.545096129892721
+        },
+        "southwest": {
+          "lat": 11.94243407010728,
+          "lng": 8.542396470107278
+        }
+      },
+      "formatted_address": "WGVV+FG6, Local Govt Line Bariki, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9437275,8.5437657",
+      "google_place_id": "ChIJo530_B-BrhERgRHXQSv2QgE"
+    }
   },
   {
     "id": "91227",
@@ -109,7 +211,8 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91228",
@@ -125,7 +228,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1696669,
+      "longitude": 8.5613195,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17106072989272,
+          "lng": 8.56272037989272
+        },
+        "southwest": {
+          "lat": 12.16836107010728,
+          "lng": 8.560020720107277
+        }
+      },
+      "formatted_address": "7F4C5H96+VGJ Kantama Chiroma Kantama Kano Garke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1696669,8.5613195",
+      "google_place_id": "ChIJOXkEy4CJrhERqb7YGrPeXdA"
+    }
   },
   {
     "id": "91229",
@@ -141,7 +261,8 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91230",
@@ -157,7 +278,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2122257,
+      "longitude": 8.589232599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21361122989272,
+          "lng": 8.590708529892721
+        },
+        "southwest": {
+          "lat": 12.21091157010728,
+          "lng": 8.588008870107277
+        }
+      },
+      "formatted_address": "7F4C6H6Q+VP6 Garke Kantama Kano, Garke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2122257,8.589232599999999",
+      "google_place_id": "ChIJg4r-tKCNrhERDXImLfrVG7w"
+    }
   },
   {
     "id": "91231",
@@ -173,6 +311,23 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9437275,
+      "longitude": 8.5437657,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94513372989272,
+          "lng": 8.545096129892721
+        },
+        "southwest": {
+          "lat": 11.94243407010728,
+          "lng": 8.542396470107278
+        }
+      },
+      "formatted_address": "WGVV+FG6, Local Govt Line Bariki, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9437275,8.5437657",
+      "google_place_id": "ChIJo530_B-BrhERgRHXQSv2QgE"
+    }
   }
 ]

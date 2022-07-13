@@ -13,7 +13,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91049",
@@ -29,7 +30,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91050",
@@ -45,7 +47,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91051",
@@ -61,7 +64,8 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91052",
@@ -77,6 +81,23 @@
     "local_government_id": "397",
     "local_government_name": "MADOBI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8927215,
+      "longitude": 8.392923,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89368272989272,
+          "lng": 8.394569229892722
+        },
+        "southwest": {
+          "lat": 11.89098307010728,
+          "lng": 8.391869570107279
+        }
+      },
+      "formatted_address": "V9VV+35M, 711102, Burji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8927215,8.392923",
+      "google_place_id": "ChIJIVfNjgDXrRERwZ1vZ4Je0Xw"
+    }
   }
 ]

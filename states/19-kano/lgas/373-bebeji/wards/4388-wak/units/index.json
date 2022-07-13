@@ -13,7 +13,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5927966,
+      "longitude": 8.362243399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.601869,
+          "lng": 8.369935
+        },
+        "southwest": {
+          "lat": 11.577484,
+          "lng": 8.345932
+        }
+      },
+      "formatted_address": "711104, Wak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5927966,8.362243399999999",
+      "google_place_id": "ChIJb2vBltDJrRERTBrvGiSdvPg"
+    }
   },
   {
     "id": "84566",
@@ -29,7 +46,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84567",
@@ -45,7 +63,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84568",
@@ -61,7 +80,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5901775,
+      "longitude": 8.3590684,
+      "viewport": {
+        "northeast": {
+          "lat": 11.59173872989272,
+          "lng": 8.360269929892722
+        },
+        "southwest": {
+          "lat": 11.58903907010728,
+          "lng": 8.357570270107278
+        }
+      },
+      "formatted_address": "711104, Wak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5901775,8.3590684",
+      "google_place_id": "ChIJd27AvtbJrRER2r_IKPyonKk"
+    }
   },
   {
     "id": "84569",
@@ -77,7 +113,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5901775,
+      "longitude": 8.3590684,
+      "viewport": {
+        "northeast": {
+          "lat": 11.59173872989272,
+          "lng": 8.360269929892722
+        },
+        "southwest": {
+          "lat": 11.58903907010728,
+          "lng": 8.357570270107278
+        }
+      },
+      "formatted_address": "711104, Wak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5901775,8.3590684",
+      "google_place_id": "ChIJd27AvtbJrRER2r_IKPyonKk"
+    }
   },
   {
     "id": "84570",
@@ -93,6 +146,23 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5927966,
+      "longitude": 8.362243399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.601869,
+          "lng": 8.369935
+        },
+        "southwest": {
+          "lat": 11.577484,
+          "lng": 8.345932
+        }
+      },
+      "formatted_address": "711104, Wak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5927966,8.362243399999999",
+      "google_place_id": "ChIJb2vBltDJrRERTBrvGiSdvPg"
+    }
   }
 ]

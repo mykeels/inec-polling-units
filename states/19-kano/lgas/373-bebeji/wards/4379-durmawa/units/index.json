@@ -13,7 +13,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0051932,
+      "longitude": 8.5254087,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00654862989272,
+          "lng": 8.526762579892722
+        },
+        "southwest": {
+          "lat": 12.00384897010728,
+          "lng": 8.524062920107278
+        }
+      },
+      "formatted_address": "Kofar Wambali 700114, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0051932,8.5254087",
+      "google_place_id": "ChIJqbK4tGCBrhERACyfH_zI3sk"
+    }
   },
   {
     "id": "84468",
@@ -29,7 +46,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6051,
+      "longitude": 8.2579999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.60643132989272,
+          "lng": 8.259357729892722
+        },
+        "southwest": {
+          "lat": 11.60373167010728,
+          "lng": 8.256658070107278
+        }
+      },
+      "formatted_address": "J745+25X, 711104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6051,8.2579999",
+      "google_place_id": "ChIJ2YxaZnHHrRERDB8LGT250Gc"
+    }
   },
   {
     "id": "84469",
@@ -45,7 +79,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5461259,
+      "longitude": 8.5611142,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5720028,
+          "lng": 8.5969712
+        },
+        "southwest": {
+          "lat": 11.5266202,
+          "lng": 8.5366027
+        }
+      },
+      "formatted_address": "Dawaki, 710101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5461259,8.5611142",
+      "google_place_id": "ChIJl08AgyZKrBER8ACMosqkmQ8"
+    }
   },
   {
     "id": "84470",
@@ -61,7 +112,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6230968,
+      "longitude": 8.279171,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62443472989272,
+          "lng": 8.280560129892724
+        },
+        "southwest": {
+          "lat": 11.62173507010728,
+          "lng": 8.27786047010728
+        }
+      },
+      "formatted_address": "7F3CJ7FH+7M3 Dawakin dogo Durmawa Kano, Tariwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6230968,8.279171",
+      "google_place_id": "ChIJwR1AlxPHrRERHniJIEpfNLo"
+    }
   },
   {
     "id": "84471",
@@ -77,7 +145,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6226963,
+      "longitude": 8.2541155,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6583897,
+          "lng": 8.301571899999999
+        },
+        "southwest": {
+          "lat": 11.5764818,
+          "lng": 8.1885427
+        }
+      },
+      "formatted_address": "Durmawa, 711104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6226963,8.2541155",
+      "google_place_id": "ChIJ3deydxbHrRERjkGAGY_YxTo"
+    }
   },
   {
     "id": "84472",
@@ -93,7 +178,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6226963,
+      "longitude": 8.2541155,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6583897,
+          "lng": 8.301571899999999
+        },
+        "southwest": {
+          "lat": 11.5764818,
+          "lng": 8.1885427
+        }
+      },
+      "formatted_address": "Durmawa, 711104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6226963,8.2541155",
+      "google_place_id": "ChIJ3deydxbHrRERjkGAGY_YxTo"
+    }
   },
   {
     "id": "84473",
@@ -109,7 +211,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84474",
@@ -125,7 +228,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84475",
@@ -141,7 +245,24 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6392602,
+      "longitude": 8.257470699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64061022989272,
+          "lng": 8.258789529892722
+        },
+        "southwest": {
+          "lat": 11.63791057010728,
+          "lng": 8.256089870107278
+        }
+      },
+      "formatted_address": "7F3CJ7Q4+PXG Sabuwar unguwa Durmawa Kano, Bebeji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6392602,8.257470699999999",
+      "google_place_id": "ChIJKZynkubHrRERpDlFr6OdrYs"
+    }
   },
   {
     "id": "84476",
@@ -157,7 +278,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84477",
@@ -173,7 +295,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84478",
@@ -189,7 +312,8 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "84479",
@@ -205,6 +329,23 @@
     "local_government_id": "373",
     "local_government_name": "BEBEJI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6051,
+      "longitude": 8.2579999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.60643132989272,
+          "lng": 8.259357729892722
+        },
+        "southwest": {
+          "lat": 11.60373167010728,
+          "lng": 8.256658070107278
+        }
+      },
+      "formatted_address": "J745+25X, 711104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6051,8.2579999",
+      "google_place_id": "ChIJ2YxaZnHHrRERDB8LGT250Gc"
+    }
   }
 ]

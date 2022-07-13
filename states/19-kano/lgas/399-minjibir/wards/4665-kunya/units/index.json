@@ -13,7 +13,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9437275,
+      "longitude": 8.5437657,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94513372989272,
+          "lng": 8.545096129892721
+        },
+        "southwest": {
+          "lat": 11.94243407010728,
+          "lng": 8.542396470107278
+        }
+      },
+      "formatted_address": "WGVV+FG6, Local Govt Line Bariki, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9437275,8.5437657",
+      "google_place_id": "ChIJo530_B-BrhERgRHXQSv2QgE"
+    }
   },
   {
     "id": "91233",
@@ -29,7 +46,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2225344,
+      "longitude": 8.5032099,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22390192989272,
+          "lng": 8.504595779892721
+        },
+        "southwest": {
+          "lat": 12.22120227010728,
+          "lng": 8.501896120107277
+        }
+      },
+      "formatted_address": "7F4C6GF3+278 Kwanar dumawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2225344,8.5032099",
+      "google_place_id": "ChIJGYzriieLrhERcy5abzk80ss"
+    }
   },
   {
     "id": "91234",
@@ -45,7 +79,8 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "91235",
@@ -61,7 +96,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2138275,
+      "longitude": 8.5622966,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21520032989272,
+          "lng": 8.563607679892723
+        },
+        "southwest": {
+          "lat": 12.21250067010728,
+          "lng": 8.560908020107279
+        }
+      },
+      "formatted_address": "7F4C6H76+GWM, Goda, 702103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2138275,8.5622966",
+      "google_place_id": "ChIJ-7vdBY2LrhERv-kwbo0DM3E"
+    }
   },
   {
     "id": "91236",
@@ -77,7 +129,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9152831,
+      "longitude": 8.526069399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.91662582989272,
+          "lng": 8.527380879892723
+        },
+        "southwest": {
+          "lat": 11.91392617010728,
+          "lng": 8.52468122010728
+        }
+      },
+      "formatted_address": "7F3CWG8G+4CC, Ummarawa, 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9152831,8.526069399999999",
+      "google_place_id": "ChIJCV61ZT0rrBERM-DoKLeo-Z0"
+    }
   },
   {
     "id": "91237",
@@ -93,7 +162,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2260936,
+      "longitude": 8.5291955,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22742087989272,
+          "lng": 8.530542429892721
+        },
+        "southwest": {
+          "lat": 12.22472122010728,
+          "lng": 8.527842770107277
+        }
+      },
+      "formatted_address": "7F4C6GGH+CJH Kaukai makadi,Kunya Kunya Kano Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2260936,8.5291955",
+      "google_place_id": "ChIJUV0KJbWLrhERo08Ktu9cz5o"
+    }
   },
   {
     "id": "91238",
@@ -109,7 +195,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2260936,
+      "longitude": 8.5291955,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22742087989272,
+          "lng": 8.530542429892721
+        },
+        "southwest": {
+          "lat": 12.22472122010728,
+          "lng": 8.527842770107277
+        }
+      },
+      "formatted_address": "7F4C6GGH+CJH Kaukai makadi,Kunya Kunya Kano Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2260936,8.5291955",
+      "google_place_id": "ChIJUV0KJbWLrhERo08Ktu9cz5o"
+    }
   },
   {
     "id": "91239",
@@ -125,7 +228,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2226126,
+      "longitude": 8.5371712,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22395197989272,
+          "lng": 8.538501979892722
+        },
+        "southwest": {
+          "lat": 12.22125232010728,
+          "lng": 8.535802320107278
+        }
+      },
+      "formatted_address": "7F4C6GFP+3R9 school, 702103, Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2226126,8.5371712",
+      "google_place_id": "ChIJ2cs8V5uLrhERabZacPUwGp0"
+    }
   },
   {
     "id": "91240",
@@ -141,7 +261,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9819913,
+      "longitude": 8.571852500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98353912989272,
+          "lng": 8.573177079892721
+        },
+        "southwest": {
+          "lat": 11.98083947010728,
+          "lng": 8.570477420107277
+        }
+      },
+      "formatted_address": "Kawo Cikin Gari Primary School, Hotoro GRA 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9819913,8.571852500000002",
+      "google_place_id": "ChIJo2UWn4CBrhEReiGELRlY-2A"
+    }
   },
   {
     "id": "91241",
@@ -157,7 +294,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2226126,
+      "longitude": 8.5371712,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22395197989272,
+          "lng": 8.538501979892722
+        },
+        "southwest": {
+          "lat": 12.22125232010728,
+          "lng": 8.535802320107278
+        }
+      },
+      "formatted_address": "7F4C6GFP+3R9 school, 702103, Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2226126,8.5371712",
+      "google_place_id": "ChIJ2cs8V5uLrhERabZacPUwGp0"
+    }
   },
   {
     "id": "91242",
@@ -173,7 +327,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2226126,
+      "longitude": 8.5371712,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22395197989272,
+          "lng": 8.538501979892722
+        },
+        "southwest": {
+          "lat": 12.22125232010728,
+          "lng": 8.535802320107278
+        }
+      },
+      "formatted_address": "7F4C6GFP+3R9 school, 702103, Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2226126,8.5371712",
+      "google_place_id": "ChIJ2cs8V5uLrhERabZacPUwGp0"
+    }
   },
   {
     "id": "91243",
@@ -189,7 +360,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2226126,
+      "longitude": 8.5371712,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22395197989272,
+          "lng": 8.538501979892722
+        },
+        "southwest": {
+          "lat": 12.22125232010728,
+          "lng": 8.535802320107278
+        }
+      },
+      "formatted_address": "7F4C6GFP+3R9 school, 702103, Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2226126,8.5371712",
+      "google_place_id": "ChIJ2cs8V5uLrhERabZacPUwGp0"
+    }
   },
   {
     "id": "91244",
@@ -205,7 +393,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0084358,
+      "longitude": 8.5461821,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00978322989272,
+          "lng": 8.54753682989272
+        },
+        "southwest": {
+          "lat": 12.00708357010728,
+          "lng": 8.544837170107277
+        }
+      },
+      "formatted_address": "64 Hadejia Rd, Fagge 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0084358,8.5461821",
+      "google_place_id": "ChIJP83xpHTIrhERGj2995gWqe8"
+    }
   },
   {
     "id": "91245",
@@ -221,7 +426,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1751477,
+      "longitude": 8.6627017,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17648607989272,
+          "lng": 8.66412207989272
+        },
+        "southwest": {
+          "lat": 12.17378642010728,
+          "lng": 8.661422420107277
+        }
+      },
+      "formatted_address": "7F4C5MG7+332, 702103, Minjibir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1751477,8.6627017",
+      "google_place_id": "ChIJ4Sb5vxmRrhERm6PgQ-tAwEA"
+    }
   },
   {
     "id": "91246",
@@ -237,7 +459,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1751477,
+      "longitude": 8.6627017,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17648607989272,
+          "lng": 8.66412207989272
+        },
+        "southwest": {
+          "lat": 12.17378642010728,
+          "lng": 8.661422420107277
+        }
+      },
+      "formatted_address": "7F4C5MG7+332, 702103, Minjibir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1751477,8.6627017",
+      "google_place_id": "ChIJ4Sb5vxmRrhERm6PgQ-tAwEA"
+    }
   },
   {
     "id": "91247",
@@ -253,7 +492,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2469904,
+      "longitude": 8.5611142,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2816044,
+          "lng": 8.5795844
+        },
+        "southwest": {
+          "lat": 12.2055777,
+          "lng": 8.493195199999999
+        }
+      },
+      "formatted_address": "Kunya, 702103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2469904,8.5611142",
+      "google_place_id": "ChIJ6WfgH7GLrhERxddMB4-Og0g"
+    }
   },
   {
     "id": "91248",
@@ -269,7 +525,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2469904,
+      "longitude": 8.5611142,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2816044,
+          "lng": 8.5795844
+        },
+        "southwest": {
+          "lat": 12.2055777,
+          "lng": 8.493195199999999
+        }
+      },
+      "formatted_address": "Kunya, 702103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2469904,8.5611142",
+      "google_place_id": "ChIJ6WfgH7GLrhERxddMB4-Og0g"
+    }
   },
   {
     "id": "91249",
@@ -285,7 +558,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1823084,
+      "longitude": 8.641072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.18377352989272,
+          "lng": 8.642330579892722
+        },
+        "southwest": {
+          "lat": 12.18107387010728,
+          "lng": 8.639630920107278
+        }
+      },
+      "formatted_address": "7F4C5JJR+WCG WARD Kano, 702103, Minjibir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1823084,8.641072399999999",
+      "google_place_id": "ChIJTSA-0VePrhERWd1NAQ7gEcA"
+    }
   },
   {
     "id": "91250",
@@ -301,7 +591,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9619805,
+      "longitude": 8.558151400000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96333032989272,
+          "lng": 8.55949867989272
+        },
+        "southwest": {
+          "lat": 11.96063067010728,
+          "lng": 8.556799020107276
+        }
+      },
+      "formatted_address": "No. J-1 Kundila Housing Estate, Phase 3, Tarauni LGA, Kano-Zaria Rd, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9619805,8.558151400000002",
+      "google_place_id": "ChIJIQxY8NSBrhER97q9PYDOaBU"
+    }
   },
   {
     "id": "91251",
@@ -317,7 +624,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1760152,
+      "longitude": 8.6533193,
+      "viewport": {
+        "northeast": {
+          "lat": 12.17745917989272,
+          "lng": 8.654928429892722
+        },
+        "southwest": {
+          "lat": 12.17475952010728,
+          "lng": 8.652228770107278
+        }
+      },
+      "formatted_address": "7F4C5MG3+C96 Ungwo masaka, 702103, Minjibir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1760152,8.6533193",
+      "google_place_id": "ChIJn8WVriiPrhEROnKQn5iRsdM"
+    }
   },
   {
     "id": "91252",
@@ -333,7 +657,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2226126,
+      "longitude": 8.5371712,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22395197989272,
+          "lng": 8.538501979892722
+        },
+        "southwest": {
+          "lat": 12.22125232010728,
+          "lng": 8.535802320107278
+        }
+      },
+      "formatted_address": "7F4C6GFP+3R9 school, 702103, Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2226126,8.5371712",
+      "google_place_id": "ChIJ2cs8V5uLrhERabZacPUwGp0"
+    }
   },
   {
     "id": "91253",
@@ -349,7 +690,24 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2226126,
+      "longitude": 8.5371712,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22395197989272,
+          "lng": 8.538501979892722
+        },
+        "southwest": {
+          "lat": 12.22125232010728,
+          "lng": 8.535802320107278
+        }
+      },
+      "formatted_address": "7F4C6GFP+3R9 school, 702103, Kunya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2226126,8.5371712",
+      "google_place_id": "ChIJ2cs8V5uLrhERabZacPUwGp0"
+    }
   },
   {
     "id": "91254",
@@ -365,6 +723,23 @@
     "local_government_id": "399",
     "local_government_name": "MINJIBIR",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2138275,
+      "longitude": 8.5622966,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21520032989272,
+          "lng": 8.563607679892723
+        },
+        "southwest": {
+          "lat": 12.21250067010728,
+          "lng": 8.560908020107279
+        }
+      },
+      "formatted_address": "7F4C6H76+GWM, Goda, 702103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2138275,8.5622966",
+      "google_place_id": "ChIJ-7vdBY2LrhERv-kwbo0DM3E"
+    }
   }
 ]
