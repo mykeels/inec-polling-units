@@ -13,7 +13,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20350",
@@ -29,7 +30,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.8577997,
+      "longitude": 10.1703797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.864924,
+          "lng": 10.17688
+        },
+        "southwest": {
+          "lat": 10.839924,
+          "lng": 10.1599349
+        }
+      },
+      "formatted_address": "742104, Ganjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8577997,10.1703797",
+      "google_place_id": "ChIJeWmBwobpqhER5UYbxsODyok"
+    }
   },
   {
     "id": "20351",
@@ -45,7 +63,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "Ganuwa Village, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJ1ViS_ozXVBAR4_fa-yvjaBI"
+    }
   },
   {
     "id": "20352",
@@ -61,7 +96,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3080123,
+      "longitude": 9.836243399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30912817989272,
+          "lng": 9.837651679892721
+        },
+        "southwest": {
+          "lat": 10.30642852010728,
+          "lng": 9.834952020107277
+        }
+      },
+      "formatted_address": "Nassarawa Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3080123,9.836243399999999",
+      "google_place_id": "ChIJv5HSPmrXVBARIQtsUWdkhbQ"
+    }
   },
   {
     "id": "20353",
@@ -77,7 +129,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.677965,
+      "longitude": 10.2141584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67949022989272,
+          "lng": 10.21515122989272
+        },
+        "southwest": {
+          "lat": 10.67679057010728,
+          "lng": 10.21245157010728
+        }
+      },
+      "formatted_address": "M6H7+5MM, 742104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.677965,10.2141584",
+      "google_place_id": "ChIJ65Ic7v_GqhERykQKG9yeZds"
+    }
   },
   {
     "id": "20354",
@@ -93,7 +162,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4182912,
+      "longitude": 9.8811249,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41970512989272,
+          "lng": 9.882067429892723
+        },
+        "southwest": {
+          "lat": 10.41700547010728,
+          "lng": 9.87936777010728
+        }
+      },
+      "formatted_address": "Gobi dam Ganjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4182912,9.8811249",
+      "google_place_id": "ChIJJSRKCp_VVBARAMe_1PHTZ2I"
+    }
   },
   {
     "id": "20355",
@@ -109,7 +195,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20356",
@@ -125,7 +212,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6905048,
+      "longitude": 9.762868600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.69195562989272,
+          "lng": 9.764194079892722
+        },
+        "southwest": {
+          "lat": 10.68925597010728,
+          "lng": 9.761494420107278
+        }
+      },
+      "formatted_address": "MQR7+54H, Unnamed Road, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6905048,9.762868600000001",
+      "google_place_id": "ChIJjXbszj8lqxERBof2HPVSwB8"
+    }
   },
   {
     "id": "20357",
@@ -141,7 +245,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6905048,
+      "longitude": 9.762868600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.69195562989272,
+          "lng": 9.764194079892722
+        },
+        "southwest": {
+          "lat": 10.68925597010728,
+          "lng": 9.761494420107278
+        }
+      },
+      "formatted_address": "MQR7+54H, Unnamed Road, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6905048,9.762868600000001",
+      "google_place_id": "ChIJjXbszj8lqxERBof2HPVSwB8"
+    }
   },
   {
     "id": "20358",
@@ -157,7 +278,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2999517,
+      "longitude": 9.835937999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30128202989272,
+          "lng": 9.83730112989272
+        },
+        "southwest": {
+          "lat": 10.29858237010728,
+          "lng": 9.834601470107277
+        }
+      },
+      "formatted_address": "7RXP+X9G, Jahun Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2999517,9.835937999999999",
+      "google_place_id": "ChIJhUVN-ZjXVBAR2PmsGdV9IrQ"
+    }
   },
   {
     "id": "20359",
@@ -173,7 +311,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.677965,
+      "longitude": 10.2141584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67949022989272,
+          "lng": 10.21515122989272
+        },
+        "southwest": {
+          "lat": 10.67679057010728,
+          "lng": 10.21245157010728
+        }
+      },
+      "formatted_address": "M6H7+5MM, 742104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.677965,10.2141584",
+      "google_place_id": "ChIJ65Ic7v_GqhERykQKG9yeZds"
+    }
   },
   {
     "id": "20360",
@@ -189,7 +344,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20361",
@@ -205,7 +361,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20362",
@@ -221,7 +378,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.0333946,
+      "longitude": 9.654320799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.03798,
+          "lng": 9.664935
+        },
+        "southwest": {
+          "lat": 11.030111,
+          "lng": 9.6527129
+        }
+      },
+      "formatted_address": "740107, Anguwan Digawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0333946,9.654320799999999",
+      "google_place_id": "ChIJg4fJmEEOqxERUqOPZcjNaO8"
+    }
   },
   {
     "id": "20363",
@@ -237,7 +411,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6865264,
+      "longitude": 9.7616634,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68787742989272,
+          "lng": 9.763016079892722
+        },
+        "southwest": {
+          "lat": 10.68517777010728,
+          "lng": 9.760316420107278
+        }
+      },
+      "formatted_address": "MQP6+JJ9, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6865264,9.7616634",
+      "google_place_id": "ChIJ9R6K-QMlqxERHvwosyJOTqo"
+    }
   },
   {
     "id": "20364",
@@ -253,7 +444,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20365",
@@ -269,7 +461,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3096986,
+      "longitude": 9.854311,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31108947989272,
+          "lng": 9.85565812989272
+        },
+        "southwest": {
+          "lat": 10.30838982010728,
+          "lng": 9.852958470107277
+        }
+      },
+      "formatted_address": "8V53+VPF, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3096986,9.854311",
+      "google_place_id": "ChIJn1cnUn7XVBARzZSQiuX5vKg"
+    }
   },
   {
     "id": "20366",
@@ -285,7 +494,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20367",
@@ -301,7 +511,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20368",
@@ -317,7 +528,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4182912,
+      "longitude": 9.8811249,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41970512989272,
+          "lng": 9.882067429892723
+        },
+        "southwest": {
+          "lat": 10.41700547010728,
+          "lng": 9.87936777010728
+        }
+      },
+      "formatted_address": "Gobi dam Ganjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4182912,9.8811249",
+      "google_place_id": "ChIJJSRKCp_VVBARAMe_1PHTZ2I"
+    }
   },
   {
     "id": "20369",
@@ -333,7 +561,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4182912,
+      "longitude": 9.8811249,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41970512989272,
+          "lng": 9.882067429892723
+        },
+        "southwest": {
+          "lat": 10.41700547010728,
+          "lng": 9.87936777010728
+        }
+      },
+      "formatted_address": "Gobi dam Ganjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4182912,9.8811249",
+      "google_place_id": "ChIJJSRKCp_VVBARAMe_1PHTZ2I"
+    }
   },
   {
     "id": "20370",
@@ -349,7 +594,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4182912,
+      "longitude": 9.8811249,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41970512989272,
+          "lng": 9.882067429892723
+        },
+        "southwest": {
+          "lat": 10.41700547010728,
+          "lng": 9.87936777010728
+        }
+      },
+      "formatted_address": "Gobi dam Ganjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4182912,9.8811249",
+      "google_place_id": "ChIJJSRKCp_VVBARAMe_1PHTZ2I"
+    }
   },
   {
     "id": "20371",
@@ -365,7 +627,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.677965,
+      "longitude": 10.2141584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67949022989272,
+          "lng": 10.21515122989272
+        },
+        "southwest": {
+          "lat": 10.67679057010728,
+          "lng": 10.21245157010728
+        }
+      },
+      "formatted_address": "M6H7+5MM, 742104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.677965,10.2141584",
+      "google_place_id": "ChIJ65Ic7v_GqhERykQKG9yeZds"
+    }
   },
   {
     "id": "20372",
@@ -381,7 +660,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.677965,
+      "longitude": 10.2141584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67949022989272,
+          "lng": 10.21515122989272
+        },
+        "southwest": {
+          "lat": 10.67679057010728,
+          "lng": 10.21245157010728
+        }
+      },
+      "formatted_address": "M6H7+5MM, 742104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.677965,10.2141584",
+      "google_place_id": "ChIJ65Ic7v_GqhERykQKG9yeZds"
+    }
   },
   {
     "id": "20373",
@@ -397,7 +693,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.999099099999999,
+      "longitude": 10.2214641,
+      "viewport": {
+        "northeast": {
+          "lat": 10.0015911,
+          "lng": 10.2238241
+        },
+        "southwest": {
+          "lat": 9.997145999999999,
+          "lng": 10.2195111
+        }
+      },
+      "formatted_address": "743103, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.999099099999999,10.2214641",
+      "google_place_id": "ChIJG8E2xHATVRAR-LPu0Z6Mln0"
+    }
   },
   {
     "id": "20374",
@@ -413,7 +726,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6645282,
+      "longitude": 9.7624593,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66617957989272,
+          "lng": 9.764783999999999
+        },
+        "southwest": {
+          "lat": 10.66347992010728,
+          "lng": 9.7616844
+        }
+      },
+      "formatted_address": "MQ76+RX8, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6645282,9.7624593",
+      "google_place_id": "ChIJueXKB3QlqxERlpIUXluRNrg"
+    }
   },
   {
     "id": "20375",
@@ -429,7 +759,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20376",
@@ -445,7 +776,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9154915,
+      "longitude": 10.1696968,
+      "viewport": {
+        "northeast": {
+          "lat": 10.91681912989272,
+          "lng": 10.17098352989272
+        },
+        "southwest": {
+          "lat": 10.91411947010728,
+          "lng": 10.16828387010728
+        }
+      },
+      "formatted_address": "W589+5VW, 742104, Marbini, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9154915,10.1696968",
+      "google_place_id": "ChIJhSaPd6fuqhERfUdbvasq4h0"
+    }
   },
   {
     "id": "20377",
@@ -461,7 +809,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.669816,
+      "longitude": 9.7614922,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67127972989272,
+          "lng": 9.76314582989272
+        },
+        "southwest": {
+          "lat": 10.66858007010728,
+          "lng": 9.760446170107276
+        }
+      },
+      "formatted_address": "Kafin Madaki-Kafin Liman-Gubi Road, 740111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.669816,9.7614922",
+      "google_place_id": "ChIJM2Hw9ZglqxERQeNK3Ztx6Hs"
+    }
   },
   {
     "id": "20378",
@@ -477,7 +842,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3009641,
+      "longitude": 9.8236533,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30230382989272,
+          "lng": 9.825106179892723
+        },
+        "southwest": {
+          "lat": 10.29960417010728,
+          "lng": 9.822406520107279
+        }
+      },
+      "formatted_address": "8R2F+9FJ, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3009641,9.8236533",
+      "google_place_id": "ChIJfy82gxvXVBARdpWrVCWB01g"
+    }
   },
   {
     "id": "20379",
@@ -493,7 +875,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3293374,
+      "longitude": 9.8144315,
+      "viewport": {
+        "northeast": {
+          "lat": 10.33046422989272,
+          "lng": 9.815556929892722
+        },
+        "southwest": {
+          "lat": 10.32776457010728,
+          "lng": 9.812857270107278
+        }
+      },
+      "formatted_address": "8RH7+PQM, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3293374,9.8144315",
+      "google_place_id": "ChIJX-CQZCvXVBARBk5anziHfPI"
+    }
   },
   {
     "id": "20380",
@@ -509,7 +908,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.7743053,
+      "longitude": 10.296236,
+      "viewport": {
+        "northeast": {
+          "lat": 10.77572972989272,
+          "lng": 10.29751827989272
+        },
+        "southwest": {
+          "lat": 10.77303007010728,
+          "lng": 10.29481862010728
+        }
+      },
+      "formatted_address": "Q7FW+PFH, Soro, Gali, Bauchi Road, Soro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7743053,10.296236",
+      "google_place_id": "ChIJt2NjttS_qhERBOTNAOJqZfk"
+    }
   },
   {
     "id": "20381",
@@ -525,7 +941,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20382",
@@ -541,7 +958,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3160721,
+      "longitude": 9.8378737,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31739207989272,
+          "lng": 9.839007979892722
+        },
+        "southwest": {
+          "lat": 10.31469242010728,
+          "lng": 9.836308320107278
+        }
+      },
+      "formatted_address": "Maiduguri Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3160721,9.8378737",
+      "google_place_id": "ChIJbbYPR93XVBARuxhS719hDQc"
+    }
   },
   {
     "id": "20383",
@@ -557,7 +991,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "Ganuwa Village, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJ1ViS_ozXVBAR4_fa-yvjaBI"
+    }
   },
   {
     "id": "20384",
@@ -573,6 +1024,23 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.677965,
+      "longitude": 10.2141584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67949022989272,
+          "lng": 10.21515122989272
+        },
+        "southwest": {
+          "lat": 10.67679057010728,
+          "lng": 10.21245157010728
+        }
+      },
+      "formatted_address": "M6H7+5MM, 742104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.677965,10.2141584",
+      "google_place_id": "ChIJ65Ic7v_GqhERykQKG9yeZds"
+    }
   }
 ]

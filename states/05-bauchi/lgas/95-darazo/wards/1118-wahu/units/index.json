@@ -13,7 +13,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19905",
@@ -29,7 +30,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19906",
@@ -45,7 +47,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3884819,
+      "longitude": 10.6557271,
+      "viewport": {
+        "northeast": {
+          "lat": 11.38980472989272,
+          "lng": 10.65714532989272
+        },
+        "southwest": {
+          "lat": 11.38710507010728,
+          "lng": 10.65444567010728
+        }
+      },
+      "formatted_address": "9MQ4+C7M, 750114, Sade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3884819,10.6557271",
+      "google_place_id": "ChIJ_aghSLCdABERUJ5Z_HyAqOs"
+    }
   },
   {
     "id": "19907",
@@ -61,7 +80,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19908",
@@ -77,7 +97,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19909",
@@ -93,7 +114,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19910",
@@ -109,7 +131,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19911",
@@ -125,7 +148,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3027049,
+      "longitude": 9.840579499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30408802989272,
+          "lng": 9.841910729892723
+        },
+        "southwest": {
+          "lat": 10.30138837010728,
+          "lng": 9.839211070107279
+        }
+      },
+      "formatted_address": "jaja quaters, Railway Rd, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3027049,9.840579499999999",
+      "google_place_id": "ChIJq8DUOFHXVBAR7NBoGCGZSwQ"
+    }
   },
   {
     "id": "19912",
@@ -141,7 +181,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19913",
@@ -157,7 +198,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19914",
@@ -173,7 +215,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19915",
@@ -189,7 +232,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19916",
@@ -205,6 +249,7 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

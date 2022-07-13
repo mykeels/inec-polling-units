@@ -13,7 +13,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6027787,
+      "longitude": 9.597088399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604231229892722,
+          "lng": 9.598344129892721
+        },
+        "southwest": {
+          "lat": 9.601531570107278,
+          "lng": 9.595644470107278
+        }
+      },
+      "formatted_address": "JH3W+4R8, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6027787,9.597088399999999",
+      "google_place_id": "ChIJjxR_RdpcVBARrOGf0YrJ280"
+    }
   },
   {
     "id": "19407",
@@ -29,7 +46,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6027787,
+      "longitude": 9.597088399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604231229892722,
+          "lng": 9.598344129892721
+        },
+        "southwest": {
+          "lat": 9.601531570107278,
+          "lng": 9.595644470107278
+        }
+      },
+      "formatted_address": "JH3W+4R8, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6027787,9.597088399999999",
+      "google_place_id": "ChIJjxR_RdpcVBARrOGf0YrJ280"
+    }
   },
   {
     "id": "19408",
@@ -45,7 +79,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.667836600000001,
+      "longitude": 9.605006999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.669197529892722,
+          "lng": 9.606338029892722
+        },
+        "southwest": {
+          "lat": 9.666497870107278,
+          "lng": 9.603638370107278
+        }
+      },
+      "formatted_address": "MJ93+4XV, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.667836600000001,9.605006999999999",
+      "google_place_id": "ChIJEWoz785dVBAR67XPbUEBwgE"
+    }
   },
   {
     "id": "19409",
@@ -61,7 +112,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19410",
@@ -77,7 +129,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19411",
@@ -93,7 +146,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19412",
@@ -109,6 +163,23 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.68558,
+      "longitude": 9.6012807,
+      "viewport": {
+        "northeast": {
+          "lat": 9.686922879892721,
+          "lng": 9.602774329892723
+        },
+        "southwest": {
+          "lat": 9.684223220107278,
+          "lng": 9.60007467010728
+        }
+      },
+      "formatted_address": "MJP2+6GJ, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.68558,9.6012807",
+      "google_place_id": "ChIJ4cjkL5teVBAR1SH5y6Sa3z4"
+    }
   }
 ]

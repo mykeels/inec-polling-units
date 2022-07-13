@@ -13,7 +13,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6500265,
+      "longitude": 13.2965633,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65143087989272,
+          "lng": 13.29785752989272
+        },
+        "southwest": {
+          "lat": 10.64873122010728,
+          "lng": 13.29515787010728
+        }
+      },
+      "formatted_address": "J7XW+XJM, 657108, Kubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6500265,13.2965633",
+      "google_place_id": "ChIJ7-nlEuK4AhERk55aqMKBZnY"
+    }
   },
   {
     "id": "20485",
@@ -29,7 +46,24 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6500265,
+      "longitude": 13.2965633,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65143087989272,
+          "lng": 13.29785752989272
+        },
+        "southwest": {
+          "lat": 10.64873122010728,
+          "lng": 13.29515787010728
+        }
+      },
+      "formatted_address": "J7XW+XJM, 657108, Kubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6500265,13.2965633",
+      "google_place_id": "ChIJ7-nlEuK4AhERk55aqMKBZnY"
+    }
   },
   {
     "id": "20486",
@@ -45,7 +79,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20487",
@@ -61,7 +96,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20488",
@@ -77,7 +113,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20489",
@@ -93,7 +130,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20490",
@@ -109,7 +147,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20491",
@@ -125,7 +164,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20492",
@@ -141,7 +181,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20493",
@@ -157,7 +198,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20494",
@@ -173,7 +215,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20495",
@@ -189,7 +232,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20496",
@@ -205,7 +249,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20497",
@@ -221,7 +266,8 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20498",
@@ -237,6 +283,7 @@
     "local_government_id": "98",
     "local_government_name": "GANJUWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

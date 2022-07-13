@@ -13,7 +13,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0309245,
+      "longitude": 9.5063471,
+      "viewport": {
+        "northeast": {
+          "lat": 10.03229582989272,
+          "lng": 9.507771829892722
+        },
+        "southwest": {
+          "lat": 10.02959617010728,
+          "lng": 9.505072170107278
+        }
+      },
+      "formatted_address": "Zagi Primary School, 741109, Dott, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0309245,9.5063471",
+      "google_place_id": "ChIJyy1c1H2TVBARyVlrUDm20Ns"
+    }
   },
   {
     "id": "20020",
@@ -29,7 +46,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20021",
@@ -45,7 +63,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0198961,
+      "longitude": 9.5323234,
+      "viewport": {
+        "northeast": {
+          "lat": 10.02130832989272,
+          "lng": 9.533716779892723
+        },
+        "southwest": {
+          "lat": 10.01860867010728,
+          "lng": 9.531017120107279
+        }
+      },
+      "formatted_address": "Kuletu Primary School, 741109, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0198961,9.5323234",
+      "google_place_id": "ChIJW_-FE0WTVBARLsC6-PNW0d8"
+    }
   },
   {
     "id": "20022",
@@ -61,7 +96,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0314139,
+      "longitude": 9.549538199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.03277612989272,
+          "lng": 9.550911929892722
+        },
+        "southwest": {
+          "lat": 10.03007647010728,
+          "lng": 9.548212270107278
+        }
+      },
+      "formatted_address": "Kagadama Primary School, Kagadama Dott along Dass Bauchi road, Kagadama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0314139,9.549538199999999",
+      "google_place_id": "ChIJ4ZSXouXtVBARW-VvgBLLKa8"
+    }
   },
   {
     "id": "20023",
@@ -77,7 +129,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1123966,
+      "longitude": 7.7304453,
+      "viewport": {
+        "northeast": {
+          "lat": 11.11360657989272,
+          "lng": 7.731812629892723
+        },
+        "southwest": {
+          "lat": 11.11090692010728,
+          "lng": 7.729112970107279
+        }
+      },
+      "formatted_address": "4P6J+X59, Aminu Road, Dogon Bauchi Road, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1123966,7.7304453",
+      "google_place_id": "ChIJD_fPnUaDshERqrXvdQ44kyc"
+    }
   },
   {
     "id": "20024",
@@ -93,7 +162,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20025",
@@ -109,7 +179,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9521379,
+      "longitude": 9.5078541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.953624629892722,
+          "lng": 9.508641229892723
+        },
+        "southwest": {
+          "lat": 9.950924970107279,
+          "lng": 9.505941570107279
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 741101, Litir Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9521379,9.5078541",
+      "google_place_id": "ChIJ9_l5QYSSVBAR3YnqvLi6qMU"
+    }
   },
   {
     "id": "20026",
@@ -125,7 +212,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9521379,
+      "longitude": 9.5078541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.953624629892722,
+          "lng": 9.508641229892723
+        },
+        "southwest": {
+          "lat": 9.950924970107279,
+          "lng": 9.505941570107279
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 741101, Litir Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9521379,9.5078541",
+      "google_place_id": "ChIJ9_l5QYSSVBAR3YnqvLi6qMU"
+    }
   },
   {
     "id": "20027",
@@ -141,7 +245,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0200206,
+      "longitude": 9.5323152,
+      "viewport": {
+        "northeast": {
+          "lat": 10.02124292989272,
+          "lng": 9.533701579892721
+        },
+        "southwest": {
+          "lat": 10.01854327010728,
+          "lng": 9.531001920107277
+        }
+      },
+      "formatted_address": "Dadin kowa Kuletu, Kuletu Primary School, 741109, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0200206,9.5323152",
+      "google_place_id": "ChIJ69ZKVOGTVBARY8Jt9wL8fko"
+    }
   },
   {
     "id": "20028",
@@ -157,6 +278,23 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0314139,
+      "longitude": 9.549538199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.03277612989272,
+          "lng": 9.550911929892722
+        },
+        "southwest": {
+          "lat": 10.03007647010728,
+          "lng": 9.548212270107278
+        }
+      },
+      "formatted_address": "Kagadama Primary School, Kagadama Dott along Dass Bauchi road, Kagadama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0314139,9.549538199999999",
+      "google_place_id": "ChIJ4ZSXouXtVBARW-VvgBLLKa8"
+    }
   }
 ]

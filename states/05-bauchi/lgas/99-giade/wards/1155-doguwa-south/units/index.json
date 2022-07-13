@@ -13,7 +13,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20655",
@@ -29,7 +30,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "20656",
@@ -45,7 +63,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.705856,
+      "longitude": 10.8634917,
+      "viewport": {
+        "northeast": {
+          "lat": 11.712383,
+          "lng": 10.8687791
+        },
+        "southwest": {
+          "lat": 11.694532,
+          "lng": 10.855554
+        }
+      },
+      "formatted_address": "752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.705856,10.8634917",
+      "google_place_id": "ChIJQRt-jcawABER1Mialwv1mzc"
+    }
   },
   {
     "id": "20657",
@@ -61,7 +96,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4453617,
+      "longitude": 10.2420434,
+      "viewport": {
+        "northeast": {
+          "lat": 11.44674527989272,
+          "lng": 10.24338257989272
+        },
+        "southwest": {
+          "lat": 11.44404562010728,
+          "lng": 10.24068292010728
+        }
+      },
+      "formatted_address": "C6WR+4RV, 750104, Gubda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4453617,10.2420434",
+      "google_place_id": "ChIJk8g9PvJBqhER8ALfRsb4gqw"
+    }
   },
   {
     "id": "20658",
@@ -77,7 +129,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.5965683,
+      "longitude": 10.243785,
+      "viewport": {
+        "northeast": {
+          "lat": 11.59772322989272,
+          "lng": 10.24515842989272
+        },
+        "southwest": {
+          "lat": 11.59502357010728,
+          "lng": 10.24245877010728
+        }
+      },
+      "formatted_address": "H6WV+JGF, 751104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5965683,10.243785",
+      "google_place_id": "ChIJ-6-SmRY-qhERcZnhh7B3T3s"
+    }
   },
   {
     "id": "20659",
@@ -93,7 +162,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20660",
@@ -109,7 +179,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20661",
@@ -125,6 +196,23 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6705884,
+      "longitude": 10.1937871,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67192457989272,
+          "lng": 10.19513742989272
+        },
+        "southwest": {
+          "lat": 11.66922492010728,
+          "lng": 10.19243777010728
+        }
+      },
+      "formatted_address": "M5CV+6GR, Giade Rd, Odoji Azare 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6705884,10.1937871",
+      "google_place_id": "ChIJ9Rj22_I8qhERSZXwVMAlAl4"
+    }
   }
 ]

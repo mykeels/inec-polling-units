@@ -13,7 +13,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18331",
@@ -29,7 +30,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 41.8709297,
+      "longitude": -80.815277,
+      "viewport": {
+        "northeast": {
+          "lat": 41.87250607989272,
+          "lng": -80.81394437010728
+        },
+        "southwest": {
+          "lat": 41.86980642010727,
+          "lng": -80.81664402989271
+        }
+      },
+      "formatted_address": "2304 Wade Ave, Ashtabula, OH 44004, United States",
+      "google_map_url": "https://maps.google.com?q=41.8709297,-80.815277",
+      "google_place_id": "ChIJbVOAUlH1MYgRFD9SUlm0IfM"
+    }
   },
   {
     "id": "18332",
@@ -45,7 +63,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3167823,
+      "longitude": 9.8548919,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31813307989272,
+          "lng": 9.85624182989272
+        },
+        "southwest": {
+          "lat": 10.31543342010728,
+          "lng": 9.853542170107277
+        }
+      },
+      "formatted_address": "A345, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3167823,9.8548919",
+      "google_place_id": "ChIJnyaphwnXVBARyqdF4BebgOI"
+    }
   },
   {
     "id": "18333",
@@ -61,7 +96,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "18334",
@@ -77,7 +129,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "18335",
@@ -93,7 +162,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1349954,
+      "longitude": 9.4162316,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1379799,
+          "lng": 9.4263241
+        },
+        "southwest": {
+          "lat": 11.1299579,
+          "lng": 9.4060461
+        }
+      },
+      "formatted_address": "742101, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1349954,9.4162316",
+      "google_place_id": "ChIJu4RA8ON2qxERAiQIZNZdOjE"
+    }
   },
   {
     "id": "18336",
@@ -109,7 +195,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18337",
@@ -125,7 +212,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18338",
@@ -141,7 +229,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18339",
@@ -157,7 +246,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18340",
@@ -173,7 +263,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6972817,
+      "longitude": 10.267368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.698618779892724,
+          "lng": 10.26875172989272
+        },
+        "southwest": {
+          "lat": 9.69591912010728,
+          "lng": 10.26605207010728
+        }
+      },
+      "formatted_address": "M7W8+WW9, Gajin 743103, Duguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6972817,10.267368",
+      "google_place_id": "ChIJB0MRJvKfVRARFeJXGWjtNJ4"
+    }
   },
   {
     "id": "18341",
@@ -189,7 +296,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6972817,
+      "longitude": 10.267368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.698618779892724,
+          "lng": 10.26875172989272
+        },
+        "southwest": {
+          "lat": 9.69591912010728,
+          "lng": 10.26605207010728
+        }
+      },
+      "formatted_address": "M7W8+WW9, Gajin 743103, Duguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6972817,10.267368",
+      "google_place_id": "ChIJB0MRJvKfVRARFeJXGWjtNJ4"
+    }
   },
   {
     "id": "18342",
@@ -205,7 +329,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3023074,
+      "longitude": 9.854910199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30363307989272,
+          "lng": 9.856524479892723
+        },
+        "southwest": {
+          "lat": 10.30093342010728,
+          "lng": 9.85382482010728
+        }
+      },
+      "formatted_address": "8V23+WXC, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3023074,9.854910199999999",
+      "google_place_id": "ChIJaZG2zbvXVBAR2brkVJU4AUg"
+    }
   },
   {
     "id": "18343",
@@ -221,7 +362,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2971442,
+      "longitude": 9.851149699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29848857989272,
+          "lng": 9.852505329892722
+        },
+        "southwest": {
+          "lat": 10.29578892010728,
+          "lng": 9.849805670107278
+        }
+      },
+      "formatted_address": "7VW2+VCH, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2971442,9.851149699999999",
+      "google_place_id": "ChIJewBpW3HXVBAR5VLemEHiMWo"
+    }
   },
   {
     "id": "18344",
@@ -237,7 +395,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18345",
@@ -253,7 +412,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18346",
@@ -269,7 +429,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18347",
@@ -285,7 +446,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.26522,
+      "longitude": 10.3247951,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26664207989272,
+          "lng": 10.32655802989272
+        },
+        "southwest": {
+          "lat": 10.26394242010728,
+          "lng": 10.32385837010728
+        }
+      },
+      "formatted_address": "788F+3WM, 743103, Alkaleri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.26522,10.3247951",
+      "google_place_id": "ChIJz2T7wztHVRARY9R4ekvIR3Q"
+    }
   },
   {
     "id": "18348",
@@ -301,7 +479,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18349",
@@ -317,7 +496,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18350",
@@ -333,7 +513,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1926104,
+      "longitude": 9.639702999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2402501,
+          "lng": 9.670876
+        },
+        "southwest": {
+          "lat": 11.1389468,
+          "lng": 9.614449600000002
+        }
+      },
+      "formatted_address": "Tudun Wada, 742103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1926104,9.639702999999999",
+      "google_place_id": "ChIJlZtYqlenqxERB89MZBkKwVU"
+    }
   },
   {
     "id": "18351",
@@ -349,7 +546,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18352",
@@ -365,7 +563,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "18353",
@@ -381,7 +596,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6972817,
+      "longitude": 10.267368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.698618779892724,
+          "lng": 10.26875172989272
+        },
+        "southwest": {
+          "lat": 9.69591912010728,
+          "lng": 10.26605207010728
+        }
+      },
+      "formatted_address": "M7W8+WW9, Gajin 743103, Duguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6972817,10.267368",
+      "google_place_id": "ChIJB0MRJvKfVRARFeJXGWjtNJ4"
+    }
   },
   {
     "id": "18354",
@@ -397,7 +629,24 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2971442,
+      "longitude": 9.851149699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29848857989272,
+          "lng": 9.852505329892722
+        },
+        "southwest": {
+          "lat": 10.29578892010728,
+          "lng": 9.849805670107278
+        }
+      },
+      "formatted_address": "7VW2+VCH, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2971442,9.851149699999999",
+      "google_place_id": "ChIJewBpW3HXVBAR5VLemEHiMWo"
+    }
   },
   {
     "id": "18355",
@@ -413,7 +662,8 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "18356",
@@ -429,6 +679,23 @@
     "local_government_id": "91",
     "local_government_name": "ALKALERI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2687055,
+      "longitude": 10.3320694,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26997797989272,
+          "lng": 10.33344322989272
+        },
+        "southwest": {
+          "lat": 10.26727832010728,
+          "lng": 10.33074357010728
+        }
+      },
+      "formatted_address": "787M+6X, 743103, Alkaleri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2687055,10.3320694",
+      "google_place_id": "ChIJxefksh5GVRARkIWQPo5ggFY"
+    }
   }
 ]

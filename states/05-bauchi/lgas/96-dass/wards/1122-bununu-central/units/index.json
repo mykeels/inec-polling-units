@@ -13,7 +13,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9810479,
+      "longitude": 9.4964718,
+      "viewport": {
+        "northeast": {
+          "lat": 9.982389529892723,
+          "lng": 9.497825729892723
+        },
+        "southwest": {
+          "lat": 9.97968987010728,
+          "lng": 9.495126070107279
+        }
+      },
+      "formatted_address": "Guruma Primary School, 741109, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9810479,9.4964718",
+      "google_place_id": "ChIJo5KOdqiTVBARRQSPTDyMe-s"
+    }
   },
   {
     "id": "19965",
@@ -29,7 +46,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3009641,
+      "longitude": 9.8236533,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30230382989272,
+          "lng": 9.825106179892723
+        },
+        "southwest": {
+          "lat": 10.29960417010728,
+          "lng": 9.822406520107279
+        }
+      },
+      "formatted_address": "CBN, Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3009641,9.8236533",
+      "google_place_id": "ChIJKeXSO1DXVBARqhE8B1bU4LM"
+    }
   },
   {
     "id": "19966",
@@ -45,7 +79,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19967",
@@ -61,7 +96,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3268625,
+      "longitude": 9.8466268,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32821117989272,
+          "lng": 9.847885879892722
+        },
+        "southwest": {
+          "lat": 10.32551152010727,
+          "lng": 9.845186220107278
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3268625,9.8466268",
+      "google_place_id": "ChIJf4-3NDXXVBARuXgO4jdKuWE"
+    }
   },
   {
     "id": "19968",
@@ -77,7 +129,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.998916999999999,
+      "longitude": 9.51632,
+      "viewport": {
+        "northeast": {
+          "lat": 10.00027362989272,
+          "lng": 9.51763612989272
+        },
+        "southwest": {
+          "lat": 9.997573970107277,
+          "lng": 9.514936470107276
+        }
+      },
+      "formatted_address": "XGX8+HG8, 741109, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.998916999999999,9.51632",
+      "google_place_id": "ChIJc3SVFhqTVBARWLAi-uoSWcU"
+    }
   },
   {
     "id": "19969",
@@ -93,7 +162,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3272946,
+      "longitude": 9.854998499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32864412989272,
+          "lng": 9.856247329892721
+        },
+        "southwest": {
+          "lat": 10.32594447010728,
+          "lng": 9.853547670107277
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3272946,9.854998499999999",
+      "google_place_id": "ChIJ2cIXLgfXVBARsprVWAmgsPc"
+    }
   },
   {
     "id": "19970",
@@ -109,7 +195,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "19971",
@@ -125,7 +228,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "19972",
@@ -141,7 +261,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9521379,
+      "longitude": 9.5078541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.953624629892722,
+          "lng": 9.508641229892723
+        },
+        "southwest": {
+          "lat": 9.950924970107279,
+          "lng": 9.505941570107279
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 741101, Litir Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9521379,9.5078541",
+      "google_place_id": "ChIJ9_l5QYSSVBAR3YnqvLi6qMU"
+    }
   },
   {
     "id": "19973",
@@ -157,7 +294,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19974",
@@ -173,7 +311,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3025718,
+      "longitude": 9.8475629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30389337989272,
+          "lng": 9.848957729892721
+        },
+        "southwest": {
+          "lat": 10.30119372010728,
+          "lng": 9.846258070107277
+        }
+      },
+      "formatted_address": "8R3X+23P, Karofin Madaki St, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3025718,9.8475629",
+      "google_place_id": "ChIJczq0V3DXVBARydp3ewYTVoQ"
+    }
   },
   {
     "id": "19975",
@@ -189,7 +344,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9764629,
+      "longitude": 9.5077614,
+      "viewport": {
+        "northeast": {
+          "lat": 9.977866629892723,
+          "lng": 9.509363529892722
+        },
+        "southwest": {
+          "lat": 9.97516697010728,
+          "lng": 9.506663870107278
+        }
+      },
+      "formatted_address": "XGG5+H4J, 741101, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9764629,9.5077614",
+      "google_place_id": "ChIJgfd96fCSVBARAOdYasWCBq0"
+    }
   },
   {
     "id": "19976",
@@ -205,7 +377,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9764629,
+      "longitude": 9.5077614,
+      "viewport": {
+        "northeast": {
+          "lat": 9.977866629892723,
+          "lng": 9.509363529892722
+        },
+        "southwest": {
+          "lat": 9.97516697010728,
+          "lng": 9.506663870107278
+        }
+      },
+      "formatted_address": "XGG5+H4J, 741101, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9764629,9.5077614",
+      "google_place_id": "ChIJgfd96fCSVBARAOdYasWCBq0"
+    }
   },
   {
     "id": "19977",
@@ -221,7 +410,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9521379,
+      "longitude": 9.5078541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.953624629892722,
+          "lng": 9.508641229892723
+        },
+        "southwest": {
+          "lat": 9.950924970107279,
+          "lng": 9.505941570107279
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 741101, Litir Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9521379,9.5078541",
+      "google_place_id": "ChIJ9_l5QYSSVBAR3YnqvLi6qMU"
+    }
   },
   {
     "id": "19978",
@@ -237,7 +443,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.1046567,
+      "longitude": 9.4405442,
+      "viewport": {
+        "northeast": {
+          "lat": 10.10579707989272,
+          "lng": 9.441974979892722
+        },
+        "southwest": {
+          "lat": 10.10309742010728,
+          "lng": 9.439275320107278
+        }
+      },
+      "formatted_address": "4C3R+V66, 741109, Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1046567,9.4405442",
+      "google_place_id": "ChIJf6DQnROWVBARuUwd5gVOMDA"
+    }
   },
   {
     "id": "19979",
@@ -253,7 +476,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9830673,
+      "longitude": 9.5082395,
+      "viewport": {
+        "northeast": {
+          "lat": 9.984385029892723,
+          "lng": 9.509604079892723
+        },
+        "southwest": {
+          "lat": 9.981685370107279,
+          "lng": 9.50690442010728
+        }
+      },
+      "formatted_address": "XGM5+67H, lukshi/zumbol road, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9830673,9.5082395",
+      "google_place_id": "ChIJczYAzjuTVBARdmMvqFP4ox4"
+    }
   },
   {
     "id": "19980",
@@ -269,7 +509,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0024277,
+      "longitude": 9.5161049,
+      "viewport": {
+        "northeast": {
+          "lat": 10.00378802989272,
+          "lng": 9.517474929892723
+        },
+        "southwest": {
+          "lat": 10.00108837010728,
+          "lng": 9.514775270107279
+        }
+      },
+      "formatted_address": "2G28+XCH, 741109, Bula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0024277,9.5161049",
+      "google_place_id": "ChIJWbwj3BCTVBARrhIBOeLcukA"
+    }
   },
   {
     "id": "19981",
@@ -285,7 +542,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.8725936,
+      "longitude": 8.9042012,
+      "viewport": {
+        "northeast": {
+          "lat": 9.873927229892722,
+          "lng": 8.905540129892723
+        },
+        "southwest": {
+          "lat": 9.871227570107278,
+          "lng": 8.902840470107279
+        }
+      },
+      "formatted_address": "Plot 3118 Opposite Westwood park School, Shaka Rd, Jos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8725936,8.9042012",
+      "google_place_id": "ChIJfVxnXGx1UxAR3hcGd9n4KdI"
+    }
   },
   {
     "id": "19982",
@@ -301,7 +575,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.953282,
+      "longitude": 9.5056136,
+      "viewport": {
+        "northeast": {
+          "lat": 9.954533229892723,
+          "lng": 9.507578629892722
+        },
+        "southwest": {
+          "lat": 9.95183357010728,
+          "lng": 9.504878970107278
+        }
+      },
+      "formatted_address": "XG34+869, 741109, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.953282,9.5056136",
+      "google_place_id": "ChIJLQ988QGTVBARZ852moyxK9c"
+    }
   },
   {
     "id": "19983",
@@ -317,7 +608,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3268625,
+      "longitude": 9.8466268,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32821117989272,
+          "lng": 9.847885879892722
+        },
+        "southwest": {
+          "lat": 10.32551152010727,
+          "lng": 9.845186220107278
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3268625,9.8466268",
+      "google_place_id": "ChIJf4-3NDXXVBARuXgO4jdKuWE"
+    }
   },
   {
     "id": "19984",
@@ -333,7 +641,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0057437,
+      "longitude": 9.517575599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.00706802989272,
+          "lng": 9.51881662989272
+        },
+        "southwest": {
+          "lat": 10.00436837010728,
+          "lng": 9.516116970107277
+        }
+      },
+      "formatted_address": "2G49+72W, 741109, Bula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0057437,9.517575599999999",
+      "google_place_id": "ChIJJX-AXUuTVBARVsPUre7yGNM"
+    }
   },
   {
     "id": "19985",
@@ -349,7 +674,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0057437,
+      "longitude": 9.517575599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.00706802989272,
+          "lng": 9.51881662989272
+        },
+        "southwest": {
+          "lat": 10.00436837010728,
+          "lng": 9.516116970107277
+        }
+      },
+      "formatted_address": "2G49+72W, 741109, Bula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0057437,9.517575599999999",
+      "google_place_id": "ChIJJX-AXUuTVBARVsPUre7yGNM"
+    }
   },
   {
     "id": "19986",
@@ -365,7 +707,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3202801,
+      "longitude": 9.8265637,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32140172989272,
+          "lng": 9.82785337989272
+        },
+        "southwest": {
+          "lat": 10.31870207010728,
+          "lng": 9.825153720107275
+        }
+      },
+      "formatted_address": "8RCG+4J8, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3202801,9.8265637",
+      "google_place_id": "ChIJIdN3ADvXVBAR8PdoGSj00pI"
+    }
   },
   {
     "id": "19987",
@@ -381,7 +740,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3272946,
+      "longitude": 9.854998499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32864412989272,
+          "lng": 9.856247329892721
+        },
+        "southwest": {
+          "lat": 10.32594447010728,
+          "lng": 9.853547670107277
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3272946,9.854998499999999",
+      "google_place_id": "ChIJ2cIXLgfXVBARsprVWAmgsPc"
+    }
   },
   {
     "id": "19988",
@@ -397,7 +773,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "19989",
@@ -413,7 +806,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "19990",
@@ -429,7 +839,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "19991",
@@ -445,7 +872,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9521379,
+      "longitude": 9.5078541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.953624629892722,
+          "lng": 9.508641229892723
+        },
+        "southwest": {
+          "lat": 9.950924970107279,
+          "lng": 9.505941570107279
+        }
+      },
+      "formatted_address": "Bauchi-Tafawa Balewa Rd, 741101, Litir Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9521379,9.5078541",
+      "google_place_id": "ChIJ9_l5QYSSVBAR3YnqvLi6qMU"
+    }
   },
   {
     "id": "19992",
@@ -461,7 +905,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19993",
@@ -477,7 +922,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9830673,
+      "longitude": 9.5082395,
+      "viewport": {
+        "northeast": {
+          "lat": 9.984385029892723,
+          "lng": 9.509604079892723
+        },
+        "southwest": {
+          "lat": 9.981685370107279,
+          "lng": 9.50690442010728
+        }
+      },
+      "formatted_address": "XGM5+67H, lukshi/zumbol road, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9830673,9.5082395",
+      "google_place_id": "ChIJczYAzjuTVBARdmMvqFP4ox4"
+    }
   },
   {
     "id": "19994",
@@ -493,7 +955,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9764629,
+      "longitude": 9.5077614,
+      "viewport": {
+        "northeast": {
+          "lat": 9.977866629892723,
+          "lng": 9.509363529892722
+        },
+        "southwest": {
+          "lat": 9.97516697010728,
+          "lng": 9.506663870107278
+        }
+      },
+      "formatted_address": "XGG5+H4J, 741101, Bundila, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9764629,9.5077614",
+      "google_place_id": "ChIJgfd96fCSVBARAOdYasWCBq0"
+    }
   },
   {
     "id": "19995",
@@ -509,6 +988,23 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9830673,
+      "longitude": 9.5082395,
+      "viewport": {
+        "northeast": {
+          "lat": 9.984385029892723,
+          "lng": 9.509604079892723
+        },
+        "southwest": {
+          "lat": 9.981685370107279,
+          "lng": 9.50690442010728
+        }
+      },
+      "formatted_address": "XGM5+67H, lukshi/zumbol road, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9830673,9.5082395",
+      "google_place_id": "ChIJczYAzjuTVBARdmMvqFP4ox4"
+    }
   }
 ]

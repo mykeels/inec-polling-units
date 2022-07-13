@@ -13,7 +13,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19735",
@@ -29,7 +30,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19736",
@@ -45,7 +47,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.794964,
+      "longitude": 10.543319,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79629287989272,
+          "lng": 10.54465892989272
+        },
+        "southwest": {
+          "lat": 10.79359322010728,
+          "lng": 10.54195927010728
+        }
+      },
+      "formatted_address": "QGVV+X8P, 750111, Shedori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.794964,10.543319",
+      "google_place_id": "ChIJferScOOhqhERDwsp7Tt5zT8"
+    }
   },
   {
     "id": "19737",
@@ -61,7 +80,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19738",
@@ -77,7 +97,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.0030244,
+      "longitude": 10.4621366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.0643816,
+          "lng": 10.5333297
+        },
+        "southwest": {
+          "lat": 10.9381421,
+          "lng": 10.3721219
+        }
+      },
+      "formatted_address": "Darazo East, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0030244,10.4621366",
+      "google_place_id": "ChIJz29f70KFqhER7skeP4avryM"
+    }
   },
   {
     "id": "19739",
@@ -93,7 +130,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.7945499,
+      "longitude": 10.543382,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79587122989272,
+          "lng": 10.54473572989272
+        },
+        "southwest": {
+          "lat": 10.79317157010728,
+          "lng": 10.54203607010728
+        }
+      },
+      "formatted_address": "QGVV+R96, 750111, Shedori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7945499,10.543382",
+      "google_place_id": "ChIJgb5GeeOhqhERwn8fREL0WZo"
+    }
   },
   {
     "id": "19740",
@@ -109,7 +163,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19741",
@@ -125,7 +180,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3009641,
+      "longitude": 9.8236533,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30230382989272,
+          "lng": 9.825106179892723
+        },
+        "southwest": {
+          "lat": 10.29960417010728,
+          "lng": 9.822406520107279
+        }
+      },
+      "formatted_address": "8R2F+9FJ, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3009641,9.8236533",
+      "google_place_id": "ChIJHWXGVL_XVBARCU1yxnvaMQE"
+    }
   },
   {
     "id": "19742",
@@ -141,7 +213,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.0030244,
+      "longitude": 10.4621366,
+      "viewport": {
+        "northeast": {
+          "lat": 11.0643816,
+          "lng": 10.5333297
+        },
+        "southwest": {
+          "lat": 10.9381421,
+          "lng": 10.3721219
+        }
+      },
+      "formatted_address": "Darazo East, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0030244,10.4621366",
+      "google_place_id": "ChIJz29f70KFqhER7skeP4avryM"
+    }
   },
   {
     "id": "19743",
@@ -157,7 +246,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9953725,
+      "longitude": 10.4101377,
+      "viewport": {
+        "northeast": {
+          "lat": 10.99672512989272,
+          "lng": 10.41150697989272
+        },
+        "southwest": {
+          "lat": 10.99402547010728,
+          "lng": 10.40880732010728
+        }
+      },
+      "formatted_address": "XCW6+43R, Bauchi Rd, 750106, Darazo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9953725,10.4101377",
+      "google_place_id": "ChIJT4q36_qPqhERAXwW0wCpMmc"
+    }
   },
   {
     "id": "19744",
@@ -173,7 +279,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9513452,
+      "longitude": 10.4368831,
+      "viewport": {
+        "northeast": {
+          "lat": 10.95267107989272,
+          "lng": 10.43821977989272
+        },
+        "southwest": {
+          "lat": 10.94997142010728,
+          "lng": 10.43552012010728
+        }
+      },
+      "formatted_address": "XC2P+HP9, 750111, Zoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9513452,10.4368831",
+      "google_place_id": "ChIJwYeQ-HaQqhERd7S1ze2mQ64"
+    }
   },
   {
     "id": "19745",
@@ -189,7 +312,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9953725,
+      "longitude": 10.4101377,
+      "viewport": {
+        "northeast": {
+          "lat": 10.99672512989272,
+          "lng": 10.41150697989272
+        },
+        "southwest": {
+          "lat": 10.99402547010728,
+          "lng": 10.40880732010728
+        }
+      },
+      "formatted_address": "XCW6+43R, Bauchi Rd, 750106, Darazo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9953725,10.4101377",
+      "google_place_id": "ChIJT4q36_qPqhERAXwW0wCpMmc"
+    }
   },
   {
     "id": "19746",
@@ -205,7 +345,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9392429,
+      "longitude": 10.3946676,
+      "viewport": {
+        "northeast": {
+          "lat": 10.94059542989272,
+          "lng": 10.39605427989272
+        },
+        "southwest": {
+          "lat": 10.93789577010728,
+          "lng": 10.39335462010728
+        }
+      },
+      "formatted_address": "W9QV+MRX, 750106, Darazo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9392429,10.3946676",
+      "google_place_id": "ChIJrUfwsqqRqhER4CKtJAnYfOE"
+    }
   },
   {
     "id": "19747",
@@ -221,7 +378,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19748",
@@ -237,7 +395,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19749",
@@ -253,7 +412,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3884819,
+      "longitude": 10.6557271,
+      "viewport": {
+        "northeast": {
+          "lat": 11.38980472989272,
+          "lng": 10.65714532989272
+        },
+        "southwest": {
+          "lat": 11.38710507010728,
+          "lng": 10.65444567010728
+        }
+      },
+      "formatted_address": "9MQ4+C7M, 750114, Sade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3884819,10.6557271",
+      "google_place_id": "ChIJ_aghSLCdABERUJ5Z_HyAqOs"
+    }
   },
   {
     "id": "19750",
@@ -269,7 +445,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19751",
@@ -285,7 +462,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19752",
@@ -301,7 +479,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19753",
@@ -317,7 +496,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19754",
@@ -333,7 +513,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19755",
@@ -349,7 +530,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19756",
@@ -365,7 +547,24 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3268144,
+      "longitude": 7.8072249,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3321461,
+          "lng": 7.813823899999999
+        },
+        "southwest": {
+          "lat": 11.3257581,
+          "lng": 7.806323999999999
+        }
+      },
+      "formatted_address": "802108, Galadima, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3268144,7.8072249",
+      "google_place_id": "ChIJc5ANGcuArRER3U61pdZqboE"
+    }
   },
   {
     "id": "19757",
@@ -381,7 +580,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19758",
@@ -397,7 +597,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19759",
@@ -413,7 +614,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19760",
@@ -429,7 +631,8 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19761",
@@ -445,6 +648,7 @@
     "local_government_id": "95",
     "local_government_name": "DARAZO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

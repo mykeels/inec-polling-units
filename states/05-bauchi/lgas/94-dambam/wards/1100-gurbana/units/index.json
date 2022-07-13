@@ -13,7 +13,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7332051,
+      "longitude": 10.7296907,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73470187989272,
+          "lng": 10.73108977989272
+        },
+        "southwest": {
+          "lat": 11.73200222010728,
+          "lng": 10.72839012010728
+        }
+      },
+      "formatted_address": "Gurbana Primary School, 752101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7332051,10.7296907",
+      "google_place_id": "ChIJN75kn9-uABERaeIUx9uosis"
+    }
   },
   {
     "id": "19527",
@@ -29,7 +46,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "Odobodu Street, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJR58gl-vXVBARROkaoTdYPwk"
+    }
   },
   {
     "id": "19528",
@@ -45,7 +79,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.358385,
+      "longitude": 10.43686,
+      "viewport": {
+        "northeast": {
+          "lat": 11.36031242989272,
+          "lng": 10.43874097989272
+        },
+        "southwest": {
+          "lat": 11.35761277010728,
+          "lng": 10.43604132010728
+        }
+      },
+      "formatted_address": "11 GAMAWA CLOSE TO FADAMAN MADA #BAUCHI STATE, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.358385,10.43686",
+      "google_place_id": "ChIJlfaFfy1vqhEROKstI5tZEEA"
+    }
   },
   {
     "id": "19529",
@@ -61,7 +112,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.6970173,
+      "longitude": 9.7608711,
+      "viewport": {
+        "northeast": {
+          "lat": 10.69769032989272,
+          "lng": 9.762610429892721
+        },
+        "southwest": {
+          "lat": 10.69499067010727,
+          "lng": 9.759910770107277
+        }
+      },
+      "formatted_address": "MQW6+Q9R, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6970173,9.7608711",
+      "google_place_id": "ChIJjZxTc_wkqxERtjBi_T6Vr5w"
+    }
   },
   {
     "id": "19530",
@@ -77,7 +145,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19531",
@@ -93,7 +162,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6763552,
+      "longitude": 10.7080067,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67775052989272,
+          "lng": 10.70935667989272
+        },
+        "southwest": {
+          "lat": 11.67505087010728,
+          "lng": 10.70665702010728
+        }
+      },
+      "formatted_address": "MPG5+G6R, Azare -Potiskum Rd, 752101, Dambam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6763552,10.7080067",
+      "google_place_id": "ChIJgUZZO-WnABERRyN7z_74spY"
+    }
   },
   {
     "id": "19532",
@@ -109,7 +195,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19533",
@@ -125,7 +212,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6811,
+      "longitude": 10.7086,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68245737989272,
+          "lng": 10.70999302989272
+        },
+        "southwest": {
+          "lat": 11.67975772010728,
+          "lng": 10.70729337010728
+        }
+      },
+      "formatted_address": "MPJ5+CCX, 752101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6811,10.7086",
+      "google_place_id": "ChIJIWUXQQemABERj-cENCfaP38"
+    }
   },
   {
     "id": "19534",
@@ -141,7 +245,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6763552,
+      "longitude": 10.7080067,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67775052989272,
+          "lng": 10.70935667989272
+        },
+        "southwest": {
+          "lat": 11.67505087010728,
+          "lng": 10.70665702010728
+        }
+      },
+      "formatted_address": "MPG5+G6R, Azare -Potiskum Rd, 752101, Dambam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6763552,10.7080067",
+      "google_place_id": "ChIJgUZZO-WnABERRyN7z_74spY"
+    }
   },
   {
     "id": "19535",
@@ -157,7 +278,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7009164,
+      "longitude": 10.7778287,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70182887989272,
+          "lng": 10.77915832989272
+        },
+        "southwest": {
+          "lat": 11.69912922010728,
+          "lng": 10.77645867010728
+        }
+      },
+      "formatted_address": "PQ2H+94W, 752101, Lumbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7009164,10.7778287",
+      "google_place_id": "ChIJdzcgtOyvABERuw_wohFOUvA"
+    }
   },
   {
     "id": "19536",
@@ -173,7 +311,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6704053,
+      "longitude": 10.7986029,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67175957989272,
+          "lng": 10.79993452989272
+        },
+        "southwest": {
+          "lat": 11.66905992010728,
+          "lng": 10.79723487010728
+        }
+      },
+      "formatted_address": "MQCX+5C3, 752101, Lumbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6704053,10.7986029",
+      "google_place_id": "ChIJQ2EF4EylABERdyhUoF8SzI0"
+    }
   },
   {
     "id": "19537",
@@ -189,7 +344,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6704053,
+      "longitude": 10.7986029,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67175957989272,
+          "lng": 10.79993452989272
+        },
+        "southwest": {
+          "lat": 11.66905992010728,
+          "lng": 10.79723487010728
+        }
+      },
+      "formatted_address": "MQCX+5C3, 752101, Lumbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6704053,10.7986029",
+      "google_place_id": "ChIJQ2EF4EylABERdyhUoF8SzI0"
+    }
   },
   {
     "id": "19538",
@@ -205,7 +377,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6704053,
+      "longitude": 10.7986029,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67175957989272,
+          "lng": 10.79993452989272
+        },
+        "southwest": {
+          "lat": 11.66905992010728,
+          "lng": 10.79723487010728
+        }
+      },
+      "formatted_address": "MQCX+5C3, 752101, Lumbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6704053,10.7986029",
+      "google_place_id": "ChIJQ2EF4EylABERdyhUoF8SzI0"
+    }
   },
   {
     "id": "19539",
@@ -221,7 +410,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6387461,
+      "longitude": 10.7835876,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64026482989272,
+          "lng": 10.78485007989272
+        },
+        "southwest": {
+          "lat": 11.63756517010728,
+          "lng": 10.78215042010728
+        }
+      },
+      "formatted_address": "JQQM+FCW, 752101, Lumbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6387461,10.7835876",
+      "google_place_id": "ChIJuQbVydikABERcSLgvlJT3Yk"
+    }
   },
   {
     "id": "19540",
@@ -237,7 +443,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6819938,
+      "longitude": 10.7649753,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68327162989272,
+          "lng": 10.76612207989272
+        },
+        "southwest": {
+          "lat": 11.68057197010728,
+          "lng": 10.76342242010728
+        }
+      },
+      "formatted_address": "MQJ7+RXP, 752101, Lumbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6819938,10.7649753",
+      "google_place_id": "ChIJe9Crw3ylABERUQgDgH2bnWg"
+    }
   },
   {
     "id": "19541",
@@ -253,7 +476,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6760787,
+      "longitude": 10.7069549,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67741632989272,
+          "lng": 10.70809292989272
+        },
+        "southwest": {
+          "lat": 11.67471667010728,
+          "lng": 10.70539327010728
+        }
+      },
+      "formatted_address": "MPG4+CQP, 752101, Dambam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6760787,10.7069549",
+      "google_place_id": "ChIJgdJFHJqnABERFD4GYikFq_A"
+    }
   },
   {
     "id": "19542",
@@ -269,7 +509,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19543",
@@ -285,7 +526,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19544",
@@ -301,6 +543,23 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6803711,
+      "longitude": 10.7085477,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68175312989272,
+          "lng": 10.71002527989272
+        },
+        "southwest": {
+          "lat": 11.67905347010728,
+          "lng": 10.70732562010728
+        }
+      },
+      "formatted_address": "Palace, Oppisite District Head, Dambam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6803711,10.7085477",
+      "google_place_id": "ChIJn-10fmOnABERbTkGYuUBeqU"
+    }
   }
 ]

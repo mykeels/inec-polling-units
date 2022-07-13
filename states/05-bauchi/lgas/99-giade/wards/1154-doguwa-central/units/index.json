@@ -13,7 +13,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20641",
@@ -29,7 +30,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20642",
@@ -45,7 +47,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.7310058,
+      "longitude": 8.5855706,
+      "viewport": {
+        "northeast": {
+          "lat": 10.73233797989272,
+          "lng": 8.586860329892719
+        },
+        "southwest": {
+          "lat": 10.72963832010728,
+          "lng": 8.584160670107275
+        }
+      },
+      "formatted_address": "7F2CPHJP+95X DOGUWA DOGUWA Kano Sogaga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7310058,8.5855706",
+      "google_place_id": "ChIJTd4wbenbrBERwgU2heM8bR4"
+    }
   },
   {
     "id": "20643",
@@ -61,7 +80,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20644",
@@ -77,7 +97,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20645",
@@ -93,7 +114,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20646",
@@ -109,7 +131,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "20647",
@@ -125,7 +164,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "Ganuwa Village, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJ1ViS_ozXVBAR4_fa-yvjaBI"
+    }
   },
   {
     "id": "20648",
@@ -141,7 +197,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20649",
@@ -157,7 +214,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20650",
@@ -173,7 +231,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3148141,
+      "longitude": 9.8622006,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31615482989272,
+          "lng": 9.863575129892721
+        },
+        "southwest": {
+          "lat": 10.31345517010728,
+          "lng": 9.860875470107278
+        }
+      },
+      "formatted_address": "8V76+WVG, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3148141,9.8622006",
+      "google_place_id": "ChIJn535WKTXVBARxddsT1-yM_Y"
+    }
   },
   {
     "id": "20651",
@@ -189,7 +264,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2971442,
+      "longitude": 9.851149699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29848857989272,
+          "lng": 9.852505329892722
+        },
+        "southwest": {
+          "lat": 10.29578892010728,
+          "lng": 9.849805670107278
+        }
+      },
+      "formatted_address": "7VW2+VCH, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2971442,9.851149699999999",
+      "google_place_id": "ChIJewBpW3HXVBAR5VLemEHiMWo"
+    }
   },
   {
     "id": "20652",
@@ -205,7 +297,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.74262,
+      "longitude": 8.743489,
+      "viewport": {
+        "northeast": {
+          "lat": 10.74396452989272,
+          "lng": 8.74484572989272
+        },
+        "southwest": {
+          "lat": 10.74126487010728,
+          "lng": 8.742146070107276
+        }
+      },
+      "formatted_address": "PPVV+29X, 801165, Riruwai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.74262,8.743489",
+      "google_place_id": "ChIJ6Z7VkyHErBERYvgxpRPtEDM"
+    }
   },
   {
     "id": "20653",
@@ -221,6 +330,23 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3903071,
+      "longitude": 10.1977475,
+      "viewport": {
+        "northeast": {
+          "lat": 11.39158227989272,
+          "lng": 10.19911017989272
+        },
+        "southwest": {
+          "lat": 11.38888262010728,
+          "lng": 10.19641052010728
+        }
+      },
+      "formatted_address": "95RX+43H, 750105, Giade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3903071,10.1977475",
+      "google_place_id": "ChIJ96lvspRDqhERUUT47BhSJrs"
+    }
   }
 ]

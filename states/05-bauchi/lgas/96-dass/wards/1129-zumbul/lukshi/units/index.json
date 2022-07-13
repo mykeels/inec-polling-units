@@ -13,7 +13,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20052",
@@ -29,7 +30,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9830673,
+      "longitude": 9.5082395,
+      "viewport": {
+        "northeast": {
+          "lat": 9.984385029892723,
+          "lng": 9.509604079892723
+        },
+        "southwest": {
+          "lat": 9.981685370107279,
+          "lng": 9.50690442010728
+        }
+      },
+      "formatted_address": "XGM5+67H, lukshi/zumbol road, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9830673,9.5082395",
+      "google_place_id": "ChIJczYAzjuTVBARdmMvqFP4ox4"
+    }
   },
   {
     "id": "20053",
@@ -45,7 +63,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.0484,
+      "longitude": 9.3902,
+      "viewport": {
+        "northeast": {
+          "lat": 10.05016382989272,
+          "lng": 9.39112015
+        },
+        "southwest": {
+          "lat": 10.04746417010728,
+          "lng": 9.387439549999998
+        }
+      },
+      "formatted_address": "29XR+938, 741109, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0484,9.3902",
+      "google_place_id": "ChIJT77UBDiXVBARlaB40pnIdlY"
+    }
   },
   {
     "id": "20054",
@@ -61,7 +96,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.276646,
+      "longitude": 9.79802,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27830617989272,
+          "lng": 9.79882017989272
+        },
+        "southwest": {
+          "lat": 10.27560652010728,
+          "lng": 9.796120520107275
+        }
+      },
+      "formatted_address": "7QGX+M62, Dass Road Yelwan tudu bauchi., Bauchi State Nigeria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.276646,9.79802",
+      "google_place_id": "ChIJiQ2qBxHaVBAR6VoADNzOZH0"
+    }
   },
   {
     "id": "20055",
@@ -77,7 +129,24 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9830673,
+      "longitude": 9.5082395,
+      "viewport": {
+        "northeast": {
+          "lat": 9.984385029892723,
+          "lng": 9.509604079892723
+        },
+        "southwest": {
+          "lat": 9.981685370107279,
+          "lng": 9.50690442010728
+        }
+      },
+      "formatted_address": "XGM5+67H, lukshi/zumbol road, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9830673,9.5082395",
+      "google_place_id": "ChIJczYAzjuTVBARdmMvqFP4ox4"
+    }
   },
   {
     "id": "20056",
@@ -93,7 +162,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20057",
@@ -109,7 +179,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20058",
@@ -125,7 +196,8 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20059",
@@ -141,6 +213,23 @@
     "local_government_id": "96",
     "local_government_name": "DASS",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.9830673,
+      "longitude": 9.5082395,
+      "viewport": {
+        "northeast": {
+          "lat": 9.984385029892723,
+          "lng": 9.509604079892723
+        },
+        "southwest": {
+          "lat": 9.981685370107279,
+          "lng": 9.50690442010728
+        }
+      },
+      "formatted_address": "XGM5+67H, lukshi/zumbol road, Bununu Dass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9830673,9.5082395",
+      "google_place_id": "ChIJczYAzjuTVBARdmMvqFP4ox4"
+    }
   }
 ]

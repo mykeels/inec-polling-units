@@ -13,7 +13,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "19504",
@@ -29,7 +46,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "19505",
@@ -45,7 +79,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19506",
@@ -61,7 +96,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3231188,
+      "longitude": 9.8460802,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32443322989272,
+          "lng": 9.847352129892721
+        },
+        "southwest": {
+          "lat": 10.32173357010728,
+          "lng": 9.844652470107278
+        }
+      },
+      "formatted_address": "8RFW+6C8, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3231188,9.8460802",
+      "google_place_id": "ChIJZWhZUgXXVBARGIc-bej1z9k"
+    }
   },
   {
     "id": "19507",
@@ -77,7 +129,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19508",
@@ -93,7 +146,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19509",
@@ -109,7 +163,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19510",
@@ -125,7 +180,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5965302,
+      "longitude": 9.6714048,
+      "viewport": {
+        "northeast": {
+          "lat": 9.597867479892724,
+          "lng": 9.672720429892722
+        },
+        "southwest": {
+          "lat": 9.59516782010728,
+          "lng": 9.670020770107278
+        }
+      },
+      "formatted_address": "HMWC+JH6, 741104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5965302,9.6714048",
+      "google_place_id": "ChIJvYKMGS9bVBARSKcftAsY97I"
+    }
   },
   {
     "id": "19511",
@@ -141,6 +213,7 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7087787,
+      "longitude": 10.86395,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71024127989272,
+          "lng": 10.86527497989272
+        },
+        "southwest": {
+          "lat": 11.70754162010728,
+          "lng": 10.86257532010728
+        }
+      },
+      "formatted_address": "PV57+GH8, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7087787,10.86395",
+      "google_place_id": "ChIJERQBjJCxABERhY0YE5Qnr_g"
+    }
   },
   {
     "id": "19614",
@@ -29,7 +46,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7101179,
+      "longitude": 10.8620804,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7355116,
+          "lng": 10.8953151
+        },
+        "southwest": {
+          "lat": 11.6801806,
+          "lng": 10.8206237
+        }
+      },
+      "formatted_address": "Dagauda, 752102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7101179,10.8620804",
+      "google_place_id": "ChIJWcklou2wABERka8TEAytMxE"
+    }
   },
   {
     "id": "19615",
@@ -45,7 +79,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3131991,
+      "longitude": 9.8254878,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31437592989272,
+          "lng": 9.826858679892723
+        },
+        "southwest": {
+          "lat": 10.31167627010728,
+          "lng": 9.82415902010728
+        }
+      },
+      "formatted_address": "8R7G+75X, Mohammed Bello, Kirfi Road, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3131991,9.8254878",
+      "google_place_id": "ChIJQxXjWTjXVBARjhMWulMBi8g"
+    }
   },
   {
     "id": "19616",
@@ -61,7 +112,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19617",
@@ -77,7 +129,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.313905,
+      "longitude": 10.46524,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31524982989272,
+          "lng": 10.46658812989272
+        },
+        "southwest": {
+          "lat": 11.31255017010728,
+          "lng": 10.46388847010728
+        }
+      },
+      "formatted_address": "8F78+H3Q, 750101, Misau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.313905,10.46524",
+      "google_place_id": "ChIJrc6mHut6qhERL8Tac8311UQ"
+    }
   },
   {
     "id": "19618",
@@ -93,7 +162,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6702895,
+      "longitude": 10.8629624,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67164417989272,
+          "lng": 10.86427487989272
+        },
+        "southwest": {
+          "lat": 11.66894452010728,
+          "lng": 10.86157522010728
+        }
+      },
+      "formatted_address": "Lumbo Primary School, 752102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6702895,10.8629624",
+      "google_place_id": "ChIJM2z48G26ABERMcjiCJJPFwc"
+    }
   },
   {
     "id": "19619",
@@ -109,7 +195,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6597693,
+      "longitude": 10.9022217,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66117112989272,
+          "lng": 10.90364702989272
+        },
+        "southwest": {
+          "lat": 11.65847147010728,
+          "lng": 10.90094737010728
+        }
+      },
+      "formatted_address": "Yayari Primary School, 752102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6597693,10.9022217",
+      "google_place_id": "ChIJ56kDZu25ABERq4Dho1XW_ww"
+    }
   },
   {
     "id": "19620",
@@ -125,7 +228,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19621",
@@ -141,7 +245,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6777206,
+      "longitude": 10.7060501,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67910137989272,
+          "lng": 10.70738872989272
+        },
+        "southwest": {
+          "lat": 11.67640172010728,
+          "lng": 10.70468907010728
+        }
+      },
+      "formatted_address": "MPH4+3CM, 752101, Dambam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6777206,10.7060501",
+      "google_place_id": "ChIJl_XMOwamABER0359aQD5gHo"
+    }
   },
   {
     "id": "19622",
@@ -157,7 +278,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7048276,
+      "longitude": 10.8599774,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70616867989272,
+          "lng": 10.86130837989272
+        },
+        "southwest": {
+          "lat": 11.70346902010728,
+          "lng": 10.85860872010728
+        }
+      },
+      "formatted_address": "PV35+WXF, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7048276,10.8599774",
+      "google_place_id": "ChIJ5-5vlfKxABERPDvo2fOnBXA"
+    }
   },
   {
     "id": "19623",
@@ -173,7 +311,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6811,
+      "longitude": 10.7086,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68245737989272,
+          "lng": 10.70999302989272
+        },
+        "southwest": {
+          "lat": 11.67975772010728,
+          "lng": 10.70729337010728
+        }
+      },
+      "formatted_address": "MPJ5+CCX, 752101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6811,10.7086",
+      "google_place_id": "ChIJIWUXQQemABERj-cENCfaP38"
+    }
   },
   {
     "id": "19624",
@@ -189,7 +344,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19625",
@@ -205,7 +361,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19626",
@@ -221,7 +378,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7101179,
+      "longitude": 10.8620804,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7355116,
+          "lng": 10.8953151
+        },
+        "southwest": {
+          "lat": 11.6801806,
+          "lng": 10.8206237
+        }
+      },
+      "formatted_address": "Dagauda, 752102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7101179,10.8620804",
+      "google_place_id": "ChIJWcklou2wABERka8TEAytMxE"
+    }
   },
   {
     "id": "19627",
@@ -237,7 +411,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7048276,
+      "longitude": 10.8599774,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70616867989272,
+          "lng": 10.86130837989272
+        },
+        "southwest": {
+          "lat": 11.70346902010728,
+          "lng": 10.85860872010728
+        }
+      },
+      "formatted_address": "PV35+WXF, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7048276,10.8599774",
+      "google_place_id": "ChIJ5-5vlfKxABERPDvo2fOnBXA"
+    }
   },
   {
     "id": "19628",
@@ -253,7 +444,8 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19629",
@@ -269,7 +461,24 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7048276,
+      "longitude": 10.8599774,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70616867989272,
+          "lng": 10.86130837989272
+        },
+        "southwest": {
+          "lat": 11.70346902010728,
+          "lng": 10.85860872010728
+        }
+      },
+      "formatted_address": "PV35+WXF, 752102, Dagauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7048276,10.8599774",
+      "google_place_id": "ChIJ5-5vlfKxABERPDvo2fOnBXA"
+    }
   },
   {
     "id": "19630",
@@ -285,6 +494,23 @@
     "local_government_id": "94",
     "local_government_name": "DAMBAM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.705856,
+      "longitude": 10.8634917,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70707227989272,
+          "lng": 10.86481817989272
+        },
+        "southwest": {
+          "lat": 11.70437262010728,
+          "lng": 10.86211852010728
+        }
+      },
+      "formatted_address": "Yayarin 752102, Dadauda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.705856,10.8634917",
+      "google_place_id": "ChIJh7MMEzKxABERviSjZWTliI0"
+    }
   }
 ]

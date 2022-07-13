@@ -13,7 +13,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5829158,
+      "longitude": 9.4450439,
+      "viewport": {
+        "northeast": {
+          "lat": 9.584265629892723,
+          "lng": 9.446393729892723
+        },
+        "southwest": {
+          "lat": 9.58156597010728,
+          "lng": 9.443694070107279
+        }
+      },
+      "formatted_address": "Ungwar Gambar Zugun Bakin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5829158,9.4450439",
+      "google_place_id": "ChIJNws4D-FvVBAR9WAQ6Afmd0A"
+    }
   },
   {
     "id": "19473",
@@ -29,7 +46,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6027787,
+      "longitude": 9.597088399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604231229892722,
+          "lng": 9.598344129892721
+        },
+        "southwest": {
+          "lat": 9.601531570107278,
+          "lng": 9.595644470107278
+        }
+      },
+      "formatted_address": "JH3W+4R8, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6027787,9.597088399999999",
+      "google_place_id": "ChIJjxR_RdpcVBARrOGf0YrJ280"
+    }
   },
   {
     "id": "19474",
@@ -45,7 +79,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6334917,
+      "longitude": 9.654305899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.638044950000001,
+          "lng": 9.6568787
+        },
+        "southwest": {
+          "lat": 9.63197395,
+          "lng": 9.653448299999999
+        }
+      },
+      "formatted_address": "JMM3+9PV, opposite Adamu muazu street, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6334917,9.654305899999999",
+      "google_place_id": "ChIJd6QPsiNbVBARV8GqGxsUTyU"
+    }
   },
   {
     "id": "19475",
@@ -61,7 +112,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6027787,
+      "longitude": 9.597088399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604231229892722,
+          "lng": 9.598344129892721
+        },
+        "southwest": {
+          "lat": 9.601531570107278,
+          "lng": 9.595644470107278
+        }
+      },
+      "formatted_address": "JH3W+4R8, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6027787,9.597088399999999",
+      "google_place_id": "ChIJjxR_RdpcVBARrOGf0YrJ280"
+    }
   },
   {
     "id": "19476",
@@ -77,7 +145,24 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.6027787,
+      "longitude": 9.597088399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.604231229892722,
+          "lng": 9.598344129892721
+        },
+        "southwest": {
+          "lat": 9.601531570107278,
+          "lng": 9.595644470107278
+        }
+      },
+      "formatted_address": "JH3W+4R8, 741104, Bogoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6027787,9.597088399999999",
+      "google_place_id": "ChIJjxR_RdpcVBARrOGf0YrJ280"
+    }
   },
   {
     "id": "19477",
@@ -93,7 +178,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19478",
@@ -109,7 +195,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19479",
@@ -125,7 +212,8 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "19480",
@@ -141,6 +229,7 @@
     "local_government_id": "93",
     "local_government_name": "BOGORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

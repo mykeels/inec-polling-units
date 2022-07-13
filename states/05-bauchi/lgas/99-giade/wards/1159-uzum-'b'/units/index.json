@@ -13,7 +13,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.512908,
+      "longitude": 10.2569665,
+      "viewport": {
+        "northeast": {
+          "lat": 11.51435272989272,
+          "lng": 10.25830857989272
+        },
+        "southwest": {
+          "lat": 11.51165307010728,
+          "lng": 10.25560892010728
+        }
+      },
+      "formatted_address": "G774+5Q8, 751104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.512908,10.2569665",
+      "google_place_id": "ChIJv3gF1xxAqhERwXr0KMpCaEI"
+    }
   },
   {
     "id": "20714",
@@ -29,7 +46,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20715",
@@ -45,7 +63,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.512908,
+      "longitude": 10.2569665,
+      "viewport": {
+        "northeast": {
+          "lat": 11.51435272989272,
+          "lng": 10.25830857989272
+        },
+        "southwest": {
+          "lat": 11.51165307010728,
+          "lng": 10.25560892010728
+        }
+      },
+      "formatted_address": "G774+5Q8, 751104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.512908,10.2569665",
+      "google_place_id": "ChIJv3gF1xxAqhERwXr0KMpCaEI"
+    }
   },
   {
     "id": "20716",
@@ -61,7 +96,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.512908,
+      "longitude": 10.2569665,
+      "viewport": {
+        "northeast": {
+          "lat": 11.51435272989272,
+          "lng": 10.25830857989272
+        },
+        "southwest": {
+          "lat": 11.51165307010728,
+          "lng": 10.25560892010728
+        }
+      },
+      "formatted_address": "G774+5Q8, 751104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.512908,10.2569665",
+      "google_place_id": "ChIJv3gF1xxAqhERwXr0KMpCaEI"
+    }
   },
   {
     "id": "20717",
@@ -77,7 +129,24 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3892225,
+      "longitude": 10.3890512,
+      "viewport": {
+        "northeast": {
+          "lat": 11.39057232989272,
+          "lng": 10.39040102989272
+        },
+        "southwest": {
+          "lat": 11.38787267010728,
+          "lng": 10.38770137010728
+        }
+      },
+      "formatted_address": "99QQ+MJM, 750101, Zadawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3892225,10.3890512",
+      "google_place_id": "ChIJD4WUJ_xuqhERyOZ_peuUu1w"
+    }
   },
   {
     "id": "20718",
@@ -93,7 +162,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20719",
@@ -109,7 +179,8 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20720",
@@ -125,6 +196,23 @@
     "local_government_id": "99",
     "local_government_name": "GIADE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3009641,
+      "longitude": 9.8236533,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30230382989272,
+          "lng": 9.825106179892723
+        },
+        "southwest": {
+          "lat": 10.29960417010728,
+          "lng": 9.822406520107279
+        }
+      },
+      "formatted_address": "8R2F+9FJ, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3009641,9.8236533",
+      "google_place_id": "ChIJfy82gxvXVBARdpWrVCWB01g"
+    }
   }
 ]
