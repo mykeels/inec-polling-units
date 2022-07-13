@@ -13,7 +13,8 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6364",
@@ -29,7 +30,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6079589,
+      "longitude": 13.4372878,
+      "viewport": {
+        "northeast": {
+          "lat": 10.60954772989272,
+          "lng": 13.43879177989272
+        },
+        "southwest": {
+          "lat": 10.60684807010728,
+          "lng": 13.43609212010728
+        }
+      },
+      "formatted_address": "JC5P+5WM, 651104, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6079589,13.4372878",
+      "google_place_id": "ChIJt963T7C2AhERKFDz9fC2LWQ"
+    }
   },
   {
     "id": "6365",
@@ -45,7 +63,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6161912,
+      "longitude": 13.4222797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.648253,
+          "lng": 13.4568647
+        },
+        "southwest": {
+          "lat": 10.5948188,
+          "lng": 13.3978861
+        }
+      },
+      "formatted_address": "Moda / Dlaka / Ghenjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6161912,13.4222797",
+      "google_place_id": "ChIJx2wOqOq2AhERmMM-nZdk1fU"
+    }
   },
   {
     "id": "6366",
@@ -61,7 +96,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
   },
   {
     "id": "6367",
@@ -77,7 +129,8 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6368",
@@ -93,7 +146,8 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6369",
@@ -109,7 +163,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
   },
   {
     "id": "6370",
@@ -125,7 +196,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6161912,
+      "longitude": 13.4222797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.648253,
+          "lng": 13.4568647
+        },
+        "southwest": {
+          "lat": 10.5948188,
+          "lng": 13.3978861
+        }
+      },
+      "formatted_address": "Moda / Dlaka / Ghenjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6161912,13.4222797",
+      "google_place_id": "ChIJx2wOqOq2AhERmMM-nZdk1fU"
+    }
   },
   {
     "id": "6371",
@@ -141,7 +229,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6161912,
+      "longitude": 13.4222797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.648253,
+          "lng": 13.4568647
+        },
+        "southwest": {
+          "lat": 10.5948188,
+          "lng": 13.3978861
+        }
+      },
+      "formatted_address": "Moda / Dlaka / Ghenjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6161912,13.4222797",
+      "google_place_id": "ChIJx2wOqOq2AhERmMM-nZdk1fU"
+    }
   },
   {
     "id": "6372",
@@ -157,7 +262,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6161912,
+      "longitude": 13.4222797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.648253,
+          "lng": 13.4568647
+        },
+        "southwest": {
+          "lat": 10.5948188,
+          "lng": 13.3978861
+        }
+      },
+      "formatted_address": "Moda / Dlaka / Ghenjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6161912,13.4222797",
+      "google_place_id": "ChIJx2wOqOq2AhERmMM-nZdk1fU"
+    }
   },
   {
     "id": "6373",
@@ -173,7 +295,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6161912,
+      "longitude": 13.4222797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.648253,
+          "lng": 13.4568647
+        },
+        "southwest": {
+          "lat": 10.5948188,
+          "lng": 13.3978861
+        }
+      },
+      "formatted_address": "Moda / Dlaka / Ghenjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6161912,13.4222797",
+      "google_place_id": "ChIJx2wOqOq2AhERmMM-nZdk1fU"
+    }
   },
   {
     "id": "6374",
@@ -189,7 +328,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
   },
   {
     "id": "6375",
@@ -205,7 +361,24 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6161912,
+      "longitude": 13.4222797,
+      "viewport": {
+        "northeast": {
+          "lat": 10.648253,
+          "lng": 13.4568647
+        },
+        "southwest": {
+          "lat": 10.5948188,
+          "lng": 13.3978861
+        }
+      },
+      "formatted_address": "Moda / Dlaka / Ghenjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6161912,13.4222797",
+      "google_place_id": "ChIJx2wOqOq2AhERmMM-nZdk1fU"
+    }
   },
   {
     "id": "6376",
@@ -221,6 +394,23 @@
     "local_government_id": "30",
     "local_government_name": "MICHIKA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6427626,
+      "longitude": 13.3955492,
+      "viewport": {
+        "northeast": {
+          "lat": 10.64412967989272,
+          "lng": 13.39692777989272
+        },
+        "southwest": {
+          "lat": 10.64143002010728,
+          "lng": 13.39422812010728
+        }
+      },
+      "formatted_address": "J9VW+35X, 651106, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6427626,13.3955492",
+      "google_place_id": "ChIJCVURsAe3AhER4CnRlEZzJr0"
+    }
   }
 ]

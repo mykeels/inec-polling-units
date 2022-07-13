@@ -13,7 +13,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6499",
@@ -29,7 +46,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2638385,
+      "longitude": 13.2764487,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2718857,
+          "lng": 13.2858795
+        },
+        "southwest": {
+          "lat": 10.2576799,
+          "lng": 13.26898
+        }
+      },
+      "formatted_address": "Kolere, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2638385,13.2764487",
+      "google_place_id": "ChIJg39tBFBZ_RARBYwRB3yfZys"
+    }
   },
   {
     "id": "6500",
@@ -45,7 +79,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2638385,
+      "longitude": 13.2764487,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2718857,
+          "lng": 13.2858795
+        },
+        "southwest": {
+          "lat": 10.2576799,
+          "lng": 13.26898
+        }
+      },
+      "formatted_address": "Kolere, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2638385,13.2764487",
+      "google_place_id": "ChIJg39tBFBZ_RARBYwRB3yfZys"
+    }
   },
   {
     "id": "6501",
@@ -61,7 +112,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.268955,
+      "longitude": 13.2749417,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27030482989272,
+          "lng": 13.27629152989272
+        },
+        "southwest": {
+          "lat": 10.26760517010728,
+          "lng": 13.27359187010728
+        }
+      },
+      "formatted_address": "Mubi Rd, 650101, Girei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.268955,13.2749417",
+      "google_place_id": "ChIJQfuq34NZ_RARDgc3q0Z7tUI"
+    }
   },
   {
     "id": "6502",
@@ -77,7 +145,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2638385,
+      "longitude": 13.2764487,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2718857,
+          "lng": 13.2858795
+        },
+        "southwest": {
+          "lat": 10.2576799,
+          "lng": 13.26898
+        }
+      },
+      "formatted_address": "Kolere, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2638385,13.2764487",
+      "google_place_id": "ChIJg39tBFBZ_RARBYwRB3yfZys"
+    }
   },
   {
     "id": "6503",
@@ -93,7 +178,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2711705,
+      "longitude": 13.2833589,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27263277989272,
+          "lng": 13.28480257989272
+        },
+        "southwest": {
+          "lat": 10.26993312010728,
+          "lng": 13.28210292010728
+        }
+      },
+      "formatted_address": "77CM+F89, 650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2711705,13.2833589",
+      "google_place_id": "ChIJm6sXskZZ_RARnvPbhpUplM0"
+    }
   },
   {
     "id": "6504",
@@ -109,7 +211,8 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6505",
@@ -125,7 +228,8 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6506",
@@ -141,7 +245,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.3844515,
+      "longitude": 13.3125299,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4816527,
+          "lng": 13.5117711
+        },
+        "southwest": {
+          "lat": 10.0918767,
+          "lng": 13.1229459
+        }
+      },
+      "formatted_address": "Mubi North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3844515,13.3125299",
+      "google_place_id": "ChIJzRuOuKhZ_RARuaNBaPiY3GE"
+    }
   },
   {
     "id": "6507",
@@ -157,7 +278,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6508",
@@ -173,7 +311,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.264372,
+      "longitude": 13.2772579,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26579592989272,
+          "lng": 13.27869482989272
+        },
+        "southwest": {
+          "lat": 10.26309627010728,
+          "lng": 13.27599517010728
+        }
+      },
+      "formatted_address": "777G+PVW, Opposite Isa Ahmadu Square, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.264372,13.2772579",
+      "google_place_id": "ChIJJ5xzDlBZ_RARTOL9dFZaeoQ"
+    }
   },
   {
     "id": "6509",
@@ -189,7 +344,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6510",
@@ -205,7 +377,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2697404,
+      "longitude": 13.2800349,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27107437989272,
+          "lng": 13.28134072989272
+        },
+        "southwest": {
+          "lat": 10.26837472010728,
+          "lng": 13.27864107010728
+        }
+      },
+      "formatted_address": "27 Katsina Rd, 650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2697404,13.2800349",
+      "google_place_id": "ChIJHfBe2kVZ_RARzNa88Vn4eAY"
+    }
   },
   {
     "id": "6511",
@@ -221,7 +410,8 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6512",
@@ -237,7 +427,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.268955,
+      "longitude": 13.2749417,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27030482989272,
+          "lng": 13.27629152989272
+        },
+        "southwest": {
+          "lat": 10.26760517010728,
+          "lng": 13.27359187010728
+        }
+      },
+      "formatted_address": "Mubi Rd, 650101, Girei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.268955,13.2749417",
+      "google_place_id": "ChIJQfuq34NZ_RARDgc3q0Z7tUI"
+    }
   },
   {
     "id": "6513",
@@ -253,7 +460,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2638385,
+      "longitude": 13.2764487,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2718857,
+          "lng": 13.2858795
+        },
+        "southwest": {
+          "lat": 10.2576799,
+          "lng": 13.26898
+        }
+      },
+      "formatted_address": "Kolere, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2638385,13.2764487",
+      "google_place_id": "ChIJg39tBFBZ_RARBYwRB3yfZys"
+    }
   },
   {
     "id": "6514",
@@ -269,7 +493,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6515",
@@ -285,7 +526,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6516",
@@ -301,7 +559,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6517",
@@ -317,7 +592,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2638385,
+      "longitude": 13.2764487,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2718857,
+          "lng": 13.2858795
+        },
+        "southwest": {
+          "lat": 10.2576799,
+          "lng": 13.26898
+        }
+      },
+      "formatted_address": "Kolere, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2638385,13.2764487",
+      "google_place_id": "ChIJg39tBFBZ_RARBYwRB3yfZys"
+    }
   },
   {
     "id": "6518",
@@ -333,7 +625,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2638385,
+      "longitude": 13.2764487,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2718857,
+          "lng": 13.2858795
+        },
+        "southwest": {
+          "lat": 10.2576799,
+          "lng": 13.26898
+        }
+      },
+      "formatted_address": "Kolere, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2638385,13.2764487",
+      "google_place_id": "ChIJg39tBFBZ_RARBYwRB3yfZys"
+    }
   },
   {
     "id": "6519",
@@ -349,7 +658,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6520",
@@ -365,7 +691,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6521",
@@ -381,7 +724,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.264372,
+      "longitude": 13.2772579,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26579592989272,
+          "lng": 13.27869482989272
+        },
+        "southwest": {
+          "lat": 10.26309627010728,
+          "lng": 13.27599517010728
+        }
+      },
+      "formatted_address": "777G+PVW, Opposite Isa Ahmadu Square, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.264372,13.2772579",
+      "google_place_id": "ChIJJ5xzDlBZ_RARTOL9dFZaeoQ"
+    }
   },
   {
     "id": "6522",
@@ -397,7 +757,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6523",
@@ -413,7 +790,24 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6524",
@@ -429,6 +823,7 @@
     "local_government_id": "31",
     "local_government_name": "MUBI NORTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

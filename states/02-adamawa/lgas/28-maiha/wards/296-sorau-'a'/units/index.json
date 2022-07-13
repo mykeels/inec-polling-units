@@ -13,7 +13,24 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.0120662,
+      "longitude": 13.2081091,
+      "viewport": {
+        "northeast": {
+          "lat": 10.01357602989272,
+          "lng": 13.20955257989272
+        },
+        "southwest": {
+          "lat": 10.01087637010728,
+          "lng": 13.20685292010728
+        }
+      },
+      "formatted_address": "2665+R6H, 650115, Maiha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0120662,13.2081091",
+      "google_place_id": "ChIJhcf4mGhA_RARz4H-WmCkdJs"
+    }
   },
   {
     "id": "6002",
@@ -29,7 +46,8 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6003",
@@ -45,7 +63,24 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.0686101,
+      "longitude": 13.1761976,
+      "viewport": {
+        "northeast": {
+          "lat": 10.072146,
+          "lng": 13.181144
+        },
+        "southwest": {
+          "lat": 10.066313,
+          "lng": 13.1702129
+        }
+      },
+      "formatted_address": "Jalingo Maiha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0686101,13.1761976",
+      "google_place_id": "ChIJw1QLX-JB_RAR_6XII44tfjE"
+    }
   },
   {
     "id": "6004",
@@ -61,7 +96,8 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6005",
@@ -77,7 +113,8 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6006",
@@ -93,7 +130,8 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6007",
@@ -109,7 +147,24 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.890488999999999,
+      "longitude": 13.201857,
+      "viewport": {
+        "northeast": {
+          "lat": 9.891730729892723,
+          "lng": 13.20324497989272
+        },
+        "southwest": {
+          "lat": 9.88903107010728,
+          "lng": 13.20054532010728
+        }
+      },
+      "formatted_address": "V6R2+5PX, 650105, Wuro Alhaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.890488999999999,13.201857",
+      "google_place_id": "ChIJITi7WME9_RARIGJeOibYx3s"
+    }
   },
   {
     "id": "6008",
@@ -125,7 +180,24 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.890488999999999,
+      "longitude": 13.201857,
+      "viewport": {
+        "northeast": {
+          "lat": 9.891730729892723,
+          "lng": 13.20324497989272
+        },
+        "southwest": {
+          "lat": 9.88903107010728,
+          "lng": 13.20054532010728
+        }
+      },
+      "formatted_address": "V6R2+5PX, 650105, Wuro Alhaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.890488999999999,13.201857",
+      "google_place_id": "ChIJITi7WME9_RARIGJeOibYx3s"
+    }
   },
   {
     "id": "6009",
@@ -141,6 +213,23 @@
     "local_government_id": "28",
     "local_government_name": "MAIHA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.890488999999999,
+      "longitude": 13.201857,
+      "viewport": {
+        "northeast": {
+          "lat": 9.891730729892723,
+          "lng": 13.20324497989272
+        },
+        "southwest": {
+          "lat": 9.88903107010728,
+          "lng": 13.20054532010728
+        }
+      },
+      "formatted_address": "V6R2+5PX, 650105, Wuro Alhaji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.890488999999999,13.201857",
+      "google_place_id": "ChIJITi7WME9_RARIGJeOibYx3s"
+    }
   }
 ]

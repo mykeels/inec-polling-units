@@ -13,7 +13,8 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5904",
@@ -29,7 +30,8 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5905",
@@ -45,7 +47,24 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.799431,
+      "longitude": 13.592216,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80076247989272,
+          "lng": 13.59359992989272
+        },
+        "southwest": {
+          "lat": 10.79806282010728,
+          "lng": 13.59090027010728
+        }
+      },
+      "formatted_address": "QHXR+QVG, 651112, Nyibango, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.799431,13.592216",
+      "google_place_id": "ChIJrf7er6czHRER-p0dazHtYXM"
+    }
   },
   {
     "id": "5906",
@@ -61,7 +80,8 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5907",
@@ -77,7 +97,24 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.799431,
+      "longitude": 13.592216,
+      "viewport": {
+        "northeast": {
+          "lat": 10.80076247989272,
+          "lng": 13.59359992989272
+        },
+        "southwest": {
+          "lat": 10.79806282010728,
+          "lng": 13.59090027010728
+        }
+      },
+      "formatted_address": "QHXR+QVG, 651112, Nyibango, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.799431,13.592216",
+      "google_place_id": "ChIJrf7er6czHRER-p0dazHtYXM"
+    }
   },
   {
     "id": "5908",
@@ -93,6 +130,7 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

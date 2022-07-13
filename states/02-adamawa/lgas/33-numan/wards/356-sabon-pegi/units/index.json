@@ -13,7 +13,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7001",
@@ -29,7 +30,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7002",
@@ -45,7 +47,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.193478299999999,
+      "longitude": 12.4819883,
+      "viewport": {
+        "northeast": {
+          "lat": 9.19483032989272,
+          "lng": 12.48328857989272
+        },
+        "southwest": {
+          "lat": 9.192130670107277,
+          "lng": 12.48058892010728
+        }
+      },
+      "formatted_address": "G.R.A Quarters, Yola Rd, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.193478299999999,12.4819883",
+      "google_place_id": "ChIJeSNoAcNt_BARURV9DSiGPrQ"
+    }
   },
   {
     "id": "7003",
@@ -61,7 +80,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4596185,
+      "longitude": 12.0366275,
+      "viewport": {
+        "northeast": {
+          "lat": 9.460951779892723,
+          "lng": 12.03794022989272
+        },
+        "southwest": {
+          "lat": 9.458252120107279,
+          "lng": 12.03524057010728
+        }
+      },
+      "formatted_address": "F25P+RMR, 643103, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4596185,12.0366275",
+      "google_place_id": "ChIJSU5w76-d_hARjnisZuJ2XJk"
+    }
   },
   {
     "id": "7004",
@@ -77,7 +113,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4455207,
+      "longitude": 12.0300638,
+      "viewport": {
+        "northeast": {
+          "lat": 9.446917979892723,
+          "lng": 12.03153617989272
+        },
+        "southwest": {
+          "lat": 9.444218320107279,
+          "lng": 12.02883652010728
+        }
+      },
+      "formatted_address": "C2WJ+624, 643103, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4455207,12.0300638",
+      "google_place_id": "ChIJ0xxYS8qd_hARUh-Yau6n6Z4"
+    }
   },
   {
     "id": "7005",
@@ -93,7 +146,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.5238,
+      "longitude": 12.0309,
+      "viewport": {
+        "northeast": {
+          "lat": 9.52530412989272,
+          "lng": 12.03209807989272
+        },
+        "southwest": {
+          "lat": 9.522604470107277,
+          "lng": 12.02939842010728
+        }
+      },
+      "formatted_address": "G2FJ+G96, 643115, Ngbalang, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5238,12.0309",
+      "google_place_id": "ChIJt_LCRNeC_hAReqj49oS4w5k"
+    }
   },
   {
     "id": "7006",
@@ -109,7 +179,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.5967717,
+      "longitude": 11.9008541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.59812152989272,
+          "lng": 11.90220392989272
+        },
+        "southwest": {
+          "lat": 9.595421870107277,
+          "lng": 11.89950427010728
+        }
+      },
+      "formatted_address": "642104, Giwano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5967717,11.9008541",
+      "google_place_id": "ChIJG-_ALeWF_hARCM5qtJNrtu8"
+    }
   },
   {
     "id": "7007",
@@ -125,7 +212,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7008",
@@ -141,7 +229,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7009",
@@ -157,7 +246,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7010",
@@ -173,7 +263,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.571254099999999,
+      "longitude": 11.8844785,
+      "viewport": {
+        "northeast": {
+          "lat": 9.572622929892722,
+          "lng": 11.88585822989272
+        },
+        "southwest": {
+          "lat": 9.569923270107278,
+          "lng": 11.88315857010728
+        }
+      },
+      "formatted_address": "HVCM+FQW, 642104, Giwano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.571254099999999,11.8844785",
+      "google_place_id": "ChIJh4ZR4peP_hARadqdWahFpxM"
+    }
   },
   {
     "id": "7011",
@@ -189,7 +296,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4623534,
+      "longitude": 12.0376461,
+      "viewport": {
+        "northeast": {
+          "lat": 9.463707329892722,
+          "lng": 12.03901367989272
+        },
+        "southwest": {
+          "lat": 9.461007670107278,
+          "lng": 12.03631402010728
+        }
+      },
+      "formatted_address": "GOMBE ROAD BEHIND CENTRAL PRIMARY SCHOOL NUMAN, ADAMAWA STATE #, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4623534,12.0376461",
+      "google_place_id": "ChIJJxgmgbWd_hARLpkYqz3TOp0"
+    }
   },
   {
     "id": "7012",
@@ -205,7 +329,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4533837,
+      "longitude": 12.0195869,
+      "viewport": {
+        "northeast": {
+          "lat": 9.454750179892722,
+          "lng": 12.02093232989272
+        },
+        "southwest": {
+          "lat": 9.452050520107278,
+          "lng": 12.01823267010728
+        }
+      },
+      "formatted_address": "F239+9VM, 643106, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4533837,12.0195869",
+      "google_place_id": "ChIJL83pAUyc_hAR2861A83gvEs"
+    }
   },
   {
     "id": "7013",
@@ -221,7 +362,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.571254099999999,
+      "longitude": 11.8844785,
+      "viewport": {
+        "northeast": {
+          "lat": 9.572622929892722,
+          "lng": 11.88585822989272
+        },
+        "southwest": {
+          "lat": 9.569923270107278,
+          "lng": 11.88315857010728
+        }
+      },
+      "formatted_address": "HVCM+FQW, 642104, Giwano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.571254099999999,11.8844785",
+      "google_place_id": "ChIJh4ZR4peP_hARadqdWahFpxM"
+    }
   },
   {
     "id": "7014",
@@ -237,7 +395,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.193478299999999,
+      "longitude": 12.4819883,
+      "viewport": {
+        "northeast": {
+          "lat": 9.19483032989272,
+          "lng": 12.48328857989272
+        },
+        "southwest": {
+          "lat": 9.192130670107277,
+          "lng": 12.48058892010728
+        }
+      },
+      "formatted_address": "G.R.A Quarters, Yola Rd, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.193478299999999,12.4819883",
+      "google_place_id": "ChIJeSNoAcNt_BARURV9DSiGPrQ"
+    }
   },
   {
     "id": "7015",
@@ -253,7 +428,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4596185,
+      "longitude": 12.0366275,
+      "viewport": {
+        "northeast": {
+          "lat": 9.460951779892723,
+          "lng": 12.03794022989272
+        },
+        "southwest": {
+          "lat": 9.458252120107279,
+          "lng": 12.03524057010728
+        }
+      },
+      "formatted_address": "F25P+RMR, 643103, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4596185,12.0366275",
+      "google_place_id": "ChIJSU5w76-d_hARjnisZuJ2XJk"
+    }
   },
   {
     "id": "7016",
@@ -269,7 +461,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7017",
@@ -285,7 +478,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4596185,
+      "longitude": 12.0366275,
+      "viewport": {
+        "northeast": {
+          "lat": 9.460951779892723,
+          "lng": 12.03794022989272
+        },
+        "southwest": {
+          "lat": 9.458252120107279,
+          "lng": 12.03524057010728
+        }
+      },
+      "formatted_address": "F25P+RMR, 643103, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4596185,12.0366275",
+      "google_place_id": "ChIJSU5w76-d_hARjnisZuJ2XJk"
+    }
   },
   {
     "id": "7018",
@@ -301,7 +511,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4596185,
+      "longitude": 12.0366275,
+      "viewport": {
+        "northeast": {
+          "lat": 9.460951779892723,
+          "lng": 12.03794022989272
+        },
+        "southwest": {
+          "lat": 9.458252120107279,
+          "lng": 12.03524057010728
+        }
+      },
+      "formatted_address": "F25P+RMR, 643103, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4596185,12.0366275",
+      "google_place_id": "ChIJSU5w76-d_hARjnisZuJ2XJk"
+    }
   },
   {
     "id": "7019",
@@ -317,7 +544,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7020",
@@ -333,7 +577,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7021",
@@ -349,7 +610,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7022",
@@ -365,7 +643,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4535964,
+      "longitude": 12.0318456,
+      "viewport": {
+        "northeast": {
+          "lat": 9.474923900000002,
+          "lng": 12.0710461
+        },
+        "southwest": {
+          "lat": 9.4354181,
+          "lng": 12.012435
+        }
+      },
+      "formatted_address": "Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4535964,12.0318456",
+      "google_place_id": "ChIJJzFnalGc_hAReb0iqhZ7gkg"
+    }
   },
   {
     "id": "7023",
@@ -381,7 +676,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7024",
@@ -397,7 +709,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7025",
@@ -413,7 +742,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7026",
@@ -429,7 +775,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "7027",
@@ -445,7 +808,8 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7028",
@@ -461,7 +825,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.275959199999999,
+      "longitude": 12.4604597,
+      "viewport": {
+        "northeast": {
+          "lat": 9.277381879892724,
+          "lng": 12.46191517989272
+        },
+        "southwest": {
+          "lat": 9.27468222010728,
+          "lng": 12.45921552010728
+        }
+      },
+      "formatted_address": "7FG6+95P, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.275959199999999,12.4604597",
+      "google_place_id": "ChIJ70Qm-yFr_BAR1Z1r0Gqh_pA"
+    }
   },
   {
     "id": "7029",
@@ -477,7 +858,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462003600000001,
+      "longitude": 12.0376246,
+      "viewport": {
+        "northeast": {
+          "lat": 9.463376379892724,
+          "lng": 12.03896572989272
+        },
+        "southwest": {
+          "lat": 9.46067672010728,
+          "lng": 12.03626607010728
+        }
+      },
+      "formatted_address": "47, Gombe Road, 642101, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462003600000001,12.0376246",
+      "google_place_id": "ChIJIV_ddqmd_hARmvcXFeEmsp4"
+    }
   },
   {
     "id": "7030",
@@ -493,7 +891,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7031",
@@ -509,7 +924,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7032",
@@ -525,7 +957,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7033",
@@ -541,7 +990,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7034",
@@ -557,7 +1023,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7035",
@@ -573,7 +1056,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7036",
@@ -589,7 +1089,24 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   },
   {
     "id": "7037",
@@ -605,6 +1122,23 @@
     "local_government_id": "33",
     "local_government_name": "NUMAN",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.462795,
+      "longitude": 12.031761,
+      "viewport": {
+        "northeast": {
+          "lat": 9.464160429892722,
+          "lng": 12.03310712989272
+        },
+        "southwest": {
+          "lat": 9.461460770107278,
+          "lng": 12.03040747010728
+        }
+      },
+      "formatted_address": "No1 Jalo St, 643107, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.462795,12.031761",
+      "google_place_id": "ChIJu41KJ6yd_hARF7ffY2bAFwk"
+    }
   }
 ]

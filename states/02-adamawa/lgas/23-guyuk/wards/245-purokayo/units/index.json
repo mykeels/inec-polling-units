@@ -13,7 +13,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   },
   {
     "id": "5149",
@@ -29,7 +46,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5150",
@@ -45,7 +63,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.913183499999999,
+      "longitude": 11.9773397,
+      "viewport": {
+        "northeast": {
+          "lat": 9.914554579892723,
+          "lng": 11.97871252989272
+        },
+        "southwest": {
+          "lat": 9.91185492010728,
+          "lng": 11.97601287010728
+        }
+      },
+      "formatted_address": "Nassarawo Primary School, 643101, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.913183499999999,11.9773397",
+      "google_place_id": "ChIJ_wDEpitx_hAR77-lYdFxXqs"
+    }
   },
   {
     "id": "5151",
@@ -61,7 +96,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5152",
@@ -77,7 +113,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2279977,
+      "longitude": 12.5133453,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22941997989272,
+          "lng": 12.51485557989272
+        },
+        "southwest": {
+          "lat": 9.226720320107276,
+          "lng": 12.51215592010728
+        }
+      },
+      "formatted_address": "6GH7+5C4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2279977,12.5133453",
+      "google_place_id": "ChIJG9_hkQ5s_BARkj8ZrtKsVQM"
+    }
   },
   {
     "id": "5153",
@@ -93,7 +146,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6504206,
+      "longitude": 11.8216176,
+      "viewport": {
+        "northeast": {
+          "lat": 9.651774829892723,
+          "lng": 11.82296182989272
+        },
+        "southwest": {
+          "lat": 9.64907517010728,
+          "lng": 11.82026217010728
+        }
+      },
+      "formatted_address": "Lafia, 642117, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6504206,11.8216176",
+      "google_place_id": "ChIJEyl5_x6J_hAR5ixqyrxeV3o"
+    }
   },
   {
     "id": "5154",
@@ -109,7 +179,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5155",
@@ -125,7 +196,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.8768909,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.9514288,
+          "lng": 11.9997109
+        },
+        "southwest": {
+          "lat": 9.83347,
+          "lng": 11.9393353
+        }
+      },
+      "formatted_address": "Purokayo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8768909,11.9690458",
+      "google_place_id": "ChIJyzFMpMhw_hARbwJehJ-BJI0"
+    }
   },
   {
     "id": "5156",
@@ -141,6 +229,7 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

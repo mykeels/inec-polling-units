@@ -13,7 +13,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2740067,
+      "longitude": 12.4595541,
+      "viewport": {
+        "northeast": {
+          "lat": 9.2794581,
+          "lng": 12.4649499
+        },
+        "southwest": {
+          "lat": 9.260317299999999,
+          "lng": 12.45618
+        }
+      },
+      "formatted_address": "Ajiya, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2740067,12.4595541",
+      "google_place_id": "ChIJE5BMUz1r_BAReNBAi1Vhdiw"
+    }
   },
   {
     "id": "7069",
@@ -29,7 +46,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.4385525,
+      "longitude": -80.51176509999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43986637989272,
+          "lng": -80.51037667010728
+        },
+        "southwest": {
+          "lat": 43.43716672010728,
+          "lng": -80.51307632989273
+        }
+      },
+      "formatted_address": "370 Highland Rd W, Kitchener, ON N2M 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4385525,-80.51176509999999",
+      "google_place_id": "ChIJ8c-xZnb1K4gRQq1vCzwErTI"
+    }
   },
   {
     "id": "7070",
@@ -45,7 +79,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2707543,
+      "longitude": 13.2817639,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27222417989272,
+          "lng": 13.28295002989272
+        },
+        "southwest": {
+          "lat": 10.26952452010728,
+          "lng": 13.28025037010728
+        }
+      },
+      "formatted_address": "Lokuwa Primary School, 650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2707543,13.2817639",
+      "google_place_id": "ChIJY7mtnkZZ_RARNvgVNqUkWG8"
+    }
   },
   {
     "id": "7071",
@@ -61,7 +112,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7072",
@@ -77,7 +129,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2795138,
+      "longitude": 12.431498,
+      "viewport": {
+        "northeast": {
+          "lat": 9.280896779892723,
+          "lng": 12.43289207989272
+        },
+        "southwest": {
+          "lat": 9.27819712010728,
+          "lng": 12.43019242010728
+        }
+      },
+      "formatted_address": "Off Numan Rd, Shagari Phase 2 640101, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2795138,12.431498",
+      "google_place_id": "ChIJIRugGAFt_BARexeG56NEU-w"
+    }
   },
   {
     "id": "7073",
@@ -93,7 +162,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6186,
+      "longitude": 13.384,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61993672989272,
+          "lng": 13.38532682989272
+        },
+        "southwest": {
+          "lat": 10.61723707010728,
+          "lng": 13.38262717010728
+        }
+      },
+      "formatted_address": "Maiduguri Rd, 651103, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6186,13.384",
+      "google_place_id": "ChIJnaGJIwi3AhERbTuIEJE99e8"
+    }
   },
   {
     "id": "7074",
@@ -109,7 +195,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7075",
@@ -125,7 +212,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7076",
@@ -141,7 +229,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.265938,
+      "longitude": 12.410822,
+      "viewport": {
+        "northeast": {
+          "lat": 9.26728897989272,
+          "lng": 12.41217227989272
+        },
+        "southwest": {
+          "lat": 9.264589320107277,
+          "lng": 12.40947262010728
+        }
+      },
+      "formatted_address": "Opposite Custom Office, Zone 3, Wuro Jabbe, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.265938,12.410822",
+      "google_place_id": "ChIJiZb53esU_BARWbgSRRkZ240"
+    }
   },
   {
     "id": "7077",
@@ -157,7 +262,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.467299,
+      "longitude": -80.52329800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46868722989272,
+          "lng": -80.52178887010727
+        },
+        "southwest": {
+          "lat": 43.46598757010727,
+          "lng": -80.52448852989272
+        }
+      },
+      "formatted_address": "71 King St N, Waterloo, ON N2J 2X2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.467299,-80.52329800000001",
+      "google_place_id": "ChIJmd9ZziP1K4gRijXWDeYBaag"
+    }
   },
   {
     "id": "7078",
@@ -173,7 +295,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.880893,
+      "longitude": 12.133174,
+      "viewport": {
+        "northeast": {
+          "lat": 9.882242829892721,
+          "lng": 12.13452382989272
+        },
+        "southwest": {
+          "lat": 9.879543170107278,
+          "lng": 12.13182417010728
+        }
+      },
+      "formatted_address": "V4JM+973, 643120, Bakta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.880893,12.133174",
+      "google_place_id": "ChIJ8Xn1acfZ_RARuvU8eJH_v6Q"
+    }
   },
   {
     "id": "7079",
@@ -189,7 +328,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2707543,
+      "longitude": 13.2817639,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27222417989272,
+          "lng": 13.28295002989272
+        },
+        "southwest": {
+          "lat": 10.26952452010728,
+          "lng": 13.28025037010728
+        }
+      },
+      "formatted_address": "Lokuwa Primary School, 650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2707543,13.2817639",
+      "google_place_id": "ChIJY7mtnkZZ_RARNvgVNqUkWG8"
+    }
   },
   {
     "id": "7080",
@@ -205,7 +361,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.894943699999999,
+      "longitude": 12.0059226,
+      "viewport": {
+        "northeast": {
+          "lat": 9.896327679892721,
+          "lng": 12.00726362989272
+        },
+        "southwest": {
+          "lat": 9.893628020107277,
+          "lng": 12.00456397010728
+        }
+      },
+      "formatted_address": "V2W4+292, 643121, Shellen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.894943699999999,12.0059226",
+      "google_place_id": "ChIJnSgJ_Ex3_hARVC3SAFBc08c"
+    }
   },
   {
     "id": "7081",
@@ -221,7 +394,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7082",
@@ -237,7 +411,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.6392682,
+      "longitude": -79.5489458,
+      "viewport": {
+        "northeast": {
+          "lat": 43.64060682989273,
+          "lng": -79.54749332010728
+        },
+        "southwest": {
+          "lat": 43.63790717010728,
+          "lng": -79.55019297989273
+        }
+      },
+      "formatted_address": "3962 Bloor St W, Toronto, ON M9B 1M3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6392682,-79.5489458",
+      "google_place_id": "ChIJw5MvGmg3K4gRyhDYJVRMv6k"
+    }
   },
   {
     "id": "7083",
@@ -253,7 +444,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.788223000000002,
+      "longitude": 11.87389,
+      "viewport": {
+        "northeast": {
+          "lat": 9.789724679892725,
+          "lng": 11.87484917989272
+        },
+        "southwest": {
+          "lat": 9.787025020107281,
+          "lng": 11.87214952010728
+        }
+      },
+      "formatted_address": "QVQF+7HJ, 643111, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.788223000000002,11.87389",
+      "google_place_id": "ChIJT7E7OaRk_hARzVuTEr0mDTo"
+    }
   },
   {
     "id": "7084",
@@ -269,7 +477,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7085",
@@ -285,7 +494,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.265938,
+      "longitude": 12.410822,
+      "viewport": {
+        "northeast": {
+          "lat": 9.26728897989272,
+          "lng": 12.41217227989272
+        },
+        "southwest": {
+          "lat": 9.264589320107277,
+          "lng": 12.40947262010728
+        }
+      },
+      "formatted_address": "Opposite Custom Office, Zone 3, Wuro Jabbe, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.265938,12.410822",
+      "google_place_id": "ChIJiZb53esU_BARWbgSRRkZ240"
+    }
   },
   {
     "id": "7086",
@@ -301,6 +527,7 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

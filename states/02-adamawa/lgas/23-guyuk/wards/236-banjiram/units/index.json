@@ -13,7 +13,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.820619100000002,
+      "longitude": 11.9884635,
+      "viewport": {
+        "northeast": {
+          "lat": 9.822124279892723,
+          "lng": 11.989935
+        },
+        "southwest": {
+          "lat": 9.819424620107279,
+          "lng": 11.9843799
+        }
+      },
+      "formatted_address": "643111, Banjiram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.820619100000002,11.9884635",
+      "google_place_id": "ChIJH3yoAHt5_hARm6XV04XNgrE"
+    }
   },
   {
     "id": "5008",
@@ -29,7 +46,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   },
   {
     "id": "5009",
@@ -45,7 +79,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2279977,
+      "longitude": 12.5133453,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22941997989272,
+          "lng": 12.51485557989272
+        },
+        "southwest": {
+          "lat": 9.226720320107276,
+          "lng": 12.51215592010728
+        }
+      },
+      "formatted_address": "6GH7+5C4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2279977,12.5133453",
+      "google_place_id": "ChIJG9_hkQ5s_BARkj8ZrtKsVQM"
+    }
   },
   {
     "id": "5010",
@@ -61,7 +112,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   },
   {
     "id": "5011",
@@ -77,7 +145,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1197804,
+      "longitude": 12.5157597,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1244711,
+          "lng": 12.519966
+        },
+        "southwest": {
+          "lat": 10.1156377,
+          "lng": 12.510454
+        }
+      },
+      "formatted_address": "652105, Kwalamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1197804,12.5157597",
+      "google_place_id": "ChIJaT-9xr2T_RARuKU5nhVNPco"
+    }
   },
   {
     "id": "5012",
@@ -93,7 +178,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5013",
@@ -109,7 +195,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4597839,
+      "longitude": 12.0359091,
+      "viewport": {
+        "northeast": {
+          "lat": 9.461165879892723,
+          "lng": 12.03724202989272
+        },
+        "southwest": {
+          "lat": 9.45846622010728,
+          "lng": 12.03454237010728
+        }
+      },
+      "formatted_address": "F25P+W97, 643103, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4597839,12.0359091",
+      "google_place_id": "ChIJ_z-lw6-d_hARKA7MkbvZAOw"
+    }
   },
   {
     "id": "5014",
@@ -125,7 +228,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5015",
@@ -141,7 +245,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.919657899999999,
+      "longitude": 11.9403547,
+      "viewport": {
+        "northeast": {
+          "lat": 9.92089812989272,
+          "lng": 11.94170997989272
+        },
+        "southwest": {
+          "lat": 9.918198470107276,
+          "lng": 11.93901032010728
+        }
+      },
+      "formatted_address": "WW9R+V49, 643101, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.919657899999999,11.9403547",
+      "google_place_id": "ChIJn_CmBItx_hARg1oo_2CleXA"
+    }
   },
   {
     "id": "5016",
@@ -157,6 +278,7 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

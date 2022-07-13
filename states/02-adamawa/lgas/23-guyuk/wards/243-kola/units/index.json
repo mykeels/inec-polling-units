@@ -13,7 +13,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6504206,
+      "longitude": 11.8216176,
+      "viewport": {
+        "northeast": {
+          "lat": 9.651774829892723,
+          "lng": 11.82296182989272
+        },
+        "southwest": {
+          "lat": 9.64907517010728,
+          "lng": 11.82026217010728
+        }
+      },
+      "formatted_address": "Lafia, 642117, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6504206,11.8216176",
+      "google_place_id": "ChIJEyl5_x6J_hAR5ixqyrxeV3o"
+    }
   },
   {
     "id": "5125",
@@ -29,7 +46,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5126",
@@ -45,7 +63,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6797303,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759947,
+          "lng": 12.0709409
+        },
+        "southwest": {
+          "lat": 9.6419534,
+          "lng": 11.8794501
+        }
+      },
+      "formatted_address": "Kola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6797303,11.9690458",
+      "google_place_id": "ChIJE_HBrvx9_hARdzfIxR5Ldf4"
+    }
   },
   {
     "id": "5127",
@@ -61,7 +96,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6797303,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759947,
+          "lng": 12.0709409
+        },
+        "southwest": {
+          "lat": 9.6419534,
+          "lng": 11.8794501
+        }
+      },
+      "formatted_address": "Kola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6797303,11.9690458",
+      "google_place_id": "ChIJE_HBrvx9_hARdzfIxR5Ldf4"
+    }
   },
   {
     "id": "5128",
@@ -77,7 +129,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.7351127,
+      "longitude": 11.9332914,
+      "viewport": {
+        "northeast": {
+          "lat": 9.736344729892723,
+          "lng": 11.93469222989272
+        },
+        "southwest": {
+          "lat": 9.733645070107277,
+          "lng": 11.93199257010728
+        }
+      },
+      "formatted_address": "Pondiwe Primary School, 643111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7351127,11.9332914",
+      "google_place_id": "ChIJj7ZRPQB9_hARJUsnvoYNmA4"
+    }
   },
   {
     "id": "5129",
@@ -93,7 +162,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6866642,
+      "longitude": 11.8996258,
+      "viewport": {
+        "northeast": {
+          "lat": 9.688007779892722,
+          "lng": 11.90097437989272
+        },
+        "southwest": {
+          "lat": 9.685308120107278,
+          "lng": 11.89827472010728
+        }
+      },
+      "formatted_address": "MVPX+MVP, 643111, Magesu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6866642,11.8996258",
+      "google_place_id": "ChIJOayhEfqH_hARvGCab-QRjSg"
+    }
   },
   {
     "id": "5130",
@@ -109,7 +195,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5131",
@@ -125,7 +212,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.7351127,
+      "longitude": 11.9332914,
+      "viewport": {
+        "northeast": {
+          "lat": 9.736344729892723,
+          "lng": 11.93469222989272
+        },
+        "southwest": {
+          "lat": 9.733645070107277,
+          "lng": 11.93199257010728
+        }
+      },
+      "formatted_address": "Pondiwe Primary School, 643111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7351127,11.9332914",
+      "google_place_id": "ChIJj7ZRPQB9_hARJUsnvoYNmA4"
+    }
   },
   {
     "id": "5132",
@@ -141,7 +245,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6945952,
+      "longitude": 11.9169339,
+      "viewport": {
+        "northeast": {
+          "lat": 9.69592047989272,
+          "lng": 11.91827302989272
+        },
+        "southwest": {
+          "lat": 9.693220820107276,
+          "lng": 11.91557337010728
+        }
+      },
+      "formatted_address": "Theble Primary School, 643111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6945952,11.9169339",
+      "google_place_id": "ChIJQ2KmmmF9_hARyV_VEzTCbek"
+    }
   },
   {
     "id": "5133",
@@ -157,7 +278,8 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5134",
@@ -173,7 +295,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.919657899999999,
+      "longitude": 11.9403547,
+      "viewport": {
+        "northeast": {
+          "lat": 9.92089812989272,
+          "lng": 11.94170997989272
+        },
+        "southwest": {
+          "lat": 9.918198470107276,
+          "lng": 11.93901032010728
+        }
+      },
+      "formatted_address": "WW9R+V49, 643101, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.919657899999999,11.9403547",
+      "google_place_id": "ChIJn_CmBItx_hARg1oo_2CleXA"
+    }
   },
   {
     "id": "5135",
@@ -189,7 +328,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.4568087,
+      "longitude": 12.0538902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.458104329892722,
+          "lng": 12.05511677989272
+        },
+        "southwest": {
+          "lat": 9.455404670107278,
+          "lng": 12.05241712010728
+        }
+      },
+      "formatted_address": "Yola-Numan Rd, 643108, Numan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4568087,12.0538902",
+      "google_place_id": "ChIJEYY4OJed_hARCyXedERsinA"
+    }
   },
   {
     "id": "5136",
@@ -205,7 +361,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6504206,
+      "longitude": 11.8216176,
+      "viewport": {
+        "northeast": {
+          "lat": 9.651774829892723,
+          "lng": 11.82296182989272
+        },
+        "southwest": {
+          "lat": 9.64907517010728,
+          "lng": 11.82026217010728
+        }
+      },
+      "formatted_address": "Lafia, 642117, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6504206,11.8216176",
+      "google_place_id": "ChIJEyl5_x6J_hAR5ixqyrxeV3o"
+    }
   },
   {
     "id": "5137",
@@ -221,7 +394,24 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6797303,
+      "longitude": 11.9690458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759947,
+          "lng": 12.0709409
+        },
+        "southwest": {
+          "lat": 9.6419534,
+          "lng": 11.8794501
+        }
+      },
+      "formatted_address": "Kola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6797303,11.9690458",
+      "google_place_id": "ChIJE_HBrvx9_hARdzfIxR5Ldf4"
+    }
   },
   {
     "id": "5138",
@@ -237,6 +427,23 @@
     "local_government_id": "23",
     "local_government_name": "GUYUK",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.919657899999999,
+      "longitude": 11.9403547,
+      "viewport": {
+        "northeast": {
+          "lat": 9.92089812989272,
+          "lng": 11.94170997989272
+        },
+        "southwest": {
+          "lat": 9.918198470107276,
+          "lng": 11.93901032010728
+        }
+      },
+      "formatted_address": "WW9R+V49, 643101, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.919657899999999,11.9403547",
+      "google_place_id": "ChIJn_CmBItx_hARg1oo_2CleXA"
+    }
   }
 ]

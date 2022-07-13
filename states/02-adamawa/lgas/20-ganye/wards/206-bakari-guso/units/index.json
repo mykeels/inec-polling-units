@@ -13,7 +13,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4479",
@@ -29,7 +30,24 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.545171999999999,
+      "longitude": 12.27138,
+      "viewport": {
+        "northeast": {
+          "lat": 8.54653597989272,
+          "lng": 12.27283952989272
+        },
+        "southwest": {
+          "lat": 8.543836320107276,
+          "lng": 12.27013987010728
+        }
+      },
+      "formatted_address": "G7WC+3H6, 640109, Sulei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.545171999999999,12.27138",
+      "google_place_id": "ChIJp_ZiBaTE-xARvMlG1-lL64I"
+    }
   },
   {
     "id": "4480",
@@ -45,7 +63,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4481",
@@ -61,7 +80,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4482",
@@ -77,7 +97,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4483",
@@ -93,7 +114,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4484",
@@ -109,7 +131,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4485",
@@ -125,7 +148,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4486",
@@ -141,7 +165,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4487",
@@ -157,7 +182,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4488",
@@ -173,7 +199,8 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4489",
@@ -189,7 +216,24 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.545171999999999,
+      "longitude": 12.27138,
+      "viewport": {
+        "northeast": {
+          "lat": 8.54653597989272,
+          "lng": 12.27283952989272
+        },
+        "southwest": {
+          "lat": 8.543836320107276,
+          "lng": 12.27013987010728
+        }
+      },
+      "formatted_address": "G7WC+3H6, 640109, Sulei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.545171999999999,12.27138",
+      "google_place_id": "ChIJp_ZiBaTE-xARvMlG1-lL64I"
+    }
   },
   {
     "id": "4490",
@@ -205,6 +249,7 @@
     "local_government_id": "20",
     "local_government_name": "GANYE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

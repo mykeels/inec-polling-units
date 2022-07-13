@@ -13,7 +13,24 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.369926,
+      "longitude": 12.550205,
+      "viewport": {
+        "northeast": {
+          "lat": 9.371238479892721,
+          "lng": 12.55160442989272
+        },
+        "southwest": {
+          "lat": 9.368538820107277,
+          "lng": 12.54890477010728
+        }
+      },
+      "formatted_address": "9H92+X3G, 652108, Girei, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.369926,12.550205",
+      "google_place_id": "ChIJPywaKspD_BARYOREBe7QVxY"
+    }
   },
   {
     "id": "4733",
@@ -29,7 +46,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4734",
@@ -45,7 +63,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4735",
@@ -61,7 +80,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4736",
@@ -77,7 +97,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4737",
@@ -93,7 +114,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4738",
@@ -109,7 +131,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4739",
@@ -125,7 +148,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4740",
@@ -141,7 +165,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4741",
@@ -157,7 +182,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4742",
@@ -173,7 +199,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4743",
@@ -189,7 +216,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4744",
@@ -205,7 +233,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4745",
@@ -221,7 +250,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4746",
@@ -237,7 +267,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4747",
@@ -253,6 +284,7 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7050",
@@ -29,7 +30,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6889286,
+      "longitude": 9.7572286,
+      "viewport": {
+        "northeast": {
+          "lat": 10.69019832989272,
+          "lng": 9.758788129892721
+        },
+        "southwest": {
+          "lat": 10.68749867010728,
+          "lng": 9.756088470107278
+        }
+      },
+      "formatted_address": "MQQ4+HVH, 740111, Kafin Madaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6889286,9.7572286",
+      "google_place_id": "ChIJBy0CKQMlqxERGKzXEfzecrI"
+    }
   },
   {
     "id": "7051",
@@ -45,7 +63,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.880893,
+      "longitude": 12.133174,
+      "viewport": {
+        "northeast": {
+          "lat": 9.882242829892721,
+          "lng": 12.13452382989272
+        },
+        "southwest": {
+          "lat": 9.879543170107278,
+          "lng": 12.13182417010728
+        }
+      },
+      "formatted_address": "V4JM+973, 643120, Bakta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.880893,12.133174",
+      "google_place_id": "ChIJ8Xn1acfZ_RARuvU8eJH_v6Q"
+    }
   },
   {
     "id": "7052",
@@ -61,7 +96,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7053",
@@ -77,7 +113,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7054",
@@ -93,6 +130,23 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.2579041,
+      "longitude": -79.8781142,
+      "viewport": {
+        "northeast": {
+          "lat": 43.25921847989272,
+          "lng": -79.87661827010727
+        },
+        "southwest": {
+          "lat": 43.25651882010728,
+          "lng": -79.87931792989272
+        }
+      },
+      "formatted_address": "38 Hess St S, Hamilton, ON L8P 3N1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.2579041,-79.8781142",
+      "google_place_id": "ChIJDQ5jH_KbLIgRa0EZaeTgbVI"
+    }
   }
 ]

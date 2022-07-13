@@ -13,7 +13,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1926643,
+      "longitude": 13.4396172,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2492956,
+          "lng": 13.4835871
+        },
+        "southwest": {
+          "lat": 10.1452995,
+          "lng": 13.3798765
+        }
+      },
+      "formatted_address": "Dirbishi/Gandira, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1926643,13.4396172",
+      "google_place_id": "ChIJc8HbPJlR_RARpm67EnWo3T8"
+    }
   },
   {
     "id": "6737",
@@ -29,7 +46,8 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6738",
@@ -45,7 +63,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2623171,
+      "longitude": 13.2594118,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26384852989272,
+          "lng": 13.26099577989272
+        },
+        "southwest": {
+          "lat": 10.26114887010728,
+          "lng": 13.25829612010728
+        }
+      },
+      "formatted_address": "Kabang Mubi Primary School, 650211, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2623171,13.2594118",
+      "google_place_id": "ChIJnd-0k65e_RARsWI5moZfUhI"
+    }
   },
   {
     "id": "6739",
@@ -61,7 +96,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1643386,
+      "longitude": 13.443414,
+      "viewport": {
+        "northeast": {
+          "lat": 10.16591067989272,
+          "lng": 13.44483292989272
+        },
+        "southwest": {
+          "lat": 10.16321102010728,
+          "lng": 13.44213327010728
+        }
+      },
+      "formatted_address": "5C7V+P9M, 650211, Wadili, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1643386,13.443414",
+      "google_place_id": "ChIJwThLbvxR_RARD4UAPU12ovs"
+    }
   },
   {
     "id": "6740",
@@ -77,7 +129,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6741",
@@ -93,7 +162,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6742",
@@ -109,6 +195,23 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   }
 ]

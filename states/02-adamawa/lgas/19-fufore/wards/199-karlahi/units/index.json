@@ -13,7 +13,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2845976,
+      "longitude": 12.4497302,
+      "viewport": {
+        "northeast": {
+          "lat": 9.28596167989272,
+          "lng": 12.45118807989272
+        },
+        "southwest": {
+          "lat": 9.283262020107276,
+          "lng": 12.44848842010728
+        }
+      },
+      "formatted_address": "Mubi Road, Jimeta 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2845976,12.4497302",
+      "google_place_id": "ChIJ74dy2Nlq_BARmL_ouhnxSHw"
+    }
   },
   {
     "id": "4325",
@@ -29,7 +46,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.256969,
+      "longitude": 12.4629653,
+      "viewport": {
+        "northeast": {
+          "lat": 9.258313729892722,
+          "lng": 12.46414042989272
+        },
+        "southwest": {
+          "lat": 9.255614070107278,
+          "lng": 12.46144077010728
+        }
+      },
+      "formatted_address": "1 Justice Buba Ardo Road, Jalingo 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.256969,12.4629653",
+      "google_place_id": "ChIJ-SC9xB5r_BARrwdLoQWk5so"
+    }
   },
   {
     "id": "4326",
@@ -45,7 +79,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 12.6476823,
+      "longitude": 9.3978386,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6612514,
+          "lng": 9.4198191
+        },
+        "southwest": {
+          "lat": 12.6290068,
+          "lng": 9.380268
+        }
+      },
+      "formatted_address": "Kofar Arewa, 732101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6476823,9.3978386",
+      "google_place_id": "ChIJ76Z3rnDYqBERWWveYFAGuuo"
+    }
   },
   {
     "id": "4327",
@@ -61,7 +112,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.5764105,
+      "longitude": 11.3047358,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57761252989272,
+          "lng": 11.30544945
+        },
+        "southwest": {
+          "lat": 10.57491287010728,
+          "lng": 11.30259485
+        }
+      },
+      "formatted_address": "H8G3+HV9, 762101, Geji Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5764105,11.3047358",
+      "google_place_id": "ChIJu7BgmHMtABERlRUk1iCzAAA"
+    }
   },
   {
     "id": "4328",
@@ -77,7 +145,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4329",
@@ -93,7 +162,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4330",
@@ -109,7 +179,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4331",
@@ -125,7 +196,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2246876,
+      "longitude": 12.6485682,
+      "viewport": {
+        "northeast": {
+          "lat": 9.226078329892722,
+          "lng": 12.64997582989272
+        },
+        "southwest": {
+          "lat": 9.223378670107278,
+          "lng": 12.64727617010728
+        }
+      },
+      "formatted_address": "6JFX+VCG, 640106, Kapo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2246876,12.6485682",
+      "google_place_id": "ChIJkSp7I9xl_BARGUcl7UvWkcI"
+    }
   },
   {
     "id": "4332",
@@ -141,7 +229,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4333",
@@ -157,7 +246,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4334",
@@ -173,7 +263,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4335",
@@ -189,7 +280,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4336",
@@ -205,7 +297,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 11.1336149,
+      "longitude": 7.7176911,
+      "viewport": {
+        "northeast": {
+          "lat": 11.13494122989272,
+          "lng": 7.719150579892721
+        },
+        "southwest": {
+          "lat": 11.13224157010728,
+          "lng": 7.716450920107278
+        }
+      },
+      "formatted_address": "4PM9+C2P, Unnamed Road, 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1336149,7.7176911",
+      "google_place_id": "ChIJlRrsXtiDshERRMwPBD0ecX8"
+    }
   },
   {
     "id": "4337",
@@ -221,7 +330,8 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4338",
@@ -237,7 +347,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.5764105,
+      "longitude": 11.3047358,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57761252989272,
+          "lng": 11.30544945
+        },
+        "southwest": {
+          "lat": 10.57491287010728,
+          "lng": 11.30259485
+        }
+      },
+      "formatted_address": "H8G3+HV9, 762101, Geji Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5764105,11.3047358",
+      "google_place_id": "ChIJu7BgmHMtABERlRUk1iCzAAA"
+    }
   },
   {
     "id": "4339",
@@ -253,7 +380,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2278468,
+      "longitude": 12.6461597,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22932482989272,
+          "lng": 12.64724002989272
+        },
+        "southwest": {
+          "lat": 9.226625170107276,
+          "lng": 12.64454037010728
+        }
+      },
+      "formatted_address": "6JHW+5HJ, 640106, Kapo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2278468,12.6461597",
+      "google_place_id": "ChIJQUaFTN5l_BARVsMLP_bMc-U"
+    }
   },
   {
     "id": "4340",
@@ -269,7 +413,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.210057899999999,
+      "longitude": 12.4892392,
+      "viewport": {
+        "northeast": {
+          "lat": 9.211395079892723,
+          "lng": 12.49059422989272
+        },
+        "southwest": {
+          "lat": 9.20869542010728,
+          "lng": 12.48789457010728
+        }
+      },
+      "formatted_address": "6F6Q+2MQ, Yola 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.210057899999999,12.4892392",
+      "google_place_id": "ChIJn1YWpF5s_BAR55LkAHwYe9I"
+    }
   },
   {
     "id": "4341",
@@ -285,7 +446,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2845976,
+      "longitude": 12.4497302,
+      "viewport": {
+        "northeast": {
+          "lat": 9.28596167989272,
+          "lng": 12.45118807989272
+        },
+        "southwest": {
+          "lat": 9.283262020107276,
+          "lng": 12.44848842010728
+        }
+      },
+      "formatted_address": "Mubi Road, Jimeta 640101, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2845976,12.4497302",
+      "google_place_id": "ChIJ74dy2Nlq_BARmL_ouhnxSHw"
+    }
   },
   {
     "id": "4342",
@@ -301,7 +479,24 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.256969,
+      "longitude": 12.4629653,
+      "viewport": {
+        "northeast": {
+          "lat": 9.258313729892722,
+          "lng": 12.46414042989272
+        },
+        "southwest": {
+          "lat": 9.255614070107278,
+          "lng": 12.46144077010728
+        }
+      },
+      "formatted_address": "1 Justice Buba Ardo Road, Jalingo 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.256969,12.4629653",
+      "google_place_id": "ChIJ-SC9xB5r_BARrwdLoQWk5so"
+    }
   },
   {
     "id": "4343",
@@ -317,6 +512,23 @@
     "local_government_id": "19",
     "local_government_name": "FUFORE",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2278468,
+      "longitude": 12.6461597,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22932482989272,
+          "lng": 12.64724002989272
+        },
+        "southwest": {
+          "lat": 9.226625170107276,
+          "lng": 12.64454037010728
+        }
+      },
+      "formatted_address": "6JHW+5HJ, 640106, Kapo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2278468,12.6461597",
+      "google_place_id": "ChIJQUaFTN5l_BARVsMLP_bMc-U"
+    }
   }
 ]

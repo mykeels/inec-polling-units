@@ -13,7 +13,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5478",
@@ -29,7 +30,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5479",
@@ -45,7 +47,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5480",
@@ -61,7 +64,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5481",
@@ -77,7 +81,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5482",
@@ -93,7 +98,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5483",
@@ -109,7 +115,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5484",
@@ -125,7 +132,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5485",
@@ -141,7 +149,24 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.7566331,
+      "longitude": 12.1676729,
+      "viewport": {
+        "northeast": {
+          "lat": 8.757934879892721,
+          "lng": 12.16868727989272
+        },
+        "southwest": {
+          "lat": 8.755235220107277,
+          "lng": 12.16598762010728
+        }
+      },
+      "formatted_address": "Q549+M33, 641107, Jada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7566331,12.1676729",
+      "google_place_id": "ChIJQSlC3nbk-xARaQ60LjIMm88"
+    }
   },
   {
     "id": "5486",
@@ -157,7 +182,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5487",
@@ -173,7 +199,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5488",
@@ -189,7 +216,8 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5489",
@@ -205,6 +233,7 @@
     "local_government_id": "25",
     "local_government_name": "JADA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

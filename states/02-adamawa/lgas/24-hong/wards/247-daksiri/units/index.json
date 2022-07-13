@@ -13,7 +13,8 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5203",
@@ -29,7 +30,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "5204",
@@ -45,7 +63,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.3264751,
+      "longitude": 12.3983853,
+      "viewport": {
+        "northeast": {
+          "lat": 9.327353779892722,
+          "lng": 12.39933772989272
+        },
+        "southwest": {
+          "lat": 9.324654120107278,
+          "lng": 12.39663807010728
+        }
+      },
+      "formatted_address": "Madahlu Community, 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3264751,12.3983853",
+      "google_place_id": "ChIJY3Lngjs__BAREYEVZ6xjoPA"
+    }
   },
   {
     "id": "5205",
@@ -61,7 +96,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1742579,
+      "longitude": 12.9196215,
+      "viewport": {
+        "northeast": {
+          "lat": 10.17573277989272,
+          "lng": 12.92091057989272
+        },
+        "southwest": {
+          "lat": 10.17303312010728,
+          "lng": 12.91821092010728
+        }
+      },
+      "formatted_address": "5WF9+PR5, 650108, Dlam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1742579,12.9196215",
+      "google_place_id": "ChIJmTcCE6Jw_RARmtKLDolEXj8"
+    }
   },
   {
     "id": "5206",
@@ -77,7 +129,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1403053,
+      "longitude": 12.9302216,
+      "viewport": {
+        "northeast": {
+          "lat": 10.14164442989272,
+          "lng": 12.93140697989272
+        },
+        "southwest": {
+          "lat": 10.13894477010728,
+          "lng": 12.92870732010728
+        }
+      },
+      "formatted_address": "4WRJ+43H, 650108, Holma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1403053,12.9302216",
+      "google_place_id": "ChIJQdwtEeNw_RARWsPGozNgojY"
+    }
   },
   {
     "id": "5207",
@@ -93,7 +162,8 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5208",
@@ -109,7 +179,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1403053,
+      "longitude": 12.9302216,
+      "viewport": {
+        "northeast": {
+          "lat": 10.14164442989272,
+          "lng": 12.93140697989272
+        },
+        "southwest": {
+          "lat": 10.13894477010728,
+          "lng": 12.92870732010728
+        }
+      },
+      "formatted_address": "4WRJ+43H, 650108, Holma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1403053,12.9302216",
+      "google_place_id": "ChIJQdwtEeNw_RARWsPGozNgojY"
+    }
   },
   {
     "id": "5209",
@@ -125,7 +212,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1655562,
+      "longitude": 12.9656267,
+      "viewport": {
+        "northeast": {
+          "lat": 10.16685372989272,
+          "lng": 12.96725037989272
+        },
+        "southwest": {
+          "lat": 10.16415407010728,
+          "lng": 12.96455072010728
+        }
+      },
+      "formatted_address": "5X88+67C, 650108, Dlam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1655562,12.9656267",
+      "google_place_id": "ChIJ9fgaJ21w_RARCKJSF2yiS8Y"
+    }
   },
   {
     "id": "5210",
@@ -141,7 +245,8 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5211",
@@ -157,7 +262,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1403053,
+      "longitude": 12.9302216,
+      "viewport": {
+        "northeast": {
+          "lat": 10.14164442989272,
+          "lng": 12.93140697989272
+        },
+        "southwest": {
+          "lat": 10.13894477010728,
+          "lng": 12.92870732010728
+        }
+      },
+      "formatted_address": "4WRJ+43H, 650108, Holma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1403053,12.9302216",
+      "google_place_id": "ChIJQdwtEeNw_RARWsPGozNgojY"
+    }
   },
   {
     "id": "5212",
@@ -173,7 +295,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.259815,
+      "longitude": 12.87909,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26116482989272,
+          "lng": 12.88043982989272
+        },
+        "southwest": {
+          "lat": 10.25846517010728,
+          "lng": 12.87774017010728
+        }
+      },
+      "formatted_address": "7V5H+WJG, 650111, Hong, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.259815,12.87909",
+      "google_place_id": "ChIJgULfirR5_RARVnOTQ3mUUgg"
+    }
   },
   {
     "id": "5213",
@@ -189,7 +328,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1783225,
+      "longitude": 12.8865254,
+      "viewport": {
+        "northeast": {
+          "lat": 10.17956412989272,
+          "lng": 12.88791957989272
+        },
+        "southwest": {
+          "lat": 10.17686447010728,
+          "lng": 12.88521992010728
+        }
+      },
+      "formatted_address": "5VHP+8JC, 650108, Holma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1783225,12.8865254",
+      "google_place_id": "ChIJ7YmhZ1d3_RAR_U_B68HSnxg"
+    }
   },
   {
     "id": "5214",
@@ -205,7 +361,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   },
   {
     "id": "5215",
@@ -221,7 +394,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   },
   {
     "id": "5216",
@@ -237,7 +427,8 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5217",
@@ -253,7 +444,24 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6217259,
+      "longitude": 13.3885289,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62302737989272,
+          "lng": 13.38984702989272
+        },
+        "southwest": {
+          "lat": 10.62032772010728,
+          "lng": 13.38714737010728
+        }
+      },
+      "formatted_address": "J9CQ+MFM, 651103, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6217259,13.3885289",
+      "google_place_id": "ChIJixgOwj23AhERxOUmpEWzotY"
+    }
   },
   {
     "id": "5218",
@@ -269,6 +477,23 @@
     "local_government_id": "24",
     "local_government_name": "HONG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1545442,
+      "longitude": 13.0066451,
+      "viewport": {
+        "northeast": {
+          "lat": 10.15588737989272,
+          "lng": 13.00800212989272
+        },
+        "southwest": {
+          "lat": 10.15318772010728,
+          "lng": 13.00530247010728
+        }
+      },
+      "formatted_address": "Dakza Primary School, 650108, Dagza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1545442,13.0066451",
+      "google_place_id": "ChIJE-wmHMJv_RARfBg6Ie8XOGo"
+    }
   }
 ]

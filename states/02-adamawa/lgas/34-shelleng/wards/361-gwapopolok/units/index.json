@@ -13,7 +13,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7088",
@@ -29,7 +30,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.788223000000002,
+      "longitude": 11.87389,
+      "viewport": {
+        "northeast": {
+          "lat": 9.789724679892725,
+          "lng": 11.87484917989272
+        },
+        "southwest": {
+          "lat": 9.787025020107281,
+          "lng": 11.87214952010728
+        }
+      },
+      "formatted_address": "QVQF+7HJ, 643111, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.788223000000002,11.87389",
+      "google_place_id": "ChIJT7E7OaRk_hARzVuTEr0mDTo"
+    }
   },
   {
     "id": "7089",
@@ -45,7 +63,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.788223000000002,
+      "longitude": 11.87389,
+      "viewport": {
+        "northeast": {
+          "lat": 9.789724679892725,
+          "lng": 11.87484917989272
+        },
+        "southwest": {
+          "lat": 9.787025020107281,
+          "lng": 11.87214952010728
+        }
+      },
+      "formatted_address": "QVQF+7HJ, 643111, Guyok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.788223000000002,11.87389",
+      "google_place_id": "ChIJT7E7OaRk_hARzVuTEr0mDTo"
+    }
   },
   {
     "id": "7090",
@@ -61,7 +96,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7091",
@@ -77,7 +113,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7092",
@@ -93,7 +130,24 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.265207799999999,
+      "longitude": 12.4684227,
+      "viewport": {
+        "northeast": {
+          "lat": 9.266449579892722,
+          "lng": 12.46971292989272
+        },
+        "southwest": {
+          "lat": 9.263749920107278,
+          "lng": 12.46701327010728
+        }
+      },
+      "formatted_address": "7F89+2CV, Kashim Ibrahim Way, Jimeta 640102, Jimeta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.265207799999999,12.4684227",
+      "google_place_id": "ChIJ4Qf1lkhr_BAR86EuF2u3ZvE"
+    }
   },
   {
     "id": "7093",
@@ -109,7 +163,8 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "7094",
@@ -125,6 +180,7 @@
     "local_government_id": "34",
     "local_government_name": "SHELLENG",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

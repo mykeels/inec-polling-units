@@ -13,7 +13,8 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5750",
@@ -29,7 +30,24 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.7461338,
+      "longitude": 13.4141617,
+      "viewport": {
+        "northeast": {
+          "lat": 10.74749432989272,
+          "lng": 13.41541802989272
+        },
+        "southwest": {
+          "lat": 10.74479467010728,
+          "lng": 13.41271837010728
+        }
+      },
+      "formatted_address": "103, GULAK ROAD DISTRIBUTION MADAGALI LGA#ADAMAWA STATE, Madagali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7461338,13.4141617",
+      "google_place_id": "ChIJ44f5U-3JAhERX1a-I4NuUJE"
+    }
   },
   {
     "id": "5751",
@@ -45,7 +63,8 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5752",
@@ -61,7 +80,24 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.8883901,
+      "longitude": 13.6308529,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88960482989272,
+          "lng": 13.63210517989272
+        },
+        "southwest": {
+          "lat": 10.88690517010728,
+          "lng": 13.62940552010728
+        }
+      },
+      "formatted_address": "VJQJ+97G, Gadamahol Road, 651102, Madagali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8883901,13.6308529",
+      "google_place_id": "ChIJQ4U-GQItHRERi9OYeDOx2iI"
+    }
   },
   {
     "id": "5753",
@@ -77,7 +113,24 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6217259,
+      "longitude": 13.3885289,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62302737989272,
+          "lng": 13.38984702989272
+        },
+        "southwest": {
+          "lat": 10.62032772010728,
+          "lng": 13.38714737010728
+        }
+      },
+      "formatted_address": "J9CQ+MFM, 651103, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6217259,13.3885289",
+      "google_place_id": "ChIJixgOwj23AhERxOUmpEWzotY"
+    }
   },
   {
     "id": "5754",
@@ -93,7 +146,8 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "5755",
@@ -109,7 +163,24 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.6246953,
+      "longitude": 13.3946469,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62613157989272,
+          "lng": 13.39608052989272
+        },
+        "southwest": {
+          "lat": 10.62343192010728,
+          "lng": 13.39338087010728
+        }
+      },
+      "formatted_address": "J9FV+VVC, A4, 651109, Anjawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6246953,13.3946469",
+      "google_place_id": "ChIJ8S_JD-S3AhER9HfrOsBrsyk"
+    }
   },
   {
     "id": "5756",
@@ -125,6 +196,23 @@
     "local_government_id": "27",
     "local_government_name": "MADAGALI",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.7370077,
+      "longitude": 13.5688018,
+      "viewport": {
+        "northeast": {
+          "lat": 10.73832267989272,
+          "lng": 13.57014937989272
+        },
+        "southwest": {
+          "lat": 10.73562302010728,
+          "lng": 13.56744972010728
+        }
+      },
+      "formatted_address": "PHP9+RG3, 651112, Damai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7370077,13.5688018",
+      "google_place_id": "ChIJ78mzceg0HRERp2PESukfdhg"
+    }
   }
 ]

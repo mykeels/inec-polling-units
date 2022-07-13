@@ -13,7 +13,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2854217,
+      "longitude": 13.2377497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28685007989272,
+          "lng": 13.23913057989272
+        },
+        "southwest": {
+          "lat": 10.28415042010728,
+          "lng": 13.23643092010728
+        }
+      },
+      "formatted_address": "Dazala, 650272, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2854217,13.2377497",
+      "google_place_id": "ChIJV88V-T5f_RARCMb-mO8_hUE"
+    }
   },
   {
     "id": "6776",
@@ -29,7 +46,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1107645,
+      "longitude": 13.3009828,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1317187,
+          "lng": 13.3376443
+        },
+        "southwest": {
+          "lat": 10.073585,
+          "lng": 13.2770211
+        }
+      },
+      "formatted_address": "Kwaja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1107645,13.3009828",
+      "google_place_id": "ChIJU2eG0UtE_RARKh_2Hox5Pao"
+    }
   },
   {
     "id": "6777",
@@ -45,7 +79,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.1107645,
+      "longitude": 13.3009828,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1317187,
+          "lng": 13.3376443
+        },
+        "southwest": {
+          "lat": 10.073585,
+          "lng": 13.2770211
+        }
+      },
+      "formatted_address": "Kwaja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1107645,13.3009828",
+      "google_place_id": "ChIJU2eG0UtE_RARKh_2Hox5Pao"
+    }
   },
   {
     "id": "6778",
@@ -61,7 +112,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 8.8897716,
+      "longitude": 11.3566435,
+      "viewport": {
+        "northeast": {
+          "lat": 8.891117879892722,
+          "lng": 11.35800367989272
+        },
+        "southwest": {
+          "lat": 8.888418220107278,
+          "lng": 11.35530402010728
+        }
+      },
+      "formatted_address": "V9Q4+WM6, Ward 660213, Jalingo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8897716,11.3566435",
+      "google_place_id": "ChIJPcnXtCop-RARQ_nRUCtP4QY"
+    }
   },
   {
     "id": "6779",
@@ -77,7 +145,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 10.2800641,
+      "longitude": 13.2773629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28136667989272,
+          "lng": 13.27884482989272
+        },
+        "southwest": {
+          "lat": 10.27866702010728,
+          "lng": 13.27614517010728
+        }
+      },
+      "formatted_address": "650101, Mubi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2800641,13.2773629",
+      "google_place_id": "ChIJoZhphjlZ_RARqkX4zzyNOLA"
+    }
   },
   {
     "id": "6780",
@@ -93,7 +178,24 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": -0.3007797,
+      "longitude": 37.2373408,
+      "viewport": {
+        "northeast": {
+          "lat": -0.2994298701072778,
+          "lng": 37.23869062989272
+        },
+        "southwest": {
+          "lat": -0.3021295298927222,
+          "lng": 37.23599097010727
+        }
+      },
+      "formatted_address": "Starehe, Nairobi, Kenya",
+      "google_map_url": "https://maps.google.com?q=-0.3007797,37.2373408",
+      "google_place_id": "ChIJ9aLXpod3KBgRKAhGVxebX9g"
+    }
   },
   {
     "id": "6781",
@@ -109,6 +211,7 @@
     "local_government_id": "32",
     "local_government_name": "MUBI SOUTH",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

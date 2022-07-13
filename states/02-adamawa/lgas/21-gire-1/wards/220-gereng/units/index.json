@@ -13,7 +13,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4749",
@@ -29,7 +30,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4750",
@@ -45,7 +47,24 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 43.720253,
+      "longitude": -79.4134179,
+      "viewport": {
+        "northeast": {
+          "lat": 43.72177387989273,
+          "lng": -79.41263557010727
+        },
+        "southwest": {
+          "lat": 43.71907422010728,
+          "lng": -79.41533522989272
+        }
+      },
+      "formatted_address": "1451 Avenue Rd, North York, ON M5N 2H9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.720253,-79.4134179",
+      "google_place_id": "ChIJA-LzJP0yK4gRWZVjDHaQNm8"
+    }
   },
   {
     "id": "4751",
@@ -61,7 +80,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4752",
@@ -77,7 +97,24 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.2279977,
+      "longitude": 12.5133453,
+      "viewport": {
+        "northeast": {
+          "lat": 9.22941997989272,
+          "lng": 12.51485557989272
+        },
+        "southwest": {
+          "lat": 9.226720320107276,
+          "lng": 12.51215592010728
+        }
+      },
+      "formatted_address": "6GH7+5C4, 640230, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2279977,12.5133453",
+      "google_place_id": "ChIJG9_hkQ5s_BARkj8ZrtKsVQM"
+    }
   },
   {
     "id": "4753",
@@ -93,7 +130,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4754",
@@ -109,7 +147,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4755",
@@ -125,7 +164,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4756",
@@ -141,7 +181,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4757",
@@ -157,7 +198,8 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "4758",
@@ -173,7 +215,24 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.6047581,
+      "longitude": 11.7980382,
+      "viewport": {
+        "northeast": {
+          "lat": 9.606111979892722,
+          "lng": 11.79931617989272
+        },
+        "southwest": {
+          "lat": 9.603412320107278,
+          "lng": 11.79661652010728
+        }
+      },
+      "formatted_address": "JQ3X+V4P, beside Hadiyo road, 642114, Lamurde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6047581,11.7980382",
+      "google_place_id": "ChIJIc-b4QGM_hARez4A8xJIE6Y"
+    }
   },
   {
     "id": "4759",
@@ -189,6 +248,7 @@
     "local_government_id": "21",
     "local_government_name": "GIRE 1",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   }
 ]

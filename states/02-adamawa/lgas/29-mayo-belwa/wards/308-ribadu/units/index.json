@@ -13,7 +13,24 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.0620104,
+      "longitude": 12.0535389,
+      "viewport": {
+        "northeast": {
+          "lat": 9.063488429892722,
+          "lng": 12.05489912989272
+        },
+        "southwest": {
+          "lat": 9.060788770107278,
+          "lng": 12.05219947010728
+        }
+      },
+      "formatted_address": "3363+RC3, 641102, Mayo Belwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0620104,12.0535389",
+      "google_place_id": "ChIJUUVgvBaq_hARRkaI6QJkKxM"
+    }
   },
   {
     "id": "6197",
@@ -29,7 +46,24 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   },
   {
     "id": "6198",
@@ -45,7 +79,24 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.0528821,
+      "longitude": 12.0575469,
+      "viewport": {
+        "northeast": {
+          "lat": 9.054251329892724,
+          "lng": 12.05887037989272
+        },
+        "southwest": {
+          "lat": 9.05155167010728,
+          "lng": 12.05617072010728
+        }
+      },
+      "formatted_address": "3335+523, Ngurore Road, 641102, Mayo Belwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0528821,12.0575469",
+      "google_place_id": "ChIJT9U4BrGr_hAREDqyovTZCs8"
+    }
   },
   {
     "id": "6199",
@@ -61,7 +112,8 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6200",
@@ -77,7 +129,8 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6201",
@@ -93,7 +146,8 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": null
   },
   {
     "id": "6202",
@@ -109,7 +163,24 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.0620104,
+      "longitude": 12.0535389,
+      "viewport": {
+        "northeast": {
+          "lat": 9.063488429892722,
+          "lng": 12.05489912989272
+        },
+        "southwest": {
+          "lat": 9.060788770107278,
+          "lng": 12.05219947010728
+        }
+      },
+      "formatted_address": "3363+RC3, 641102, Mayo Belwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0620104,12.0535389",
+      "google_place_id": "ChIJUUVgvBaq_hARRkaI6QJkKxM"
+    }
   },
   {
     "id": "6203",
@@ -125,6 +196,23 @@
     "local_government_id": "29",
     "local_government_name": "MAYO - BELWA",
     "state_id": "2",
-    "state_name": "ADAMAWA"
+    "state_name": "ADAMAWA",
+    "location": {
+      "latitude": 9.1953538,
+      "longitude": 12.4818591,
+      "viewport": {
+        "northeast": {
+          "lat": 9.196701179892722,
+          "lng": 12.48326587989272
+        },
+        "southwest": {
+          "lat": 9.194001520107278,
+          "lng": 12.48056622010728
+        }
+      },
+      "formatted_address": "5FWJ+4PX, Madumari 640284, Yola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1953538,12.4818591",
+      "google_place_id": "ChIJY3OYpf9s_BARTXBeuumv1HQ"
+    }
   }
 ]
