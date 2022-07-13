@@ -13,7 +13,24 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4693024,
+      "longitude": 8.5238953,
+      "viewport": {
+        "northeast": {
+          "lat": 6.470605579892722,
+          "lng": 8.525235629892723
+        },
+        "southwest": {
+          "lat": 6.467905920107278,
+          "lng": 8.52253597010728
+        }
+      },
+      "formatted_address": "FG9F+PHC, 550111, Yahe Township, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4693024,8.5238953",
+      "google_place_id": "ChIJb65koP6CWxARSB2Rq7sFpLc"
+    }
   },
   {
     "id": "39063",
@@ -29,7 +46,24 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "39064",
@@ -45,7 +79,24 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.336313,
+      "longitude": 8.561569,
+      "viewport": {
+        "northeast": {
+          "lat": 6.337683979892722,
+          "lng": 8.562942879892722
+        },
+        "southwest": {
+          "lat": 6.334984320107278,
+          "lng": 8.560243220107278
+        }
+      },
+      "formatted_address": "8HP6+GJG, 562261, Egumgum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.336313,8.561569",
+      "google_place_id": "ChIJfQFC-ld_XBARC5J0O_tMwoQ"
+    }
   },
   {
     "id": "39065",
@@ -61,7 +112,8 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "39066",
@@ -77,7 +129,24 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "39067",
@@ -93,7 +162,24 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4731321,
+      "longitude": 8.5123336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.474187129892721,
+          "lng": 8.513711179892722
+        },
+        "southwest": {
+          "lat": 6.471487470107277,
+          "lng": 8.511011520107278
+        }
+      },
+      "formatted_address": "FGF6+7W4, Yahe-Yala Town, Yahe Township, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4731321,8.5123336",
+      "google_place_id": "ChIJn4oPjvGCWxARHxMN9v3VK2I"
+    }
   },
   {
     "id": "39068",
@@ -109,7 +195,24 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4731321,
+      "longitude": 8.5123336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.474187129892721,
+          "lng": 8.513711179892722
+        },
+        "southwest": {
+          "lat": 6.471487470107277,
+          "lng": 8.511011520107278
+        }
+      },
+      "formatted_address": "FGF6+7W4, Yahe-Yala Town, Yahe Township, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4731321,8.5123336",
+      "google_place_id": "ChIJn4oPjvGCWxARHxMN9v3VK2I"
+    }
   },
   {
     "id": "39069",
@@ -125,6 +228,23 @@
     "local_government_id": "186",
     "local_government_name": "YALA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4693024,
+      "longitude": 8.5238953,
+      "viewport": {
+        "northeast": {
+          "lat": 6.470605579892722,
+          "lng": 8.525235629892723
+        },
+        "southwest": {
+          "lat": 6.467905920107278,
+          "lng": 8.52253597010728
+        }
+      },
+      "formatted_address": "FG9F+PHC, 550111, Yahe Township, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4693024,8.5238953",
+      "google_place_id": "ChIJb65koP6CWxARSB2Rq7sFpLc"
+    }
   }
 ]

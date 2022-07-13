@@ -13,7 +13,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36560",
@@ -29,7 +30,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36561",
@@ -45,7 +47,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.615260399999999,
+      "longitude": 3.3237598,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616678629892722,
+          "lng": 3.325128379892722
+        },
+        "southwest": {
+          "lat": 6.613978970107278,
+          "lng": 3.322428720107278
+        }
+      },
+      "formatted_address": "J88F+4G6, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615260399999999,3.3237598",
+      "google_place_id": "ChIJ_____3OROxARqzMMAMaKOGw"
+    }
   },
   {
     "id": "36562",
@@ -61,7 +80,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.7614755,
+      "longitude": 8.9833374,
+      "viewport": {
+        "northeast": {
+          "lat": 6.762798179892721,
+          "lng": 8.984731579892722
+        },
+        "southwest": {
+          "lat": 6.760098520107277,
+          "lng": 8.982031920107278
+        }
+      },
+      "formatted_address": "QX6M+H8W, 550108, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7614755,8.9833374",
+      "google_place_id": "ChIJP_G2aZrEWxARr4JjdQQQjyc"
+    }
   },
   {
     "id": "36563",
@@ -77,7 +113,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4184348,
+      "longitude": 8.7078589,
+      "viewport": {
+        "northeast": {
+          "lat": 6.419369,
+          "lng": 8.710061
+        },
+        "southwest": {
+          "lat": 6.416313,
+          "lng": 8.705769
+        }
+      },
+      "formatted_address": "550102, Akogbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4184348,8.7078589",
+      "google_place_id": "ChIJO6SF7TKJWxARA4oCyouNhLs"
+    }
   },
   {
     "id": "36564",
@@ -93,7 +146,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36565",
@@ -109,7 +179,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36566",
@@ -125,7 +212,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36567",
@@ -141,7 +245,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36568",
@@ -157,7 +278,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36569",
@@ -173,7 +295,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36570",
@@ -189,7 +328,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36571",
@@ -205,7 +345,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36572",
@@ -221,7 +362,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36573",
@@ -237,7 +379,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36574",
@@ -253,7 +396,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36575",
@@ -269,7 +429,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36576",
@@ -285,7 +462,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "36577",
@@ -301,6 +495,7 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

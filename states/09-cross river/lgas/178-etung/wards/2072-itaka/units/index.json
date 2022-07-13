@@ -13,7 +13,8 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37709",
@@ -29,7 +30,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "37710",
@@ -45,7 +63,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9841065,
+      "longitude": 8.3364546,
+      "viewport": {
+        "northeast": {
+          "lat": 4.985366179892721,
+          "lng": 8.337852079892722
+        },
+        "southwest": {
+          "lat": 4.982666520107277,
+          "lng": 8.335152420107278
+        }
+      },
+      "formatted_address": "X8MP+JHW, Atekong 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9841065,8.3364546",
+      "google_place_id": "ChIJP_iIAr-HZxAR8Z4CZZ-PXOc"
+    }
   },
   {
     "id": "37711",
@@ -61,7 +96,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.7676189,
+      "longitude": 8.770147,
+      "viewport": {
+        "northeast": {
+          "lat": 5.8344925,
+          "lng": 8.8406526
+        },
+        "southwest": {
+          "lat": 5.6889148,
+          "lng": 8.6468134
+        }
+      },
+      "formatted_address": "Itaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7676189,8.770147",
+      "google_place_id": "ChIJn8i367NOXBARFT8QTJhRb1I"
+    }
   },
   {
     "id": "37712",
@@ -77,7 +129,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   },
   {
     "id": "37713",
@@ -93,6 +162,7 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

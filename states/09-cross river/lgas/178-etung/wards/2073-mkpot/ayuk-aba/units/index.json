@@ -13,7 +13,8 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37715",
@@ -29,7 +30,8 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37716",
@@ -45,7 +47,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "37717",
@@ -61,7 +80,8 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37718",
@@ -77,7 +97,8 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37719",
@@ -93,6 +114,23 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   }
 ]

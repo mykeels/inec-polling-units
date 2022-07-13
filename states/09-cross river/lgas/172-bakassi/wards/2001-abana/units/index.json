@@ -13,7 +13,24 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9159335,
+      "longitude": 8.3218487,
+      "viewport": {
+        "northeast": {
+          "lat": 4.917304279892723,
+          "lng": 8.32321807989272
+        },
+        "southwest": {
+          "lat": 4.914604620107279,
+          "lng": 8.320518420107277
+        }
+      },
+      "formatted_address": "W88C+9PH, Federal Housing Road, Anantigha 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9159335,8.3218487",
+      "google_place_id": "ChIJU6ogDuWFZxAR1gH6KKMLvsc"
+    }
   },
   {
     "id": "36456",
@@ -29,7 +46,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36457",
@@ -45,7 +63,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36458",
@@ -61,7 +80,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36459",
@@ -77,7 +97,24 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "36460",
@@ -93,7 +130,24 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "36461",
@@ -109,6 +163,23 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   }
 ]

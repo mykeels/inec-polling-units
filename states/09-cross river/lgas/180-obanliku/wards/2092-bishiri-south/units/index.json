@@ -13,7 +13,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.593405,
+      "longitude": 9.085609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.594527579892722,
+          "lng": 9.087047329892721
+        },
+        "southwest": {
+          "lat": 6.591827920107278,
+          "lng": 9.084347670107277
+        }
+      },
+      "formatted_address": "H3VP+969, 552018, Okpe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.593405,9.085609",
+      "google_place_id": "ChIJN5jLb7vmWxARZIEeP4MkjpE"
+    }
   },
   {
     "id": "38005",
@@ -29,7 +46,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.416666999999999,
+      "longitude": 9.366667,
+      "viewport": {
+        "northeast": {
+          "lat": 6.417520879892723,
+          "lng": 9.367984950000002
+        },
+        "southwest": {
+          "lat": 6.414821220107279,
+          "lng": 9.362713149999998
+        }
+      },
+      "formatted_address": "Obudu Mountain Resort, 551110, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.416666999999999,9.366667",
+      "google_place_id": "ChIJk6cxy9_fWxARdbFSNtMMKR8"
+    }
   },
   {
     "id": "38006",
@@ -45,7 +79,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9629533,
+      "longitude": 8.3375024,
+      "viewport": {
+        "northeast": {
+          "lat": 4.964213129892721,
+          "lng": 8.338824529892722
+        },
+        "southwest": {
+          "lat": 4.961513470107278,
+          "lng": 8.336124870107279
+        }
+      },
+      "formatted_address": "X87Q+52J, Ikang Road, Akim Qua Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9629533,8.3375024",
+      "google_place_id": "ChIJR68mYEyGZxARvTwNf7nuUxU"
+    }
   },
   {
     "id": "38007",
@@ -61,7 +112,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.416666999999999,
+      "longitude": 9.366667,
+      "viewport": {
+        "northeast": {
+          "lat": 6.417520879892723,
+          "lng": 9.367984950000002
+        },
+        "southwest": {
+          "lat": 6.414821220107279,
+          "lng": 9.362713149999998
+        }
+      },
+      "formatted_address": "Obudu Mountain Resort, 551110, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.416666999999999,9.366667",
+      "google_place_id": "ChIJk6cxy9_fWxARdbFSNtMMKR8"
+    }
   },
   {
     "id": "38008",
@@ -77,6 +145,7 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

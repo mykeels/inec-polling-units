@@ -13,7 +13,8 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "38506",
@@ -29,7 +30,24 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0973126,
+      "longitude": 8.2311888,
+      "viewport": {
+        "northeast": {
+          "lat": 5.098216379892722,
+          "lng": 8.232497479892722
+        },
+        "southwest": {
+          "lat": 5.095516720107278,
+          "lng": 8.229797820107278
+        }
+      },
+      "formatted_address": "36WJ+WFG, 541106, Adiabo Ikot Ukpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0973126,8.2311888",
+      "google_place_id": "ChIJA-KtlgVkXRAR0weeCobDLRs"
+    }
   },
   {
     "id": "38507",
@@ -45,7 +63,8 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "38508",
@@ -61,7 +80,24 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "38509",
@@ -77,7 +113,24 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "38510",
@@ -93,7 +146,24 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "38511",
@@ -109,6 +179,23 @@
     "local_government_id": "183",
     "local_government_name": "ODUKPANI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   }
 ]

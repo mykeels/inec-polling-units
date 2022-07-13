@@ -13,7 +13,24 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9757165,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 4.977015229892721,
+          "lng": 8.343239729892721
+        },
+        "southwest": {
+          "lat": 4.974315570107278,
+          "lng": 8.340540070107277
+        }
+      },
+      "formatted_address": "X8GR+7MP, Leopad Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9757165,8.3417006",
+      "google_place_id": "ChIJs64PyICHZxARsKn7FczgBfY"
+    }
   },
   {
     "id": "38966",
@@ -29,7 +46,24 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.842496,
+      "longitude": 8.1553309,
+      "viewport": {
+        "northeast": {
+          "lat": 5.843701879892721,
+          "lng": 8.157057379892722
+        },
+        "southwest": {
+          "lat": 5.841002220107277,
+          "lng": 8.154357720107278
+        }
+      },
+      "formatted_address": "R5R4+X4W, 543104, Mkpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.842496,8.1553309",
+      "google_place_id": "ChIJpXEJvPXpXBARi4AX3OLrqNM"
+    }
   },
   {
     "id": "38967",
@@ -45,7 +79,24 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.930081899999999,
+      "longitude": 8.2319674,
+      "viewport": {
+        "northeast": {
+          "lat": 5.931411279892721,
+          "lng": 8.233375579892721
+        },
+        "southwest": {
+          "lat": 5.928711620107277,
+          "lng": 8.230675920107277
+        }
+      },
+      "formatted_address": "W6JJ+2QP, 551117, Onyadama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.930081899999999,8.2319674",
+      "google_place_id": "ChIJpb-FvPntXBAR3RD-BDvtPeE"
+    }
   },
   {
     "id": "38968",
@@ -61,7 +112,24 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9757165,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 4.977015229892721,
+          "lng": 8.343239729892721
+        },
+        "southwest": {
+          "lat": 4.974315570107278,
+          "lng": 8.340540070107277
+        }
+      },
+      "formatted_address": "X8GR+7MP, Leopad Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9757165,8.3417006",
+      "google_place_id": "ChIJs64PyICHZxARsKn7FczgBfY"
+    }
   },
   {
     "id": "38969",
@@ -77,7 +145,8 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "38970",
@@ -93,7 +162,24 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.7973453,
+      "longitude": 8.1775638,
+      "viewport": {
+        "northeast": {
+          "lat": 5.974313599999999,
+          "lng": 8.3375044
+        },
+        "southwest": {
+          "lat": 5.6616874,
+          "lng": 8.0488959
+        }
+      },
+      "formatted_address": "Yakurr, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7973453,8.1775638",
+      "google_place_id": "ChIJ-28LWEfmXBAR2ZokiNDchRg"
+    }
   },
   {
     "id": "38971",
@@ -109,6 +195,23 @@
     "local_government_id": "185",
     "local_government_name": "YAKURR",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9757165,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 4.977015229892721,
+          "lng": 8.343239729892721
+        },
+        "southwest": {
+          "lat": 4.974315570107278,
+          "lng": 8.340540070107277
+        }
+      },
+      "formatted_address": "X8GR+7MP, Leopad Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9757165,8.3417006",
+      "google_place_id": "ChIJs64PyICHZxARsKn7FczgBfY"
+    }
   }
 ]

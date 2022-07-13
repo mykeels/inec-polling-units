@@ -13,7 +13,8 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37365",
@@ -29,7 +30,8 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37366",
@@ -45,7 +47,24 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.962439499999999,
+      "longitude": 8.3160781,
+      "viewport": {
+        "northeast": {
+          "lat": 4.963760779892722,
+          "lng": 8.317888649999999
+        },
+        "southwest": {
+          "lat": 4.961061120107278,
+          "lng": 8.31472885
+        }
+      },
+      "formatted_address": "Coco Bassey, Duke Town 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.962439499999999,8.3160781",
+      "google_place_id": "Ei9Db2NvIEJhc3NleSwgRHVrZSBUb3duIDU0MDI4MSwgQ2FsYWJhciwgTmlnZXJpYSIuKiwKFAoSCbfMrUUshmcQEfB6SBCFRgpaEhQKEglRl4JBLIZnEBFw6dzScUmUbQ"
+    }
   },
   {
     "id": "37367",
@@ -61,7 +80,24 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9757165,
+      "longitude": 8.3417006,
+      "viewport": {
+        "northeast": {
+          "lat": 4.977015229892721,
+          "lng": 8.343239729892721
+        },
+        "southwest": {
+          "lat": 4.974315570107278,
+          "lng": 8.340540070107277
+        }
+      },
+      "formatted_address": "Okurikang Ndon Nyam, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9757165,8.3417006",
+      "google_place_id": "ChIJUbhVrJGHZxAR0QUeCn0s1N0"
+    }
   },
   {
     "id": "37368",
@@ -77,7 +113,24 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9665553,
+      "longitude": 8.3186396,
+      "viewport": {
+        "northeast": {
+          "lat": 4.967888529892722,
+          "lng": 8.32003457989272
+        },
+        "southwest": {
+          "lat": 4.965188870107278,
+          "lng": 8.317334920107276
+        }
+      },
+      "formatted_address": "Duke Town Calabar,&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9665553,8.3186396",
+      "google_place_id": "ChIJPWd91XaHZxAR1Hr59MOhXDo"
+    }
   },
   {
     "id": "37369",
@@ -93,7 +146,24 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 4.9433387,
+      "longitude": 8.312312499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.944688529892722,
+          "lng": 8.31366232989272
+        },
+        "southwest": {
+          "lat": 4.941988870107278,
+          "lng": 8.310962670107276
+        }
+      },
+      "formatted_address": "Effanga Offiong St, Efut Abua 540281, Calabar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9433387,8.312312499999999",
+      "google_place_id": "ChIJY2Am3h6GZxARiL_8ZfN4Z40"
+    }
   },
   {
     "id": "37370",
@@ -109,7 +179,8 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37371",
@@ -125,7 +196,8 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37372",
@@ -141,7 +213,8 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37373",
@@ -157,6 +230,7 @@
     "local_government_id": "177",
     "local_government_name": "CALABAR SOUTH",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

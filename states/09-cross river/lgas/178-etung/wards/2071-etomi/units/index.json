@@ -13,7 +13,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "37702",
@@ -29,7 +46,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   },
   {
     "id": "37703",
@@ -45,7 +79,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "37704",
@@ -61,7 +112,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   },
   {
     "id": "37705",
@@ -77,7 +145,8 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37706",
@@ -93,7 +162,24 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "37707",
@@ -109,6 +195,23 @@
     "local_government_id": "178",
     "local_government_name": "ETUNG",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   }
 ]

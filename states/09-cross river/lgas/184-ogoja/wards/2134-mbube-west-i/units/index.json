@@ -13,7 +13,8 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "38728",
@@ -29,7 +30,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4964743,
+      "longitude": 8.827317299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497817729892723,
+          "lng": 8.828641279892722
+        },
+        "southwest": {
+          "lat": 6.495118070107279,
+          "lng": 8.825941620107278
+        }
+      },
+      "formatted_address": "Panya Bwot Village, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4964743,8.827317299999999",
+      "google_place_id": "ChIJacFMFXKNWxARSfZM7wqGzRk"
+    }
   },
   {
     "id": "38729",
@@ -45,7 +63,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.673175199999999,
+      "longitude": 8.7931762,
+      "viewport": {
+        "northeast": {
+          "lat": 6.674439929892722,
+          "lng": 8.794342629892721
+        },
+        "southwest": {
+          "lat": 6.671740270107279,
+          "lng": 8.791642970107278
+        }
+      },
+      "formatted_address": "Road, 550101, Ogoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.673175199999999,8.7931762",
+      "google_place_id": "ChIJyxrJog-_WxAR8I1rzvcBfjc"
+    }
   },
   {
     "id": "38730",
@@ -61,7 +96,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.569326999999999,
+      "longitude": 8.9366886,
+      "viewport": {
+        "northeast": {
+          "lat": 6.570650679892722,
+          "lng": 8.938269779892721
+        },
+        "southwest": {
+          "lat": 6.567951020107278,
+          "lng": 8.935570120107277
+        }
+      },
+      "formatted_address": "HW9P+PMP, 550102, Arakpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.569326999999999,8.9366886",
+      "google_place_id": "ChIJz1Um2Y7vWxAR73UXHTxyi0E"
+    }
   },
   {
     "id": "38731",
@@ -77,7 +129,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "38732",
@@ -93,7 +162,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6565385,
+      "longitude": 8.8075268,
+      "viewport": {
+        "northeast": {
+          "lat": 6.657813579892722,
+          "lng": 8.808787079892722
+        },
+        "southwest": {
+          "lat": 6.655113920107278,
+          "lng": 8.806087420107279
+        }
+      },
+      "formatted_address": "MR45+J2Q, Mount Carmel Ln, 550101, Ogoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6565385,8.8075268",
+      "google_place_id": "ChIJFxLWejiVWxARfrJuLqXZW9U"
+    }
   },
   {
     "id": "38733",
@@ -109,7 +195,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6192877,
+      "longitude": 8.7855429,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620627629892722,
+          "lng": 8.786832529892722
+        },
+        "southwest": {
+          "lat": 6.617927970107278,
+          "lng": 8.784132870107278
+        }
+      },
+      "formatted_address": "Mbube Road, 550102, Ogoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6192877,8.7855429",
+      "google_place_id": "ChIJVzTQh6GVWxARmrRvSbOQ_uw"
+    }
   },
   {
     "id": "38734",
@@ -125,7 +228,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "38735",
@@ -141,7 +261,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "38736",
@@ -157,7 +294,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "38737",
@@ -173,7 +327,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.1978206,
+      "longitude": 8.9779108,
+      "viewport": {
+        "northeast": {
+          "lat": 6.199170429892722,
+          "lng": 8.979260629892723
+        },
+        "southwest": {
+          "lat": 6.196470770107278,
+          "lng": 8.976560970107279
+        }
+      },
+      "formatted_address": "5XXH+45F, 551108, Abo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1978206,8.9779108",
+      "google_place_id": "ChIJqVtxOq8PXBARlyPiIWbVuGQ"
+    }
   },
   {
     "id": "38738",
@@ -189,7 +360,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.4401876,
+      "longitude": 8.794126499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.441353679892721,
+          "lng": 8.79542072989272
+        },
+        "southwest": {
+          "lat": 6.438654020107277,
+          "lng": 8.792721070107277
+        }
+      },
+      "formatted_address": "CQRV+3MC, 551111, Okundi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4401876,8.794126499999999",
+      "google_place_id": "ChIJbXNYEPWMWxAR79xbKXV668A"
+    }
   },
   {
     "id": "38739",
@@ -205,7 +393,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "38740",
@@ -221,7 +426,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "38741",
@@ -237,7 +459,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.673175199999999,
+      "longitude": 8.7931762,
+      "viewport": {
+        "northeast": {
+          "lat": 6.674439929892722,
+          "lng": 8.794342629892721
+        },
+        "southwest": {
+          "lat": 6.671740270107279,
+          "lng": 8.791642970107278
+        }
+      },
+      "formatted_address": "Road, 550101, Ogoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.673175199999999,8.7931762",
+      "google_place_id": "ChIJyxrJog-_WxAR8I1rzvcBfjc"
+    }
   },
   {
     "id": "38742",
@@ -253,7 +492,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 56.4007399,
+      "longitude": -5.4698538,
+      "viewport": {
+        "northeast": {
+          "lat": 56.40206652989272,
+          "lng": -5.468477220107277
+        },
+        "southwest": {
+          "lat": 56.39936687010728,
+          "lng": -5.471176879892721
+        }
+      },
+      "formatted_address": "1 Soroba Rd, Soroba, Oban PA34 4SB, United Kingdom",
+      "google_map_url": "https://maps.google.com?q=56.4007399,-5.4698538",
+      "google_place_id": "ChIJIw0CrQFniUgRAPk6x_nMFJ8"
+    }
   },
   {
     "id": "38743",
@@ -269,7 +525,24 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6192877,
+      "longitude": 8.7855429,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620627629892722,
+          "lng": 8.786832529892722
+        },
+        "southwest": {
+          "lat": 6.617927970107278,
+          "lng": 8.784132870107278
+        }
+      },
+      "formatted_address": "Mbube Road, 550102, Ogoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6192877,8.7855429",
+      "google_place_id": "ChIJVzTQh6GVWxARmrRvSbOQ_uw"
+    }
   },
   {
     "id": "38744",
@@ -285,6 +558,23 @@
     "local_government_id": "184",
     "local_government_name": "OGOJA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6192877,
+      "longitude": 8.7855429,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620627629892722,
+          "lng": 8.786832529892722
+        },
+        "southwest": {
+          "lat": 6.617927970107278,
+          "lng": 8.784132870107278
+        }
+      },
+      "formatted_address": "Mbube Road, 550102, Ogoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6192877,8.7855429",
+      "google_place_id": "ChIJVzTQh6GVWxARmrRvSbOQ_uw"
+    }
   }
 ]

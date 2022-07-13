@@ -13,7 +13,8 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "37994",
@@ -29,7 +30,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.5532609,
+      "longitude": 9.1877421,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554547629892721,
+          "lng": 9.189238229892723
+        },
+        "southwest": {
+          "lat": 6.551847970107278,
+          "lng": 9.18653857010728
+        }
+      },
+      "formatted_address": "H53Q+835, Ikom - Abanliko Rd, 551103, Akorshi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5532609,9.1877421",
+      "google_place_id": "ChIJkRTP0HXiWxARsKWKWr4QS98"
+    }
   },
   {
     "id": "37995",
@@ -45,7 +63,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.565548,
+      "longitude": 9.1966547,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566908529892721,
+          "lng": 9.198170329892722
+        },
+        "southwest": {
+          "lat": 6.564208870107278,
+          "lng": 9.195470670107278
+        }
+      },
+      "formatted_address": "Bendi, Ikom - Abanliko Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.565548,9.1966547",
+      "google_place_id": "ChIJPxuBNKRYWRARE85fGtGgR34"
+    }
   },
   {
     "id": "37996",
@@ -61,7 +96,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.565548,
+      "longitude": 9.1966547,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566908529892721,
+          "lng": 9.198170329892722
+        },
+        "southwest": {
+          "lat": 6.564208870107278,
+          "lng": 9.195470670107278
+        }
+      },
+      "formatted_address": "Bendi, Ikom - Abanliko Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.565548,9.1966547",
+      "google_place_id": "ChIJPxuBNKRYWRARE85fGtGgR34"
+    }
   },
   {
     "id": "37997",
@@ -77,6 +129,23 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.565548,
+      "longitude": 9.1966547,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566908529892721,
+          "lng": 9.198170329892722
+        },
+        "southwest": {
+          "lat": 6.564208870107278,
+          "lng": 9.195470670107278
+        }
+      },
+      "formatted_address": "Bendi, Ikom - Abanliko Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.565548,9.1966547",
+      "google_place_id": "ChIJPxuBNKRYWRARE85fGtGgR34"
+    }
   }
 ]

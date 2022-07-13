@@ -13,7 +13,8 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36084",
@@ -29,7 +30,8 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36085",
@@ -45,7 +47,24 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   },
   {
     "id": "36086",
@@ -61,7 +80,24 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.9308596,
+      "longitude": 8.0823591,
+      "viewport": {
+        "northeast": {
+          "lat": 5.932167379892721,
+          "lng": 8.08363137989272
+        },
+        "southwest": {
+          "lat": 5.929467720107278,
+          "lng": 8.080931720107277
+        }
+      },
+      "formatted_address": "W3JJ+8WX, 543103, Imina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9308596,8.0823591",
+      "google_place_id": "ChIJ_XgZonvBXBARrLdLONwIq_g"
+    }
   },
   {
     "id": "36087",
@@ -77,7 +113,24 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "36088",
@@ -93,7 +146,24 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.9308596,
+      "longitude": 8.0823591,
+      "viewport": {
+        "northeast": {
+          "lat": 5.932167379892721,
+          "lng": 8.08363137989272
+        },
+        "southwest": {
+          "lat": 5.929467720107278,
+          "lng": 8.080931720107277
+        }
+      },
+      "formatted_address": "W3JJ+8WX, 543103, Imina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9308596,8.0823591",
+      "google_place_id": "ChIJ_XgZonvBXBARrLdLONwIq_g"
+    }
   },
   {
     "id": "36089",
@@ -109,7 +179,24 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.9308596,
+      "longitude": 8.0823591,
+      "viewport": {
+        "northeast": {
+          "lat": 5.932167379892721,
+          "lng": 8.08363137989272
+        },
+        "southwest": {
+          "lat": 5.929467720107278,
+          "lng": 8.080931720107277
+        }
+      },
+      "formatted_address": "W3JJ+8WX, 543103, Imina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9308596,8.0823591",
+      "google_place_id": "ChIJ_XgZonvBXBARrLdLONwIq_g"
+    }
   },
   {
     "id": "36090",
@@ -125,7 +212,8 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36091",
@@ -141,6 +229,7 @@
     "local_government_id": "169",
     "local_government_name": "ABI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

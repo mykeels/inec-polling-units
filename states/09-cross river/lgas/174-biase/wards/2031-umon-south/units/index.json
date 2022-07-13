@@ -13,7 +13,8 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36798",
@@ -29,7 +30,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.3850941,
+      "longitude": 7.888519499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.386502279892722,
+          "lng": 7.889971079892723
+        },
+        "southwest": {
+          "lat": 5.383802620107279,
+          "lng": 7.887271420107279
+        }
+      },
+      "formatted_address": "9VPQ+2CJ, 442101, Arochukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.3850941,7.888519499999999",
+      "google_place_id": "ChIJC_-uG1s3XRAR_P5CF6tij0Y"
+    }
   },
   {
     "id": "36799",
@@ -45,7 +63,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.4204241,
+      "longitude": 8.180979599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.421856379892723,
+          "lng": 8.182083829892722
+        },
+        "southwest": {
+          "lat": 5.419156720107279,
+          "lng": 8.179384170107278
+        }
+      },
+      "formatted_address": "542108, Iwuru Obio, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4204241,8.180979599999999",
+      "google_place_id": "ChIJm9Vqif8VXRARDNETP88waLA"
+    }
   },
   {
     "id": "36800",
@@ -61,7 +96,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8029474,
+      "longitude": 8.0740942,
+      "viewport": {
+        "northeast": {
+          "lat": 5.804306629892722,
+          "lng": 8.07552062989272
+        },
+        "southwest": {
+          "lat": 5.801606970107278,
+          "lng": 8.072820970107276
+        }
+      },
+      "formatted_address": "68 Ubana Okun St, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8029474,8.0740942",
+      "google_place_id": "ChIJmb7gOE7dXBAR7N3TQevvUsQ"
+    }
   },
   {
     "id": "36801",
@@ -77,7 +129,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   },
   {
     "id": "36802",
@@ -93,7 +162,8 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36803",
@@ -109,7 +179,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.902819399999999,
+      "longitude": 8.9110718,
+      "viewport": {
+        "northeast": {
+          "lat": 5.904176029892721,
+          "lng": 8.91242892989272
+        },
+        "southwest": {
+          "lat": 5.901476370107277,
+          "lng": 8.909729270107274
+        }
+      },
+      "formatted_address": "WW36+4CG, 562251, Obokum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.902819399999999,8.9110718",
+      "google_place_id": "ChIJeV69D7s5XBARL5s4mnKVghg"
+    }
   },
   {
     "id": "36804",
@@ -125,6 +212,23 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.0812193,
+      "longitude": 8.349859,
+      "viewport": {
+        "northeast": {
+          "lat": 5.082558679892721,
+          "lng": 8.35108957989272
+        },
+        "southwest": {
+          "lat": 5.079859020107278,
+          "lng": 8.348389920107277
+        }
+      },
+      "formatted_address": "Local Government Council, 100001, Odukpani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0812193,8.349859",
+      "google_place_id": "ChIJ9456yUd9XRARHr8N57aVTGY"
+    }
   }
 ]

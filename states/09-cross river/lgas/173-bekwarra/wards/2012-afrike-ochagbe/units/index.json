@@ -13,7 +13,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.5805318,
+      "longitude": 8.748116699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.581881629892723,
+          "lng": 8.74946652989272
+        },
+        "southwest": {
+          "lat": 5.579181970107279,
+          "lng": 8.746766870107276
+        }
+      },
+      "formatted_address": "HPJX+669, Ikom - Abanliko Rd, Basua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5805318,8.748116699999999",
+      "google_place_id": "ChIJRaD05NymXRAR07InCVZA_rg"
+    }
   },
   {
     "id": "36534",
@@ -29,7 +46,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36535",
@@ -45,7 +63,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36536",
@@ -61,7 +80,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6968136,
+      "longitude": 8.9099831,
+      "viewport": {
+        "northeast": {
+          "lat": 6.698185729892722,
+          "lng": 8.911344079892721
+        },
+        "southwest": {
+          "lat": 6.695486070107278,
+          "lng": 8.908644420107278
+        }
+      },
+      "formatted_address": "MWW5+PXH, Abuagbor, Bekwarra LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6968136,8.9099831",
+      "google_place_id": "ChIJEW8EWTzBWxARDV6X6m5FxzA"
+    }
   },
   {
     "id": "36537",
@@ -77,7 +113,8 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36538",
@@ -93,7 +130,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 51.5821152,
+      "longitude": -4.0048072,
+      "viewport": {
+        "northeast": {
+          "lat": 51.58345177989272,
+          "lng": -4.003546770107278
+        },
+        "southwest": {
+          "lat": 51.58075212010728,
+          "lng": -4.006246429892722
+        }
+      },
+      "formatted_address": "W Cross Ave, West Cross, Swansea SA3 5TS, United Kingdom",
+      "google_map_url": "https://maps.google.com?q=51.5821152,-4.0048072",
+      "google_place_id": "ChIJG9IUHnuLbkgRa8_jAV7DW7I"
+    }
   },
   {
     "id": "36539",
@@ -109,7 +163,24 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.705210500000001,
+      "longitude": 8.914375699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.706154229892722,
+          "lng": 8.915670279892721
+        },
+        "southwest": {
+          "lat": 6.703454570107279,
+          "lng": 8.912970620107277
+        }
+      },
+      "formatted_address": "PW47+3QJ, 550109, Abuochicie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.705210500000001,8.914375699999999",
+      "google_place_id": "ChIJ-WLIGG7BWxARSxc5i-qXb-I"
+    }
   },
   {
     "id": "36540",
@@ -125,6 +196,23 @@
     "local_government_id": "173",
     "local_government_name": "BEKWARRA",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 43.6555031,
+      "longitude": -79.94355279999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.65684547989272,
+          "lng": -79.94219282010728
+        },
+        "southwest": {
+          "lat": 43.65414582010727,
+          "lng": -79.94489247989272
+        }
+      },
+      "formatted_address": "13893 ON-7, Georgetown, ON L7G 4S4, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6555031,-79.94355279999999",
+      "google_place_id": "ChIJ6wbQy1INK4gRQ-tU4FmgAa8"
+    }
   }
 ]

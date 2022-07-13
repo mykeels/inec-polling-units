@@ -13,7 +13,24 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.1712997,
+      "longitude": 7.997559099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.172635929892721,
+          "lng": 7.998878829892722
+        },
+        "southwest": {
+          "lat": 5.169936270107277,
+          "lng": 7.996179170107278
+        }
+      },
+      "formatted_address": "A4-1, 520112, Mbak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1712997,7.997559099999999",
+      "google_place_id": "ChIJT6ODJdRaXRARWL3BchUp__I"
+    }
   },
   {
     "id": "36499",
@@ -29,7 +46,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36500",
@@ -45,7 +63,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36501",
@@ -61,7 +80,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36502",
@@ -77,7 +97,24 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 44.2690467,
+      "longitude": -80.54370109999999,
+      "viewport": {
+        "northeast": {
+          "lat": 44.27014937989272,
+          "lng": -80.54192202010728
+        },
+        "southwest": {
+          "lat": 44.26744972010728,
+          "lng": -80.54462167989273
+        }
+      },
+      "formatted_address": "400421 Grey County Rd 4, Flesherton, ON N0C 1E0, Canada",
+      "google_map_url": "https://maps.google.com?q=44.2690467,-80.54370109999999",
+      "google_place_id": "ChIJ9W17zoE-KogRVPxT8BFlKLs"
+    }
   },
   {
     "id": "36503",
@@ -93,7 +130,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36504",
@@ -109,7 +147,8 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36505",
@@ -125,6 +164,7 @@
     "local_government_id": "172",
     "local_government_name": "BAKASSI",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

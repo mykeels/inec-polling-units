@@ -13,7 +13,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.8029474,
+      "longitude": 8.0740942,
+      "viewport": {
+        "northeast": {
+          "lat": 5.804306629892722,
+          "lng": 8.07552062989272
+        },
+        "southwest": {
+          "lat": 5.801606970107278,
+          "lng": 8.072820970107276
+        }
+      },
+      "formatted_address": "68 Ubana Okun St, 543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8029474,8.0740942",
+      "google_place_id": "ChIJmb7gOE7dXBAR7N3TQevvUsQ"
+    }
   },
   {
     "id": "36748",
@@ -29,7 +46,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.7690275,
+      "longitude": 7.7635057,
+      "viewport": {
+        "northeast": {
+          "lat": 5.770376729892722,
+          "lng": 7.764860279892721
+        },
+        "southwest": {
+          "lat": 5.767677070107278,
+          "lng": 7.762160620107277
+        }
+      },
+      "formatted_address": "QQ97+J99, 442111, Item, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7690275,7.7635057",
+      "google_place_id": "ChIJ7yzObqstQxARHV2xVUXoVOg"
+    }
   },
   {
     "id": "36749",
@@ -45,7 +79,24 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 5.854241500000001,
+      "longitude": 7.972955799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.855730579892722,
+          "lng": 7.974281829892721
+        },
+        "southwest": {
+          "lat": 5.853030920107278,
+          "lng": 7.971582170107277
+        }
+      },
+      "formatted_address": "VX3F+M5W, Bazohure, Abi LGA, Cross River, Igoni-Igoni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.854241500000001,7.972955799999999",
+      "google_place_id": "ChIJm8REp0XFXBARqtXzWKtvCW4"
+    }
   },
   {
     "id": "36750",
@@ -61,7 +112,8 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36751",
@@ -77,7 +129,8 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36752",
@@ -93,7 +146,8 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36753",
@@ -109,7 +163,8 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   },
   {
     "id": "36754",
@@ -125,6 +180,7 @@
     "local_government_id": "174",
     "local_government_name": "BIASE",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": null
   }
 ]

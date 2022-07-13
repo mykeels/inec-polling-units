@@ -13,7 +13,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6721948,
+      "longitude": 9.1701937,
+      "viewport": {
+        "northeast": {
+          "lat": 6.673563179892723,
+          "lng": 9.171544279892723
+        },
+        "southwest": {
+          "lat": 6.670863520107279,
+          "lng": 9.16884462010728
+        }
+      },
+      "formatted_address": "M5CC+V3G, 552106, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6721948,9.1701937",
+      "google_place_id": "ChIJO2wBrOffWxARrzTBXZf12B0"
+    }
   },
   {
     "id": "37999",
@@ -29,7 +46,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.534364999999999,
+      "longitude": 9.322921,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53571482989272,
+          "lng": 9.324270829892718
+        },
+        "southwest": {
+          "lat": 6.533015170107277,
+          "lng": 9.321571170107275
+        }
+      },
+      "formatted_address": "Lishiche Bishiri Obanliku L.G.A, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.534364999999999,9.322921",
+      "google_place_id": "ChIJl4yXlqlbWRAR1wgsypPAwGk"
+    }
   },
   {
     "id": "38000",
@@ -45,7 +79,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6211461,
+      "longitude": 9.320402399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622942429892722,
+          "lng": 9.321849179892723
+        },
+        "southwest": {
+          "lat": 6.620242770107278,
+          "lng": 9.31914952010728
+        }
+      },
+      "formatted_address": "J8CC+F52, 551107, Bebi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6211461,9.320402399999999",
+      "google_place_id": "ChIJWUcg_KpdWRARpTpSZScrMo4"
+    }
   },
   {
     "id": "38001",
@@ -61,7 +112,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.6538181,
+      "longitude": 9.1840124,
+      "viewport": {
+        "northeast": {
+          "lat": 6.655188979892722,
+          "lng": 9.18532872989272
+        },
+        "southwest": {
+          "lat": 6.652489320107278,
+          "lng": 9.182629070107277
+        }
+      },
+      "formatted_address": "M53M+GJC, 552109, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6538181,9.1840124",
+      "google_place_id": "ChIJyaPhpQTgWxARGFKCgrCNCv0"
+    }
   },
   {
     "id": "38002",
@@ -77,7 +145,24 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.405574499999999,
+      "longitude": 8.7999713,
+      "viewport": {
+        "northeast": {
+          "lat": 6.406924129892722,
+          "lng": 8.801327879892721
+        },
+        "southwest": {
+          "lat": 6.404224470107279,
+          "lng": 8.798628220107277
+        }
+      },
+      "formatted_address": "Opposite Okisam Filling station Boki local government area, 551177, Okundi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.405574499999999,8.7999713",
+      "google_place_id": "ChIJo4HkNNOLWxARhyB3ZR9_PtA"
+    }
   },
   {
     "id": "38003",
@@ -93,6 +178,23 @@
     "local_government_id": "180",
     "local_government_name": "OBANLIKU",
     "state_id": "9",
-    "state_name": "CROSS RIVER"
+    "state_name": "CROSS RIVER",
+    "location": {
+      "latitude": 6.534364999999999,
+      "longitude": 9.322921,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53571482989272,
+          "lng": 9.324270829892718
+        },
+        "southwest": {
+          "lat": 6.533015170107277,
+          "lng": 9.321571170107275
+        }
+      },
+      "formatted_address": "Lishiche Bishiri Obanliku L.G.A, Obudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.534364999999999,9.322921",
+      "google_place_id": "ChIJl4yXlqlbWRAR1wgsypPAwGk"
+    }
   }
 ]
