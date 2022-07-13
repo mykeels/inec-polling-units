@@ -13,7 +13,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.624768,
+      "longitude": 12.530403,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62610257989272,
+          "lng": 12.53176272989272
+        },
+        "southwest": {
+          "lat": 11.62340292010728,
+          "lng": 12.52906307010728
+        }
+      },
+      "formatted_address": "JGFJ+W52, 601105, Gowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.624768,12.530403",
+      "google_place_id": "ChIJmeMZ_QeOAxERU61_MRUqkiQ"
+    }
   },
   {
     "id": "33517",
@@ -29,7 +46,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33518",
@@ -45,7 +63,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33519",
@@ -61,6 +80,7 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

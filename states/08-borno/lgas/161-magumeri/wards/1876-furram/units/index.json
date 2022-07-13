@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2414256,
+      "longitude": 12.7641284,
+      "viewport": {
+        "northeast": {
+          "lat": 12.24341122989272,
+          "lng": 12.76664735
+        },
+        "southwest": {
+          "lat": 12.24071157010728,
+          "lng": 12.76328875
+        }
+      },
+      "formatted_address": "6QR7+HMC, 602104, Galtaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2414256,12.7641284",
+      "google_place_id": "ChIJabMM5tlYBBERT__oc8wpzE0"
+    }
   },
   {
     "id": "34308",
@@ -29,7 +46,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34309",
@@ -45,7 +63,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34310",
@@ -61,6 +80,7 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

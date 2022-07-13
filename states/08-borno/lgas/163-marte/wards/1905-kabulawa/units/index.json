@@ -13,7 +13,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2602057,
+      "longitude": 13.5205565,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3760118,
+          "lng": 13.5922555
+        },
+        "southwest": {
+          "lat": 12.1835096,
+          "lng": 13.4624704
+        }
+      },
+      "formatted_address": "Kabulawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2602057,13.5205565",
+      "google_place_id": "ChIJMzlb2VjNBBERw5Jm_xhErIQ"
+    }
   },
   {
     "id": "35304",
@@ -29,7 +46,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35305",
@@ -45,7 +63,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35306",
@@ -61,7 +80,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35307",
@@ -77,7 +97,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35308",
@@ -93,6 +114,7 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

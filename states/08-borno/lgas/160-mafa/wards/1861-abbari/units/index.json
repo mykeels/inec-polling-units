@@ -13,7 +13,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0297847,
+      "longitude": 13.6594267,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1441046,
+          "lng": 13.7131244
+        },
+        "southwest": {
+          "lat": 11.8991993,
+          "lng": 13.5754726
+        }
+      },
+      "formatted_address": "Abbari, 611104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0297847,13.6594267",
+      "google_place_id": "ChIJq3jMUVpJGxERKTcafqNpcWA"
+    }
   },
   {
     "id": "34163",
@@ -29,7 +46,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8479967,
+      "longitude": 13.0040358,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84934757989272,
+          "lng": 13.00542042989272
+        },
+        "southwest": {
+          "lat": 11.84664792010728,
+          "lng": 13.00272077010728
+        }
+      },
+      "formatted_address": "Kano Rd, Njimtilo 602104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8479967,13.0040358",
+      "google_place_id": "ChIJzY8-XyydBBERv2BWQXO12fo"
+    }
   },
   {
     "id": "34164",
@@ -45,7 +79,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34165",
@@ -61,7 +96,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
   },
   {
     "id": "34166",
@@ -77,7 +129,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 49.27293270000001,
+      "longitude": -123.0757645,
+      "viewport": {
+        "northeast": {
+          "lat": 49.27429282989272,
+          "lng": -123.0744830201073
+        },
+        "southwest": {
+          "lat": 49.27159317010727,
+          "lng": -123.0771826798927
+        }
+      },
+      "formatted_address": "1310 Odlum Dr, Vancouver, BC V5L 3M3, Canada",
+      "google_map_url": "https://maps.google.com?q=49.27293270000001,-123.0757645",
+      "google_place_id": "ChIJObbfREBxhlQRMipkDnizOd8"
+    }
   },
   {
     "id": "34167",
@@ -93,7 +162,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8097859,
+      "longitude": 13.1824907,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81105287989272,
+          "lng": 13.18363962989272
+        },
+        "southwest": {
+          "lat": 11.80835322010728,
+          "lng": 13.18093997010728
+        }
+      },
+      "formatted_address": "R55M+W2H, Bama Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8097859,13.1824907",
+      "google_place_id": "ChIJUwLrAdOhBBERyu8fjozvE8A"
+    }
   },
   {
     "id": "34168",
@@ -109,6 +195,23 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8571441,
+      "longitude": 13.1514602,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85845822989272,
+          "lng": 13.15274147989272
+        },
+        "southwest": {
+          "lat": 11.85575857010728,
+          "lng": 13.15004182010728
+        }
+      },
+      "formatted_address": "Lamisula Primary School, Abbaganaram, lamisula ward, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8571441,13.1514602",
+      "google_place_id": "ChIJycUO0LOYBBER1NecCKGMP3k"
+    }
   }
 ]

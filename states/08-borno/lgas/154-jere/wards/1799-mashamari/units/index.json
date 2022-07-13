@@ -13,7 +13,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8239625,
+      "longitude": 13.0718633,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82536912989272,
+          "lng": 13.07340372989272
+        },
+        "southwest": {
+          "lat": 11.82266947010728,
+          "lng": 13.07070407010728
+        }
+      },
+      "formatted_address": "Maiduguri-Potiskum Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8239625,13.0718633",
+      "google_place_id": "ChIJ8QDUYCWcBBERBFiczqBVFjU"
+    }
   },
   {
     "id": "33228",
@@ -29,7 +46,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
   },
   {
     "id": "33229",
@@ -45,7 +79,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.824115,
+      "longitude": 13.1271838,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82547457989272,
+          "lng": 13.12851077989272
+        },
+        "southwest": {
+          "lat": 11.82277492010728,
+          "lng": 13.12581112010728
+        }
+      },
+      "formatted_address": "R4FG+JVP, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.824115,13.1271838",
+      "google_place_id": "ChIJrbzFfOKeBBERg44aeQwC3qA"
+    }
   },
   {
     "id": "33230",
@@ -61,7 +112,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
   },
   {
     "id": "33231",
@@ -77,7 +145,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
   },
   {
     "id": "33232",
@@ -93,7 +178,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
   },
   {
     "id": "33233",
@@ -109,7 +211,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33234",
@@ -125,7 +228,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33235",
@@ -141,7 +245,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33236",
@@ -157,7 +262,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33237",
@@ -173,7 +279,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33238",
@@ -189,7 +296,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8530207,
+      "longitude": 13.1451898,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85435412989272,
+          "lng": 13.14651212989272
+        },
+        "southwest": {
+          "lat": 11.85165447010728,
+          "lng": 13.14381247010728
+        }
+      },
+      "formatted_address": "V43W+638, Kashim Ibrahim Rd, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8530207,13.1451898",
+      "google_place_id": "ChIJ26T4QGWfBBERDIc7_1SHo2s"
+    }
   },
   {
     "id": "33239",
@@ -205,7 +329,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33240",
@@ -221,7 +362,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33241",
@@ -237,7 +395,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33242",
@@ -253,7 +428,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
   },
   {
     "id": "33243",
@@ -269,7 +461,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8465706,
+      "longitude": 13.174215,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84797917989272,
+          "lng": 13.17585097989272
+        },
+        "southwest": {
+          "lat": 11.84527952010728,
+          "lng": 13.17315132010728
+        }
+      },
+      "formatted_address": "Sanda Kyarimi Primary School, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8465706,13.174215",
+      "google_place_id": "ChIJCey-_f2hBBERC0r6TYo65iI"
+    }
   },
   {
     "id": "33244",
@@ -285,7 +494,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33245",
@@ -301,7 +511,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33246",
@@ -317,7 +528,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33247",
@@ -333,7 +545,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33248",
@@ -349,7 +562,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33249",
@@ -365,7 +579,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8089459,
+      "longitude": 13.1371811,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81028187989272,
+          "lng": 13.13855962989272
+        },
+        "southwest": {
+          "lat": 11.80758222010728,
+          "lng": 13.13585997010728
+        }
+      },
+      "formatted_address": "DAMBOA ROAD#, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8089459,13.1371811",
+      "google_place_id": "ChIJ7V9uXwWfBBER3GsXtVUcfyg"
+    }
   },
   {
     "id": "33250",
@@ -381,7 +612,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8600021,
+      "longitude": 13.2092789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86138367989272,
+          "lng": 13.21062137989272
+        },
+        "southwest": {
+          "lat": 11.85868402010728,
+          "lng": 13.20792172010728
+        }
+      },
+      "formatted_address": "Opposite college of agric, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8600021,13.2092789",
+      "google_place_id": "ChIJE1kVji-iBBERfSNkfmuDf0I"
+    }
   },
   {
     "id": "33251",
@@ -397,7 +645,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8367261,
+      "longitude": 13.1440425,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83807527989272,
+          "lng": 13.14538577989272
+        },
+        "southwest": {
+          "lat": 11.83537562010728,
+          "lng": 13.14268612010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8367261,13.1440425",
+      "google_place_id": "ChIJtfkJOjyfBBER4k-rRzAvI4Y"
+    }
   },
   {
     "id": "33252",
@@ -413,7 +678,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8488647,
+      "longitude": 13.1884542,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8639307,
+          "lng": 13.2141282
+        },
+        "southwest": {
+          "lat": 11.8339318,
+          "lng": 13.1729901
+        }
+      },
+      "formatted_address": "Mashamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8488647,13.1884542",
+      "google_place_id": "ChIJeYTlrfWhBBER5mZ7EoY_jpY"
+    }
   },
   {
     "id": "33253",
@@ -429,7 +711,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
   },
   {
     "id": "33254",
@@ -445,7 +744,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33255",
@@ -461,7 +777,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8099092,
+      "longitude": 13.1511322,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81129837989272,
+          "lng": 13.15236442989272
+        },
+        "southwest": {
+          "lat": 11.80859872010728,
+          "lng": 13.14966477010728
+        }
+      },
+      "formatted_address": "MB dalhatu House no40 polo road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8099092,13.1511322",
+      "google_place_id": "ChIJk28y-MufBBERuCAvsJerXEk"
+    }
   },
   {
     "id": "33256",
@@ -477,7 +810,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33257",
@@ -493,7 +827,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33258",
@@ -509,7 +860,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8530207,
+      "longitude": 13.1451898,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85435412989272,
+          "lng": 13.14651212989272
+        },
+        "southwest": {
+          "lat": 11.85165447010728,
+          "lng": 13.14381247010728
+        }
+      },
+      "formatted_address": "V43W+638, Kashim Ibrahim Rd, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8530207,13.1451898",
+      "google_place_id": "ChIJ26T4QGWfBBERDIc7_1SHo2s"
+    }
   },
   {
     "id": "33259",
@@ -525,7 +893,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8488647,
+      "longitude": 13.1884542,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8639307,
+          "lng": 13.2141282
+        },
+        "southwest": {
+          "lat": 11.8339318,
+          "lng": 13.1729901
+        }
+      },
+      "formatted_address": "Mashamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8488647,13.1884542",
+      "google_place_id": "ChIJeYTlrfWhBBER5mZ7EoY_jpY"
+    }
   },
   {
     "id": "33260",
@@ -541,7 +926,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33261",
@@ -557,7 +959,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33262",
@@ -573,7 +992,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33263",
@@ -589,7 +1025,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
   },
   {
     "id": "33264",
@@ -605,7 +1058,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
   },
   {
     "id": "33265",
@@ -621,7 +1091,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
   },
   {
     "id": "33266",
@@ -637,7 +1124,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8367261,
+      "longitude": 13.1440425,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83807527989272,
+          "lng": 13.14538577989272
+        },
+        "southwest": {
+          "lat": 11.83537562010728,
+          "lng": 13.14268612010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8367261,13.1440425",
+      "google_place_id": "ChIJtfkJOjyfBBER4k-rRzAvI4Y"
+    }
   },
   {
     "id": "33267",
@@ -653,7 +1157,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8600021,
+      "longitude": 13.2092789,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86138367989272,
+          "lng": 13.21062137989272
+        },
+        "southwest": {
+          "lat": 11.85868402010728,
+          "lng": 13.20792172010728
+        }
+      },
+      "formatted_address": "Opposite college of agric, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8600021,13.2092789",
+      "google_place_id": "ChIJE1kVji-iBBERfSNkfmuDf0I"
+    }
   },
   {
     "id": "33268",
@@ -669,7 +1190,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33269",
@@ -685,7 +1207,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8471544,
+      "longitude": 13.1853358,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84847552989272,
+          "lng": 13.18670207989272
+        },
+        "southwest": {
+          "lat": 11.84577587010728,
+          "lng": 13.18400242010728
+        }
+      },
+      "formatted_address": "MASHAMARI WARD JERE KWANAN YOBE STREET MAIDUGURI, #BORNO STATE, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8471544,13.1853358",
+      "google_place_id": "ChIJs4mH4V2hBBERRgC71cOroDk"
+    }
   },
   {
     "id": "33270",
@@ -701,7 +1240,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8277391,
+      "longitude": 13.1677116,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82937177989272,
+          "lng": 13.16916662989272
+        },
+        "southwest": {
+          "lat": 11.82667212010728,
+          "lng": 13.16646697010728
+        }
+      },
+      "formatted_address": "R5H9+33W, Gwange 600211, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277391,13.1677116",
+      "google_place_id": "ChIJZ6TjgxCfBBER33IXZNnNTRw"
+    }
   },
   {
     "id": "33271",
@@ -717,7 +1273,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8413159,
+      "longitude": 13.174957,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85659860000005,
+          "lng": 13.17861415
+        },
+        "southwest": {
+          "lat": 11.82610659999995,
+          "lng": 13.17095195
+        }
+      },
+      "formatted_address": "Bama - Maiduguri Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8413159,13.174957",
+      "google_place_id": "EhxCYW1hIC0gTWFpZHVndXJpIFJkLCBOaWdlcmlhIi4qLAoUChIJUcnkuZyxHBERLP0fd3LD8BASFAoSCXmE5a31oQQREeZmexKGP46W"
+    }
   },
   {
     "id": "33272",
@@ -733,7 +1306,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.904817,
+      "longitude": 13.096822,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90614997989272,
+          "lng": 13.09814507989272
+        },
+        "southwest": {
+          "lat": 11.90345032010728,
+          "lng": 13.09544542010728
+        }
+      },
+      "formatted_address": "39 Monguno - Dikwa Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.904817,13.096822",
+      "google_place_id": "ChIJx7FpuBOZBBERS9YvUErYnqI"
+    }
   },
   {
     "id": "33273",
@@ -749,7 +1339,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33274",
@@ -765,7 +1356,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33275",
@@ -781,7 +1373,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33276",
@@ -797,7 +1390,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33277",
@@ -813,7 +1407,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33278",
@@ -829,7 +1424,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8256506,
+      "longitude": 13.1195587,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82699592989272,
+          "lng": 13.12094117989272
+        },
+        "southwest": {
+          "lat": 11.82429627010728,
+          "lng": 13.11824152010728
+        }
+      },
+      "formatted_address": "R4G9+7V7, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8256506,13.1195587",
+      "google_place_id": "ChIJsVz_WYyfBBER1gpEwAff8oQ"
+    }
   },
   {
     "id": "33279",
@@ -845,7 +1457,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8466595,
+      "longitude": 13.1743606,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84819522989272,
+          "lng": 13.17566737989272
+        },
+        "southwest": {
+          "lat": 11.84549557010728,
+          "lng": 13.17296772010728
+        }
+      },
+      "formatted_address": "R5WF+MP9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8466595,13.1743606",
+      "google_place_id": "ChIJGQMN_v2hBBERf2CLnk12Dds"
+    }
   },
   {
     "id": "33280",
@@ -861,7 +1490,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33281",
@@ -877,7 +1523,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8569608,
+      "longitude": 13.184155,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85806562989272,
+          "lng": 13.18560467989272
+        },
+        "southwest": {
+          "lat": 11.85536597010728,
+          "lng": 13.18290502010728
+        }
+      },
+      "formatted_address": "V54M+QMJ, Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8569608,13.184155",
+      "google_place_id": "ChIJgUOPXQOiBBERMTg1bawPqBA"
+    }
   },
   {
     "id": "33282",
@@ -893,7 +1556,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8958,
+      "longitude": 13.0989,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89665657989272,
+          "lng": 13.10062677989272
+        },
+        "southwest": {
+          "lat": 11.89395692010728,
+          "lng": 13.09792712010728
+        }
+      },
+      "formatted_address": "NGOMARI OLD AIRPORT, JERE LOCAL GOVERNMENT, BORNO #STATE, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8958,13.0989",
+      "google_place_id": "ChIJ6STuTWCZBBER-lt1dL3OgXE"
+    }
   },
   {
     "id": "33283",
@@ -909,7 +1589,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
   },
   {
     "id": "33284",
@@ -925,7 +1622,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.831161,
+      "longitude": 13.1509903,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83258607989272,
+          "lng": 13.15233272989272
+        },
+        "southwest": {
+          "lat": 11.82988642010728,
+          "lng": 13.14963307010728
+        }
+      },
+      "formatted_address": "Kashim Ibrahim College Of Education, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.831161,13.1509903",
+      "google_place_id": "ChIJvf4hpxifBBERT4O1O2aupMw"
+    }
   },
   {
     "id": "33285",
@@ -941,7 +1655,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
   },
   {
     "id": "33286",
@@ -957,7 +1688,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8544906,
+      "longitude": 13.1950181,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85584797989272,
+          "lng": 13.19636592989272
+        },
+        "southwest": {
+          "lat": 11.85314832010728,
+          "lng": 13.19366627010728
+        }
+      },
+      "formatted_address": "Ruwan Zafi Street, 611104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8544906,13.1950181",
+      "google_place_id": "ChIJr4unXEOjBBERLN80Y-61gBE"
+    }
   },
   {
     "id": "33287",
@@ -973,7 +1721,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33288",
@@ -989,7 +1738,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
   },
   {
     "id": "33289",
@@ -1005,7 +1771,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8531843,
+      "longitude": 13.173429,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85457967989272,
+          "lng": 13.17472017989272
+        },
+        "southwest": {
+          "lat": 11.85188002010728,
+          "lng": 13.17202052010728
+        }
+      },
+      "formatted_address": "V53F+79F, Gamboru 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8531843,13.173429",
+      "google_place_id": "ChIJqcNIpaqYBBER0wKuEcpGW8M"
+    }
   },
   {
     "id": "33290",
@@ -1021,7 +1804,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.85785,
+      "longitude": 13.20808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85920032989272,
+          "lng": 13.20942972989272
+        },
+        "southwest": {
+          "lat": 11.85650067010728,
+          "lng": 13.20673007010728
+        }
+      },
+      "formatted_address": "KACHAMAI CLOSE TO GIDIN TAKI JERE LGA BORNO STATE#, Jere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.85785,13.20808",
+      "google_place_id": "ChIJU7QHLQqjBBERY9ibNmLTx5c"
+    }
   },
   {
     "id": "33291",
@@ -1037,7 +1837,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8366946,
+      "longitude": 13.1228685,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83803442989272,
+          "lng": 13.12405037989272
+        },
+        "southwest": {
+          "lat": 11.83533477010728,
+          "lng": 13.12135072010728
+        }
+      },
+      "formatted_address": "ibrahimj college of education, opposite kashim, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8366946,13.1228685",
+      "google_place_id": "ChIJSTpANCSzBhERlfUQrsPXiiQ"
+    }
   },
   {
     "id": "33292",
@@ -1053,7 +1870,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33293",
@@ -1069,7 +1887,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8388602,
+      "longitude": 13.1547756,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84012892989272,
+          "lng": 13.15615527989272
+        },
+        "southwest": {
+          "lat": 11.83742927010728,
+          "lng": 13.15345562010728
+        }
+      },
+      "formatted_address": "Barno, Hausari 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8388602,13.1547756",
+      "google_place_id": "ChIJqcrOhTifBBERk-SU9p5IWj0"
+    }
   },
   {
     "id": "33294",
@@ -1085,7 +1920,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8229302,
+      "longitude": 13.1546374,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82428002989272,
+          "lng": 13.15598722989272
+        },
+        "southwest": {
+          "lat": 11.82158037010728,
+          "lng": 13.15328757010728
+        }
+      },
+      "formatted_address": "R5F3+5VC, Magaram Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8229302,13.1546374",
+      "google_place_id": "ChIJDSg_3_ufBBER4dnmfhE2uUU"
+    }
   },
   {
     "id": "33295",
@@ -1101,7 +1953,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8491159,
+      "longitude": 13.1584053,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85059972989272,
+          "lng": 13.15971247989272
+        },
+        "southwest": {
+          "lat": 11.84790007010728,
+          "lng": 13.15701282010728
+        }
+      },
+      "formatted_address": "R5X5+J9R, lawan bukar, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8491159,13.1584053",
+      "google_place_id": "ChIJa0DDT0afBBERIHJNEPUA9GY"
+    }
   },
   {
     "id": "33296",
@@ -1117,7 +1986,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8572282,
+      "longitude": 13.2088669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85827342989272,
+          "lng": 13.21030487989272
+        },
+        "southwest": {
+          "lat": 11.85557377010728,
+          "lng": 13.20760522010728
+        }
+      },
+      "formatted_address": "V645+VGX, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8572282,13.2088669",
+      "google_place_id": "ChIJWwUYWS-iBBERFLsJJITzv4g"
+    }
   },
   {
     "id": "33297",
@@ -1133,7 +2019,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33298",
@@ -1149,7 +2036,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8456791,
+      "longitude": 13.188953,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84701432989272,
+          "lng": 13.19022807989272
+        },
+        "southwest": {
+          "lat": 11.84431467010728,
+          "lng": 13.18752842010728
+        }
+      },
+      "formatted_address": "Maiduguri-Dikwa Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8456791,13.188953",
+      "google_place_id": "ChIJI2Y1-RihBBER8-O40aLnKdw"
+    }
   },
   {
     "id": "33299",
@@ -1165,7 +2069,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8569608,
+      "longitude": 13.184155,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85806562989272,
+          "lng": 13.18560467989272
+        },
+        "southwest": {
+          "lat": 11.85536597010728,
+          "lng": 13.18290502010728
+        }
+      },
+      "formatted_address": "V54M+QMJ, Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8569608,13.184155",
+      "google_place_id": "ChIJgUOPXQOiBBERMTg1bawPqBA"
+    }
   },
   {
     "id": "33300",
@@ -1181,6 +2102,23 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.804831,
+      "longitude": 13.1499328,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80624722989272,
+          "lng": 13.15128227989272
+        },
+        "southwest": {
+          "lat": 11.80354757010728,
+          "lng": 13.14858262010728
+        }
+      },
+      "formatted_address": "First line, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.804831,13.1499328",
+      "google_place_id": "ChIJR3vNw6GfBBERLlGhJN3J40M"
+    }
   }
 ]

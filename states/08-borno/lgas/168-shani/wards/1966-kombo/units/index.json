@@ -13,7 +13,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.079485,
+      "longitude": 11.8321561,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1165558,
+          "lng": 11.8840952
+        },
+        "southwest": {
+          "lat": 10.0442047,
+          "lng": 11.7801797
+        }
+      },
+      "formatted_address": "Kombo, 603107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.079485,11.8321561",
+      "google_place_id": "ChIJ98Qo9g8T_hAR9-GiOsbDGNY"
+    }
   },
   {
     "id": "35921",
@@ -29,7 +46,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.079485,
+      "longitude": 11.8321561,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1165558,
+          "lng": 11.8840952
+        },
+        "southwest": {
+          "lat": 10.0442047,
+          "lng": 11.7801797
+        }
+      },
+      "formatted_address": "Kombo, 603107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.079485,11.8321561",
+      "google_place_id": "ChIJ98Qo9g8T_hAR9-GiOsbDGNY"
+    }
   },
   {
     "id": "35922",
@@ -45,7 +79,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35923",
@@ -61,7 +96,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35924",
@@ -77,7 +113,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35925",
@@ -93,7 +130,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35926",
@@ -109,7 +147,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35927",
@@ -125,6 +164,7 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

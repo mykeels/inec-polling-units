@@ -13,7 +13,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0195517,
+      "longitude": 12.4548963,
+      "viewport": {
+        "northeast": {
+          "lat": 13.0211331,
+          "lng": 12.45635477989272
+        },
+        "southwest": {
+          "lat": 13.01843,
+          "lng": 12.45365512010728
+        }
+      },
+      "formatted_address": "602101, Malla Aminari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0195517,12.4548963",
+      "google_place_id": "ChIJ7zrpYNuSBRERMHvXa1SahYM"
+    }
   },
   {
     "id": "35454",
@@ -29,7 +46,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0999626,
+      "longitude": 12.5098213,
+      "viewport": {
+        "northeast": {
+          "lat": 13.10128362989272,
+          "lng": 12.51118857989272
+        },
+        "southwest": {
+          "lat": 13.09858397010728,
+          "lng": 12.50848892010728
+        }
+      },
+      "formatted_address": "13.10,12.51, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0999626,12.5098213",
+      "google_place_id": "ChIJnziV_DSMBRERTFwjfczbRsU"
+    }
   },
   {
     "id": "35455",
@@ -45,7 +79,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 40.9547353,
+      "longitude": -81.44893239999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.95634702989272,
+          "lng": -81.44768527010727
+        },
+        "southwest": {
+          "lat": 40.95364737010728,
+          "lng": -81.45038492989272
+        }
+      },
+      "formatted_address": "2300 Graybill Rd, Uniontown, OH 44685, United States",
+      "google_map_url": "https://maps.google.com?q=40.9547353,-81.44893239999999",
+      "google_place_id": "ChIJ3xEmNbbUNogR4Q-Xj0QhEkk"
+    }
   },
   {
     "id": "35456",
@@ -61,7 +112,8 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35457",
@@ -77,7 +129,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.2400395,
+      "longitude": 12.5724749,
+      "viewport": {
+        "northeast": {
+          "lat": 13.241014,
+          "lng": 12.57416342989272
+        },
+        "southwest": {
+          "lat": 13.2381259,
+          "lng": 12.57146377010728
+        }
+      },
+      "formatted_address": "602101, Kachalla Kelluri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.2400395,12.5724749",
+      "google_place_id": "ChIJoddg_XxiDxERUj9r1aqFCTI"
+    }
   },
   {
     "id": "35458",
@@ -93,7 +162,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8262757,
+      "longitude": 12.85418,
+      "viewport": {
+        "northeast": {
+          "lat": 12.82752437989272,
+          "lng": 12.85559072989272
+        },
+        "southwest": {
+          "lat": 12.82482472010728,
+          "lng": 12.85289107010728
+        }
+      },
+      "formatted_address": "602102, Meleri Duttumiri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8262757,12.85418",
+      "google_place_id": "ChIJpQuT0h0LBRERe3GS2Gea4ms"
+    }
   },
   {
     "id": "35459",
@@ -109,7 +195,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.1036272,
+      "longitude": 12.5085505,
+      "viewport": {
+        "northeast": {
+          "lat": 13.10497222989272,
+          "lng": 12.50990547989272
+        },
+        "southwest": {
+          "lat": 13.10227257010728,
+          "lng": 12.50720582010728
+        }
+      },
+      "formatted_address": "4G35+FC9, 602101, Damasak, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.1036272,12.5085505",
+      "google_place_id": "ChIJz5XZdTaMBRER9L4ueu7P0ng"
+    }
   },
   {
     "id": "35460",
@@ -125,7 +228,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8537894,
+      "longitude": 12.7569701,
+      "viewport": {
+        "northeast": {
+          "lat": 12.8546221,
+          "lng": 12.75842282989272
+        },
+        "southwest": {
+          "lat": 12.8518889,
+          "lng": 12.75572317010728
+        }
+      },
+      "formatted_address": "602102, Umarti Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8537894,12.7569701",
+      "google_place_id": "ChIJxSkecdOhBRERXqqPhGsAQZ8"
+    }
   },
   {
     "id": "35461",
@@ -141,6 +261,23 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0999626,
+      "longitude": 12.5098213,
+      "viewport": {
+        "northeast": {
+          "lat": 13.10128362989272,
+          "lng": 12.51118857989272
+        },
+        "southwest": {
+          "lat": 13.09858397010728,
+          "lng": 12.50848892010728
+        }
+      },
+      "formatted_address": "13.10,12.51, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0999626,12.5098213",
+      "google_place_id": "ChIJnziV_DSMBRERTFwjfczbRsU"
+    }
   }
 ]

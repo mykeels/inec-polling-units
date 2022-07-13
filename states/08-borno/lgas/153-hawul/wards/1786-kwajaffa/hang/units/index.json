@@ -13,7 +13,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4754292,
+      "longitude": 12.4156707,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47650127989272,
+          "lng": 12.41656332989272
+        },
+        "southwest": {
+          "lat": 10.47380162010728,
+          "lng": 12.41386367010728
+        }
+      },
+      "formatted_address": "603106, Kwajaffa Bura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4754292,12.4156707",
+      "google_place_id": "ChIJOaKXp6IMAhERxfzoi0q6hfk"
+    }
   },
   {
     "id": "32984",
@@ -29,7 +46,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4754292,
+      "longitude": 12.4156707,
+      "viewport": {
+        "northeast": {
+          "lat": 10.47650127989272,
+          "lng": 12.41656332989272
+        },
+        "southwest": {
+          "lat": 10.47380162010728,
+          "lng": 12.41386367010728
+        }
+      },
+      "formatted_address": "603106, Kwajaffa Bura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4754292,12.4156707",
+      "google_place_id": "ChIJOaKXp6IMAhERxfzoi0q6hfk"
+    }
   },
   {
     "id": "32985",
@@ -45,7 +79,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.466923,
+      "longitude": 12.4173778,
+      "viewport": {
+        "northeast": {
+          "lat": 10.46832862989272,
+          "lng": 12.41879287989272
+        },
+        "southwest": {
+          "lat": 10.46562897010728,
+          "lng": 12.41609322010728
+        }
+      },
+      "formatted_address": "FC88+QX6, 603106, Kwojeffa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.466923,12.4173778",
+      "google_place_id": "ChIJMWh1UKAMAhER77vNyz6Ohic"
+    }
   },
   {
     "id": "32986",
@@ -61,7 +112,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5389995,
+      "longitude": 12.421894,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54033357989272,
+          "lng": 12.42324982989272
+        },
+        "southwest": {
+          "lat": 10.53763392010728,
+          "lng": 12.42055017010728
+        }
+      },
+      "formatted_address": "Garbwala Primary School, 603106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5389995,12.421894",
+      "google_place_id": "ChIJ90AuYkQNAhERNz-DUJql_Mo"
+    }
   },
   {
     "id": "32987",
@@ -77,7 +145,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6112596,
+      "longitude": 12.4928069,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61252622989272,
+          "lng": 12.49395802989272
+        },
+        "southwest": {
+          "lat": 10.60982657010728,
+          "lng": 12.49125837010728
+        }
+      },
+      "formatted_address": "JF6V+G43, 603106, Babalwada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6112596,12.4928069",
+      "google_place_id": "ChIJIXKUhlxsAhERBv0__k71FmU"
+    }
   },
   {
     "id": "32988",
@@ -93,7 +178,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6585403,
+      "longitude": 12.462331,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65988532989272,
+          "lng": 12.46364637989272
+        },
+        "southwest": {
+          "lat": 10.65718567010728,
+          "lng": 12.46094672010728
+        }
+      },
+      "formatted_address": "601103, Dalwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6585403,12.462331",
+      "google_place_id": "ChIJT7QXZ2prAhERTT8gOeOh9Tc"
+    }
   },
   {
     "id": "32989",
@@ -109,7 +211,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32990",
@@ -125,7 +228,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32991",
@@ -141,7 +245,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5695552,
+      "longitude": 12.4613446,
+      "viewport": {
+        "northeast": {
+          "lat": 10.57075677989272,
+          "lng": 12.46284427989272
+        },
+        "southwest": {
+          "lat": 10.56805712010728,
+          "lng": 12.46014462010728
+        }
+      },
+      "formatted_address": "HF96+RGH, 603106, Haran Ali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5695552,12.4613446",
+      "google_place_id": "ChIJl54KdGptAhERUnvxxxhGEso"
+    }
   },
   {
     "id": "32992",
@@ -157,7 +278,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.489628,
+      "longitude": 12.413738,
+      "viewport": {
+        "northeast": {
+          "lat": 10.49149722989272,
+          "lng": 12.41516957989272
+        },
+        "southwest": {
+          "lat": 10.48879757010728,
+          "lng": 12.41246992010728
+        }
+      },
+      "formatted_address": "Hse 65 Tashan Alade Ward Bakin Tasha Borno State B, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.489628,12.413738",
+      "google_place_id": "ChIJg7KFcPQNAhERM-ViSRzZLeg"
+    }
   },
   {
     "id": "32993",
@@ -173,7 +311,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.489628,
+      "longitude": 12.413738,
+      "viewport": {
+        "northeast": {
+          "lat": 10.49149722989272,
+          "lng": 12.41516957989272
+        },
+        "southwest": {
+          "lat": 10.48879757010728,
+          "lng": 12.41246992010728
+        }
+      },
+      "formatted_address": "Hse 65 Tashan Alade Ward Bakin Tasha Borno State B, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.489628,12.413738",
+      "google_place_id": "ChIJg7KFcPQNAhERM-ViSRzZLeg"
+    }
   },
   {
     "id": "32994",
@@ -189,7 +344,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.0764025,
+      "longitude": 12.0390302,
+      "viewport": {
+        "northeast": {
+          "lat": 10.07775987989272,
+          "lng": 12.04041322989272
+        },
+        "southwest": {
+          "lat": 10.07506022010728,
+          "lng": 12.03771357010728
+        }
+      },
+      "formatted_address": "Hse 65 Tashan Alade Ward Bakin Tasha Borno State B, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0764025,12.0390302",
+      "google_place_id": "ChIJr8OUyL8L_hARkB1RIrRUriQ"
+    }
   },
   {
     "id": "32995",
@@ -205,7 +377,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.6195661,
+      "longitude": 12.172522,
+      "viewport": {
+        "northeast": {
+          "lat": 10.62092697989272,
+          "lng": 12.17392927989272
+        },
+        "southwest": {
+          "lat": 10.61822732010728,
+          "lng": 12.17122962010728
+        }
+      },
+      "formatted_address": "J59F+R2C, 603108, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6195661,12.172522",
+      "google_place_id": "ChIJxYC730cbAhERoBFMwDW8VDk"
+    }
   },
   {
     "id": "32996",
@@ -221,7 +410,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4292841,
+      "longitude": 12.5445075,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43063392989272,
+          "lng": 12.54585732989272
+        },
+        "southwest": {
+          "lat": 10.42793427010728,
+          "lng": 12.54315767010728
+        }
+      },
+      "formatted_address": "CGHV+PR6, 603106, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4292841,12.5445075",
+      "google_place_id": "ChIJL-phqZF2AhERjKLELw9jLS4"
+    }
   },
   {
     "id": "32997",
@@ -237,7 +443,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32998",
@@ -253,7 +460,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32999",
@@ -269,7 +477,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4956554,
+      "longitude": 12.4128208,
+      "viewport": {
+        "northeast": {
+          "lat": 10.49707457989272,
+          "lng": 12.41431517989272
+        },
+        "southwest": {
+          "lat": 10.49437492010728,
+          "lng": 12.41161552010728
+        }
+      },
+      "formatted_address": "FCW7+748, 603106, Kwajaffa Babur, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4956554,12.4128208",
+      "google_place_id": "ChIJYWkyUugMAhER08i2noGqeCI"
+    }
   },
   {
     "id": "33000",
@@ -285,7 +510,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33001",
@@ -301,7 +527,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33002",
@@ -317,7 +544,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5654865,
+      "longitude": 12.2685919,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56684037989272,
+          "lng": 12.26994472989272
+        },
+        "southwest": {
+          "lat": 10.56414072010728,
+          "lng": 12.26724507010728
+        }
+      },
+      "formatted_address": "H789+5CW, 603105, Gonga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5654865,12.2685919",
+      "google_place_id": "ChIJ05gUxBsRAhERGBAz3sne7z4"
+    }
   },
   {
     "id": "33003",
@@ -333,6 +577,7 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

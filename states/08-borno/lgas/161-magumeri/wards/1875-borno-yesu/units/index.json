@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2693286,
+      "longitude": 12.5831453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.27064017989272,
+          "lng": 12.58441972989272
+        },
+        "southwest": {
+          "lat": 12.26794052010728,
+          "lng": 12.58172007010728
+        }
+      },
+      "formatted_address": "Borno Yesu Primary School, 602104, Bornu Yassu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2693286,12.5831453",
+      "google_place_id": "ChIJi9rZ5vBEBBER7nzCfW8yZHk"
+    }
   },
   {
     "id": "34300",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1976998,
+      "longitude": 12.4839212,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5210305,
+          "lng": 12.6499813
+        },
+        "southwest": {
+          "lat": 12.0387051,
+          "lng": 12.3304743
+        }
+      },
+      "formatted_address": "Borno Yesu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1976998,12.4839212",
+      "google_place_id": "ChIJHSbXjftGBBERWlrixVFkdDc"
+    }
   },
   {
     "id": "34301",
@@ -45,7 +79,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "34302",
@@ -61,7 +112,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34303",
@@ -77,7 +129,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "34304",
@@ -93,7 +162,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34305",
@@ -109,7 +179,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34306",
@@ -125,6 +196,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1976998,
+      "longitude": 12.4839212,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5210305,
+          "lng": 12.6499813
+        },
+        "southwest": {
+          "lat": 12.0387051,
+          "lng": 12.3304743
+        }
+      },
+      "formatted_address": "Borno Yesu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1976998,12.4839212",
+      "google_place_id": "ChIJHSbXjftGBBERWlrixVFkdDc"
+    }
   }
 ]

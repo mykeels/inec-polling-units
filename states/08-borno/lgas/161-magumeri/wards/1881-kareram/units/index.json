@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1975883,
+      "longitude": 12.7704418,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2017059,
+          "lng": 12.772435
+        },
+        "southwest": {
+          "lat": 12.1943689,
+          "lng": 12.7641019
+        }
+      },
+      "formatted_address": "602104, Galtaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1975883,12.7704418",
+      "google_place_id": "ChIJ0bwA_RpfBBERZ2w8DTFVdHg"
+    }
   },
   {
     "id": "34349",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1619967,
+      "longitude": 12.8049362,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1633341,
+          "lng": 12.80627427989272
+        },
+        "southwest": {
+          "lat": 12.16048,
+          "lng": 12.80357462010728
+        }
+      },
+      "formatted_address": "602104, Dungari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1619967,12.8049362",
+      "google_place_id": "ChIJ2YdgmIpfBBER0W6QYGvWDJA"
+    }
   },
   {
     "id": "34350",
@@ -45,7 +79,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34351",
@@ -61,6 +96,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8367261,
+      "longitude": 13.1440425,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83807527989272,
+          "lng": 13.14538577989272
+        },
+        "southwest": {
+          "lat": 11.83537562010728,
+          "lng": 13.14268612010728
+        }
+      },
+      "formatted_address": "600282, Maiduguri&nbsp, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8367261,13.1440425",
+      "google_place_id": "ChIJtfkJOjyfBBER4k-rRzAvI4Y"
+    }
   }
 ]

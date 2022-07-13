@@ -13,7 +13,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3992225,
+      "longitude": 13.4280586,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5114289,
+          "lng": 13.5150227
+        },
+        "southwest": {
+          "lat": 12.344586,
+          "lng": 13.3598417
+        }
+      },
+      "formatted_address": "Sure, 612101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3992225,13.4280586",
+      "google_place_id": "ChIJAUF_jWTWBBERxTa_aG2a2_Q"
+    }
   },
   {
     "id": "35596",
@@ -29,7 +46,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4357459,
+      "longitude": 13.4053056,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43682982989272,
+          "lng": 13.40688
+        },
+        "southwest": {
+          "lat": 12.43413017010728,
+          "lng": 13.4032691
+        }
+      },
+      "formatted_address": "612101, Goso Goniri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4357459,13.4053056",
+      "google_place_id": "ChIJPZZtNU3WBBEReHD9uNee5js"
+    }
   },
   {
     "id": "35597",
@@ -45,7 +79,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8469059,
+      "longitude": 13.1582888,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84842852989272,
+          "lng": 13.15958092989272
+        },
+        "southwest": {
+          "lat": 11.84572887010728,
+          "lng": 13.15688127010728
+        }
+      },
+      "formatted_address": "Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8469059,13.1582888",
+      "google_place_id": "ChIJFSU-A0yfBBERKQdyPQo4AQo"
+    }
   },
   {
     "id": "35598",
@@ -61,7 +112,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "35599",
@@ -77,6 +145,7 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.854167,
+      "longitude": 13.0838889,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85518557989272,
+          "lng": 13.08555867989272
+        },
+        "southwest": {
+          "lat": 11.85248592010728,
+          "lng": 13.08285902010728
+        }
+      },
+      "formatted_address": "V33M+MH6, Airport Road, 151571, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.854167,13.0838889",
+      "google_place_id": "ChIJMxBSBQCcBBER-LqwYGEF6fM"
+    }
   },
   {
     "id": "34295",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3911615,
+      "longitude": 12.493777,
+      "viewport": {
+        "northeast": {
+          "lat": 12.396313,
+          "lng": 12.5049071
+        },
+        "southwest": {
+          "lat": 12.3874239,
+          "lng": 12.4932689
+        }
+      },
+      "formatted_address": "Yasku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3911615,12.493777",
+      "google_place_id": "ChIJkfr4zhtJBBER6aaoPeCEcfk"
+    }
   },
   {
     "id": "34296",
@@ -45,7 +79,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34297",
@@ -61,7 +96,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8023735,
+      "longitude": 13.1930808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80373697989272,
+          "lng": 13.19441857989272
+        },
+        "southwest": {
+          "lat": 11.80103732010728,
+          "lng": 13.19171892010728
+        }
+      },
+      "formatted_address": "University of Maiduguri, 1069 Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8023735,13.1930808",
+      "google_place_id": "ChIJ2VANJlqgBBERuzm_Hf5oVzs"
+    }
   },
   {
     "id": "34298",
@@ -77,6 +129,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8023735,
+      "longitude": 13.1930808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80373697989272,
+          "lng": 13.19441857989272
+        },
+        "southwest": {
+          "lat": 11.80103732010728,
+          "lng": 13.19171892010728
+        }
+      },
+      "formatted_address": "University of Maiduguri, 1069 Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8023735,13.1930808",
+      "google_place_id": "ChIJ2VANJlqgBBERuzm_Hf5oVzs"
+    }
   }
 ]

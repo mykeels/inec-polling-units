@@ -13,7 +13,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.893664,
+      "longitude": 13.7057493,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0119062,
+          "lng": 13.7961027
+        },
+        "southwest": {
+          "lat": 11.7802976,
+          "lng": 13.5878037
+        }
+      },
+      "formatted_address": "Anadua, 611104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.893664,13.7057493",
+      "google_place_id": "ChIJ1_GtsDdQGxERAewvvpgqyco"
+    }
   },
   {
     "id": "34170",
@@ -29,7 +46,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.023677,
+      "longitude": 13.963706,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02525862989272,
+          "lng": 13.96502462989272
+        },
+        "southwest": {
+          "lat": 12.02255897010728,
+          "lng": 13.96232497010728
+        }
+      },
+      "formatted_address": "2XF7+FFG, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.023677,13.963706",
+      "google_place_id": "ChIJvaDf97JrGxERM2wTG2oWeoQ"
+    }
   },
   {
     "id": "34171",
@@ -45,7 +79,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.023677,
+      "longitude": 13.963706,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02525862989272,
+          "lng": 13.96502462989272
+        },
+        "southwest": {
+          "lat": 12.02255897010728,
+          "lng": 13.96232497010728
+        }
+      },
+      "formatted_address": "2XF7+FFG, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.023677,13.963706",
+      "google_place_id": "ChIJvaDf97JrGxERM2wTG2oWeoQ"
+    }
   },
   {
     "id": "34172",
@@ -61,7 +112,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8312281,
+      "longitude": 13.1509899,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83258607989272,
+          "lng": 13.15233272989272
+        },
+        "southwest": {
+          "lat": 11.82988642010728,
+          "lng": 13.14963307010728
+        }
+      },
+      "formatted_address": "R5J2+F99, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8312281,13.1509899",
+      "google_place_id": "ChIJf8bgC6CfBBERX2sJ7rzOghs"
+    }
   },
   {
     "id": "34173",
@@ -77,7 +145,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34174",
@@ -93,7 +162,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34175",
@@ -109,6 +179,23 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8332864,
+      "longitude": 13.1867236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83436902989272,
+          "lng": 13.18809572989272
+        },
+        "southwest": {
+          "lat": 11.83166937010728,
+          "lng": 13.18539607010728
+        }
+      },
+      "formatted_address": "R5MP+8M9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8332864,13.1867236",
+      "google_place_id": "ChIJDTQMlOihBBERKpA91hyD_94"
+    }
   }
 ]

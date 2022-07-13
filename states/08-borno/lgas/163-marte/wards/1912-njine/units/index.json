@@ -13,7 +13,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3093883,
+      "longitude": 13.8362536,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31077272989272,
+          "lng": 13.83757067989272
+        },
+        "southwest": {
+          "lat": 12.30807307010728,
+          "lng": 13.83487102010728
+        }
+      },
+      "formatted_address": "Njine Primary School, 611105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3093883,13.8362536",
+      "google_place_id": "ChIJ71UeTXYjGxERb9kcvR-13_I"
+    }
   },
   {
     "id": "35393",
@@ -29,7 +46,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3640592,
+      "longitude": 13.8277397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36542077989272,
+          "lng": 13.82908142989272
+        },
+        "southwest": {
+          "lat": 12.36272112010728,
+          "lng": 13.82638177010728
+        }
+      },
+      "formatted_address": "9R7H+J3H, 611105, Marte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3640592,13.8277397",
+      "google_place_id": "ChIJF2qnTtghGxERm5me7w3qPQg"
+    }
   },
   {
     "id": "35394",
@@ -45,7 +79,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2796598,
+      "longitude": 13.8205393,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28113482989272,
+          "lng": 13.82170182989272
+        },
+        "southwest": {
+          "lat": 12.27843517010728,
+          "lng": 13.81900217010728
+        }
+      },
+      "formatted_address": "611105, Maje Malumri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2796598,13.8205393",
+      "google_place_id": "ChIJRepM6qckGxERkg0EGS8x01c"
+    }
   },
   {
     "id": "35395",
@@ -61,7 +112,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3640592,
+      "longitude": 13.8277397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.368258,
+          "lng": 13.832991
+        },
+        "southwest": {
+          "lat": 12.3573679,
+          "lng": 13.814935
+        }
+      },
+      "formatted_address": "611105, Marte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3640592,13.8277397",
+      "google_place_id": "ChIJtZMYQ1ohGxERfqe-WxLjyf0"
+    }
   },
   {
     "id": "35396",
@@ -77,7 +145,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35397",
@@ -93,7 +162,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7911715,
+      "longitude": 13.1175759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79263822989272,
+          "lng": 13.11893672989272
+        },
+        "southwest": {
+          "lat": 11.78993857010728,
+          "lng": 13.11623707010728
+        }
+      },
+      "formatted_address": "Q4R9+F28, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7911715,13.1175759",
+      "google_place_id": "ChIJ9y92jEieBBERK-8m09vRLS0"
+    }
   },
   {
     "id": "35398",
@@ -109,7 +195,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7911715,
+      "longitude": 13.1175759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79263822989272,
+          "lng": 13.11893672989272
+        },
+        "southwest": {
+          "lat": 11.78993857010728,
+          "lng": 13.11623707010728
+        }
+      },
+      "formatted_address": "Q4R9+F28, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7911715,13.1175759",
+      "google_place_id": "ChIJ9y92jEieBBERK-8m09vRLS0"
+    }
   },
   {
     "id": "35399",
@@ -125,7 +228,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35400",
@@ -141,6 +245,7 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33023",
@@ -29,7 +30,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4279922,
+      "longitude": 12.141617,
+      "viewport": {
+        "northeast": {
+          "lat": 10.42944352989272,
+          "lng": 12.14290967989272
+        },
+        "southwest": {
+          "lat": 10.42674387010728,
+          "lng": 12.14021002010728
+        }
+      },
+      "formatted_address": "C4HR+5JX, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4279922,12.141617",
+      "google_place_id": "ChIJW8TXOd4AAhER-ufd1kVBXpw"
+    }
   },
   {
     "id": "33024",
@@ -45,7 +63,8 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33025",
@@ -61,7 +80,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4379777,
+      "longitude": 12.119505,
+      "viewport": {
+        "northeast": {
+          "lat": 10.43919032989272,
+          "lng": 12.12100737989272
+        },
+        "southwest": {
+          "lat": 10.43649067010728,
+          "lng": 12.11830772010728
+        }
+      },
+      "formatted_address": "603112, Piti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4379777,12.119505",
+      "google_place_id": "ChIJDVuvMgcBAhER2-mVa7Z9JbY"
+    }
   },
   {
     "id": "33026",
@@ -77,7 +113,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4010557,
+      "longitude": 12.1611278,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4077021,
+          "lng": 12.1635461
+        },
+        "southwest": {
+          "lat": 10.399924,
+          "lng": 12.156602
+        }
+      },
+      "formatted_address": "603112, Humusu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4010557,12.1611278",
+      "google_place_id": "ChIJebuofLQAAhERVhCAoAMoGIg"
+    }
   },
   {
     "id": "33027",
@@ -93,7 +146,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.41159,
+      "longitude": 12.1739929,
+      "viewport": {
+        "northeast": {
+          "lat": 10.413535,
+          "lng": 12.1791019
+        },
+        "southwest": {
+          "lat": 10.4088129,
+          "lng": 12.172435
+        }
+      },
+      "formatted_address": "603112, Pirkisu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.41159,12.1739929",
+      "google_place_id": "ChIJJ80BzDkHAhERESfwEvZX-oM"
+    }
   },
   {
     "id": "33028",
@@ -109,7 +179,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4200211,
+      "longitude": 12.1518372,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4773349,
+          "lng": 12.1872248
+        },
+        "southwest": {
+          "lat": 10.3659685,
+          "lng": 12.1103075
+        }
+      },
+      "formatted_address": "Marama/Kidang, 603112, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4200211,12.1518372",
+      "google_place_id": "ChIJF3UFH9sAAhERaSotAH-Syn8"
+    }
   },
   {
     "id": "33029",
@@ -125,7 +212,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4200211,
+      "longitude": 12.1518372,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4773349,
+          "lng": 12.1872248
+        },
+        "southwest": {
+          "lat": 10.3659685,
+          "lng": 12.1103075
+        }
+      },
+      "formatted_address": "Marama/Kidang, 603112, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4200211,12.1518372",
+      "google_place_id": "ChIJF3UFH9sAAhERaSotAH-Syn8"
+    }
   },
   {
     "id": "33030",
@@ -141,7 +245,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4200211,
+      "longitude": 12.1518372,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4773349,
+          "lng": 12.1872248
+        },
+        "southwest": {
+          "lat": 10.3659685,
+          "lng": 12.1103075
+        }
+      },
+      "formatted_address": "Marama/Kidang, 603112, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4200211,12.1518372",
+      "google_place_id": "ChIJF3UFH9sAAhERaSotAH-Syn8"
+    }
   },
   {
     "id": "33031",
@@ -157,7 +278,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4548226,
+      "longitude": 12.1622692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45625927989272,
+          "lng": 12.16343122989272
+        },
+        "southwest": {
+          "lat": 10.45355962010728,
+          "lng": 12.16073157010728
+        }
+      },
+      "formatted_address": "F536+WWC, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4548226,12.1622692",
+      "google_place_id": "ChIJkRF42gIBAhERYepuOKRx8bA"
+    }
   },
   {
     "id": "33032",
@@ -173,7 +311,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4200211,
+      "longitude": 12.1518372,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4773349,
+          "lng": 12.1872248
+        },
+        "southwest": {
+          "lat": 10.3659685,
+          "lng": 12.1103075
+        }
+      },
+      "formatted_address": "Marama/Kidang, 603112, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4200211,12.1518372",
+      "google_place_id": "ChIJF3UFH9sAAhERaSotAH-Syn8"
+    }
   },
   {
     "id": "33033",
@@ -189,7 +344,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4548226,
+      "longitude": 12.1622692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45625927989272,
+          "lng": 12.16343122989272
+        },
+        "southwest": {
+          "lat": 10.45355962010728,
+          "lng": 12.16073157010728
+        }
+      },
+      "formatted_address": "F536+WWC, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4548226,12.1622692",
+      "google_place_id": "ChIJkRF42gIBAhERYepuOKRx8bA"
+    }
   },
   {
     "id": "33034",
@@ -205,7 +377,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4548226,
+      "longitude": 12.1622692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45625927989272,
+          "lng": 12.16343122989272
+        },
+        "southwest": {
+          "lat": 10.45355962010728,
+          "lng": 12.16073157010728
+        }
+      },
+      "formatted_address": "F536+WWC, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4548226,12.1622692",
+      "google_place_id": "ChIJkRF42gIBAhERYepuOKRx8bA"
+    }
   },
   {
     "id": "33035",
@@ -221,7 +410,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4887884,
+      "longitude": 12.1858767,
+      "viewport": {
+        "northeast": {
+          "lat": 10.49016287989272,
+          "lng": 12.18725782989272
+        },
+        "southwest": {
+          "lat": 10.48746322010728,
+          "lng": 12.18455817010728
+        }
+      },
+      "formatted_address": "603105, Wabara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4887884,12.1858767",
+      "google_place_id": "ChIJdyMRIRYEAhER7nNWslaEQVo"
+    }
   },
   {
     "id": "33036",
@@ -237,7 +443,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4538348,
+      "longitude": 12.1566369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45498372989272,
+          "lng": 12.15830342989272
+        },
+        "southwest": {
+          "lat": 10.45228407010728,
+          "lng": 12.15560377010728
+        }
+      },
+      "formatted_address": "Marama/Kidang, 603112, Ahmadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4538348,12.1566369",
+      "google_place_id": "ChIJB7fl7kkBAhERKsxuF18983M"
+    }
   },
   {
     "id": "33037",
@@ -253,7 +476,24 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4548226,
+      "longitude": 12.1622692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45625927989272,
+          "lng": 12.16343122989272
+        },
+        "southwest": {
+          "lat": 10.45355962010728,
+          "lng": 12.16073157010728
+        }
+      },
+      "formatted_address": "F536+WWC, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4548226,12.1622692",
+      "google_place_id": "ChIJkRF42gIBAhERYepuOKRx8bA"
+    }
   },
   {
     "id": "33038",
@@ -269,6 +509,23 @@
     "local_government_id": "153",
     "local_government_name": "HAWUL",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4548226,
+      "longitude": 12.1622692,
+      "viewport": {
+        "northeast": {
+          "lat": 10.45625927989272,
+          "lng": 12.16343122989272
+        },
+        "southwest": {
+          "lat": 10.45355962010728,
+          "lng": 12.16073157010728
+        }
+      },
+      "formatted_address": "F536+WWC, 603112, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4548226,12.1622692",
+      "google_place_id": "ChIJkRF42gIBAhERYepuOKRx8bA"
+    }
   }
 ]

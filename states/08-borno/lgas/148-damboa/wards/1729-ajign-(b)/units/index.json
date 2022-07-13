@@ -13,7 +13,8 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32097",
@@ -29,7 +30,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.1560843,
+      "longitude": 12.7566109,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1680238,
+          "lng": 12.7729301
+        },
+        "southwest": {
+          "lat": 11.1384313,
+          "lng": 12.7467154
+        }
+      },
+      "formatted_address": "601106, Damboa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1560843,12.7566109",
+      "google_place_id": "ChIJFYVQKn6pAxERaBUhTTz-72o"
+    }
   },
   {
     "id": "32098",
@@ -45,7 +63,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.1447044,
+      "longitude": 13.0817903,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4980669,
+          "lng": 13.3572764
+        },
+        "southwest": {
+          "lat": 10.8097905,
+          "lng": 12.1011934
+        }
+      },
+      "formatted_address": "Damboa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1447044,13.0817903",
+      "google_place_id": "ChIJa-LccuSrAxERsCn1iPJDYDE"
+    }
   },
   {
     "id": "32099",
@@ -61,7 +96,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.224315,
+      "longitude": 12.311616,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2264477,
+          "lng": 12.3160806
+        },
+        "southwest": {
+          "lat": 11.2236041,
+          "lng": 12.3101278
+        }
+      },
+      "formatted_address": "68F6+PJH, 601101, Talagala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.224315,12.311616",
+      "google_place_id": "ChIJv66R0QLPAxERaGu02QVCfSk"
+    }
   },
   {
     "id": "32100",
@@ -77,7 +129,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8089459,
+      "longitude": 13.1371811,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81028187989272,
+          "lng": 13.13855962989272
+        },
+        "southwest": {
+          "lat": 11.80758222010728,
+          "lng": 13.13585997010728
+        }
+      },
+      "formatted_address": "R45P+HVF, Damboa Rd, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8089459,13.1371811",
+      "google_place_id": "ChIJV4zlxzCfBBERPcgZn41TmGs"
+    }
   },
   {
     "id": "32101",
@@ -93,7 +162,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.1560843,
+      "longitude": 12.7566109,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1680238,
+          "lng": 12.7729301
+        },
+        "southwest": {
+          "lat": 11.1384313,
+          "lng": 12.7467154
+        }
+      },
+      "formatted_address": "601106, Damboa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1560843,12.7566109",
+      "google_place_id": "ChIJFYVQKn6pAxERaBUhTTz-72o"
+    }
   },
   {
     "id": "32102",
@@ -109,7 +195,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.137433,
+      "longitude": 12.2090224,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2802811,
+          "lng": 12.5127784
+        },
+        "southwest": {
+          "lat": 10.9010751,
+          "lng": 12.1018496
+        }
+      },
+      "formatted_address": "Ajign (A), Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.137433,12.2090224",
+      "google_place_id": "ChIJFXBMadPMAxERRvnzxxskDy0"
+    }
   },
   {
     "id": "32103",
@@ -125,7 +228,24 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8348838,
+      "longitude": 13.0671591,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83623007989272,
+          "lng": 13.06853542989272
+        },
+        "southwest": {
+          "lat": 11.83353042010728,
+          "lng": 13.06583577010728
+        }
+      },
+      "formatted_address": "R3M8+XV3, Unnamed Road, 610111, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8348838,13.0671591",
+      "google_place_id": "ChIJy9zWlHKdBBERW5WZ0MnjJ78"
+    }
   },
   {
     "id": "32104",
@@ -141,6 +261,23 @@
     "local_government_id": "148",
     "local_government_name": "DAMBOA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   }
 ]

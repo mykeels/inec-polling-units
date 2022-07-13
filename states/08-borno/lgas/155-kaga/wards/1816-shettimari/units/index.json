@@ -13,7 +13,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33577",
@@ -29,7 +30,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33578",
@@ -45,7 +47,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1363303,
+      "longitude": 12.7395491,
+      "viewport": {
+        "northeast": {
+          "lat": 12.13766287989272,
+          "lng": 12.74100727989272
+        },
+        "southwest": {
+          "lat": 12.13496322010728,
+          "lng": 12.73830762010728
+        }
+      },
+      "formatted_address": "602104, Ngurmai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1363303,12.7395491",
+      "google_place_id": "ChIJN4me2Z5gBBERlWefRWFi7Pk"
+    }
   },
   {
     "id": "33579",
@@ -61,6 +80,23 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1363303,
+      "longitude": 12.7395491,
+      "viewport": {
+        "northeast": {
+          "lat": 12.13766287989272,
+          "lng": 12.74100727989272
+        },
+        "southwest": {
+          "lat": 12.13496322010728,
+          "lng": 12.73830762010728
+        }
+      },
+      "formatted_address": "602104, Ngurmai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1363303,12.7395491",
+      "google_place_id": "ChIJN4me2Z5gBBERlWefRWFi7Pk"
+    }
   }
 ]

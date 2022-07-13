@@ -13,7 +13,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33556",
@@ -29,7 +30,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33557",
@@ -45,7 +47,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33558",
@@ -61,7 +64,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 43.5571739,
+      "longitude": -80.4693032,
+      "viewport": {
+        "northeast": {
+          "lat": 43.55853072989272,
+          "lng": -80.46800827010728
+        },
+        "southwest": {
+          "lat": 43.55583107010728,
+          "lng": -80.47070792989273
+        }
+      },
+      "formatted_address": "28 Katherine St S, West Montrose, ON N0B 2V0, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5571739,-80.4693032",
+      "google_place_id": "ChIJ5SZfLVvtK4gR6Dtgn_pzY9Y"
+    }
   },
   {
     "id": "33559",
@@ -77,6 +97,7 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

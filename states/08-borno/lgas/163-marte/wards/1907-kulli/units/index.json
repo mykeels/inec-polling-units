@@ -13,7 +13,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
   },
   {
     "id": "35330",
@@ -29,7 +46,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8051383,
+      "longitude": 13.1732618,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80661382989272,
+          "lng": 13.17477852989272
+        },
+        "southwest": {
+          "lat": 11.80391417010728,
+          "lng": 13.17207887010728
+        }
+      },
+      "formatted_address": "primary school, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8051383,13.1732618",
+      "google_place_id": "ChIJa02VYoCfBBERGwA6yJ6BYRE"
+    }
   },
   {
     "id": "35331",
@@ -45,7 +79,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35332",
@@ -61,7 +96,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35333",
@@ -77,7 +113,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35334",
@@ -93,7 +130,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35335",
@@ -109,7 +147,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35336",
@@ -125,7 +164,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3451011,
+      "longitude": 13.6131203,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4170302,
+          "lng": 13.7244755
+        },
+        "southwest": {
+          "lat": 12.2531695,
+          "lng": 13.5074487
+        }
+      },
+      "formatted_address": "Kulli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3451011,13.6131203",
+      "google_place_id": "ChIJxcNFNTgsGxER5a5eLDnVyws"
+    }
   },
   {
     "id": "35337",
@@ -141,7 +197,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35338",
@@ -157,7 +214,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35339",
@@ -173,7 +231,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35340",
@@ -189,6 +248,7 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

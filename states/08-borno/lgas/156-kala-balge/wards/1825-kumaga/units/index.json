@@ -13,7 +13,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33636",
@@ -29,7 +30,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33637",
@@ -45,7 +47,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33638",
@@ -61,7 +64,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33639",
@@ -77,7 +81,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.75,
+      "longitude": 14.616667,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7608826,
+          "lng": 14.6326744
+        },
+        "southwest": {
+          "lat": 12.7391169,
+          "lng": 14.6006596
+        }
+      },
+      "formatted_address": "Séro Abou, Cameroon",
+      "google_map_url": "https://maps.google.com?q=12.75,14.616667",
+      "google_place_id": "ChIJA4hwDTJAGhERGlXbFsP20Lc"
+    }
   },
   {
     "id": "33640",
@@ -93,6 +114,7 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5555075,
+      "longitude": 13.1381738,
+      "viewport": {
+        "northeast": {
+          "lat": 12.558258,
+          "lng": 13.1407691
+        },
+        "southwest": {
+          "lat": 12.5538129,
+          "lng": 13.137158
+        }
+      },
+      "formatted_address": "612103, Sabsabuwa Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5555075,13.1381738",
+      "google_place_id": "ChIJ1aXc0SQfBRERCAjd6my_Xks"
+    }
   },
   {
     "id": "35838",
@@ -29,7 +46,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.554162,
+      "longitude": 13.1404267,
+      "viewport": {
+        "northeast": {
+          "lat": 12.55551182989272,
+          "lng": 13.14177652989272
+        },
+        "southwest": {
+          "lat": 12.55281217010728,
+          "lng": 13.13907687010728
+        }
+      },
+      "formatted_address": "H43R+M57, 612103, Sabsabwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.554162,13.1404267",
+      "google_place_id": "ChIJX-BfWTsfBRERNE7s98F6y20"
+    }
   },
   {
     "id": "35839",
@@ -45,7 +79,8 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35840",
@@ -61,6 +96,7 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

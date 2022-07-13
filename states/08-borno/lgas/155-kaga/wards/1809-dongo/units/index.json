@@ -13,7 +13,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.574457,
+      "longitude": 12.449235,
+      "viewport": {
+        "northeast": {
+          "lat": 11.57580682989272,
+          "lng": 12.45058482989272
+        },
+        "southwest": {
+          "lat": 11.57310717010728,
+          "lng": 12.44788517010728
+        }
+      },
+      "formatted_address": "HCFX+QMQ, 601105, Dongo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.574457,12.449235",
+      "google_place_id": "ChIJ_y9DideSAxERx5EiBOOYX30"
+    }
   },
   {
     "id": "33527",
@@ -29,7 +46,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33528",
@@ -45,6 +63,23 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.574457,
+      "longitude": 12.449235,
+      "viewport": {
+        "northeast": {
+          "lat": 11.57580682989272,
+          "lng": 12.45058482989272
+        },
+        "southwest": {
+          "lat": 11.57310717010728,
+          "lng": 12.44788517010728
+        }
+      },
+      "formatted_address": "HCFX+QMQ, 601105, Dongo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.574457,12.449235",
+      "google_place_id": "ChIJ_y9DideSAxERx5EiBOOYX30"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5247,
+      "longitude": 12.9052,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52604982989272,
+          "lng": 12.90654982989272
+        },
+        "southwest": {
+          "lat": 12.52335017010728,
+          "lng": 12.90385017010728
+        }
+      },
+      "formatted_address": "GWF4+V3G, 602102, Kingoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5247,12.9052",
+      "google_place_id": "ChIJwQRIliUCBRERcxKzM7W-l24"
+    }
   },
   {
     "id": "32458",
@@ -29,7 +46,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5247,
+      "longitude": 12.9052,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52604982989272,
+          "lng": 12.90654982989272
+        },
+        "southwest": {
+          "lat": 12.52335017010728,
+          "lng": 12.90385017010728
+        }
+      },
+      "formatted_address": "GWF4+V3G, 602102, Kingoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5247,12.9052",
+      "google_place_id": "ChIJwQRIliUCBRERcxKzM7W-l24"
+    }
   },
   {
     "id": "32459",
@@ -45,7 +79,8 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32460",
@@ -61,7 +96,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4924766,
+      "longitude": 12.8031394,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4938131,
+          "lng": 12.80434087989272
+        },
+        "southwest": {
+          "lat": 12.490758,
+          "lng": 12.80164122010728
+        }
+      },
+      "formatted_address": "602102, Mallam Kachallari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4924766,12.8031394",
+      "google_place_id": "ChIJtYf70VVVBBERXcEpDYSWKpg"
+    }
   },
   {
     "id": "32461",
@@ -77,7 +129,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.604921,
+      "longitude": 12.8592358,
+      "viewport": {
+        "northeast": {
+          "lat": 12.60627082989272,
+          "lng": 12.86058562989272
+        },
+        "southwest": {
+          "lat": 12.60357117010728,
+          "lng": 12.85788597010728
+        }
+      },
+      "formatted_address": "JV35+XM9, 602102, Digaskeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.604921,12.8592358",
+      "google_place_id": "ChIJJQhhut0GBRERwV8LdelSS1A"
+    }
   },
   {
     "id": "32462",
@@ -93,7 +162,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.604921,
+      "longitude": 12.8592358,
+      "viewport": {
+        "northeast": {
+          "lat": 12.60627082989272,
+          "lng": 12.86058562989272
+        },
+        "southwest": {
+          "lat": 12.60357117010728,
+          "lng": 12.85788597010728
+        }
+      },
+      "formatted_address": "JV35+XM9, 602102, Digaskeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.604921,12.8592358",
+      "google_place_id": "ChIJJQhhut0GBRERwV8LdelSS1A"
+    }
   },
   {
     "id": "32463",
@@ -109,7 +195,8 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32464",
@@ -125,6 +212,23 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8310981,
+      "longitude": 13.1509672,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9101269,
+          "lng": 13.2352131
+        },
+        "southwest": {
+          "lat": 11.7716731,
+          "lng": 13.028546
+        }
+      },
+      "formatted_address": "Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8310981,13.1509672",
+      "google_place_id": "ChIJW3lSm0ufBBERYQOyp2Y6k2M"
+    }
   }
 ]

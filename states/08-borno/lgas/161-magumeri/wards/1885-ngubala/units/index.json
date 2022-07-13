@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8519762,
+      "longitude": 13.1667966,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85323272989272,
+          "lng": 13.16827712989272
+        },
+        "southwest": {
+          "lat": 11.85053307010728,
+          "lng": 13.16557747010728
+        }
+      },
+      "formatted_address": "V528+QPV, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8519762,13.1667966",
+      "google_place_id": "ChIJdSUESFOfBBER_2rQ9gZipSQ"
+    }
   },
   {
     "id": "34384",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1067431,
+      "longitude": 12.8206436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.10797017989272,
+          "lng": 12.82385150000001
+        },
+        "southwest": {
+          "lat": 12.10527052010728,
+          "lng": 12.8195743
+        }
+      },
+      "formatted_address": "4R4C+M7R, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1067431,12.8206436",
+      "google_place_id": "ChIJxb8TMgOLBBER6_I3E7wWMfg"
+    }
   },
   {
     "id": "34385",
@@ -45,7 +79,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8519762,
+      "longitude": 13.1667966,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85323272989272,
+          "lng": 13.16827712989272
+        },
+        "southwest": {
+          "lat": 11.85053307010728,
+          "lng": 13.16557747010728
+        }
+      },
+      "formatted_address": "V528+QPV, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8519762,13.1667966",
+      "google_place_id": "ChIJdSUESFOfBBER_2rQ9gZipSQ"
+    }
   },
   {
     "id": "34386",
@@ -61,7 +112,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34387",
@@ -77,6 +129,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1151306,
+      "longitude": 12.8256127,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11638822989272,
+          "lng": 12.82699227989272
+        },
+        "southwest": {
+          "lat": 12.11368857010728,
+          "lng": 12.82429262010728
+        }
+      },
+      "formatted_address": "4R8G+365, 602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1151306,12.8256127",
+      "google_place_id": "ChIJ2aXPdDCLBBERC20v3L8nDjM"
+    }
   }
 ]

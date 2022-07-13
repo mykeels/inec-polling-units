@@ -13,7 +13,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32496",
@@ -29,7 +30,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32497",
@@ -45,7 +47,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32498",
@@ -61,7 +64,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6458131,
+      "longitude": 12.6483553,
+      "viewport": {
+        "northeast": {
+          "lat": 12.64715687989272,
+          "lng": 12.64969287989272
+        },
+        "southwest": {
+          "lat": 12.64445722010728,
+          "lng": 12.64699322010728
+        }
+      },
+      "formatted_address": "602102, Hassanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6458131,12.6483553",
+      "google_place_id": "ChIJDbQBm7avBRER-G5aBAHMXjs"
+    }
   },
   {
     "id": "32499",
@@ -77,6 +97,23 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8391383,
+      "longitude": 13.1712053,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84049722989272,
+          "lng": 13.17278202989272
+        },
+        "southwest": {
+          "lat": 11.83779757010728,
+          "lng": 13.17008237010728
+        }
+      },
+      "formatted_address": "R5QC+MC5, Gwange 600211, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8391383,13.1712053",
+      "google_place_id": "ChIJ42ZcrVmfBBERuRZ7oRIv_RI"
+    }
   }
 ]

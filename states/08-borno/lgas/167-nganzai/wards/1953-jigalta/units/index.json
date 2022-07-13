@@ -13,7 +13,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5963531,
+      "longitude": 13.3009828,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6304443,
+          "lng": 13.3452772
+        },
+        "southwest": {
+          "lat": 12.5485959,
+          "lng": 13.2239653
+        }
+      },
+      "formatted_address": "Jigalta, 612103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5963531,13.3009828",
+      "google_place_id": "ChIJ8SuSkGskBRERT6-FN-yFW9U"
+    }
   },
   {
     "id": "35805",
@@ -29,7 +46,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5963531,
+      "longitude": 13.3009828,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6304443,
+          "lng": 13.3452772
+        },
+        "southwest": {
+          "lat": 12.5485959,
+          "lng": 13.2239653
+        }
+      },
+      "formatted_address": "Jigalta, 612103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5963531,13.3009828",
+      "google_place_id": "ChIJ8SuSkGskBRERT6-FN-yFW9U"
+    }
   },
   {
     "id": "35806",
@@ -45,7 +79,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 9.189656,
+      "longitude": 12.375393,
+      "viewport": {
+        "northeast": {
+          "lat": 9.19096962989272,
+          "lng": 12.37681397989272
+        },
+        "southwest": {
+          "lat": 9.188269970107276,
+          "lng": 12.37411432010728
+        }
+      },
+      "formatted_address": "59QG+V56, 640284, Gaulire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.189656,12.375393",
+      "google_place_id": "ChIJ62-rzk4S_BARff_GIOXeiz4"
+    }
   },
   {
     "id": "35807",
@@ -61,7 +112,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8332864,
+      "longitude": 13.1867236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83436902989272,
+          "lng": 13.18809572989272
+        },
+        "southwest": {
+          "lat": 11.83166937010728,
+          "lng": 13.18539607010728
+        }
+      },
+      "formatted_address": "R5MP+8M9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8332864,13.1867236",
+      "google_place_id": "ChIJDTQMlOihBBERKpA91hyD_94"
+    }
   },
   {
     "id": "35808",
@@ -77,6 +145,23 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5701178,
+      "longitude": 13.302834,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57152037989272,
+          "lng": 13.30391417989272
+        },
+        "southwest": {
+          "lat": 12.56882072010728,
+          "lng": 13.30121452010728
+        }
+      },
+      "formatted_address": "H8C3+244, 612103, Damakar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5701178,13.302834",
+      "google_place_id": "ChIJrfRCES8kBRER9bNljI79FQo"
+    }
   }
 ]

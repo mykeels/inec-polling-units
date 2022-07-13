@@ -13,7 +13,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3640592,
+      "longitude": 13.8277397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36542077989272,
+          "lng": 13.82908142989272
+        },
+        "southwest": {
+          "lat": 12.36272112010728,
+          "lng": 13.82638177010728
+        }
+      },
+      "formatted_address": "9R7H+J3H, 611105, Marte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3640592,13.8277397",
+      "google_place_id": "ChIJF2qnTtghGxERm5me7w3qPQg"
+    }
   },
   {
     "id": "35360",
@@ -29,7 +46,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3640592,
+      "longitude": 13.8277397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36542077989272,
+          "lng": 13.82908142989272
+        },
+        "southwest": {
+          "lat": 12.36272112010728,
+          "lng": 13.82638177010728
+        }
+      },
+      "formatted_address": "9R7H+J3H, 611105, Marte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3640592,13.8277397",
+      "google_place_id": "ChIJF2qnTtghGxERm5me7w3qPQg"
+    }
   },
   {
     "id": "35361",
@@ -45,7 +79,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3695474,
+      "longitude": 13.7582436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.371035,
+          "lng": 13.759658
+        },
+        "southwest": {
+          "lat": 12.367146,
+          "lng": 13.7557689
+        }
+      },
+      "formatted_address": "611105, Mugum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3695474,13.7582436",
+      "google_place_id": "ChIJwXBXKHImGxERKmA5His3hNs"
+    }
   },
   {
     "id": "35362",
@@ -61,7 +112,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35363",
@@ -77,6 +129,7 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

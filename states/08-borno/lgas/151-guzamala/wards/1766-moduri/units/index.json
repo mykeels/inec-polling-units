@@ -13,7 +13,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9448235,
+      "longitude": 13.1793292,
+      "viewport": {
+        "northeast": {
+          "lat": 12.94629072989272,
+          "lng": 13.18064342989272
+        },
+        "southwest": {
+          "lat": 12.94359107010728,
+          "lng": 13.17794377010728
+        }
+      },
+      "formatted_address": "W5VH+WPG, 612104, Gidimbari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9448235,13.1793292",
+      "google_place_id": "ChIJRX7wTglCBRERWXB5EVUelKo"
+    }
   },
   {
     "id": "32570",
@@ -29,7 +46,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8479967,
+      "longitude": 13.0040358,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84934757989272,
+          "lng": 13.00542042989272
+        },
+        "southwest": {
+          "lat": 11.84664792010728,
+          "lng": 13.00272077010728
+        }
+      },
+      "formatted_address": "Kano Rd, Njimtilo 602104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8479967,13.0040358",
+      "google_place_id": "ChIJzY8-XyydBBERv2BWQXO12fo"
+    }
   },
   {
     "id": "32571",
@@ -45,7 +79,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8469059,
+      "longitude": 13.1582888,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84842852989272,
+          "lng": 13.15958092989272
+        },
+        "southwest": {
+          "lat": 11.84572887010728,
+          "lng": 13.15688127010728
+        }
+      },
+      "formatted_address": "Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8469059,13.1582888",
+      "google_place_id": "ChIJFSU-A0yfBBERKQdyPQo4AQo"
+    }
   },
   {
     "id": "32572",
@@ -61,7 +112,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32573",
@@ -77,7 +129,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8719427,
+      "longitude": 12.9665821,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9463631,
+          "lng": 13.1596888
+        },
+        "southwest": {
+          "lat": 12.8003234,
+          "lng": 12.91584
+        }
+      },
+      "formatted_address": "Moduri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8719427,12.9665821",
+      "google_place_id": "ChIJffXnj-FsBRERGgdeqpJ0ILA"
+    }
   },
   {
     "id": "32574",
@@ -93,7 +162,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9002812,
+      "longitude": 12.9106377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.90127432989272,
+          "lng": 12.912713
+        },
+        "southwest": {
+          "lat": 12.89857467010728,
+          "lng": 12.9091019
+        }
+      },
+      "formatted_address": "612104, Tamale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9002812,12.9106377",
+      "google_place_id": "ChIJh321HZ1zBRERlyTDHBxgN5w"
+    }
   },
   {
     "id": "32575",
@@ -109,6 +195,23 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8097859,
+      "longitude": 13.1824907,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81105287989272,
+          "lng": 13.18363962989272
+        },
+        "southwest": {
+          "lat": 11.80835322010728,
+          "lng": 13.18093997010728
+        }
+      },
+      "formatted_address": "R55M+W2H, Bama Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8097859,13.1824907",
+      "google_place_id": "ChIJUwLrAdOhBBERyu8fjozvE8A"
+    }
   }
 ]

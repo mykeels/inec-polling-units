@@ -13,7 +13,24 @@
     "local_government_id": "159",
     "local_government_name": "KWAYA / KUSAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4441731,
+      "longitude": 11.951925,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4900529,
+          "lng": 12.0152749
+        },
+        "southwest": {
+          "lat": 10.4021156,
+          "lng": 11.895532
+        }
+      },
+      "formatted_address": "Kubuku, 603103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4441731,11.951925",
+      "google_place_id": "ChIJDYtdpUn8ARERIStEHQEj36E"
+    }
   },
   {
     "id": "34085",
@@ -29,7 +46,24 @@
     "local_government_id": "159",
     "local_government_name": "KWAYA / KUSAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4441731,
+      "longitude": 11.951925,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4900529,
+          "lng": 12.0152749
+        },
+        "southwest": {
+          "lat": 10.4021156,
+          "lng": 11.895532
+        }
+      },
+      "formatted_address": "Kubuku, 603103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4441731,11.951925",
+      "google_place_id": "ChIJDYtdpUn8ARERIStEHQEj36E"
+    }
   },
   {
     "id": "34086",
@@ -45,7 +79,24 @@
     "local_government_id": "159",
     "local_government_name": "KWAYA / KUSAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5002235,
+      "longitude": 11.8412013,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50157202989272,
+          "lng": 11.84275722989272
+        },
+        "southwest": {
+          "lat": 10.49887237010728,
+          "lng": 11.84005757010728
+        }
+      },
+      "formatted_address": "GR2R+3FM, Biu Rd, 603103, Kwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5002235,11.8412013",
+      "google_place_id": "ChIJ6SgR-2LkARERSId8UIfKrnw"
+    }
   },
   {
     "id": "34087",
@@ -61,7 +112,24 @@
     "local_government_id": "159",
     "local_government_name": "KWAYA / KUSAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5002235,
+      "longitude": 11.8412013,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50157202989272,
+          "lng": 11.84275722989272
+        },
+        "southwest": {
+          "lat": 10.49887237010728,
+          "lng": 11.84005757010728
+        }
+      },
+      "formatted_address": "GR2R+3FM, Biu Rd, 603103, Kwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5002235,11.8412013",
+      "google_place_id": "ChIJ6SgR-2LkARERSId8UIfKrnw"
+    }
   },
   {
     "id": "34088",
@@ -77,7 +145,24 @@
     "local_government_id": "159",
     "local_government_name": "KWAYA / KUSAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.5002235,
+      "longitude": 11.8412013,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50157202989272,
+          "lng": 11.84275722989272
+        },
+        "southwest": {
+          "lat": 10.49887237010728,
+          "lng": 11.84005757010728
+        }
+      },
+      "formatted_address": "GR2R+3FM, Biu Rd, 603103, Kwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5002235,11.8412013",
+      "google_place_id": "ChIJ6SgR-2LkARERSId8UIfKrnw"
+    }
   },
   {
     "id": "34089",
@@ -93,6 +178,7 @@
     "local_government_id": "159",
     "local_government_name": "KWAYA / KUSAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

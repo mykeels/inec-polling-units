@@ -13,7 +13,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2684331,
+      "longitude": 12.2261837,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2927195,
+          "lng": 12.2639498
+        },
+        "southwest": {
+          "lat": 10.220254,
+          "lng": 12.1647909
+        }
+      },
+      "formatted_address": "Buma, 603106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2684331,12.2261837",
+      "google_place_id": "ChIJXxwBIlT6_RARL-Ax2_y-jqQ"
+    }
   },
   {
     "id": "35869",
@@ -29,7 +46,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35870",
@@ -45,7 +63,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "35871",
@@ -61,7 +96,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "35872",
@@ -77,6 +129,7 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

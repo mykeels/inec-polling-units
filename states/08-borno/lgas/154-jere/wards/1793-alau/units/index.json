@@ -13,7 +13,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.735527,
+      "longitude": 13.0472164,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8250288,
+          "lng": 13.0999311
+        },
+        "southwest": {
+          "lat": 11.6910293,
+          "lng": 13.0114807
+        }
+      },
+      "formatted_address": "Dala Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.735527,13.0472164",
+      "google_place_id": "ChIJXV8ZfXJiAxERZ11IUiCo8pU"
+    }
   },
   {
     "id": "33102",
@@ -29,7 +46,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33103",
@@ -45,7 +63,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33104",
@@ -61,7 +80,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33105",
@@ -77,7 +97,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7137422,
+      "longitude": 13.2647246,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71488527989272,
+          "lng": 13.26628532989272
+        },
+        "southwest": {
+          "lat": 11.71218562010728,
+          "lng": 13.26358567010728
+        }
+      },
+      "formatted_address": "600104, Alo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7137422,13.2647246",
+      "google_place_id": "ChIJ7ZyuQtVeAxERGF7QLNUNjiY"
+    }
   },
   {
     "id": "33106",
@@ -93,7 +130,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33107",
@@ -109,7 +147,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7137422,
+      "longitude": 13.2647246,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71488527989272,
+          "lng": 13.26628532989272
+        },
+        "southwest": {
+          "lat": 11.71218562010728,
+          "lng": 13.26358567010728
+        }
+      },
+      "formatted_address": "600104, Alo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7137422,13.2647246",
+      "google_place_id": "ChIJ7ZyuQtVeAxERGF7QLNUNjiY"
+    }
   },
   {
     "id": "33108",
@@ -125,7 +180,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33109",
@@ -141,7 +197,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.824115,
+      "longitude": 13.1271838,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82547457989272,
+          "lng": 13.12851077989272
+        },
+        "southwest": {
+          "lat": 11.82277492010728,
+          "lng": 13.12581112010728
+        }
+      },
+      "formatted_address": "R4FG+JVP, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.824115,13.1271838",
+      "google_place_id": "ChIJrbzFfOKeBBERg44aeQwC3qA"
+    }
   },
   {
     "id": "33110",
@@ -157,7 +230,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33111",
@@ -173,7 +247,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33112",
@@ -189,6 +264,7 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "30955",
@@ -29,7 +30,24 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.5144775,
+      "longitude": 13.0803495,
+      "viewport": {
+        "northeast": {
+          "lat": 13.5181101,
+          "lng": 13.083219
+        },
+        "southwest": {
+          "lat": 13.509953,
+          "lng": 13.073676
+        }
+      },
+      "formatted_address": "602103, Jabullam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.5144775,13.0803495",
+      "google_place_id": "ChIJsaChsYOWDxERc3ZVhYC-dhE"
+    }
   },
   {
     "id": "30956",
@@ -45,7 +63,8 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "30957",
@@ -61,7 +80,24 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.6185365,
+      "longitude": 13.2631561,
+      "viewport": {
+        "northeast": {
+          "lat": 13.61926272989272,
+          "lng": 13.26440427989272
+        },
+        "southwest": {
+          "lat": 13.61656307010728,
+          "lng": 13.26170462010728
+        }
+      },
+      "formatted_address": "J797+C76, 602103, Abadam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.6185365,13.2631561",
+      "google_place_id": "ChIJbU4yzGPBDxER_uy24RIr__4"
+    }
   },
   {
     "id": "30958",
@@ -77,7 +113,24 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.5063,
+      "longitude": 13.1584,
+      "viewport": {
+        "northeast": {
+          "lat": 13.50758282989272,
+          "lng": 13.15985922989272
+        },
+        "southwest": {
+          "lat": 13.50488317010728,
+          "lng": 13.15715957010728
+        }
+      },
+      "formatted_address": "G545+G96, 602103, Daya Irrigation Pro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.5063,13.1584",
+      "google_place_id": "ChIJy6dQNNuUDxERXS9IzbJTJxY"
+    }
   },
   {
     "id": "30959",
@@ -93,6 +146,23 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.6185365,
+      "longitude": 13.2631561,
+      "viewport": {
+        "northeast": {
+          "lat": 13.61926272989272,
+          "lng": 13.26440427989272
+        },
+        "southwest": {
+          "lat": 13.61656307010728,
+          "lng": 13.26170462010728
+        }
+      },
+      "formatted_address": "J797+C76, 602103, Abadam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.6185365,13.2631561",
+      "google_place_id": "ChIJbU4yzGPBDxER_uy24RIr__4"
+    }
   }
 ]

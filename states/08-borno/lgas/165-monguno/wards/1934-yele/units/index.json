@@ -13,7 +13,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.682206,
+      "longitude": 13.6134453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68292337989272,
+          "lng": 13.61464562989272
+        },
+        "southwest": {
+          "lat": 12.68022372010728,
+          "lng": 13.61194597010727
+        }
+      },
+      "formatted_address": "MJJ7+V9P, Gubio-Jigalta-Monguno Road, 612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.682206,13.6134453",
+      "google_place_id": "ChIJ4zaGWTXMGhERSmf6zrcqYFM"
+    }
   },
   {
     "id": "35608",
@@ -29,7 +46,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4252643,
+      "longitude": 13.5784012,
+      "viewport": {
+        "northeast": {
+          "lat": 12.4522643,
+          "lng": 13.6945059
+        },
+        "southwest": {
+          "lat": 12.3760118,
+          "lng": 13.5006281
+        }
+      },
+      "formatted_address": "Yele, 612101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4252643,13.5784012",
+      "google_place_id": "ChIJpauqPlMqGxERld8ROERRJbc"
+    }
   },
   {
     "id": "35609",
@@ -45,7 +79,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35610",
@@ -61,6 +96,7 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

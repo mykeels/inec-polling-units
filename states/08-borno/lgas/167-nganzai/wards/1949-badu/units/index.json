@@ -13,7 +13,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5555075,
+      "longitude": 13.1381738,
+      "viewport": {
+        "northeast": {
+          "lat": 12.558258,
+          "lng": 13.1407691
+        },
+        "southwest": {
+          "lat": 12.5538129,
+          "lng": 13.137158
+        }
+      },
+      "formatted_address": "612103, Sabsabuwa Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5555075,13.1381738",
+      "google_place_id": "ChIJ1aXc0SQfBRERCAjd6my_Xks"
+    }
   },
   {
     "id": "35764",
@@ -29,7 +46,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5411976,
+      "longitude": 13.2828524,
+      "viewport": {
+        "northeast": {
+          "lat": 12.54249012989272,
+          "lng": 13.28428172989272
+        },
+        "southwest": {
+          "lat": 12.53979047010728,
+          "lng": 13.28158207010728
+        }
+      },
+      "formatted_address": "Torowa Primary School, 612103, Torowa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5411976,13.2828524",
+      "google_place_id": "ChIJLQL9p7gmBRER7YaLt8jdCPA"
+    }
   },
   {
     "id": "35765",
@@ -45,7 +79,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8516589,
+      "longitude": 13.1730533,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85285162989272,
+          "lng": 13.17433537989272
+        },
+        "southwest": {
+          "lat": 11.85015197010728,
+          "lng": 13.17163572010728
+        }
+      },
+      "formatted_address": "V52F+M67, Gamboru 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8516589,13.1730533",
+      "google_place_id": "ChIJkeIqZZyfBBERtEnDxcGeytU"
+    }
   },
   {
     "id": "35766",
@@ -61,7 +112,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
   },
   {
     "id": "35767",
@@ -77,7 +145,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8470382,
+      "longitude": 13.149646,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84812472989272,
+          "lng": 13.15109947989272
+        },
+        "southwest": {
+          "lat": 11.84542507010728,
+          "lng": 13.14839982010728
+        }
+      },
+      "formatted_address": "R4WX+RV6, Mafoni 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8470382,13.149646",
+      "google_place_id": "ChIJ4Z5fCeWfBBER-fjLvDtxohY"
+    }
   },
   {
     "id": "35768",
@@ -93,7 +178,8 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35769",
@@ -109,7 +195,8 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35770",
@@ -125,7 +212,8 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35771",
@@ -141,7 +229,8 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35772",
@@ -157,6 +246,7 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

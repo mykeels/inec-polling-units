@@ -13,7 +13,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.624768,
+      "longitude": 12.530403,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62610257989272,
+          "lng": 12.53176272989272
+        },
+        "southwest": {
+          "lat": 11.62340292010728,
+          "lng": 12.52906307010728
+        }
+      },
+      "formatted_address": "JGFJ+W52, 601105, Gowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.624768,12.530403",
+      "google_place_id": "ChIJmeMZ_QeOAxERU61_MRUqkiQ"
+    }
   },
   {
     "id": "33581",
@@ -29,7 +46,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33582",
@@ -45,7 +63,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8263085,
+      "longitude": 13.1351716,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82764742989272,
+          "lng": 13.13648527989272
+        },
+        "southwest": {
+          "lat": 11.82494777010728,
+          "lng": 13.13378562010728
+        }
+      },
+      "formatted_address": "R4GP+G3Q, Moduganari bypass, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8263085,13.1351716",
+      "google_place_id": "ChIJ8bk5YBmfBBERUdKX2MVw5Xk"
+    }
   },
   {
     "id": "33583",
@@ -61,7 +96,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8453725,
+      "longitude": 13.1588962,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84673627989272,
+          "lng": 13.16035707989272
+        },
+        "southwest": {
+          "lat": 11.84403662010728,
+          "lng": 13.15765742010728
+        }
+      },
+      "formatted_address": "Hausari 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8453725,13.1588962",
+      "google_place_id": "ChIJlxI011SfBBERJfCAcMjaQN4"
+    }
   },
   {
     "id": "33584",
@@ -77,7 +129,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.129394,
+      "longitude": 12.910278,
+      "viewport": {
+        "northeast": {
+          "lat": 12.131313,
+          "lng": 12.91128527989272
+        },
+        "southwest": {
+          "lat": 12.128212,
+          "lng": 12.90858562010728
+        }
+      },
+      "formatted_address": "602104, Sheruri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.129394,12.910278",
+      "google_place_id": "ChIJ67dUZLKMBBERFjW0Gv7lKBY"
+    }
   },
   {
     "id": "33585",
@@ -93,6 +162,7 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

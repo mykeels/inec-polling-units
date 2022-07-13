@@ -13,7 +13,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33604",
@@ -29,7 +30,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33605",
@@ -45,7 +47,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33606",
@@ -61,7 +64,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33607",
@@ -77,7 +81,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.110928,
+      "longitude": 14.5274243,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11238487989272,
+          "lng": 14.52906332989272
+        },
+        "southwest": {
+          "lat": 12.10968522010728,
+          "lng": 14.52636367010728
+        }
+      },
+      "formatted_address": "611103, Duguma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.110928,14.5274243",
+      "google_place_id": "ChIJDUlpqPW8GxERu28wUdDHZBQ"
+    }
   },
   {
     "id": "33608",
@@ -93,7 +114,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33609",
@@ -109,7 +131,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.6167,
+      "longitude": 13.8261,
+      "viewport": {
+        "northeast": {
+          "lat": 11.61804982989272,
+          "lng": 13.82744982989272
+        },
+        "southwest": {
+          "lat": 11.61535017010728,
+          "lng": 13.82475017010728
+        }
+      },
+      "formatted_address": "LAFIYA ROAD GIDAN MADARA BORNO STATE#, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6167,13.8261",
+      "google_place_id": "ChIJYx1IyTCjHBER5aqMcXazZ1E"
+    }
   },
   {
     "id": "33610",
@@ -125,6 +164,7 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

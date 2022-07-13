@@ -13,7 +13,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4415994,
+      "longitude": 11.7042497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44294047989272,
+          "lng": 11.70558187989272
+        },
+        "southwest": {
+          "lat": 10.44024082010728,
+          "lng": 11.70288222010728
+        }
+      },
+      "formatted_address": "Teli Primary School, 603104, Biriyel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4415994,11.7042497",
+      "google_place_id": "ChIJY8kVY9bfARERsQ_qCgNQ4_4"
+    }
   },
   {
     "id": "31663",
@@ -29,7 +46,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4444837,
+      "longitude": 11.7032712,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4496461,
+          "lng": 11.707435
+        },
+        "southwest": {
+          "lat": 10.433813,
+          "lng": 11.697158
+        }
+      },
+      "formatted_address": "603104, Teli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4444837,11.7032712",
+      "google_place_id": "ChIJdcTJvNbfARER4Y48gZaM768"
+    }
   },
   {
     "id": "31664",
@@ -45,7 +79,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31665",
@@ -61,7 +96,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31666",
@@ -77,7 +113,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31667",
@@ -93,7 +130,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31668",
@@ -109,7 +147,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4415994,
+      "longitude": 11.7042497,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44294047989272,
+          "lng": 11.70558187989272
+        },
+        "southwest": {
+          "lat": 10.44024082010728,
+          "lng": 11.70288222010728
+        }
+      },
+      "formatted_address": "Teli Primary School, 603104, Biriyel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4415994,11.7042497",
+      "google_place_id": "ChIJY8kVY9bfARERsQ_qCgNQ4_4"
+    }
   },
   {
     "id": "31669",
@@ -125,7 +180,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.4457353,
+      "longitude": 11.7065877,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44716737989272,
+          "lng": 11.70789292989272
+        },
+        "southwest": {
+          "lat": 10.44446772010728,
+          "lng": 11.70519327010728
+        }
+      },
+      "formatted_address": "CPW4+7JW, 603104, Biriyel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4457353,11.7065877",
+      "google_place_id": "ChIJpY7PfNXfARERlDuf32RBFlQ"
+    }
   },
   {
     "id": "31670",
@@ -141,7 +213,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31671",
@@ -157,6 +230,7 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

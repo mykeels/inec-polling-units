@@ -13,7 +13,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.624768,
+      "longitude": 12.530403,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62610257989272,
+          "lng": 12.53176272989272
+        },
+        "southwest": {
+          "lat": 11.62340292010728,
+          "lng": 12.52906307010728
+        }
+      },
+      "formatted_address": "JGFJ+W52, 601105, Gowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.624768,12.530403",
+      "google_place_id": "ChIJmeMZ_QeOAxERU61_MRUqkiQ"
+    }
   },
   {
     "id": "33587",
@@ -29,7 +46,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33588",
@@ -45,7 +63,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8686135,
+      "longitude": 13.1759454,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86982707989272,
+          "lng": 13.17710982989272
+        },
+        "southwest": {
+          "lat": 11.86712742010728,
+          "lng": 13.17441017010728
+        }
+      },
+      "formatted_address": "V59G+C9W, Unnamed Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8686135,13.1759454",
+      "google_place_id": "ChIJ4XrACuijBBER0ivTIVZP7Q0"
+    }
   },
   {
     "id": "33589",
@@ -61,7 +96,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33590",
@@ -77,7 +113,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33591",
@@ -93,7 +130,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.624768,
+      "longitude": 12.530403,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62610257989272,
+          "lng": 12.53176272989272
+        },
+        "southwest": {
+          "lat": 11.62340292010728,
+          "lng": 12.52906307010728
+        }
+      },
+      "formatted_address": "JGFJ+W52, 601105, Gowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.624768,12.530403",
+      "google_place_id": "ChIJmeMZ_QeOAxERU61_MRUqkiQ"
+    }
   },
   {
     "id": "33592",
@@ -109,6 +163,23 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8480551,
+      "longitude": 13.1601207,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84925562989272,
+          "lng": 13.16143352989272
+        },
+        "southwest": {
+          "lat": 11.84655597010728,
+          "lng": 13.15873387010728
+        }
+      },
+      "formatted_address": "Sultan's Palace, Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8480551,13.1601207",
+      "google_place_id": "ChIJJ_e8pKufBBERNowBeI_ax6A"
+    }
   }
 ]

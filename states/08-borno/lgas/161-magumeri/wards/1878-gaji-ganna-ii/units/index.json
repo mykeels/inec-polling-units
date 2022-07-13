@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0800752,
+      "longitude": 12.9583058,
+      "viewport": {
+        "northeast": {
+          "lat": 12.081313,
+          "lng": 12.970769
+        },
+        "southwest": {
+          "lat": 12.0779799,
+          "lng": 12.9577131
+        }
+      },
+      "formatted_address": "602104, Suriaretin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0800752,12.9583058",
+      "google_place_id": "ChIJnfH9LqKNBBERPIUtf1_4GMA"
+    }
   },
   {
     "id": "34324",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0800752,
+      "longitude": 12.9583058,
+      "viewport": {
+        "northeast": {
+          "lat": 12.081313,
+          "lng": 12.970769
+        },
+        "southwest": {
+          "lat": 12.0779799,
+          "lng": 12.9577131
+        }
+      },
+      "formatted_address": "602104, Suriaretin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0800752,12.9583058",
+      "google_place_id": "ChIJnfH9LqKNBBERPIUtf1_4GMA"
+    }
   },
   {
     "id": "34325",
@@ -45,7 +79,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34326",
@@ -61,7 +96,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34327",
@@ -77,7 +113,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1931633,
+      "longitude": 12.9534482,
+      "viewport": {
+        "northeast": {
+          "lat": 12.19446832989272,
+          "lng": 12.95489627989272
+        },
+        "southwest": {
+          "lat": 12.19176867010728,
+          "lng": 12.95219662010728
+        }
+      },
+      "formatted_address": "602104, Chari Kurmeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1931633,12.9534482",
+      "google_place_id": "ChIJY2_IyUjyBBERabTD4xACqdE"
+    }
   },
   {
     "id": "34328",
@@ -93,7 +146,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34329",
@@ -109,7 +163,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.157678,
+      "longitude": 12.9635234,
+      "viewport": {
+        "northeast": {
+          "lat": 12.15918932989272,
+          "lng": 12.96464132989272
+        },
+        "southwest": {
+          "lat": 12.15648967010728,
+          "lng": 12.96194167010728
+        }
+      },
+      "formatted_address": "602104, Abacha Fandiri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.157678,12.9635234",
+      "google_place_id": "ChIJA3JOm-vyBBERfaZ0CKoZw5Q"
+    }
   },
   {
     "id": "34330",
@@ -125,6 +196,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2567237,
+      "longitude": 13.1026836,
+      "viewport": {
+        "northeast": {
+          "lat": 12.25807357989272,
+          "lng": 13.10403392989272
+        },
+        "southwest": {
+          "lat": 12.25537392010728,
+          "lng": 13.10133427010728
+        }
+      },
+      "formatted_address": "7443+M3M, Maiduguri - Monguno Rd, 602104, Zundur, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2567237,13.1026836",
+      "google_place_id": "ChIJx7IsQyDpBBER1UNQRlXxorY"
+    }
   }
 ]

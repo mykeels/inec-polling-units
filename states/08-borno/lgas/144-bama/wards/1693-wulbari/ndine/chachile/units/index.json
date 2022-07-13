@@ -13,7 +13,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31558",
@@ -29,7 +30,24 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.503171,
+      "longitude": 13.9608091,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6332889,
+          "lng": 14.2344525
+        },
+        "southwest": {
+          "lat": 11.3712068,
+          "lng": 13.7228463
+        }
+      },
+      "formatted_address": "Wulbari/Ndine/Chachile, 610110, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.503171,13.9608091",
+      "google_place_id": "ChIJ7S7s_eGWHBERGW4Ri5oG6Vw"
+    }
   },
   {
     "id": "31559",
@@ -45,7 +63,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31560",
@@ -61,7 +80,24 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.799398,
+      "longitude": 13.1566061,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80086337989272,
+          "lng": 13.15803527989272
+        },
+        "southwest": {
+          "lat": 11.79816372010728,
+          "lng": 13.15533562010728
+        }
+      },
+      "formatted_address": "39 Kabba Road, MMC 600225, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.799398,13.1566061",
+      "google_place_id": "ChIJ_Zifhi6fBBERGI6REX4KK4Y"
+    }
   },
   {
     "id": "31561",
@@ -77,7 +113,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31562",
@@ -93,7 +130,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31563",
@@ -109,7 +147,24 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.5536463,
+      "longitude": 14.0417014,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5546473,
+          "lng": 14.0436387
+        },
+        "southwest": {
+          "lat": 11.5518327,
+          "lng": 14.0405702
+        }
+      },
+      "formatted_address": "610110, Bama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5536463,14.0417014",
+      "google_place_id": "ChIJVRKuCnCaHBERVoqQngJp9Vs"
+    }
   },
   {
     "id": "31564",
@@ -125,7 +180,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31565",
@@ -141,7 +197,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31566",
@@ -157,7 +214,8 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31567",
@@ -173,6 +231,7 @@
     "local_government_id": "144",
     "local_government_name": "BAMA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

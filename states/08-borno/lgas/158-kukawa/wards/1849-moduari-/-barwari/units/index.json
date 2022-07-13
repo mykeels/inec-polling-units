@@ -13,7 +13,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34051",
@@ -29,7 +30,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.7911422,
+      "longitude": 13.6742796,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7936919,
+          "lng": 13.6765059
+        },
+        "southwest": {
+          "lat": 12.787339,
+          "lng": 13.67017
+        }
+      },
+      "formatted_address": "612102, Barwati, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7911422,13.6742796",
+      "google_place_id": "ChIJJ34JoUvIGhER1zBNFhNmTbA"
+    }
   },
   {
     "id": "34052",
@@ -45,7 +63,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34053",
@@ -61,6 +80,7 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

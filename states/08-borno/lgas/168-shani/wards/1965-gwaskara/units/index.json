@@ -13,7 +13,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2283657,
+      "longitude": 12.0523705,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22967882989272,
+          "lng": 12.05355027989272
+        },
+        "southwest": {
+          "lat": 10.22697917010728,
+          "lng": 12.05085062010728
+        }
+      },
+      "formatted_address": "Gwaskara Primary School, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2283657,12.0523705",
+      "google_place_id": "ChIJTVvgA-kH_hAR7MVd1wtDetw"
+    }
   },
   {
     "id": "35914",
@@ -29,7 +46,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35915",
@@ -45,7 +63,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.229822,
+      "longitude": 12.051655,
+      "viewport": {
+        "northeast": {
+          "lat": 10.23080507989272,
+          "lng": 12.05252017989272
+        },
+        "southwest": {
+          "lat": 10.22810542010728,
+          "lng": 12.04982052010728
+        }
+      },
+      "formatted_address": "63H2+WMC, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.229822,12.051655",
+      "google_place_id": "ChIJjc5YnukH_hAR0A9pls-rMbc"
+    }
   },
   {
     "id": "35916",
@@ -61,7 +96,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.229822,
+      "longitude": 12.051655,
+      "viewport": {
+        "northeast": {
+          "lat": 10.23080507989272,
+          "lng": 12.05252017989272
+        },
+        "southwest": {
+          "lat": 10.22810542010728,
+          "lng": 12.04982052010728
+        }
+      },
+      "formatted_address": "63H2+WMC, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.229822,12.051655",
+      "google_place_id": "ChIJjc5YnukH_hAR0A9pls-rMbc"
+    }
   },
   {
     "id": "35917",
@@ -77,7 +129,8 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35918",
@@ -93,7 +146,24 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "35919",
@@ -109,6 +179,23 @@
     "local_government_id": "168",
     "local_government_name": "SHANI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2181691,
+      "longitude": 12.059496,
+      "viewport": {
+        "northeast": {
+          "lat": 10.21952007989272,
+          "lng": 12.06084737989272
+        },
+        "southwest": {
+          "lat": 10.21682042010728,
+          "lng": 12.05814772010728
+        }
+      },
+      "formatted_address": "6395+7Q9, 603110, Shani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2181691,12.059496",
+      "google_place_id": "ChIJG2X3OOMH_hARTjlJk-zSvRQ"
+    }
   }
 ]

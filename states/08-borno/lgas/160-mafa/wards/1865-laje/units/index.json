@@ -13,7 +13,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8327805,
+      "longitude": 13.2002638,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83428632989272,
+          "lng": 13.20184967989272
+        },
+        "southwest": {
+          "lat": 11.83158667010728,
+          "lng": 13.19915002010728
+        }
+      },
+      "formatted_address": "R6M2+446, 611104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8327805,13.2002638",
+      "google_place_id": "ChIJXyiLXpShBBERToHqWX9Q5Cg"
+    }
   },
   {
     "id": "34195",
@@ -29,7 +46,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
   },
   {
     "id": "34196",
@@ -45,7 +79,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34197",
@@ -61,7 +96,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34198",
@@ -77,7 +113,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34199",
@@ -93,7 +130,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8565771,
+      "longitude": 13.1519808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85795487989272,
+          "lng": 13.15329572989272
+        },
+        "southwest": {
+          "lat": 11.85525522010728,
+          "lng": 13.15059607010728
+        }
+      },
+      "formatted_address": "V542+JR2, Lamisula ward, Shehuri, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8565771,13.1519808",
+      "google_place_id": "ChIJmWsHnLWYBBERJ3RBCTlTZi0"
+    }
   },
   {
     "id": "34200",
@@ -109,6 +163,7 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

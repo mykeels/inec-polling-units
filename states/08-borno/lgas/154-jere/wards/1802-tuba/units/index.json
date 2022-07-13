@@ -13,7 +13,8 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33376",
@@ -29,7 +30,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33377",
@@ -45,7 +63,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.824115,
+      "longitude": 13.1271838,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82547457989272,
+          "lng": 13.12851077989272
+        },
+        "southwest": {
+          "lat": 11.82277492010728,
+          "lng": 13.12581112010728
+        }
+      },
+      "formatted_address": "R4FG+JVP, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.824115,13.1271838",
+      "google_place_id": "ChIJrbzFfOKeBBERg44aeQwC3qA"
+    }
   },
   {
     "id": "33378",
@@ -61,7 +96,24 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0545107,
+      "longitude": 13.1509672,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1636201,
+          "lng": 13.2490126
+        },
+        "southwest": {
+          "lat": 11.9598808,
+          "lng": 13.0686953
+        }
+      },
+      "formatted_address": "Tuba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0545107,13.1509672",
+      "google_place_id": "ChIJzdwZEJGVBBERC5Pfp6wwHKw"
+    }
   },
   {
     "id": "33379",
@@ -77,6 +129,23 @@
     "local_government_id": "154",
     "local_government_name": "JERE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9204469,
+      "longitude": 13.2035138,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92184727989272,
+          "lng": 13.20483917989272
+        },
+        "southwest": {
+          "lat": 11.91914762010728,
+          "lng": 13.20213952010728
+        }
+      },
+      "formatted_address": "Zabbarmari road, 600104, Ngudda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9204469,13.2035138",
+      "google_place_id": "ChIJGXZLU2CjBBER9nIA3nMCplY"
+    }
   }
 ]

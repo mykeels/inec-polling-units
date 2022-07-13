@@ -13,7 +13,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3640592,
+      "longitude": 13.8277397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.368258,
+          "lng": 13.832991
+        },
+        "southwest": {
+          "lat": 12.3573679,
+          "lng": 13.814935
+        }
+      },
+      "formatted_address": "611105, Marte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3640592,13.8277397",
+      "google_place_id": "ChIJtZMYQ1ohGxERfqe-WxLjyf0"
+    }
   },
   {
     "id": "35301",
@@ -29,7 +46,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35302",
@@ -45,6 +63,7 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

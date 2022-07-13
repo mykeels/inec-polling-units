@@ -13,7 +13,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32551",
@@ -29,7 +30,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32552",
@@ -45,7 +47,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32553",
@@ -61,7 +64,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32554",
@@ -77,7 +81,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32555",
@@ -93,7 +98,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32556",
@@ -109,7 +115,24 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8099092,
+      "longitude": 13.1511322,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81129837989272,
+          "lng": 13.15236442989272
+        },
+        "southwest": {
+          "lat": 11.80859872010728,
+          "lng": 13.14966477010728
+        }
+      },
+      "formatted_address": "MB dalhatu House no40 polo road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8099092,13.1511322",
+      "google_place_id": "ChIJk28y-MufBBERuCAvsJerXEk"
+    }
   },
   {
     "id": "32557",
@@ -125,7 +148,8 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32558",
@@ -141,6 +165,7 @@
     "local_government_id": "151",
     "local_government_name": "GUZAMALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34055",
@@ -29,7 +30,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34056",
@@ -45,6 +47,23 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7911715,
+      "longitude": 13.1175759,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79263822989272,
+          "lng": 13.11893672989272
+        },
+        "southwest": {
+          "lat": 11.78993857010728,
+          "lng": 13.11623707010728
+        }
+      },
+      "formatted_address": "Q4R9+F28, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7911715,13.1175759",
+      "google_place_id": "ChIJ9y92jEieBBERK-8m09vRLS0"
+    }
   }
 ]

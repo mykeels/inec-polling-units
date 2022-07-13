@@ -13,7 +13,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6168631,
+      "longitude": 13.301524,
+      "viewport": {
+        "northeast": {
+          "lat": 12.61807982989272,
+          "lng": 13.30295182989272
+        },
+        "southwest": {
+          "lat": 12.61538017010728,
+          "lng": 13.30025217010728
+        }
+      },
+      "formatted_address": "612103, Kanumburi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6168631,13.301524",
+      "google_place_id": "ChIJky3GmvokBRERN3-0h-iXrqQ"
+    }
   },
   {
     "id": "35591",
@@ -29,7 +46,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.7273242,
+      "longitude": 13.8100339,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7821468,
+          "lng": 13.9687447
+        },
+        "southwest": {
+          "lat": 12.6364244,
+          "lng": 13.6665388
+        }
+      },
+      "formatted_address": "Ngurno, 612101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7273242,13.8100339",
+      "google_place_id": "ChIJs4ffxQbEGhERDLZCO9PtA2A"
+    }
   },
   {
     "id": "35592",
@@ -45,7 +79,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "35593",
@@ -61,7 +112,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4774379,
+      "longitude": 13.3181234,
+      "viewport": {
+        "northeast": {
+          "lat": 12.47877432989272,
+          "lng": 13.31961832989272
+        },
+        "southwest": {
+          "lat": 12.47607467010728,
+          "lng": 13.31691867010728
+        }
+      },
+      "formatted_address": "612103, Damaji Bulabulin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4774379,13.3181234",
+      "google_place_id": "ChIJf7bXVIEnBRER8gY316ezrdU"
+    }
   },
   {
     "id": "35594",
@@ -77,6 +145,23 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5031388,
+      "longitude": 13.5899733,
+      "viewport": {
+        "northeast": {
+          "lat": 12.8087076,
+          "lng": 14.152142
+        },
+        "southwest": {
+          "lat": 12.2471243,
+          "lng": 13.2356311
+        }
+      },
+      "formatted_address": "Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5031388,13.5899733",
+      "google_place_id": "ChIJ9YT0zSTXGhERoPzAfFDfqhw"
+    }
   }
 ]

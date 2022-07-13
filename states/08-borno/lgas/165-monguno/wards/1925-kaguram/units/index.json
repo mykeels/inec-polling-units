@@ -13,7 +13,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6241442,
+      "longitude": 13.7287249,
+      "viewport": {
+        "northeast": {
+          "lat": 12.62564677989272,
+          "lng": 13.73010897989272
+        },
+        "southwest": {
+          "lat": 12.62294712010728,
+          "lng": 13.72740932010728
+        }
+      },
+      "formatted_address": "JPFH+MF9, 612101, Kabal Balram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6241442,13.7287249",
+      "google_place_id": "ChIJCe87WAfQGhER130DmqpllfY"
+    }
   },
   {
     "id": "35512",
@@ -29,7 +46,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6117365,
+      "longitude": 13.6594267,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7045155,
+          "lng": 13.7332597
+        },
+        "southwest": {
+          "lat": 12.5334966,
+          "lng": 13.5662235
+        }
+      },
+      "formatted_address": "Kaguram, 612101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6117365,13.6594267",
+      "google_place_id": "ChIJyWtrae7RGhERUGBum4POUaE"
+    }
   },
   {
     "id": "35513",
@@ -45,7 +79,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.682206,
+      "longitude": 13.6134453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68292337989272,
+          "lng": 13.61464562989272
+        },
+        "southwest": {
+          "lat": 12.68022372010728,
+          "lng": 13.61194597010727
+        }
+      },
+      "formatted_address": "MJJ7+V9P, Gubio-Jigalta-Monguno Road, 612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.682206,13.6134453",
+      "google_place_id": "ChIJ4zaGWTXMGhERSmf6zrcqYFM"
+    }
   },
   {
     "id": "35514",
@@ -61,7 +112,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.682206,
+      "longitude": 13.6134453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68292337989272,
+          "lng": 13.61464562989272
+        },
+        "southwest": {
+          "lat": 12.68022372010728,
+          "lng": 13.61194597010727
+        }
+      },
+      "formatted_address": "MJJ7+V9P, Gubio-Jigalta-Monguno Road, 612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.682206,13.6134453",
+      "google_place_id": "ChIJ4zaGWTXMGhERSmf6zrcqYFM"
+    }
   },
   {
     "id": "35515",
@@ -77,7 +145,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6059263,
+      "longitude": 13.6609044,
+      "viewport": {
+        "northeast": {
+          "lat": 12.60713402989272,
+          "lng": 13.66228952989272
+        },
+        "southwest": {
+          "lat": 12.60443437010728,
+          "lng": 13.65958987010728
+        }
+      },
+      "formatted_address": "612101, Kaguram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6059263,13.6609044",
+      "google_place_id": "ChIJDRtYn8bRGhER2_l4sL_FNE4"
+    }
   },
   {
     "id": "35516",
@@ -93,7 +178,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.682206,
+      "longitude": 13.6134453,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68292337989272,
+          "lng": 13.61464562989272
+        },
+        "southwest": {
+          "lat": 12.68022372010728,
+          "lng": 13.61194597010727
+        }
+      },
+      "formatted_address": "MJJ7+V9P, Gubio-Jigalta-Monguno Road, 612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.682206,13.6134453",
+      "google_place_id": "ChIJ4zaGWTXMGhERSmf6zrcqYFM"
+    }
   },
   {
     "id": "35517",
@@ -109,6 +211,7 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8576752,
+      "longitude": 12.7316476,
+      "viewport": {
+        "northeast": {
+          "lat": 12.85909232989272,
+          "lng": 12.73281932989272
+        },
+        "southwest": {
+          "lat": 12.85639267010728,
+          "lng": 12.73011967010728
+        }
+      },
+      "formatted_address": "602102, Goni Abbari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8576752,12.7316476",
+      "google_place_id": "ChIJ1Y6dcOGhBRERGhiI0-tUPJU"
+    }
   },
   {
     "id": "35480",
@@ -29,7 +46,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9328852,
+      "longitude": 12.7223102,
+      "viewport": {
+        "northeast": {
+          "lat": 12.934006,
+          "lng": 12.72390072989272
+        },
+        "southwest": {
+          "lat": 12.930886,
+          "lng": 12.72120107010728
+        }
+      },
+      "formatted_address": "602101, Zinda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9328852,12.7223102",
+      "google_place_id": "ChIJO11sBLeeBRERvegiEuOGokI"
+    }
   },
   {
     "id": "35481",
@@ -45,7 +79,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0999626,
+      "longitude": 12.5098213,
+      "viewport": {
+        "northeast": {
+          "lat": 13.10128362989272,
+          "lng": 12.51118857989272
+        },
+        "southwest": {
+          "lat": 13.09858397010728,
+          "lng": 12.50848892010728
+        }
+      },
+      "formatted_address": "13.10,12.51, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0999626,12.5098213",
+      "google_place_id": "ChIJnziV_DSMBRERTFwjfczbRsU"
+    }
   },
   {
     "id": "35482",
@@ -61,7 +112,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0999626,
+      "longitude": 12.5098213,
+      "viewport": {
+        "northeast": {
+          "lat": 13.10128362989272,
+          "lng": 12.51118857989272
+        },
+        "southwest": {
+          "lat": 13.09858397010728,
+          "lng": 12.50848892010728
+        }
+      },
+      "formatted_address": "13.10,12.51, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0999626,12.5098213",
+      "google_place_id": "ChIJnziV_DSMBRERTFwjfczbRsU"
+    }
   },
   {
     "id": "35483",
@@ -77,6 +145,23 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 40.9547353,
+      "longitude": -81.44893239999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.95634702989272,
+          "lng": -81.44768527010727
+        },
+        "southwest": {
+          "lat": 40.95364737010728,
+          "lng": -81.45038492989272
+        }
+      },
+      "formatted_address": "2300 Graybill Rd, Uniontown, OH 44685, United States",
+      "google_map_url": "https://maps.google.com?q=40.9547353,-81.44893239999999",
+      "google_place_id": "ChIJ3xEmNbbUNogR4Q-Xj0QhEkk"
+    }
   }
 ]

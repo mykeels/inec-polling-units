@@ -13,7 +13,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.3143147,
+      "longitude": 11.5307612,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31569382989272,
+          "lng": 11.53209957989272
+        },
+        "southwest": {
+          "lat": 10.31299417010728,
+          "lng": 11.52939992010728
+        }
+      },
+      "formatted_address": "KM40 Gombe - Biu Rd, 762103, Dadin Kowa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3143147,11.5307612",
+      "google_place_id": "ChIJ_TN-yygv_hARkbKS7e4KfAM"
+    }
   },
   {
     "id": "31629",
@@ -29,7 +46,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.3214528,
+      "longitude": 11.5559468,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32280347989272,
+          "lng": 11.55734252989272
+        },
+        "southwest": {
+          "lat": 10.32010382010728,
+          "lng": 11.55464287010728
+        }
+      },
+      "formatted_address": "8HC4+H9P, 761101, Nahantsi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3214528,11.5559468",
+      "google_place_id": "ChIJzzadBGon_hARFaFZRww9d7Y"
+    }
   },
   {
     "id": "31630",
@@ -45,7 +79,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.3424122,
+      "longitude": 11.5784549,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3451049,
+          "lng": 11.579992
+        },
+        "southwest": {
+          "lat": 10.3395781,
+          "lng": 11.5769529
+        }
+      },
+      "formatted_address": "761101, Maina Baba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3424122,11.5784549",
+      "google_place_id": "ChIJzRT0K_Mm_hARTXJx-bheEkc"
+    }
   },
   {
     "id": "31631",
@@ -61,7 +112,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 9.879469199999999,
+      "longitude": 10.9979736,
+      "viewport": {
+        "northeast": {
+          "lat": 9.880839529892722,
+          "lng": 10.99938072989272
+        },
+        "southwest": {
+          "lat": 9.878139870107278,
+          "lng": 10.99668107010728
+        }
+      },
+      "formatted_address": "VXHX+Q5Q, 771103, Jauro Sule, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.879469199999999,10.9979736",
+      "google_place_id": "ChIJv2m9-uuj_xAR46ugmdKKxrc"
+    }
   },
   {
     "id": "31632",
@@ -77,7 +145,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.521,
+      "longitude": 13.724,
+      "viewport": {
+        "northeast": {
+          "lat": 11.52234982989272,
+          "lng": 13.72534982989272
+        },
+        "southwest": {
+          "lat": 11.51965017010728,
+          "lng": 13.72265017010728
+        }
+      },
+      "formatted_address": "MASHARI MARGHI LINE STREET, MAIDUGURI, JERE LOCAL #GOVT, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.521,13.724",
+      "google_place_id": "ChIJr45ML4SxHBERJpQBNFkmR4I"
+    }
   },
   {
     "id": "31633",
@@ -93,7 +178,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.505,
+      "longitude": 13.61,
+      "viewport": {
+        "northeast": {
+          "lat": 11.50634982989272,
+          "lng": 13.61134982989272
+        },
+        "southwest": {
+          "lat": 11.50365017010728,
+          "lng": 13.60865017010728
+        }
+      },
+      "formatted_address": "Maiduguri International Airport, # 610101, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.505,13.61",
+      "google_place_id": "ChIJl4pDLcyzHBERPpKLibJ402s"
+    }
   },
   {
     "id": "31634",
@@ -109,7 +211,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31635",
@@ -125,7 +228,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.3843031,
+      "longitude": 11.6946409,
+      "viewport": {
+        "northeast": {
+          "lat": 10.38571897989272,
+          "lng": 11.69596042989272
+        },
+        "southwest": {
+          "lat": 10.38301932010728,
+          "lng": 11.69326077010728
+        }
+      },
+      "formatted_address": "Bayo LGA, central Primary School, 603104, Wuyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3843031,11.6946409",
+      "google_place_id": "ChIJ8_4N-R8h_hARkplby8tSQus"
+    }
   },
   {
     "id": "31636",
@@ -141,7 +261,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31637",
@@ -157,6 +278,7 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34290",
@@ -29,7 +30,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34291",
@@ -45,7 +47,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34292",
@@ -61,7 +64,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34293",
@@ -77,6 +81,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2408708,
+      "longitude": 12.740447,
+      "viewport": {
+        "northeast": {
+          "lat": 12.241591,
+          "lng": 12.74184087989272
+        },
+        "southwest": {
+          "lat": 12.2388131,
+          "lng": 12.73914122010728
+        }
+      },
+      "formatted_address": "602104, Nduri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2408708,12.740447",
+      "google_place_id": "ChIJcSwFFDdZBBERqvjWP8zviI0"
+    }
   }
 ]

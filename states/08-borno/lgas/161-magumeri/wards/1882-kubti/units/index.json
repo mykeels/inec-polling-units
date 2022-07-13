@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3934255,
+      "longitude": 12.5394833,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39509182989272,
+          "lng": 12.54082932989272
+        },
+        "southwest": {
+          "lat": 12.39239217010728,
+          "lng": 12.53812967010728
+        }
+      },
+      "formatted_address": "602104, Kupti Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3934255,12.5394833",
+      "google_place_id": "ChIJt5sH7shOBBER2dMXhq4YDNk"
+    }
   },
   {
     "id": "34353",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1151051,
+      "longitude": 12.8256275,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1210071,
+          "lng": 12.8374351
+        },
+        "southwest": {
+          "lat": 12.109369,
+          "lng": 12.82132
+        }
+      },
+      "formatted_address": "602104, Magumeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1151051,12.8256275",
+      "google_place_id": "ChIJJXu0Y5WKBBERhBBVZt0xDAQ"
+    }
   },
   {
     "id": "34354",
@@ -45,7 +79,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8305432,
+      "longitude": 13.1483876,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83192277989272,
+          "lng": 13.14968667989272
+        },
+        "southwest": {
+          "lat": 11.82922312010728,
+          "lng": 13.14698702010728
+        }
+      },
+      "formatted_address": "Damboa Rd, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8305432,13.1483876",
+      "google_place_id": "ChIJ-Yc2_ZSfBBERwL6Squ-G_IM"
+    }
   },
   {
     "id": "34355",
@@ -61,7 +112,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8305432,
+      "longitude": 13.1483876,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83192277989272,
+          "lng": 13.14968667989272
+        },
+        "southwest": {
+          "lat": 11.82922312010728,
+          "lng": 13.14698702010728
+        }
+      },
+      "formatted_address": "Damboa Rd, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8305432,13.1483876",
+      "google_place_id": "ChIJ-Yc2_ZSfBBERwL6Squ-G_IM"
+    }
   },
   {
     "id": "34356",
@@ -77,7 +145,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34357",
@@ -93,6 +162,7 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.624768,
+      "longitude": 12.530403,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62610257989272,
+          "lng": 12.53176272989272
+        },
+        "southwest": {
+          "lat": 11.62340292010728,
+          "lng": 12.52906307010728
+        }
+      },
+      "formatted_address": "JGFJ+W52, 601105, Gowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.624768,12.530403",
+      "google_place_id": "ChIJmeMZ_QeOAxERU61_MRUqkiQ"
+    }
   },
   {
     "id": "33521",
@@ -29,7 +46,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33522",
@@ -45,7 +63,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8577125,
+      "longitude": 13.1648538,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85907487989272,
+          "lng": 13.16612182989272
+        },
+        "southwest": {
+          "lat": 11.85637522010728,
+          "lng": 13.16342217010728
+        }
+      },
+      "formatted_address": "V557+3WQ, Maiduguri-Labe-Kukawa Road, Gamboru 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8577125,13.1648538",
+      "google_place_id": "ChIJudubc4-ZBBERNiYmx4KLLis"
+    }
   },
   {
     "id": "33523",
@@ -61,7 +96,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
   },
   {
     "id": "33524",
@@ -77,7 +129,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8619887,
+      "longitude": 13.1167474,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86318277989272,
+          "lng": 13.11827092989272
+        },
+        "southwest": {
+          "lat": 11.86048312010728,
+          "lng": 13.11557127010728
+        }
+      },
+      "formatted_address": "V468+RPM, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8619887,13.1167474",
+      "google_place_id": "ChIJpXqKIS6ZBBERhwbIu0VAgqs"
+    }
   },
   {
     "id": "33525",
@@ -93,6 +162,23 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8619887,
+      "longitude": 13.1167474,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86318277989272,
+          "lng": 13.11827092989272
+        },
+        "southwest": {
+          "lat": 11.86048312010728,
+          "lng": 13.11557127010728
+        }
+      },
+      "formatted_address": "V468+RPM, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8619887,13.1167474",
+      "google_place_id": "ChIJpXqKIS6ZBBERhwbIu0VAgqs"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8519762,
+      "longitude": 13.1667966,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85323272989272,
+          "lng": 13.16827712989272
+        },
+        "southwest": {
+          "lat": 11.85053307010728,
+          "lng": 13.16557747010728
+        }
+      },
+      "formatted_address": "V528+QPV, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8519762,13.1667966",
+      "google_place_id": "ChIJdSUESFOfBBER_2rQ9gZipSQ"
+    }
   },
   {
     "id": "35617",
@@ -29,7 +46,24 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8519762,
+      "longitude": 13.1667966,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85323272989272,
+          "lng": 13.16827712989272
+        },
+        "southwest": {
+          "lat": 11.85053307010728,
+          "lng": 13.16557747010728
+        }
+      },
+      "formatted_address": "V528+QPV, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8519762,13.1667966",
+      "google_place_id": "ChIJdSUESFOfBBER_2rQ9gZipSQ"
+    }
   },
   {
     "id": "35618",
@@ -45,7 +79,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35619",
@@ -61,7 +96,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35620",
@@ -77,7 +113,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35621",
@@ -93,7 +130,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35622",
@@ -109,7 +147,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35623",
@@ -125,7 +164,24 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8204928,
+      "longitude": 13.1614997,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82212152989272,
+          "lng": 13.16293642989272
+        },
+        "southwest": {
+          "lat": 11.81942187010728,
+          "lng": 13.16023677010728
+        }
+      },
+      "formatted_address": "R5C6+6J2, Lagos St, opposite Nakowa hospital, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8204928,13.1614997",
+      "google_place_id": "ChIJN24jXDCfBBERlxR0uVeAX6Y"
+    }
   },
   {
     "id": "35624",
@@ -141,7 +197,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35625",
@@ -157,7 +214,8 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35626",
@@ -173,6 +231,7 @@
     "local_government_id": "166",
     "local_government_name": "NGALA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

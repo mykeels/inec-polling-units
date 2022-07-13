@@ -13,7 +13,8 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32392",
@@ -29,7 +30,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5906198,
+      "longitude": 12.4953899,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6443918,
+          "lng": 12.5298617
+        },
+        "southwest": {
+          "lat": 12.561388,
+          "lng": 12.4303059
+        }
+      },
+      "formatted_address": "Gamowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5906198,12.4953899",
+      "google_place_id": "ChIJl4mTY3-2BRERCkW_mYolBvE"
+    }
   },
   {
     "id": "32393",
@@ -45,7 +63,8 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32394",
@@ -61,7 +80,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5734604,
+      "longitude": 12.4973612,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57486977989272,
+          "lng": 12.49886637989272
+        },
+        "southwest": {
+          "lat": 12.57217012010728,
+          "lng": 12.49616672010728
+        }
+      },
+      "formatted_address": "602102, Dabira Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5734604,12.4973612",
+      "google_place_id": "ChIJN_kj2EW0BRERpmJ7knpthnY"
+    }
   },
   {
     "id": "32395",
@@ -77,7 +113,24 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5734604,
+      "longitude": 12.4973612,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57486977989272,
+          "lng": 12.49886637989272
+        },
+        "southwest": {
+          "lat": 12.57217012010728,
+          "lng": 12.49616672010728
+        }
+      },
+      "formatted_address": "602102, Dabira Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5734604,12.4973612",
+      "google_place_id": "ChIJN_kj2EW0BRERpmJ7knpthnY"
+    }
   },
   {
     "id": "32396",
@@ -93,6 +146,23 @@
     "local_government_id": "150",
     "local_government_name": "GUBIO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.1848009,
+      "longitude": 13.0261528,
+      "viewport": {
+        "northeast": {
+          "lat": 12.18627427989272,
+          "lng": 13.02753472989272
+        },
+        "southwest": {
+          "lat": 12.18357462010728,
+          "lng": 13.02483507010728
+        }
+      },
+      "formatted_address": "602104, Goni Burari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1848009,13.0261528",
+      "google_place_id": "ChIJKedkOLDtBBERTew08d6Vric"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
   },
   {
     "id": "34343",
@@ -29,7 +46,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9835033,
+      "longitude": 12.5044799,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98428332989272,
+          "lng": 12.50599587989272
+        },
+        "southwest": {
+          "lat": 11.98158367010728,
+          "lng": 12.50329622010728
+        }
+      },
+      "formatted_address": "XGM3+CQ5, 602104, Hassanari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9835033,12.5044799",
+      "google_place_id": "ChIJ45JofI1tBBERkftt5PMHEiQ"
+    }
   },
   {
     "id": "34344",
@@ -45,7 +79,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8490602,
+      "longitude": 13.1497956,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85040227989272,
+          "lng": 13.15112672989272
+        },
+        "southwest": {
+          "lat": 11.84770262010728,
+          "lng": 13.14842707010728
+        }
+      },
+      "formatted_address": "ALI BASHIR STREET MAFONI WARD MAIDUGURI, BORNO STA#TE, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8490602,13.1497956",
+      "google_place_id": "ChIJqw83382fBBERaAEeWwd0_BY"
+    }
   },
   {
     "id": "34345",
@@ -61,7 +112,8 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34346",
@@ -77,7 +129,24 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.045869,
+      "longitude": 12.3692982,
+      "viewport": {
+        "northeast": {
+          "lat": 12.58131,
+          "lng": 12.7001663
+        },
+        "southwest": {
+          "lat": 11.9043786,
+          "lng": 12.2446903
+        }
+      },
+      "formatted_address": "Kalizoram / Banoram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.045869,12.3692982",
+      "google_place_id": "ChIJxZHzVc1ABBERYQVlAivsSOc"
+    }
   },
   {
     "id": "34347",
@@ -93,6 +162,23 @@
     "local_government_id": "161",
     "local_government_name": "MAGUMERI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0538606,
+      "longitude": 12.7567331,
+      "viewport": {
+        "northeast": {
+          "lat": 12.059091,
+          "lng": 12.7591021
+        },
+        "southwest": {
+          "lat": 12.0532579,
+          "lng": 12.755704
+        }
+      },
+      "formatted_address": "602104, Kalizoram, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0538606,12.7567331",
+      "google_place_id": "ChIJ6U7f1DBiBBEREGWgiE2bBk8"
+    }
   }
 ]

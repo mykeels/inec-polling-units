@@ -13,7 +13,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34265",
@@ -29,7 +30,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7905735,
+      "longitude": 13.3009828,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8547025,
+          "lng": 13.3281367
+        },
+        "southwest": {
+          "lat": 11.7636867,
+          "lng": 13.2501129
+        }
+      },
+      "formatted_address": "Tamsu Ngamdua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7905735,13.3009828",
+      "google_place_id": "ChIJxzu79N2mBBERollvfV3-nRs"
+    }
   },
   {
     "id": "34266",
@@ -45,7 +63,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34267",
@@ -61,7 +80,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8023735,
+      "longitude": 13.1930808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80373697989272,
+          "lng": 13.19441857989272
+        },
+        "southwest": {
+          "lat": 11.80103732010728,
+          "lng": 13.19171892010728
+        }
+      },
+      "formatted_address": "University of Maiduguri, 1069 Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8023735,13.1930808",
+      "google_place_id": "ChIJ2VANJlqgBBERuzm_Hf5oVzs"
+    }
   },
   {
     "id": "34268",
@@ -77,7 +113,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8552512,
+      "longitude": 13.2171888,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85656002989272,
+          "lng": 13.21855962989272
+        },
+        "southwest": {
+          "lat": 11.85386037010728,
+          "lng": 13.21585997010728
+        }
+      },
+      "formatted_address": "V648+4V4, Bulama, Mala chariri Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8552512,13.2171888",
+      "google_place_id": "ChIJqxetgiuiBBERroUcNchMiSQ"
+    }
   },
   {
     "id": "34269",
@@ -93,7 +146,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8552512,
+      "longitude": 13.2171888,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85656002989272,
+          "lng": 13.21855962989272
+        },
+        "southwest": {
+          "lat": 11.85386037010728,
+          "lng": 13.21585997010728
+        }
+      },
+      "formatted_address": "V648+4V4, Bulama, Mala chariri Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8552512,13.2171888",
+      "google_place_id": "ChIJqxetgiuiBBERroUcNchMiSQ"
+    }
   },
   {
     "id": "34270",
@@ -109,7 +179,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8106092,
+      "longitude": 13.1132423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81237727989272,
+          "lng": 13.11461492989272
+        },
+        "southwest": {
+          "lat": 11.80967762010728,
+          "lng": 13.11191527010728
+        }
+      },
+      "formatted_address": "Abuja Sheraton Bus stop Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8106092,13.1132423",
+      "google_place_id": "ChIJW10PvHOfBBERdtpBT8-eE7o"
+    }
   },
   {
     "id": "34271",
@@ -125,7 +212,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8106092,
+      "longitude": 13.1132423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81237727989272,
+          "lng": 13.11461492989272
+        },
+        "southwest": {
+          "lat": 11.80967762010728,
+          "lng": 13.11191527010728
+        }
+      },
+      "formatted_address": "Abuja Sheraton Bus stop Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8106092,13.1132423",
+      "google_place_id": "ChIJW10PvHOfBBERdtpBT8-eE7o"
+    }
   },
   {
     "id": "34272",
@@ -141,7 +245,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8106092,
+      "longitude": 13.1132423,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81237727989272,
+          "lng": 13.11461492989272
+        },
+        "southwest": {
+          "lat": 11.80967762010728,
+          "lng": 13.11191527010728
+        }
+      },
+      "formatted_address": "Abuja Sheraton Bus stop Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8106092,13.1132423",
+      "google_place_id": "ChIJW10PvHOfBBERdtpBT8-eE7o"
+    }
   },
   {
     "id": "34273",
@@ -157,7 +278,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8912494,
+      "longitude": 13.1429744,
+      "viewport": {
+        "northeast": {
+          "lat": 11.89248092989272,
+          "lng": 13.14387237989272
+        },
+        "southwest": {
+          "lat": 11.88978127010728,
+          "lng": 13.14117272010728
+        }
+      },
+      "formatted_address": "V4RV+F5X, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8912494,13.1429744",
+      "google_place_id": "ChIJ8fDFGfGYBBERH83Zvvka-x0"
+    }
   },
   {
     "id": "34274",
@@ -173,7 +311,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34275",
@@ -189,7 +328,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8341541,
+      "longitude": 13.1866757,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83552842989272,
+          "lng": 13.18811662989272
+        },
+        "southwest": {
+          "lat": 11.83282877010728,
+          "lng": 13.18541697010728
+        }
+      },
+      "formatted_address": "R5MP+MM7, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8341541,13.1866757",
+      "google_place_id": "ChIJWc6AueihBBEROuqKDhg6bH0"
+    }
   },
   {
     "id": "34276",
@@ -205,7 +361,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8513995,
+      "longitude": 13.2180167,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85277797989272,
+          "lng": 13.21944017989272
+        },
+        "southwest": {
+          "lat": 11.85007832010728,
+          "lng": 13.21674052010728
+        }
+      },
+      "formatted_address": "V629+H62, Bulama, Bama Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8513995,13.2180167",
+      "google_place_id": "ChIJFZiKjSqiBBERma-u0EDWMIk"
+    }
   },
   {
     "id": "34277",
@@ -221,7 +394,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8513995,
+      "longitude": 13.2180167,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85277797989272,
+          "lng": 13.21944017989272
+        },
+        "southwest": {
+          "lat": 11.85007832010728,
+          "lng": 13.21674052010728
+        }
+      },
+      "formatted_address": "V629+H62, Bulama, Bama Road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8513995,13.2180167",
+      "google_place_id": "ChIJFZiKjSqiBBERma-u0EDWMIk"
+    }
   },
   {
     "id": "34278",
@@ -237,7 +427,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34279",
@@ -253,7 +444,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8673275,
+      "longitude": 13.1690109,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86880562989272,
+          "lng": 13.17045832989272
+        },
+        "southwest": {
+          "lat": 11.86610597010728,
+          "lng": 13.16775867010728
+        }
+      },
+      "formatted_address": "V589+WJJ, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8673275,13.1690109",
+      "google_place_id": "ChIJQbOFmqaYBBERX1nGQtCkQWs"
+    }
   },
   {
     "id": "34280",
@@ -269,7 +477,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34281",
@@ -285,7 +494,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8517501,
+      "longitude": 13.149834,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85308282989272,
+          "lng": 13.15114397989272
+        },
+        "southwest": {
+          "lat": 11.85038317010728,
+          "lng": 13.14844432010728
+        }
+      },
+      "formatted_address": "Borno Maiduguri Metropolitant Coucil, Monday Market, Galadima Kyari Drive One Way, Mafoni, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8517501,13.149834",
+      "google_place_id": "ChIJV56usKyfBBERpm8h6MSy1L0"
+    }
   },
   {
     "id": "34282",
@@ -301,7 +527,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34283",
@@ -317,7 +544,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8327805,
+      "longitude": 13.2002638,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83428632989272,
+          "lng": 13.20184967989272
+        },
+        "southwest": {
+          "lat": 11.83158667010728,
+          "lng": 13.19915002010728
+        }
+      },
+      "formatted_address": "R6M2+446, 611104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8327805,13.2002638",
+      "google_place_id": "ChIJXyiLXpShBBERToHqWX9Q5Cg"
+    }
   },
   {
     "id": "34284",
@@ -333,7 +577,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8327805,
+      "longitude": 13.2002638,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83428632989272,
+          "lng": 13.20184967989272
+        },
+        "southwest": {
+          "lat": 11.83158667010728,
+          "lng": 13.19915002010728
+        }
+      },
+      "formatted_address": "R6M2+446, 611104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8327805,13.2002638",
+      "google_place_id": "ChIJXyiLXpShBBERToHqWX9Q5Cg"
+    }
   },
   {
     "id": "34285",
@@ -349,7 +610,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8509058,
+      "longitude": 13.1762404,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85224142989272,
+          "lng": 13.17756262989272
+        },
+        "southwest": {
+          "lat": 11.84954177010728,
+          "lng": 13.17486297010728
+        }
+      },
+      "formatted_address": "V52G+9G6, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8509058,13.1762404",
+      "google_place_id": "ChIJYSF3zjihBBER3tG7sdRNvzI"
+    }
   },
   {
     "id": "34286",
@@ -365,7 +643,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8408713,
+      "longitude": 13.1613848,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84220182989272,
+          "lng": 13.16276932989272
+        },
+        "southwest": {
+          "lat": 11.83950217010728,
+          "lng": 13.16006967010728
+        }
+      },
+      "formatted_address": "Waziri Kyari Dr, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8408713,13.1613848",
+      "google_place_id": "ChIJu6Q525qfBBERaux1ZieZ9Ls"
+    }
   },
   {
     "id": "34287",
@@ -381,7 +676,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8296061,
+      "longitude": 13.1469216,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83086907989272,
+          "lng": 13.14812257989272
+        },
+        "southwest": {
+          "lat": 11.82816942010728,
+          "lng": 13.14542292010728
+        }
+      },
+      "formatted_address": "R4HW+RQV, Damboa Rd, opposite police Commissioner's residence, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8296061,13.1469216",
+      "google_place_id": "ChIJB4Yncn2fBBERFJO2JigIG9E"
+    }
   },
   {
     "id": "34288",
@@ -397,6 +709,7 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

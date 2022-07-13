@@ -13,7 +13,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8597259,
+      "longitude": 13.1764121,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86102517989272,
+          "lng": 13.17780832989272
+        },
+        "southwest": {
+          "lat": 11.85832552010728,
+          "lng": 13.17510867010728
+        }
+      },
+      "formatted_address": "600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8597259,13.1764121",
+      "google_place_id": "ChIJWaAHGweiBBERBi-cvEQxZtc"
+    }
   },
   {
     "id": "35417",
@@ -29,7 +46,8 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35418",
@@ -45,7 +63,8 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35419",
@@ -61,7 +80,24 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5734604,
+      "longitude": 12.4973612,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57486977989272,
+          "lng": 12.49886637989272
+        },
+        "southwest": {
+          "lat": 12.57217012010728,
+          "lng": 12.49616672010728
+        }
+      },
+      "formatted_address": "602102, Dabira Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5734604,12.4973612",
+      "google_place_id": "ChIJN_kj2EW0BRERpmJ7knpthnY"
+    }
   },
   {
     "id": "35420",
@@ -77,7 +113,8 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35421",
@@ -93,6 +130,7 @@
     "local_government_id": "164",
     "local_government_name": "MOBBAR",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

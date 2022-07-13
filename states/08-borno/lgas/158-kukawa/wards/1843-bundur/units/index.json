@@ -13,7 +13,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33973",
@@ -29,7 +30,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33974",
@@ -45,6 +47,23 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.8922351,
+      "longitude": 13.6923123,
+      "viewport": {
+        "northeast": {
+          "lat": 12.89360462989272,
+          "lng": 13.69364862989272
+        },
+        "southwest": {
+          "lat": 12.89090497010728,
+          "lng": 13.69094897010728
+        }
+      },
+      "formatted_address": "Bundur Primary School, 612102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8922351,13.6923123",
+      "google_place_id": "ChIJ2Zobli-3GhERa3ol5Mmvbqo"
+    }
   }
 ]

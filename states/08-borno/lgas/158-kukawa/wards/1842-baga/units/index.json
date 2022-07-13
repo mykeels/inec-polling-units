@@ -13,7 +13,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33940",
@@ -29,7 +30,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33941",
@@ -45,7 +47,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33942",
@@ -61,7 +80,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9229652,
+      "longitude": 13.5639377,
+      "viewport": {
+        "northeast": {
+          "lat": 12.92424892989272,
+          "lng": 13.56521727989272
+        },
+        "southwest": {
+          "lat": 12.92154927010728,
+          "lng": 13.56251762010728
+        }
+      },
+      "formatted_address": "Lawanti Road, Baga, Kukawa Local Government Area Baga, 600214, Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9229652,13.5639377",
+      "google_place_id": "ChIJrwk-dm-zGhERs3KSTB2ZLWM"
+    }
   },
   {
     "id": "33943",
@@ -77,7 +113,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7912842,
+      "longitude": 13.1711739,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79265077989272,
+          "lng": 13.17255072989272
+        },
+        "southwest": {
+          "lat": 11.78995112010728,
+          "lng": 13.16985107010728
+        }
+      },
+      "formatted_address": "4 Gombole Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7912842,13.1711739",
+      "google_place_id": "ChIJucSEJoOfBBERtGuryKnBKUs"
+    }
   },
   {
     "id": "33944",
@@ -93,7 +146,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33945",
@@ -109,7 +179,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.662102,
+      "longitude": 13.2787157,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6644619,
+          "lng": 13.280165
+        },
+        "southwest": {
+          "lat": 12.660162,
+          "lng": 13.2763821
+        }
+      },
+      "formatted_address": "612102, Bulabulin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.662102,13.2787157",
+      "google_place_id": "ChIJ61IElUw7BRERK_UQiUho83w"
+    }
   },
   {
     "id": "33946",
@@ -125,7 +212,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33947",
@@ -141,7 +245,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7593989,
+      "longitude": 13.1336693,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76074872989272,
+          "lng": 13.13501912989272
+        },
+        "southwest": {
+          "lat": 11.75804907010728,
+          "lng": 13.13231947010728
+        }
+      },
+      "formatted_address": "Q45M+QF3, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7593989,13.1336693",
+      "google_place_id": "ChIJQ3OvRklhAxERSuCmK9qmh34"
+    }
   },
   {
     "id": "33948",
@@ -157,7 +278,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.0940577,
+      "longitude": 13.8174589,
+      "viewport": {
+        "northeast": {
+          "lat": 13.09544757989272,
+          "lng": 13.81880932989272
+        },
+        "southwest": {
+          "lat": 13.09274792010728,
+          "lng": 13.81610967010728
+        }
+      },
+      "formatted_address": "3RV8+JX5, 612102, Baga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0940577,13.8174589",
+      "google_place_id": "ChIJw8AdQbSmGhERhuiAV3ES4Ic"
+    }
   },
   {
     "id": "33949",
@@ -173,7 +311,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5273198,
+      "longitude": 13.2463289,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52877437989272,
+          "lng": 13.24767427989272
+        },
+        "southwest": {
+          "lat": 12.52607472010728,
+          "lng": 13.24497462010728
+        }
+      },
+      "formatted_address": "612103, Mile Three, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5273198,13.2463289",
+      "google_place_id": "ChIJoxSKyiMhBRERqABnye4AamA"
+    }
   },
   {
     "id": "33950",
@@ -189,7 +344,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33951",
@@ -205,7 +361,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33952",
@@ -221,7 +378,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "33953",
@@ -237,7 +411,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5202373,
+      "longitude": 13.2968333,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52155187989272,
+          "lng": 13.29822942989272
+        },
+        "southwest": {
+          "lat": 12.51885222010728,
+          "lng": 13.29552977010728
+        }
+      },
+      "formatted_address": "612103, Koduri Bulamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5202373,13.2968333",
+      "google_place_id": "ChIJCyrlSOImBRERQRvogL9u4Z0"
+    }
   },
   {
     "id": "33954",
@@ -253,7 +444,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.530309,
+      "longitude": 12.9865557,
+      "viewport": {
+        "northeast": {
+          "lat": 12.53164932989272,
+          "lng": 12.98785132989272
+        },
+        "southwest": {
+          "lat": 12.52894967010728,
+          "lng": 12.98515167010728
+        }
+      },
+      "formatted_address": "612103, Yoberi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.530309,12.9865557",
+      "google_place_id": "ChIJL6xZVNQCBRERmhZx3COejFw"
+    }
   },
   {
     "id": "33955",
@@ -269,7 +477,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33956",
@@ -285,7 +510,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33957",
@@ -301,7 +527,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33958",
@@ -317,7 +560,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33959",
@@ -333,7 +577,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.7990159,
+      "longitude": 13.1518635,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80036577989272,
+          "lng": 13.15320112989272
+        },
+        "southwest": {
+          "lat": 11.79766612010728,
+          "lng": 13.15050147010728
+        }
+      },
+      "formatted_address": "Q5X2+JQ4, Kamoa Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7990159,13.1518635",
+      "google_place_id": "ChIJXUaJx9qfBBER9tN1x9P0GRo"
+    }
   },
   {
     "id": "33960",
@@ -349,7 +610,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33961",
@@ -365,7 +627,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33962",
@@ -381,7 +660,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33963",
@@ -397,7 +693,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33964",
@@ -413,7 +726,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33965",
@@ -429,7 +743,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.614868,
+      "longitude": 12.1937716,
+      "viewport": {
+        "northeast": {
+          "lat": 10.61610777989272,
+          "lng": 12.19496527989272
+        },
+        "southwest": {
+          "lat": 10.61340812010728,
+          "lng": 12.19226562010727
+        }
+      },
+      "formatted_address": "GOMBE ROAD, BIU BORNO STATE#, Biu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.614868,12.1937716",
+      "google_place_id": "ChIJJ0mi1-YbAhERHxphBjZWMrI"
+    }
   },
   {
     "id": "33966",
@@ -445,7 +776,8 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33967",
@@ -461,7 +793,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33968",
@@ -477,7 +826,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33969",
@@ -493,7 +859,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33970",
@@ -509,7 +892,24 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.9901879,
+      "longitude": 13.7289167,
+      "viewport": {
+        "northeast": {
+          "lat": 13.4194315,
+          "lng": 14.1365766
+        },
+        "southwest": {
+          "lat": 12.6675385,
+          "lng": 13.3208003
+        }
+      },
+      "formatted_address": "Kukawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9901879,13.7289167",
+      "google_place_id": "ChIJEZkIgX2vGhERPaXV9o498hI"
+    }
   },
   {
     "id": "33971",
@@ -525,6 +925,7 @@
     "local_government_id": "158",
     "local_government_name": "KUKAWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

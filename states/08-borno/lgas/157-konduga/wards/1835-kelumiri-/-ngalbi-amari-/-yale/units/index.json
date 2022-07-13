@@ -13,7 +13,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33814",
@@ -29,7 +30,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
   },
   {
     "id": "33815",
@@ -45,7 +63,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8097859,
+      "longitude": 13.1824907,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81105287989272,
+          "lng": 13.18363962989272
+        },
+        "southwest": {
+          "lat": 11.80835322010728,
+          "lng": 13.18093997010728
+        }
+      },
+      "formatted_address": "R55M+W2H, Bama Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8097859,13.1824907",
+      "google_place_id": "ChIJUwLrAdOhBBERyu8fjozvE8A"
+    }
   },
   {
     "id": "33816",
@@ -61,7 +96,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8097859,
+      "longitude": 13.1824907,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81105287989272,
+          "lng": 13.18363962989272
+        },
+        "southwest": {
+          "lat": 11.80835322010728,
+          "lng": 13.18093997010728
+        }
+      },
+      "formatted_address": "R55M+W2H, Bama Road, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8097859,13.1824907",
+      "google_place_id": "ChIJUwLrAdOhBBERyu8fjozvE8A"
+    }
   },
   {
     "id": "33817",
@@ -77,7 +129,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8565771,
+      "longitude": 13.1519808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85795487989272,
+          "lng": 13.15329572989272
+        },
+        "southwest": {
+          "lat": 11.85525522010728,
+          "lng": 13.15059607010728
+        }
+      },
+      "formatted_address": "V542+JR2, Lamisula ward, Shehuri, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8565771,13.1519808",
+      "google_place_id": "ChIJmWsHnLWYBBERJ3RBCTlTZi0"
+    }
   },
   {
     "id": "33818",
@@ -93,7 +162,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8023735,
+      "longitude": 13.1930808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80373697989272,
+          "lng": 13.19441857989272
+        },
+        "southwest": {
+          "lat": 11.80103732010728,
+          "lng": 13.19171892010728
+        }
+      },
+      "formatted_address": "University of Maiduguri, 1069 Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8023735,13.1930808",
+      "google_place_id": "ChIJ2VANJlqgBBERuzm_Hf5oVzs"
+    }
   },
   {
     "id": "33819",
@@ -109,7 +195,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8023735,
+      "longitude": 13.1930808,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80373697989272,
+          "lng": 13.19441857989272
+        },
+        "southwest": {
+          "lat": 11.80103732010728,
+          "lng": 13.19171892010728
+        }
+      },
+      "formatted_address": "University of Maiduguri, 1069 Bama - Maiduguri Rd, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8023735,13.1930808",
+      "google_place_id": "ChIJ2VANJlqgBBERuzm_Hf5oVzs"
+    }
   },
   {
     "id": "33820",
@@ -125,7 +228,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33821",
@@ -141,7 +245,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0006296,
+      "longitude": 12.9525486,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0088131,
+          "lng": 12.960491
+        },
+        "southwest": {
+          "lat": 11.993813,
+          "lng": 12.945769
+        }
+      },
+      "formatted_address": "602104, Gabchari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0006296,12.9525486",
+      "google_place_id": "ChIJT0R80l2OBBERtYpB3dqLEDQ"
+    }
   },
   {
     "id": "33822",
@@ -157,7 +278,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33823",
@@ -173,7 +295,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33824",
@@ -189,7 +312,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33825",
@@ -205,7 +329,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33826",
@@ -221,6 +346,23 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.662156,
+      "longitude": 13.3951074,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66345862989272,
+          "lng": 13.39648557989272
+        },
+        "southwest": {
+          "lat": 11.66075897010728,
+          "lng": 13.39378592010728
+        }
+      },
+      "formatted_address": "M96W+V2G, 610104, Konduga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.662156,13.3951074",
+      "google_place_id": "ChIJj-hw6tJQAxERA5Veo9Hu8Js"
+    }
   }
 ]

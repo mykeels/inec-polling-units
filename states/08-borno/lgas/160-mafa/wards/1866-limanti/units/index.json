@@ -13,7 +13,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34202",
@@ -29,7 +30,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9518213,
+      "longitude": 13.4280586,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0346296,
+          "lng": 13.5250863
+        },
+        "southwest": {
+          "lat": 11.8741331,
+          "lng": 13.2844658
+        }
+      },
+      "formatted_address": "Limanti, 611104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9518213,13.4280586",
+      "google_place_id": "ChIJhzOGykqwBBERgh1aJVl67lI"
+    }
   },
   {
     "id": "34203",
@@ -45,7 +63,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8465483,
+      "longitude": 13.16152,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84788287989272,
+          "lng": 13.16291652989272
+        },
+        "southwest": {
+          "lat": 11.84518322010728,
+          "lng": 13.16021687010728
+        }
+      },
+      "formatted_address": "ngileruma street, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8465483,13.16152",
+      "google_place_id": "ChIJM4u2-jSfBBERnsPZB5XP0bQ"
+    }
   },
   {
     "id": "34204",
@@ -61,7 +96,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34205",
@@ -77,7 +113,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34206",
@@ -93,7 +130,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34207",
@@ -109,6 +147,23 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9500811,
+      "longitude": 13.3266043,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95196877989272,
+          "lng": 13.32822977989272
+        },
+        "southwest": {
+          "lat": 11.94926912010728,
+          "lng": 13.32553012010728
+        }
+      },
+      "formatted_address": "611104, Azaya Musari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9500811,13.3266043",
+      "google_place_id": "ChIJqT9zh8S6BBERLxpJP43NIu4"
+    }
   }
 ]

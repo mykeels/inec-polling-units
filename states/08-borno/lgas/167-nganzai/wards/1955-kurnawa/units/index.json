@@ -13,7 +13,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8372624,
+      "longitude": 13.1433734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83843587989272,
+          "lng": 13.14473802989272
+        },
+        "southwest": {
+          "lat": 11.83573622010728,
+          "lng": 13.14203837010728
+        }
+      },
+      "formatted_address": "R4PV+W89, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8372624,13.1433734",
+      "google_place_id": "ChIJV4RgiTufBBEROZiqC2vPaj0"
+    }
   },
   {
     "id": "35816",
@@ -29,7 +46,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5315932,
+      "longitude": 13.1886345,
+      "viewport": {
+        "northeast": {
+          "lat": 12.53294077989272,
+          "lng": 13.19031327989272
+        },
+        "southwest": {
+          "lat": 12.53024112010728,
+          "lng": 13.18761362010728
+        }
+      },
+      "formatted_address": "612103, Damaram Lawanti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5315932,13.1886345",
+      "google_place_id": "ChIJu0-s_c4hBRER4VvGueICyII"
+    }
   },
   {
     "id": "35817",
@@ -45,7 +79,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8577125,
+      "longitude": 13.1648538,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85907487989272,
+          "lng": 13.16612182989272
+        },
+        "southwest": {
+          "lat": 11.85637522010728,
+          "lng": 13.16342217010728
+        }
+      },
+      "formatted_address": "V557+3WQ, Maiduguri-Labe-Kukawa Road, Gamboru 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8577125,13.1648538",
+      "google_place_id": "ChIJudubc4-ZBBERNiYmx4KLLis"
+    }
   },
   {
     "id": "35818",
@@ -61,6 +112,23 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.7328488,
+      "longitude": 13.0986865,
+      "viewport": {
+        "northeast": {
+          "lat": 12.73411837989272,
+          "lng": 13.10013292989272
+        },
+        "southwest": {
+          "lat": 12.73141872010728,
+          "lng": 13.09743327010728
+        }
+      },
+      "formatted_address": "612103, Kurnawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7328488,13.0986865",
+      "google_place_id": "ChIJvczN274WBRERSSZLo_G0Sek"
+    }
   }
 ]

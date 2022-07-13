@@ -13,7 +13,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9054119,
+      "longitude": 14.3559158,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0279049,
+          "lng": 14.431656
+        },
+        "southwest": {
+          "lat": 11.82796,
+          "lng": 14.3059296
+        }
+      },
+      "formatted_address": "Jarawa/Sangaya, 611103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9054119,14.3559158",
+      "google_place_id": "ChIJm_62Q32cGxERWC-s6KDWarg"
+    }
   },
   {
     "id": "33620",
@@ -29,7 +46,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5683996,
+      "longitude": 13.6091417,
+      "viewport": {
+        "northeast": {
+          "lat": 12.56960732989272,
+          "lng": 13.61072982989272
+        },
+        "southwest": {
+          "lat": 12.56690767010728,
+          "lng": 13.60803017010728
+        }
+      },
+      "formatted_address": "612101, Dasaa Malari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5683996,13.6091417",
+      "google_place_id": "ChIJk9MRl5XTGhERIDvOM2dNrXo"
+    }
   },
   {
     "id": "33621",
@@ -45,7 +79,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9942373,
+      "longitude": 14.3526429,
+      "viewport": {
+        "northeast": {
+          "lat": 11.99530187989272,
+          "lng": 14.35420187989272
+        },
+        "southwest": {
+          "lat": 11.99260222010728,
+          "lng": 14.35150222010728
+        }
+      },
+      "formatted_address": "611103, Tiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9942373,14.3526429",
+      "google_place_id": "ChIJTSOZ15SeGxERsm1Hr2XTsmE"
+    }
   },
   {
     "id": "33622",
@@ -61,7 +112,8 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33623",
@@ -77,7 +129,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9073171,
+      "longitude": 14.379555,
+      "viewport": {
+        "northeast": {
+          "lat": 11.90835772989272,
+          "lng": 14.3813241
+        },
+        "southwest": {
+          "lat": 11.90565807010728,
+          "lng": 14.3777131
+        }
+      },
+      "formatted_address": "611103, Sabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9073171,14.379555",
+      "google_place_id": "ChIJm6Sv1GGbGxERIbDgh5OgoiA"
+    }
   },
   {
     "id": "33624",
@@ -93,7 +162,24 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9054119,
+      "longitude": 14.3559158,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0279049,
+          "lng": 14.431656
+        },
+        "southwest": {
+          "lat": 11.82796,
+          "lng": 14.3059296
+        }
+      },
+      "formatted_address": "Jarawa/Sangaya, 611103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9054119,14.3559158",
+      "google_place_id": "ChIJm_62Q32cGxERWC-s6KDWarg"
+    }
   },
   {
     "id": "33625",
@@ -109,6 +195,7 @@
     "local_government_id": "156",
     "local_government_name": "KALA BALGE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

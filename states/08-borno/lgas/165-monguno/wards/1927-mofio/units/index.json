@@ -13,7 +13,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35524",
@@ -29,7 +30,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3460697,
+      "longitude": 13.3702811,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3946174,
+          "lng": 13.5074487
+        },
+        "southwest": {
+          "lat": 12.2660363,
+          "lng": 13.2815048
+        }
+      },
+      "formatted_address": "Mofio, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3460697,13.3702811",
+      "google_place_id": "ChIJkWEqclfQBBERN7TYavjhe4o"
+    }
   },
   {
     "id": "35525",
@@ -45,7 +63,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35526",
@@ -61,7 +80,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2965986,
+      "longitude": 13.3157777,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2985351,
+          "lng": 13.31739632989272
+        },
+        "southwest": {
+          "lat": 12.295202,
+          "lng": 13.31469667010728
+        }
+      },
+      "formatted_address": "612101, Jele Kura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2965986,13.3157777",
+      "google_place_id": "ChIJnwY-SNTaBBER0xSCUDtFaSk"
+    }
   },
   {
     "id": "35527",
@@ -77,7 +113,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6729174,
+      "longitude": 13.616014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6870681,
+          "lng": 13.628497
+        },
+        "southwest": {
+          "lat": 12.661329,
+          "lng": 13.5959859
+        }
+      },
+      "formatted_address": "612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6729174,13.616014",
+      "google_place_id": "ChIJQZTHTrPNGhERS5oUKy8ISB8"
+    }
   },
   {
     "id": "35528",
@@ -93,7 +146,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35529",
@@ -109,6 +163,23 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.6729174,
+      "longitude": 13.616014,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6870681,
+          "lng": 13.628497
+        },
+        "southwest": {
+          "lat": 12.661329,
+          "lng": 13.5959859
+        }
+      },
+      "formatted_address": "612101, Monguno, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6729174,13.616014",
+      "google_place_id": "ChIJQZTHTrPNGhERS5oUKy8ISB8"
+    }
   }
 ]

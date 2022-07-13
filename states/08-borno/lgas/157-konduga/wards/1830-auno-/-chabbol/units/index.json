@@ -13,7 +13,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33697",
@@ -29,7 +30,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33698",
@@ -45,7 +47,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33699",
@@ -61,7 +64,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33700",
@@ -77,7 +81,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33701",
@@ -93,7 +98,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33702",
@@ -109,7 +115,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33703",
@@ -125,7 +132,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33704",
@@ -141,7 +149,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33705",
@@ -157,7 +166,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33706",
@@ -173,7 +183,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8519762,
+      "longitude": 13.1667966,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85323272989272,
+          "lng": 13.16827712989272
+        },
+        "southwest": {
+          "lat": 11.85053307010728,
+          "lng": 13.16557747010728
+        }
+      },
+      "formatted_address": "V528+QPV, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8519762,13.1667966",
+      "google_place_id": "ChIJdSUESFOfBBER_2rQ9gZipSQ"
+    }
   },
   {
     "id": "33707",
@@ -189,7 +216,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0380434,
+      "longitude": 13.0709849,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0424241,
+          "lng": 13.0758529
+        },
+        "southwest": {
+          "lat": 12.0354799,
+          "lng": 13.066394
+        }
+      },
+      "formatted_address": "600104, Tungushe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0380434,13.0709849",
+      "google_place_id": "ChIJs_Gv2fyTBBERHcU_un5rxY0"
+    }
   },
   {
     "id": "33708",
@@ -205,7 +249,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8621579,
+      "longitude": 13.1302378,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86344657989272,
+          "lng": 13.13168667989272
+        },
+        "southwest": {
+          "lat": 11.86074692010728,
+          "lng": 13.12898702010728
+        }
+      },
+      "formatted_address": "LAY OUT, NO 18, FALARI SHOPPING COMPLEX, off RURAL ELECTRIFICATION BOARD, Bolori, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8621579,13.1302378",
+      "google_place_id": "ChIJ43iT6y6ZBBERlYj9dAWkVp0"
+    }
   },
   {
     "id": "33709",
@@ -221,7 +282,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8332864,
+      "longitude": 13.1867236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83436902989272,
+          "lng": 13.18809572989272
+        },
+        "southwest": {
+          "lat": 11.83166937010728,
+          "lng": 13.18539607010728
+        }
+      },
+      "formatted_address": "R5MP+8M9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8332864,13.1867236",
+      "google_place_id": "ChIJDTQMlOihBBERKpA91hyD_94"
+    }
   },
   {
     "id": "33710",
@@ -237,7 +315,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8332864,
+      "longitude": 13.1867236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83436902989272,
+          "lng": 13.18809572989272
+        },
+        "southwest": {
+          "lat": 11.83166937010728,
+          "lng": 13.18539607010728
+        }
+      },
+      "formatted_address": "R5MP+8M9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8332864,13.1867236",
+      "google_place_id": "ChIJDTQMlOihBBERKpA91hyD_94"
+    }
   },
   {
     "id": "33711",
@@ -253,7 +348,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8332864,
+      "longitude": 13.1867236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83436902989272,
+          "lng": 13.18809572989272
+        },
+        "southwest": {
+          "lat": 11.83166937010728,
+          "lng": 13.18539607010728
+        }
+      },
+      "formatted_address": "R5MP+8M9, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8332864,13.1867236",
+      "google_place_id": "ChIJDTQMlOihBBERKpA91hyD_94"
+    }
   },
   {
     "id": "33712",
@@ -269,7 +381,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "33713",
@@ -285,7 +414,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8465442,
+      "longitude": 13.0272522,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84838632989272,
+          "lng": 13.02865177989272
+        },
+        "southwest": {
+          "lat": 11.84568667010728,
+          "lng": 13.02595212010728
+        }
+      },
+      "formatted_address": "R2WG+HWR, 602104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8465442,13.0272522",
+      "google_place_id": "ChIJy3ZRoI-cBBERTLAWyWiYiqY"
+    }
   },
   {
     "id": "33714",
@@ -301,7 +447,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.845817,
+      "longitude": 13.0425841,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84701212989272,
+          "lng": 13.04392307989272
+        },
+        "southwest": {
+          "lat": 11.84431247010728,
+          "lng": 13.04122342010728
+        }
+      },
+      "formatted_address": "R2WV+82G, 610111, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.845817,13.0425841",
+      "google_place_id": "ChIJ2aiZLNSdBBERrMzsn8VpZew"
+    }
   },
   {
     "id": "33715",
@@ -317,7 +480,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33716",
@@ -333,7 +497,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "33717",
@@ -349,7 +530,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8292373,
+      "longitude": 13.1182464,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83058837989272,
+          "lng": 13.11965772989272
+        },
+        "southwest": {
+          "lat": 11.82788872010728,
+          "lng": 13.11695807010728
+        }
+      },
+      "formatted_address": "R4H9+M7X, Damboa-Biu Road, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8292373,13.1182464",
+      "google_place_id": "ChIJUeCuA9mfBBER-W7QbXd5KLE"
+    }
   },
   {
     "id": "33718",
@@ -365,7 +563,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8409492,
+      "longitude": 13.0739963,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84203637989272,
+          "lng": 13.07525062989272
+        },
+        "southwest": {
+          "lat": 11.83933672010728,
+          "lng": 13.07255097010728
+        }
+      },
+      "formatted_address": "R3RF+9HH, 600104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8409492,13.0739963",
+      "google_place_id": "ChIJM54i6AGdBBERuzlrmEleJQw"
+    }
   },
   {
     "id": "33719",
@@ -381,7 +596,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33720",
@@ -397,7 +613,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8621579,
+      "longitude": 13.1302378,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86344657989272,
+          "lng": 13.13168667989272
+        },
+        "southwest": {
+          "lat": 11.86074692010728,
+          "lng": 13.12898702010728
+        }
+      },
+      "formatted_address": "LAY OUT, NO 18, FALARI SHOPPING COMPLEX, off RURAL ELECTRIFICATION BOARD, Bolori, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8621579,13.1302378",
+      "google_place_id": "ChIJ43iT6y6ZBBERlYj9dAWkVp0"
+    }
   },
   {
     "id": "33721",
@@ -413,7 +646,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33722",
@@ -429,7 +663,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33723",
@@ -445,7 +680,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33724",
@@ -461,7 +697,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33725",
@@ -477,7 +714,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33726",
@@ -493,7 +731,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33727",
@@ -509,7 +748,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 43.1501791,
+      "longitude": -80.74509030000002,
+      "viewport": {
+        "northeast": {
+          "lat": 43.15154732989272,
+          "lng": -80.74375992010728
+        },
+        "southwest": {
+          "lat": 43.14884767010728,
+          "lng": -80.74645957989271
+        }
+      },
+      "formatted_address": "470 Industrial Ave, Woodstock, ON N4S 7L1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.1501791,-80.74509030000002",
+      "google_place_id": "ChIJgWgLtlEfLIgRbr9fajND2nU"
+    }
   },
   {
     "id": "33728",
@@ -525,7 +781,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33729",
@@ -541,7 +798,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 43.6500099,
+      "longitude": -79.38118240000001,
+      "viewport": {
+        "northeast": {
+          "lat": 43.65139612989272,
+          "lng": -79.37966862010728
+        },
+        "southwest": {
+          "lat": 43.64869647010728,
+          "lng": -79.38236827989273
+        }
+      },
+      "formatted_address": "330 Bay St., Toronto, ON M5H 2S8, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6500099,-79.38118240000001",
+      "google_place_id": "ChIJ8ZzZSM00K4gR5V89n_C_SVQ"
+    }
   },
   {
     "id": "33730",
@@ -557,7 +831,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33731",
@@ -573,7 +848,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33732",
@@ -589,7 +865,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33733",
@@ -605,7 +882,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33734",
@@ -621,7 +899,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33735",
@@ -637,7 +916,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33736",
@@ -653,7 +933,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33737",
@@ -669,7 +950,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8089459,
+      "longitude": 13.1371811,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81028187989272,
+          "lng": 13.13855962989272
+        },
+        "southwest": {
+          "lat": 11.80758222010728,
+          "lng": 13.13585997010728
+        }
+      },
+      "formatted_address": "R45P+HVF, Damboa Rd, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8089459,13.1371811",
+      "google_place_id": "ChIJE04NL6ifBBERQnpBBVxIo44"
+    }
   },
   {
     "id": "33738",
@@ -685,7 +983,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33739",
@@ -701,7 +1000,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33740",
@@ -717,7 +1017,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33741",
@@ -733,7 +1034,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33742",
@@ -749,7 +1051,8 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33743",
@@ -765,7 +1068,24 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8629004,
+      "longitude": 13.1304005,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86437362989272,
+          "lng": 13.13155152989272
+        },
+        "southwest": {
+          "lat": 11.86167397010728,
+          "lng": 13.12885187010728
+        }
+      },
+      "formatted_address": "V47J+556, Bolori 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8629004,13.1304005",
+      "google_place_id": "ChIJiw3BrOWZBBERSHYf3cQLuPI"
+    }
   },
   {
     "id": "33744",
@@ -781,6 +1101,23 @@
     "local_government_id": "157",
     "local_government_name": "KONDUGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8630772,
+      "longitude": 13.1306433,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86431337989272,
+          "lng": 13.13216682989272
+        },
+        "southwest": {
+          "lat": 11.86161372010728,
+          "lng": 13.12946717010728
+        }
+      },
+      "formatted_address": "V47J+67J, Bolori 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8630772,13.1306433",
+      "google_place_id": "ChIJdb57PECZBBERCVjWaq3HciQ"
+    }
   }
 ]

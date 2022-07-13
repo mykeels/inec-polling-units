@@ -13,7 +13,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 40.613105,
+      "longitude": -74.59105459999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.61460307989272,
+          "lng": -74.58954177010727
+        },
+        "southwest": {
+          "lat": 40.61190342010728,
+          "lng": -74.59224142989272
+        }
+      },
+      "formatted_address": "1300 Crim Rd, Bridgewater Township, NJ 08807, United States",
+      "google_map_url": "https://maps.google.com?q=40.613105,-74.59105459999999",
+      "google_place_id": "ChIJg9h0tSe-w4kR2hKVLy-5aMI"
+    }
   },
   {
     "id": "35774",
@@ -29,7 +46,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8629004,
+      "longitude": 13.1304005,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86437362989272,
+          "lng": 13.13155152989272
+        },
+        "southwest": {
+          "lat": 11.86167397010728,
+          "lng": 13.12885187010728
+        }
+      },
+      "formatted_address": "V47J+556, Bolori 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8629004,13.1304005",
+      "google_place_id": "ChIJiw3BrOWZBBERSHYf3cQLuPI"
+    }
   },
   {
     "id": "35775",
@@ -45,7 +79,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5076977,
+      "longitude": 12.5941755,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50911337989272,
+          "lng": 12.59546782989272
+        },
+        "southwest": {
+          "lat": 12.50641372010728,
+          "lng": 12.59276817010728
+        }
+      },
+      "formatted_address": "602102, Sherifti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5076977,12.5941755",
+      "google_place_id": "ChIJVY_uSMuyBRERKjMm1HlOK3s"
+    }
   },
   {
     "id": "35776",
@@ -61,7 +112,24 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5076977,
+      "longitude": 12.5941755,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50911337989272,
+          "lng": 12.59546782989272
+        },
+        "southwest": {
+          "lat": 12.50641372010728,
+          "lng": 12.59276817010728
+        }
+      },
+      "formatted_address": "602102, Sherifti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5076977,12.5941755",
+      "google_place_id": "ChIJVY_uSMuyBRERKjMm1HlOK3s"
+    }
   },
   {
     "id": "35777",
@@ -77,7 +145,8 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35778",
@@ -93,6 +162,7 @@
     "local_government_id": "167",
     "local_government_name": "NGANZAI",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2265835,
+      "longitude": 11.6216435,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22795527989272,
+          "lng": 11.62297527989272
+        },
+        "southwest": {
+          "lat": 10.22525562010728,
+          "lng": 11.62027562010728
+        }
+      },
+      "formatted_address": "Jara Gol Primary School, 761123, Jaragwol, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2265835,11.6216435",
+      "google_place_id": "ChIJH-Krd6w8_hARG3PhTCRKmtA"
+    }
   },
   {
     "id": "31639",
@@ -29,7 +46,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2916966,
+      "longitude": 11.6267989,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29294082989272,
+          "lng": 11.6299349
+        },
+        "southwest": {
+          "lat": 10.29024117010728,
+          "lng": 11.6249349
+        }
+      },
+      "formatted_address": "761123, Tuji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2916966,11.6267989",
+      "google_place_id": "ChIJ2ZFACZIj_hARmKep4OSfMgA"
+    }
   },
   {
     "id": "31640",
@@ -45,7 +79,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31641",
@@ -61,7 +96,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.3087336,
+      "longitude": 11.58413,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31011272989272,
+          "lng": 11.58560362989272
+        },
+        "southwest": {
+          "lat": 10.30741307010728,
+          "lng": 11.58290397010728
+        }
+      },
+      "formatted_address": "8H5M+FJX, 761123, Nahantsi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3087336,11.58413",
+      "google_place_id": "ChIJu66sLCUk_hARUi2OEH4SpW0"
+    }
   },
   {
     "id": "31642",
@@ -77,7 +129,24 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8327805,
+      "longitude": 13.2002638,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83428632989272,
+          "lng": 13.20184967989272
+        },
+        "southwest": {
+          "lat": 11.83158667010728,
+          "lng": 13.19915002010728
+        }
+      },
+      "formatted_address": "R6M2+446, 611104, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8327805,13.2002638",
+      "google_place_id": "ChIJXyiLXpShBBERToHqWX9Q5Cg"
+    }
   },
   {
     "id": "31643",
@@ -93,7 +162,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31644",
@@ -109,7 +179,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31645",
@@ -125,7 +196,8 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "31646",
@@ -141,6 +213,23 @@
     "local_government_id": "145",
     "local_government_name": "BAYO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.2630775,
+      "longitude": 11.6271544,
+      "viewport": {
+        "northeast": {
+          "lat": 10.3308098,
+          "lng": 11.6722306
+        },
+        "southwest": {
+          "lat": 10.1751841,
+          "lng": 11.5330628
+        }
+      },
+      "formatted_address": "Jara Gol, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2630775,11.6271544",
+      "google_place_id": "ChIJQ6pO35ck_hARprI_rcoGmTw"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.4486929,
+      "longitude": 13.3356272,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5759772,
+          "lng": 13.4082607
+        },
+        "southwest": {
+          "lat": 12.3807879,
+          "lng": 13.2996833
+        }
+      },
+      "formatted_address": "Zulum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4486929,13.3356272",
+      "google_place_id": "ChIJEfHDY_wnBRERJ-TVa7-xQtQ"
+    }
   },
   {
     "id": "35612",
@@ -29,7 +46,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35613",
@@ -45,7 +63,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35614",
@@ -61,7 +80,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35615",
@@ -77,6 +97,7 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

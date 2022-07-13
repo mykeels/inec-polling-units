@@ -13,7 +13,24 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "32023",
@@ -29,7 +46,8 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32024",
@@ -45,7 +63,24 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.2502909,
+      "longitude": 13.4167449,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25164072989272,
+          "lng": 13.41809472989272
+        },
+        "southwest": {
+          "lat": 11.24894107010728,
+          "lng": 13.41539507010728
+        }
+      },
+      "formatted_address": "7C28+4M9, 610106, Bitta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2502909,13.4167449",
+      "google_place_id": "ChIJDdzGoboxAxERi-4MlqdW0jo"
+    }
   },
   {
     "id": "32025",
@@ -61,7 +96,8 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32026",
@@ -77,7 +113,24 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.902046,
+      "longitude": 12.7199759,
+      "viewport": {
+        "northeast": {
+          "lat": 10.909613,
+          "lng": 12.7214651
+        },
+        "southwest": {
+          "lat": 10.9004101,
+          "lng": 12.716629
+        }
+      },
+      "formatted_address": "601102, Yarchida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.902046,12.7199759",
+      "google_place_id": "ChIJofoGA1JXAhERAeRvbVab87c"
+    }
   },
   {
     "id": "32027",
@@ -93,7 +146,8 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32028",
@@ -109,7 +163,8 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32029",
@@ -125,6 +180,23 @@
     "local_government_id": "147",
     "local_government_name": "CHIBOK",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 10.8692052,
+      "longitude": 12.8476207,
+      "viewport": {
+        "northeast": {
+          "lat": 10.8802979,
+          "lng": 12.85826
+        },
+        "southwest": {
+          "lat": 10.8588801,
+          "lng": 12.8340879
+        }
+      },
+      "formatted_address": "601102, Chibok, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8692052,12.8476207",
+      "google_place_id": "ChIJa6gOa5_3AhERcwL2JS1TQyM"
+    }
   }
 ]

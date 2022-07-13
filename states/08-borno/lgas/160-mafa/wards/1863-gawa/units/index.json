@@ -13,7 +13,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34177",
@@ -29,7 +30,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34178",
@@ -45,7 +47,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9336619,
+      "longitude": 13.7984428,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0166852,
+          "lng": 13.8582613
+        },
+        "southwest": {
+          "lat": 11.7632904,
+          "lng": 13.7276725
+        }
+      },
+      "formatted_address": "Gawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9336619,13.7984428",
+      "google_place_id": "ChIJIfINBj5bGxERoRssflIVWFQ"
+    }
   },
   {
     "id": "34179",
@@ -61,7 +80,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9336619,
+      "longitude": 13.7984428,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0166852,
+          "lng": 13.8582613
+        },
+        "southwest": {
+          "lat": 11.7632904,
+          "lng": 13.7276725
+        }
+      },
+      "formatted_address": "Gawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9336619,13.7984428",
+      "google_place_id": "ChIJIfINBj5bGxERoRssflIVWFQ"
+    }
   },
   {
     "id": "34180",
@@ -77,7 +113,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34181",
@@ -93,7 +130,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.797318,
+      "longitude": 13.7893878,
+      "viewport": {
+        "northeast": {
+          "lat": 11.798813,
+          "lng": 13.7921579
+        },
+        "southwest": {
+          "lat": 11.7932579,
+          "lng": 13.7866021
+        }
+      },
+      "formatted_address": "611104, Gumshe Ngoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.797318,13.7893878",
+      "google_place_id": "ChIJzXeeNhJZGxERpSOZjp6OvtI"
+    }
   },
   {
     "id": "34182",
@@ -109,7 +163,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34183",
@@ -125,7 +180,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34184",
@@ -141,7 +197,24 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.9336619,
+      "longitude": 13.7984428,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0166852,
+          "lng": 13.8582613
+        },
+        "southwest": {
+          "lat": 11.7632904,
+          "lng": 13.7276725
+        }
+      },
+      "formatted_address": "Gawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9336619,13.7984428",
+      "google_place_id": "ChIJIfINBj5bGxERoRssflIVWFQ"
+    }
   },
   {
     "id": "34185",
@@ -157,7 +230,8 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "34186",
@@ -173,6 +247,7 @@
     "local_government_id": "160",
     "local_government_name": "MAFA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

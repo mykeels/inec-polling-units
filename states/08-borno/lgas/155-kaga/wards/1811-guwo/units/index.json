@@ -13,7 +13,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33532",
@@ -29,7 +30,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8480551,
+      "longitude": 13.1601207,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84925562989272,
+          "lng": 13.16143352989272
+        },
+        "southwest": {
+          "lat": 11.84655597010728,
+          "lng": 13.15873387010728
+        }
+      },
+      "formatted_address": "Sultan's Palace, Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8480551,13.1601207",
+      "google_place_id": "ChIJJ_e8pKufBBERNowBeI_ax6A"
+    }
   },
   {
     "id": "33533",
@@ -45,6 +63,7 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

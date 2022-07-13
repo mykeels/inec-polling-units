@@ -13,7 +13,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3640592,
+      "longitude": 13.8277397,
+      "viewport": {
+        "northeast": {
+          "lat": 12.36542077989272,
+          "lng": 13.82908142989272
+        },
+        "southwest": {
+          "lat": 12.36272112010728,
+          "lng": 13.82638177010728
+        }
+      },
+      "formatted_address": "9R7H+J3H, 611105, Marte, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3640592,13.8277397",
+      "google_place_id": "ChIJF2qnTtghGxERm5me7w3qPQg"
+    }
   },
   {
     "id": "35402",
@@ -29,7 +46,24 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.5417661,
+      "longitude": 13.9260001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.643188,
+          "lng": 14.016611
+        },
+        "southwest": {
+          "lat": 12.4237367,
+          "lng": 13.8463099
+        }
+      },
+      "formatted_address": "Zaga, 611105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5417661,13.9260001",
+      "google_place_id": "ChIJhTJXeUznGhERdYEJGpCIv7o"
+    }
   },
   {
     "id": "35403",
@@ -45,7 +79,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35404",
@@ -61,7 +96,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35405",
@@ -77,7 +113,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35406",
@@ -93,7 +130,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35407",
@@ -109,7 +147,8 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35408",
@@ -125,6 +164,23 @@
     "local_government_id": "163",
     "local_government_name": "MARTE",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.3325,
+      "longitude": 13.722,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33384982989272,
+          "lng": 13.72334982989272
+        },
+        "southwest": {
+          "lat": 12.33115017010728,
+          "lng": 13.72065017010728
+        }
+      },
+      "formatted_address": "8PJC+XRR, 611105, Abriski, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3325,13.722",
+      "google_place_id": "ChIJQRlda2QvGxER9NmKRl_v0K0"
+    }
   }
 ]

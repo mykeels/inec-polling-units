@@ -13,7 +13,24 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8089459,
+      "longitude": 13.1371811,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81028187989272,
+          "lng": 13.13855962989272
+        },
+        "southwest": {
+          "lat": 11.80758222010728,
+          "lng": 13.13585997010728
+        }
+      },
+      "formatted_address": "R45P+HVF, Damboa Rd, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8089459,13.1371811",
+      "google_place_id": "ChIJV4zlxzCfBBERPcgZn41TmGs"
+    }
   },
   {
     "id": "30941",
@@ -29,7 +46,8 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "30942",
@@ -45,7 +63,8 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "30943",
@@ -61,6 +80,23 @@
     "local_government_id": "142",
     "local_government_name": "ABADAM",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 13.6185365,
+      "longitude": 13.2631561,
+      "viewport": {
+        "northeast": {
+          "lat": 13.61926272989272,
+          "lng": 13.26440427989272
+        },
+        "southwest": {
+          "lat": 13.61656307010728,
+          "lng": 13.26170462010728
+        }
+      },
+      "formatted_address": "J797+C76, 602103, Abadam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.6185365,13.2631561",
+      "google_place_id": "ChIJbU4yzGPBDxER_uy24RIr__4"
+    }
   }
 ]

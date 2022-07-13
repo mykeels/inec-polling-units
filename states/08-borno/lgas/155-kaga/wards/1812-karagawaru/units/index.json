@@ -13,7 +13,8 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "33535",
@@ -29,7 +30,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8480551,
+      "longitude": 13.1601207,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84925562989272,
+          "lng": 13.16143352989272
+        },
+        "southwest": {
+          "lat": 11.84655597010728,
+          "lng": 13.15873387010728
+        }
+      },
+      "formatted_address": "Sultan's Palace, Shehuri 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8480551,13.1601207",
+      "google_place_id": "ChIJJ_e8pKufBBERNowBeI_ax6A"
+    }
   },
   {
     "id": "33536",
@@ -45,7 +63,24 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8137536,
+      "longitude": 13.13473,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81505442989272,
+          "lng": 13.13619022989272
+        },
+        "southwest": {
+          "lat": 11.81235477010727,
+          "lng": 13.13349057010728
+        }
+      },
+      "formatted_address": "R47M+GV5, Tangale Rd, 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8137536,13.13473",
+      "google_place_id": "ChIJwW2suAafBBERTeXRMpof8R0"
+    }
   },
   {
     "id": "33537",
@@ -61,6 +96,7 @@
     "local_government_id": "155",
     "local_government_name": "KAGA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

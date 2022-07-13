@@ -13,7 +13,24 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8629004,
+      "longitude": 13.1304005,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86437362989272,
+          "lng": 13.13155152989272
+        },
+        "southwest": {
+          "lat": 11.86167397010728,
+          "lng": 13.12885187010728
+        }
+      },
+      "formatted_address": "V47J+556, Bolori 600282, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8629004,13.1304005",
+      "google_place_id": "ChIJiw3BrOWZBBERSHYf3cQLuPI"
+    }
   },
   {
     "id": "32321",
@@ -29,7 +46,8 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32322",
@@ -45,7 +63,24 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0438319,
+      "longitude": 13.9111794,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04539447989272,
+          "lng": 13.91243147989272
+        },
+        "southwest": {
+          "lat": 12.04269482010728,
+          "lng": 13.90973182010728
+        }
+      },
+      "formatted_address": "2WV6+GFG, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0438319,13.9111794",
+      "google_place_id": "ChIJ4ej_W69BGxER2gCCcApHm30"
+    }
   },
   {
     "id": "32323",
@@ -61,7 +96,24 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.0438319,
+      "longitude": 13.9111794,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04539447989272,
+          "lng": 13.91243147989272
+        },
+        "southwest": {
+          "lat": 12.04269482010728,
+          "lng": 13.90973182010728
+        }
+      },
+      "formatted_address": "2WV6+GFG, 611101, Dikwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0438319,13.9111794",
+      "google_place_id": "ChIJ4ej_W69BGxER2gCCcApHm30"
+    }
   },
   {
     "id": "32324",
@@ -77,7 +129,8 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32325",
@@ -93,7 +146,8 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32326",
@@ -109,7 +163,8 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "32327",
@@ -125,6 +180,7 @@
     "local_government_id": "149",
     "local_government_name": "DIKWA",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   }
 ]

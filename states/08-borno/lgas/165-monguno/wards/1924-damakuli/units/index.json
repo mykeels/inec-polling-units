@@ -13,7 +13,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35508",
@@ -29,7 +30,8 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": null
   },
   {
     "id": "35509",
@@ -45,7 +47,24 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 12.2719543,
+      "longitude": 13.3853861,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2732581,
+          "lng": 13.38697987989272
+        },
+        "southwest": {
+          "lat": 12.267424,
+          "lng": 13.38428022010728
+        }
+      },
+      "formatted_address": "612101, Damakuli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2719543,13.3853861",
+      "google_place_id": "ChIJkRnv8hfQBBERCe1xTRvbvcU"
+    }
   },
   {
     "id": "35510",
@@ -61,6 +80,23 @@
     "local_government_id": "165",
     "local_government_name": "MONGUNO",
     "state_id": "8",
-    "state_name": "BORNO"
+    "state_name": "BORNO",
+    "location": {
+      "latitude": 11.8099092,
+      "longitude": 13.1511322,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81129837989272,
+          "lng": 13.15236442989272
+        },
+        "southwest": {
+          "lat": 11.80859872010728,
+          "lng": 13.14966477010728
+        }
+      },
+      "formatted_address": "MB dalhatu House no40 polo road, Maiduguri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8099092,13.1511322",
+      "google_place_id": "ChIJk28y-MufBBERuCAvsJerXEk"
+    }
   }
 ]
