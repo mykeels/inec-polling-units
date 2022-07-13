@@ -13,7 +13,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": -6.075438,
+      "longitude": 145.3817231,
+      "viewport": {
+        "northeast": {
+          "lat": -6.074018720107278,
+          "lng": 145.3831716298927
+        },
+        "southwest": {
+          "lat": -6.076718379892722,
+          "lng": 145.3804719701073
+        }
+      },
+      "formatted_address": "W9FJ+RMH, Goroka, Papua New Guinea",
+      "google_map_url": "https://maps.google.com?q=-6.075438,145.3817231",
+      "google_place_id": "ChIJwX6PbOpzWGgR4YBxWlZguBw"
+    }
   },
   {
     "id": "71363",
@@ -29,7 +46,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71364",
@@ -45,7 +63,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71365",
@@ -61,7 +80,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6212435,
+      "longitude": 8.9700817,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6268541,
+          "lng": 8.9757442
+        },
+        "southwest": {
+          "lat": 12.6178921,
+          "lng": 8.9669037
+        }
+      },
+      "formatted_address": "732104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6212435,8.9700817",
+      "google_place_id": "ChIJGcGN74rYrhERI7IgaTYuIR0"
+    }
   },
   {
     "id": "71366",
@@ -77,7 +113,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71367",
@@ -93,6 +130,23 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7530115,
+      "longitude": 8.555621,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7773385,
+          "lng": 8.6008439
+        },
+        "southwest": {
+          "lat": 12.7251623,
+          "lng": 8.5135341
+        }
+      },
+      "formatted_address": "Yankwashi, 705102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7530115,8.555621",
+      "google_place_id": "ChIJE1rJ604BrxERmPyYy-OFNHc"
+    }
   }
 ]

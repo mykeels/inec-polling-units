@@ -13,7 +13,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70993",
@@ -29,7 +30,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70994",
@@ -45,7 +47,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5712504,
+      "longitude": 8.3636131,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57294185,
+          "lng": 8.36536402989272
+        },
+        "southwest": {
+          "lat": 12.56617605,
+          "lng": 8.362664370107277
+        }
+      },
+      "formatted_address": "H9C7+GC5, 705104, Roni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5712504,8.3636131",
+      "google_place_id": "ChIJVVVVVWVRrhERI7yVGE45EZI"
+    }
   },
   {
     "id": "70995",
@@ -61,7 +80,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5712504,
+      "longitude": 8.3636131,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57294185,
+          "lng": 8.36536402989272
+        },
+        "southwest": {
+          "lat": 12.56617605,
+          "lng": 8.362664370107277
+        }
+      },
+      "formatted_address": "H9C7+GC5, 705104, Roni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5712504,8.3636131",
+      "google_place_id": "ChIJVVVVVWVRrhERI7yVGE45EZI"
+    }
   },
   {
     "id": "70996",
@@ -77,7 +113,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.5679694,
+      "longitude": 9.320734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56911177989272,
+          "lng": 9.322104929892722
+        },
+        "southwest": {
+          "lat": 11.56641212010728,
+          "lng": 9.319405270107278
+        }
+      },
+      "formatted_address": "H89C+57Q, Kiyawa Road, 712103, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5679694,9.320734",
+      "google_place_id": "ChIJi7V7y9_zqxERyrEFk0ldfbg"
+    }
   },
   {
     "id": "70997",
@@ -93,7 +146,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70998",
@@ -109,7 +163,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70999",
@@ -125,7 +180,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71000",
@@ -141,7 +197,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 7.1128241,
+      "longitude": 125.6513488,
+      "viewport": {
+        "northeast": {
+          "lat": 7.114184579892722,
+          "lng": 125.6526856298927
+        },
+        "southwest": {
+          "lat": 7.111484920107278,
+          "lng": 125.6499859701073
+        }
+      },
+      "formatted_address": "Km. 8 Davao Agusan Road, Buhangin, Davao City, Davao del Sur, Philippines",
+      "google_map_url": "https://maps.google.com?q=7.1128241,125.6513488",
+      "google_place_id": "ChIJXWLn2k1t-TIRmM31aYllUX8"
+    }
   },
   {
     "id": "71001",
@@ -157,6 +230,7 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

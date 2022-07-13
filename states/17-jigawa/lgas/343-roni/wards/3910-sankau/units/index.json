@@ -13,7 +13,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70983",
@@ -29,7 +30,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70984",
@@ -45,7 +47,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.5679694,
+      "longitude": 9.320734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56911177989272,
+          "lng": 9.322104929892722
+        },
+        "southwest": {
+          "lat": 11.56641212010728,
+          "lng": 9.319405270107278
+        }
+      },
+      "formatted_address": "H89C+57Q, Kiyawa Road, 712103, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5679694,9.320734",
+      "google_place_id": "ChIJi7V7y9_zqxERyrEFk0ldfbg"
+    }
   },
   {
     "id": "70985",
@@ -61,7 +80,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70986",
@@ -77,7 +97,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.8357918,
+      "longitude": 8.5963573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83713197989272,
+          "lng": 8.59765647989272
+        },
+        "southwest": {
+          "lat": 11.83443232010728,
+          "lng": 8.594956820107276
+        }
+      },
+      "formatted_address": "RHPW+8G7, Kano-Garko Road, 713104, Dawakin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8357918,8.5963573",
+      "google_place_id": "ChIJ6yhdgUQvrBERPvi9jRdhxNk"
+    }
   },
   {
     "id": "70987",
@@ -93,7 +130,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.56963,
+      "longitude": 8.940901,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57098537989272,
+          "lng": 8.942251679892722
+        },
+        "southwest": {
+          "lat": 12.56828572010728,
+          "lng": 8.939552020107278
+        }
+      },
+      "formatted_address": "Roni Kasuwar ciki Roni kwatsatsa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.56963,8.940901",
+      "google_place_id": "ChIJsaqh8ajZrhEREtMXOdITbAE"
+    }
   },
   {
     "id": "70988",
@@ -109,7 +163,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70989",
@@ -125,7 +180,24 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7169276,
+      "longitude": 9.3582232,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71816057989272,
+          "lng": 9.359490579892721
+        },
+        "southwest": {
+          "lat": 11.71546092010728,
+          "lng": 9.356790920107278
+        }
+      },
+      "formatted_address": "beside Freedom Radio, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7169276,9.3582232",
+      "google_place_id": "ChIJ9RlkJxPxqxERG4fzq_rzYig"
+    }
   },
   {
     "id": "70990",
@@ -141,7 +213,8 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70991",
@@ -157,6 +230,7 @@
     "local_government_id": "343",
     "local_government_name": "RONI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

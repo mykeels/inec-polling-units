@@ -13,7 +13,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJlZho1TkFqRERQqaMU7Kyieg"
+    }
   },
   {
     "id": "69665",
@@ -29,7 +46,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3517838,
+      "longitude": 9.8653528,
+      "viewport": {
+        "northeast": {
+          "lat": 12.35320107989272,
+          "lng": 9.866939929892723
+        },
+        "southwest": {
+          "lat": 12.35050142010728,
+          "lng": 9.86424027010728
+        }
+      },
+      "formatted_address": "9V28+P49, 730102, Dakayawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3517838,9.8653528",
+      "google_place_id": "ChIJIxuKit8JqRERoSAD9NxibII"
+    }
   },
   {
     "id": "69666",
@@ -45,7 +79,8 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69667",
@@ -61,7 +96,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.1556005,
+      "longitude": 9.1564903,
+      "viewport": {
+        "northeast": {
+          "lat": 12.15686347989272,
+          "lng": 9.157854379892722
+        },
+        "southwest": {
+          "lat": 12.15416382010728,
+          "lng": 9.155154720107278
+        }
+      },
+      "formatted_address": "5544+6HX, 733102, Ringim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1556005,9.1564903",
+      "google_place_id": "ChIJOwwsjA-zrhERtpB_SwhILrk"
+    }
   },
   {
     "id": "69668",
@@ -77,7 +129,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3430781,
+      "longitude": 9.5426726,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34445707989272,
+          "lng": 9.544010529892722
+        },
+        "southwest": {
+          "lat": 12.34175742010728,
+          "lng": 9.541310870107278
+        }
+      },
+      "formatted_address": "Gumel-Ringim Rd, 733103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3430781,9.5426726",
+      "google_place_id": "ChIJ5zTYmhA_qRER8nWcZsOUO7A"
+    }
   },
   {
     "id": "69669",
@@ -93,7 +162,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.3430781,
+      "longitude": 9.5426726,
+      "viewport": {
+        "northeast": {
+          "lat": 12.34445707989272,
+          "lng": 9.544010529892722
+        },
+        "southwest": {
+          "lat": 12.34175742010728,
+          "lng": 9.541310870107278
+        }
+      },
+      "formatted_address": "Gumel-Ringim Rd, 733103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3430781,9.5426726",
+      "google_place_id": "ChIJ5zTYmhA_qRER8nWcZsOUO7A"
+    }
   },
   {
     "id": "69670",
@@ -109,7 +195,8 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69671",
@@ -125,7 +212,8 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69672",
@@ -141,6 +229,7 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

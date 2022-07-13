@@ -13,7 +13,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71412",
@@ -29,7 +30,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7530115,
+      "longitude": 8.555621,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7773385,
+          "lng": 8.6008439
+        },
+        "southwest": {
+          "lat": 12.7251623,
+          "lng": 8.5135341
+        }
+      },
+      "formatted_address": "Yankwashi, 705102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7530115,8.555621",
+      "google_place_id": "ChIJE1rJ604BrxERmPyYy-OFNHc"
+    }
   },
   {
     "id": "71413",
@@ -45,7 +63,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 43.4691201,
+      "longitude": -80.5756985,
+      "viewport": {
+        "northeast": {
+          "lat": 43.47033122989272,
+          "lng": -80.57479927010728
+        },
+        "southwest": {
+          "lat": 43.46763157010728,
+          "lng": -80.57749892989273
+        }
+      },
+      "formatted_address": "460 Brentcliffe Dr, Waterloo, ON N2T 2R5, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4691201,-80.5756985",
+      "google_place_id": "ChIJ2VgR-M_2K4gRtoVGxfwKPrI"
+    }
   },
   {
     "id": "71414",
@@ -61,7 +96,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7830962,
+      "longitude": 8.506200699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.836251,
+          "lng": 8.6819138
+        },
+        "southwest": {
+          "lat": 12.6449971,
+          "lng": 8.3945821
+        }
+      },
+      "formatted_address": "Yankwashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7830962,8.506200699999999",
+      "google_place_id": "ChIJ6wrwOCMBrxERA7Z7rFbgw68"
+    }
   },
   {
     "id": "71415",
@@ -77,7 +129,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7830962,
+      "longitude": 8.506200699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78448117989272,
+          "lng": 8.508013279892722
+        },
+        "southwest": {
+          "lat": 12.78178152010728,
+          "lng": 8.505313620107279
+        }
+      },
+      "formatted_address": "QGM4+6FP, 705102, Randa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7830962,8.506200699999999",
+      "google_place_id": "ChIJiWmTHe4HrxERjPI1KFJU4mQ"
+    }
   },
   {
     "id": "71416",
@@ -93,7 +162,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7830962,
+      "longitude": 8.506200699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.78448117989272,
+          "lng": 8.508013279892722
+        },
+        "southwest": {
+          "lat": 12.78178152010728,
+          "lng": 8.505313620107279
+        }
+      },
+      "formatted_address": "QGM4+6FP, 705102, Randa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7830962,8.506200699999999",
+      "google_place_id": "ChIJiWmTHe4HrxERjPI1KFJU4mQ"
+    }
   },
   {
     "id": "71417",
@@ -109,6 +195,23 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7562,
+      "longitude": 8.5802,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75754592989272,
+          "lng": 8.581610479892722
+        },
+        "southwest": {
+          "lat": 12.75484627010728,
+          "lng": 8.578910820107279
+        }
+      },
+      "formatted_address": "QH4J+F3P, 705102, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7562,8.5802",
+      "google_place_id": "ChIJDzrJ9fgDrxERO2nxYQtay-M"
+    }
   }
 ]

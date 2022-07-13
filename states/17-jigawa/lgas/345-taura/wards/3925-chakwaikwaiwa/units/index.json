@@ -13,7 +13,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2928082,
+      "longitude": 9.3654874,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29415537989272,
+          "lng": 9.366934379892722
+        },
+        "southwest": {
+          "lat": 12.29145572010728,
+          "lng": 9.364234720107278
+        }
+      },
+      "formatted_address": "Chakwaikwaiwa Primary School, 733103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2928082,9.3654874",
+      "google_place_id": "ChIJ9Sr1QfY3qRER8FKuebMYAh0"
+    }
   },
   {
     "id": "71209",
@@ -29,7 +46,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2744397,
+      "longitude": 9.3970065,
+      "viewport": {
+        "northeast": {
+          "lat": 12.27591352989272,
+          "lng": 9.398242579892722
+        },
+        "southwest": {
+          "lat": 12.27321387010728,
+          "lng": 9.395542920107278
+        }
+      },
+      "formatted_address": "79FW+QRM, 733103, Chakwaikwaiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2744397,9.3970065",
+      "google_place_id": "ChIJs959ObVHqRERGxTdF8fFUCI"
+    }
   },
   {
     "id": "71210",
@@ -45,7 +79,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2789744,
+      "longitude": 9.430906799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28025772989272,
+          "lng": 9.432194279892723
+        },
+        "southwest": {
+          "lat": 12.27755807010728,
+          "lng": 9.42949462010728
+        }
+      },
+      "formatted_address": "7CHJ+HCR, 733103, Ringim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2789744,9.430906799999999",
+      "google_place_id": "ChIJ72uE4Z44qRERGt28WNbSwYk"
+    }
   },
   {
     "id": "71211",
@@ -61,7 +112,8 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71212",
@@ -77,7 +129,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2330438,
+      "longitude": 9.2807402,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23442627989272,
+          "lng": 9.281830279892722
+        },
+        "southwest": {
+          "lat": 12.23172662010728,
+          "lng": 9.279130620107278
+        }
+      },
+      "formatted_address": "67MJ+679, Garki Road 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2330438,9.2807402",
+      "google_place_id": "ChIJj7P8MvhJqRERHrnDyfD1J8s"
+    }
   },
   {
     "id": "71213",
@@ -93,7 +162,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.220502,
+      "longitude": 9.281635,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22188602989272,
+          "lng": 9.283009829892721
+        },
+        "southwest": {
+          "lat": 12.21918637010728,
+          "lng": 9.280310170107278
+        }
+      },
+      "formatted_address": "67CJ+6M2, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.220502,9.281635",
+      "google_place_id": "ChIJzcwjcs5JqRERZenebq_fq3I"
+    }
   },
   {
     "id": "71214",
@@ -109,7 +195,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2029497,
+      "longitude": 9.3214154,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20422092989272,
+          "lng": 9.32273877989272
+        },
+        "southwest": {
+          "lat": 12.20152127010728,
+          "lng": 9.320039120107277
+        }
+      },
+      "formatted_address": "683C+5HF, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2029497,9.3214154",
+      "google_place_id": "ChIJyQEhDSdJqRER5sB7KiLMIwM"
+    }
   },
   {
     "id": "71215",
@@ -125,7 +228,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2265807,
+      "longitude": 9.2861817,
+      "viewport": {
+        "northeast": {
+          "lat": 12.22796587989272,
+          "lng": 9.287519979892721
+        },
+        "southwest": {
+          "lat": 12.22526622010728,
+          "lng": 9.284820320107277
+        }
+      },
+      "formatted_address": "67GP+JFM, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2265807,9.2861817",
+      "google_place_id": "ChIJ16VT8XtJqRERrvGsXyHT1VA"
+    }
   },
   {
     "id": "71216",
@@ -141,7 +261,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2330438,
+      "longitude": 9.2807402,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23442627989272,
+          "lng": 9.281830279892722
+        },
+        "southwest": {
+          "lat": 12.23172662010728,
+          "lng": 9.279130620107278
+        }
+      },
+      "formatted_address": "67MJ+679, Garki Road 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2330438,9.2807402",
+      "google_place_id": "ChIJj7P8MvhJqRERHrnDyfD1J8s"
+    }
   },
   {
     "id": "71217",
@@ -157,7 +294,24 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2744397,
+      "longitude": 9.3970065,
+      "viewport": {
+        "northeast": {
+          "lat": 12.27591352989272,
+          "lng": 9.398242579892722
+        },
+        "southwest": {
+          "lat": 12.27321387010728,
+          "lng": 9.395542920107278
+        }
+      },
+      "formatted_address": "79FW+QRM, 733103, Chakwaikwaiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2744397,9.3970065",
+      "google_place_id": "ChIJs959ObVHqRERGxTdF8fFUCI"
+    }
   },
   {
     "id": "71218",
@@ -173,6 +327,23 @@
     "local_government_id": "345",
     "local_government_name": "TAURA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2029497,
+      "longitude": 9.3214154,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20422092989272,
+          "lng": 9.32273877989272
+        },
+        "southwest": {
+          "lat": 12.20152127010728,
+          "lng": 9.320039120107277
+        }
+      },
+      "formatted_address": "683C+5HF, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2029497,9.3214154",
+      "google_place_id": "ChIJyQEhDSdJqRER5sB7KiLMIwM"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5951897,
+      "longitude": 9.8031657,
+      "viewport": {
+        "northeast": {
+          "lat": 12.59647462989272,
+          "lng": 9.804560979892722
+        },
+        "southwest": {
+          "lat": 12.59377497010728,
+          "lng": 9.801861320107278
+        }
+      },
+      "formatted_address": "Arbus Primary School, Gumel-Hadejia Rd, 730102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5951897,9.8031657",
+      "google_place_id": "ChIJRU57kSQCqRERUEnieO1IZkM"
+    }
   },
   {
     "id": "69607",
@@ -29,7 +46,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6224988,
+      "longitude": 9.3899739,
+      "viewport": {
+        "northeast": {
+          "lat": 12.62382942989272,
+          "lng": 9.391510679892722
+        },
+        "southwest": {
+          "lat": 12.62112977010728,
+          "lng": 9.388811020107278
+        }
+      },
+      "formatted_address": "J9CQ+XXX, Kano-Gumel Rd, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6224988,9.3899739",
+      "google_place_id": "ChIJ-RxHVpMnqRERsyaa8MZqyrU"
+    }
   },
   {
     "id": "69608",
@@ -45,7 +79,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2029497,
+      "longitude": 9.3214154,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20422092989272,
+          "lng": 9.32273877989272
+        },
+        "southwest": {
+          "lat": 12.20152127010728,
+          "lng": 9.320039120107277
+        }
+      },
+      "formatted_address": "683C+5HF, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2029497,9.3214154",
+      "google_place_id": "ChIJyQEhDSdJqRER5sB7KiLMIwM"
+    }
   },
   {
     "id": "69609",
@@ -61,7 +112,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5685864,
+      "longitude": 9.799984,
+      "viewport": {
+        "northeast": {
+          "lat": 12.56989617989272,
+          "lng": 9.801323379892722
+        },
+        "southwest": {
+          "lat": 12.56719652010728,
+          "lng": 9.798623720107278
+        }
+      },
+      "formatted_address": "Dodarin Primary School, 730102, Chinamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5685864,9.799984",
+      "google_place_id": "ChIJjcy38s8DqRERFVqgIDOgPlE"
+    }
   },
   {
     "id": "69610",
@@ -77,7 +145,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6095317,
+      "longitude": 9.7698728,
+      "viewport": {
+        "northeast": {
+          "lat": 12.61095242989272,
+          "lng": 9.771277429892722
+        },
+        "southwest": {
+          "lat": 12.60825277010728,
+          "lng": 9.768577770107278
+        }
+      },
+      "formatted_address": "Dalarin Primary School, 730102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6095317,9.7698728",
+      "google_place_id": "ChIJvfWGOmICqRERowZTjrgDxIU"
+    }
   },
   {
     "id": "69611",
@@ -93,7 +178,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5902463,
+      "longitude": 9.8267051,
+      "viewport": {
+        "northeast": {
+          "lat": 12.59154817989272,
+          "lng": 9.828059679892721
+        },
+        "southwest": {
+          "lat": 12.58884852010728,
+          "lng": 9.825360020107277
+        }
+      },
+      "formatted_address": "kantamari Primary School, 730102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5902463,9.8267051",
+      "google_place_id": "ChIJq-lnhpABqRERQx6fIUHg-B8"
+    }
   },
   {
     "id": "69612",
@@ -109,7 +211,8 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69613",
@@ -125,7 +228,8 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69614",
@@ -141,7 +245,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4506066,
+      "longitude": 10.040496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45195212989272,
+          "lng": 10.04183082989272
+        },
+        "southwest": {
+          "lat": 12.44925247010728,
+          "lng": 10.03913117010728
+        }
+      },
+      "formatted_address": "10 Maje Rd, 731211, Hadejia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4506066,10.040496",
+      "google_place_id": "ChIJB_XP0wqvqRER1IIlpPXm5ec"
+    }
   },
   {
     "id": "69615",
@@ -157,7 +278,24 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.2029497,
+      "longitude": 9.3214154,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20422092989272,
+          "lng": 9.32273877989272
+        },
+        "southwest": {
+          "lat": 12.20152127010728,
+          "lng": 9.320039120107277
+        }
+      },
+      "formatted_address": "683C+5HF, 733103, Taura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2029497,9.3214154",
+      "google_place_id": "ChIJyQEhDSdJqRER5sB7KiLMIwM"
+    }
   },
   {
     "id": "69616",
@@ -173,7 +311,8 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69617",
@@ -189,6 +328,23 @@
     "local_government_id": "335",
     "local_government_name": "KAUGAMA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5902463,
+      "longitude": 9.8267051,
+      "viewport": {
+        "northeast": {
+          "lat": 12.59154817989272,
+          "lng": 9.828059679892721
+        },
+        "southwest": {
+          "lat": 12.58884852010728,
+          "lng": 9.825360020107277
+        }
+      },
+      "formatted_address": "kantamari Primary School, 730102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5902463,9.8267051",
+      "google_place_id": "ChIJq-lnhpABqRERQx6fIUHg-B8"
+    }
   }
 ]

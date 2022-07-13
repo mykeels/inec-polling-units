@@ -13,7 +13,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70445",
@@ -29,7 +30,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70446",
@@ -45,7 +47,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70447",
@@ -61,7 +64,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70448",
@@ -77,7 +81,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70449",
@@ -93,7 +98,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70450",
@@ -109,7 +115,24 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.4994959,
+      "longitude": 9.9764625,
+      "viewport": {
+        "northeast": {
+          "lat": 12.50080227989272,
+          "lng": 9.977769929892721
+        },
+        "southwest": {
+          "lat": 12.49810262010728,
+          "lng": 9.975070270107278
+        }
+      },
+      "formatted_address": "Baguwar Habe Primary School, 730101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4994959,9.9764625",
+      "google_place_id": "ChIJ16uaZDmpqRER86TJMQxwB78"
+    }
   },
   {
     "id": "70451",
@@ -125,7 +148,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70452",
@@ -141,7 +165,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70453",
@@ -157,7 +182,24 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5255635,
+      "longitude": 9.9277366,
+      "viewport": {
+        "northeast": {
+          "lat": 12.52688247989272,
+          "lng": 9.929184429892722
+        },
+        "southwest": {
+          "lat": 12.52418282010728,
+          "lng": 9.926484770107278
+        }
+      },
+      "formatted_address": "Chanchanda Primary School, 730101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5255635,9.9277366",
+      "google_place_id": "ChIJl99YuoupqRERYdTnMe6y6yA"
+    }
   },
   {
     "id": "70454",
@@ -173,7 +215,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70455",
@@ -189,7 +232,8 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70456",
@@ -205,6 +249,7 @@
     "local_government_id": "340",
     "local_government_name": "MALAM MADORI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

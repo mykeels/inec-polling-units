@@ -13,7 +13,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.7135396,
+      "longitude": 6.566366800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.71491362989272,
+          "lng": 6.567687829892722
+        },
+        "southwest": {
+          "lat": 10.71221397010728,
+          "lng": 6.564988170107278
+        }
+      },
+      "formatted_address": "7F28PH78+9HV Gayam Kaduna, 800108, Mando, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7135396,6.566366800000001",
+      "google_place_id": "ChIJv90BXCtRsxERKxi6igZXvz4"
+    }
   },
   {
     "id": "71511",
@@ -29,7 +46,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6982,
+      "longitude": 6.7845,
+      "viewport": {
+        "northeast": {
+          "lat": 10.69954982989272,
+          "lng": 6.785849829892721
+        },
+        "southwest": {
+          "lat": 10.69685017010728,
+          "lng": 6.783150170107277
+        }
+      },
+      "formatted_address": "MQXM+7RC, 800103, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6982,6.7845",
+      "google_place_id": "ChIJob23gKM3sxERJ2tEVRXnvz8"
+    }
   },
   {
     "id": "71512",
@@ -45,7 +79,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.7913587,
+      "longitude": 6.635705499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.79275617989272,
+          "lng": 6.637053479892722
+        },
+        "southwest": {
+          "lat": 10.79005652010728,
+          "lng": 6.634353820107278
+        }
+      },
+      "formatted_address": "7F28QJRP+G7X Gayam Kaduna, 800108, Kamfanin Doka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7913587,6.635705499999999",
+      "google_place_id": "ChIJSXrRKRVFsxERrc3ZYKwbtOc"
+    }
   },
   {
     "id": "71513",
@@ -61,7 +112,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5104795,
+      "longitude": 7.416459199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51181817989272,
+          "lng": 7.41784342989272
+        },
+        "southwest": {
+          "lat": 10.50911852010728,
+          "lng": 7.415143770107276
+        }
+      },
+      "formatted_address": "Port harcourt Birnin Gwari, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5104795,7.416459199999999",
+      "google_place_id": "ChIJM-rcZ0U1TRAR9ysBYueaeKk"
+    }
   },
   {
     "id": "71514",
@@ -77,7 +145,8 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "71515",
@@ -93,7 +162,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6651068,
+      "longitude": 6.5452284,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66644892989272,
+          "lng": 6.546522879892722
+        },
+        "southwest": {
+          "lat": 10.66374927010728,
+          "lng": 6.543823220107278
+        }
+      },
+      "formatted_address": "7F28MG8W+23X community MG1 Kaduna, Maguwari, 800116, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6651068,6.5452284",
+      "google_place_id": "ChIJYb3JpXJRsxER1-cQIfGba_A"
+    }
   },
   {
     "id": "71516",
@@ -109,7 +195,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6731757,
+          "lng": 6.550426499999999
+        },
+        "southwest": {
+          "lat": 10.6556734,
+          "lng": 6.532552099999999
+        }
+      },
+      "formatted_address": "Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJp3TVBaJRsxER84fCge2L0fo"
+    }
   },
   {
     "id": "71517",
@@ -125,7 +228,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.50993,
+      "longitude": 7.42914,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51128267989272,
+          "lng": 7.430529779892721
+        },
+        "southwest": {
+          "lat": 10.50858302010728,
+          "lng": 7.427830120107277
+        }
+      },
+      "formatted_address": "KM21, Lagos Road, Kaduna North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.50993,7.42914",
+      "google_place_id": "ChIJIxwaiWc1TRARC4DiByuE8HE"
+    }
   },
   {
     "id": "71518",
@@ -141,7 +261,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6649198,
+      "longitude": 6.544583299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66643652989272,
+          "lng": 6.545910679892721
+        },
+        "southwest": {
+          "lat": 10.66373687010728,
+          "lng": 6.543211020107277
+        }
+      },
+      "formatted_address": "Emir Palace, 800116, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6649198,6.544583299999999",
+      "google_place_id": "ChIJz-gsGotRsxERuN3oQ5qNcLQ"
+    }
   },
   {
     "id": "71519",
@@ -157,7 +294,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6731757,
+          "lng": 6.550426499999999
+        },
+        "southwest": {
+          "lat": 10.6556734,
+          "lng": 6.532552099999999
+        }
+      },
+      "formatted_address": "Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJp3TVBaJRsxER84fCge2L0fo"
+    }
   },
   {
     "id": "71520",
@@ -173,7 +327,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66268962989272,
+          "lng": 6.539654029892722
+        },
+        "southwest": {
+          "lat": 10.65998997010728,
+          "lng": 6.536954370107278
+        }
+      },
+      "formatted_address": "KWASAKWASA STREET NEAR VETERINARY OFFICE, Kaduna-Kano Rd, near EID PRAYING GROUND, 810014, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJ10HGwupRsxERXYEOrlQDfoY"
+    }
   },
   {
     "id": "71521",
@@ -189,7 +360,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66268962989272,
+          "lng": 6.539654029892722
+        },
+        "southwest": {
+          "lat": 10.65998997010728,
+          "lng": 6.536954370107278
+        }
+      },
+      "formatted_address": "MG6Q+G8M, 800116, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJldB2_6pRsxERqAy1-QRfkDs"
+    }
   },
   {
     "id": "71522",
@@ -205,7 +393,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6731757,
+          "lng": 6.550426499999999
+        },
+        "southwest": {
+          "lat": 10.6556734,
+          "lng": 6.532552099999999
+        }
+      },
+      "formatted_address": "Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJp3TVBaJRsxER84fCge2L0fo"
+    }
   },
   {
     "id": "71523",
@@ -221,7 +426,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5171476,
+      "longitude": 7.4281881,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51860542989272,
+          "lng": 7.429527479892722
+        },
+        "southwest": {
+          "lat": 10.51590577010728,
+          "lng": 7.426827820107278
+        }
+      },
+      "formatted_address": "GC8H+V74, Kakuri 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5171476,7.4281881",
+      "google_place_id": "ChIJeeV7R1s1TRARg0YUD6Cq3ZA"
+    }
   },
   {
     "id": "71524",
@@ -237,7 +459,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4525107,
+      "longitude": 7.447600800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.4585184,
+          "lng": 7.4610486
+        },
+        "southwest": {
+          "lat": 10.449083,
+          "lng": 7.438376399999999
+        }
+      },
+      "formatted_address": "Ungwan Sunday 800104, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4525107,7.447600800000001",
+      "google_place_id": "ChIJ_dPspxpKTRARkt1QAZaUOVA"
+    }
   },
   {
     "id": "71525",
@@ -253,7 +492,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5398315,
+      "longitude": 7.4607369,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54121257989272,
+          "lng": 7.462090079892722
+        },
+        "southwest": {
+          "lat": 10.53851292010728,
+          "lng": 7.459390420107278
+        }
+      },
+      "formatted_address": "Yahaya Road, Ungwan Rimi 802125, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5398315,7.4607369",
+      "google_place_id": "ChIJkSDUNTa1shERp4q6jQsCnLw"
+    }
   },
   {
     "id": "71526",
@@ -269,7 +525,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6731757,
+          "lng": 6.550426499999999
+        },
+        "southwest": {
+          "lat": 10.6556734,
+          "lng": 6.532552099999999
+        }
+      },
+      "formatted_address": "Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJp3TVBaJRsxER84fCge2L0fo"
+    }
   },
   {
     "id": "71527",
@@ -285,7 +558,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.7135396,
+      "longitude": 6.566366800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.71491362989272,
+          "lng": 6.567687829892722
+        },
+        "southwest": {
+          "lat": 10.71221397010728,
+          "lng": 6.564988170107278
+        }
+      },
+      "formatted_address": "7F28PH78+9HV Gayam Kaduna, 800108, Mando, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7135396,6.566366800000001",
+      "google_place_id": "ChIJv90BXCtRsxERKxi6igZXvz4"
+    }
   },
   {
     "id": "71528",
@@ -301,7 +591,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6731757,
+          "lng": 6.550426499999999
+        },
+        "southwest": {
+          "lat": 10.6556734,
+          "lng": 6.532552099999999
+        }
+      },
+      "formatted_address": "Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJp3TVBaJRsxER84fCge2L0fo"
+    }
   },
   {
     "id": "71529",
@@ -317,7 +624,8 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "71530",
@@ -333,7 +641,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6731757,
+          "lng": 6.550426499999999
+        },
+        "southwest": {
+          "lat": 10.6556734,
+          "lng": 6.532552099999999
+        }
+      },
+      "formatted_address": "Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJp3TVBaJRsxER84fCge2L0fo"
+    }
   },
   {
     "id": "71531",
@@ -349,7 +674,8 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "71532",
@@ -365,7 +691,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.504294,
+      "longitude": 7.4486202,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50566827989272,
+          "lng": 7.449965329892721
+        },
+        "southwest": {
+          "lat": 10.50296862010728,
+          "lng": 7.447265670107277
+        }
+      },
+      "formatted_address": "Zuba Road, Kabala Costain 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.504294,7.4486202",
+      "google_place_id": "ChIJObu02dBLTRARKwamUS9WzP0"
+    }
   },
   {
     "id": "71533",
@@ -381,7 +724,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5814431,
+      "longitude": 7.460725200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58279327989272,
+          "lng": 7.46209057989272
+        },
+        "southwest": {
+          "lat": 10.58009362010728,
+          "lng": 7.459390920107277
+        }
+      },
+      "formatted_address": "NO.8 PAMBEGUA, YUNUSAWA PLAZA MAIN JUNCTION KUBAU, Zaria Street, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5814431,7.460725200000001",
+      "google_place_id": "ChIJ5T_duvW1shER-4XCRFKLTNA"
+    }
   },
   {
     "id": "71534",
@@ -397,7 +757,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6583717,
+      "longitude": 6.5454949,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65972342989272,
+          "lng": 6.54686842989272
+        },
+        "southwest": {
+          "lat": 10.65702377010728,
+          "lng": 6.544168770107277
+        }
+      },
+      "formatted_address": "MG5W+86C, 800116, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6583717,6.5454949",
+      "google_place_id": "ChIJFS4IwUtRsxERHfMUcnVwCLo"
+    }
   },
   {
     "id": "71535",
@@ -413,7 +790,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5893354,
+      "longitude": 7.4533982,
+      "viewport": {
+        "northeast": {
+          "lat": 10.59062822989272,
+          "lng": 7.454668229892722
+        },
+        "southwest": {
+          "lat": 10.58792857010728,
+          "lng": 7.451968570107278
+        }
+      },
+      "formatted_address": "HFQ3+P9J, Unnamed Road, Kawo 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5893354,7.4533982",
+      "google_place_id": "ChIJSTOvrzW1shER3U0DnxtugF4"
+    }
   },
   {
     "id": "71536",
@@ -429,7 +823,24 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.6613339,
+      "longitude": 6.5383124,
+      "viewport": {
+        "northeast": {
+          "lat": 10.66268962989272,
+          "lng": 6.539654029892722
+        },
+        "southwest": {
+          "lat": 10.65998997010728,
+          "lng": 6.536954370107278
+        }
+      },
+      "formatted_address": "12, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6613339,6.5383124",
+      "google_place_id": "ChIJRctgt9RRsxERhLtigwTzQKM"
+    }
   },
   {
     "id": "71537",
@@ -445,6 +856,23 @@
     "local_government_id": "347",
     "local_government_name": "BIRNIN GWARI",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.7119202,
+      "longitude": 6.5657049,
+      "viewport": {
+        "northeast": {
+          "lat": 10.71329617989272,
+          "lng": 6.567054529892721
+        },
+        "southwest": {
+          "lat": 10.71059652010728,
+          "lng": 6.564354870107278
+        }
+      },
+      "formatted_address": "No. 3, Farin Line, Remi Fadahaunsi Road, Mando, Kaduna, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7119202,6.5657049",
+      "google_place_id": "ChIJdat3isdRsxERQJ_vojRPggQ"
+    }
   }
 ]

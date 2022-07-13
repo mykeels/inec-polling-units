@@ -13,7 +13,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.0107254,
+      "longitude": 8.5394308,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01202987989272,
+          "lng": 8.54084272989272
+        },
+        "southwest": {
+          "lat": 12.00933022010728,
+          "lng": 8.538143070107276
+        }
+      },
+      "formatted_address": "Flat Unguwar, Dambo Road, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0107254,8.5394308",
+      "google_place_id": "ChIJz260J-mBrhERRJRy9TUIwKA"
+    }
   },
   {
     "id": "71419",
@@ -29,7 +46,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.682873,
+      "longitude": 9.3356291,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68429807989272,
+          "lng": 9.33697292989272
+        },
+        "southwest": {
+          "lat": 11.68159842010728,
+          "lng": 9.334273270107277
+        }
+      },
+      "formatted_address": "3 Arm Zone, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.682873,9.3356291",
+      "google_place_id": "ChIJAWxntLHxqxERnUJ8qbm0wsU"
+    }
   },
   {
     "id": "71420",
@@ -45,7 +79,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7572452,
+      "longitude": 8.4239055,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7795425,
+          "lng": 8.4523717
+        },
+        "southwest": {
+          "lat": 12.7258024,
+          "lng": 8.3980999
+        }
+      },
+      "formatted_address": "Zungumba, 705102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7572452,8.4239055",
+      "google_place_id": "ChIJoS2YQNurrxERD7_CkzwgJXU"
+    }
   },
   {
     "id": "71421",
@@ -61,7 +112,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7572452,
+      "longitude": 8.4239055,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7795425,
+          "lng": 8.4523717
+        },
+        "southwest": {
+          "lat": 12.7258024,
+          "lng": 8.3980999
+        }
+      },
+      "formatted_address": "Zungumba, 705102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7572452,8.4239055",
+      "google_place_id": "ChIJoS2YQNurrxERD7_CkzwgJXU"
+    }
   },
   {
     "id": "71422",
@@ -77,6 +145,23 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7235634,
+      "longitude": 9.3386617,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72542642989272,
+          "lng": 9.340180479892721
+        },
+        "southwest": {
+          "lat": 11.72272677010728,
+          "lng": 9.337480820107277
+        }
+      },
+      "formatted_address": "Kachi Road, 720101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7235634,9.3386617",
+      "google_place_id": "ChIJVzjugibxqxER-OAefOEwr4M"
+    }
   }
 ]

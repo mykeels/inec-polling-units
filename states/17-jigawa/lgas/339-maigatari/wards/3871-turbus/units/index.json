@@ -13,7 +13,24 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": -38.2325652,
+      "longitude": -72.335998,
+      "viewport": {
+        "northeast": {
+          "lat": -38.23121772010727,
+          "lng": -72.33477132010727
+        },
+        "southwest": {
+          "lat": -38.23391737989272,
+          "lng": -72.33747097989271
+        }
+      },
+      "formatted_address": "Av. Arturo Prat 1007, Victoria, Araucanía, Chile",
+      "google_map_url": "https://maps.google.com?q=-38.2325652,-72.335998",
+      "google_place_id": "ChIJJ3bqC7QUa5YRCKgnLWD_ago"
+    }
   },
   {
     "id": "70398",
@@ -29,7 +46,24 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7388343,
+      "longitude": 9.6935751,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74017777989272,
+          "lng": 9.69489067989272
+        },
+        "southwest": {
+          "lat": 12.73747812010728,
+          "lng": 9.692191020107277
+        }
+      },
+      "formatted_address": "Mehassan Primary School, 732105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7388343,9.6935751",
+      "google_place_id": "ChIJL6RHpJPkqBER0TIWxSG-2D0"
+    }
   },
   {
     "id": "70399",
@@ -45,7 +79,8 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70400",
@@ -61,7 +96,24 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7217902,
+      "longitude": 9.665764399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.72313547989272,
+          "lng": 9.667124579892722
+        },
+        "southwest": {
+          "lat": 12.72043582010728,
+          "lng": 9.664424920107278
+        }
+      },
+      "formatted_address": "Dawar Gada Primary School, 732105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7217902,9.665764399999999",
+      "google_place_id": "ChIJf8tPx3fkqBERajq-UaBnap4"
+    }
   },
   {
     "id": "70401",
@@ -77,7 +129,24 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7998643,
+      "longitude": 9.6626314,
+      "viewport": {
+        "northeast": {
+          "lat": 12.80121532989272,
+          "lng": 9.66395412989272
+        },
+        "southwest": {
+          "lat": 12.79851567010728,
+          "lng": 9.661254470107275
+        }
+      },
+      "formatted_address": "Kama Garin Loto Primary School, 732105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7998643,9.6626314",
+      "google_place_id": "ChIJXbXc_JHlqBERaruVXZ6HPBY"
+    }
   },
   {
     "id": "70402",
@@ -93,7 +162,8 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70403",
@@ -109,7 +179,8 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70404",
@@ -125,7 +196,8 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70405",
@@ -141,7 +213,24 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.7202684,
+      "longitude": 9.7145153,
+      "viewport": {
+        "northeast": {
+          "lat": 12.72159047989272,
+          "lng": 9.715759629892721
+        },
+        "southwest": {
+          "lat": 12.71889082010728,
+          "lng": 9.713059970107278
+        }
+      },
+      "formatted_address": "Kukayaskun Kalu Primary School, 732105, Garin Hasan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7202684,9.7145153",
+      "google_place_id": "ChIJy9sGSajkqBERyydfrtLJyoE"
+    }
   },
   {
     "id": "70406",
@@ -157,7 +246,8 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70407",
@@ -173,6 +263,7 @@
     "local_government_id": "339",
     "local_government_name": "MAIGATARI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

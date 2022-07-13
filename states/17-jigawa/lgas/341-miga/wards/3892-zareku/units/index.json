@@ -13,7 +13,24 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6343501,
+      "longitude": 9.3883109,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6357853,
+          "lng": 9.390042729892723
+        },
+        "southwest": {
+          "lat": 12.6328465,
+          "lng": 9.38734307010728
+        }
+      },
+      "formatted_address": "Gagarawa-Gumel-Maigatari Road, 732102, Gumel, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6343501,9.3883109",
+      "google_place_id": "ChIJtXeqo_QnqRERyR2ljz2muT4"
+    }
   },
   {
     "id": "70666",
@@ -29,7 +46,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70667",
@@ -45,7 +63,24 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.5679694,
+      "longitude": 9.320734,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56911177989272,
+          "lng": 9.322104929892722
+        },
+        "southwest": {
+          "lat": 11.56641212010728,
+          "lng": 9.319405270107278
+        }
+      },
+      "formatted_address": "H89C+57Q, Kiyawa Road, 712103, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5679694,9.320734",
+      "google_place_id": "ChIJi7V7y9_zqxERyrEFk0ldfbg"
+    }
   },
   {
     "id": "70668",
@@ -61,7 +96,24 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7129915,
+      "longitude": 9.3512996,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71467127989272,
+          "lng": 9.352797779892722
+        },
+        "southwest": {
+          "lat": 11.71197162010728,
+          "lng": 9.350098120107278
+        }
+      },
+      "formatted_address": "P972+5FX, Azare-Dutse Rd, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7129915,9.3512996",
+      "google_place_id": "ChIJUfffYffxqxERajbz5aiNFLs"
+    }
   },
   {
     "id": "70669",
@@ -77,7 +129,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70670",
@@ -93,7 +146,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70671",
@@ -109,7 +163,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70672",
@@ -125,7 +180,24 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.1887427,
+      "longitude": 9.7957564,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2262487,
+          "lng": 9.8199557
+        },
+        "southwest": {
+          "lat": 12.1500089,
+          "lng": 9.7723301
+        }
+      },
+      "formatted_address": "Zareku, 720105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1887427,9.7957564",
+      "google_place_id": "ChIJ3z1yru5zqRERliHL4Fjv3DE"
+    }
   },
   {
     "id": "70673",
@@ -141,6 +213,7 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

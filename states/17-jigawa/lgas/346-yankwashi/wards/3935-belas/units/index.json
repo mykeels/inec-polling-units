@@ -13,7 +13,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.5380181,
+      "longitude": 7.8193122,
+      "viewport": {
+        "northeast": {
+          "lat": 12.53933132989272,
+          "lng": 7.820751779892722
+        },
+        "southwest": {
+          "lat": 12.53663167010728,
+          "lng": 7.818052120107278
+        }
+      },
+      "formatted_address": "Kankia Rd, 822101, Gaci, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5380181,7.8193122",
+      "google_place_id": "ChIJs6Kze8EprhERS6Gn6dpjlX0"
+    }
   },
   {
     "id": "71357",
@@ -29,7 +46,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71358",
@@ -45,7 +63,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71359",
@@ -61,7 +80,8 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "71360",
@@ -77,7 +97,24 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.7202516,
+      "longitude": 9.3501823,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72160272989272,
+          "lng": 9.351538079892723
+        },
+        "southwest": {
+          "lat": 11.71890307010728,
+          "lng": 9.34883842010728
+        }
+      },
+      "formatted_address": "P9C2+433, Gada Din Road, 720101, Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7202516,9.3501823",
+      "google_place_id": "ChIJkduBIQ3xqxERgXK47Mb5JEs"
+    }
   },
   {
     "id": "71361",
@@ -93,6 +130,7 @@
     "local_government_id": "346",
     "local_government_name": "YANKWASHI",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   }
 ]

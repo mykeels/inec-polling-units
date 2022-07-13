@@ -13,7 +13,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70575",
@@ -29,7 +30,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70576",
@@ -45,7 +47,24 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.161872,
+      "longitude": 9.7567161,
+      "viewport": {
+        "northeast": {
+          "lat": 12.1935335,
+          "lng": 9.776619499999999
+        },
+        "southwest": {
+          "lat": 12.1237754,
+          "lng": 9.723827799999999
+        }
+      },
+      "formatted_address": "Garbo, 720105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.161872,9.7567161",
+      "google_place_id": "ChIJdVttz5NxqRERYmDFsarlBzc"
+    }
   },
   {
     "id": "70577",
@@ -61,7 +80,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70578",
@@ -77,7 +97,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70579",
@@ -93,7 +114,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70580",
@@ -109,7 +131,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70581",
@@ -125,7 +148,24 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 11.4527074,
+      "longitude": 9.491808299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45407972989272,
+          "lng": 9.493194729892723
+        },
+        "southwest": {
+          "lat": 11.45138007010728,
+          "lng": 9.49049507010728
+        }
+      },
+      "formatted_address": "FF3R+3PM, zazika road, 721101, Birnin Kudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4527074,9.491808299999999",
+      "google_place_id": "ChIJ9cIhai2XqxERgQATvWo0ADA"
+    }
   },
   {
     "id": "70582",
@@ -141,7 +181,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70583",
@@ -157,7 +198,8 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "70584",
@@ -173,6 +215,23 @@
     "local_government_id": "341",
     "local_government_name": "MIGA",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.237,
+      "longitude": 9.7144999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23834962989272,
+          "lng": 9.715849829892726
+        },
+        "southwest": {
+          "lat": 12.23564997010728,
+          "lng": 9.713150170107282
+        }
+      },
+      "formatted_address": "6PP7+QQX, 720105, Miga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.237,9.7144999",
+      "google_place_id": "ChIJSRTbeGZtqRER2fiyGZ677p8"
+    }
   }
 ]

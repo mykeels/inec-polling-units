@@ -13,7 +13,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72283",
@@ -29,7 +30,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72284",
@@ -45,7 +47,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72285",
@@ -61,7 +64,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 8.318375999999999,
+      "longitude": 8.407457299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.3907695,
+          "lng": 8.5083485
+        },
+        "southwest": {
+          "lat": 8.2486509,
+          "lng": 8.3379006
+        }
+      },
+      "formatted_address": "Ung.madaki, 950103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.318375999999999,8.407457299999999",
+      "google_place_id": "ChIJcVc2lzxUUBARpXZa5O29Yeo"
+    }
   },
   {
     "id": "72286",
@@ -77,7 +97,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72287",
@@ -93,7 +114,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1225113,
+      "longitude": 7.7332556,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12371532989272,
+          "lng": 7.734649629892722
+        },
+        "southwest": {
+          "lat": 11.12101567010728,
+          "lng": 7.731949970107278
+        }
+      },
+      "formatted_address": "4PFM+27H, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1225113,7.7332556",
+      "google_place_id": "ChIJIfdy47CDshERni4p1Hv5mv8"
+    }
   },
   {
     "id": "72288",
@@ -109,7 +147,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.4746077,
+      "longitude": 7.3975845,
+      "viewport": {
+        "northeast": {
+          "lat": 10.481091,
+          "lng": 7.4083906
+        },
+        "southwest": {
+          "lat": 10.4430917,
+          "lng": 7.3907943
+        }
+      },
+      "formatted_address": "Nasarawa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4746077,7.3975845",
+      "google_place_id": "ChIJmxnKwss1TRARZ5BTElLL9ro"
+    }
   },
   {
     "id": "72289",
@@ -125,7 +180,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2610454,
+      "longitude": 7.4668758,
+      "viewport": {
+        "northeast": {
+          "lat": 11.26236387989272,
+          "lng": 7.468144529892722
+        },
+        "southwest": {
+          "lat": 11.25966422010728,
+          "lng": 7.465444870107278
+        }
+      },
+      "formatted_address": "7F397F68+CQ6 Hayin Madara Gangara Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2610454,7.4668758",
+      "google_place_id": "ChIJ2Ysm4ERhshERGf84t9mbnuY"
+    }
   },
   {
     "id": "72290",
@@ -141,7 +213,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": -3.9750386,
+      "longitude": 137.6408222,
+      "viewport": {
+        "northeast": {
+          "lat": -3.973605220107278,
+          "lng": 137.6420854798927
+        },
+        "southwest": {
+          "lat": -3.976304879892722,
+          "lng": 137.6393858201072
+        }
+      },
+      "formatted_address": "2JFR+X8G, Kimak, Ilaga, Puncak Regency, Papua 98972, Indonesia",
+      "google_map_url": "https://maps.google.com?q=-3.9750386,137.6408222",
+      "google_place_id": "ChIJb0g0-HNHPWgRg3sdPg2zqlw"
+    }
   },
   {
     "id": "72291",
@@ -157,7 +246,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72292",
@@ -173,7 +263,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.7746193,
+      "longitude": 8.0030214,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7768764,
+          "lng": 8.005020199999999
+        },
+        "southwest": {
+          "lat": 10.7727209,
+          "lng": 8.000392399999999
+        }
+      },
+      "formatted_address": "810102, Sabon Gida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7746193,8.0030214",
+      "google_place_id": "ChIJH9D7qmlErRERni7LuC0lens"
+    }
   },
   {
     "id": "72293",
@@ -189,7 +296,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72294",
@@ -205,7 +313,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72295",
@@ -221,7 +330,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72296",
@@ -237,7 +347,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72297",
@@ -253,7 +364,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.280147,
+      "longitude": 7.417836299999998,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28153667989272,
+          "lng": 7.419228429892721
+        },
+        "southwest": {
+          "lat": 11.27883702010728,
+          "lng": 7.416528770107277
+        }
+      },
+      "formatted_address": "Gangara Giwa LGA Kaduna State giwa, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.280147,7.417836299999998",
+      "google_place_id": "ChIJT8itfR9fshERdGscNRKOfjI"
+    }
   },
   {
     "id": "72298",
@@ -269,7 +397,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3069805,
+      "longitude": 7.380333799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30836937989272,
+          "lng": 7.381733729892723
+        },
+        "southwest": {
+          "lat": 11.30566972010728,
+          "lng": 7.379034070107279
+        }
+      },
+      "formatted_address": "894J+Q4F, 810105, Gangara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3069805,7.380333799999999",
+      "google_place_id": "ChIJQYqlk-VeshERxMI2ss64jKc"
+    }
   },
   {
     "id": "72299",
@@ -285,7 +430,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.502592,
+      "longitude": 7.402505100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50388037989272,
+          "lng": 7.403865629892722
+        },
+        "southwest": {
+          "lat": 10.50118072010728,
+          "lng": 7.401165970107278
+        }
+      },
+      "formatted_address": "Unnamed Rd, Tudun Wada 800282, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.502592,7.402505100000001",
+      "google_place_id": "ChIJDee9pVc1TRAR7IjyykG9mRc"
+    }
   },
   {
     "id": "72300",
@@ -301,7 +463,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.3068528,
+      "longitude": 7.3802059,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30821642989272,
+          "lng": 7.381477329892721
+        },
+        "southwest": {
+          "lat": 11.30551677010728,
+          "lng": 7.378777670107277
+        }
+      },
+      "formatted_address": "7F39894J+P4R, Tsabtawa 810105, Gangara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3068528,7.3802059",
+      "google_place_id": "ChIJr-ncVbFfshERv0aZiE8WoRc"
+    }
   },
   {
     "id": "72301",
@@ -317,7 +496,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5618219,
+      "longitude": 7.455412399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.56322217989272,
+          "lng": 7.456759429892722
+        },
+        "southwest": {
+          "lat": 10.56052252010728,
+          "lng": 7.454059770107278
+        }
+      },
+      "formatted_address": "HF64+R56, Badarawa 800283, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5618219,7.455412399999999",
+      "google_place_id": "ChIJGzL8OWy1shERXKuiXj25irY"
+    }
   },
   {
     "id": "72302",
@@ -333,7 +529,8 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": null
   },
   {
     "id": "72303",
@@ -349,7 +546,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2481783,
+      "longitude": 7.474450800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.25014487989272,
+          "lng": 7.476151029892721
+        },
+        "southwest": {
+          "lat": 11.24744522010728,
+          "lng": 7.473451370107277
+        }
+      },
+      "formatted_address": "7F396FXF+7Q3, Zabawa, 810105, Angwan Chitumu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2481783,7.474450800000001",
+      "google_place_id": "ChIJJezRRruLshERC0ygI3WB6wM"
+    }
   },
   {
     "id": "72304",
@@ -365,7 +579,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2775171,
+      "longitude": 7.418045999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.27885757989272,
+          "lng": 7.419405979892721
+        },
+        "southwest": {
+          "lat": 11.27615792010728,
+          "lng": 7.416706320107277
+        }
+      },
+      "formatted_address": "7F397CH9+276 Marabar Yakawada Gangara, Giwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2775171,7.418045999999999",
+      "google_place_id": "ChIJ1fJjh0JfshER2t-rqVzSzR8"
+    }
   },
   {
     "id": "72305",
@@ -381,7 +612,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2934232,
+      "longitude": 7.4871848,
+      "viewport": {
+        "northeast": {
+          "lat": 11.29479232989272,
+          "lng": 7.488583179892721
+        },
+        "southwest": {
+          "lat": 11.29209267010728,
+          "lng": 7.485883520107278
+        }
+      },
+      "formatted_address": "7F397FVP+9V7 Rugoji Gangara Kaduna, Ungwan Baraje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2934232,7.4871848",
+      "google_place_id": "ChIJF3fJIJthshER2lCZ7U1l8Cc"
+    }
   },
   {
     "id": "72306",
@@ -397,7 +645,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 10.5897509,
+      "longitude": 7.4038677,
+      "viewport": {
+        "northeast": {
+          "lat": 10.59108362989272,
+          "lng": 7.40526812989272
+        },
+        "southwest": {
+          "lat": 10.58838397010728,
+          "lng": 7.402568470107276
+        }
+      },
+      "formatted_address": "Musa Umar street, Mando Rd, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5897509,7.4038677",
+      "google_place_id": "ChIJfVcKQxDLshERnO3aGeJAoDM"
+    }
   },
   {
     "id": "72307",
@@ -413,7 +678,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.2610454,
+      "longitude": 7.4668758,
+      "viewport": {
+        "northeast": {
+          "lat": 11.26236387989272,
+          "lng": 7.468144529892722
+        },
+        "southwest": {
+          "lat": 11.25966422010728,
+          "lng": 7.465444870107278
+        }
+      },
+      "formatted_address": "7F397F68+CQ6 Hayin Madara Gangara Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2610454,7.4668758",
+      "google_place_id": "ChIJ2Ysm4ERhshERGf84t9mbnuY"
+    }
   },
   {
     "id": "72308",
@@ -429,7 +711,24 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1225113,
+      "longitude": 7.7332556,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12371532989272,
+          "lng": 7.734649629892722
+        },
+        "southwest": {
+          "lat": 11.12101567010728,
+          "lng": 7.731949970107278
+        }
+      },
+      "formatted_address": "4PFM+27H, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1225113,7.7332556",
+      "google_place_id": "ChIJIfdy47CDshERni4p1Hv5mv8"
+    }
   },
   {
     "id": "72309",
@@ -445,6 +744,23 @@
     "local_government_id": "349",
     "local_government_name": "GIWA",
     "state_id": "18",
-    "state_name": "KADUNA"
+    "state_name": "KADUNA",
+    "location": {
+      "latitude": 11.1225113,
+      "longitude": 7.7332556,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12371532989272,
+          "lng": 7.734649629892722
+        },
+        "southwest": {
+          "lat": 11.12101567010728,
+          "lng": 7.731949970107278
+        }
+      },
+      "formatted_address": "4PFM+27H, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1225113,7.7332556",
+      "google_place_id": "ChIJIfdy47CDshERni4p1Hv5mv8"
+    }
   }
 ]

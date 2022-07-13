@@ -13,7 +13,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6804874,
+      "longitude": 8.405370399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68186512989272,
+          "lng": 8.40671482989272
+        },
+        "southwest": {
+          "lat": 12.67916547010728,
+          "lng": 8.404015170107277
+        }
+      },
+      "formatted_address": "MCJ4+55C, 705101, Kazaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6804874,8.405370399999999",
+      "google_place_id": "ChIJ2UrUr1GrrxERuM-3QAveiMM"
+    }
   },
   {
     "id": "69859",
@@ -29,7 +46,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6668353,
+      "longitude": 8.4004846,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66829232989272,
+          "lng": 8.401951279892723
+        },
+        "southwest": {
+          "lat": 12.66559267010728,
+          "lng": 8.399251620107279
+        }
+      },
+      "formatted_address": "MC82+P48, 705101, Kazaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6668353,8.4004846",
+      "google_place_id": "ChIJMSGK16tUrhERqRJISPhALNM"
+    }
   },
   {
     "id": "69860",
@@ -45,7 +79,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.677794,
+      "longitude": 8.4482418,
+      "viewport": {
+        "northeast": {
+          "lat": 12.685202,
+          "lng": 8.4527131
+        },
+        "southwest": {
+          "lat": 12.676035,
+          "lng": 8.4449349
+        }
+      },
+      "formatted_address": "705101, Dutsin Fanda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.677794,8.4482418",
+      "google_place_id": "ChIJ7bs0WdCqrxERmSNghOf3Yec"
+    }
   },
   {
     "id": "69861",
@@ -61,7 +112,8 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": null
   },
   {
     "id": "69862",
@@ -77,7 +129,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6158423,
+      "longitude": 8.5834341,
+      "viewport": {
+        "northeast": {
+          "lat": 12.619924,
+          "lng": 8.5888241
+        },
+        "southwest": {
+          "lat": 12.6132579,
+          "lng": 8.5768801
+        }
+      },
+      "formatted_address": "705101, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6158423,8.5834341",
+      "google_place_id": "ChIJg08h9C38rhER5RJf2nDqDbA"
+    }
   },
   {
     "id": "69863",
@@ -93,7 +162,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6168334,
+      "longitude": 8.4359655,
+      "viewport": {
+        "northeast": {
+          "lat": 12.61833327989272,
+          "lng": 8.43776972989272
+        },
+        "southwest": {
+          "lat": 12.61563362010728,
+          "lng": 8.435070070107276
+        }
+      },
+      "formatted_address": "Kano-Daura Border Rd, 705101, Tsadoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6168334,8.4359655",
+      "google_place_id": "ChIJWdG9J1JUrhERgYAxTIVDDs0"
+    }
   },
   {
     "id": "69864",
@@ -109,7 +195,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6533871,
+      "longitude": 8.4038127,
+      "viewport": {
+        "northeast": {
+          "lat": 12.65482017989272,
+          "lng": 8.405148429892723
+        },
+        "southwest": {
+          "lat": 12.65212052010728,
+          "lng": 8.402448770107279
+        }
+      },
+      "formatted_address": "Kazaure-Yanduna Rd, 705101, Kazaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6533871,8.4038127",
+      "google_place_id": "ChIJPcvBhRhVrhERDKkgHAFnPzg"
+    }
   },
   {
     "id": "69865",
@@ -125,7 +228,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6768027,
+      "longitude": 8.4458421,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7169294,
+          "lng": 8.486227699999999
+        },
+        "southwest": {
+          "lat": 12.611235,
+          "lng": 8.3832504
+        }
+      },
+      "formatted_address": "Sabaru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6768027,8.4458421",
+      "google_place_id": "ChIJn8DyNNFUrhERSUS6ACOtXkA"
+    }
   },
   {
     "id": "69866",
@@ -141,7 +261,24 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6220393,
+      "longitude": 8.4326946,
+      "viewport": {
+        "northeast": {
+          "lat": 12.62356287989272,
+          "lng": 8.434304579892721
+        },
+        "southwest": {
+          "lat": 12.62086322010728,
+          "lng": 8.431604920107278
+        }
+      },
+      "formatted_address": "JCCM+R38, 705101, Kazaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6220393,8.4326946",
+      "google_place_id": "ChIJYQcI5lZUrhERokhP_xFB-XE"
+    }
   },
   {
     "id": "69867",
@@ -157,6 +294,23 @@
     "local_government_id": "336",
     "local_government_name": "KAZAURE",
     "state_id": "17",
-    "state_name": "JIGAWA"
+    "state_name": "JIGAWA",
+    "location": {
+      "latitude": 12.6804874,
+      "longitude": 8.405370399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68186512989272,
+          "lng": 8.40671482989272
+        },
+        "southwest": {
+          "lat": 12.67916547010728,
+          "lng": 8.404015170107277
+        }
+      },
+      "formatted_address": "MCJ4+55C, 705101, Kazaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6804874,8.405370399999999",
+      "google_place_id": "ChIJ2UrUr1GrrxERuM-3QAveiMM"
+    }
   }
 ]
