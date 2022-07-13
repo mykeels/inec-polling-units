@@ -13,7 +13,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.945606999999999,
+      "longitude": 11.1313083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.946481179892722,
+          "lng": 11.13253367989272
+        },
+        "southwest": {
+          "lat": 9.943781520107278,
+          "lng": 11.12983402010728
+        }
+      },
+      "formatted_address": "W4WJ+7H3, 771101, Hamtawalam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.945606999999999,11.1313083",
+      "google_place_id": "ChIJ8UqWx1u6_xARUfRuFfoqmJA"
+    }
   },
   {
     "id": "59887",
@@ -29,7 +46,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.9152852,
+      "longitude": 11.000859,
+      "viewport": {
+        "northeast": {
+          "lat": 9.916633529892723,
+          "lng": 11.00221387989272
+        },
+        "southwest": {
+          "lat": 9.913933870107279,
+          "lng": 10.99951422010728
+        }
+      },
+      "formatted_address": "W282+489, 771103, Kashere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9152852,11.000859",
+      "google_place_id": "ChIJ72fZrci9_xARizCmc_itmsw"
+    }
   },
   {
     "id": "59888",
@@ -45,7 +79,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.891206799999999,
+      "longitude": 11.0889451,
+      "viewport": {
+        "northeast": {
+          "lat": 9.892507629892721,
+          "lng": 11.09027382989272
+        },
+        "southwest": {
+          "lat": 9.889807970107277,
+          "lng": 11.08757417010728
+        }
+      },
+      "formatted_address": "Popandi Primary School, 771101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.891206799999999,11.0889451",
+      "google_place_id": "ChIJH5xcG7Sk_xAR8NTXbSOTYyY"
+    }
   },
   {
     "id": "59889",
@@ -61,7 +112,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.9152852,
+      "longitude": 11.000859,
+      "viewport": {
+        "northeast": {
+          "lat": 9.916633529892723,
+          "lng": 11.00221387989272
+        },
+        "southwest": {
+          "lat": 9.913933870107279,
+          "lng": 10.99951422010728
+        }
+      },
+      "formatted_address": "W282+489, 771103, Kashere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9152852,11.000859",
+      "google_place_id": "ChIJ72fZrci9_xARizCmc_itmsw"
+    }
   },
   {
     "id": "59890",
@@ -77,7 +145,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3042948,
+      "longitude": 11.172793,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30544982989272,
+          "lng": 11.17432297989272
+        },
+        "southwest": {
+          "lat": 10.30275017010728,
+          "lng": 11.17162332010728
+        }
+      },
+      "formatted_address": "853F+P47 Gombe State University, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3042948,11.172793",
+      "google_place_id": "ChIJZdb3_JDQ_xAR2teAtUSwrNU"
+    }
   },
   {
     "id": "59891",
@@ -93,7 +178,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2807301,
+      "longitude": 11.1758998,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28207007989272,
+          "lng": 11.17725912989272
+        },
+        "southwest": {
+          "lat": 10.27937042010728,
+          "lng": 11.17455947010727
+        }
+      },
+      "formatted_address": "75JG+79Q, Sabon Layi, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2807301,11.1758998",
+      "google_place_id": "ChIJNcoTZebR_xARlfK3z-ZJGYE"
+    }
   },
   {
     "id": "59892",
@@ -109,7 +211,8 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59893",
@@ -125,7 +228,8 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59894",
@@ -141,7 +245,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2962103,
+      "longitude": 11.1545896,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29756062989272,
+          "lng": 11.15592672989272
+        },
+        "southwest": {
+          "lat": 10.29486097010728,
+          "lng": 11.15322707010728
+        }
+      },
+      "formatted_address": "75W3+FQP, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2962103,11.1545896",
+      "google_place_id": "ChIJa--5D3vb_xAR1NJUuDv54U8"
+    }
   },
   {
     "id": "59895",
@@ -157,7 +278,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.891206799999999,
+      "longitude": 11.0889451,
+      "viewport": {
+        "northeast": {
+          "lat": 9.892507629892721,
+          "lng": 11.09027382989272
+        },
+        "southwest": {
+          "lat": 9.889807970107277,
+          "lng": 11.08757417010728
+        }
+      },
+      "formatted_address": "Popandi Primary School, 771101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.891206799999999,11.0889451",
+      "google_place_id": "ChIJH5xcG7Sk_xAR8NTXbSOTYyY"
+    }
   },
   {
     "id": "59896",
@@ -173,7 +311,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.896115199999999,
+      "longitude": 11.2226532,
+      "viewport": {
+        "northeast": {
+          "lat": 9.89753457989272,
+          "lng": 11.22385972989272
+        },
+        "southwest": {
+          "lat": 9.894834920107277,
+          "lng": 11.22116007010728
+        }
+      },
+      "formatted_address": "V6WF+C3R, Yola Road, Billiri, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.896115199999999,11.2226532",
+      "google_place_id": "ChIJVXDTQdmx_xARCg9Q9dIraXM"
+    }
   },
   {
     "id": "59897",
@@ -189,7 +344,24 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.945606999999999,
+      "longitude": 11.1313083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.946481179892722,
+          "lng": 11.13253367989272
+        },
+        "southwest": {
+          "lat": 9.943781520107278,
+          "lng": 11.12983402010728
+        }
+      },
+      "formatted_address": "W4WJ+7H3, 771101, Hamtawalam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.945606999999999,11.1313083",
+      "google_place_id": "ChIJ8UqWx1u6_xARUfRuFfoqmJA"
+    }
   },
   {
     "id": "59898",
@@ -205,6 +377,23 @@
     "local_government_id": "284",
     "local_government_name": "BILLIRI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.945606999999999,
+      "longitude": 11.1313083,
+      "viewport": {
+        "northeast": {
+          "lat": 9.946481179892722,
+          "lng": 11.13253367989272
+        },
+        "southwest": {
+          "lat": 9.943781520107278,
+          "lng": 11.12983402010728
+        }
+      },
+      "formatted_address": "W4WJ+7H3, 771101, Hamtawalam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.945606999999999,11.1313083",
+      "google_place_id": "ChIJ8UqWx1u6_xARUfRuFfoqmJA"
+    }
   }
 ]

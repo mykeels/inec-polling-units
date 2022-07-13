@@ -13,7 +13,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3844554,
+      "longitude": 11.2544839,
+      "viewport": {
+        "northeast": {
+          "lat": 10.38578882989272,
+          "lng": 11.25583857989272
+        },
+        "southwest": {
+          "lat": 10.38308917010728,
+          "lng": 11.25313892010728
+        }
+      },
+      "formatted_address": "97M3+QQQ, 760102, Jerikom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3844554,11.2544839",
+      "google_place_id": "ChIJaefYsdfV_xARxVXZwKFAeAE"
+    }
   },
   {
     "id": "61302",
@@ -29,7 +46,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3444593,
+      "longitude": 10.8307977,
+      "viewport": {
+        "northeast": {
+          "lat": 10.34590812989272,
+          "lng": 10.83213177989272
+        },
+        "southwest": {
+          "lat": 10.34320847010728,
+          "lng": 10.82943212010728
+        }
+      },
+      "formatted_address": "8RVJ+Q8M, 771104, Wuro Dole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3444593,10.8307977",
+      "google_place_id": "ChIJg5MWoZ3k_xARLlRT_1-hDr8"
+    }
   },
   {
     "id": "61303",
@@ -45,7 +79,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
   },
   {
     "id": "61304",
@@ -61,7 +112,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6541667,
+      "longitude": 11.0849167,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65551607989272,
+          "lng": 11.08626852989272
+        },
+        "southwest": {
+          "lat": 10.65281642010728,
+          "lng": 11.08356887010728
+        }
+      },
+      "formatted_address": "10°39.250'N, 11°05.095'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6541667,11.0849167",
+      "google_place_id": "ChIJZ12Sc5s7ABERlVAlztOWpUQ"
+    }
   },
   {
     "id": "61305",
@@ -77,7 +145,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2833336,
+      "longitude": 11.1666728,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28477087989272,
+          "lng": 11.16812507989272
+        },
+        "southwest": {
+          "lat": 10.28207122010728,
+          "lng": 11.16542542010728
+        }
+      },
+      "formatted_address": "MAIN MARKET, opposite FIRST BANK, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2833336,11.1666728",
+      "google_place_id": "ChIJFT0NqQTR_xAR-JpDMnJRZNE"
+    }
   },
   {
     "id": "61306",
@@ -93,7 +178,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2760069,
+      "longitude": 11.175898,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27735682989272,
+          "lng": 11.17725462989272
+        },
+        "southwest": {
+          "lat": 10.27465717010728,
+          "lng": 11.17455497010728
+        }
+      },
+      "formatted_address": "75GG+C85, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2760069,11.175898",
+      "google_place_id": "ChIJ5RLyVW7Q_xARHjvWbyj0HwE"
+    }
   },
   {
     "id": "61307",
@@ -109,7 +211,8 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61308",
@@ -125,7 +228,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6541667,
+      "longitude": 11.0849167,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65551607989272,
+          "lng": 11.08626852989272
+        },
+        "southwest": {
+          "lat": 10.65281642010728,
+          "lng": 11.08356887010728
+        }
+      },
+      "formatted_address": "10°39.250'N, 11°05.095'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6541667,11.0849167",
+      "google_place_id": "ChIJZ12Sc5s7ABERlVAlztOWpUQ"
+    }
   },
   {
     "id": "61309",
@@ -141,7 +261,8 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61310",
@@ -157,7 +278,8 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61311",
@@ -173,7 +295,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6541667,
+      "longitude": 11.0849167,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65551607989272,
+          "lng": 11.08626852989272
+        },
+        "southwest": {
+          "lat": 10.65281642010728,
+          "lng": 11.08356887010728
+        }
+      },
+      "formatted_address": "10°39.250'N, 11°05.095'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6541667,11.0849167",
+      "google_place_id": "ChIJZ12Sc5s7ABERlVAlztOWpUQ"
+    }
   },
   {
     "id": "61312",
@@ -189,7 +328,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6541667,
+      "longitude": 11.0849167,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65551607989272,
+          "lng": 11.08626852989272
+        },
+        "southwest": {
+          "lat": 10.65281642010728,
+          "lng": 11.08356887010728
+        }
+      },
+      "formatted_address": "10°39.250'N, 11°05.095'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6541667,11.0849167",
+      "google_place_id": "ChIJZ12Sc5s7ABERlVAlztOWpUQ"
+    }
   },
   {
     "id": "61313",
@@ -205,7 +361,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2764886,
+      "longitude": 11.2829266,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27783582989272,
+          "lng": 11.28428412989272
+        },
+        "southwest": {
+          "lat": 10.27513617010728,
+          "lng": 11.28158447010728
+        }
+      },
+      "formatted_address": "77GM+H5V, 761102, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2764886,11.2829266",
+      "google_place_id": "ChIJfQBnck_S_xARN8LMw8zKD60"
+    }
   },
   {
     "id": "61314",
@@ -221,7 +394,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.4097884,
+      "longitude": 11.2476334,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41106007989272,
+          "lng": 11.24903407989272
+        },
+        "southwest": {
+          "lat": 10.40836042010728,
+          "lng": 11.24633442010728
+        }
+      },
+      "formatted_address": "C65X+W22, 760102, Jerikom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4097884,11.2476334",
+      "google_place_id": "ChIJz0SXGgbW_xARlr4nHbJxo90"
+    }
   },
   {
     "id": "61315",
@@ -237,7 +427,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2769603,
+      "longitude": 11.170005,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27854642989272,
+          "lng": 11.17139257989272
+        },
+        "southwest": {
+          "lat": 10.27584677010728,
+          "lng": 11.16869292010728
+        }
+      },
+      "formatted_address": "75GC+Q2C, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2769603,11.170005",
+      "google_place_id": "ChIJsbkQ-XDQ_xAR7E_y24N8Mao"
+    }
   },
   {
     "id": "61316",
@@ -253,7 +460,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3043257,
+      "longitude": 11.1546025,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30552152989272,
+          "lng": 11.15584212989272
+        },
+        "southwest": {
+          "lat": 10.30282187010728,
+          "lng": 11.15314247010728
+        }
+      },
+      "formatted_address": "8533+PRQ, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3043257,11.1546025",
+      "google_place_id": "ChIJVZa64HDa_xARVdr4S5R6YZY"
+    }
   },
   {
     "id": "61317",
@@ -269,7 +493,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.6541667,
+      "longitude": 11.0849167,
+      "viewport": {
+        "northeast": {
+          "lat": 10.65551607989272,
+          "lng": 11.08626852989272
+        },
+        "southwest": {
+          "lat": 10.65281642010728,
+          "lng": 11.08356887010728
+        }
+      },
+      "formatted_address": "10°39.250'N, 11°05.095'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6541667,11.0849167",
+      "google_place_id": "ChIJZ12Sc5s7ABERlVAlztOWpUQ"
+    }
   },
   {
     "id": "61318",
@@ -285,7 +526,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2939487,
+      "longitude": 11.181783,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29533867989272,
+          "lng": 11.18281642989272
+        },
+        "southwest": {
+          "lat": 10.29263902010728,
+          "lng": 11.18011677010728
+        }
+      },
+      "formatted_address": "75VJ+HPF, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2939487,11.181783",
+      "google_place_id": "ChIJZ93XCovQ_xAR4R7yI1WU0-g"
+    }
   },
   {
     "id": "61319",
@@ -301,7 +559,24 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2668725,
+      "longitude": 11.1682401,
+      "viewport": {
+        "northeast": {
+          "lat": 10.26822392989272,
+          "lng": 11.16953572989272
+        },
+        "southwest": {
+          "lat": 10.26552427010728,
+          "lng": 11.16683607010728
+        }
+      },
+      "formatted_address": "7589+P7X, 760251, Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2668725,11.1682401",
+      "google_place_id": "ChIJRTinjDDR_xARS_JVAZYFOAY"
+    }
   },
   {
     "id": "61320",
@@ -317,6 +592,23 @@
     "local_government_id": "289",
     "local_government_name": "KWAMI",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.39085,
+      "longitude": 11.0943484,
+      "viewport": {
+        "northeast": {
+          "lat": 10.39212457989272,
+          "lng": 11.09573562989272
+        },
+        "southwest": {
+          "lat": 10.38942492010728,
+          "lng": 11.09303597010728
+        }
+      },
+      "formatted_address": "93RV+9P4, 760102, Kafarati, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.39085,11.0943484",
+      "google_place_id": "ChIJ5bzVtb3Z_xARBejW_5QJCdk"
+    }
   }
 ]

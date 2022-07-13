@@ -13,7 +13,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
   },
   {
     "id": "61676",
@@ -29,7 +46,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3036119,
+      "longitude": 11.1899996,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30492157989272,
+          "lng": 11.19134302989272
+        },
+        "southwest": {
+          "lat": 10.30222192010728,
+          "lng": 11.18864337010728
+        }
+      },
+      "formatted_address": "853Q+CXX, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3036119,11.1899996",
+      "google_place_id": "ChIJ59B5KuzQ_xARF3D3wBliB9I"
+    }
   },
   {
     "id": "61677",
@@ -45,7 +79,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3042948,
+      "longitude": 11.172793,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30544982989272,
+          "lng": 11.17432297989272
+        },
+        "southwest": {
+          "lat": 10.30275017010728,
+          "lng": 11.17162332010728
+        }
+      },
+      "formatted_address": "853F+P47 Gombe State University, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3042948,11.172793",
+      "google_place_id": "ChIJZdb3_JDQ_xAR2teAtUSwrNU"
+    }
   },
   {
     "id": "61678",
@@ -61,7 +112,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2930228,
+      "longitude": 11.146374,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29439792989272,
+          "lng": 11.14772412989272
+        },
+        "southwest": {
+          "lat": 10.29169827010728,
+          "lng": 11.14502447010728
+        }
+      },
+      "formatted_address": "74VW+6G5 Goodluck, Ebele Jonathan Road, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2930228,11.146374",
+      "google_place_id": "ChIJZwFvRmLa_xARCP_ZZ6ypq8M"
+    }
   },
   {
     "id": "61679",
@@ -77,7 +145,8 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61680",
@@ -93,6 +162,7 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   }
 ]

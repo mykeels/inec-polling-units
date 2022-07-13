@@ -13,7 +13,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60183",
@@ -29,7 +30,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60184",
@@ -45,7 +47,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 11.0048999,
+      "longitude": 10.7486,
+      "viewport": {
+        "northeast": {
+          "lat": 11.00616387989272,
+          "lng": 10.74996007989272
+        },
+        "southwest": {
+          "lat": 11.00346422010728,
+          "lng": 10.74726042010728
+        }
+      },
+      "formatted_address": "2P3X+XC5, 760106, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0048999,10.7486",
+      "google_place_id": "ChIJXRATsFB6ABERSwkVK2VRaZg"
+    }
   },
   {
     "id": "60185",
@@ -61,7 +80,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60186",
@@ -77,7 +97,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
   },
   {
     "id": "60187",
@@ -93,7 +130,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
   },
   {
     "id": "60188",
@@ -109,7 +163,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8241066,
+      "longitude": 10.7805331,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82545272989272,
+          "lng": 10.78189262989272
+        },
+        "southwest": {
+          "lat": 10.82275307010728,
+          "lng": 10.77919297010728
+        }
+      },
+      "formatted_address": "RQFJ+J6X, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8241066,10.7805331",
+      "google_place_id": "ChIJYTWVteFzABERZDgdN12Ful4"
+    }
   },
   {
     "id": "60189",
@@ -125,7 +196,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
   },
   {
     "id": "60190",
@@ -141,7 +229,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8241066,
+      "longitude": 10.7805331,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82545272989272,
+          "lng": 10.78189262989272
+        },
+        "southwest": {
+          "lat": 10.82275307010728,
+          "lng": 10.77919297010728
+        }
+      },
+      "formatted_address": "RQFJ+J6X, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8241066,10.7805331",
+      "google_place_id": "ChIJYTWVteFzABERZDgdN12Ful4"
+    }
   },
   {
     "id": "60191",
@@ -157,7 +262,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3001756,
+      "longitude": 11.1702351,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30140642989272,
+          "lng": 11.17154482989272
+        },
+        "southwest": {
+          "lat": 10.29870677010728,
+          "lng": 11.16884517010728
+        }
+      },
+      "formatted_address": "852C+33H, 760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3001756,11.1702351",
+      "google_place_id": "ChIJ18K0AcbR_xARgtXx_FIyNWE"
+    }
   },
   {
     "id": "60192",
@@ -173,7 +295,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
   },
   {
     "id": "60193",
@@ -189,7 +328,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60194",
@@ -205,7 +345,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
   },
   {
     "id": "60195",
@@ -221,7 +378,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8241066,
+      "longitude": 10.7805331,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82545272989272,
+          "lng": 10.78189262989272
+        },
+        "southwest": {
+          "lat": 10.82275307010728,
+          "lng": 10.77919297010728
+        }
+      },
+      "formatted_address": "RQFJ+J6X, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8241066,10.7805331",
+      "google_place_id": "ChIJYTWVteFzABERZDgdN12Ful4"
+    }
   },
   {
     "id": "60196",
@@ -237,7 +411,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8134029,
+      "longitude": 10.7766729,
+      "viewport": {
+        "northeast": {
+          "lat": 10.81483457989272,
+          "lng": 10.77801377989272
+        },
+        "southwest": {
+          "lat": 10.81213492010728,
+          "lng": 10.77531412010728
+        }
+      },
+      "formatted_address": "RQ7G+9M7, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8134029,10.7766729",
+      "google_place_id": "ChIJ4Vf1AFJzABERd8ZA8yduCgk"
+    }
   },
   {
     "id": "60197",
@@ -253,7 +444,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8825667,
+      "longitude": 10.6773833,
+      "viewport": {
+        "northeast": {
+          "lat": 10.88390452989272,
+          "lng": 10.67869347989272
+        },
+        "southwest": {
+          "lat": 10.88120487010728,
+          "lng": 10.67599382010728
+        }
+      },
+      "formatted_address": "10°52.954'N, 10°40.643'E, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8825667,10.6773833",
+      "google_place_id": "ChIJl6R4wCd0ABERaDkymV-Hg5c"
+    }
   },
   {
     "id": "60198",
@@ -269,7 +477,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 11.068782,
+      "longitude": 10.727007,
+      "viewport": {
+        "northeast": {
+          "lat": 11.07014347989272,
+          "lng": 10.72837667989272
+        },
+        "southwest": {
+          "lat": 11.06744382010728,
+          "lng": 10.72567702010728
+        }
+      },
+      "formatted_address": "3P9G+GR6, 760106, Jamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.068782,10.727007",
+      "google_place_id": "ChIJRQibKwx8ABERFzZhon--v8A"
+    }
   },
   {
     "id": "60199",
@@ -285,7 +510,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60200",
@@ -301,7 +527,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 11.0048999,
+      "longitude": 10.7486,
+      "viewport": {
+        "northeast": {
+          "lat": 11.00616387989272,
+          "lng": 10.74996007989272
+        },
+        "southwest": {
+          "lat": 11.00346422010728,
+          "lng": 10.74726042010728
+        }
+      },
+      "formatted_address": "2P3X+XC5, 760106, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0048999,10.7486",
+      "google_place_id": "ChIJXRATsFB6ABERSwkVK2VRaZg"
+    }
   },
   {
     "id": "60201",
@@ -317,7 +560,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 11.0276757,
+      "longitude": 10.7889007,
+      "viewport": {
+        "northeast": {
+          "lat": 11.02902552989272,
+          "lng": 10.79025052989272
+        },
+        "southwest": {
+          "lat": 11.02632587010728,
+          "lng": 10.78755087010728
+        }
+      },
+      "formatted_address": "2QHQ+3HC, 760106, Jamari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0276757,10.7889007",
+      "google_place_id": "ChIJ47XJfzB7ABERymTTws0hKls"
+    }
   },
   {
     "id": "60202",
@@ -333,7 +593,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.8134029,
+      "longitude": 10.7766729,
+      "viewport": {
+        "northeast": {
+          "lat": 10.81483457989272,
+          "lng": 10.77801377989272
+        },
+        "southwest": {
+          "lat": 10.81213492010728,
+          "lng": 10.77531412010728
+        }
+      },
+      "formatted_address": "RQ7G+9M7, 760104, Dukku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8134029,10.7766729",
+      "google_place_id": "ChIJ4Vf1AFJzABERd8ZA8yduCgk"
+    }
   },
   {
     "id": "60203",
@@ -349,7 +626,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60204",
@@ -365,7 +643,8 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "60205",
@@ -381,7 +660,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2994123,
+      "longitude": 11.1608509,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30076412989272,
+          "lng": 11.16220022989272
+        },
+        "southwest": {
+          "lat": 10.29806447010728,
+          "lng": 11.15950057010728
+        }
+      },
+      "formatted_address": "760253, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2994123,11.1608509",
+      "google_place_id": "ChIJC8VzdHja_xARIgh_DRgM48A"
+    }
   },
   {
     "id": "60206",
@@ -397,7 +693,24 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.82248,
+      "longitude": 10.6060672,
+      "viewport": {
+        "northeast": {
+          "lat": 10.82382892989272,
+          "lng": 10.60740122989272
+        },
+        "southwest": {
+          "lat": 10.82112927010728,
+          "lng": 10.60470157010728
+        }
+      },
+      "formatted_address": "760105, Towal, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.82248,10.6060672",
+      "google_place_id": "ChIJ0eGT_cKfqhERAETCNQz5PNU"
+    }
   },
   {
     "id": "60207",
@@ -413,6 +726,7 @@
     "local_government_id": "285",
     "local_government_name": "DUKKU",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   }
 ]

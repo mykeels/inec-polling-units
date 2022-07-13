@@ -13,7 +13,8 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61551",
@@ -29,7 +30,24 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
   },
   {
     "id": "61552",
@@ -45,7 +63,8 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61553",
@@ -61,7 +80,8 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61554",
@@ -77,7 +97,24 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.9934999,
+      "longitude": 11.1754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.99484972989272,
+          "lng": 11.17674982989272
+        },
+        "southwest": {
+          "lat": 10.99215007010728,
+          "lng": 11.17405017010728
+        }
+      },
+      "formatted_address": "X5VG+95R, 762103, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9934999,11.1754",
+      "google_place_id": "ChIJH-l8j2RQABERsJoUouQEWCE"
+    }
   },
   {
     "id": "61555",
@@ -93,7 +130,24 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3211931,
+      "longitude": 11.481479,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32254292989272,
+          "lng": 11.48282882989272
+        },
+        "southwest": {
+          "lat": 10.31984327010728,
+          "lng": 11.48012917010728
+        }
+      },
+      "formatted_address": "8FCJ+FHH, 761121, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3211931,11.481479",
+      "google_place_id": "ChIJizCa3Sov_hARsDXXGp4Bwto"
+    }
   },
   {
     "id": "61556",
@@ -109,7 +163,8 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61557",
@@ -125,7 +180,24 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2753355,
+      "longitude": 11.171468,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27667557989272,
+          "lng": 11.17284797989272
+        },
+        "southwest": {
+          "lat": 10.27397592010728,
+          "lng": 11.17014832010728
+        }
+      },
+      "formatted_address": "75GC+4HP, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2753355,11.171468",
+      "google_place_id": "ChIJW1HZvnHQ_xARVu62M2vSi8E"
+    }
   },
   {
     "id": "61558",
@@ -141,7 +213,24 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.425992,
+      "longitude": 11.3778405,
+      "viewport": {
+        "northeast": {
+          "lat": 10.42753907989272,
+          "lng": 11.37914337989272
+        },
+        "southwest": {
+          "lat": 10.42483942010728,
+          "lng": 11.37644372010728
+        }
+      },
+      "formatted_address": "Bakin kasuwa, Daban fulani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.425992,11.3778405",
+      "google_place_id": "ChIJJx-7XlbVARERexUrmFkGpsk"
+    }
   },
   {
     "id": "61559",
@@ -157,6 +246,23 @@
     "local_government_id": "290",
     "local_government_name": "NAFADA",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 11.0972071,
+      "longitude": 11.3262466,
+      "viewport": {
+        "northeast": {
+          "lat": 11.09839927989272,
+          "lng": 11.32773307989272
+        },
+        "southwest": {
+          "lat": 11.09569962010728,
+          "lng": 11.32503342010728
+        }
+      },
+      "formatted_address": "38WG+VFQ, 762103, Nafada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0972071,11.3262466",
+      "google_place_id": "ChIJ_Ui4wNZVABERb-piuXjUDwc"
+    }
   }
 ]

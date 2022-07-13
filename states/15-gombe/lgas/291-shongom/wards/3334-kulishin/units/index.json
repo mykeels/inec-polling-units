@@ -13,7 +13,8 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61701",
@@ -29,7 +30,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.857446099999999,
+      "longitude": 11.0994667,
+      "viewport": {
+        "northeast": {
+          "lat": 9.858795929892723,
+          "lng": 11.10081652989272
+        },
+        "southwest": {
+          "lat": 9.85609627010728,
+          "lng": 11.09811687010728
+        }
+      },
+      "formatted_address": "V34X+XQG, 771101, Kulkul, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.857446099999999,11.0994667",
+      "google_place_id": "ChIJTcRo_tKl_xAR_QvU60YyVQk"
+    }
   },
   {
     "id": "61702",
@@ -45,7 +63,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2713531,
+      "longitude": 11.1669136,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27270317989272,
+          "lng": 11.16825977989272
+        },
+        "southwest": {
+          "lat": 10.27000352010728,
+          "lng": 11.16556012010728
+        }
+      },
+      "formatted_address": "75C8+GQW, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2713531,11.1669136",
+      "google_place_id": "ChIJ869sfHTQ_xARNwW9IrpDbGk"
+    }
   },
   {
     "id": "61703",
@@ -61,7 +96,8 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61704",
@@ -77,7 +113,8 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61705",
@@ -93,7 +130,8 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "61706",
@@ -109,7 +147,24 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.827770899999999,
+      "longitude": 11.3110568,
+      "viewport": {
+        "northeast": {
+          "lat": 9.829116579892721,
+          "lng": 11.31245057989272
+        },
+        "southwest": {
+          "lat": 9.826416920107278,
+          "lng": 11.30975092010728
+        }
+      },
+      "formatted_address": "R8H6+498, 770117, Kaltungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.827770899999999,11.3110568",
+      "google_place_id": "ChIJU59H2-2s_xARDu56qAtWNM0"
+    }
   },
   {
     "id": "61707",
@@ -125,6 +180,23 @@
     "local_government_id": "291",
     "local_government_name": "SHONGOM",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.0473825,
+      "longitude": 11.2288375,
+      "viewport": {
+        "northeast": {
+          "lat": 10.04869317989272,
+          "lng": 11.23019087989272
+        },
+        "southwest": {
+          "lat": 10.04599352010728,
+          "lng": 11.22749122010728
+        }
+      },
+      "formatted_address": "26WH+XG4, 771102, Kumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0473825,11.2288375",
+      "google_place_id": "ChIJu91ixD-2_xAR3sk1E0N_wMI"
+    }
   }
 ]

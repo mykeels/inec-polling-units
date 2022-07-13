@@ -13,7 +13,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.0195651,
+      "longitude": 10.9478621,
+      "viewport": {
+        "northeast": {
+          "lat": 10.02091492989272,
+          "lng": 10.94921192989272
+        },
+        "southwest": {
+          "lat": 10.01821527010728,
+          "lng": 10.94651227010728
+        }
+      },
+      "formatted_address": "Madaki quartes Tumu ward, Akko lga Gombe state Madaki Quartes Tumu Ward, Akko Lga, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0195651,10.9478621",
+      "google_place_id": "ChIJyejdhfGV_xARITjAojGmhuY"
+    }
   },
   {
     "id": "59586",
@@ -29,7 +46,8 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59587",
@@ -45,7 +63,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.941526600000001,
+      "longitude": 11.001894,
+      "viewport": {
+        "northeast": {
+          "lat": 9.943112429892722,
+          "lng": 11.00287892989272
+        },
+        "southwest": {
+          "lat": 9.940412770107278,
+          "lng": 11.00017927010728
+        }
+      },
+      "formatted_address": "W2R2+JQ6, Road 771103, Pindiga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.941526600000001,11.001894",
+      "google_place_id": "ChIJ72n1FXW9_xARqaANrmNF98c"
+    }
   },
   {
     "id": "59588",
@@ -61,7 +96,8 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59589",
@@ -77,7 +113,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.9900722,
+      "longitude": 11.153142,
+      "viewport": {
+        "northeast": {
+          "lat": 9.991484479892723,
+          "lng": 11.15465512989272
+        },
+        "southwest": {
+          "lat": 9.988784820107279,
+          "lng": 11.15195547010728
+        }
+      },
+      "formatted_address": "X5R3+27C, 771102, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9900722,11.153142",
+      "google_place_id": "ChIJeeCeVPq5_xAR3uyiuoz3pp4"
+    }
   },
   {
     "id": "59590",
@@ -93,7 +146,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.941526600000001,
+      "longitude": 11.001894,
+      "viewport": {
+        "northeast": {
+          "lat": 9.943112429892722,
+          "lng": 11.00287892989272
+        },
+        "southwest": {
+          "lat": 9.940412770107278,
+          "lng": 11.00017927010728
+        }
+      },
+      "formatted_address": "W2R2+JQ6, Road 771103, Pindiga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.941526600000001,11.001894",
+      "google_place_id": "ChIJ72n1FXW9_xARqaANrmNF98c"
+    }
   },
   {
     "id": "59591",
@@ -109,7 +179,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.995543099999999,
+      "longitude": 11.0321875,
+      "viewport": {
+        "northeast": {
+          "lat": 9.996936229892722,
+          "lng": 11.03398737989272
+        },
+        "southwest": {
+          "lat": 9.994236570107278,
+          "lng": 11.03128772010728
+        }
+      },
+      "formatted_address": "X2WJ+6V7, 771103, Kombani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.995543099999999,11.0321875",
+      "google_place_id": "ChIJnW2M3IW-_xARM1mVcNDh0UY"
+    }
   },
   {
     "id": "59592",
@@ -125,7 +212,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 43.2240324,
+      "longitude": -79.8840858,
+      "viewport": {
+        "northeast": {
+          "lat": 43.22532262989272,
+          "lng": -79.88255482010729
+        },
+        "southwest": {
+          "lat": 43.22262297010728,
+          "lng": -79.88525447989274
+        }
+      },
+      "formatted_address": "962 Upper James St, Hamilton, ON L9C 3A5, Canada",
+      "google_map_url": "https://maps.google.com?q=43.2240324,-79.8840858",
+      "google_place_id": "ChIJE6jOk_yaLIgRxC-C5XpEDEg"
+    }
   },
   {
     "id": "59593",
@@ -141,7 +245,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.0102383,
+      "longitude": 11.0077281,
+      "viewport": {
+        "northeast": {
+          "lat": 10.01151547989272,
+          "lng": 11.00893972989272
+        },
+        "southwest": {
+          "lat": 10.00881582010728,
+          "lng": 11.00624007010728
+        }
+      },
+      "formatted_address": "Tumu Arewa Primary School, 771103, Tumu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0102383,11.0077281",
+      "google_place_id": "ChIJLfNy6kG-_xARrF82435ZaVA"
+    }
   },
   {
     "id": "59594",
@@ -157,7 +278,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.007672,
+      "longitude": 11.048549,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1021293,
+          "lng": 11.1788618
+        },
+        "southwest": {
+          "lat": 9.9370595,
+          "lng": 10.997047
+        }
+      },
+      "formatted_address": "Tumu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.007672,11.048549",
+      "google_place_id": "ChIJu8QAgyS5_xARSJL-Ua0Knjk"
+    }
   },
   {
     "id": "59595",
@@ -173,7 +311,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2767075,
+      "longitude": 11.1803908,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27806177989272,
+          "lng": 11.18171012989272
+        },
+        "southwest": {
+          "lat": 10.27536212010728,
+          "lng": 11.17901047010728
+        }
+      },
+      "formatted_address": "75GJ+M5J, State Low Cost Rd, 760251, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2767075,11.1803908",
+      "google_place_id": "ChIJu1-252jQ_xAR0CzdwQfxpes"
+    }
   },
   {
     "id": "59596",
@@ -189,7 +344,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.9900722,
+      "longitude": 11.153142,
+      "viewport": {
+        "northeast": {
+          "lat": 9.991484479892723,
+          "lng": 11.15465512989272
+        },
+        "southwest": {
+          "lat": 9.988784820107279,
+          "lng": 11.15195547010728
+        }
+      },
+      "formatted_address": "X5R3+27C, 771102, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.9900722,11.153142",
+      "google_place_id": "ChIJeeCeVPq5_xAR3uyiuoz3pp4"
+    }
   },
   {
     "id": "59597",
@@ -205,7 +377,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.0702434,
+      "longitude": 11.0595393,
+      "viewport": {
+        "northeast": {
+          "lat": 10.07148302989272,
+          "lng": 11.06090377989272
+        },
+        "southwest": {
+          "lat": 10.06878337010728,
+          "lng": 11.05820412010728
+        }
+      },
+      "formatted_address": "33C5+3QJ, 771103, Fafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0702434,11.0595393",
+      "google_place_id": "ChIJjxxr0Vm__xARvk6pXKvO6Ms"
+    }
   },
   {
     "id": "59598",
@@ -221,7 +410,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.941526600000001,
+      "longitude": 11.001894,
+      "viewport": {
+        "northeast": {
+          "lat": 9.943112429892722,
+          "lng": 11.00287892989272
+        },
+        "southwest": {
+          "lat": 9.940412770107278,
+          "lng": 11.00017927010728
+        }
+      },
+      "formatted_address": "W2R2+JQ6, Road 771103, Pindiga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.941526600000001,11.001894",
+      "google_place_id": "ChIJ72n1FXW9_xARqaANrmNF98c"
+    }
   },
   {
     "id": "59599",
@@ -237,7 +443,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.2843027,
+      "longitude": 11.1999319,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28567712989272,
+          "lng": 11.20141702989272
+        },
+        "southwest": {
+          "lat": 10.28297747010728,
+          "lng": 11.19871737010728
+        }
+      },
+      "formatted_address": "75MX+PXF, Nassarawa Road, 771104, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2843027,11.1999319",
+      "google_place_id": "ChIJK7jw4PrR_xAR4TXTzOYg4dU"
+    }
   },
   {
     "id": "59600",
@@ -253,7 +476,8 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59601",
@@ -269,7 +493,8 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59602",
@@ -285,7 +510,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.007672,
+      "longitude": 11.048549,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1021293,
+          "lng": 11.1788618
+        },
+        "southwest": {
+          "lat": 9.9370595,
+          "lng": 10.997047
+        }
+      },
+      "formatted_address": "Tumu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.007672,11.048549",
+      "google_place_id": "ChIJu8QAgyS5_xARSJL-Ua0Knjk"
+    }
   },
   {
     "id": "59603",
@@ -301,7 +543,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": -4.1918044,
+      "longitude": 39.5812213,
+      "viewport": {
+        "northeast": {
+          "lat": -4.190460320107278,
+          "lng": 39.58258762989272
+        },
+        "southwest": {
+          "lat": -4.193159979892722,
+          "lng": 39.57988797010728
+        }
+      },
+      "formatted_address": "RH5J+7FH, Next To Kombani Secondary School, Off Kwale Road, Kombani, Tiwi, Kenya",
+      "google_map_url": "https://maps.google.com?q=-4.1918044,39.5812213",
+      "google_place_id": "ChIJg12KSptBQBgRLXAkRRMrgLQ"
+    }
   },
   {
     "id": "59604",
@@ -317,7 +576,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 9.941526600000001,
+      "longitude": 11.001894,
+      "viewport": {
+        "northeast": {
+          "lat": 9.943112429892722,
+          "lng": 11.00287892989272
+        },
+        "southwest": {
+          "lat": 9.940412770107278,
+          "lng": 11.00017927010728
+        }
+      },
+      "formatted_address": "W2R2+JQ6, Road 771103, Pindiga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.941526600000001,11.001894",
+      "google_place_id": "ChIJ72n1FXW9_xARqaANrmNF98c"
+    }
   },
   {
     "id": "59605",
@@ -333,7 +609,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.007672,
+      "longitude": 11.048549,
+      "viewport": {
+        "northeast": {
+          "lat": 10.1021293,
+          "lng": 11.1788618
+        },
+        "southwest": {
+          "lat": 9.9370595,
+          "lng": 10.997047
+        }
+      },
+      "formatted_address": "Tumu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.007672,11.048549",
+      "google_place_id": "ChIJu8QAgyS5_xARSJL-Ua0Knjk"
+    }
   },
   {
     "id": "59606",
@@ -349,7 +642,8 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": null
   },
   {
     "id": "59607",
@@ -365,7 +659,24 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.9934999,
+      "longitude": 11.1754,
+      "viewport": {
+        "northeast": {
+          "lat": 10.99484972989272,
+          "lng": 11.17674982989272
+        },
+        "southwest": {
+          "lat": 10.99215007010728,
+          "lng": 11.17405017010728
+        }
+      },
+      "formatted_address": "X5VG+95R, 762103, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9934999,11.1754",
+      "google_place_id": "ChIJH-l8j2RQABERsJoUouQEWCE"
+    }
   },
   {
     "id": "59608",
@@ -381,6 +692,23 @@
     "local_government_id": "282",
     "local_government_name": "AKKO",
     "state_id": "15",
-    "state_name": "GOMBE"
+    "state_name": "GOMBE",
+    "location": {
+      "latitude": 10.3154331,
+      "longitude": 11.1779147,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31678152989272,
+          "lng": 11.17925672989272
+        },
+        "southwest": {
+          "lat": 10.31408187010728,
+          "lng": 11.17655707010728
+        }
+      },
+      "formatted_address": "858H+54G, 760102, Gombe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3154331,11.1779147",
+      "google_place_id": "ChIJDwAAMbzQ_xARPcYAXngDgnY"
+    }
   }
 ]
