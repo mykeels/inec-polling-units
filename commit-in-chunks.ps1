@@ -1,5 +1,5 @@
-foreach ($file in Get-ChildItem .\*) {
-    $FilePath = Join-Path -Path ./ -ChildPath $file.Name
+foreach ($file in Get-ChildItem .\states\*) {
+    $FilePath = Join-Path -Path ./states/ -ChildPath $file.Name
     $target = get-item $FilePath
     if($target.PSIsContainer) {
         echo $FilePath
