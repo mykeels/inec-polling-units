@@ -13,7 +13,24 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.722053499999999,
+      "longitude": 6.8990885,
+      "viewport": {
+        "northeast": {
+          "lat": 5.723420079892723,
+          "lng": 6.900461379892722
+        },
+        "southwest": {
+          "lat": 5.720720420107278,
+          "lng": 6.897761720107278
+        }
+      },
+      "formatted_address": "PVCX+RJG, Onitsha - Owerri Expy, 474104, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.722053499999999,6.8990885",
+      "google_place_id": "ChIJORxIH6CzQxARP6QsyHrqG3I"
+    }
   },
   {
     "id": "64954",
@@ -29,7 +46,8 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64955",
@@ -45,7 +63,8 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64956",
@@ -61,7 +80,24 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7014987,
+      "longitude": 6.8131122,
+      "viewport": {
+        "northeast": {
+          "lat": 5.702908379892722,
+          "lng": 6.814494579892721
+        },
+        "southwest": {
+          "lat": 5.700208720107278,
+          "lng": 6.811794920107277
+        }
+      },
+      "formatted_address": "1 tourism boulevard, 464102, Oguta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7014987,6.8131122",
+      "google_place_id": "ChIJD7UV6Da1QxARyTPuo2hF5vU"
+    }
   },
   {
     "id": "64957",
@@ -77,7 +113,24 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.746433499999999,
+      "longitude": 6.8267557,
+      "viewport": {
+        "northeast": {
+          "lat": 5.747782079892721,
+          "lng": 6.828179929892721
+        },
+        "southwest": {
+          "lat": 5.745082420107277,
+          "lng": 6.825480270107277
+        }
+      },
+      "formatted_address": "PRWG+HPC, 464104, Oguta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.746433499999999,6.8267557",
+      "google_place_id": "ChIJrVRbQmK1QxART8fw2RC8qvs"
+    }
   },
   {
     "id": "64958",
@@ -93,7 +146,8 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64959",
@@ -109,6 +163,23 @@
     "local_government_id": "309",
     "local_government_name": "OGUTA (OGUTA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7119621,
+      "longitude": 6.814330399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.713099879892723,
+          "lng": 6.815434429892722
+        },
+        "southwest": {
+          "lat": 5.710400220107279,
+          "lng": 6.812734770107278
+        }
+      },
+      "formatted_address": "PR67+QPP, 464102, Oguta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7119621,6.814330399999999",
+      "google_place_id": "ChIJ-_JGpFW1QxARscAwYiEIvy4"
+    }
   }
 ]

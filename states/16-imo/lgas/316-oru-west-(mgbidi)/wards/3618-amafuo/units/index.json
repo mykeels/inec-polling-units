@@ -13,7 +13,24 @@
     "local_government_id": "316",
     "local_government_name": "ORU WEST (MGBIDI)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
   },
   {
     "id": "66093",
@@ -29,7 +46,24 @@
     "local_government_id": "316",
     "local_government_name": "ORU WEST (MGBIDI)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7274463,
+      "longitude": 6.8983734,
+      "viewport": {
+        "northeast": {
+          "lat": 5.728827579892722,
+          "lng": 6.899738529892722
+        },
+        "southwest": {
+          "lat": 5.726127920107278,
+          "lng": 6.897038870107278
+        }
+      },
+      "formatted_address": "PVGX+X8H, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7274463,6.8983734",
+      "google_place_id": "ChIJL4iT3PSyQxAR4pvlHX9xjkE"
+    }
   },
   {
     "id": "66094",
@@ -45,7 +79,24 @@
     "local_government_id": "316",
     "local_government_name": "ORU WEST (MGBIDI)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.9023575,
+      "longitude": 7.078745499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.903949579892721,
+          "lng": 7.080111779892722
+        },
+        "southwest": {
+          "lat": 5.901249920107277,
+          "lng": 7.077412120107279
+        }
+      },
+      "formatted_address": "W32H+WFX, 475113, Obodoukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9023575,7.078745499999999",
+      "google_place_id": "ChIJXxH_znanQxARSfthdn1zejA"
+    }
   },
   {
     "id": "66095",
@@ -61,7 +112,24 @@
     "local_government_id": "316",
     "local_government_name": "ORU WEST (MGBIDI)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.740935899999999,
+      "longitude": 6.910180599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.742385879892721,
+          "lng": 6.911626729892721
+        },
+        "southwest": {
+          "lat": 5.739686220107277,
+          "lng": 6.908927070107277
+        }
+      },
+      "formatted_address": "PWR6+93F, 474108, Mgbidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.740935899999999,6.910180599999999",
+      "google_place_id": "ChIJVVVVVWWyQxARkpHLTXC_Cbw"
+    }
   },
   {
     "id": "66096",
@@ -77,6 +145,7 @@
     "local_government_id": "316",
     "local_government_name": "ORU WEST (MGBIDI)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   }
 ]

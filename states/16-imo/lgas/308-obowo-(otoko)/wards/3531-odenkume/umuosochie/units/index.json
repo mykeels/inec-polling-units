@@ -13,7 +13,24 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.6026593,
+      "longitude": 7.3219537,
+      "viewport": {
+        "northeast": {
+          "lat": 5.604083329892722,
+          "lng": 7.323498129892721
+        },
+        "southwest": {
+          "lat": 5.601383670107278,
+          "lng": 7.320798470107277
+        }
+      },
+      "formatted_address": "J83C+3Q8, Umulogho Town Obow Road, Obowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6026593,7.3219537",
+      "google_place_id": "ChIJl3Ik_aXjQhARxFbCX0aweuE"
+    }
   },
   {
     "id": "64825",
@@ -29,7 +46,24 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.519711,
+      "longitude": 7.3390388,
+      "viewport": {
+        "northeast": {
+          "lat": 5.520976179892722,
+          "lng": 7.34044517989272
+        },
+        "southwest": {
+          "lat": 5.518276520107278,
+          "lng": 7.337745520107276
+        }
+      },
+      "formatted_address": "G89Q+VJM, 462122, Obizi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.519711,7.3390388",
+      "google_place_id": "ChIJ74DXEfflQhARWbbCG7ZtpUE"
+    }
   },
   {
     "id": "64826",
@@ -45,7 +79,24 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.5607183,
+      "longitude": 7.352649399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.562038629892721,
+          "lng": 7.354015429892721
+        },
+        "southwest": {
+          "lat": 5.559338970107278,
+          "lng": 7.351315770107277
+        }
+      },
+      "formatted_address": "H963+73J, 463107, Otoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5607183,7.352649399999999",
+      "google_place_id": "ChIJ_6X8EzDnQhARLoW-wKzT0dM"
+    }
   },
   {
     "id": "64827",
@@ -61,7 +112,8 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64828",
@@ -77,7 +129,8 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64829",
@@ -93,7 +146,24 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.5656447,
+      "longitude": 7.3601358,
+      "viewport": {
+        "northeast": {
+          "lat": 5.567137329892722,
+          "lng": 7.361290179892724
+        },
+        "southwest": {
+          "lat": 5.564437670107278,
+          "lng": 7.35859052010728
+        }
+      },
+      "formatted_address": "Mbaise Rd, 463107, Ehume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5656447,7.3601358",
+      "google_place_id": "ChIJnQVUldLnQhARdki3itE7st8"
+    }
   },
   {
     "id": "64830",
@@ -109,7 +179,8 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64831",
@@ -125,7 +196,24 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.5920933,
+      "longitude": 7.332752999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.6146525,
+          "lng": 7.360027799999999
+        },
+        "southwest": {
+          "lat": 5.5595547,
+          "lng": 7.3046082
+        }
+      },
+      "formatted_address": "Odenkume/Umuosochie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5920933,7.332752999999999",
+      "google_place_id": "ChIJLcNG_BLkQhARkQfbrkGteVA"
+    }
   },
   {
     "id": "64832",
@@ -141,6 +229,7 @@
     "local_government_id": "308",
     "local_government_name": "OBOWO (OTOKO)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   }
 ]

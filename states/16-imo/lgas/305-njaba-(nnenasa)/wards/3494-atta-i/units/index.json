@@ -13,7 +13,24 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.6321414,
+      "longitude": 7.288876800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.633469229892722,
+          "lng": 7.290244879892722
+        },
+        "southwest": {
+          "lat": 5.630769570107278,
+          "lng": 7.287545220107278
+        }
+      },
+      "formatted_address": "J7JQ+VH2, 472105, Umu Ezeala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6321414,7.288876800000001",
+      "google_place_id": "ChIJ0bWoDODjQhARV4VHJOM219E"
+    }
   },
   {
     "id": "64374",
@@ -29,7 +46,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64375",
@@ -45,7 +63,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64376",
@@ -61,7 +80,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64377",
@@ -77,7 +97,24 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.6266174,
+      "longitude": 7.1265839,
+      "viewport": {
+        "northeast": {
+          "lat": 5.627943379892722,
+          "lng": 7.127929529892723
+        },
+        "southwest": {
+          "lat": 5.625243720107278,
+          "lng": 7.125229870107279
+        }
+      },
+      "formatted_address": "J4GG+JJ7, 461122, Atta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6266174,7.1265839",
+      "google_place_id": "ChIJtQ7ktxn_QhARBxnh0YAqNEs"
+    }
   },
   {
     "id": "64378",
@@ -93,7 +130,24 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.8306214,
+      "longitude": 6.9560774,
+      "viewport": {
+        "northeast": {
+          "lat": 5.831741579892722,
+          "lng": 6.957917079892722
+        },
+        "southwest": {
+          "lat": 5.829041920107279,
+          "lng": 6.955217420107277
+        }
+      },
+      "formatted_address": "RXJ4+6CW, 473114, Orlu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8306214,6.9560774",
+      "google_place_id": "ChIJg6hAn6OvQxARmmef-ahbYIg"
+    }
   },
   {
     "id": "64379",
@@ -109,6 +163,23 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.2726388,
+      "longitude": 7.3225139,
+      "viewport": {
+        "northeast": {
+          "lat": 5.273979729892722,
+          "lng": 7.32383147989272
+        },
+        "southwest": {
+          "lat": 5.271280070107278,
+          "lng": 7.321131820107276
+        }
+      },
+      "formatted_address": "78FF+322, 451101, Owerrinta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.2726388,7.3225139",
+      "google_place_id": "ChIJV4M719uTQhARxrX14Vi4doA"
+    }
   }
 ]

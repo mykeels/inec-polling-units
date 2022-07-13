@@ -13,7 +13,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.880285199999999,
+      "longitude": 7.099184999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.881635029892721,
+          "lng": 7.100534829892722
+        },
+        "southwest": {
+          "lat": 5.878935370107278,
+          "lng": 7.097835170107277
+        }
+      },
+      "formatted_address": "Uhualla Rd, 475108, Osina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.880285199999999,7.099184999999999",
+      "google_place_id": "ChIJhU6wayQIQxARIeFsCkhpbV8"
+    }
   },
   {
     "id": "63131",
@@ -29,7 +46,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.9113574,
+      "longitude": 7.1090217,
+      "viewport": {
+        "northeast": {
+          "lat": 5.912717829892721,
+          "lng": 7.110370329892722
+        },
+        "southwest": {
+          "lat": 5.910018170107278,
+          "lng": 7.107670670107278
+        }
+      },
+      "formatted_address": "Km1 Akokwa Orlu Road, NTUEKE IDEATO SOUTH, Akokwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9113574,7.1090217",
+      "google_place_id": "ChIJT1VVVcEJQxAR_UQdPY6OlW0"
+    }
   },
   {
     "id": "63132",
@@ -45,7 +79,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.849775999999999,
+      "longitude": 7.099433700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.851094779892723,
+          "lng": 7.100786579892721
+        },
+        "southwest": {
+          "lat": 5.848395120107279,
+          "lng": 7.098086920107277
+        }
+      },
+      "formatted_address": "R3XX+WQM, Eluama, Elugwu, Ntueke, Nnewi-Okigwe Rd, Ntueke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.849775999999999,7.099433700000001",
+      "google_place_id": "ChIJkw3-n_sHQxARZrZXDqY4HOo"
+    }
   },
   {
     "id": "63133",
@@ -61,7 +112,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.838714299999999,
+      "longitude": 7.079219999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.83986747989272,
+          "lng": 7.080564879892722
+        },
+        "southwest": {
+          "lat": 5.837167820107276,
+          "lng": 7.077865220107278
+        }
+      },
+      "formatted_address": "R3QH+FMQ, Umuchima Town, Ntueke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.838714299999999,7.079219999999999",
+      "google_place_id": "ChIJ3TtwKRGoQxARoaQlJAmXscM"
+    }
   },
   {
     "id": "63134",
@@ -77,7 +145,8 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "63135",
@@ -93,7 +162,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.7533438,
+      "longitude": 7.1292478,
+      "viewport": {
+        "northeast": {
+          "lat": 5.754681929892722,
+          "lng": 7.130631029892723
+        },
+        "southwest": {
+          "lat": 5.751982270107278,
+          "lng": 7.127931370107279
+        }
+      },
+      "formatted_address": "Q43H+8MQ, 471125, Nkwerre, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7533438,7.1292478",
+      "google_place_id": "ChIJ85vVducBQxARrdZ7IL56qWs"
+    }
   },
   {
     "id": "63136",
@@ -109,7 +195,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.838714299999999,
+      "longitude": 7.079219999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.83986747989272,
+          "lng": 7.080564879892722
+        },
+        "southwest": {
+          "lat": 5.837167820107276,
+          "lng": 7.077865220107278
+        }
+      },
+      "formatted_address": "R3QH+FMQ, Umuchima Town, Ntueke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.838714299999999,7.079219999999999",
+      "google_place_id": "ChIJ3TtwKRGoQxARoaQlJAmXscM"
+    }
   },
   {
     "id": "63137",
@@ -125,7 +228,24 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.8317518,
+      "longitude": 7.070098499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.833102979892722,
+          "lng": 7.07146687989272
+        },
+        "southwest": {
+          "lat": 5.830403320107278,
+          "lng": 7.068767220107277
+        }
+      },
+      "formatted_address": "R3JC+M2V, 475110, Urualla, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8317518,7.070098499999999",
+      "google_place_id": "ChIJ_XaIakCoQxAR0aiPeTFDTfw"
+    }
   },
   {
     "id": "63138",
@@ -141,6 +261,23 @@
     "local_government_id": "298",
     "local_government_name": "IDEATO SOUTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.849775999999999,
+      "longitude": 7.099433700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.851094779892723,
+          "lng": 7.100786579892721
+        },
+        "southwest": {
+          "lat": 5.848395120107279,
+          "lng": 7.098086920107277
+        }
+      },
+      "formatted_address": "R3XX+WQM, Eluama, Elugwu, Ntueke, Nnewi-Okigwe Rd, Ntueke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.849775999999999,7.099433700000001",
+      "google_place_id": "ChIJkw3-n_sHQxARZrZXDqY4HOo"
+    }
   }
 ]

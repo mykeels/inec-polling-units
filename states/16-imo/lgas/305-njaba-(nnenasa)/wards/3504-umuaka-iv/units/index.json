@@ -13,7 +13,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64496",
@@ -29,7 +30,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64497",
@@ -45,7 +47,24 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.6478465,
+      "longitude": 6.988705,
+      "viewport": {
+        "northeast": {
+          "lat": 5.656619,
+          "lng": 7.026879999999999
+        },
+        "southwest": {
+          "lat": 5.633258,
+          "lng": 6.973589899999999
+        }
+      },
+      "formatted_address": "Umuaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.6478465,6.988705",
+      "google_place_id": "ChIJ2biRIJ5UQhARTMlImTVxD0c"
+    }
   },
   {
     "id": "64498",
@@ -61,7 +80,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64499",
@@ -77,7 +97,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64500",
@@ -93,7 +114,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64501",
@@ -109,7 +131,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64502",
@@ -125,7 +148,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64503",
@@ -141,7 +165,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64504",
@@ -157,7 +182,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64505",
@@ -173,7 +199,8 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "64506",
@@ -189,6 +216,7 @@
     "local_government_id": "305",
     "local_government_name": "NJABA (NNENASA)",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   }
 ]

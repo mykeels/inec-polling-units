@@ -13,7 +13,24 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.9113599,
+      "longitude": 7.111657399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.912736429892722,
+          "lng": 7.113005079892722
+        },
+        "southwest": {
+          "lat": 5.910036770107277,
+          "lng": 7.110305420107278
+        }
+      },
+      "formatted_address": "Orie Market, Road 475111, Akokwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9113599,7.111657399999999",
+      "google_place_id": "ChIJA-2wUwYJQxAREBC1jTDdVAQ"
+    }
   },
   {
     "id": "62983",
@@ -29,7 +46,8 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": null
   },
   {
     "id": "62984",
@@ -45,7 +63,24 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.883941099999999,
+      "longitude": 7.1038161,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885312229892722,
+          "lng": 7.105032979892722
+        },
+        "southwest": {
+          "lat": 5.882612570107278,
+          "lng": 7.102333320107278
+        }
+      },
+      "formatted_address": "Osina - Dikenafai Rd, 475108, Osina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.883941099999999,7.1038161",
+      "google_place_id": "ChIJD_EKDWgJQxARu_gbcX0sDQc"
+    }
   },
   {
     "id": "62985",
@@ -61,7 +96,24 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.883941099999999,
+      "longitude": 7.1038161,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885312229892722,
+          "lng": 7.105032979892722
+        },
+        "southwest": {
+          "lat": 5.882612570107278,
+          "lng": 7.102333320107278
+        }
+      },
+      "formatted_address": "Osina - Dikenafai Rd, 475108, Osina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.883941099999999,7.1038161",
+      "google_place_id": "ChIJD_EKDWgJQxARu_gbcX0sDQc"
+    }
   },
   {
     "id": "62986",
@@ -77,7 +129,24 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.864506,
+      "longitude": 7.082116,
+      "viewport": {
+        "northeast": {
+          "lat": 5.866147529892721,
+          "lng": 7.083675229892722
+        },
+        "southwest": {
+          "lat": 5.863447870107278,
+          "lng": 7.080975570107278
+        }
+      },
+      "formatted_address": "Urulla Road Imo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.864506,7.082116",
+      "google_place_id": "ChIJR-TUG0qnQxARPI84JLDtx3c"
+    }
   },
   {
     "id": "62987",
@@ -93,7 +162,24 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.884354,
+      "longitude": 7.1980588,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885542229892722,
+          "lng": 7.199490129892723
+        },
+        "southwest": {
+          "lat": 5.882842570107278,
+          "lng": 7.196790470107279
+        }
+      },
+      "formatted_address": "V5MX+Q67, 475107, Arondizuogu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.884354,7.1980588",
+      "google_place_id": "ChIJq5Je1iIPQxAR1EKFq3hjNQo"
+    }
   },
   {
     "id": "62988",
@@ -109,6 +195,23 @@
     "local_government_id": "297",
     "local_government_name": "IDEATO NORTH",
     "state_id": "16",
-    "state_name": "IMO"
+    "state_name": "IMO",
+    "location": {
+      "latitude": 5.883941099999999,
+      "longitude": 7.1038161,
+      "viewport": {
+        "northeast": {
+          "lat": 5.885312229892722,
+          "lng": 7.105032979892722
+        },
+        "southwest": {
+          "lat": 5.882612570107278,
+          "lng": 7.102333320107278
+        }
+      },
+      "formatted_address": "Osina - Dikenafai Rd, 475108, Osina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.883941099999999,7.1038161",
+      "google_place_id": "ChIJD_EKDWgJQxARu_gbcX0sDQc"
+    }
   }
 ]
