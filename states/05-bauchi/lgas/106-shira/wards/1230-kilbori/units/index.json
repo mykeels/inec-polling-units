@@ -13,7 +13,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.7757947,
+      "longitude": 9.0207832,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77722102989272,
+          "lng": 9.021929329892721
+        },
+        "southwest": {
+          "lat": 12.77452137010728,
+          "lng": 9.019229670107277
+        }
+      },
+      "formatted_address": "Q2GC+887, 732104, Babura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7757947,9.0207832",
+      "google_place_id": "ChIJ5ax96vwvrxERdI8y3xTIBCE"
+    }
   },
   {
     "id": "22391",
@@ -29,7 +46,8 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22392",
@@ -45,7 +63,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4043603,
+      "longitude": 10.0159247,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40574077989272,
+          "lng": 10.01722182989272
+        },
+        "southwest": {
+          "lat": 11.40304112010728,
+          "lng": 10.01452217010728
+        }
+      },
+      "formatted_address": "C238+P9Q, Unnamed Road, Yana 750104, Yana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4043603,10.0159247",
+      "google_place_id": "ChIJCY7U8OtPqhERnqYUaWBEgJA"
+    }
   },
   {
     "id": "22393",
@@ -61,7 +96,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4043603,
+      "longitude": 10.0159247,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40574077989272,
+          "lng": 10.01722182989272
+        },
+        "southwest": {
+          "lat": 11.40304112010728,
+          "lng": 10.01452217010728
+        }
+      },
+      "formatted_address": "C238+P9Q, Unnamed Road, Yana 750104, Yana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4043603,10.0159247",
+      "google_place_id": "ChIJCY7U8OtPqhERnqYUaWBEgJA"
+    }
   },
   {
     "id": "22394",
@@ -77,7 +129,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3175874,
+      "longitude": 10.0452441,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31893987989272,
+          "lng": 10.04659852989272
+        },
+        "southwest": {
+          "lat": 11.31624022010728,
+          "lng": 10.04389887010728
+        }
+      },
+      "formatted_address": "829W+23X, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3175874,10.0452441",
+      "google_place_id": "ChIJ3yibR1BQqhERWxVU2k2uk2o"
+    }
   },
   {
     "id": "22395",
@@ -93,7 +162,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "22396",
@@ -109,7 +195,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3175874,
+      "longitude": 10.0452441,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31893987989272,
+          "lng": 10.04659852989272
+        },
+        "southwest": {
+          "lat": 11.31624022010728,
+          "lng": 10.04389887010728
+        }
+      },
+      "formatted_address": "829W+23X, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3175874,10.0452441",
+      "google_place_id": "ChIJ3yibR1BQqhERWxVU2k2uk2o"
+    }
   },
   {
     "id": "22397",
@@ -125,7 +228,8 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22398",
@@ -141,7 +245,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3175874,
+      "longitude": 10.0452441,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31893987989272,
+          "lng": 10.04659852989272
+        },
+        "southwest": {
+          "lat": 11.31624022010728,
+          "lng": 10.04389887010728
+        }
+      },
+      "formatted_address": "829W+23X, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3175874,10.0452441",
+      "google_place_id": "ChIJ3yibR1BQqhERWxVU2k2uk2o"
+    }
   },
   {
     "id": "22399",
@@ -157,7 +278,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6695457,
+      "longitude": 9.9200951,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67088862989272,
+          "lng": 9.921361179892722
+        },
+        "southwest": {
+          "lat": 11.66818897010728,
+          "lng": 9.918661520107278
+        }
+      },
+      "formatted_address": "MW9C+R29, 751106, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6695457,9.9200951",
+      "google_place_id": "ChIJyx1rV_IzqhERNoRbeXcWoyk"
+    }
   },
   {
     "id": "22400",
@@ -173,7 +311,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.5650485,
+      "longitude": 10.0695367,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6094364,
+          "lng": 10.1518394
+        },
+        "southwest": {
+          "lat": 11.4836085,
+          "lng": 10.0162026
+        }
+      },
+      "formatted_address": "Kilbori A, 750104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5650485,10.0695367",
+      "google_place_id": "ChIJU97kNhw4qhERwAWKbQ-b094"
+    }
   },
   {
     "id": "22401",
@@ -189,7 +344,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.348926,
+      "longitude": 9.9387957,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35028542989272,
+          "lng": 9.940224879892723
+        },
+        "southwest": {
+          "lat": 11.34758577010728,
+          "lng": 9.937525220107279
+        }
+      },
+      "formatted_address": "8WXQ+HGF, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.348926,9.9387957",
+      "google_place_id": "ChIJc65WW4RSqhERPgwh8BYJPO4"
+    }
   },
   {
     "id": "22402",
@@ -205,7 +377,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4882761,
+      "longitude": 9.7466584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.48962582989272,
+          "lng": 9.748007829892723
+        },
+        "southwest": {
+          "lat": 10.48692617010728,
+          "lng": 9.745308170107279
+        }
+      },
+      "formatted_address": "740102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4882761,9.7466584",
+      "google_place_id": "ChIJG-9pEj8tqxERU5lzxnwK8LI"
+    }
   },
   {
     "id": "22403",
@@ -221,7 +410,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3124618,
+      "longitude": 9.8385938,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31378852989272,
+          "lng": 9.83992187989272
+        },
+        "southwest": {
+          "lat": 10.31108887010728,
+          "lng": 9.837222220107277
+        }
+      },
+      "formatted_address": "8R6Q+XCQ, Kobi Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3124618,9.8385938",
+      "google_place_id": "ChIJ_zIzxBTXVBARQJ20SDAeGPo"
+    }
   },
   {
     "id": "22404",
@@ -237,7 +443,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3175874,
+      "longitude": 10.0452441,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31893987989272,
+          "lng": 10.04659852989272
+        },
+        "southwest": {
+          "lat": 11.31624022010728,
+          "lng": 10.04389887010728
+        }
+      },
+      "formatted_address": "829W+23X, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3175874,10.0452441",
+      "google_place_id": "ChIJ3yibR1BQqhERWxVU2k2uk2o"
+    }
   },
   {
     "id": "22405",
@@ -253,7 +476,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4442988,
+      "longitude": 9.9912254,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7117078,
+          "lng": 10.2203257
+        },
+        "southwest": {
+          "lat": 11.246475,
+          "lng": 9.7770836
+        }
+      },
+      "formatted_address": "Shira, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4442988,9.9912254",
+      "google_place_id": "ChIJg1OGPXtJqhERkIkssBaA94M"
+    }
   },
   {
     "id": "22406",
@@ -269,7 +509,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.5650485,
+      "longitude": 10.0695367,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6094364,
+          "lng": 10.1518394
+        },
+        "southwest": {
+          "lat": 11.4836085,
+          "lng": 10.0162026
+        }
+      },
+      "formatted_address": "Kilbori A, 750104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5650485,10.0695367",
+      "google_place_id": "ChIJU97kNhw4qhERwAWKbQ-b094"
+    }
   },
   {
     "id": "22407",
@@ -285,6 +542,23 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.5650485,
+      "longitude": 10.0695367,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6094364,
+          "lng": 10.1518394
+        },
+        "southwest": {
+          "lat": 11.4836085,
+          "lng": 10.0162026
+        }
+      },
+      "formatted_address": "Kilbori A, 750104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5650485,10.0695367",
+      "google_place_id": "ChIJU97kNhw4qhERwAWKbQ-b094"
+    }
   }
 ]

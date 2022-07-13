@@ -13,7 +13,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21299",
@@ -29,7 +30,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6439732,
+      "longitude": 10.2288899,
+      "viewport": {
+        "northeast": {
+          "lat": 11.64530792989272,
+          "lng": 10.23008577989272
+        },
+        "southwest": {
+          "lat": 11.64260827010728,
+          "lng": 10.22738612010728
+        }
+      },
+      "formatted_address": "Ward Madara District, 751101, Katanga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6439732,10.2288899",
+      "google_place_id": "ChIJG3I92889qhERDXKBxV0vd68"
+    }
   },
   {
     "id": "21300",
@@ -45,7 +63,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3380442,
+      "longitude": 9.8503583,
+      "viewport": {
+        "northeast": {
+          "lat": 10.33919122989272,
+          "lng": 9.851768179892723
+        },
+        "southwest": {
+          "lat": 10.33649157010728,
+          "lng": 9.849068520107279
+        }
+      },
+      "formatted_address": "8VQ2+649, Dangikko Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3380442,9.8503583",
+      "google_place_id": "ChIJP9lj5PrWVBARNj_dWzDDIbQ"
+    }
   },
   {
     "id": "21301",
@@ -61,7 +96,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7775345,
+      "longitude": 10.4494906,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7842651,
+          "lng": 10.456046
+        },
+        "southwest": {
+          "lat": 11.770758,
+          "lng": 10.4407689
+        }
+      },
+      "formatted_address": "751102, Madara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7775345,10.4494906",
+      "google_place_id": "ChIJh7sn8K8EqhERXabeZtFuDac"
+    }
   },
   {
     "id": "21302",
@@ -77,7 +129,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7775345,
+      "longitude": 10.4494906,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7842651,
+          "lng": 10.456046
+        },
+        "southwest": {
+          "lat": 11.770758,
+          "lng": 10.4407689
+        }
+      },
+      "formatted_address": "751102, Madara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7775345,10.4494906",
+      "google_place_id": "ChIJh7sn8K8EqhERXabeZtFuDac"
+    }
   },
   {
     "id": "21303",
@@ -93,7 +162,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21304",
@@ -109,7 +195,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6669944,
+      "longitude": 10.1994679,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66865762989272,
+          "lng": 10.20063282989272
+        },
+        "southwest": {
+          "lat": 11.66595797010728,
+          "lng": 10.19793317010728
+        }
+      },
+      "formatted_address": "M58X+QQW, Odoji Azare 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6669944,10.1994679",
+      "google_place_id": "ChIJp6hhtPY8qhERfiEfZThD9yo"
+    }
   },
   {
     "id": "21305",
@@ -125,7 +228,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21306",
@@ -141,7 +245,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21307",
@@ -157,7 +278,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21308",
@@ -173,7 +295,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21309",
@@ -189,7 +328,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3251157,
+      "longitude": 9.8412179,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32647817989272,
+          "lng": 9.842720329892721
+        },
+        "southwest": {
+          "lat": 10.32377852010728,
+          "lng": 9.840020670107277
+        }
+      },
+      "formatted_address": "8RGR+2FW, Bakin Kura Street, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3251157,9.8412179",
+      "google_place_id": "ChIJl4tHMhrXVBAR9yvGAtP_0NI"
+    }
   },
   {
     "id": "21310",
@@ -205,7 +361,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21311",
@@ -221,7 +394,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21312",
@@ -237,7 +427,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21313",
@@ -253,7 +444,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7775345,
+      "longitude": 10.4494906,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7842651,
+          "lng": 10.456046
+        },
+        "southwest": {
+          "lat": 11.770758,
+          "lng": 10.4407689
+        }
+      },
+      "formatted_address": "751102, Madara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7775345,10.4494906",
+      "google_place_id": "ChIJh7sn8K8EqhERXabeZtFuDac"
+    }
   },
   {
     "id": "21314",
@@ -269,7 +477,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21315",
@@ -285,6 +494,23 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7775345,
+      "longitude": 10.4494906,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7842651,
+          "lng": 10.456046
+        },
+        "southwest": {
+          "lat": 11.770758,
+          "lng": 10.4407689
+        }
+      },
+      "formatted_address": "751102, Madara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7775345,10.4494906",
+      "google_place_id": "ChIJh7sn8K8EqhERXabeZtFuDac"
+    }
   }
 ]

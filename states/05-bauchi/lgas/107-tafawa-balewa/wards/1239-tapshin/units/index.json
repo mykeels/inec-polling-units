@@ -13,7 +13,8 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22576",
@@ -29,7 +30,8 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22577",
@@ -45,7 +47,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.7138714,
+      "longitude": 9.499298,
+      "viewport": {
+        "northeast": {
+          "lat": 9.715574029892723,
+          "lng": 9.501028029892723
+        },
+        "southwest": {
+          "lat": 9.71287437010728,
+          "lng": 9.498328370107279
+        }
+      },
+      "formatted_address": "PF7X+GPV, 741102, Tafawa Balewa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7138714,9.499298",
+      "google_place_id": "ChIJD-bmtQJhVBARLzQUYNqtoBE"
+    }
   },
   {
     "id": "22578",
@@ -61,7 +80,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.280075,
+      "longitude": 9.79455,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28144382989272,
+          "lng": 9.795900379892721
+        },
+        "southwest": {
+          "lat": 10.27874417010728,
+          "lng": 9.793200720107277
+        }
+      },
+      "formatted_address": "University Hostel Rd, 740102, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.280075,9.79455",
+      "google_place_id": "ChIJGfQX_pHbVBAR0uWcgIreF6s"
+    }
   },
   {
     "id": "22579",
@@ -77,7 +113,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.280075,
+      "longitude": 9.79455,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28144382989272,
+          "lng": 9.795900379892721
+        },
+        "southwest": {
+          "lat": 10.27874417010728,
+          "lng": 9.793200720107277
+        }
+      },
+      "formatted_address": "University Hostel Rd, 740102, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.280075,9.79455",
+      "google_place_id": "ChIJGfQX_pHbVBAR0uWcgIreF6s"
+    }
   },
   {
     "id": "22580",
@@ -93,7 +146,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "22581",
@@ -109,7 +179,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "22582",
@@ -125,7 +212,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.309755,
+      "longitude": 9.8551238,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31114367989272,
+          "lng": 9.856471079892724
+        },
+        "southwest": {
+          "lat": 10.30844402010728,
+          "lng": 9.853771420107279
+        }
+      },
+      "formatted_address": "8V54+W25, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.309755,9.8551238",
+      "google_place_id": "ChIJ714sdeDXVBAR4AxSO3q3rWQ"
+    }
   },
   {
     "id": "22583",
@@ -141,7 +245,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.474948399999999,
+      "longitude": 9.412268599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.476298229892723,
+          "lng": 9.413618429892722
+        },
+        "southwest": {
+          "lat": 9.47359857010728,
+          "lng": 9.410918770107278
+        }
+      },
+      "formatted_address": "FCF6+XWC, 933102, Tokkos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.474948399999999,9.412268599999999",
+      "google_place_id": "ChIJ_bndSE1sVBARS7xtOYw53sk"
+    }
   },
   {
     "id": "22584",
@@ -157,7 +278,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.474948399999999,
+      "longitude": 9.412268599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.476298229892723,
+          "lng": 9.413618429892722
+        },
+        "southwest": {
+          "lat": 9.47359857010728,
+          "lng": 9.410918770107278
+        }
+      },
+      "formatted_address": "FCF6+XWC, 933102, Tokkos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.474948399999999,9.412268599999999",
+      "google_place_id": "ChIJ_bndSE1sVBARS7xtOYw53sk"
+    }
   },
   {
     "id": "22585",
@@ -173,7 +311,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "22586",
@@ -189,7 +344,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.179334,
+      "longitude": 9.699277,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18070327989272,
+          "lng": 9.700601929892724
+        },
+        "southwest": {
+          "lat": 10.17800362010728,
+          "lng": 9.697902270107278
+        }
+      },
+      "formatted_address": "5MHX+PPJ, Bauchi-Tafawa Balewa Rd, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.179334,9.699277",
+      "google_place_id": "ChIJOWGxvBXDVBARH37DqZW7mmE"
+    }
   },
   {
     "id": "22587",
@@ -205,7 +377,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "22588",
@@ -221,7 +410,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3388863,
+      "longitude": 9.817804299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.34023562989272,
+          "lng": 9.819232229892721
+        },
+        "southwest": {
+          "lat": 10.33753597010728,
+          "lng": 9.816532570107277
+        }
+      },
+      "formatted_address": "8RQ9+H43, Hospital Road off, Yandoka Rd, 740101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3388863,9.817804299999999",
+      "google_place_id": "ChIJbZcaHNTWVBAR42aCdBn4sho"
+    }
   },
   {
     "id": "22589",
@@ -237,7 +443,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5282193,
+      "longitude": 9.433934299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5972634,
+          "lng": 9.490911100000002
+        },
+        "southwest": {
+          "lat": 9.4981879,
+          "lng": 9.3267639
+        }
+      },
+      "formatted_address": "Tapshin, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5282193,9.433934299999999",
+      "google_place_id": "ChIJC3prU1RuVBARZwwhTStf4Gw"
+    }
   },
   {
     "id": "22590",
@@ -253,7 +476,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.280075,
+      "longitude": 9.79455,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28144382989272,
+          "lng": 9.795900379892721
+        },
+        "southwest": {
+          "lat": 10.27874417010728,
+          "lng": 9.793200720107277
+        }
+      },
+      "formatted_address": "University Hostel Rd, 740102, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.280075,9.79455",
+      "google_place_id": "ChIJGfQX_pHbVBAR0uWcgIreF6s"
+    }
   },
   {
     "id": "22591",
@@ -269,7 +509,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5282193,
+      "longitude": 9.433934299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5972634,
+          "lng": 9.490911100000002
+        },
+        "southwest": {
+          "lat": 9.4981879,
+          "lng": 9.3267639
+        }
+      },
+      "formatted_address": "Tapshin, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5282193,9.433934299999999",
+      "google_place_id": "ChIJC3prU1RuVBARZwwhTStf4Gw"
+    }
   },
   {
     "id": "22592",
@@ -285,7 +542,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.280075,
+      "longitude": 9.79455,
+      "viewport": {
+        "northeast": {
+          "lat": 10.28144382989272,
+          "lng": 9.795900379892721
+        },
+        "southwest": {
+          "lat": 10.27874417010728,
+          "lng": 9.793200720107277
+        }
+      },
+      "formatted_address": "University Hostel Rd, 740102, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.280075,9.79455",
+      "google_place_id": "ChIJGfQX_pHbVBAR0uWcgIreF6s"
+    }
   },
   {
     "id": "22593",
@@ -301,7 +575,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5282193,
+      "longitude": 9.433934299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5972634,
+          "lng": 9.490911100000002
+        },
+        "southwest": {
+          "lat": 9.4981879,
+          "lng": 9.3267639
+        }
+      },
+      "formatted_address": "Tapshin, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5282193,9.433934299999999",
+      "google_place_id": "ChIJC3prU1RuVBARZwwhTStf4Gw"
+    }
   },
   {
     "id": "22594",
@@ -317,7 +608,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5282193,
+      "longitude": 9.433934299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5972634,
+          "lng": 9.490911100000002
+        },
+        "southwest": {
+          "lat": 9.4981879,
+          "lng": 9.3267639
+        }
+      },
+      "formatted_address": "Tapshin, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5282193,9.433934299999999",
+      "google_place_id": "ChIJC3prU1RuVBARZwwhTStf4Gw"
+    }
   },
   {
     "id": "22595",
@@ -333,7 +641,24 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5282193,
+      "longitude": 9.433934299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5972634,
+          "lng": 9.490911100000002
+        },
+        "southwest": {
+          "lat": 9.4981879,
+          "lng": 9.3267639
+        }
+      },
+      "formatted_address": "Tapshin, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5282193,9.433934299999999",
+      "google_place_id": "ChIJC3prU1RuVBARZwwhTStf4Gw"
+    }
   },
   {
     "id": "22596",
@@ -349,6 +674,23 @@
     "local_government_id": "107",
     "local_government_name": "TAFAWA BALEWA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 9.5282193,
+      "longitude": 9.433934299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5972634,
+          "lng": 9.490911100000002
+        },
+        "southwest": {
+          "lat": 9.4981879,
+          "lng": 9.3267639
+        }
+      },
+      "formatted_address": "Tapshin, 741102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5282193,9.433934299999999",
+      "google_place_id": "ChIJC3prU1RuVBARZwwhTStf4Gw"
+    }
   }
 ]

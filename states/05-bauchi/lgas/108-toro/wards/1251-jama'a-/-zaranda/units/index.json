@@ -13,7 +13,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23007",
@@ -29,7 +30,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23008",
@@ -45,7 +47,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23009",
@@ -61,7 +64,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23010",
@@ -77,7 +81,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23011",
@@ -93,7 +98,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23012",
@@ -109,7 +115,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23013",
@@ -125,7 +132,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23014",
@@ -141,7 +149,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23015",
@@ -157,7 +166,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23016",
@@ -173,7 +183,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23017",
@@ -189,7 +200,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23018",
@@ -205,7 +217,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23019",
@@ -221,7 +234,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23020",
@@ -237,7 +251,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23021",
@@ -253,7 +268,24 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4354223,
+      "longitude": 9.411719699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6295312,
+          "lng": 9.5915707
+        },
+        "southwest": {
+          "lat": 10.2015761,
+          "lng": 9.3099165
+        }
+      },
+      "formatted_address": "Zaranda, 740112, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4354223,9.411719699999999",
+      "google_place_id": "ChIJLxd7iIuzVBARPyTAm_4UrnM"
+    }
   },
   {
     "id": "23022",
@@ -269,7 +301,24 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3131991,
+      "longitude": 9.8254878,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31437592989272,
+          "lng": 9.826858679892723
+        },
+        "southwest": {
+          "lat": 10.31167627010728,
+          "lng": 9.82415902010728
+        }
+      },
+      "formatted_address": "8R7G+75X, Mohammed Bello, Kirfi Road, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3131991,9.8254878",
+      "google_place_id": "ChIJQxXjWTjXVBARjhMWulMBi8g"
+    }
   },
   {
     "id": "23023",
@@ -285,7 +334,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23024",
@@ -301,7 +351,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23025",
@@ -317,7 +368,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23026",
@@ -333,7 +385,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23027",
@@ -349,7 +402,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23028",
@@ -365,7 +419,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23029",
@@ -381,7 +436,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23030",
@@ -397,7 +453,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23031",
@@ -413,7 +470,24 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2234023,
+      "longitude": 9.402002699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22475827989272,
+          "lng": 9.403305279892722
+        },
+        "southwest": {
+          "lat": 10.22205862010728,
+          "lng": 9.400605620107278
+        }
+      },
+      "formatted_address": "740112, Nabordo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2234023,9.402002699999999",
+      "google_place_id": "ChIJq4pHsHG7VBARjOEv7NXavI8"
+    }
   },
   {
     "id": "23032",
@@ -429,7 +503,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23033",
@@ -445,7 +520,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23034",
@@ -461,7 +537,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23035",
@@ -477,7 +554,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23036",
@@ -493,7 +571,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23037",
@@ -509,7 +588,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23038",
@@ -525,7 +605,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23039",
@@ -541,7 +622,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23040",
@@ -557,7 +639,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23041",
@@ -573,7 +656,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23042",
@@ -589,7 +673,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23043",
@@ -605,7 +690,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23044",
@@ -621,7 +707,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23045",
@@ -637,7 +724,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23046",
@@ -653,7 +741,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23047",
@@ -669,7 +758,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23048",
@@ -685,7 +775,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23049",
@@ -701,7 +792,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23050",
@@ -717,7 +809,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23051",
@@ -733,7 +826,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23052",
@@ -749,7 +843,24 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.075569,
+      "longitude": 9.0734889,
+      "viewport": {
+        "northeast": {
+          "lat": 10.07692947989272,
+          "lng": 9.074823179892721
+        },
+        "southwest": {
+          "lat": 10.07422982010728,
+          "lng": 9.072123520107278
+        }
+      },
+      "formatted_address": "Ribina Primary School, 740106, Toro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.075569,9.0734889",
+      "google_place_id": "ChIJZfA_rvdnUxARaR0lMIJTu6A"
+    }
   },
   {
     "id": "23053",
@@ -765,7 +876,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23054",
@@ -781,7 +893,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23055",
@@ -797,7 +910,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23056",
@@ -813,7 +927,8 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23057",
@@ -829,6 +944,7 @@
     "local_government_id": "108",
     "local_government_name": "TORO",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

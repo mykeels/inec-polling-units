@@ -13,7 +13,8 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21090",
@@ -29,7 +30,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3131991,
+      "longitude": 9.8254878,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31437592989272,
+          "lng": 9.826858679892723
+        },
+        "southwest": {
+          "lat": 10.31167627010728,
+          "lng": 9.82415902010728
+        }
+      },
+      "formatted_address": "8R7G+75X, Mohammed Bello, Kirfi Road, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3131991,9.8254878",
+      "google_place_id": "ChIJQxXjWTjXVBARjhMWulMBi8g"
+    }
   },
   {
     "id": "21091",
@@ -45,7 +63,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.1685163,
+      "longitude": 10.2915645,
+      "viewport": {
+        "northeast": {
+          "lat": 12.2407913,
+          "lng": 10.3360748
+        },
+        "southwest": {
+          "lat": 12.0916117,
+          "lng": 10.2358246
+        }
+      },
+      "formatted_address": "Jamaari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1685163,10.2915645",
+      "google_place_id": "ChIJTZ4djmjrqRER2Q_AXNsTzMg"
+    }
   },
   {
     "id": "21092",
@@ -61,7 +96,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6611875,
+      "longitude": 9.9308125,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66250877989272,
+          "lng": 9.93211257989272
+        },
+        "southwest": {
+          "lat": 11.65980912010728,
+          "lng": 9.929412920107277
+        }
+      },
+      "formatted_address": "MW6J+F8G, 751110, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6611875,9.9308125",
+      "google_place_id": "ChIJW2PM9hkzqhERA6hgitvBT6Q"
+    }
   },
   {
     "id": "21093",
@@ -77,7 +129,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6711464,
+      "longitude": 9.923644,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67263172989272,
+          "lng": 9.924942729892722
+        },
+        "southwest": {
+          "lat": 11.66993207010728,
+          "lng": 9.922243070107278
+        }
+      },
+      "formatted_address": "unguwar Abuja, 751106, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6711464,9.923644",
+      "google_place_id": "ChIJSSHZuw4zqhER1fqfFc8qAdg"
+    }
   },
   {
     "id": "21094",
@@ -93,7 +162,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6711464,
+      "longitude": 9.923644,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67263172989272,
+          "lng": 9.924942729892722
+        },
+        "southwest": {
+          "lat": 11.66993207010728,
+          "lng": 9.922243070107278
+        }
+      },
+      "formatted_address": "unguwar Abuja, 751106, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6711464,9.923644",
+      "google_place_id": "ChIJSSHZuw4zqhER1fqfFc8qAdg"
+    }
   },
   {
     "id": "21095",
@@ -109,7 +195,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6738837,
+      "longitude": 10.03669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67523392989272,
+          "lng": 10.03804377989272
+        },
+        "southwest": {
+          "lat": 11.67253427010728,
+          "lng": 10.03534412010728
+        }
+      },
+      "formatted_address": "M2FP+HM5, 751109, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6738837,10.03669",
+      "google_place_id": "ChIJDRHIRVMwqhER8h2i9Sxz8zg"
+    }
   },
   {
     "id": "21096",
@@ -125,7 +228,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6738837,
+      "longitude": 10.03669,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67523392989272,
+          "lng": 10.03804377989272
+        },
+        "southwest": {
+          "lat": 11.67253427010728,
+          "lng": 10.03534412010728
+        }
+      },
+      "formatted_address": "M2FP+HM5, 751109, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6738837,10.03669",
+      "google_place_id": "ChIJDRHIRVMwqhER8h2i9Sxz8zg"
+    }
   },
   {
     "id": "21097",
@@ -141,7 +261,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6738734,
+      "longitude": 10.0374521,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67524182989272,
+          "lng": 10.03876327989272
+        },
+        "southwest": {
+          "lat": 11.67254217010728,
+          "lng": 10.03606362010728
+        }
+      },
+      "formatted_address": "Sharaba Primary School, 751109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6738734,10.0374521",
+      "google_place_id": "ChIJdb_oaVMwqhERnTULUi7g6e8"
+    }
   },
   {
     "id": "21098",
@@ -157,7 +294,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.700539,
+      "longitude": 10.013436,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70186742989272,
+          "lng": 10.01482477989272
+        },
+        "southwest": {
+          "lat": 11.69916777010728,
+          "lng": 10.01212512010727
+        }
+      },
+      "formatted_address": "P227+6CG, 751109, Jaekil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.700539,10.013436",
+      "google_place_id": "ChIJZYnCH-gxqhERialY6_v6JA8"
+    }
   },
   {
     "id": "21099",
@@ -173,7 +327,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.7378158,
+      "longitude": 9.897902799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73916152989272,
+          "lng": 9.89923597989272
+        },
+        "southwest": {
+          "lat": 11.73646187010728,
+          "lng": 9.896536320107277
+        }
+      },
+      "formatted_address": "Marmaji Primary School, Marmanji, L.G.A sate, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7378158,9.897902799999999",
+      "google_place_id": "ChIJf6cfubXSqxER0IRNLWXEJH0"
+    }
   },
   {
     "id": "21100",
@@ -189,7 +360,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6695457,
+      "longitude": 9.9200951,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67088862989272,
+          "lng": 9.921361179892722
+        },
+        "southwest": {
+          "lat": 11.66818897010728,
+          "lng": 9.918661520107278
+        }
+      },
+      "formatted_address": "MW9C+R29, 751106, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6695457,9.9200951",
+      "google_place_id": "ChIJyx1rV_IzqhERNoRbeXcWoyk"
+    }
   },
   {
     "id": "21101",
@@ -205,7 +393,24 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.669685,
+      "longitude": 9.9283477,
+      "viewport": {
+        "northeast": {
+          "lat": 11.6755206,
+          "lng": 9.935073899999999
+        },
+        "southwest": {
+          "lat": 11.6606425,
+          "lng": 9.921941799999999
+        }
+      },
+      "formatted_address": "Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.669685,9.9283477",
+      "google_place_id": "ChIJGf3voRwzqhERAz0G7mDXiOw"
+    }
   },
   {
     "id": "21102",
@@ -221,6 +426,23 @@
     "local_government_id": "101",
     "local_government_name": "JAMA'ARE",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6824023,
+      "longitude": 9.932195799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68354052989272,
+          "lng": 9.93336397989272
+        },
+        "southwest": {
+          "lat": 11.68084087010728,
+          "lng": 9.930664320107276
+        }
+      },
+      "formatted_address": "MWJJ+XV8, Jama'are D, 751106, Jamaare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6824023,9.932195799999999",
+      "google_place_id": "ChIJWUspfO8yqhER2e_jjdAIMws"
+    }
   }
 ]

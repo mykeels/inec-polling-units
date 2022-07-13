@@ -13,7 +13,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6825493,
+      "longitude": 10.1780791,
+      "viewport": {
+        "northeast": {
+          "lat": 11.68392527989272,
+          "lng": 10.17944672989272
+        },
+        "southwest": {
+          "lat": 11.68122562010728,
+          "lng": 10.17674707010728
+        }
+      },
+      "formatted_address": "behind General Hospital, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6825493,10.1780791",
+      "google_place_id": "ChIJFTLvobQ9qhERA9opm2ktcVQ"
+    }
   },
   {
     "id": "21360",
@@ -29,7 +46,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "21361",
@@ -45,7 +79,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21362",
@@ -61,7 +96,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21363",
@@ -77,7 +113,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3152607,
+      "longitude": 9.819904200000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31669007989272,
+          "lng": 9.82123167989272
+        },
+        "southwest": {
+          "lat": 10.31399042010728,
+          "lng": 9.818532020107277
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3152607,9.819904200000002",
+      "google_place_id": "ChIJAf7J9jbXVBARHx4K57FP1P8"
+    }
   },
   {
     "id": "21364",
@@ -93,7 +146,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.4182912,
+      "longitude": 9.8811249,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41970512989272,
+          "lng": 9.882067429892723
+        },
+        "southwest": {
+          "lat": 10.41700547010728,
+          "lng": 9.87936777010728
+        }
+      },
+      "formatted_address": "Gobi dam Ganjuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4182912,9.8811249",
+      "google_place_id": "ChIJJSRKCp_VVBARAMe_1PHTZ2I"
+    }
   },
   {
     "id": "21365",
@@ -109,7 +179,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "21366",
@@ -125,7 +212,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "21367",
@@ -141,7 +245,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6249248,
+      "longitude": 10.202065,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62630212989272,
+          "lng": 10.20343047989272
+        },
+        "southwest": {
+          "lat": 11.62360247010728,
+          "lng": 10.20073082010728
+        }
+      },
+      "formatted_address": "J6F2+XR8, 751101, Bidir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6249248,10.202065",
+      "google_place_id": "ChIJQ4MHKM49qhERaAfh6PTGgV8"
+    }
   },
   {
     "id": "21368",
@@ -157,7 +278,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21369",
@@ -173,7 +311,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 8.754842199999999,
+      "longitude": 11.6522889,
+      "viewport": {
+        "northeast": {
+          "lat": 8.760480099999999,
+          "lng": 11.6602131
+        },
+        "southwest": {
+          "lat": 8.7427019,
+          "lng": 11.642158
+        }
+      },
+      "formatted_address": "661002, Gidan Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.754842199999999,11.6522889",
+      "google_place_id": "ChIJK1QLHi45-RARnU-BgTobpTQ"
+    }
   },
   {
     "id": "21370",
@@ -189,7 +344,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 8.754842199999999,
+      "longitude": 11.6522889,
+      "viewport": {
+        "northeast": {
+          "lat": 8.760480099999999,
+          "lng": 11.6602131
+        },
+        "southwest": {
+          "lat": 8.7427019,
+          "lng": 11.642158
+        }
+      },
+      "formatted_address": "661002, Gidan Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.754842199999999,11.6522889",
+      "google_place_id": "ChIJK1QLHi45-RARnU-BgTobpTQ"
+    }
   },
   {
     "id": "21371",
@@ -205,7 +377,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21372",
@@ -221,7 +394,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21373",
@@ -237,7 +427,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "21374",
@@ -253,7 +460,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6249248,
+      "longitude": 10.202065,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62630212989272,
+          "lng": 10.20343047989272
+        },
+        "southwest": {
+          "lat": 11.62360247010728,
+          "lng": 10.20073082010728
+        }
+      },
+      "formatted_address": "J6F2+XR8, 751101, Bidir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6249248,10.202065",
+      "google_place_id": "ChIJQ4MHKM49qhERaAfh6PTGgV8"
+    }
   },
   {
     "id": "21375",
@@ -269,7 +493,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21376",
@@ -285,7 +510,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21377",
@@ -301,7 +527,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21378",
@@ -317,7 +544,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "21379",
@@ -333,7 +577,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21380",
@@ -349,7 +594,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6917408,
+      "longitude": 10.1825893,
+      "viewport": {
+        "northeast": {
+          "lat": 11.69311672989272,
+          "lng": 10.18393777989272
+        },
+        "southwest": {
+          "lat": 11.69041707010728,
+          "lng": 10.18123812010728
+        }
+      },
+      "formatted_address": "Yana-Azare Rd, 751101, Azare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6917408,10.1825893",
+      "google_place_id": "ChIJb0YqObs8qhER7jz89kR0ET4"
+    }
   },
   {
     "id": "21381",
@@ -365,7 +627,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21382",
@@ -381,7 +644,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21383",
@@ -397,7 +661,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21384",
@@ -413,7 +678,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 12.0121608,
+      "longitude": 8.552874599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0283602,
+          "lng": 8.5649727
+        },
+        "southwest": {
+          "lat": 12.0064036,
+          "lng": 8.5426415
+        }
+      },
+      "formatted_address": "Tudun Wada, 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0121608,8.552874599999999",
+      "google_place_id": "ChIJgwA58UaBrhERIWtk2uhV9vc"
+    }
   },
   {
     "id": "21385",
@@ -429,7 +711,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21386",
@@ -445,7 +728,8 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21387",
@@ -461,7 +745,24 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3059711,
+      "longitude": 9.840288500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30721507989272,
+          "lng": 9.841407179892721
+        },
+        "southwest": {
+          "lat": 10.30451542010728,
+          "lng": 9.838707520107276
+        }
+      },
+      "formatted_address": "2 Palace Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3059711,9.840288500000002",
+      "google_place_id": "ChIJ426iZpjXVBARMcuuzkEs-pE"
+    }
   },
   {
     "id": "21388",
@@ -477,6 +778,23 @@
     "local_government_id": "102",
     "local_government_name": "KATAGUM",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.6242008,
+      "longitude": 10.2016477,
+      "viewport": {
+        "northeast": {
+          "lat": 11.62566702989272,
+          "lng": 10.20302227989272
+        },
+        "southwest": {
+          "lat": 11.62296737010728,
+          "lng": 10.20032262010728
+        }
+      },
+      "formatted_address": "J6F2+MMC, 751101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6242008,10.2016477",
+      "google_place_id": "ChIJccQ2sCU8qhERFpYzPIKb7FI"
+    }
   }
 ]

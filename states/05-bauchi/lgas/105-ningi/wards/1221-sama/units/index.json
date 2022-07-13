@@ -13,7 +13,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22163",
@@ -29,7 +30,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3121757,
+      "longitude": 9.8174704,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31352552989272,
+          "lng": 9.818820229892722
+        },
+        "southwest": {
+          "lat": 10.31082587010728,
+          "lng": 9.816120570107278
+        }
+      },
+      "formatted_address": "Kano Rd, Ningi 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3121757,9.8174704",
+      "google_place_id": "ChIJ68vibvfXVBAR-BZRZNbOk1o"
+    }
   },
   {
     "id": "22164",
@@ -45,7 +63,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3268144,
+      "longitude": 7.8072249,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3321461,
+          "lng": 7.813823899999999
+        },
+        "southwest": {
+          "lat": 11.3257581,
+          "lng": 7.806323999999999
+        }
+      },
+      "formatted_address": "802108, Galadima, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3268144,7.8072249",
+      "google_place_id": "ChIJc5ANGcuArRER3U61pdZqboE"
+    }
   },
   {
     "id": "22165",
@@ -61,7 +96,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22166",
@@ -77,7 +113,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.0170817,
+      "longitude": 8.8994047,
+      "viewport": {
+        "northeast": {
+          "lat": 11.01829387989272,
+          "lng": 8.900887629892722
+        },
+        "southwest": {
+          "lat": 11.01559422010728,
+          "lng": 8.898187970107278
+        }
+      },
+      "formatted_address": "NEAR BURA PRIMARY SCHOOL#, Ningi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0170817,8.8994047",
+      "google_place_id": "ChIJ8VRN2_qTrBER6u86kw8dIXY"
+    }
   },
   {
     "id": "22167",
@@ -93,7 +146,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "22168",
@@ -109,7 +179,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22169",
@@ -125,7 +196,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.975735,
+      "longitude": 9.5725072,
+      "viewport": {
+        "northeast": {
+          "lat": 10.97724772989272,
+          "lng": 9.574262229892721
+        },
+        "southwest": {
+          "lat": 10.97454807010728,
+          "lng": 9.571562570107277
+        }
+      },
+      "formatted_address": "XHGF+72R, Ningi-Zakara, 742101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.975735,9.5725072",
+      "google_place_id": "ChIJpY_YDuYSqxERXt571knMMpY"
+    }
   },
   {
     "id": "22170",
@@ -141,7 +229,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9982269,
+      "longitude": 9.570121799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.99957387989272,
+          "lng": 9.571435029892722
+        },
+        "southwest": {
+          "lat": 10.99687422010728,
+          "lng": 9.568735370107278
+        }
+      },
+      "formatted_address": "XHXC+72X, Ningi-Zakara, 742101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9982269,9.570121799999999",
+      "google_place_id": "ChIJNThinZcSqxERXvFCoVo3SuM"
+    }
   },
   {
     "id": "22171",
@@ -157,7 +262,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.9562591,
+      "longitude": 8.5309068,
+      "viewport": {
+        "northeast": {
+          "lat": 11.9667814,
+          "lng": 8.5379322
+        },
+        "southwest": {
+          "lat": 11.9490424,
+          "lng": 8.5207496
+        }
+      },
+      "formatted_address": "Hausawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9562591,8.5309068",
+      "google_place_id": "ChIJfyf8vsyBrhER8LfNNxO_ANo"
+    }
   },
   {
     "id": "22172",
@@ -173,7 +295,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22173",
@@ -189,7 +312,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22174",
@@ -205,7 +329,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22175",
@@ -221,7 +346,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "22176",
@@ -237,7 +379,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22177",
@@ -253,7 +396,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9982269,
+      "longitude": 9.570121799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.99957387989272,
+          "lng": 9.571435029892722
+        },
+        "southwest": {
+          "lat": 10.99687422010728,
+          "lng": 9.568735370107278
+        }
+      },
+      "formatted_address": "XHXC+72X, Ningi-Zakara, 742101, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9982269,9.570121799999999",
+      "google_place_id": "ChIJNThinZcSqxERXvFCoVo3SuM"
+    }
   },
   {
     "id": "22178",
@@ -269,7 +429,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.0612115,
+      "longitude": 9.571656599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.06246647989272,
+          "lng": 9.57302627989272
+        },
+        "southwest": {
+          "lat": 11.05976682010728,
+          "lng": 9.570326620107275
+        }
+      },
+      "formatted_address": "15 kano road, Ningi LG, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0612115,9.571656599999999",
+      "google_place_id": "ChIJ5XWHt-YMqxERgzjdOkgj2d0"
+    }
   },
   {
     "id": "22179",
@@ -285,7 +462,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3119802,
+      "longitude": 9.8275039,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31320332989272,
+          "lng": 9.828986579892723
+        },
+        "southwest": {
+          "lat": 10.31050367010728,
+          "lng": 9.826286920107279
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3119802,9.8275039",
+      "google_place_id": "ChIJfTvLO5DXVBARqxnlvUW5FSY"
+    }
   },
   {
     "id": "22180",
@@ -301,7 +495,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3121757,
+      "longitude": 9.8174704,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31352552989272,
+          "lng": 9.818820229892722
+        },
+        "southwest": {
+          "lat": 10.31082587010728,
+          "lng": 9.816120570107278
+        }
+      },
+      "formatted_address": "Kano Rd, Ningi 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3121757,9.8174704",
+      "google_place_id": "ChIJ68vibvfXVBAR-BZRZNbOk1o"
+    }
   },
   {
     "id": "22181",
@@ -317,7 +528,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22182",
@@ -333,7 +545,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "22183",
@@ -349,7 +578,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22184",
@@ -365,7 +595,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2784037,
+      "longitude": 9.7968781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.27976082989272,
+          "lng": 9.798227729892721
+        },
+        "southwest": {
+          "lat": 10.27706117010728,
+          "lng": 9.795528070107277
+        }
+      },
+      "formatted_address": "ATBU, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2784037,9.7968781",
+      "google_place_id": "ChIJ73y4wRHaVBARhlgwTNs5kaM"
+    }
   },
   {
     "id": "22185",
@@ -381,7 +628,8 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22186",
@@ -397,7 +645,24 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2937576,
+      "longitude": 9.8466119,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29510652989272,
+          "lng": 9.847960179892722
+        },
+        "southwest": {
+          "lat": 10.29240687010728,
+          "lng": 9.845260520107278
+        }
+      },
+      "formatted_address": "7RVW+GJ5, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2937576,9.8466119",
+      "google_place_id": "ChIJGS28sHzXVBARTCnbD0cOqP8"
+    }
   },
   {
     "id": "22187",
@@ -413,6 +678,23 @@
     "local_government_id": "105",
     "local_government_name": "NINGI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.9011009,
+      "longitude": 9.1058179,
+      "viewport": {
+        "northeast": {
+          "lat": 10.90219232989272,
+          "lng": 9.107382979892721
+        },
+        "southwest": {
+          "lat": 10.89949267010728,
+          "lng": 9.104683320107277
+        }
+      },
+      "formatted_address": "W424+C8M, 801155, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.9011009,9.1058179",
+      "google_place_id": "ChIJ4wsQDNKerBERaNB1624TrVo"
+    }
   }
 ]

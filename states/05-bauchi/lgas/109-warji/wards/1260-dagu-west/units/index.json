@@ -13,7 +13,24 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": -34.0276467,
+      "longitude": 18.3599197,
+      "viewport": {
+        "northeast": {
+          "lat": -34.02631497010727,
+          "lng": 18.36130872989272
+        },
+        "southwest": {
+          "lat": -34.02901462989272,
+          "lng": 18.35860907010728
+        }
+      },
+      "formatted_address": "A Boesak St, Imizamo Yethu, Cape Town, 7806, South Africa",
+      "google_map_url": "https://maps.google.com?q=-34.0276467,18.3599197",
+      "google_place_id": "ChIJAdNBbi5bzB0RzvnYIzhQZzc"
+    }
   },
   {
     "id": "23254",
@@ -29,7 +46,8 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23255",
@@ -45,7 +63,24 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.1727544,
+      "longitude": 9.7494165,
+      "viewport": {
+        "northeast": {
+          "lat": 11.17401952989272,
+          "lng": 9.750933479892723
+        },
+        "southwest": {
+          "lat": 11.17131987010728,
+          "lng": 9.748233820107279
+        }
+      },
+      "formatted_address": "5PFX+4Q3, 742103, Warji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1727544,9.7494165",
+      "google_place_id": "ChIJm1aijo0HqxERWbdjcHranng"
+    }
   },
   {
     "id": "23256",
@@ -61,7 +96,8 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23257",
@@ -77,7 +113,8 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23258",
@@ -93,7 +130,8 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23259",
@@ -109,7 +147,8 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "23260",
@@ -125,6 +164,7 @@
     "local_government_id": "109",
     "local_government_name": "WARJI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

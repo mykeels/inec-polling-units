@@ -13,7 +13,24 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.677965,
+      "longitude": 10.2141584,
+      "viewport": {
+        "northeast": {
+          "lat": 10.67949022989272,
+          "lng": 10.21515122989272
+        },
+        "southwest": {
+          "lat": 10.67679057010728,
+          "lng": 10.21245157010728
+        }
+      },
+      "formatted_address": "M6H7+5MM, 742104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.677965,10.2141584",
+      "google_place_id": "ChIJ65Ic7v_GqhERykQKG9yeZds"
+    }
   },
   {
     "id": "21608",
@@ -29,7 +46,24 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3165019,
+      "longitude": 9.8552565,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31792862989272,
+          "lng": 9.856626829892722
+        },
+        "southwest": {
+          "lat": 10.31522897010728,
+          "lng": 9.853927170107278
+        }
+      },
+      "formatted_address": "8V84+J42 Kofar Wambai, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3165019,9.8552565",
+      "google_place_id": "ChIJu-rniAnXVBARR29FtacIxkc"
+    }
   },
   {
     "id": "21609",
@@ -45,7 +79,24 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.2937576,
+      "longitude": 9.8466119,
+      "viewport": {
+        "northeast": {
+          "lat": 10.29510652989272,
+          "lng": 9.847960179892722
+        },
+        "southwest": {
+          "lat": 10.29240687010728,
+          "lng": 9.845260520107278
+        }
+      },
+      "formatted_address": "7RVW+GJ5, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2937576,9.8466119",
+      "google_place_id": "ChIJGS28sHzXVBARTCnbD0cOqP8"
+    }
   },
   {
     "id": "21610",
@@ -61,7 +112,8 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "21611",
@@ -77,7 +129,24 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3119802,
+      "longitude": 9.8275039,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31320332989272,
+          "lng": 9.828986579892723
+        },
+        "southwest": {
+          "lat": 10.31050367010728,
+          "lng": 9.826286920107279
+        }
+      },
+      "formatted_address": "740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3119802,9.8275039",
+      "google_place_id": "ChIJfTvLO5DXVBARqxnlvUW5FSY"
+    }
   },
   {
     "id": "21612",
@@ -93,7 +162,24 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.324181,
+      "longitude": 9.8542312,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32552102989272,
+          "lng": 9.855597529892721
+        },
+        "southwest": {
+          "lat": 10.32282137010728,
+          "lng": 9.852897870107277
+        }
+      },
+      "formatted_address": "Yakubu Wanka St, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.324181,9.8542312",
+      "google_place_id": "ChIJxc_L1nvXVBARe_ZsARk5RmA"
+    }
   },
   {
     "id": "21613",
@@ -109,6 +195,23 @@
     "local_government_id": "103",
     "local_government_name": "KIRFI",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3096986,
+      "longitude": 9.854311,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31108947989272,
+          "lng": 9.85565812989272
+        },
+        "southwest": {
+          "lat": 10.30838982010728,
+          "lng": 9.852958470107277
+        }
+      },
+      "formatted_address": "8V53+VPF, Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3096986,9.854311",
+      "google_place_id": "ChIJn1cnUn7XVBARzZSQiuX5vKg"
+    }
   }
 ]

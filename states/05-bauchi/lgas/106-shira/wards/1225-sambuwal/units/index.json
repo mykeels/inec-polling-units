@@ -13,7 +13,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.5975349,
+      "longitude": 9.9968841,
+      "viewport": {
+        "northeast": {
+          "lat": 11.59887612989272,
+          "lng": 9.99823557989272
+        },
+        "southwest": {
+          "lat": 11.59617647010728,
+          "lng": 9.995535920107276
+        }
+      },
+      "formatted_address": "HXXW+2PQ, 750104, Bodinga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5975349,9.9968841",
+      "google_place_id": "ChIJgRUlM5k2qhEREg2U4hb9HSI"
+    }
   },
   {
     "id": "22277",
@@ -29,7 +46,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3165019,
+      "longitude": 9.8552565,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31792862989272,
+          "lng": 9.856626829892722
+        },
+        "southwest": {
+          "lat": 10.31522897010728,
+          "lng": 9.853927170107278
+        }
+      },
+      "formatted_address": "8V84+J42 Kofar Wambai, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3165019,9.8552565",
+      "google_place_id": "ChIJu-rniAnXVBARR29FtacIxkc"
+    }
   },
   {
     "id": "22278",
@@ -45,7 +79,8 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22279",
@@ -61,7 +96,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3117262,
+      "longitude": 9.8651175,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31300257989272,
+          "lng": 9.86661032989272
+        },
+        "southwest": {
+          "lat": 10.31030292010728,
+          "lng": 9.863910670107277
+        }
+      },
+      "formatted_address": "Liman Mohmood Road, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3117262,9.8651175",
+      "google_place_id": "ChIJ3QptZKLXVBARc38P6zDcJmw"
+    }
   },
   {
     "id": "22280",
@@ -77,7 +129,8 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22281",
@@ -93,7 +146,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.348926,
+      "longitude": 9.9387957,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35028542989272,
+          "lng": 9.940224879892723
+        },
+        "southwest": {
+          "lat": 11.34758577010728,
+          "lng": 9.937525220107279
+        }
+      },
+      "formatted_address": "8WXQ+HGF, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.348926,9.9387957",
+      "google_place_id": "ChIJc65WW4RSqhERPgwh8BYJPO4"
+    }
   },
   {
     "id": "22282",
@@ -109,7 +179,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4043603,
+      "longitude": 10.0159247,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40574077989272,
+          "lng": 10.01722182989272
+        },
+        "southwest": {
+          "lat": 11.40304112010728,
+          "lng": 10.01452217010728
+        }
+      },
+      "formatted_address": "C238+P9Q, Unnamed Road, Yana 750104, Yana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4043603,10.0159247",
+      "google_place_id": "ChIJCY7U8OtPqhERnqYUaWBEgJA"
+    }
   },
   {
     "id": "22283",
@@ -125,7 +212,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3175874,
+      "longitude": 10.0452441,
+      "viewport": {
+        "northeast": {
+          "lat": 11.31893987989272,
+          "lng": 10.04659852989272
+        },
+        "southwest": {
+          "lat": 11.31624022010728,
+          "lng": 10.04389887010728
+        }
+      },
+      "formatted_address": "829W+23X, 750104, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3175874,10.0452441",
+      "google_place_id": "ChIJ3yibR1BQqhERWxVU2k2uk2o"
+    }
   },
   {
     "id": "22284",
@@ -141,7 +245,8 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22285",
@@ -157,7 +262,8 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "22286",
@@ -173,7 +279,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4614352,
+      "longitude": 10.0456894,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46278642989272,
+          "lng": 10.04704762989272
+        },
+        "southwest": {
+          "lat": 11.46008677010728,
+          "lng": 10.04434797010728
+        }
+      },
+      "formatted_address": "Local Education Authority, Shira, Yana Road, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4614352,10.0456894",
+      "google_place_id": "ChIJM-z1fs5JqhERn5hOQRUyKP4"
+    }
   },
   {
     "id": "22287",
@@ -189,7 +312,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 10.3165019,
+      "longitude": 9.8552565,
+      "viewport": {
+        "northeast": {
+          "lat": 10.31792862989272,
+          "lng": 9.856626829892722
+        },
+        "southwest": {
+          "lat": 10.31522897010728,
+          "lng": 9.853927170107278
+        }
+      },
+      "formatted_address": "8V84+J42 Kofar Wambai, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3165019,9.8552565",
+      "google_place_id": "ChIJu-rniAnXVBARR29FtacIxkc"
+    }
   },
   {
     "id": "22288",
@@ -205,7 +345,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.3,
+      "longitude": 9.95,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30139962989272,
+          "lng": 9.951419479892722
+        },
+        "southwest": {
+          "lat": 11.29869997010728,
+          "lng": 9.948719820107279
+        }
+      },
+      "formatted_address": "7WXX+XXX, 750104, Jigawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3,9.95",
+      "google_place_id": "ChIJFdOsgqhTqhERRqjfvaubEHE"
+    }
   },
   {
     "id": "22289",
@@ -221,7 +378,24 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.4043603,
+      "longitude": 10.0159247,
+      "viewport": {
+        "northeast": {
+          "lat": 11.40574077989272,
+          "lng": 10.01722182989272
+        },
+        "southwest": {
+          "lat": 11.40304112010728,
+          "lng": 10.01452217010728
+        }
+      },
+      "formatted_address": "C238+P9Q, Unnamed Road, Yana 750104, Yana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4043603,10.0159247",
+      "google_place_id": "ChIJCY7U8OtPqhERnqYUaWBEgJA"
+    }
   },
   {
     "id": "22290",
@@ -237,6 +411,7 @@
     "local_government_id": "106",
     "local_government_name": "SHIRA",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20859",
@@ -29,7 +46,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8557083,
+      "longitude": 9.967253,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85704682989272,
+          "lng": 9.96852127989272
+        },
+        "southwest": {
+          "lat": 11.85434717010728,
+          "lng": 9.965821620107276
+        }
+      },
+      "formatted_address": "VX48+7WJ, Itas-Dumumu Rd, 751105, Itas, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8557083,9.967253",
+      "google_place_id": "ChIJvZB3w0MrqhER0lu5ByE0jWY"
+    }
   },
   {
     "id": "20860",
@@ -45,7 +79,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8817996,
+      "longitude": 9.8598574,
+      "viewport": {
+        "northeast": {
+          "lat": 11.88310592989272,
+          "lng": 9.861211079892723
+        },
+        "southwest": {
+          "lat": 11.88040627010728,
+          "lng": 9.858511420107279
+        }
+      },
+      "formatted_address": "VVJ5+PWH, 751105, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8817996,9.8598574",
+      "google_place_id": "ChIJgw-af3bVqxERM7S2h_NYSpk"
+    }
   },
   {
     "id": "20861",
@@ -61,7 +112,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20862",
@@ -77,7 +145,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20863",
@@ -93,7 +178,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20864",
@@ -109,7 +211,8 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": null
   },
   {
     "id": "20865",
@@ -125,7 +228,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20866",
@@ -141,7 +261,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8557083,
+      "longitude": 9.967253,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85704682989272,
+          "lng": 9.96852127989272
+        },
+        "southwest": {
+          "lat": 11.85434717010728,
+          "lng": 9.965821620107276
+        }
+      },
+      "formatted_address": "VX48+7WJ, Itas-Dumumu Rd, 751105, Itas, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8557083,9.967253",
+      "google_place_id": "ChIJvZB3w0MrqhER0lu5ByE0jWY"
+    }
   },
   {
     "id": "20867",
@@ -157,7 +294,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20868",
@@ -173,7 +327,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20869",
@@ -189,7 +360,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20870",
@@ -205,7 +393,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20871",
@@ -221,7 +426,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20872",
@@ -237,7 +459,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20873",
@@ -253,7 +492,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20874",
@@ -269,7 +525,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20875",
@@ -285,7 +558,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20876",
@@ -301,7 +591,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.458729,
+      "longitude": 10.4866236,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45998862989272,
+          "lng": 10.48760497989272
+        },
+        "southwest": {
+          "lat": 11.45728897010728,
+          "lng": 10.48490532010728
+        }
+      },
+      "formatted_address": "FF5P+FMW, 750102, Hardawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.458729,10.4866236",
+      "google_place_id": "ChIJi9cL7rJzqhERIGUSTxEUWUM"
+    }
   },
   {
     "id": "20877",
@@ -317,7 +624,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   },
   {
     "id": "20878",
@@ -333,7 +657,24 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.833586,
+      "longitude": 10.1684022,
+      "viewport": {
+        "northeast": {
+          "lat": 11.83493337989272,
+          "lng": 10.16974502989272
+        },
+        "southwest": {
+          "lat": 11.83223372010728,
+          "lng": 10.16704537010728
+        }
+      },
+      "formatted_address": "R5M9+C9J, 751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.833586,10.1684022",
+      "google_place_id": "ChIJE6P5gL4nqhERpCraF7TO1Dw"
+    }
   },
   {
     "id": "20879",
@@ -349,6 +690,23 @@
     "local_government_id": "100",
     "local_government_name": "ITAS/GADAU",
     "state_id": "5",
-    "state_name": "BAUCHI"
+    "state_name": "BAUCHI",
+    "location": {
+      "latitude": 11.8277948,
+      "longitude": 10.1637877,
+      "viewport": {
+        "northeast": {
+          "lat": 11.82904532989272,
+          "lng": 10.16509072989272
+        },
+        "southwest": {
+          "lat": 11.82634567010728,
+          "lng": 10.16239107010728
+        }
+      },
+      "formatted_address": "751105, Gadau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8277948,10.1637877",
+      "google_place_id": "ChIJE2_39c4mqhERIz-Dmwhwoco"
+    }
   }
 ]
