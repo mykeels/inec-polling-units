@@ -13,7 +13,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25819",
@@ -29,7 +30,24 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0064851,
+      "longitude": 6.3822271,
+      "viewport": {
+        "northeast": {
+          "lat": 5.007936579892722,
+          "lng": 6.383536479892722
+        },
+        "southwest": {
+          "lat": 5.005236920107278,
+          "lng": 6.380836820107278
+        }
+      },
+      "formatted_address": "NDDC Road, Akenfa1, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0064851,6.3822271",
+      "google_place_id": "ChIJf4d9BJEFahAR_e_-jWiEVHQ"
+    }
   },
   {
     "id": "25820",
@@ -45,7 +63,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25821",
@@ -61,7 +80,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25822",
@@ -77,7 +97,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25823",
@@ -93,7 +114,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25824",
@@ -109,7 +131,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25825",
@@ -125,7 +148,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25826",
@@ -141,7 +165,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25827",
@@ -157,7 +182,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25828",
@@ -173,7 +199,8 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25829",
@@ -189,6 +216,7 @@
     "local_government_id": "118",
     "local_government_name": "YENAGOA",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   }
 ]

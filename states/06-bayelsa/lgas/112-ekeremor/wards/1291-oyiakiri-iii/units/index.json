@@ -13,7 +13,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.921162100000001,
+      "longitude": 6.274773400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 4.922174829892723,
+          "lng": 6.275647500000001
+        },
+        "southwest": {
+          "lat": 4.919475170107279,
+          "lng": 6.272151099999999
+        }
+      },
+      "formatted_address": "W7CF+FW6, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.921162100000001,6.274773400000001",
+      "google_place_id": "ChIJK4MGSloFahARrV-Kk_Rm6J4"
+    }
   },
   {
     "id": "23834",
@@ -29,7 +46,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9511791,
+      "longitude": 5.8142885,
+      "viewport": {
+        "northeast": {
+          "lat": 4.952528929892722,
+          "lng": 5.815638329892722
+        },
+        "southwest": {
+          "lat": 4.949829270107278,
+          "lng": 5.812938670107278
+        }
+      },
+      "formatted_address": "XR27+FPF, Bilabiri community in ekeremor local Govt area, Azagbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9511791,5.8142885",
+      "google_place_id": "ChIJ_6IkZ29_ahAR6nA17t8Dcxw"
+    }
   },
   {
     "id": "23835",
@@ -45,7 +79,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9511791,
+      "longitude": 5.8142885,
+      "viewport": {
+        "northeast": {
+          "lat": 4.952528929892722,
+          "lng": 5.815638329892722
+        },
+        "southwest": {
+          "lat": 4.949829270107278,
+          "lng": 5.812938670107278
+        }
+      },
+      "formatted_address": "XR27+FPF, Bilabiri community in ekeremor local Govt area, Azagbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9511791,5.8142885",
+      "google_place_id": "ChIJ_6IkZ29_ahAR6nA17t8Dcxw"
+    }
   },
   {
     "id": "23836",
@@ -61,7 +112,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.01322,
+      "longitude": 6.02133,
+      "viewport": {
+        "northeast": {
+          "lat": 5.014569829892721,
+          "lng": 6.022679829892722
+        },
+        "southwest": {
+          "lat": 5.011870170107278,
+          "lng": 6.019980170107278
+        }
+      },
+      "formatted_address": "MILE 1 GBAREGOLOR COMPOUND, SAGBAMA BAYELSA STATE#, Sagbama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.01322,6.02133",
+      "google_place_id": "ChIJwRFeSeF1ahAR_am8w4jW9Ms"
+    }
   },
   {
     "id": "23837",
@@ -77,7 +145,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
   },
   {
     "id": "23838",
@@ -93,7 +178,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9864579,
+      "longitude": 6.3100149,
+      "viewport": {
+        "northeast": {
+          "lat": 4.987777279892722,
+          "lng": 6.311356979892722
+        },
+        "southwest": {
+          "lat": 4.985077620107278,
+          "lng": 6.308657320107278
+        }
+      },
+      "formatted_address": "Osiri Plaza, Tombia, Road, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9864579,6.3100149",
+      "google_place_id": "ChIJF6stIbcHahARLrvTx7wNhU8"
+    }
   },
   {
     "id": "23839",
@@ -109,7 +211,8 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "23840",
@@ -125,7 +228,24 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
   },
   {
     "id": "23841",
@@ -141,6 +261,23 @@
     "local_government_id": "112",
     "local_government_name": "EKEREMOR",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 5.0567741,
+      "longitude": 5.7852,
+      "viewport": {
+        "northeast": {
+          "lat": 5.058630479892722,
+          "lng": 5.786141779892723
+        },
+        "southwest": {
+          "lat": 5.055930820107278,
+          "lng": 5.783442120107279
+        }
+      },
+      "formatted_address": "3Q4P+P34, 561102, Obirigbene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.0567741,5.7852",
+      "google_place_id": "ChIJzzBGCL3VQRAR9YLo1JyyqU4"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.913255899999999,
+      "longitude": 6.2703586,
+      "viewport": {
+        "northeast": {
+          "lat": 4.914616079892722,
+          "lng": 6.271663579892722
+        },
+        "southwest": {
+          "lat": 4.911916420107278,
+          "lng": 6.268963920107279
+        }
+      },
+      "formatted_address": "W77C+75R, 569101, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.913255899999999,6.2703586",
+      "google_place_id": "ChIJN8eRdq8FahARKew5NsV1oX0"
+    }
   },
   {
     "id": "23653",
@@ -29,7 +46,8 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "23654",
@@ -45,7 +63,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 40.5077794,
+      "longitude": -75.0690655,
+      "viewport": {
+        "northeast": {
+          "lat": 40.50924287989272,
+          "lng": -75.06724617010727
+        },
+        "southwest": {
+          "lat": 40.50654322010728,
+          "lng": -75.06994582989272
+        }
+      },
+      "formatted_address": "963 River Rd, Upper Black Eddy, PA 18972, United States",
+      "google_map_url": "https://maps.google.com?q=40.5077794,-75.0690655",
+      "google_place_id": "ChIJhRVEutcOxIkRk_qW6_8Qi50"
+    }
   },
   {
     "id": "23655",
@@ -61,7 +96,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.308078099999999,
+      "longitude": 6.243081399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.309163129892722,
+          "lng": 6.244202179892722
+        },
+        "southwest": {
+          "lat": 4.306463470107278,
+          "lng": 6.241502520107278
+        }
+      },
+      "formatted_address": "865V+75C, 562101, Brass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.308078099999999,6.243081399999999",
+      "google_place_id": "ChIJJyV2fQvSaxARxUmVhlSRPO8"
+    }
   },
   {
     "id": "23656",
@@ -77,7 +129,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 43.4655488,
+      "longitude": -80.5336007,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46698537989271,
+          "lng": -80.53201777010729
+        },
+        "southwest": {
+          "lat": 43.46428572010727,
+          "lng": -80.53471742989274
+        }
+      },
+      "formatted_address": "100 Father David Bauer Dr, Waterloo, ON N2L 2Y4, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4655488,-80.5336007",
+      "google_place_id": "ChIJH4BzrwX0K4gR2w0LqfwQcwI"
+    }
   },
   {
     "id": "23657",
@@ -93,7 +162,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.308078099999999,
+      "longitude": 6.243081399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.309163129892722,
+          "lng": 6.244202179892722
+        },
+        "southwest": {
+          "lat": 4.306463470107278,
+          "lng": 6.241502520107278
+        }
+      },
+      "formatted_address": "865V+75C, 562101, Brass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.308078099999999,6.243081399999999",
+      "google_place_id": "ChIJJyV2fQvSaxARxUmVhlSRPO8"
+    }
   },
   {
     "id": "23658",
@@ -109,7 +195,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 43.7360678,
+      "longitude": -80.5020823,
+      "viewport": {
+        "northeast": {
+          "lat": 43.73733082989271,
+          "lng": -80.50121897010727
+        },
+        "southwest": {
+          "lat": 43.73463117010727,
+          "lng": -80.50391862989272
+        }
+      },
+      "formatted_address": "51 Simpson St E, Alma, ON N0B 1A0, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7360678,-80.5020823",
+      "google_place_id": "ChIJSUzJVKrBK4gR9XHRpfdXsoQ"
+    }
   },
   {
     "id": "23659",
@@ -125,7 +228,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9067925,
+      "longitude": 6.2863023,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908068979892722,
+          "lng": 6.287650829892721
+        },
+        "southwest": {
+          "lat": 4.905369320107278,
+          "lng": 6.284951170107277
+        }
+      },
+      "formatted_address": "along Oxbow-lake, Alamieyesegha Rd, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9067925,6.2863023",
+      "google_place_id": "ChIJL2n5BxQFahARN2rcQPzGobQ"
+    }
   },
   {
     "id": "23660",
@@ -141,7 +261,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.3051084,
+      "longitude": 6.2449974,
+      "viewport": {
+        "northeast": {
+          "lat": 4.306443629892721,
+          "lng": 6.246463679892721
+        },
+        "southwest": {
+          "lat": 4.303743970107277,
+          "lng": 6.243764020107277
+        }
+      },
+      "formatted_address": "864W+22R, 562101, Brass, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.3051084,6.2449974",
+      "google_place_id": "ChIJlfHhMw_SaxARb71RlgpUt5M"
+    }
   },
   {
     "id": "23661",
@@ -157,7 +294,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.3021601,
+      "longitude": 6.2937874,
+      "viewport": {
+        "northeast": {
+          "lat": 4.303750879892721,
+          "lng": 6.295244279892722
+        },
+        "southwest": {
+          "lat": 4.301051220107277,
+          "lng": 6.292544620107278
+        }
+      },
+      "formatted_address": "Kaiko Polo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.3021601,6.2937874",
+      "google_place_id": "ChIJkyvo-MTTaxARr-baviqC81k"
+    }
   },
   {
     "id": "23662",
@@ -173,7 +327,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": -27.9367758,
+      "longitude": 153.403418,
+      "viewport": {
+        "northeast": {
+          "lat": -27.93539872010728,
+          "lng": 153.4047672298927
+        },
+        "southwest": {
+          "lat": -27.93809837989272,
+          "lng": 153.4020675701072
+        }
+      },
+      "formatted_address": "57 Billington St, Labrador QLD 4215, Australia",
+      "google_map_url": "https://maps.google.com?q=-27.9367758,153.403418",
+      "google_place_id": "ChIJm9JcC9IPkWsR8XBvBr06grU"
+    }
   },
   {
     "id": "23663",
@@ -189,7 +360,24 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.931258199999999,
+      "longitude": 6.269259799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.932619029892721,
+          "lng": 6.270574379892721
+        },
+        "southwest": {
+          "lat": 4.929919370107277,
+          "lng": 6.267874720107277
+        }
+      },
+      "formatted_address": "8 ARIETALIN ROAD, OVOM, YENEGOA BAYELSA STATE#, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.931258199999999,6.269259799999999",
+      "google_place_id": "ChIJ3SL7gY4FahARYUfBfXPZgCc"
+    }
   },
   {
     "id": "23664",
@@ -205,6 +393,7 @@
     "local_government_id": "111",
     "local_government_name": "BRASS",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   }
 ]

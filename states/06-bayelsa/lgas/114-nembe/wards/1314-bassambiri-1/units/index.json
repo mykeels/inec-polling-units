@@ -13,7 +13,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24238",
@@ -29,7 +30,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24239",
@@ -45,7 +47,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24240",
@@ -61,7 +64,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24241",
@@ -77,7 +81,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24242",
@@ -93,7 +98,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24243",
@@ -109,7 +115,24 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5391821,
+      "longitude": 6.3990764,
+      "viewport": {
+        "northeast": {
+          "lat": 4.540529479892721,
+          "lng": 6.400421679892723
+        },
+        "southwest": {
+          "lat": 4.537829820107278,
+          "lng": 6.397722020107279
+        }
+      },
+      "formatted_address": "G9QX+MMJ, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5391821,6.3990764",
+      "google_place_id": "ChIJVVVVlQAoahARhlcYTOzco6c"
+    }
   },
   {
     "id": "24244",
@@ -125,7 +148,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24245",
@@ -141,7 +165,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24246",
@@ -157,7 +182,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24247",
@@ -173,6 +199,7 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   }
 ]

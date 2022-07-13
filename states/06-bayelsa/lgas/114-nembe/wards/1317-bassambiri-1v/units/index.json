@@ -13,7 +13,24 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5086681,
+      "longitude": 6.381120699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 4.5423398,
+          "lng": 6.4071693
+        },
+        "southwest": {
+          "lat": 4.4792605,
+          "lng": 6.363426
+        }
+      },
+      "formatted_address": "Ogbolomabiri 1, 562102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5086681,6.381120699999999",
+      "google_place_id": "ChIJXc5gjEAoahAR2PrUU4nm3lY"
+    }
   },
   {
     "id": "24271",
@@ -29,7 +46,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24272",
@@ -45,7 +63,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24273",
@@ -61,7 +80,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24274",
@@ -77,7 +97,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24275",
@@ -93,7 +114,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24276",
@@ -109,7 +131,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24277",
@@ -125,7 +148,8 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "24278",
@@ -141,6 +165,23 @@
     "local_government_id": "114",
     "local_government_name": "NEMBE",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.5384135,
+      "longitude": 6.3955235,
+      "viewport": {
+        "northeast": {
+          "lat": 4.539702329892721,
+          "lng": 6.396855529892722
+        },
+        "southwest": {
+          "lat": 4.537002670107277,
+          "lng": 6.394155870107278
+        }
+      },
+      "formatted_address": "G9QW+966, 562102, Nembe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.5384135,6.3955235",
+      "google_place_id": "ChIJm8oUaeMnahAROLXHDqBI0og"
+    }
   }
 ]

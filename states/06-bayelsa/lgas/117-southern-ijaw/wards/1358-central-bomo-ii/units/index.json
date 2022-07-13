@@ -13,7 +13,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25144",
@@ -29,7 +30,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25145",
@@ -45,7 +47,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25146",
@@ -61,7 +64,24 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.7719071,
+      "longitude": 6.0698526,
+      "viewport": {
+        "northeast": {
+          "lat": 4.7763825,
+          "lng": 6.070708529892722
+        },
+        "southwest": {
+          "lat": 4.770415300000001,
+          "lng": 6.068008870107279
+        }
+      },
+      "formatted_address": "560103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.7719071,6.0698526",
+      "google_place_id": "ChIJoyt3VMgVahARm1A-w85q-Cg"
+    }
   },
   {
     "id": "25147",
@@ -77,7 +97,24 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9982057,
+      "longitude": 6.1189053,
+      "viewport": {
+        "northeast": {
+          "lat": 5.000786499999999,
+          "lng": 6.123891
+        },
+        "southwest": {
+          "lat": 4.9962548,
+          "lng": 6.1105871
+        }
+      },
+      "formatted_address": "Ogobiri Community, Bayelsa, Nigeria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9982057,6.1189053",
+      "google_place_id": "ChIJERMBWFAKahARuWxne7gdamE"
+    }
   },
   {
     "id": "25148",
@@ -93,7 +130,24 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": {
+      "latitude": 4.9067925,
+      "longitude": 6.2863023,
+      "viewport": {
+        "northeast": {
+          "lat": 4.908068979892722,
+          "lng": 6.287650829892721
+        },
+        "southwest": {
+          "lat": 4.905369320107278,
+          "lng": 6.284951170107277
+        }
+      },
+      "formatted_address": "along Oxbow-lake, Alamieyesegha Rd, Yenagoa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=4.9067925,6.2863023",
+      "google_place_id": "ChIJL2n5BxQFahARN2rcQPzGobQ"
+    }
   },
   {
     "id": "25149",
@@ -109,7 +163,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25150",
@@ -125,7 +180,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25151",
@@ -141,7 +197,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25152",
@@ -157,7 +214,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25153",
@@ -173,7 +231,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25154",
@@ -189,7 +248,8 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   },
   {
     "id": "25155",
@@ -205,6 +265,7 @@
     "local_government_id": "117",
     "local_government_name": "SOUTHERN IJAW",
     "state_id": "6",
-    "state_name": "BAYELSA"
+    "state_name": "BAYELSA",
+    "location": null
   }
 ]
