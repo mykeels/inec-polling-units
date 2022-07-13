@@ -13,7 +13,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.415948999999999,
+      "longitude": 5.7178903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.417211629892722,
+          "lng": 5.719152129892723
+        },
+        "southwest": {
+          "lat": 6.414511970107278,
+          "lng": 5.716452470107279
+        }
+      },
+      "formatted_address": "CP89+95C, 301112, Ahor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.415948999999999,5.7178903",
+      "google_place_id": "ChIJ56tqX4gqRxARN_qzvXBvNsY"
+    }
   },
   {
     "id": "52501",
@@ -29,7 +46,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4322124,
+      "longitude": 5.7385183,
+      "viewport": {
+        "northeast": {
+          "lat": 6.433711129892721,
+          "lng": 5.739856829892721
+        },
+        "southwest": {
+          "lat": 6.431011470107277,
+          "lng": 5.737157170107277
+        }
+      },
+      "formatted_address": "Road, 301112, Ekose, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4322124,5.7385183",
+      "google_place_id": "ChIJrx4z6NzVRhAR28h-KQO2AsQ"
+    }
   },
   {
     "id": "52502",
@@ -45,7 +79,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3373943,
+      "longitude": 5.605608999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.338794279892721,
+          "lng": 5.606726479892722
+        },
+        "southwest": {
+          "lat": 6.336094620107277,
+          "lng": 5.604026820107278
+        }
+      },
+      "formatted_address": "8JP4+X65, Owina St, Ogogugbo 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3373943,5.605608999999999",
+      "google_place_id": "ChIJf5qlTQDTQBARIG5rVClN1fo"
+    }
   },
   {
     "id": "52503",
@@ -61,7 +112,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.491535300000001,
+      "longitude": 5.7496899,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492740379892722,
+          "lng": 5.751027679892722
+        },
+        "southwest": {
+          "lat": 6.490040720107278,
+          "lng": 5.748328020107278
+        }
+      },
+      "formatted_address": "FPRX+JRQ, 301112, Igozula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.491535300000001,5.7496899",
+      "google_place_id": "ChIJqSupPTjWRhAR2Vj3knMqW9o"
+    }
   },
   {
     "id": "52504",
@@ -77,7 +145,8 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "52505",
@@ -93,7 +162,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.496123499999999,
+      "longitude": 5.7498837,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497468479892722,
+          "lng": 5.751246929892721
+        },
+        "southwest": {
+          "lat": 6.494768820107279,
+          "lng": 5.748547270107277
+        }
+      },
+      "formatted_address": "FPWX+CXR, 301112, Igozula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.496123499999999,5.7498837",
+      "google_place_id": "ChIJdTYmPzbWRhARHje5MPIacy4"
+    }
   },
   {
     "id": "52506",
@@ -109,7 +195,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3736786,
+      "longitude": 5.691309899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.375136679892722,
+          "lng": 5.692597029892721
+        },
+        "southwest": {
+          "lat": 6.372437020107278,
+          "lng": 5.689897370107277
+        }
+      },
+      "formatted_address": "9MFR+FGF, Benin Auchi Rd, Uselu 301112, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3736786,5.691309899999999",
+      "google_place_id": "ChIJS0SjfyvVQBAR4OrWaW8W5co"
+    }
   },
   {
     "id": "52507",
@@ -125,7 +228,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.496123499999999,
+      "longitude": 5.7498837,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497468479892722,
+          "lng": 5.751246929892721
+        },
+        "southwest": {
+          "lat": 6.494768820107279,
+          "lng": 5.748547270107277
+        }
+      },
+      "formatted_address": "FPWX+CXR, 301112, Igozula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.496123499999999,5.7498837",
+      "google_place_id": "ChIJdTYmPzbWRhARHje5MPIacy4"
+    }
   },
   {
     "id": "52508",
@@ -141,7 +261,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.6341831,
+      "longitude": 5.9304056,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635532929892721,
+          "lng": 5.931755429892721
+        },
+        "southwest": {
+          "lat": 6.632833270107278,
+          "lng": 5.929055770107277
+        }
+      },
+      "formatted_address": "1, Idunmwungha Community, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6341831,5.9304056",
+      "google_place_id": "ChIJg-22WaHDRhARxxBQgQSdnWs"
+    }
   },
   {
     "id": "52509",
@@ -157,7 +294,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.6341831,
+      "longitude": 5.9304056,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635532929892721,
+          "lng": 5.931755429892721
+        },
+        "southwest": {
+          "lat": 6.632833270107278,
+          "lng": 5.929055770107277
+        }
+      },
+      "formatted_address": "1, Ayen Community, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6341831,5.9304056",
+      "google_place_id": "ChIJHwldHnzDRhAROgIQvs86OII"
+    }
   },
   {
     "id": "52510",
@@ -173,7 +327,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3038373,
+      "longitude": 5.6268486,
+      "viewport": {
+        "northeast": {
+          "lat": 6.305215829892721,
+          "lng": 5.628323329892721
+        },
+        "southwest": {
+          "lat": 6.302516170107277,
+          "lng": 5.625623670107277
+        }
+      },
+      "formatted_address": "8J3G+GPQ, Oka 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3038373,5.6268486",
+      "google_place_id": "ChIJFdH-IWvTQBARnQPD0W16dPo"
+    }
   },
   {
     "id": "52511",
@@ -189,7 +360,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3704987,
+      "longitude": 5.6173458,
+      "viewport": {
+        "northeast": {
+          "lat": 6.371849079892721,
+          "lng": 5.618696929892722
+        },
+        "southwest": {
+          "lat": 6.369149420107277,
+          "lng": 5.615997270107278
+        }
+      },
+      "formatted_address": "143 Uselu/Lagos Road, Use 300103, Benin, Edo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3704987,5.6173458",
+      "google_place_id": "ChIJoZ7rCTHTQBARHTQtJnHqmas"
+    }
   },
   {
     "id": "52512",
@@ -205,7 +393,8 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "52513",
@@ -221,7 +410,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3377608,
+      "longitude": 5.6020585,
+      "viewport": {
+        "northeast": {
+          "lat": 6.339118229892721,
+          "lng": 5.603391679892721
+        },
+        "southwest": {
+          "lat": 6.336418570107277,
+          "lng": 5.600692020107277
+        }
+      },
+      "formatted_address": "8JQ2+4Q9, Unnamed Road, Ogogugbo 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3377608,5.6020585",
+      "google_place_id": "ChIJLdie_QHTQBARY-5XiYWTZu8"
+    }
   },
   {
     "id": "52514",
@@ -237,7 +443,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.491535300000001,
+      "longitude": 5.7496899,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492740379892722,
+          "lng": 5.751027679892722
+        },
+        "southwest": {
+          "lat": 6.490040720107278,
+          "lng": 5.748328020107278
+        }
+      },
+      "formatted_address": "FPRX+JRQ, 301112, Igozula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.491535300000001,5.7496899",
+      "google_place_id": "ChIJqSupPTjWRhAR2Vj3knMqW9o"
+    }
   },
   {
     "id": "52515",
@@ -253,7 +476,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3365003,
+      "longitude": 5.620767,
+      "viewport": {
+        "northeast": {
+          "lat": 6.337856179892721,
+          "lng": 5.622180379892722
+        },
+        "southwest": {
+          "lat": 6.335156520107277,
+          "lng": 5.619480720107278
+        }
+      },
+      "formatted_address": "6 1st ibiwe opp osaro motor park Benin city Edo state Shob12b, 300271, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3365003,5.620767",
+      "google_place_id": "ChIJK4SOk7XTQBARHTqbf6lIobE"
+    }
   },
   {
     "id": "52516",
@@ -269,7 +509,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4090948,
+      "longitude": 5.6711459,
+      "viewport": {
+        "northeast": {
+          "lat": 6.410529479892721,
+          "lng": 5.672447529892722
+        },
+        "southwest": {
+          "lat": 6.407829820107278,
+          "lng": 5.669747870107278
+        }
+      },
+      "formatted_address": "CM5C+JCP, 301112, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4090948,5.6711459",
+      "google_place_id": "ChIJT7Eb8g0rRxARpowU1MY-aWY"
+    }
   },
   {
     "id": "52517",
@@ -285,7 +542,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3298649,
+      "longitude": 5.633975,
+      "viewport": {
+        "northeast": {
+          "lat": 6.33123827989272,
+          "lng": 5.635351179892721
+        },
+        "southwest": {
+          "lat": 6.328538620107277,
+          "lng": 5.632651520107277
+        }
+      },
+      "formatted_address": "8JHM+WHX, Avbiama 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3298649,5.633975",
+      "google_place_id": "ChIJX0F6YpvTQBARgEF6HwMDzU8"
+    }
   },
   {
     "id": "52518",
@@ -301,7 +575,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3704987,
+      "longitude": 5.6173458,
+      "viewport": {
+        "northeast": {
+          "lat": 6.371849079892721,
+          "lng": 5.618696929892722
+        },
+        "southwest": {
+          "lat": 6.369149420107277,
+          "lng": 5.615997270107278
+        }
+      },
+      "formatted_address": "143 Uselu/Lagos Road, Use 300103, Benin, Edo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3704987,5.6173458",
+      "google_place_id": "ChIJoZ7rCTHTQBARHTQtJnHqmas"
+    }
   },
   {
     "id": "52519",
@@ -317,7 +608,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3349826,
+      "longitude": 5.6037943,
+      "viewport": {
+        "northeast": {
+          "lat": 6.336226079892722,
+          "lng": 5.605121329892722
+        },
+        "southwest": {
+          "lat": 6.333526420107278,
+          "lng": 5.602421670107278
+        }
+      },
+      "formatted_address": "8JM3+XGV, Ogogugbo 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3349826,5.6037943",
+      "google_place_id": "ChIJnR1r6vjTQBARpX5S-2BG42k"
+    }
   },
   {
     "id": "52520",
@@ -333,7 +641,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3736786,
+      "longitude": 5.691309899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.375136679892722,
+          "lng": 5.692597029892721
+        },
+        "southwest": {
+          "lat": 6.372437020107278,
+          "lng": 5.689897370107277
+        }
+      },
+      "formatted_address": "9MFR+FGF, Benin Auchi Rd, Uselu 301112, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3736786,5.691309899999999",
+      "google_place_id": "ChIJS0SjfyvVQBAR4OrWaW8W5co"
+    }
   },
   {
     "id": "52521",
@@ -349,7 +674,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3883626,
+      "longitude": 5.712487299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.389695029892723,
+          "lng": 5.713857029892721
+        },
+        "southwest": {
+          "lat": 6.386995370107279,
+          "lng": 5.711157370107277
+        }
+      },
+      "formatted_address": "9PQ6+8XX, A2, Idokpa 301112, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3883626,5.712487299999999",
+      "google_place_id": "ChIJed4M4LYqRxAR8OV1E7ikbiI"
+    }
   },
   {
     "id": "52522",
@@ -365,7 +707,8 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "52523",
@@ -381,7 +724,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.353334599999999,
+      "longitude": 5.6560029,
+      "viewport": {
+        "northeast": {
+          "lat": 6.354713129892722,
+          "lng": 5.657348579892721
+        },
+        "southwest": {
+          "lat": 6.352013470107278,
+          "lng": 5.654648920107277
+        }
+      },
+      "formatted_address": "Ikpoba Hl, Uselu 300104, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.353334599999999,5.6560029",
+      "google_place_id": "ChIJkWg5jBfVQBARZY8pAkYkjMQ"
+    }
   },
   {
     "id": "52524",
@@ -397,7 +757,8 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "52525",
@@ -413,7 +774,8 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "52526",
@@ -429,7 +791,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3974761,
+      "longitude": 5.7456102,
+      "viewport": {
+        "northeast": {
+          "lat": 6.398677179892721,
+          "lng": 5.746749229892721
+        },
+        "southwest": {
+          "lat": 6.395977520107277,
+          "lng": 5.744049570107277
+        }
+      },
+      "formatted_address": "Benin Auchi Rd, 301111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3974761,5.7456102",
+      "google_place_id": "ChIJyWkgQHDVRhAR2qYwkbgU2zM"
+    }
   },
   {
     "id": "52527",
@@ -445,7 +824,8 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "52528",
@@ -461,7 +841,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3704987,
+      "longitude": 5.6173458,
+      "viewport": {
+        "northeast": {
+          "lat": 6.371849079892721,
+          "lng": 5.618696929892722
+        },
+        "southwest": {
+          "lat": 6.369149420107277,
+          "lng": 5.615997270107278
+        }
+      },
+      "formatted_address": "143 Uselu/Lagos Road, Use 300103, Benin, Edo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3704987,5.6173458",
+      "google_place_id": "ChIJoZ7rCTHTQBARHTQtJnHqmas"
+    }
   },
   {
     "id": "52529",
@@ -477,7 +874,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.358446499999999,
+      "longitude": 5.682085499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.359816179892722,
+          "lng": 5.683458729892722
+        },
+        "southwest": {
+          "lat": 6.357116520107278,
+          "lng": 5.680759070107278
+        }
+      },
+      "formatted_address": "9M5J+9RG, College Rd, 300104, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.358446499999999,5.682085499999999",
+      "google_place_id": "ChIJoS8AL9zUQBAR9mOzHkivpPw"
+    }
   },
   {
     "id": "52530",
@@ -493,7 +907,24 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.2774836,
+      "longitude": 5.5856949,
+      "viewport": {
+        "northeast": {
+          "lat": 6.278837429892723,
+          "lng": 5.587025829892721
+        },
+        "southwest": {
+          "lat": 6.276137770107279,
+          "lng": 5.584326170107277
+        }
+      },
+      "formatted_address": "Estate Gate, Irhirhi Road, Off Airport Rd, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2774836,5.5856949",
+      "google_place_id": "ChIJNx5TgpPRQBARVMxZrClGUeg"
+    }
   },
   {
     "id": "52531",
@@ -509,6 +940,7 @@
     "local_government_id": "242",
     "local_government_name": "UHUNMWODE",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   }
 ]

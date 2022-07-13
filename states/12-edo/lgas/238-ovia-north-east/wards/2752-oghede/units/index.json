@@ -13,7 +13,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.281600099999999,
+      "longitude": 5.523118999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.282887379892722,
+          "lng": 5.524502379892723
+        },
+        "southwest": {
+          "lat": 6.280187720107278,
+          "lng": 5.521802720107278
+        }
+      },
+      "formatted_address": "7GJF+J6X, 302121, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.281600099999999,5.523118999999999",
+      "google_place_id": "ChIJmWH812LOQBARw4BUSWHX-Sk"
+    }
   },
   {
     "id": "51822",
@@ -29,7 +46,8 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "51823",
@@ -45,7 +63,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4989228,
+      "longitude": 5.569753,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500721629892722,
+          "lng": 5.571613879892721
+        },
+        "southwest": {
+          "lat": 6.498021970107278,
+          "lng": 5.568914220107278
+        }
+      },
+      "formatted_address": "Benin-Sagamu Expy, 302113, Izakagbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4989228,5.569753",
+      "google_place_id": "ChIJsRj_Yi4uRxARS6IznB0zT5s"
+    }
   },
   {
     "id": "51824",
@@ -61,7 +96,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.282282599999999,
+      "longitude": 5.522346499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.283636079892721,
+          "lng": 5.523702729892722
+        },
+        "southwest": {
+          "lat": 6.280936420107277,
+          "lng": 5.521003070107279
+        }
+      },
+      "formatted_address": "7GJC+WW9, 302121, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.282282599999999,5.522346499999999",
+      "google_place_id": "ChIJmWH812LOQBAR6IqphL3mdSs"
+    }
   },
   {
     "id": "51825",
@@ -77,7 +129,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.6387759,
+      "longitude": 5.6037998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.640111629892721,
+          "lng": 5.604702929892722
+        },
+        "southwest": {
+          "lat": 6.637411970107277,
+          "lng": 5.602003270107278
+        }
+      },
+      "formatted_address": "JJQ3+GG7, 302112, Idunmowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6387759,5.6037998",
+      "google_place_id": "ChIJNyiOCoIjRxARNKlUcZx9I0U"
+    }
   },
   {
     "id": "51826",
@@ -93,7 +162,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4989228,
+      "longitude": 5.569753,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500721629892722,
+          "lng": 5.571613879892721
+        },
+        "southwest": {
+          "lat": 6.498021970107278,
+          "lng": 5.568914220107278
+        }
+      },
+      "formatted_address": "Benin-Sagamu Expy, 302113, Izakagbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4989228,5.569753",
+      "google_place_id": "ChIJsRj_Yi4uRxARS6IznB0zT5s"
+    }
   },
   {
     "id": "51827",
@@ -109,7 +195,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.298179999999999,
+      "longitude": 5.5489728,
+      "viewport": {
+        "northeast": {
+          "lat": 6.299717179892721,
+          "lng": 5.55051777989272
+        },
+        "southwest": {
+          "lat": 6.297017520107278,
+          "lng": 5.547818120107276
+        }
+      },
+      "formatted_address": "7GXX+7HH, 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.298179999999999,5.5489728",
+      "google_place_id": "ChIJHUbKgJ7NQBARM0IjR3QeCpQ"
+    }
   },
   {
     "id": "51828",
@@ -125,7 +228,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4002503,
+      "longitude": 5.608580799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.401618579892721,
+          "lng": 5.610044579892722
+        },
+        "southwest": {
+          "lat": 6.398918920107277,
+          "lng": 5.607344920107278
+        }
+      },
+      "formatted_address": "CJ25+4C5, Ugbowo-Lagos Rd, Uselu 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4002503,5.608580799999999",
+      "google_place_id": "ChIJj-foy-AsRxARIcRydkup-Lw"
+    }
   },
   {
     "id": "51829",
@@ -141,7 +261,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.279808399999999,
+      "longitude": 5.517625799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.281155679892721,
+          "lng": 5.518970179892722
+        },
+        "southwest": {
+          "lat": 6.278456020107277,
+          "lng": 5.516270520107279
+        }
+      },
+      "formatted_address": "7GH9+W3C, 302121, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.279808399999999,5.517625799999999",
+      "google_place_id": "ChIJr5qrr4nOQBARxYKpTfbLOIk"
+    }
   },
   {
     "id": "51830",
@@ -157,7 +294,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3676708,
+      "longitude": 5.593329799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.368989329892722,
+          "lng": 5.594829129892721
+        },
+        "southwest": {
+          "lat": 6.366289670107277,
+          "lng": 5.592129470107277
+        }
+      },
+      "formatted_address": "9H9V+388, Okhokhugbo 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3676708,5.593329799999999",
+      "google_place_id": "ChIJtUYeNDbTQBARof4aZKokqts"
+    }
   },
   {
     "id": "51831",
@@ -173,7 +327,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3676708,
+      "longitude": 5.593329799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.368989329892722,
+          "lng": 5.594829129892721
+        },
+        "southwest": {
+          "lat": 6.366289670107277,
+          "lng": 5.592129470107277
+        }
+      },
+      "formatted_address": "9H9V+388, Okhokhugbo 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3676708,5.593329799999999",
+      "google_place_id": "ChIJtUYeNDbTQBARof4aZKokqts"
+    }
   },
   {
     "id": "51832",
@@ -189,7 +360,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3676708,
+      "longitude": 5.593329799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.368989329892722,
+          "lng": 5.594829129892721
+        },
+        "southwest": {
+          "lat": 6.366289670107277,
+          "lng": 5.592129470107277
+        }
+      },
+      "formatted_address": "9H9V+388, Okhokhugbo 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3676708,5.593329799999999",
+      "google_place_id": "ChIJtUYeNDbTQBARof4aZKokqts"
+    }
   },
   {
     "id": "51833",
@@ -205,7 +393,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4989228,
+      "longitude": 5.569753,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500721629892722,
+          "lng": 5.571613879892721
+        },
+        "southwest": {
+          "lat": 6.498021970107278,
+          "lng": 5.568914220107278
+        }
+      },
+      "formatted_address": "Benin-Sagamu Expy, 302113, Izakagbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4989228,5.569753",
+      "google_place_id": "ChIJsRj_Yi4uRxARS6IznB0zT5s"
+    }
   },
   {
     "id": "51834",
@@ -221,7 +426,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.2473895,
+      "longitude": 6.190904799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.248715529892722,
+          "lng": 6.192251979892722
+        },
+        "southwest": {
+          "lat": 6.246015870107278,
+          "lng": 6.189552320107278
+        }
+      },
+      "formatted_address": "65WR+X9M, Boji Boji 321103, Agbor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2473895,6.190904799999999",
+      "google_place_id": "ChIJfd9rlP5OQRARDqduyoevdU0"
+    }
   },
   {
     "id": "51835",
@@ -237,7 +459,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.2670935,
+      "longitude": 5.6076264,
+      "viewport": {
+        "northeast": {
+          "lat": 6.268419579892721,
+          "lng": 5.609028029892722
+        },
+        "southwest": {
+          "lat": 6.265719920107277,
+          "lng": 5.606328370107278
+        }
+      },
+      "formatted_address": "7J85+R2Q, Oka 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2670935,5.6076264",
+      "google_place_id": "ChIJSQzYwwvRQBARHDMAvJcrlH0"
+    }
   },
   {
     "id": "51836",
@@ -253,7 +492,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.1335701,
+      "longitude": 5.6610171,
+      "viewport": {
+        "northeast": {
+          "lat": 6.134909379892722,
+          "lng": 5.662339829892722
+        },
+        "southwest": {
+          "lat": 6.132209720107278,
+          "lng": 5.659640170107278
+        }
+      },
+      "formatted_address": "Unnamed Road, 300105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1335701,5.6610171",
+      "google_place_id": "ChIJJeeM-VvZQBARNZBuv5dh_TQ"
+    }
   },
   {
     "id": "51837",
@@ -269,7 +525,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.3773319,
+      "longitude": 5.6690299,
+      "viewport": {
+        "northeast": {
+          "lat": 6.378700479892721,
+          "lng": 5.670376629892721
+        },
+        "southwest": {
+          "lat": 6.376000820107278,
+          "lng": 5.667676970107277
+        }
+      },
+      "formatted_address": "No, 69 Upper Mission Extension, Aduwawa St, opposite Mouka Foam, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3773319,5.6690299",
+      "google_place_id": "ChIJOUYoIQYrRxARz0gMlHGuGJU"
+    }
   },
   {
     "id": "51838",
@@ -285,7 +558,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.2966962,
+      "longitude": 5.5484392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.297975829892721,
+          "lng": 5.549847879892721
+        },
+        "southwest": {
+          "lat": 6.295276170107277,
+          "lng": 5.547148220107277
+        }
+      },
+      "formatted_address": "Oghede Secondary School, Ekenwa Rd, 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2966962,5.5484392",
+      "google_place_id": "ChIJM7o4qOPNQBARdneEtBW2Lsk"
+    }
   },
   {
     "id": "51839",
@@ -301,7 +591,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.293927,
+      "longitude": 5.5454279,
+      "viewport": {
+        "northeast": {
+          "lat": 6.295402929892722,
+          "lng": 5.546740279892721
+        },
+        "southwest": {
+          "lat": 6.292703270107278,
+          "lng": 5.544040620107277
+        }
+      },
+      "formatted_address": "7GVW+H5F, 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.293927,5.5454279",
+      "google_place_id": "ChIJ_4aEuH3NQBAR-CnAeH_fX9c"
+    }
   },
   {
     "id": "51840",
@@ -317,7 +624,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4002503,
+      "longitude": 5.608580799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.401618579892721,
+          "lng": 5.610044579892722
+        },
+        "southwest": {
+          "lat": 6.398918920107277,
+          "lng": 5.607344920107278
+        }
+      },
+      "formatted_address": "CJ25+4C5, Ugbowo-Lagos Rd, Uselu 300103, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4002503,5.608580799999999",
+      "google_place_id": "ChIJj-foy-AsRxARIcRydkup-Lw"
+    }
   },
   {
     "id": "51841",
@@ -333,7 +657,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4989228,
+      "longitude": 5.569753,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500721629892722,
+          "lng": 5.571613879892721
+        },
+        "southwest": {
+          "lat": 6.498021970107278,
+          "lng": 5.568914220107278
+        }
+      },
+      "formatted_address": "Benin-Sagamu Expy, 302113, Izakagbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4989228,5.569753",
+      "google_place_id": "ChIJsRj_Yi4uRxARS6IznB0zT5s"
+    }
   },
   {
     "id": "51842",
@@ -349,7 +690,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.279808399999999,
+      "longitude": 5.517625799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.281155679892721,
+          "lng": 5.518970179892722
+        },
+        "southwest": {
+          "lat": 6.278456020107277,
+          "lng": 5.516270520107279
+        }
+      },
+      "formatted_address": "7GH9+W3C, 302121, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.279808399999999,5.517625799999999",
+      "google_place_id": "ChIJr5qrr4nOQBARxYKpTfbLOIk"
+    }
   },
   {
     "id": "51843",
@@ -365,7 +723,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4817228,
+      "longitude": 5.6088853,
+      "viewport": {
+        "northeast": {
+          "lat": 6.483095179892722,
+          "lng": 5.610192029892723
+        },
+        "southwest": {
+          "lat": 6.480395520107278,
+          "lng": 5.607492370107279
+        }
+      },
+      "formatted_address": "FJJ5+MHJ, 302116, Ekiadoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4817228,5.6088853",
+      "google_place_id": "ChIJf-WWJzAvRxARZrBLf-Ay4DA"
+    }
   },
   {
     "id": "51844",
@@ -381,7 +756,24 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4817228,
+      "longitude": 5.6088853,
+      "viewport": {
+        "northeast": {
+          "lat": 6.483095179892722,
+          "lng": 5.610192029892723
+        },
+        "southwest": {
+          "lat": 6.480395520107278,
+          "lng": 5.607492370107279
+        }
+      },
+      "formatted_address": "FJJ5+MHJ, 302116, Ekiadoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4817228,5.6088853",
+      "google_place_id": "ChIJf-WWJzAvRxARZrBLf-Ay4DA"
+    }
   },
   {
     "id": "51845",
@@ -397,6 +789,23 @@
     "local_government_id": "238",
     "local_government_name": "OVIA NORTH EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4989228,
+      "longitude": 5.569753,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500721629892722,
+          "lng": 5.571613879892721
+        },
+        "southwest": {
+          "lat": 6.498021970107278,
+          "lng": 5.568914220107278
+        }
+      },
+      "formatted_address": "Benin-Sagamu Expy, 302113, Izakagbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4989228,5.569753",
+      "google_place_id": "ChIJsRj_Yi4uRxARS6IznB0zT5s"
+    }
   }
 ]
