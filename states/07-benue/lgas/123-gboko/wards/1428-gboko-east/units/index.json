@@ -13,7 +13,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26518",
@@ -29,7 +46,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3367967,
+      "longitude": 9.0023385,
+      "viewport": {
+        "northeast": {
+          "lat": 7.338174329892722,
+          "lng": 9.003673379892723
+        },
+        "southwest": {
+          "lat": 7.335474670107279,
+          "lng": 9.000973720107279
+        }
+      },
+      "formatted_address": "82P2+PW8, Capt, Captain Downes Rd, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3367967,9.0023385",
+      "google_place_id": "ChIJHfyAIi89WhARbp_NR2Dud8U"
+    }
   },
   {
     "id": "26519",
@@ -45,7 +79,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3249966,
+      "longitude": 9.0050022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.326289029892722,
+          "lng": 9.006389379892722
+        },
+        "southwest": {
+          "lat": 7.323589370107278,
+          "lng": 9.003689720107278
+        }
+      },
+      "formatted_address": "25, Tse-Alom Way, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3249966,9.0050022",
+      "google_place_id": "ChIJh6OXNjY9WhARpUetuHyBP5A"
+    }
   },
   {
     "id": "26520",
@@ -61,7 +112,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3249966,
+      "longitude": 9.0050022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.326289029892722,
+          "lng": 9.006389379892722
+        },
+        "southwest": {
+          "lat": 7.323589370107278,
+          "lng": 9.003689720107278
+        }
+      },
+      "formatted_address": "25, Tse-Alom Way, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3249966,9.0050022",
+      "google_place_id": "ChIJh6OXNjY9WhARpUetuHyBP5A"
+    }
   },
   {
     "id": "26521",
@@ -77,7 +145,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.348308299999999,
+      "longitude": 9.0249653,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349676979892721,
+          "lng": 9.02637027989272
+        },
+        "southwest": {
+          "lat": 7.346977320107277,
+          "lng": 9.023670620107277
+        }
+      },
+      "formatted_address": "6FVF82XF+8XH, Mbayion, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.348308299999999,9.0249653",
+      "google_place_id": "ChIJ9YbQjs0ZWhARRlLb93REIW4"
+    }
   },
   {
     "id": "26522",
@@ -93,7 +178,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26523",
@@ -109,7 +211,8 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26524",
@@ -125,7 +228,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26525",
@@ -141,7 +261,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26526",
@@ -157,7 +294,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26527",
@@ -173,7 +327,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.327149100000001,
+      "longitude": 9.0106479,
+      "viewport": {
+        "northeast": {
+          "lat": 7.328648629892724,
+          "lng": 9.011901629892723
+        },
+        "southwest": {
+          "lat": 7.32594897010728,
+          "lng": 9.009201970107279
+        }
+      },
+      "formatted_address": "82G6+V72, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.327149100000001,9.0106479",
+      "google_place_id": "ChIJsfKu8ko9WhARVUzw1GOlR8g"
+    }
   },
   {
     "id": "26528",
@@ -189,7 +360,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
   },
   {
     "id": "26529",
@@ -205,7 +393,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26530",
@@ -221,7 +426,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26531",
@@ -237,7 +459,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26532",
@@ -253,7 +492,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.327252100000001,
+      "longitude": 8.9879427,
+      "viewport": {
+        "northeast": {
+          "lat": 7.328586429892722,
+          "lng": 8.989267229892722
+        },
+        "southwest": {
+          "lat": 7.325886770107278,
+          "lng": 8.986567570107278
+        }
+      },
+      "formatted_address": "8XGQ+R5V, Gboko Road, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.327252100000001,8.9879427",
+      "google_place_id": "ChIJBSPgJ2s9WhARQAbkTxKrxeQ"
+    }
   },
   {
     "id": "26533",
@@ -269,7 +525,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.318956200000001,
+      "longitude": 9.0175732,
+      "viewport": {
+        "northeast": {
+          "lat": 7.32030387989272,
+          "lng": 9.01893397989272
+        },
+        "southwest": {
+          "lat": 7.317604220107277,
+          "lng": 9.016234320107277
+        }
+      },
+      "formatted_address": "8298+HXQ, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.318956200000001,9.0175732",
+      "google_place_id": "ChIJreRMPMwiWhARauUG3VgcTkE"
+    }
   },
   {
     "id": "26534",
@@ -285,7 +558,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26535",
@@ -301,7 +591,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26536",
@@ -317,7 +624,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26537",
@@ -333,7 +657,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26538",
@@ -349,7 +690,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26539",
@@ -365,7 +723,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26540",
@@ -381,7 +756,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26541",
@@ -397,7 +789,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3552779,
+      "longitude": 8.9922283,
+      "viewport": {
+        "northeast": {
+          "lat": 7.356784229892722,
+          "lng": 8.993596479892721
+        },
+        "southwest": {
+          "lat": 7.354084570107278,
+          "lng": 8.990896820107277
+        }
+      },
+      "formatted_address": "opp. penuel hosp G.R.A, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3552779,8.9922283",
+      "google_place_id": "ChIJg0gTMXsXWhARUJXuujuk4J0"
+    }
   },
   {
     "id": "26542",
@@ -413,7 +822,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3318016,
+      "longitude": 8.9934619,
+      "viewport": {
+        "northeast": {
+          "lat": 7.33315047989272,
+          "lng": 8.994804029892723
+        },
+        "southwest": {
+          "lat": 7.330450820107276,
+          "lng": 8.99210437010728
+        }
+      },
+      "formatted_address": "Nigeria, Gboko, Unnamed Road",
+      "google_map_url": "https://maps.google.com?q=7.3318016,8.9934619",
+      "google_place_id": "ChIJ5WcmME49WhARAq6be0M88U8"
+    }
   },
   {
     "id": "26543",
@@ -429,7 +855,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3227379,
+      "longitude": 8.9985549,
+      "viewport": {
+        "northeast": {
+          "lat": 7.323839529892721,
+          "lng": 8.999940129892725
+        },
+        "southwest": {
+          "lat": 7.321139870107277,
+          "lng": 8.99724047010728
+        }
+      },
+      "formatted_address": "Lions Football Club, J S Tarka Stadium, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3227379,8.9985549",
+      "google_place_id": "ChIJfSeqDzk9WhARkVkQbAITjsM"
+    }
   },
   {
     "id": "26544",
@@ -445,7 +888,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26545",
@@ -461,7 +921,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26546",
@@ -477,7 +954,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26547",
@@ -493,7 +987,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26548",
@@ -509,7 +1020,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3185647,
+      "longitude": 9.0264622,
+      "viewport": {
+        "northeast": {
+          "lat": 7.319921679892722,
+          "lng": 9.02781297989272
+        },
+        "southwest": {
+          "lat": 7.317222020107279,
+          "lng": 9.025113320107277
+        }
+      },
+      "formatted_address": "981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3185647,9.0264622",
+      "google_place_id": "ChIJ9zm-s8UiWhARswfAsBkDo-g"
+    }
   },
   {
     "id": "26549",
@@ -525,7 +1053,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.339555300000001,
+      "longitude": 9.032987499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.340911279892723,
+          "lng": 9.03433397989272
+        },
+        "southwest": {
+          "lat": 7.338211620107279,
+          "lng": 9.031634320107276
+        }
+      },
+      "formatted_address": "82QM+R5G, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.339555300000001,9.032987499999999",
+      "google_place_id": "ChIJByRTRaIiWhARRA98gWUuGdA"
+    }
   },
   {
     "id": "26550",
@@ -541,7 +1086,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26551",
@@ -557,7 +1119,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3249966,
+      "longitude": 9.0050022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.326289029892722,
+          "lng": 9.006389379892722
+        },
+        "southwest": {
+          "lat": 7.323589370107278,
+          "lng": 9.003689720107278
+        }
+      },
+      "formatted_address": "St. Francis Road, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3249966,9.0050022",
+      "google_place_id": "ChIJh6OXNjY9WhAR-Tq1y-qShLU"
+    }
   },
   {
     "id": "26552",
@@ -573,7 +1152,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.339555300000001,
+      "longitude": 9.032987499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.340911279892723,
+          "lng": 9.03433397989272
+        },
+        "southwest": {
+          "lat": 7.338211620107279,
+          "lng": 9.031634320107276
+        }
+      },
+      "formatted_address": "82QM+R5G, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.339555300000001,9.032987499999999",
+      "google_place_id": "ChIJByRTRaIiWhARRA98gWUuGdA"
+    }
   },
   {
     "id": "26553",
@@ -589,7 +1185,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.339555300000001,
+      "longitude": 9.032987499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.340911279892723,
+          "lng": 9.03433397989272
+        },
+        "southwest": {
+          "lat": 7.338211620107279,
+          "lng": 9.031634320107276
+        }
+      },
+      "formatted_address": "82QM+R5G, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.339555300000001,9.032987499999999",
+      "google_place_id": "ChIJByRTRaIiWhARRA98gWUuGdA"
+    }
   },
   {
     "id": "26554",
@@ -605,7 +1218,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3185647,
+      "longitude": 9.0264622,
+      "viewport": {
+        "northeast": {
+          "lat": 7.319921679892722,
+          "lng": 9.02781297989272
+        },
+        "southwest": {
+          "lat": 7.317222020107279,
+          "lng": 9.025113320107277
+        }
+      },
+      "formatted_address": "981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3185647,9.0264622",
+      "google_place_id": "ChIJ9zm-s8UiWhARswfAsBkDo-g"
+    }
   },
   {
     "id": "26555",
@@ -621,7 +1251,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26556",
@@ -637,7 +1284,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3207442,
+      "longitude": 9.0143753,
+      "viewport": {
+        "northeast": {
+          "lat": 7.322001629892721,
+          "lng": 9.015729429892723
+        },
+        "southwest": {
+          "lat": 7.319301970107277,
+          "lng": 9.013029770107279
+        }
+      },
+      "formatted_address": "82C7+8Q3, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3207442,9.0143753",
+      "google_place_id": "ChIJNT0tZ8siWhARjmIKDLxkV2o"
+    }
   },
   {
     "id": "26557",
@@ -653,7 +1317,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3354616,
+      "longitude": 8.9990534,
+      "viewport": {
+        "northeast": {
+          "lat": 7.336653579892721,
+          "lng": 9.000490879892721
+        },
+        "southwest": {
+          "lat": 7.333953920107277,
+          "lng": 8.997791220107278
+        }
+      },
+      "formatted_address": "8XPX+5JM, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3354616,8.9990534",
+      "google_place_id": "ChIJERHhBP09WhARsINp4BfjAtw"
+    }
   },
   {
     "id": "26558",
@@ -669,7 +1350,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.309701899999999,
+      "longitude": 8.9959771,
+      "viewport": {
+        "northeast": {
+          "lat": 7.311042579892721,
+          "lng": 8.997183179892723
+        },
+        "southwest": {
+          "lat": 7.308342920107276,
+          "lng": 8.994483520107279
+        }
+      },
+      "formatted_address": "8X5W+V9Q, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.309701899999999,8.9959771",
+      "google_place_id": "ChIJQXOgkSM9WhARr1fkwcR16jI"
+    }
   },
   {
     "id": "26559",
@@ -685,7 +1383,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.319159599999999,
+      "longitude": 8.997776,
+      "viewport": {
+        "northeast": {
+          "lat": 7.320479129892722,
+          "lng": 8.999272529892723
+        },
+        "southwest": {
+          "lat": 7.317779470107278,
+          "lng": 8.99657287010728
+        }
+      },
+      "formatted_address": "8X9X+M46, Makir Zakpe Way, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.319159599999999,8.997776",
+      "google_place_id": "ChIJObY6Jug9WhARG0qiRuSkCTg"
+    }
   },
   {
     "id": "26560",
@@ -701,7 +1416,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3207442,
+      "longitude": 9.0143753,
+      "viewport": {
+        "northeast": {
+          "lat": 7.322001629892721,
+          "lng": 9.015729429892723
+        },
+        "southwest": {
+          "lat": 7.319301970107277,
+          "lng": 9.013029770107279
+        }
+      },
+      "formatted_address": "82C7+8Q3, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3207442,9.0143753",
+      "google_place_id": "ChIJNT0tZ8siWhARjmIKDLxkV2o"
+    }
   },
   {
     "id": "26561",
@@ -717,7 +1449,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336842400000001,
+      "longitude": 9.0018424,
+      "viewport": {
+        "northeast": {
+          "lat": 7.338071979892721,
+          "lng": 9.003257229892721
+        },
+        "southwest": {
+          "lat": 7.335372320107277,
+          "lng": 9.000557570107278
+        }
+      },
+      "formatted_address": "82P2+PPP, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336842400000001,9.0018424",
+      "google_place_id": "ChIJNZykGy89WhARV3f0MfKmfcc"
+    }
   },
   {
     "id": "26562",
@@ -733,7 +1482,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   },
   {
     "id": "26563",
@@ -749,7 +1515,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3213162,
+      "longitude": 9.0183331,
+      "viewport": {
+        "northeast": {
+          "lat": 7.322674829892722,
+          "lng": 9.019591629892721
+        },
+        "southwest": {
+          "lat": 7.319975170107278,
+          "lng": 9.016891970107277
+        }
+      },
+      "formatted_address": "82C9+G8H, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3213162,9.0183331",
+      "google_place_id": "ChIJk8gk2UcjWhARwldb7pnt6D8"
+    }
   },
   {
     "id": "26564",
@@ -765,7 +1548,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.334004600000001,
+      "longitude": 9.010129899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.350371,
+          "lng": 9.025440399999999
+        },
+        "southwest": {
+          "lat": 7.3186312,
+          "lng": 8.997756599999999
+        }
+      },
+      "formatted_address": "Gboko East, 981101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.334004600000001,9.010129899999999",
+      "google_place_id": "ChIJvUvzIk09WhARtpqdH3IDOOg"
+    }
   },
   {
     "id": "26565",
@@ -781,7 +1581,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3249966,
+      "longitude": 9.0050022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.326289029892722,
+          "lng": 9.006389379892722
+        },
+        "southwest": {
+          "lat": 7.323589370107278,
+          "lng": 9.003689720107278
+        }
+      },
+      "formatted_address": "25, Tse-Alom Way, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3249966,9.0050022",
+      "google_place_id": "ChIJh6OXNjY9WhARpUetuHyBP5A"
+    }
   },
   {
     "id": "26566",
@@ -797,7 +1614,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.343145199999999,
+      "longitude": 8.9988365,
+      "viewport": {
+        "northeast": {
+          "lat": 7.344528779892721,
+          "lng": 9.000306479892723
+        },
+        "southwest": {
+          "lat": 7.341829120107278,
+          "lng": 8.99760682010728
+        }
+      },
+      "formatted_address": "8XVX+7G4, Gboko Road, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.343145199999999,8.9988365",
+      "google_place_id": "ChIJaxp3D6s9WhAR_7GmQIaYEME"
+    }
   },
   {
     "id": "26567",
@@ -813,7 +1647,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.311217699999999,
+      "longitude": 8.992412100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.312475629892721,
+          "lng": 8.993874329892723
+        },
+        "southwest": {
+          "lat": 7.309775970107277,
+          "lng": 8.991174670107279
+        }
+      },
+      "formatted_address": "8X6R+FXM, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.311217699999999,8.992412100000001",
+      "google_place_id": "ChIJnTY8PCI9WhARu2491IvERAs"
+    }
   },
   {
     "id": "26568",
@@ -829,7 +1680,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3482367,
+      "longitude": 9.02477,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349641429892722,
+          "lng": 9.026272529892722
+        },
+        "southwest": {
+          "lat": 7.346941770107279,
+          "lng": 9.023572870107278
+        }
+      },
+      "formatted_address": "82XF+7WR, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3482367,9.02477",
+      "google_place_id": "ChIJGf88BtsZWhARjPKM6Lf5Zrs"
+    }
   },
   {
     "id": "26569",
@@ -845,7 +1713,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3554302,
+      "longitude": 9.0384165,
+      "viewport": {
+        "northeast": {
+          "lat": 7.356680629892722,
+          "lng": 9.039862229892723
+        },
+        "southwest": {
+          "lat": 7.353980970107278,
+          "lng": 9.037162570107279
+        }
+      },
+      "formatted_address": "formal Air trip, After lubuna junction, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3554302,9.0384165",
+      "google_place_id": "ChIJoQY0PqsZWhARTyPffZ2HVFk"
+    }
   },
   {
     "id": "26570",
@@ -861,7 +1746,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.307194600000001,
+      "longitude": 8.9702709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.308637029892722,
+          "lng": 8.97161072989272
+        },
+        "southwest": {
+          "lat": 7.305937370107278,
+          "lng": 8.968911070107277
+        }
+      },
+      "formatted_address": "8X4C+V4C, near NKST NZUGUL, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.307194600000001,8.9702709",
+      "google_place_id": "ChIJa_WzQwA9WhART8aqtHBNJ8Y"
+    }
   },
   {
     "id": "26571",
@@ -877,7 +1779,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3366669,
+      "longitude": 9.002438099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.338065979892721,
+          "lng": 9.003761379892723
+        },
+        "southwest": {
+          "lat": 7.335366320107277,
+          "lng": 9.001061720107279
+        }
+      },
+      "formatted_address": "Captain Downes Rd, Adekaa 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3366669,9.002438099999999",
+      "google_place_id": "ChIJ5Xj-GEI9WhARWiuYo20z-jc"
+    }
   },
   {
     "id": "26572",
@@ -893,7 +1812,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.339555300000001,
+      "longitude": 9.032987499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.340911279892723,
+          "lng": 9.03433397989272
+        },
+        "southwest": {
+          "lat": 7.338211620107279,
+          "lng": 9.031634320107276
+        }
+      },
+      "formatted_address": "82QM+R5G, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.339555300000001,9.032987499999999",
+      "google_place_id": "ChIJByRTRaIiWhARRA98gWUuGdA"
+    }
   },
   {
     "id": "26573",
@@ -909,7 +1845,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.339555300000001,
+      "longitude": 9.032987499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.340911279892723,
+          "lng": 9.03433397989272
+        },
+        "southwest": {
+          "lat": 7.338211620107279,
+          "lng": 9.031634320107276
+        }
+      },
+      "formatted_address": "82QM+R5G, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.339555300000001,9.032987499999999",
+      "google_place_id": "ChIJByRTRaIiWhARRA98gWUuGdA"
+    }
   },
   {
     "id": "26574",
@@ -925,6 +1878,23 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.336137399999999,
+      "longitude": 9.0150429,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337494779892721,
+          "lng": 9.016390379892721
+        },
+        "southwest": {
+          "lat": 7.334795120107278,
+          "lng": 9.013690720107277
+        }
+      },
+      "formatted_address": "6FVF82P8+C2J, Anyamkor, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336137399999999,9.0150429",
+      "google_place_id": "ChIJNXoFoT4jWhAR6MSRTfryJrQ"
+    }
   }
 ]

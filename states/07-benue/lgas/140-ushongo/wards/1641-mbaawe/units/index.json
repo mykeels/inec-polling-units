@@ -13,7 +13,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.956801199999999,
+      "longitude": 9.2593718,
+      "viewport": {
+        "northeast": {
+          "lat": 6.958321579892721,
+          "lng": 9.260106299999999
+        },
+        "southwest": {
+          "lat": 6.955621920107277,
+          "lng": 9.2571683
+        }
+      },
+      "formatted_address": "X745+PPH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.956801199999999,9.2593718",
+      "google_place_id": "ChIJkaNIBt9-WRAR2_hXCfjQJBw"
+    }
   },
   {
     "id": "30524",
@@ -29,7 +46,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.785372,
+      "longitude": 9.25743,
+      "viewport": {
+        "northeast": {
+          "lat": 6.786756379892722,
+          "lng": 9.258772779892722
+        },
+        "southwest": {
+          "lat": 6.784056720107278,
+          "lng": 9.256073120107278
+        }
+      },
+      "formatted_address": "6FRFQ7P4+4XV, MBAGBEGBA, 982104, Ishangev Ya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.785372,9.25743",
+      "google_place_id": "ChIJK0RqUeZjWRAR9_4ppsrTyPo"
+    }
   },
   {
     "id": "30525",
@@ -45,7 +79,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.224971999999999,
+      "longitude": 8.940859999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.226372329892722,
+          "lng": 8.942205079892721
+        },
+        "southwest": {
+          "lat": 7.223672670107279,
+          "lng": 8.939505420107277
+        }
+      },
+      "formatted_address": "6FVC6WFR+X8Q Mbaawe Mbaawe, Apebo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.224971999999999,8.940859999999999",
+      "google_place_id": "ChIJeVWGukU7WhARz1es9rzp1EA"
+    }
   },
   {
     "id": "30526",
@@ -61,7 +112,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "30527",
@@ -77,7 +145,8 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30528",
@@ -93,7 +162,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "30529",
@@ -109,7 +195,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.949269999999999,
+      "longitude": 9.266752,
+      "viewport": {
+        "northeast": {
+          "lat": 6.950725679892722,
+          "lng": 9.268063379892723
+        },
+        "southwest": {
+          "lat": 6.948026020107278,
+          "lng": 9.26536372010728
+        }
+      },
+      "formatted_address": "6FRFW7X8+PP2, MBAKOSO, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.949269999999999,9.266752",
+      "google_place_id": "ChIJh5qNv4V_WRAR3hcPAfSzQpM"
+    }
   },
   {
     "id": "30530",
@@ -125,7 +228,8 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30531",
@@ -141,7 +245,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9520887,
+      "longitude": 9.2546619,
+      "viewport": {
+        "northeast": {
+          "lat": 6.953445229892722,
+          "lng": 9.255982929892724
+        },
+        "southwest": {
+          "lat": 6.950745570107278,
+          "lng": 9.25328327010728
+        }
+      },
+      "formatted_address": "6FRFX723+RVH TOWN MBAYEGH, 982104, Manor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9520887,9.2546619",
+      "google_place_id": "ChIJG-BT_D5_WRARI2Qx9Z_1pLw"
+    }
   },
   {
     "id": "30532",
@@ -157,7 +278,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "30533",
@@ -173,7 +311,8 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30534",
@@ -189,7 +328,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.500584899999999,
+      "longitude": 9.6063657,
+      "viewport": {
+        "northeast": {
+          "lat": 7.501931279892722,
+          "lng": 9.607692129892722
+        },
+        "southwest": {
+          "lat": 7.499231620107278,
+          "lng": 9.604992470107279
+        }
+      },
+      "formatted_address": "GJ24+6GQ YAM MARKET, EAST, 980109, Zaki Biam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.500584899999999,9.6063657",
+      "google_place_id": "ChIJJ3l1f5nDWRAR6q96-YAlc8I"
+    }
   },
   {
     "id": "30535",
@@ -205,7 +361,24 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.887796,
+      "longitude": 9.2314492,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889132729892722,
+          "lng": 9.232796129892725
+        },
+        "southwest": {
+          "lat": 6.886433070107278,
+          "lng": 9.23009647010728
+        }
+      },
+      "formatted_address": "V6QJ+4H8, Mbaagwa Atyirkyese, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.887796,9.2314492",
+      "google_place_id": "ChIJGQZQ7lt9WRARoX3UKQHMn-A"
+    }
   },
   {
     "id": "30536",
@@ -221,6 +394,23 @@
     "local_government_id": "140",
     "local_government_name": "USHONGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7372033,
+      "longitude": 8.539721799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.738489129892723,
+          "lng": 8.540904379892721
+        },
+        "southwest": {
+          "lat": 7.735789470107279,
+          "lng": 8.538204720107277
+        }
+      },
+      "formatted_address": "LGEA Primary School Tse-Swam Chagu, after UniAgric, Makurdi, 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7372033,8.539721799999999",
+      "google_place_id": "ChIJQ0F4s1qBUBARzqW3_Mk2P-8"
+    }
   }
 ]

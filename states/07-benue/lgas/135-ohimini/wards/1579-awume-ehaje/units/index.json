@@ -13,7 +13,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.116281000000001,
+      "longitude": 7.699007,
+      "viewport": {
+        "northeast": {
+          "lat": 7.117572079892722,
+          "lng": 7.700343879892722
+        },
+        "southwest": {
+          "lat": 7.114872420107278,
+          "lng": 7.697644220107278
+        }
+      },
+      "formatted_address": "6FV94M8X+GJ6, Eloga, 973101, Otukpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.116281000000001,7.699007",
+      "google_place_id": "ChIJbbj3SIctRRARvZC-lDs2LxU"
+    }
   },
   {
     "id": "29556",
@@ -29,7 +46,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.242283,
+      "longitude": 7.842600999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.243679029892721,
+          "lng": 7.843986929892721
+        },
+        "southwest": {
+          "lat": 7.240979370107278,
+          "lng": 7.841287270107277
+        }
+      },
+      "formatted_address": "6RRV+W29, 973104, Awga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.242283,7.842600999999999",
+      "google_place_id": "ChIJ4fMo50zMWhARohWhUM2XRXg"
+    }
   },
   {
     "id": "29557",
@@ -45,7 +79,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.246135,
+      "longitude": 7.808377999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.247489579892721,
+          "lng": 7.809726779892721
+        },
+        "southwest": {
+          "lat": 7.244789920107277,
+          "lng": 7.807027120107278
+        }
+      },
+      "formatted_address": "6RW5+F92, 973104, Awga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.246135,7.808377999999999",
+      "google_place_id": "ChIJZ4RmyODMWhAR_r8qZqw4WyU"
+    }
   },
   {
     "id": "29558",
@@ -61,7 +112,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "29559",
@@ -77,6 +145,23 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.241641,
+      "longitude": 7.845592,
+      "viewport": {
+        "northeast": {
+          "lat": 7.243048879892721,
+          "lng": 7.846929279892722
+        },
+        "southwest": {
+          "lat": 7.240349220107277,
+          "lng": 7.844229620107278
+        }
+      },
+      "formatted_address": "6FV96RRW+M64 Awume Ehaje Ipiga, Awga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.241641,7.845592",
+      "google_place_id": "ChIJu5R6vM3NWhARiRDPPiQaH3Q"
+    }
   }
 ]

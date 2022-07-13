@@ -13,7 +13,24 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.817126999999999,
+      "longitude": 7.942944000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.818452229892722,
+          "lng": 7.944318929892724
+        },
+        "southwest": {
+          "lat": 7.815752570107279,
+          "lng": 7.94161927010728
+        }
+      },
+      "formatted_address": "6FV9RW8V+V54, 972108, Ogbaulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.817126999999999,7.942944000000001",
+      "google_place_id": "ChIJ173qUL0FUBAR4rvrpTw8PDU"
+    }
   },
   {
     "id": "26064",
@@ -29,7 +46,8 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26065",
@@ -45,7 +63,8 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26066",
@@ -61,7 +80,8 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26067",
@@ -77,6 +97,7 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]

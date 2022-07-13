@@ -13,7 +13,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9758527,
+      "longitude": 7.568354299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.977569429892721,
+          "lng": 7.570108179892721
+        },
+        "southwest": {
+          "lat": 6.974869770107277,
+          "lng": 7.567408520107277
+        }
+      },
+      "formatted_address": "XHG9+88X, 973101, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9758527,7.568354299999999",
+      "google_place_id": "ChIJlcQY86LZRBARvRHoIiZ_Qhg"
+    }
   },
   {
     "id": "29268",
@@ -29,7 +46,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.022367699999999,
+      "longitude": 7.538863399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.023707529892722,
+          "lng": 7.540197229892724
+        },
+        "southwest": {
+          "lat": 7.021007870107278,
+          "lng": 7.53749757010728
+        }
+      },
+      "formatted_address": "2GCQ+WGX, 973101, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.022367699999999,7.538863399999999",
+      "google_place_id": "ChIJpSci26TYRBARRKVO0Eztna0"
+    }
   },
   {
     "id": "29269",
@@ -45,7 +79,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.022367699999999,
+      "longitude": 7.538863399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.023707529892722,
+          "lng": 7.540197229892724
+        },
+        "southwest": {
+          "lat": 7.021007870107278,
+          "lng": 7.53749757010728
+        }
+      },
+      "formatted_address": "2GCQ+WGX, 973101, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.022367699999999,7.538863399999999",
+      "google_place_id": "ChIJpSci26TYRBARRKVO0Eztna0"
+    }
   },
   {
     "id": "29270",
@@ -61,7 +112,8 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29271",
@@ -77,7 +129,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9758527,
+      "longitude": 7.568354299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.977569429892721,
+          "lng": 7.570108179892721
+        },
+        "southwest": {
+          "lat": 6.974869770107277,
+          "lng": 7.567408520107277
+        }
+      },
+      "formatted_address": "XHG9+88X, 973101, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9758527,7.568354299999999",
+      "google_place_id": "ChIJlcQY86LZRBARvRHoIiZ_Qhg"
+    }
   },
   {
     "id": "29272",
@@ -93,7 +162,8 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29273",
@@ -109,6 +179,23 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.022367699999999,
+      "longitude": 7.538863399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.023707529892722,
+          "lng": 7.540197229892724
+        },
+        "southwest": {
+          "lat": 7.021007870107278,
+          "lng": 7.53749757010728
+        }
+      },
+      "formatted_address": "2GCQ+WGX, 973101, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.022367699999999,7.538863399999999",
+      "google_place_id": "ChIJpSci26TYRBARRKVO0Eztna0"
+    }
   }
 ]

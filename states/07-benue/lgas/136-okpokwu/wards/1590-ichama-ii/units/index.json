@@ -13,7 +13,8 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29661",
@@ -29,7 +30,8 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29662",
@@ -45,7 +47,8 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29663",
@@ -61,7 +64,24 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.150816000000001,
+      "longitude": 7.959614999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.151625979892722,
+          "lng": 7.961026729892722
+        },
+        "southwest": {
+          "lat": 7.148926320107278,
+          "lng": 7.958327070107278
+        }
+      },
+      "formatted_address": "6FV95X25+8RH, Ekwu, 972103, Ochobo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.150816000000001,7.959614999999999",
+      "google_place_id": "ChIJL6xNtmLbWhARlAEvuOLIXzE"
+    }
   },
   {
     "id": "29664",
@@ -77,7 +97,8 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29665",
@@ -93,7 +114,24 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.0409668,
+      "longitude": 7.8095997,
+      "viewport": {
+        "northeast": {
+          "lat": 7.042333679892722,
+          "lng": 7.810955029892723
+        },
+        "southwest": {
+          "lat": 7.039634020107278,
+          "lng": 7.808255370107279
+        }
+      },
+      "formatted_address": "2RR5+CRH, 973103, Okpoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0409668,7.8095997",
+      "google_place_id": "ChIJRYvLIrrVWhARGWdhzYHp8ZU"
+    }
   },
   {
     "id": "29666",
@@ -109,7 +147,24 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.905228699999999,
+      "longitude": 7.788291800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.906605479892721,
+          "lng": 7.789731729892721
+        },
+        "southwest": {
+          "lat": 6.903905820107277,
+          "lng": 7.787032070107277
+        }
+      },
+      "formatted_address": "II okpokwu Benue, 6FR9WQ4Q+37C Ichama Center, Ichama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.905228699999999,7.788291800000001",
+      "google_place_id": "ChIJu51IE1ctWxAR7FSKZGOWuOk"
+    }
   },
   {
     "id": "29667",
@@ -125,6 +180,23 @@
     "local_government_id": "136",
     "local_government_name": "OKPOKWU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.90613,
+      "longitude": 7.79451,
+      "viewport": {
+        "northeast": {
+          "lat": 6.907470379892722,
+          "lng": 7.79576147989272
+        },
+        "southwest": {
+          "lat": 6.904770720107278,
+          "lng": 7.793061820107276
+        }
+      },
+      "formatted_address": "2 okpokwu Benue, 6FR9WQ4V+FR2 Ichama Centre, Ichama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.90613,7.79451",
+      "google_place_id": "ChIJM3ZyyhQtWxAR6WFI-Sy1LPs"
+    }
   }
 ]

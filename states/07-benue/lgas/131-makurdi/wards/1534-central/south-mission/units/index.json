@@ -13,7 +13,8 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28662",
@@ -29,7 +30,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 37.335663,
+      "longitude": -121.889815,
+      "viewport": {
+        "northeast": {
+          "lat": 37.33706697989273,
+          "lng": -121.8885059201073
+        },
+        "southwest": {
+          "lat": 37.33436732010728,
+          "lng": -121.8912055798927
+        }
+      },
+      "formatted_address": "30 S 1st St, San Jose, CA 95113, United States",
+      "google_map_url": "https://maps.google.com?q=37.335663,-121.889815",
+      "google_place_id": "ChIJ8ffvtbzMj4ARfKvNgXdj41w"
+    }
   },
   {
     "id": "28663",
@@ -45,7 +63,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7355417,
+      "longitude": 8.5293625,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73714557989272,
+          "lng": 8.530943279892721
+        },
+        "southwest": {
+          "lat": 7.734445920107277,
+          "lng": 8.528243620107277
+        }
+      },
+      "formatted_address": "7 Kashim Ibrahim Road, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7355417,8.5293625",
+      "google_place_id": "ChIJ4a_9yKyBUBARUn2uu_bpgms"
+    }
   },
   {
     "id": "28664",
@@ -61,7 +96,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.730556,
+      "longitude": 8.536111,
+      "viewport": {
+        "northeast": {
+          "lat": 7.731931729892722,
+          "lng": 8.537569279892724
+        },
+        "southwest": {
+          "lat": 7.729232070107278,
+          "lng": 8.53486962010728
+        }
+      },
+      "formatted_address": "Behind Old St. Joseph Catholic Church, Akpehe City College, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.730556,8.536111",
+      "google_place_id": "ChIJXdsOtLGBUBARN0JUAz6Ry78"
+    }
   },
   {
     "id": "28665",
@@ -77,7 +129,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321865,
+      "longitude": 8.5391474,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "PGJQ+VMC, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321865,8.5391474",
+      "google_place_id": "ChIJGcQzRGuBUBARD6B66etjQfw"
+    }
   },
   {
     "id": "28666",
@@ -93,7 +162,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.759166099999999,
+      "longitude": 8.5336524,
+      "viewport": {
+        "northeast": {
+          "lat": 7.760508429892722,
+          "lng": 8.535004579892721
+        },
+        "southwest": {
+          "lat": 7.757808770107278,
+          "lng": 8.532304920107277
+        }
+      },
+      "formatted_address": "No. 1 House of Mercy Street, University of Agriculture Road, North Bank, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.759166099999999,8.5336524",
+      "google_place_id": "ChIJKYz_MAWBUBAR0hbDT3Nbq2M"
+    }
   },
   {
     "id": "28667",
@@ -109,7 +195,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7350222,
+      "longitude": 8.534413899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.736258079892722,
+          "lng": 8.535570629892721
+        },
+        "southwest": {
+          "lat": 7.733558420107278,
+          "lng": 8.532870970107277
+        }
+      },
+      "formatted_address": "Benue Hotels and Resort, 57 Ahmadu Bello Way, Old GRA 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7350222,8.534413899999999",
+      "google_place_id": "ChIJP9qBZK6BUBARMQ-tnkBr4ag"
+    }
   },
   {
     "id": "28668",
@@ -125,7 +228,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.739441599999999,
+      "longitude": 8.5175752,
+      "viewport": {
+        "northeast": {
+          "lat": 7.740399379892723,
+          "lng": 8.519209079892724
+        },
+        "southwest": {
+          "lat": 7.737699720107279,
+          "lng": 8.51650942010728
+        }
+      },
+      "formatted_address": "6FVCPGQ9+Q28, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.739441599999999,8.5175752",
+      "google_place_id": "ChIJQSgtXFeAUBARHi3HisGpH90"
+    }
   },
   {
     "id": "28669",
@@ -141,7 +261,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.738777900000001,
+      "longitude": 8.5128518,
+      "viewport": {
+        "northeast": {
+          "lat": 7.740127729892724,
+          "lng": 8.514201629892723
+        },
+        "southwest": {
+          "lat": 7.73742807010728,
+          "lng": 8.511501970107279
+        }
+      },
+      "formatted_address": "18 Bauchi St, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.738777900000001,8.5128518",
+      "google_place_id": "Ei8xOCBCYXVjaGkgU3QsIFRvd25zaGlwIDk3MDEwMSwgTWFrdXJkaSwgTmlnZXJpYSIwEi4KFAoSCV1gMVtZgFAQESLCmU4QjnvaEBIqFAoSCXEn_s1YgFAQEb4Tkb7Ojpke"
+    }
   },
   {
     "id": "28670",
@@ -157,7 +294,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7381761,
+      "longitude": 8.5125476,
+      "viewport": {
+        "northeast": {
+          "lat": 7.739521979892722,
+          "lng": 8.513908429892723
+        },
+        "southwest": {
+          "lat": 7.736822320107279,
+          "lng": 8.51120877010728
+        }
+      },
+      "formatted_address": "PGQ6+7X9, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7381761,8.5125476",
+      "google_place_id": "ChIJoTiLV1mAUBAR-1iVBF1vLt0"
+    }
   },
   {
     "id": "28671",
@@ -173,7 +327,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.724063800000001,
+      "longitude": 8.549735900000002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.725397779892723,
+          "lng": 8.551101879892721
+        },
+        "southwest": {
+          "lat": 7.722698120107279,
+          "lng": 8.548402220107278
+        }
+      },
+      "formatted_address": "13 Abu King Shuluwa Rd, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.724063800000001,8.549735900000002",
+      "google_place_id": "ChIJ9U2rLb6BUBARG71Yn1Kfc5c"
+    }
   },
   {
     "id": "28672",
@@ -189,7 +360,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.745076200000001,
+      "longitude": 8.5125654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.746422029892723,
+          "lng": 8.513893929892722
+        },
+        "southwest": {
+          "lat": 7.743722370107279,
+          "lng": 8.511194270107278
+        }
+      },
+      "formatted_address": "6 Port Harcourt Street, behind Mc Carthy Stadium, 970211, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.745076200000001,8.5125654",
+      "google_place_id": "ChIJZyQybPaAUBAR_zpiOZJnJXg"
+    }
   },
   {
     "id": "28673",
@@ -205,7 +393,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.734910900000001,
+      "longitude": 8.5310997,
+      "viewport": {
+        "northeast": {
+          "lat": 7.75236885000005,
+          "lng": 8.540894100000003
+        },
+        "southwest": {
+          "lat": 7.716671849999951,
+          "lng": 8.521482899999999
+        }
+      },
+      "formatted_address": "Kashim Ibrahim Road, 970101, Asuir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.734910900000001,8.5310997",
+      "google_place_id": "EitLYXNoaW0gSWJyYWhpbSBSb2FkLCA5NzAxMDEsIEFzdWlyLCBOaWdlcmlhIi4qLAoUChIJvTBgVayBUBARWVXruO5nBBASFAoSCRN1VyRSgFAQEYz3n9cQD34l"
+    }
   },
   {
     "id": "28674",
@@ -221,7 +426,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.733549,
+      "longitude": 8.516040000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735138479892722,
+          "lng": 8.517785379892722
+        },
+        "southwest": {
+          "lat": 7.732438820107278,
+          "lng": 8.515085720107278
+        }
+      },
+      "formatted_address": "6FVCPGM8+CC7, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.733549,8.516040000000002",
+      "google_place_id": "ChIJ17WXEuyBUBARkT0kHarNEZ0"
+    }
   },
   {
     "id": "28675",
@@ -237,7 +459,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.733549,
+      "longitude": 8.516040000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735138479892722,
+          "lng": 8.517785379892722
+        },
+        "southwest": {
+          "lat": 7.732438820107278,
+          "lng": 8.515085720107278
+        }
+      },
+      "formatted_address": "6FVCPGM8+CC7, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.733549,8.516040000000002",
+      "google_place_id": "ChIJ17WXEuyBUBARkT0kHarNEZ0"
+    }
   },
   {
     "id": "28676",
@@ -253,7 +492,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7142081,
+      "longitude": 8.5229337,
+      "viewport": {
+        "northeast": {
+          "lat": 7.71528307989272,
+          "lng": 8.52431132989272
+        },
+        "southwest": {
+          "lat": 7.712583420107276,
+          "lng": 8.521611670107276
+        }
+      },
+      "formatted_address": "PG7F+M5M, Abu Obe Road, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7142081,8.5229337",
+      "google_place_id": "ChIJ7UB_NjKAUBARjmsL_YDITG4"
+    }
   },
   {
     "id": "28677",
@@ -269,7 +525,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.729101000000001,
+      "longitude": 8.5282266,
+      "viewport": {
+        "northeast": {
+          "lat": 7.730325629892723,
+          "lng": 8.529591729892722
+        },
+        "southwest": {
+          "lat": 7.727625970107279,
+          "lng": 8.526892070107278
+        }
+      },
+      "formatted_address": "PGHH+J7X J S Tarka, Road, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.729101000000001,8.5282266",
+      "google_place_id": "ChIJA20_LbOBUBARUAny0_z1igc"
+    }
   },
   {
     "id": "28678",
@@ -285,7 +558,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.737619800000001,
+      "longitude": 8.517462,
+      "viewport": {
+        "northeast": {
+          "lat": 7.738971229892722,
+          "lng": 8.518822029892721
+        },
+        "southwest": {
+          "lat": 7.736271570107278,
+          "lng": 8.516122370107277
+        }
+      },
+      "formatted_address": "PGQ8+2XW, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.737619800000001,8.517462",
+      "google_place_id": "ChIJ89lYqVCAUBAR9ZFylOHTO3A"
+    }
   },
   {
     "id": "28679",
@@ -301,7 +591,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.739233,
+      "longitude": 8.5208727,
+      "viewport": {
+        "northeast": {
+          "lat": 7.740911729892723,
+          "lng": 8.522277479892722
+        },
+        "southwest": {
+          "lat": 7.738212070107279,
+          "lng": 8.519577820107278
+        }
+      },
+      "formatted_address": "10 Abubakar Atiku Road, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.739233,8.5208727",
+      "google_place_id": "ChIJ_fWGZlSAUBARHnPBr4PNHII"
+    }
   },
   {
     "id": "28680",
@@ -317,7 +624,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.738485000000001,
+      "longitude": 8.5222,
+      "viewport": {
+        "northeast": {
+          "lat": 7.739834129892723,
+          "lng": 8.52354267989272
+        },
+        "southwest": {
+          "lat": 7.73713447010728,
+          "lng": 8.520843020107277
+        }
+      },
+      "formatted_address": "3rd Avenue Lobi Quarters, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.738485000000001,8.5222",
+      "google_place_id": "ChIJEbHAh3eBUBARWOBXsnrzbzw"
+    }
   },
   {
     "id": "28681",
@@ -333,7 +657,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.730665200000001,
+      "longitude": 8.5262346,
+      "viewport": {
+        "northeast": {
+          "lat": 7.731906279892724,
+          "lng": 8.527808529892722
+        },
+        "southwest": {
+          "lat": 7.72920662010728,
+          "lng": 8.525108870107278
+        }
+      },
+      "formatted_address": "PGJG+7F9, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.730665200000001,8.5262346",
+      "google_place_id": "ChIJ55O7qU2AUBARBcOsaoAVn4U"
+    }
   },
   {
     "id": "28682",
@@ -349,7 +690,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7220907,
+      "longitude": 8.5378186,
+      "viewport": {
+        "northeast": {
+          "lat": 7.723437029892721,
+          "lng": 8.539186829892724
+        },
+        "southwest": {
+          "lat": 7.720737370107277,
+          "lng": 8.53648717010728
+        }
+      },
+      "formatted_address": "PGCQ+R52, Abu King Shuluwa Rd, Wurukum 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7220907,8.5378186",
+      "google_place_id": "ChIJwwTH57eBUBAR_ofKmYEcwk0"
+    }
   },
   {
     "id": "28683",
@@ -365,7 +723,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7395985,
+      "longitude": 8.5105583,
+      "viewport": {
+        "northeast": {
+          "lat": 7.740948329892722,
+          "lng": 8.51190812989272
+        },
+        "southwest": {
+          "lat": 7.738248670107278,
+          "lng": 8.509208470107277
+        }
+      },
+      "formatted_address": "37 Sokoto Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7395985,8.5105583",
+      "google_place_id": "EjMzNyBTb2tvdG8gU3RyZWV0LCBUb3duc2hpcCA5NzAxMDEsIE1ha3VyZGksIE5pZ2VyaWEiMBIuChQKEgkPNxO4XoBQEBGdR8-L9yZ62hAlKhQKEgltlx0uX4BQEBGL7ucYnfk4xw"
+    }
   },
   {
     "id": "28684",
@@ -381,7 +756,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 13.0058731,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00672112989272,
+          "lng": 5.248871029892722
+        },
+        "southwest": {
+          "lat": 13.00402147010728,
+          "lng": 5.246171370107279
+        }
+      },
+      "formatted_address": "TSALIBAWA AREA, opp. ALH DAN BABA RESIDENCE, Sokoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0058731,5.2475518",
+      "google_place_id": "ChIJ05yVELTFtxERAeBoZstc6Yw"
+    }
   },
   {
     "id": "28685",
@@ -397,7 +789,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.742903,
+      "longitude": 8.5145045,
+      "viewport": {
+        "northeast": {
+          "lat": 7.744252829892722,
+          "lng": 8.515854329892724
+        },
+        "southwest": {
+          "lat": 7.741553170107278,
+          "lng": 8.51315467010728
+        }
+      },
+      "formatted_address": "28 Kaduna Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.742903,8.5145045",
+      "google_place_id": "EjMyOCBLYWR1bmEgU3RyZWV0LCBUb3duc2hpcCA5NzAxMDEsIE1ha3VyZGksIE5pZ2VyaWEiMBIuChQKEgkFk1qGWIBQEBEwX5allSgX8BAcKhQKEglLw5oHYYBQEBFhgrQtwN4Orw"
+    }
   },
   {
     "id": "28686",
@@ -413,7 +822,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 10.3032738,
+      "longitude": 9.8299447,
+      "viewport": {
+        "northeast": {
+          "lat": 10.30443942989272,
+          "lng": 9.831235179892722
+        },
+        "southwest": {
+          "lat": 10.30173977010728,
+          "lng": 9.828535520107279
+        }
+      },
+      "formatted_address": "8R3H+8X4, Murtala Mohammed Way, 740102, Bauchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3032738,9.8299447",
+      "google_place_id": "ChIJmVded0PXVBARumVoJm5M8fM"
+    }
   },
   {
     "id": "28687",
@@ -429,7 +855,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321865,
+      "longitude": 8.5391474,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "University Of Agriculture Road Makurdi Benue North Bank, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321865,8.5391474",
+      "google_place_id": "ChIJJbIAWsaBUBARuxqAiOdH5aA"
+    }
   },
   {
     "id": "28688",
@@ -445,7 +888,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.737855699999999,
+      "longitude": 8.5246395,
+      "viewport": {
+        "northeast": {
+          "lat": 7.739193179892722,
+          "lng": 8.525941029892723
+        },
+        "southwest": {
+          "lat": 7.736493520107278,
+          "lng": 8.523241370107279
+        }
+      },
+      "formatted_address": "193 Gondo Aluor Road, old GRA 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.737855699999999,8.5246395",
+      "google_place_id": "ChIJi2iRyQKBUBARewqgEATF-y0"
+    }
   },
   {
     "id": "28689",
@@ -461,7 +921,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7334966,
+      "longitude": 8.5246522,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735003529892722,
+          "lng": 8.525923029892724
+        },
+        "southwest": {
+          "lat": 7.732303870107278,
+          "lng": 8.52322337010728
+        }
+      },
+      "formatted_address": "PGMF+CV8, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7334966,8.5246522",
+      "google_place_id": "ChIJedP8E6SBUBARuQmpjJgATV8"
+    }
   },
   {
     "id": "28690",
@@ -477,7 +954,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 9.0634301,
+      "longitude": 7.4595088,
+      "viewport": {
+        "northeast": {
+          "lat": 9.064847879892723,
+          "lng": 7.460894529892722
+        },
+        "southwest": {
+          "lat": 9.062148220107279,
+          "lng": 7.458194870107278
+        }
+      },
+      "formatted_address": "Plot 16, Algiers Street, Off Dalaba Street, Zone 5, Wuse, Abuja, FCT, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0634301,7.4595088",
+      "google_place_id": "ChIJf4oQGyILThARHstPeHST5dA"
+    }
   },
   {
     "id": "28691",
@@ -493,7 +987,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7339568,
+      "longitude": 8.5316178,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73543397989272,
+          "lng": 8.533074579892721
+        },
+        "southwest": {
+          "lat": 7.732734320107276,
+          "lng": 8.530374920107278
+        }
+      },
+      "formatted_address": "PGMJ+HJ8, Kashim Ibrahim Road, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7339568,8.5316178",
+      "google_place_id": "ChIJuzIfq62BUBARFMA-mOgoy3Y"
+    }
   },
   {
     "id": "28692",
@@ -509,7 +1020,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7339568,
+      "longitude": 8.5316178,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73543397989272,
+          "lng": 8.533074579892721
+        },
+        "southwest": {
+          "lat": 7.732734320107276,
+          "lng": 8.530374920107278
+        }
+      },
+      "formatted_address": "PGMJ+HJ8, Kashim Ibrahim Road, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7339568,8.5316178",
+      "google_place_id": "ChIJuzIfq62BUBARFMA-mOgoy3Y"
+    }
   },
   {
     "id": "28693",
@@ -525,7 +1053,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.727443999999999,
+      "longitude": 8.530846000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.728626229892721,
+          "lng": 8.532189029892722
+        },
+        "southwest": {
+          "lat": 7.725926570107277,
+          "lng": 8.529489370107278
+        }
+      },
+      "formatted_address": "6FVCPGGJ+X8H, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.727443999999999,8.530846000000002",
+      "google_place_id": "ChIJTyotd1qBUBARfp9xrHt15JA"
+    }
   },
   {
     "id": "28694",
@@ -541,7 +1086,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.731179099999999,
+      "longitude": 8.5301691,
+      "viewport": {
+        "northeast": {
+          "lat": 7.732406079892722,
+          "lng": 8.531444829892722
+        },
+        "southwest": {
+          "lat": 7.729706420107278,
+          "lng": 8.528745170107277
+        }
+      },
+      "formatted_address": "PGJJ+F3F, Agan Dankaro St, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.731179099999999,8.5301691",
+      "google_place_id": "ChIJNxPvXjqBUBARmbx_l00YlNE"
+    }
   },
   {
     "id": "28695",
@@ -557,7 +1119,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.684804999999999,
+      "longitude": 8.528333,
+      "viewport": {
+        "northeast": {
+          "lat": 7.686120929892722,
+          "lng": 8.529702129892721
+        },
+        "southwest": {
+          "lat": 7.683421270107278,
+          "lng": 8.527002470107277
+        }
+      },
+      "formatted_address": "Adeke Village Genabe 435 Welfare Quarters, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.684804999999999,8.528333",
+      "google_place_id": "ChIJXbJ3D55_WhARdDXrrGkkc5U"
+    }
   },
   {
     "id": "28696",
@@ -573,7 +1152,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7293772,
+      "longitude": 8.519180799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.730719279892721,
+          "lng": 8.520557479892723
+        },
+        "southwest": {
+          "lat": 7.728019620107277,
+          "lng": 8.51785782010728
+        }
+      },
+      "formatted_address": "PGH9+QM3, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7293772,8.519180799999999",
+      "google_place_id": "ChIJccoEBlKAUBARuAcziOe-0QU"
+    }
   },
   {
     "id": "28697",
@@ -589,7 +1185,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7358417,
+      "longitude": 8.5143265,
+      "viewport": {
+        "northeast": {
+          "lat": 7.737191529892722,
+          "lng": 8.51567632989272
+        },
+        "southwest": {
+          "lat": 7.734491870107278,
+          "lng": 8.512976670107276
+        }
+      },
+      "formatted_address": "40 Ikeja St, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7358417,8.5143265",
+      "google_place_id": "Ei40MCBJa2VqYSBTdCwgVG93bnNoaXAgOTcwMTAxLCBNYWt1cmRpLCBOaWdlcmlhIjASLgoUChIJZR2RqluAUBARXuJ_gl0mbDUQKCoUChIJA5O1vVuAUBARXNy9qQFDvic"
+    }
   },
   {
     "id": "28698",
@@ -605,7 +1218,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 8.4995548,
+      "longitude": 8.516798999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.50084812989272,
+          "lng": 8.518284329892722
+        },
+        "southwest": {
+          "lat": 8.498148470107276,
+          "lng": 8.515584670107279
+        }
+      },
+      "formatted_address": "FGX8+RPC, Makurdi - Jos Rd, 950101, Lafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4995548,8.516798999999999",
+      "google_place_id": "ChIJf6RtST0HURARvRdwR8OyqxM"
+    }
   },
   {
     "id": "28699",
@@ -621,7 +1251,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321863,
+      "longitude": 8.5391496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "20 Ibadan Street, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321863,8.5391496",
+      "google_place_id": "ChIJT7WVy0qBUBARqlYaFx4pN9A"
+    }
   },
   {
     "id": "28700",
@@ -637,7 +1284,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.726089900000001,
+      "longitude": 8.543378200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.727347879892723,
+          "lng": 8.544747079892721
+        },
+        "southwest": {
+          "lat": 7.724648220107279,
+          "lng": 8.542047420107277
+        }
+      },
+      "formatted_address": "No 4, Remnant Avenue, opposite Benue State Library, Wurukum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.726089900000001,8.543378200000001",
+      "google_place_id": "ChIJ4Vq3XLmBUBARPh6E4bzZ2YQ"
+    }
   },
   {
     "id": "28701",
@@ -653,7 +1317,8 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28702",
@@ -669,7 +1334,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "28703",
@@ -685,7 +1367,8 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28704",
@@ -701,7 +1384,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3018521,
+      "longitude": 8.4753118,
+      "viewport": {
+        "northeast": {
+          "lat": 7.303201179892721,
+          "lng": 8.476659929892723
+        },
+        "southwest": {
+          "lat": 7.300501520107276,
+          "lng": 8.473960270107279
+        }
+      },
+      "formatted_address": "8F2G+P4V, 971103, Aliade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3018521,8.4753118",
+      "google_place_id": "ChIJf3uKYIP1WhARHavowPwXmUk"
+    }
   },
   {
     "id": "28705",
@@ -717,7 +1417,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.742881199999999,
+      "longitude": 8.5132435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.744215579892721,
+          "lng": 8.514555079892721
+        },
+        "southwest": {
+          "lat": 7.741515920107277,
+          "lng": 8.511855420107278
+        }
+      },
+      "formatted_address": "PGV7+47R, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.742881199999999,8.5132435",
+      "google_place_id": "ChIJ8QNrmFiAUBARl29x6ha13q0"
+    }
   },
   {
     "id": "28706",
@@ -733,7 +1450,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7394728,
+      "longitude": 8.515219,
+      "viewport": {
+        "northeast": {
+          "lat": 7.74082262989272,
+          "lng": 8.516568829892721
+        },
+        "southwest": {
+          "lat": 7.738122970107276,
+          "lng": 8.513869170107277
+        }
+      },
+      "formatted_address": "Ali Akilu Road, Township 970101, Asuir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7394728,8.515219",
+      "google_place_id": "ChIJEW-GpFmAUBAR-midTcB3JQA"
+    }
   },
   {
     "id": "28707",
@@ -749,7 +1483,8 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28708",
@@ -765,7 +1500,8 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28709",
@@ -781,7 +1517,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "28710",
@@ -797,7 +1550,8 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28711",
@@ -813,7 +1567,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7377486,
+      "longitude": 8.5104853,
+      "viewport": {
+        "northeast": {
+          "lat": 7.739147129892723,
+          "lng": 8.511841279892721
+        },
+        "southwest": {
+          "lat": 7.736447470107279,
+          "lng": 8.509141620107277
+        }
+      },
+      "formatted_address": "Wadata, NO 114 Benue Crescent, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7377486,8.5104853",
+      "google_place_id": "ChIJ2eQ_T8WBUBARWGTeZ6prHr0"
+    }
   },
   {
     "id": "28712",
@@ -829,7 +1600,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7377705,
+      "longitude": 8.5117956,
+      "viewport": {
+        "northeast": {
+          "lat": 7.739120329892722,
+          "lng": 8.513145429892722
+        },
+        "southwest": {
+          "lat": 7.736420670107278,
+          "lng": 8.510445770107278
+        }
+      },
+      "formatted_address": "15 Benue Crescent, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7377705,8.5117956",
+      "google_place_id": "EjQxNSBCZW51ZSBDcmVzY2VudCwgVG93bnNoaXAgOTcwMTAxLCBNYWt1cmRpLCBOaWdlcmlhIjASLgoUChIJSd-k_luAUBARpWPPsLSd360QDyoUChIJu3F5AlyAUBARqDd_7f5S2oA"
+    }
   },
   {
     "id": "28713",
@@ -845,7 +1633,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.740411199999999,
+      "longitude": 8.5230185,
+      "viewport": {
+        "northeast": {
+          "lat": 7.741831429892722,
+          "lng": 8.52437807989272
+        },
+        "southwest": {
+          "lat": 7.739131770107278,
+          "lng": 8.521678420107277
+        }
+      },
+      "formatted_address": "Kwarafa Quaters, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.740411199999999,8.5230185",
+      "google_place_id": "ChIJeY2LGpmBUBARQZfkmuOTgC4"
+    }
   },
   {
     "id": "28714",
@@ -861,7 +1666,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7411229,
+      "longitude": 8.5106218,
+      "viewport": {
+        "northeast": {
+          "lat": 7.742472579892722,
+          "lng": 8.511937229892723
+        },
+        "southwest": {
+          "lat": 7.739772920107278,
+          "lng": 8.509237570107278
+        }
+      },
+      "formatted_address": "Sokoto Street, Township 970101, Asuir, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7411229,8.5106218",
+      "google_place_id": "ChIJ_dF-xE6BUBARcYzEe8Ot2r8"
+    }
   },
   {
     "id": "28715",
@@ -877,7 +1699,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321863,
+      "longitude": 8.5391496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "South Mission, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321863,8.5391496",
+      "google_place_id": "ChIJmf1agV-BUBARtscWy_xFSnQ"
+    }
   },
   {
     "id": "28716",
@@ -893,7 +1732,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7395985,
+      "longitude": 8.5105583,
+      "viewport": {
+        "northeast": {
+          "lat": 7.740948329892722,
+          "lng": 8.51190812989272
+        },
+        "southwest": {
+          "lat": 7.738248670107278,
+          "lng": 8.509208470107277
+        }
+      },
+      "formatted_address": "22 Sokoto Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7395985,8.5105583",
+      "google_place_id": "EjMyMiBTb2tvdG8gU3RyZWV0LCBUb3duc2hpcCA5NzAxMDEsIE1ha3VyZGksIE5pZ2VyaWEiMBIuChQKEgkPNxO4XoBQEBGdR8-L9yZ62hAWKhQKEgltlx0uX4BQEBGL7ucYnfk4xw"
+    }
   },
   {
     "id": "28717",
@@ -909,7 +1765,24 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7297859,
+      "longitude": 8.535637399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.73110797989272,
+          "lng": 8.536996629892723
+        },
+        "southwest": {
+          "lat": 7.728408320107277,
+          "lng": 8.53429697010728
+        }
+      },
+      "formatted_address": "KM 2, Gboko Road, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7297859,8.535637399999999",
+      "google_place_id": "ChIJs4MVprGBUBARQVxVd5qC5_0"
+    }
   },
   {
     "id": "28718",
@@ -925,6 +1798,23 @@
     "local_government_id": "131",
     "local_government_name": "MAKURDI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7340092,
+      "longitude": 8.5135375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735359029892723,
+          "lng": 8.514887329892721
+        },
+        "southwest": {
+          "lat": 7.732659370107279,
+          "lng": 8.512187670107277
+        }
+      },
+      "formatted_address": "60 Kano Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7340092,8.5135375",
+      "google_place_id": "EjE2MCBLYW5vIFN0cmVldCwgVG93bnNoaXAgOTcwMTAxLCBNYWt1cmRpLCBOaWdlcmlhIjASLgoUChIJbehGOluAUBAR7I-oc8K3ZPUQPCoUChIJt5pYZkSAUBARF_Oenw89tAI"
+    }
   }
 ]

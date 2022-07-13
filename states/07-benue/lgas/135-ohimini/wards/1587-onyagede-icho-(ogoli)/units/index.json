@@ -13,7 +13,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.180694899999999,
+      "longitude": 8.142951,
+      "viewport": {
+        "northeast": {
+          "lat": 7.182028979892722,
+          "lng": 8.144313229892722
+        },
+        "southwest": {
+          "lat": 7.179329320107279,
+          "lng": 8.141613570107278
+        }
+      },
+      "formatted_address": "54JV+75G, Otukpo - Ikache Rd, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.180694899999999,8.142951",
+      "google_place_id": "ChIJ8-BCQvDnWhARawW_NuKqOjs"
+    }
   },
   {
     "id": "29623",
@@ -29,7 +46,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29624",
@@ -45,7 +63,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 37.7912246,
+      "longitude": -122.4042943,
+      "viewport": {
+        "northeast": {
+          "lat": 37.79258397989272,
+          "lng": -122.4028838201073
+        },
+        "southwest": {
+          "lat": 37.78988432010728,
+          "lng": -122.4055834798928
+        }
+      },
+      "formatted_address": "333 Kearny St Floor 4, San Francisco, CA 94108, United States",
+      "google_map_url": "https://maps.google.com?q=37.7912246,-122.4042943",
+      "google_place_id": "ChIJLTmNDQaBhYAR1ps0pTkur54"
+    }
   },
   {
     "id": "29625",
@@ -61,7 +96,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.864455299999999,
+      "longitude": 7.408288299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.865912379892722,
+          "lng": 7.40956247989272
+        },
+        "southwest": {
+          "lat": 6.863212720107278,
+          "lng": 7.406862820107276
+        }
+      },
+      "formatted_address": "Nsukka - Onitsha Rd, Nsukka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.864455299999999,7.408288299999999",
+      "google_place_id": "ChIJJZf__t7nRBARfQ5mMIyiuP8"
+    }
   },
   {
     "id": "29626",
@@ -77,7 +129,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29627",
@@ -93,7 +146,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.180694899999999,
+      "longitude": 8.142951,
+      "viewport": {
+        "northeast": {
+          "lat": 7.182028979892722,
+          "lng": 8.144313229892722
+        },
+        "southwest": {
+          "lat": 7.179329320107279,
+          "lng": 8.141613570107278
+        }
+      },
+      "formatted_address": "54JV+75G, Otukpo - Ikache Rd, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.180694899999999,8.142951",
+      "google_place_id": "ChIJ8-BCQvDnWhARawW_NuKqOjs"
+    }
   },
   {
     "id": "29628",
@@ -109,7 +179,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29629",
@@ -125,6 +196,23 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   }
 ]

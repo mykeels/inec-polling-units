@@ -13,7 +13,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27605",
@@ -29,7 +30,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27606",
@@ -45,7 +47,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27607",
@@ -61,7 +64,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3182234,
+      "longitude": 9.1333326,
+      "viewport": {
+        "northeast": {
+          "lat": 7.319763979892721,
+          "lng": 9.134602429892722
+        },
+        "southwest": {
+          "lat": 7.317064320107277,
+          "lng": 9.131902770107278
+        }
+      },
+      "formatted_address": "Katsina Ala Road Buruku Tyowanye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3182234,9.1333326",
+      "google_place_id": "ChIJ2cYtJjYhWhAREFvOYB5Q30Y"
+    }
   },
   {
     "id": "27608",
@@ -77,7 +97,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27609",
@@ -93,7 +114,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27610",
@@ -109,7 +147,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "27611",
@@ -125,7 +180,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.166666999999999,
+      "longitude": 9.283332999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.168000129892721,
+          "lng": 9.284655629892722
+        },
+        "southwest": {
+          "lat": 7.165300470107277,
+          "lng": 9.281955970107278
+        }
+      },
+      "formatted_address": "578M+M88 Kenny Guest House Street, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.166666999999999,9.283332999999999",
+      "google_place_id": "ChIJe61nuv6FWRARrlvS1xqTy1k"
+    }
   },
   {
     "id": "27612",
@@ -141,7 +213,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.177526999999999,
+      "longitude": 9.279573,
+      "viewport": {
+        "northeast": {
+          "lat": 7.178802529892721,
+          "lng": 9.28112787989272
+        },
+        "southwest": {
+          "lat": 7.176102870107277,
+          "lng": 9.278428220107276
+        }
+      },
+      "formatted_address": "Unnamed Road, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.177526999999999,9.279573",
+      "google_place_id": "ChIJH2AsHOiPWRARB_bHbKqNV8I"
+    }
   },
   {
     "id": "27613",
@@ -157,7 +246,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3365128,
+      "longitude": 9.8701353,
+      "viewport": {
+        "northeast": {
+          "lat": 7.33787257989272,
+          "lng": 9.87147512989272
+        },
+        "southwest": {
+          "lat": 7.335172920107277,
+          "lng": 9.868775470107277
+        }
+      },
+      "formatted_address": "6FVF8VPC+H3V, Vingir-Utyondo, 671002, Takum, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3365128,9.8701353",
+      "google_place_id": "ChIJg9VtQ8zLWRARmAfBjbmydFs"
+    }
   },
   {
     "id": "27614",
@@ -173,7 +279,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27615",
@@ -189,7 +296,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27616",
@@ -205,7 +313,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.192730000000001,
+      "longitude": 9.236229999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.193746629892722,
+          "lng": 9.23765207989272
+        },
+        "southwest": {
+          "lat": 7.191046970107278,
+          "lng": 9.234952420107277
+        }
+      },
+      "formatted_address": "6FVF56VP+3FX DAMKOR ETULO buruku, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.192730000000001,9.236229999999999",
+      "google_place_id": "ChIJd5HpDfKJWRARKdiMPPZ-Hpg"
+    }
   },
   {
     "id": "27617",
@@ -221,7 +346,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.267045199999999,
+      "longitude": 9.7901781,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369139699999999,
+          "lng": 9.8664109
+        },
+        "southwest": {
+          "lat": 7.1495668,
+          "lng": 9.6750492
+        }
+      },
+      "formatted_address": "Mbayongo, 982102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.267045199999999,9.7901781",
+      "google_place_id": "ChIJjTrDqtm2WRARAgd8lvJE6-g"
+    }
   },
   {
     "id": "27618",
@@ -237,7 +379,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1657312,
+      "longitude": 9.295019,
+      "viewport": {
+        "northeast": {
+          "lat": 7.167002679892723,
+          "lng": 9.296392629892724
+        },
+        "southwest": {
+          "lat": 7.164303020107279,
+          "lng": 9.29369297010728
+        }
+      },
+      "formatted_address": "578W+72R, Unnamed Road, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1657312,9.295019",
+      "google_place_id": "ChIJHxI7noSFWRARP5PMdHJlF3Q"
+    }
   },
   {
     "id": "27619",
@@ -253,7 +412,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.267045199999999,
+      "longitude": 9.7901781,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369139699999999,
+          "lng": 9.8664109
+        },
+        "southwest": {
+          "lat": 7.1495668,
+          "lng": 9.6750492
+        }
+      },
+      "formatted_address": "Mbayongo, 982102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.267045199999999,9.7901781",
+      "google_place_id": "ChIJjTrDqtm2WRARAgd8lvJE6-g"
+    }
   },
   {
     "id": "27620",
@@ -269,7 +445,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.267045199999999,
+      "longitude": 9.7901781,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369139699999999,
+          "lng": 9.8664109
+        },
+        "southwest": {
+          "lat": 7.1495668,
+          "lng": 9.6750492
+        }
+      },
+      "formatted_address": "Mbayongo, 982102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.267045199999999,9.7901781",
+      "google_place_id": "ChIJjTrDqtm2WRARAgd8lvJE6-g"
+    }
   },
   {
     "id": "27621",
@@ -285,7 +478,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.175646100000001,
+      "longitude": 9.3012859,
+      "viewport": {
+        "northeast": {
+          "lat": 7.176950979892723,
+          "lng": 9.302694629892722
+        },
+        "southwest": {
+          "lat": 7.174251320107279,
+          "lng": 9.299994970107278
+        }
+      },
+      "formatted_address": "58G2+7G3, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.175646100000001,9.3012859",
+      "google_place_id": "ChIJfbtbrmCPWRARdDb7KBi6avA"
+    }
   },
   {
     "id": "27622",
@@ -301,7 +511,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 43.7195436,
+      "longitude": -79.5086372,
+      "viewport": {
+        "northeast": {
+          "lat": 43.72086957989272,
+          "lng": -79.50728632010728
+        },
+        "southwest": {
+          "lat": 43.71816992010728,
+          "lng": -79.50998597989272
+        }
+      },
+      "formatted_address": "2100 Jane St, North York, ON M3M 1A1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7195436,-79.5086372",
+      "google_place_id": "ChIJxTqZ7AQxK4gRmsn9e4oFvw0"
+    }
   },
   {
     "id": "27623",
@@ -317,7 +544,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.165038999999999,
+      "longitude": 9.353099,
+      "viewport": {
+        "northeast": {
+          "lat": 7.166391179892722,
+          "lng": 9.354387629892722
+        },
+        "southwest": {
+          "lat": 7.163691520107278,
+          "lng": 9.351687970107278
+        }
+      },
+      "formatted_address": "6FVF5983+269, tsemker, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.165038999999999,9.353099",
+      "google_place_id": "ChIJS9PFL_qFWRARm3A-eJVXgcM"
+    }
   },
   {
     "id": "27624",
@@ -333,7 +577,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.267045199999999,
+      "longitude": 9.7901781,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369139699999999,
+          "lng": 9.8664109
+        },
+        "southwest": {
+          "lat": 7.1495668,
+          "lng": 9.6750492
+        }
+      },
+      "formatted_address": "Mbayongo, 982102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.267045199999999,9.7901781",
+      "google_place_id": "ChIJjTrDqtm2WRARAgd8lvJE6-g"
+    }
   },
   {
     "id": "27625",
@@ -349,7 +610,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 43.1643744,
+      "longitude": -80.27146019999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.16570092989272,
+          "lng": -80.27004392010728
+        },
+        "southwest": {
+          "lat": 43.16300127010727,
+          "lng": -80.27274357989272
+        }
+      },
+      "formatted_address": "9 Waverly St, Brantford, ON N3R 2K2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.1643744,-80.27146019999999",
+      "google_place_id": "ChIJ7-UxpfRlLIgRE8H2dfqqjL4"
+    }
   },
   {
     "id": "27626",
@@ -365,6 +643,23 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 43.4169324,
+      "longitude": -80.5346923,
+      "viewport": {
+        "northeast": {
+          "lat": 43.41827317989273,
+          "lng": -80.53318552010728
+        },
+        "southwest": {
+          "lat": 43.41557352010728,
+          "lng": -80.53588517989273
+        }
+      },
+      "formatted_address": "55 Driftwood Dr, Kitchener, ON N2N 3A2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4169324,-80.5346923",
+      "google_place_id": "ChIJ-0rEet31K4gRW3mnHs6080c"
+    }
   }
 ]

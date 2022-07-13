@@ -13,7 +13,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
   },
   {
     "id": "26716",
@@ -29,7 +46,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
   },
   {
     "id": "26717",
@@ -45,7 +79,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.4469079,
+      "longitude": 8.8473024,
+      "viewport": {
+        "northeast": {
+          "lat": 7.4931395,
+          "lng": 8.8835146
+        },
+        "southwest": {
+          "lat": 7.401591000000001,
+          "lng": 8.8184623
+        }
+      },
+      "formatted_address": "Mbadam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4469079,8.8473024",
+      "google_place_id": "ChIJZXAZz0QTWhARnIEIb_VrvWA"
+    }
   },
   {
     "id": "26718",
@@ -61,7 +112,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.309701899999999,
+      "longitude": 8.9959771,
+      "viewport": {
+        "northeast": {
+          "lat": 7.311042579892721,
+          "lng": 8.997183179892723
+        },
+        "southwest": {
+          "lat": 7.308342920107276,
+          "lng": 8.994483520107279
+        }
+      },
+      "formatted_address": "8X5W+V9Q, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.309701899999999,8.9959771",
+      "google_place_id": "ChIJQXOgkSM9WhARr1fkwcR16jI"
+    }
   },
   {
     "id": "26719",
@@ -77,6 +145,23 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.33098,
+      "longitude": 9.0021094,
+      "viewport": {
+        "northeast": {
+          "lat": 7.332295529892723,
+          "lng": 9.003481929892724
+        },
+        "southwest": {
+          "lat": 7.329595870107279,
+          "lng": 9.00078227010728
+        }
+      },
+      "formatted_address": "82J2+9RX, Dzongo Wannune Tarka Local Government Area, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.33098,9.0021094",
+      "google_place_id": "ChIJCYznqEg9WhAR_8Bxp3nIfaI"
+    }
   }
 ]

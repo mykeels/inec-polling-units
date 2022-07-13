@@ -13,7 +13,8 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26196",
@@ -29,7 +30,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 8.5089923,
+      "longitude": 4.5331338,
+      "viewport": {
+        "northeast": {
+          "lat": 8.51032902989272,
+          "lng": 4.534503029892722
+        },
+        "southwest": {
+          "lat": 8.507629370107276,
+          "lng": 4.531803370107278
+        }
+      },
+      "formatted_address": "GG5M+J67, 240281, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5089923,4.5331338",
+      "google_place_id": "ChIJc80SQVpSNhAR2W_2yUiQ5_o"
+    }
   },
   {
     "id": "26197",
@@ -45,7 +63,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.262081,
+      "longitude": 5.2558129,
+      "viewport": {
+        "northeast": {
+          "lat": 7.263432279892721,
+          "lng": 5.257157029892721
+        },
+        "southwest": {
+          "lat": 7.260732620107277,
+          "lng": 5.254457370107278
+        }
+      },
+      "formatted_address": "7764+R7W, 340106, Oba Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.262081,5.2558129",
+      "google_place_id": "ChIJkVvVg0SQRxAR3yBimwWZn1Q"
+    }
   },
   {
     "id": "26198",
@@ -61,7 +96,8 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26199",
@@ -77,7 +113,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.547016999999999,
+      "longitude": 7.745414999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.548305679892721,
+          "lng": 7.746744479892722
+        },
+        "southwest": {
+          "lat": 7.545606020107277,
+          "lng": 7.744044820107278
+        }
+      },
+      "formatted_address": "6FV9GPWW+R53 Alifeti Oba apa Benue, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.547016999999999,7.745414999999999",
+      "google_place_id": "ChIJf-2IqtlTRRARfkawWNlOHPE"
+    }
   },
   {
     "id": "26200",
@@ -93,7 +146,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.529207,
+      "longitude": 7.819235,
+      "viewport": {
+        "northeast": {
+          "lat": 7.53062072989272,
+          "lng": 7.820542829892721
+        },
+        "southwest": {
+          "lat": 7.527921070107277,
+          "lng": 7.817843170107277
+        }
+      },
+      "formatted_address": "6FV9GRH9+MMQ, EKLA, 972107, Eekeh, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.529207,7.819235",
+      "google_place_id": "ChIJZaQs2U6zWhARvx68Afnc55Y"
+    }
   },
   {
     "id": "26201",
@@ -109,7 +179,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.547016999999999,
+      "longitude": 7.745414999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.548305679892721,
+          "lng": 7.746744479892722
+        },
+        "southwest": {
+          "lat": 7.545606020107277,
+          "lng": 7.744044820107278
+        }
+      },
+      "formatted_address": "6FV9GPWW+R53 Alifeti Oba apa Benue, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.547016999999999,7.745414999999999",
+      "google_place_id": "ChIJf-2IqtlTRRARfkawWNlOHPE"
+    }
   },
   {
     "id": "26202",
@@ -125,7 +212,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.541361,
+      "longitude": 7.7456551,
+      "viewport": {
+        "northeast": {
+          "lat": 7.54268202989272,
+          "lng": 7.747021129892723
+        },
+        "southwest": {
+          "lat": 7.539982370107277,
+          "lng": 7.744321470107279
+        }
+      },
+      "formatted_address": "6FV9GPRW+G6H Alifeti Community Oba apa Benue, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.541361,7.7456551",
+      "google_place_id": "ChIJ5_3loOVNRRARem7zcp7v9rk"
+    }
   },
   {
     "id": "26203",
@@ -141,7 +245,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 52.3761263,
+      "longitude": 4.9080686,
+      "viewport": {
+        "northeast": {
+          "lat": 52.37733357989272,
+          "lng": 4.909461529892722
+        },
+        "southwest": {
+          "lat": 52.37463392010727,
+          "lng": 4.906761870107278
+        }
+      },
+      "formatted_address": "Oosterdokskade 143, 1011 DL Amsterdam, Netherlands",
+      "google_map_url": "https://maps.google.com?q=52.3761263,4.9080686",
+      "google_place_id": "ChIJLQ3Su7oJxkcRXj5MY2GDz4Y"
+    }
   },
   {
     "id": "26204",
@@ -157,6 +278,23 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 52.3758334,
+      "longitude": 4.9083894,
+      "viewport": {
+        "northeast": {
+          "lat": 52.37752227989272,
+          "lng": 4.909480079892721
+        },
+        "southwest": {
+          "lat": 52.37482262010727,
+          "lng": 4.906780420107277
+        }
+      },
+      "formatted_address": "Oosterdokskade 143, 1011 DL Amsterdam, Netherlands",
+      "google_map_url": "https://maps.google.com?q=52.3758334,4.9083894",
+      "google_place_id": "ChIJT0cNwNcJxkcRlLTs5pP2l2s"
+    }
   }
 ]

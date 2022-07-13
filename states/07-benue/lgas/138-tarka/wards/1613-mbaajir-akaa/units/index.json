@@ -13,7 +13,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.350825899999999,
+      "longitude": 8.8362755,
+      "viewport": {
+        "northeast": {
+          "lat": 7.351780929892722,
+          "lng": 8.837165329892722
+        },
+        "southwest": {
+          "lat": 7.349081270107278,
+          "lng": 8.834465670107278
+        }
+      },
+      "formatted_address": "9R2P+8GJ, 981113, Mbasere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.350825899999999,8.8362755",
+      "google_place_id": "ChIJq6qqqqpqWhAR09t23Qtz4Q8"
+    }
   },
   {
     "id": "30058",
@@ -29,7 +46,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.887796,
+      "longitude": 9.2314492,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889132729892722,
+          "lng": 9.232796129892725
+        },
+        "southwest": {
+          "lat": 6.886433070107278,
+          "lng": 9.23009647010728
+        }
+      },
+      "formatted_address": "V6QJ+4H8, Mbaagwa Atyirkyese, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.887796,9.2314492",
+      "google_place_id": "ChIJGQZQ7lt9WRARoX3UKQHMn-A"
+    }
   },
   {
     "id": "30059",
@@ -45,7 +79,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.660609000000001,
+      "longitude": 8.895664,
+      "viewport": {
+        "northeast": {
+          "lat": 7.661968429892721,
+          "lng": 8.897045379892722
+        },
+        "southwest": {
+          "lat": 7.659268770107277,
+          "lng": 8.894345720107278
+        }
+      },
+      "formatted_address": "YIA tarka Benue, 6FVCMV6W+67V BUTER MBAKYO, Atom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.660609000000001,8.895664",
+      "google_place_id": "ChIJyRwTPugLWhARbPM1iqjF8do"
+    }
   },
   {
     "id": "30060",
@@ -61,7 +112,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7004705,
+      "longitude": 8.8234932,
+      "viewport": {
+        "northeast": {
+          "lat": 7.701820329892718,
+          "lng": 8.824843029892723
+        },
+        "southwest": {
+          "lat": 7.699120670107274,
+          "lng": 8.822143370107279
+        }
+      },
+      "formatted_address": "6FVCPR2F+59Q Ukyough Mbachaverikyondu, Amokaha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7004705,8.8234932",
+      "google_place_id": "ChIJ5Y0-QJafUBARgJY3dvzcb28"
+    }
   },
   {
     "id": "30061",
@@ -77,7 +145,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7004705,
+      "longitude": 8.8234932,
+      "viewport": {
+        "northeast": {
+          "lat": 7.701820329892718,
+          "lng": 8.824843029892723
+        },
+        "southwest": {
+          "lat": 7.699120670107274,
+          "lng": 8.822143370107279
+        }
+      },
+      "formatted_address": "6FVCPR2F+59Q Ukyough Mbachaverikyondu, Amokaha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7004705,8.8234932",
+      "google_place_id": "ChIJ5Y0-QJafUBARgJY3dvzcb28"
+    }
   },
   {
     "id": "30062",
@@ -93,7 +178,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.645095,
+      "longitude": 8.833314,
+      "viewport": {
+        "northeast": {
+          "lat": 7.646444829892724,
+          "lng": 8.834663829892722
+        },
+        "southwest": {
+          "lat": 7.64374517010728,
+          "lng": 8.831964170107279
+        }
+      },
+      "formatted_address": "6FVCJRWM+28P ASO MBAJIREKAA, Gando, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.645095,8.833314",
+      "google_place_id": "ChIJQxD08Ax1WhARUfxFxJCl9mw"
+    }
   },
   {
     "id": "30063",
@@ -109,7 +211,8 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30064",
@@ -125,6 +228,23 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.588516199999999,
+      "longitude": 8.8772129,
+      "viewport": {
+        "northeast": {
+          "lat": 7.589790029892723,
+          "lng": 8.878386629892724
+        },
+        "southwest": {
+          "lat": 7.587090370107279,
+          "lng": 8.87568697010728
+        }
+      },
+      "formatted_address": "Kilometer 35 Makurdi, along Gboko Road, Local, Government Area 981113, Wannune, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.588516199999999,8.8772129",
+      "google_place_id": "ChIJZzlhEe4ZWhAReMKLR6m52Pg"
+    }
   }
 ]

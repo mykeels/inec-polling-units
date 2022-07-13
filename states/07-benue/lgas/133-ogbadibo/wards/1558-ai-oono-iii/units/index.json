@@ -13,7 +13,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.0150842,
+      "longitude": 7.6147163,
+      "viewport": {
+        "northeast": {
+          "lat": 7.016434029892721,
+          "lng": 7.616066129892721
+        },
+        "southwest": {
+          "lat": 7.013734370107278,
+          "lng": 7.613366470107278
+        }
+      },
+      "formatted_address": "2J87+2VP, 973101, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0150842,7.6147163",
+      "google_place_id": "ChIJ78vngvbXRBAR8uw51l-dl_k"
+    }
   },
   {
     "id": "29244",
@@ -29,7 +46,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9365431,
+      "longitude": 7.461793499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.937893829892722,
+          "lng": 7.463119129892721
+        },
+        "southwest": {
+          "lat": 6.935194170107279,
+          "lng": 7.460419470107277
+        }
+      },
+      "formatted_address": "WFP6+JP7, Aguta, Olido, Enugu-ezike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9365431,7.461793499999999",
+      "google_place_id": "ChIJKR3NxMLdRBARWp9kD8qv6bU"
+    }
   },
   {
     "id": "29245",
@@ -45,7 +79,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.160563,
+      "longitude": 7.684294,
+      "viewport": {
+        "northeast": {
+          "lat": 7.162302979892721,
+          "lng": 7.685486579892722
+        },
+        "southwest": {
+          "lat": 7.159603320107276,
+          "lng": 7.682786920107278
+        }
+      },
+      "formatted_address": "6FV95M6M+6PF, Oda Aioono 3, 270107, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.160563,7.684294",
+      "google_place_id": "ChIJ8bZS58ovRRAR2w1YwIfzZk8"
+    }
   },
   {
     "id": "29246",
@@ -61,7 +112,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.116281000000001,
+      "longitude": 7.699007,
+      "viewport": {
+        "northeast": {
+          "lat": 7.117572079892722,
+          "lng": 7.700343879892722
+        },
+        "southwest": {
+          "lat": 7.114872420107278,
+          "lng": 7.697644220107278
+        }
+      },
+      "formatted_address": "6FV94M8X+GJ6, Eloga, 973101, Otukpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.116281000000001,7.699007",
+      "google_place_id": "ChIJbbj3SIctRRARvZC-lDs2LxU"
+    }
   },
   {
     "id": "29247",
@@ -77,7 +145,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1428033,
+      "longitude": 7.671868600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.144154379892722,
+          "lng": 7.67321802989272
+        },
+        "southwest": {
+          "lat": 7.141454720107278,
+          "lng": 7.670518370107276
+        }
+      },
+      "formatted_address": "4MVC+4PH, 973101, Otukpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1428033,7.671868600000001",
+      "google_place_id": "ChIJufOyGuwuRRARstmbyH65Tt4"
+    }
   },
   {
     "id": "29248",
@@ -93,7 +178,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1428033,
+      "longitude": 7.671868600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.144154379892722,
+          "lng": 7.67321802989272
+        },
+        "southwest": {
+          "lat": 7.141454720107278,
+          "lng": 7.670518370107276
+        }
+      },
+      "formatted_address": "4MVC+4PH, 973101, Otukpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1428033,7.671868600000001",
+      "google_place_id": "ChIJufOyGuwuRRARstmbyH65Tt4"
+    }
   },
   {
     "id": "29249",
@@ -109,7 +211,8 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29250",
@@ -125,7 +228,8 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29251",
@@ -141,7 +245,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.157791899999999,
+      "longitude": 7.663631499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.159407729892721,
+          "lng": 7.665389279892722
+        },
+        "southwest": {
+          "lat": 7.156708070107276,
+          "lng": 7.662689620107278
+        }
+      },
+      "formatted_address": "6FV95M57+4FM Ugo Aioono 3, 270107, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.157791899999999,7.663631499999999",
+      "google_place_id": "ChIJ88yVZbQvRRARNPsLlbf3C1A"
+    }
   },
   {
     "id": "29252",
@@ -157,7 +278,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1318718,
+      "longitude": 7.660610699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.133121879892721,
+          "lng": 7.661987179892723
+        },
+        "southwest": {
+          "lat": 7.130422220107277,
+          "lng": 7.659287520107279
+        }
+      },
+      "formatted_address": "6FV94MJ6+R72, Ubu 973101, Otukpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1318718,7.660610699999999",
+      "google_place_id": "ChIJHcMz4e0vRRARha-quvxTbLU"
+    }
   },
   {
     "id": "29253",
@@ -173,7 +311,24 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9365431,
+      "longitude": 7.461793499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.937893829892722,
+          "lng": 7.463119129892721
+        },
+        "southwest": {
+          "lat": 6.935194170107279,
+          "lng": 7.460419470107277
+        }
+      },
+      "formatted_address": "WFP6+JP7, Aguta, Olido, Enugu-ezike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9365431,7.461793499999999",
+      "google_place_id": "ChIJKR3NxMLdRBARWp9kD8qv6bU"
+    }
   },
   {
     "id": "29254",
@@ -189,6 +344,23 @@
     "local_government_id": "133",
     "local_government_name": "OGBADIBO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9365431,
+      "longitude": 7.461793499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.937893829892722,
+          "lng": 7.463119129892721
+        },
+        "southwest": {
+          "lat": 6.935194170107279,
+          "lng": 7.460419470107277
+        }
+      },
+      "formatted_address": "WFP6+JP7, Aguta, Olido, Enugu-ezike, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9365431,7.461793499999999",
+      "google_place_id": "ChIJKR3NxMLdRBARWp9kD8qv6bU"
+    }
   }
 ]

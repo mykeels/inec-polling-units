@@ -13,7 +13,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29561",
@@ -29,7 +30,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.189722799999999,
+      "longitude": 8.1402784,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191104679892721,
+          "lng": 8.14161192989272
+        },
+        "southwest": {
+          "lat": 7.188405020107277,
+          "lng": 8.138912270107276
+        }
+      },
+      "formatted_address": "54QR+V4J, Ahmadu Bello Way, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189722799999999,8.1402784",
+      "google_place_id": "ChIJh29OOwnoWhARkLIoHYPaofE"
+    }
   },
   {
     "id": "29562",
@@ -45,7 +63,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.189722799999999,
+      "longitude": 8.1402784,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191104679892721,
+          "lng": 8.14161192989272
+        },
+        "southwest": {
+          "lat": 7.188405020107277,
+          "lng": 8.138912270107276
+        }
+      },
+      "formatted_address": "54QR+V4J, Ahmadu Bello Way, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.189722799999999,8.1402784",
+      "google_place_id": "ChIJh29OOwnoWhARkLIoHYPaofE"
+    }
   },
   {
     "id": "29563",
@@ -61,7 +96,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29564",
@@ -77,6 +113,7 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]

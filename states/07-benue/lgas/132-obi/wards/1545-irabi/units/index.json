@@ -13,7 +13,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.040502999999999,
+      "longitude": 8.264816999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.041917429892721,
+          "lng": 8.266307029892722
+        },
+        "southwest": {
+          "lat": 7.039217770107277,
+          "lng": 8.263607370107279
+        }
+      },
+      "formatted_address": "6FVC27R7+6W4 Adega, 971108, Obarike Ito, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.040502999999999,8.264816999999999",
+      "google_place_id": "ChIJaRERov3jWhARAIIQ7BuXJuY"
+    }
   },
   {
     "id": "29107",
@@ -29,7 +46,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.048457000000001,
+      "longitude": 8.273927,
+      "viewport": {
+        "northeast": {
+          "lat": 7.049898679892723,
+          "lng": 8.274695529892723
+        },
+        "southwest": {
+          "lat": 7.047199020107279,
+          "lng": 8.271995870107279
+        }
+      },
+      "formatted_address": "6FVC27XF+9HM, Obijago, 971108, Obarike Ito, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.048457000000001,8.273927",
+      "google_place_id": "ChIJwZ5tLifjWhAR8BxLzbNLlkk"
+    }
   },
   {
     "id": "29108",
@@ -45,7 +79,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "29109",
@@ -61,7 +112,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.5932808,
+      "longitude": 8.6347507,
+      "viewport": {
+        "northeast": {
+          "lat": 7.594624329892722,
+          "lng": 8.636111279892722
+        },
+        "southwest": {
+          "lat": 7.591924670107278,
+          "lng": 8.633411620107278
+        }
+      },
+      "formatted_address": "Makurdi, Old Otukpo Road, Ikpayongo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5932808,8.6347507",
+      "google_place_id": "ChIJJ5AdDhB7WhARZN9U7lPvHQw"
+    }
   },
   {
     "id": "29110",
@@ -77,7 +145,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.0490101,
+      "longitude": 8.323432,
+      "viewport": {
+        "northeast": {
+          "lat": 7.050361679892722,
+          "lng": 8.324683529892724
+        },
+        "southwest": {
+          "lat": 7.047662020107278,
+          "lng": 8.32198387010728
+        }
+      },
+      "formatted_address": "28XF+J93, Otukpo - Ikache Rd, 971108, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0490101,8.323432",
+      "google_place_id": "ChIJIWGlETv9WhARowE0kmiZwF0"
+    }
   },
   {
     "id": "29111",
@@ -93,6 +178,23 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.0490101,
+      "longitude": 8.323432,
+      "viewport": {
+        "northeast": {
+          "lat": 7.050361679892722,
+          "lng": 8.324683529892724
+        },
+        "southwest": {
+          "lat": 7.047662020107278,
+          "lng": 8.32198387010728
+        }
+      },
+      "formatted_address": "28XF+J93, Otukpo - Ikache Rd, 971108, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0490101,8.323432",
+      "google_place_id": "ChIJIWGlETv9WhARowE0kmiZwF0"
+    }
   }
 ]

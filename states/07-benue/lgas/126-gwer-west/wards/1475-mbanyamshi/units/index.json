@@ -13,7 +13,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27388",
@@ -29,7 +46,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.726236999999999,
+      "longitude": 8.541065,
+      "viewport": {
+        "northeast": {
+          "lat": 7.727630729892721,
+          "lng": 8.542404729892722
+        },
+        "southwest": {
+          "lat": 7.724931070107277,
+          "lng": 8.539705070107278
+        }
+      },
+      "formatted_address": "6FVCPGGR+FCW, Wurukum 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.726236999999999,8.541065",
+      "google_place_id": "ChIJYYTL2_-BUBARRciacmft3gE"
+    }
   },
   {
     "id": "27389",
@@ -45,7 +79,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "27390",
@@ -61,7 +112,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27391",
@@ -77,6 +145,7 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]

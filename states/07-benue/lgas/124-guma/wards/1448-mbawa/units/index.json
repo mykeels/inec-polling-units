@@ -13,7 +13,8 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26993",
@@ -29,7 +30,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.735361999999999,
+      "longitude": 8.5379639,
+      "viewport": {
+        "northeast": {
+          "lat": 7.736931479892722,
+          "lng": 8.539520279892722
+        },
+        "southwest": {
+          "lat": 7.734231820107278,
+          "lng": 8.536820620107278
+        }
+      },
+      "formatted_address": "LGEA Primary School, Ankungu, after UniAgric, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.735361999999999,8.5379639",
+      "google_place_id": "ChIJhWFdyTOBUBARYRKFU-SUzdI"
+    }
   },
   {
     "id": "26994",
@@ -45,7 +63,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "26995",
@@ -61,7 +96,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.5932808,
+      "longitude": 8.6347507,
+      "viewport": {
+        "northeast": {
+          "lat": 7.594624329892722,
+          "lng": 8.636111279892722
+        },
+        "southwest": {
+          "lat": 7.591924670107278,
+          "lng": 8.633411620107278
+        }
+      },
+      "formatted_address": "Makurdi, Old Otukpo Road, Ikpayongo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5932808,8.6347507",
+      "google_place_id": "ChIJJ5AdDhB7WhARZN9U7lPvHQw"
+    }
   },
   {
     "id": "26996",
@@ -77,7 +129,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.946348,
+      "longitude": 8.576257199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.947692129892723,
+          "lng": 8.577575829892721
+        },
+        "southwest": {
+          "lat": 7.944992470107279,
+          "lng": 8.574876170107277
+        }
+      },
+      "formatted_address": "Makurdi-Lafia Rd, 970105, Nor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.946348,8.576257199999999",
+      "google_place_id": "ChIJR0J1i9ePUBARMirqY9NyHwQ"
+    }
   },
   {
     "id": "26997",
@@ -93,7 +162,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "26998",
@@ -109,7 +195,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "26999",
@@ -125,7 +228,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.153998499999999,
+      "longitude": 7.813847000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.155350179892721,
+          "lng": 7.815125679892722
+        },
+        "southwest": {
+          "lat": 7.152650520107278,
+          "lng": 7.812426020107278
+        }
+      },
+      "formatted_address": "Old Otukpo Rd, 973106, Ugbokolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.153998499999999,7.813847000000001",
+      "google_place_id": "ChIJDUfuuB3TWhARfQ2C2qgIlGA"
+    }
   },
   {
     "id": "27000",
@@ -141,7 +261,8 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27001",
@@ -157,7 +278,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9483081,
+      "longitude": 7.535596699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.949659179892721,
+          "lng": 7.53682367989272
+        },
+        "southwest": {
+          "lat": 6.946959520107277,
+          "lng": 7.534124020107276
+        }
+      },
+      "formatted_address": "WGXP+86H, 412113, Orokam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9483081,7.535596699999999",
+      "google_place_id": "ChIJLfyBlfHZRBARc-N0C7D0084"
+    }
   },
   {
     "id": "27002",
@@ -173,7 +311,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.153998499999999,
+      "longitude": 7.813847000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.155350179892721,
+          "lng": 7.815125679892722
+        },
+        "southwest": {
+          "lat": 7.152650520107278,
+          "lng": 7.812426020107278
+        }
+      },
+      "formatted_address": "Old Otukpo Rd, 973106, Ugbokolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.153998499999999,7.813847000000001",
+      "google_place_id": "ChIJDUfuuB3TWhARfQ2C2qgIlGA"
+    }
   },
   {
     "id": "27003",
@@ -189,7 +344,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.814403,
+      "longitude": 8.569693,
+      "viewport": {
+        "northeast": {
+          "lat": 7.815927029892721,
+          "lng": 8.57107687989272
+        },
+        "southwest": {
+          "lat": 7.813227370107278,
+          "lng": 8.568377220107276
+        }
+      },
+      "formatted_address": "RH79+QV8, 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.814403,8.569693",
+      "google_place_id": "ChIJnaCtzbeHUBARiLGf12pZIPw"
+    }
   },
   {
     "id": "27004",
@@ -205,7 +377,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7372033,
+      "longitude": 8.539721799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.738489129892723,
+          "lng": 8.540904379892721
+        },
+        "southwest": {
+          "lat": 7.735789470107279,
+          "lng": 8.538204720107277
+        }
+      },
+      "formatted_address": "LGEA Primary School Tse-Swam Chagu, after UniAgric, Makurdi, 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7372033,8.539721799999999",
+      "google_place_id": "ChIJQ0F4s1qBUBARzqW3_Mk2P-8"
+    }
   },
   {
     "id": "27005",
@@ -221,7 +410,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.969899999999999,
+      "longitude": 8.9199,
+      "viewport": {
+        "northeast": {
+          "lat": 7.971249829892723,
+          "lng": 8.921249829892723
+        },
+        "southwest": {
+          "lat": 7.968550170107279,
+          "lng": 8.91855017010728
+        }
+      },
+      "formatted_address": "XW99+XX2, 970104, Agasha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.969899999999999,8.9199",
+      "google_place_id": "ChIJEQEMz7W-UBARbC0RB7fn0hc"
+    }
   },
   {
     "id": "27006",
@@ -237,7 +443,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.969899999999999,
+      "longitude": 8.9199,
+      "viewport": {
+        "northeast": {
+          "lat": 7.971249829892723,
+          "lng": 8.921249829892723
+        },
+        "southwest": {
+          "lat": 7.968550170107279,
+          "lng": 8.91855017010728
+        }
+      },
+      "formatted_address": "XW99+XX2, 970104, Agasha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.969899999999999,8.9199",
+      "google_place_id": "ChIJEQEMz7W-UBARbC0RB7fn0hc"
+    }
   },
   {
     "id": "27007",
@@ -253,7 +476,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27008",
@@ -269,7 +509,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.864782000000001,
+      "longitude": 8.6653666,
+      "viewport": {
+        "northeast": {
+          "lat": 7.866131829892723,
+          "lng": 8.666716429892723
+        },
+        "southwest": {
+          "lat": 7.863432170107279,
+          "lng": 8.66401677010728
+        }
+      },
+      "formatted_address": "6FVCVM78+W4F Mbagwa comm, 971010, Aga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.864782000000001,8.6653666",
+      "google_place_id": "ChIJrWPq99CbUBARTmaYUETG1C4"
+    }
   },
   {
     "id": "27009",
@@ -285,7 +542,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.946348,
+      "longitude": 8.576257199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.947692129892723,
+          "lng": 8.577575829892721
+        },
+        "southwest": {
+          "lat": 7.944992470107279,
+          "lng": 8.574876170107277
+        }
+      },
+      "formatted_address": "Makurdi-Lafia Rd, 970105, Nor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.946348,8.576257199999999",
+      "google_place_id": "ChIJR0J1i9ePUBARMirqY9NyHwQ"
+    }
   },
   {
     "id": "27010",
@@ -301,7 +575,24 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.946348,
+      "longitude": 8.576257199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.947692129892723,
+          "lng": 8.577575829892721
+        },
+        "southwest": {
+          "lat": 7.944992470107279,
+          "lng": 8.574876170107277
+        }
+      },
+      "formatted_address": "Makurdi-Lafia Rd, 970105, Nor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.946348,8.576257199999999",
+      "google_place_id": "ChIJR0J1i9ePUBARMirqY9NyHwQ"
+    }
   },
   {
     "id": "27011",
@@ -317,6 +608,23 @@
     "local_government_id": "124",
     "local_government_name": "GUMA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.718221400000001,
+      "longitude": 8.5287227,
+      "viewport": {
+        "northeast": {
+          "lat": 7.719541329892722,
+          "lng": 8.53008247989272
+        },
+        "southwest": {
+          "lat": 7.716841670107279,
+          "lng": 8.527382820107276
+        }
+      },
+      "formatted_address": "Entrepreneurship Development Center, No. 8 Jonah Jang Cres, High Level 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.718221400000001,8.5287227",
+      "google_place_id": "ChIJnxEmMMuBUBARmhtf0MGyBXc"
+    }
   }
 ]

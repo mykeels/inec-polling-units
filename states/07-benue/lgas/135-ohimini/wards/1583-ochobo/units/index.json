@@ -13,7 +13,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "29583",
@@ -29,7 +46,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29584",
@@ -45,7 +63,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29585",
@@ -61,7 +80,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29586",
@@ -77,7 +97,24 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1648106,
+      "longitude": 7.9331235,
+      "viewport": {
+        "northeast": {
+          "lat": 7.16615312989272,
+          "lng": 7.934443379892722
+        },
+        "southwest": {
+          "lat": 7.163453470107276,
+          "lng": 7.931743720107278
+        }
+      },
+      "formatted_address": "5W7M+W6H, 972103, Ochobo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1648106,7.9331235",
+      "google_place_id": "ChIJmeNESUPQWhAR5rEzacA67pU"
+    }
   },
   {
     "id": "29587",
@@ -93,7 +130,8 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29588",
@@ -109,6 +147,7 @@
     "local_government_id": "135",
     "local_government_name": "OHIMINI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]

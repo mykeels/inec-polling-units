@@ -13,7 +13,8 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29189",
@@ -29,7 +30,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.0245017,
+      "longitude": 8.3243141,
+      "viewport": {
+        "northeast": {
+          "lat": 7.025844079892722,
+          "lng": 8.325597779892723
+        },
+        "southwest": {
+          "lat": 7.023144420107277,
+          "lng": 8.32289812010728
+        }
+      },
+      "formatted_address": "28FF+RP4, Otukpo - Ikache Rd, 971108, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0245017,8.3243141",
+      "google_place_id": "ChIJJUHs41v9WhAR5DGznns6YQE"
+    }
   },
   {
     "id": "29190",
@@ -45,7 +63,8 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29191",
@@ -61,7 +80,8 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29192",
@@ -77,7 +97,8 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29193",
@@ -93,7 +114,8 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "29194",
@@ -109,7 +131,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.9313122,
+      "longitude": 8.336168299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.932665029892721,
+          "lng": 8.337524279892722
+        },
+        "southwest": {
+          "lat": 6.929965370107277,
+          "lng": 8.334824620107279
+        }
+      },
+      "formatted_address": "6FRCW8JP+GFX Ohuma Ito, 971106, Adum East, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9313122,8.336168299999999",
+      "google_place_id": "ChIJO_--LCAFWxARf-Jav2vUP9c"
+    }
   },
   {
     "id": "29195",
@@ -125,7 +164,24 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2099597,
+      "longitude": 8.1237032,
+      "viewport": {
+        "northeast": {
+          "lat": 7.211321079892721,
+          "lng": 8.125054429892723
+        },
+        "southwest": {
+          "lat": 7.208621420107277,
+          "lng": 8.122354770107279
+        }
+      },
+      "formatted_address": "2, 6FVC645F+WCP Eupi, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2099597,8.1237032",
+      "google_place_id": "ChIJGcdErLzCWhARF59q3uTynU4"
+    }
   },
   {
     "id": "29196",
@@ -141,6 +197,23 @@
     "local_government_id": "132",
     "local_government_name": "OBI",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.922077,
+      "longitude": 8.302363,
+      "viewport": {
+        "northeast": {
+          "lat": 6.923418329892722,
+          "lng": 8.303692629892721
+        },
+        "southwest": {
+          "lat": 6.920718670107278,
+          "lng": 8.300992970107277
+        }
+      },
+      "formatted_address": "6FRCW8C2+RWQ, Oyinyi, 971106, Adum East, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.922077,8.302363",
+      "google_place_id": "ChIJFWvy_Z8bWxARBXhmx7s6RHA"
+    }
   }
 ]

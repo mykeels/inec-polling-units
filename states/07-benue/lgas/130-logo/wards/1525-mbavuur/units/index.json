@@ -13,7 +13,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.6398421,
+      "longitude": 9.4540641,
+      "viewport": {
+        "northeast": {
+          "lat": 7.641194329892722,
+          "lng": 9.45539137989272
+        },
+        "southwest": {
+          "lat": 7.638494670107277,
+          "lng": 9.452691720107277
+        }
+      },
+      "formatted_address": "JFQ3+WJM, 980103, Tsebaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6398421,9.4540641",
+      "google_place_id": "ChIJ6Y26-iriWRAR7kNWpgXaa0g"
+    }
   },
   {
     "id": "28410",
@@ -29,7 +46,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.667567699999998,
+      "longitude": 8.958435999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.66917042989272,
+          "lng": 8.959403079892722
+        },
+        "southwest": {
+          "lat": 7.666470770107276,
+          "lng": 8.956703420107278
+        }
+      },
+      "formatted_address": "6FVCMX95+29F Manger Mbgeryerbev tarka Benue, 981112, Wanzum Amagwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.667567699999998,8.958435999999999",
+      "google_place_id": "ChIJM_syIAQJWhARnavit7PUzFk"
+    }
   },
   {
     "id": "28411",
@@ -45,7 +79,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.745076200000001,
+      "longitude": 8.5125654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.746422029892723,
+          "lng": 8.513893929892722
+        },
+        "southwest": {
+          "lat": 7.743722370107279,
+          "lng": 8.511194270107278
+        }
+      },
+      "formatted_address": "6 Port Harcourt Street, behind Mc Carthy Stadium, 970211, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.745076200000001,8.5125654",
+      "google_place_id": "ChIJZyQybPaAUBAR_zpiOZJnJXg"
+    }
   },
   {
     "id": "28412",
@@ -61,7 +112,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7161234,
+      "longitude": 9.308391799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.717548229892722,
+          "lng": 9.309733679892721
+        },
+        "southwest": {
+          "lat": 7.714848570107279,
+          "lng": 9.307034020107277
+        }
+      },
+      "formatted_address": "6FVFP885+F9F, Abeda, 980102, Akwana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7161234,9.308391799999999",
+      "google_place_id": "ChIJoZU05rBXVxAR5ls9bBESLR4"
+    }
   },
   {
     "id": "28413",
@@ -77,7 +145,8 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28414",
@@ -93,7 +162,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "28415",
@@ -109,7 +195,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321863,
+      "longitude": 8.5391496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "6 Saawuan Kpagh Street, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321863,8.5391496",
+      "google_place_id": "ChIJ1UBVm22vUBARvInUaIC2Oo8"
+    }
   },
   {
     "id": "28416",
@@ -125,7 +228,8 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28417",
@@ -141,7 +245,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.33582,
+      "longitude": 9.041061,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337153629892722,
+          "lng": 9.042414779892722
+        },
+        "southwest": {
+          "lat": 7.334453970107278,
+          "lng": 9.039715120107278
+        }
+      },
+      "formatted_address": "6FVF82PR+8CF MBAKPEGH gboko Benue, AHWA, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.33582,9.041061",
+      "google_place_id": "ChIJz0BlemojWhAR9_B10F6uDzo"
+    }
   },
   {
     "id": "28418",
@@ -157,7 +278,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.316474299999999,
+      "longitude": 9.0473731,
+      "viewport": {
+        "northeast": {
+          "lat": 7.317836729892721,
+          "lng": 9.048905579892724
+        },
+        "southwest": {
+          "lat": 7.315137070107277,
+          "lng": 9.04620592010728
+        }
+      },
+      "formatted_address": "828W+HWQ, 981113, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.316474299999999,9.0473731",
+      "google_place_id": "ChIJg71sOPAiWhAR_ptKxTXLWlU"
+    }
   },
   {
     "id": "28419",
@@ -173,7 +311,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.733945799999999,
+      "longitude": 8.515733899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735548779892722,
+          "lng": 8.51750162989272
+        },
+        "southwest": {
+          "lat": 7.732849120107278,
+          "lng": 8.514801970107277
+        }
+      },
+      "formatted_address": "PGM8+H7H, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.733945799999999,8.515733899999999",
+      "google_place_id": "ChIJLdcewFqAUBARXDFcUxYOUbQ"
+    }
   },
   {
     "id": "28420",
@@ -189,7 +344,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "28421",
@@ -205,7 +377,8 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28422",
@@ -221,7 +394,8 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28423",
@@ -237,7 +411,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.707061200000001,
+      "longitude": 8.5157217,
+      "viewport": {
+        "northeast": {
+          "lat": 7.708426179892723,
+          "lng": 8.51700077989272
+        },
+        "southwest": {
+          "lat": 7.705726520107279,
+          "lng": 8.514301120107277
+        }
+      },
+      "formatted_address": "PG48+R8F, High Level 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.707061200000001,8.5157217",
+      "google_place_id": "ChIJ____vyWAUBARINLJHsbHX1M"
+    }
   },
   {
     "id": "28424",
@@ -253,7 +444,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7161234,
+      "longitude": 9.308391799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.717548229892722,
+          "lng": 9.309733679892721
+        },
+        "southwest": {
+          "lat": 7.714848570107279,
+          "lng": 9.307034020107277
+        }
+      },
+      "formatted_address": "6FVFP885+F9F, Abeda, 980102, Akwana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7161234,9.308391799999999",
+      "google_place_id": "ChIJoZU05rBXVxAR5ls9bBESLR4"
+    }
   },
   {
     "id": "28425",
@@ -269,7 +477,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.745076200000001,
+      "longitude": 8.5125654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.746422029892723,
+          "lng": 8.513893929892722
+        },
+        "southwest": {
+          "lat": 7.743722370107279,
+          "lng": 8.511194270107278
+        }
+      },
+      "formatted_address": "6 Port Harcourt Street, behind Mc Carthy Stadium, 970211, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.745076200000001,8.5125654",
+      "google_place_id": "ChIJZyQybPaAUBAR_zpiOZJnJXg"
+    }
   },
   {
     "id": "28426",
@@ -285,7 +510,24 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.643529000000001,
+      "longitude": 9.528861,
+      "viewport": {
+        "northeast": {
+          "lat": 7.644887329892723,
+          "lng": 9.530229229892722
+        },
+        "southwest": {
+          "lat": 7.642187670107279,
+          "lng": 9.527529570107278
+        }
+      },
+      "formatted_address": "6FVFJGVH+CG9, Gbagir, 980109, Zaki Biam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.643529000000001,9.528861",
+      "google_place_id": "ChIJ9Z8gXwnhWRAR4PAE_4XtljA"
+    }
   },
   {
     "id": "28427",
@@ -301,6 +543,23 @@
     "local_government_id": "130",
     "local_government_name": "LOGO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   }
 ]

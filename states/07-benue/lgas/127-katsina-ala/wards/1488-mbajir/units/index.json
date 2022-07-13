@@ -13,7 +13,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.177526999999999,
+      "longitude": 9.279573,
+      "viewport": {
+        "northeast": {
+          "lat": 7.178802529892721,
+          "lng": 9.28112787989272
+        },
+        "southwest": {
+          "lat": 7.176102870107277,
+          "lng": 9.278428220107276
+        }
+      },
+      "formatted_address": "Unnamed Road, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.177526999999999,9.279573",
+      "google_place_id": "ChIJH2AsHOiPWRARB_bHbKqNV8I"
+    }
   },
   {
     "id": "27579",
@@ -29,7 +46,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.586459099999999,
+      "longitude": 9.9022104,
+      "viewport": {
+        "northeast": {
+          "lat": 7.588004829892722,
+          "lng": 9.904543599999997
+        },
+        "southwest": {
+          "lat": 7.585305170107278,
+          "lng": 9.901236800000001
+        }
+      },
+      "formatted_address": "6FVFHWP2+GRP, Sai, 671002, Sai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.586459099999999,9.9022104",
+      "google_place_id": "ChIJua3U7cUrWBARbwfit3uerDI"
+    }
   },
   {
     "id": "27580",
@@ -45,7 +79,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27581",
@@ -61,7 +96,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.533656,
+      "longitude": 9.909849999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.538142349999999,
+          "lng": 9.911382849999999
+        },
+        "southwest": {
+          "lat": 7.53216055,
+          "lng": 9.905251450000002
+        }
+      },
+      "formatted_address": "6FVFGWM5+FW9 Ugande Mbajir, katsina ala Benue, Chenchenji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.533656,9.909849999999999",
+      "google_place_id": "ChIJXxfCE28tWBAR-g0JXocHxMU"
+    }
   },
   {
     "id": "27582",
@@ -77,7 +129,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.6060333,
+      "longitude": 9.9017621,
+      "viewport": {
+        "northeast": {
+          "lat": 7.607312029892721,
+          "lng": 9.903794979892723
+        },
+        "southwest": {
+          "lat": 7.604612370107278,
+          "lng": 9.901095320107279
+        }
+      },
+      "formatted_address": "Wukari-Takum Rd, 671002, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6060333,9.9017621",
+      "google_place_id": "ChIJa59Oq0orWBARFXCUQ0cnLqU"
+    }
   },
   {
     "id": "27583",
@@ -93,7 +162,8 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27584",
@@ -109,7 +179,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.406589,
+      "longitude": 9.749138,
+      "viewport": {
+        "northeast": {
+          "lat": 7.407938829892724,
+          "lng": 9.750487829892725
+        },
+        "southwest": {
+          "lat": 7.40523917010728,
+          "lng": 9.747788170107281
+        }
+      },
+      "formatted_address": "6FVFCP4X+JMJ Agee Utange katsina ala, Zaki Biam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.406589,9.749138",
+      "google_place_id": "ChIJa50XPL7JWRAREWe7avOK-4g"
+    }
   },
   {
     "id": "27585",
@@ -125,7 +212,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3182234,
+      "longitude": 9.1333326,
+      "viewport": {
+        "northeast": {
+          "lat": 7.319763979892721,
+          "lng": 9.134602429892722
+        },
+        "southwest": {
+          "lat": 7.317064320107277,
+          "lng": 9.131902770107278
+        }
+      },
+      "formatted_address": "Katsina Ala Road Buruku Tyowanye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3182234,9.1333326",
+      "google_place_id": "ChIJ2cYtJjYhWhAREFvOYB5Q30Y"
+    }
   },
   {
     "id": "27586",
@@ -141,7 +245,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.52269,
+      "longitude": 9.528682,
+      "viewport": {
+        "northeast": {
+          "lat": 7.524039829892722,
+          "lng": 9.530031829892721
+        },
+        "southwest": {
+          "lat": 7.521340170107278,
+          "lng": 9.527332170107277
+        }
+      },
+      "formatted_address": "6FVFGGFH+3FF Tse-Asen Iwar katsina ala, Zaki Biam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.52269,9.528682",
+      "google_place_id": "ChIJf-N1x2XnWRARbG3xRgjCBok"
+    }
   },
   {
     "id": "27587",
@@ -157,7 +278,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.537897099999999,
+      "longitude": 9.8515593,
+      "viewport": {
+        "northeast": {
+          "lat": 7.563143200000001,
+          "lng": 9.873162899999999
+        },
+        "southwest": {
+          "lat": 7.5224214,
+          "lng": 9.8326648
+        }
+      },
+      "formatted_address": "Mbajir, 982102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.537897099999999,9.8515593",
+      "google_place_id": "ChIJrzAjtlTSWRARW50KrDX3ZZk"
+    }
   },
   {
     "id": "27588",
@@ -173,7 +311,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1657312,
+      "longitude": 9.295019,
+      "viewport": {
+        "northeast": {
+          "lat": 7.167002679892723,
+          "lng": 9.296392629892724
+        },
+        "southwest": {
+          "lat": 7.164303020107279,
+          "lng": 9.29369297010728
+        }
+      },
+      "formatted_address": "578W+72R, Unnamed Road, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1657312,9.295019",
+      "google_place_id": "ChIJHxI7noSFWRARP5PMdHJlF3Q"
+    }
   },
   {
     "id": "27589",
@@ -189,7 +344,24 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1657312,
+      "longitude": 9.295019,
+      "viewport": {
+        "northeast": {
+          "lat": 7.167002679892723,
+          "lng": 9.296392629892724
+        },
+        "southwest": {
+          "lat": 7.164303020107279,
+          "lng": 9.29369297010728
+        }
+      },
+      "formatted_address": "578W+72R, Unnamed Road, 982102, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1657312,9.295019",
+      "google_place_id": "ChIJHxI7noSFWRARP5PMdHJlF3Q"
+    }
   },
   {
     "id": "27590",
@@ -205,6 +377,23 @@
     "local_government_id": "127",
     "local_government_name": "KATSINA-ALA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.167645,
+      "longitude": 9.268775999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.168897229892722,
+          "lng": 9.270214429892722
+        },
+        "southwest": {
+          "lat": 7.166197570107278,
+          "lng": 9.267514770107278
+        }
+      },
+      "formatted_address": "6FVF5799+3G2 Township Township, 981118, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.167645,9.268775999999999",
+      "google_place_id": "ChIJAdhJua2HWRAREIp3QUsbxmo"
+    }
   }
 ]

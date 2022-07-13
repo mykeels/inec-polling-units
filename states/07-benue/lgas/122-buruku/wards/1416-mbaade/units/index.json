@@ -13,7 +13,8 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26289",
@@ -29,7 +30,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.145007,
+      "longitude": 9.191378000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.146600729892723,
+          "lng": 9.19227142989272
+        },
+        "southwest": {
+          "lat": 7.143901070107279,
+          "lng": 9.189571770107277
+        }
+      },
+      "formatted_address": "6FVF45WR+2H2 Denen Tofi Mbaade buruku, Katsina Ala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.145007,9.191378000000002",
+      "google_place_id": "ChIJ409ZrTWHWRARlUS_QxGe2v0"
+    }
   },
   {
     "id": "26290",
@@ -45,7 +63,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.481506,
+      "longitude": 9.206311999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.482851279892721,
+          "lng": 9.207626829892723
+        },
+        "southwest": {
+          "lat": 7.480151620107277,
+          "lng": 9.204927170107279
+        }
+      },
+      "formatted_address": "6FVFF6J4+JG3, ISHOM, 981114, Buruku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.481506,9.206311999999999",
+      "google_place_id": "ChIJrwp96EP3WRARXMB7-zp4-ko"
+    }
   },
   {
     "id": "26291",
@@ -61,7 +96,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.429597999999999,
+      "longitude": 9.259731,
+      "viewport": {
+        "northeast": {
+          "lat": 7.430990879892724,
+          "lng": 9.26111162989272
+        },
+        "southwest": {
+          "lat": 7.42829122010728,
+          "lng": 9.258411970107277
+        }
+      },
+      "formatted_address": "6FVFC7H5+RVQ Ortese Mbashian, 981114, Buruku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.429597999999999,9.259731",
+      "google_place_id": "ChIJO8mxijL3WRARnxoXBj3qkE0"
+    }
   },
   {
     "id": "26292",
@@ -77,7 +129,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "26293",
@@ -93,7 +162,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "26294",
@@ -109,7 +195,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.429597999999999,
+      "longitude": 9.259731,
+      "viewport": {
+        "northeast": {
+          "lat": 7.430990879892724,
+          "lng": 9.26111162989272
+        },
+        "southwest": {
+          "lat": 7.42829122010728,
+          "lng": 9.258411970107277
+        }
+      },
+      "formatted_address": "6FVFC7H5+RVQ Ortese Mbashian, 981114, Buruku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.429597999999999,9.259731",
+      "google_place_id": "ChIJO8mxijL3WRARnxoXBj3qkE0"
+    }
   },
   {
     "id": "26295",
@@ -125,7 +228,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.429597999999999,
+      "longitude": 9.259731,
+      "viewport": {
+        "northeast": {
+          "lat": 7.430990879892724,
+          "lng": 9.26111162989272
+        },
+        "southwest": {
+          "lat": 7.42829122010728,
+          "lng": 9.258411970107277
+        }
+      },
+      "formatted_address": "6FVFC7H5+RVQ Ortese Mbashian, 981114, Buruku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.429597999999999,9.259731",
+      "google_place_id": "ChIJO8mxijL3WRARnxoXBj3qkE0"
+    }
   },
   {
     "id": "26296",
@@ -141,7 +261,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7284853,
+      "longitude": 8.5559192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.729836929892723,
+          "lng": 8.557442779892723
+        },
+        "southwest": {
+          "lat": 7.727137270107279,
+          "lng": 8.554743120107279
+        }
+      },
+      "formatted_address": "PHH4+99V, Gboko Road, Walmayo 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7284853,8.5559192",
+      "google_place_id": "ChIJIVcX75aBUBARI7_T4GiFPLw"
+    }
   },
   {
     "id": "26297",
@@ -157,7 +294,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.429597999999999,
+      "longitude": 9.259731,
+      "viewport": {
+        "northeast": {
+          "lat": 7.430990879892724,
+          "lng": 9.26111162989272
+        },
+        "southwest": {
+          "lat": 7.42829122010728,
+          "lng": 9.258411970107277
+        }
+      },
+      "formatted_address": "6FVFC7H5+RVQ Ortese Mbashian, 981114, Buruku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.429597999999999,9.259731",
+      "google_place_id": "ChIJO8mxijL3WRARnxoXBj3qkE0"
+    }
   },
   {
     "id": "26298",
@@ -173,7 +327,24 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3182234,
+      "longitude": 9.1333326,
+      "viewport": {
+        "northeast": {
+          "lat": 7.319763979892721,
+          "lng": 9.134602429892722
+        },
+        "southwest": {
+          "lat": 7.317064320107277,
+          "lng": 9.131902770107278
+        }
+      },
+      "formatted_address": "Katsina Ala Road Buruku Tyowanye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3182234,9.1333326",
+      "google_place_id": "ChIJ2cYtJjYhWhAREFvOYB5Q30Y"
+    }
   },
   {
     "id": "26299",
@@ -189,7 +360,8 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26300",
@@ -205,6 +377,7 @@
     "local_government_id": "122",
     "local_government_name": "BURUKU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]

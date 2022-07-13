@@ -13,7 +13,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.582694899999999,
+      "longitude": 8.204885299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.583778429892721,
+          "lng": 8.206376179892722
+        },
+        "southwest": {
+          "lat": 7.581078770107277,
+          "lng": 8.203676520107278
+        }
+      },
+      "formatted_address": "H6M3+3WX, ANTSA Quarters, Naka Gwer West Local Government Area, Benue, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.582694899999999,8.204885299999999",
+      "google_place_id": "ChIJVVVVVXGZWhARaKtScX5M35U"
+    }
   },
   {
     "id": "27372",
@@ -29,7 +46,8 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27373",
@@ -45,7 +63,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.686232,
+      "longitude": 8.197330299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.687589479892722,
+          "lng": 8.198764429892721
+        },
+        "southwest": {
+          "lat": 7.684889820107278,
+          "lng": 8.196064770107277
+        }
+      },
+      "formatted_address": "M5PW+GW3, 971102, Naka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.686232,8.197330299999999",
+      "google_place_id": "ChIJFa-atuifWhAR0AirdCnx83c"
+    }
   },
   {
     "id": "27374",
@@ -61,7 +96,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.644227199999999,
+      "longitude": 8.2022952,
+      "viewport": {
+        "northeast": {
+          "lat": 7.645577029892722,
+          "lng": 8.203645029892723
+        },
+        "southwest": {
+          "lat": 7.642877370107279,
+          "lng": 8.200945370107279
+        }
+      },
+      "formatted_address": "6FVCJ6V2+MVW, Mbashomgba, 971102, Naka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.644227199999999,8.2022952",
+      "google_place_id": "ChIJgT_LuHafWhARdJ48txIQUno"
+    }
   },
   {
     "id": "27375",
@@ -77,7 +129,8 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27376",
@@ -93,7 +146,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.649234300000001,
+      "longitude": 8.1157513,
+      "viewport": {
+        "northeast": {
+          "lat": 7.650721629892722,
+          "lng": 8.117016829892721
+        },
+        "southwest": {
+          "lat": 7.648021970107278,
+          "lng": 8.114317170107277
+        }
+      },
+      "formatted_address": "6FVCJ4X8+M7P, Mbahobo Atseke, 971102, Naka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.649234300000001,8.1157513",
+      "google_place_id": "ChIJqVcunfuhWhARwdAHO3vWMbM"
+    }
   },
   {
     "id": "27377",
@@ -109,6 +179,23 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   }
 ]

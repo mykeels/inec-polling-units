@@ -13,7 +13,24 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.830622999999999,
+      "longitude": 7.870814,
+      "viewport": {
+        "northeast": {
+          "lat": 7.832014679892723,
+          "lng": 7.872106429892723
+        },
+        "southwest": {
+          "lat": 7.829315020107279,
+          "lng": 7.869406770107279
+        }
+      },
+      "formatted_address": "6FV9RVJC+68W, 972108, Oshigbudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.830622999999999,7.870814",
+      "google_place_id": "ChIJGduzuusDUBARPhRphi46Wb4"
+    }
   },
   {
     "id": "26100",
@@ -29,7 +46,24 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.830622999999999,
+      "longitude": 7.870814,
+      "viewport": {
+        "northeast": {
+          "lat": 7.832014679892723,
+          "lng": 7.872106429892723
+        },
+        "southwest": {
+          "lat": 7.829315020107279,
+          "lng": 7.869406770107279
+        }
+      },
+      "formatted_address": "6FV9RVJC+68W, 972108, Oshigbudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.830622999999999,7.870814",
+      "google_place_id": "ChIJGduzuusDUBARPhRphi46Wb4"
+    }
   },
   {
     "id": "26101",
@@ -45,7 +79,24 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.854824199999999,
+      "longitude": 7.8889722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.856104179892721,
+          "lng": 7.890585829892721
+        },
+        "southwest": {
+          "lat": 7.853404520107278,
+          "lng": 7.887886170107278
+        }
+      },
+      "formatted_address": "6FV9VV3Q+WHH, Ayele 972108, Aiyeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.854824199999999,7.8889722",
+      "google_place_id": "ChIJ7ddv_ZcFUBARhj0p6t-cqfY"
+    }
   },
   {
     "id": "26102",
@@ -61,7 +112,8 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26103",
@@ -77,7 +129,24 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.823353399999999,
+      "longitude": 7.895375899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824871229892721,
+          "lng": 7.896762529892721
+        },
+        "southwest": {
+          "lat": 7.822171570107277,
+          "lng": 7.894062870107277
+        }
+      },
+      "formatted_address": "6FV9RVFW+952, Atakpa, 972108, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.823353399999999,7.895375899999999",
+      "google_place_id": "ChIJA3CJUqUFUBARGflSGtWDE2s"
+    }
   },
   {
     "id": "26104",
@@ -93,7 +162,24 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.851432000000001,
+      "longitude": 7.852214999999998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.852796379892721,
+          "lng": 7.853557229892722
+        },
+        "southwest": {
+          "lat": 7.850096720107278,
+          "lng": 7.850857570107278
+        }
+      },
+      "formatted_address": "6FV9VV22+HVG, Igoje 972108, Oshigbudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.851432000000001,7.852214999999998",
+      "google_place_id": "ChIJsbDBJ_4DUBARZXHmVTWqHaA"
+    }
   },
   {
     "id": "26105",
@@ -109,6 +195,23 @@
     "local_government_id": "120",
     "local_government_name": "AGATU",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.829460099999999,
+      "longitude": 7.8708531,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830802479892721,
+          "lng": 7.872203179892721
+        },
+        "southwest": {
+          "lat": 7.828102820107278,
+          "lng": 7.869503520107277
+        }
+      },
+      "formatted_address": "Old Market Square, Oshigbudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.829460099999999,7.8708531",
+      "google_place_id": "ChIJsRhFXhkDUBAR02ns0857Xps"
+    }
   }
 ]

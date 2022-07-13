@@ -13,7 +13,8 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30913",
@@ -29,7 +30,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.6922237,
+      "longitude": 9.1485811,
+      "viewport": {
+        "northeast": {
+          "lat": 6.693716429892721,
+          "lng": 9.149728229892723
+        },
+        "southwest": {
+          "lat": 6.691016770107277,
+          "lng": 9.14702857010728
+        }
+      },
+      "formatted_address": "Vande Ikya - Abanliko Rd, 982112, Mbacub, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6922237,9.1485811",
+      "google_place_id": "ChIJV2BK-JXfWxARYiIuutkwois"
+    }
   },
   {
     "id": "30914",
@@ -45,7 +63,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.827471000000001,
+      "longitude": 9.0596712,
+      "viewport": {
+        "northeast": {
+          "lat": 6.828836929892722,
+          "lng": 9.061026679892722
+        },
+        "southwest": {
+          "lat": 6.826137270107278,
+          "lng": 9.058327020107278
+        }
+      },
+      "formatted_address": "R3G5+XVM, 982110, Vande Ikya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.827471000000001,9.0596712",
+      "google_place_id": "ChIJax42sY7bWxARpXf6RWBTCSg"
+    }
   },
   {
     "id": "30915",
@@ -61,7 +96,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.795696,
+      "longitude": 9.058444999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.797045879892723,
+          "lng": 9.059794779892721
+        },
+        "southwest": {
+          "lat": 6.794346220107279,
+          "lng": 9.057095120107277
+        }
+      },
+      "formatted_address": "Q3W5+79G, 982106, Vande Ikya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.795696,9.058444999999999",
+      "google_place_id": "ChIJjWnln1XaWxAREWYrVb_Wf0M"
+    }
   },
   {
     "id": "30916",
@@ -77,7 +129,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.8792921,
+      "longitude": 9.067806700000002,
+      "viewport": {
+        "northeast": {
+          "lat": 6.880578029892722,
+          "lng": 9.069122879892722
+        },
+        "southwest": {
+          "lat": 6.877878370107277,
+          "lng": 9.066423220107279
+        }
+      },
+      "formatted_address": "6FRFV3H9+M3G, Ivange, 982111, Mbara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8792921,9.067806700000002",
+      "google_place_id": "ChIJgRst9dzRWxARcBCAfMw03wQ"
+    }
   },
   {
     "id": "30917",
@@ -93,7 +162,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.1281896,
+      "longitude": 8.5777739,
+      "viewport": {
+        "northeast": {
+          "lat": 7.129631979892722,
+          "lng": 8.578945129892722
+        },
+        "southwest": {
+          "lat": 7.126932320107279,
+          "lng": 8.576245470107278
+        }
+      },
+      "formatted_address": "6FVC4HHH+834 Gungul Mbaakyase, Ayakpa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1281896,8.5777739",
+      "google_place_id": "ChIJEYXVDf5RWhAR_taIdXGxQOo"
+    }
   },
   {
     "id": "30918",
@@ -109,7 +195,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.7786839,
+      "longitude": 9.048828,
+      "viewport": {
+        "northeast": {
+          "lat": 6.780164079892722,
+          "lng": 9.050261029892722
+        },
+        "southwest": {
+          "lat": 6.777464420107278,
+          "lng": 9.047561370107278
+        }
+      },
+      "formatted_address": "6FRFQ2HX+CGQ, 982107, Vande Ikya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7786839,9.048828",
+      "google_place_id": "ChIJ55ZazrHbWxAR33hJJmhN24g"
+    }
   },
   {
     "id": "30919",
@@ -125,7 +228,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3271182,
+      "longitude": 8.9886403,
+      "viewport": {
+        "northeast": {
+          "lat": 7.328423379892721,
+          "lng": 8.990047579892721
+        },
+        "southwest": {
+          "lat": 7.325723720107277,
+          "lng": 8.987347920107277
+        }
+      },
+      "formatted_address": "43 Makir Zakpe Way, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3271182,8.9886403",
+      "google_place_id": "ChIJFdRC9Tw9WhARNucsF5JXZJA"
+    }
   },
   {
     "id": "30920",
@@ -141,7 +261,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 40.7386275,
+      "longitude": -73.9887668,
+      "viewport": {
+        "northeast": {
+          "lat": 40.73999062989272,
+          "lng": -73.98740357010726
+        },
+        "southwest": {
+          "lat": 40.73729097010728,
+          "lng": -73.99010322989271
+        }
+      },
+      "formatted_address": "34 E 20th St, New York, NY 10003, United States",
+      "google_map_url": "https://maps.google.com?q=40.7386275,-73.9887668",
+      "google_place_id": "ChIJ5-VqgKFZwokR7_6eCK4IsUI"
+    }
   },
   {
     "id": "30921",
@@ -157,7 +294,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.799038299999999,
+      "longitude": 9.0539766,
+      "viewport": {
+        "northeast": {
+          "lat": 6.800344079892722,
+          "lng": 9.05528137989272
+        },
+        "southwest": {
+          "lat": 6.797644420107278,
+          "lng": 9.052581720107277
+        }
+      },
+      "formatted_address": "Unnamed Rd, 982106, Vande Ikya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.799038299999999,9.0539766",
+      "google_place_id": "ChIJ515RL_naWxARUgoKzvI6tok"
+    }
   },
   {
     "id": "30922",
@@ -173,7 +327,24 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.8792921,
+      "longitude": 9.067806700000002,
+      "viewport": {
+        "northeast": {
+          "lat": 6.880578029892722,
+          "lng": 9.069122879892722
+        },
+        "southwest": {
+          "lat": 6.877878370107277,
+          "lng": 9.066423220107279
+        }
+      },
+      "formatted_address": "6FRFV3H9+M3G, Ivange, 982111, Mbara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8792921,9.067806700000002",
+      "google_place_id": "ChIJgRst9dzRWxARcBCAfMw03wQ"
+    }
   },
   {
     "id": "30923",
@@ -189,6 +360,23 @@
     "local_government_id": "141",
     "local_government_name": "VANDEIKYA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.799038299999999,
+      "longitude": 9.0539766,
+      "viewport": {
+        "northeast": {
+          "lat": 6.800344079892722,
+          "lng": 9.05528137989272
+        },
+        "southwest": {
+          "lat": 6.797644420107278,
+          "lng": 9.052581720107277
+        }
+      },
+      "formatted_address": "Unnamed Rd, 982106, Vande Ikya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.799038299999999,9.0539766",
+      "google_place_id": "ChIJ515RL_naWxARUgoKzvI6tok"
+    }
   }
 ]

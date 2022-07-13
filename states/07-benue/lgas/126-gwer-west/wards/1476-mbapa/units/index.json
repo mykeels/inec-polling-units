@@ -13,7 +13,8 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27393",
@@ -29,7 +30,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27394",
@@ -45,7 +63,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27395",
@@ -61,7 +96,8 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27396",
@@ -77,7 +113,8 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "27397",
@@ -93,7 +130,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "27398",
@@ -109,7 +163,24 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.2567026,
+      "longitude": 8.2720608,
+      "viewport": {
+        "northeast": {
+          "lat": 7.259294199999998,
+          "lng": 8.27322437989272
+        },
+        "southwest": {
+          "lat": 7.255773800000001,
+          "lng": 8.270524720107277
+        }
+      },
+      "formatted_address": "6FVC774C+JRX TARAKU MBAKAAN, Kwen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2567026,8.2720608",
+      "google_place_id": "ChIJrwOfxmbuWhARxgHdUsl0rAY"
+    }
   },
   {
     "id": "27399",
@@ -125,6 +196,23 @@
     "local_government_id": "126",
     "local_government_name": "GWER WEST",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 43.7127464,
+      "longitude": -80.3871164,
+      "viewport": {
+        "northeast": {
+          "lat": 43.71411957989272,
+          "lng": -80.38573532010727
+        },
+        "southwest": {
+          "lat": 43.71141992010728,
+          "lng": -80.38843497989272
+        }
+      },
+      "formatted_address": "150 Strathallan St, Fergus, ON N1M 1A1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7127464,-80.3871164",
+      "google_place_id": "ChIJUSUvKkC-K4gRXV8RMzgASj8"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7004705,
+      "longitude": 8.8234932,
+      "viewport": {
+        "northeast": {
+          "lat": 7.701820329892718,
+          "lng": 8.824843029892723
+        },
+        "southwest": {
+          "lat": 7.699120670107274,
+          "lng": 8.822143370107279
+        }
+      },
+      "formatted_address": "6FVCPR2F+59Q Ukyough Mbachaverikyondu, Amokaha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7004705,8.8234932",
+      "google_place_id": "ChIJ5Y0-QJafUBARgJY3dvzcb28"
+    }
   },
   {
     "id": "30066",
@@ -29,7 +46,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321865,
+      "longitude": 8.5391474,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733536329892722,
+          "lng": 8.540497229892722
+        },
+        "southwest": {
+          "lat": 7.730836670107278,
+          "lng": 8.537797570107278
+        }
+      },
+      "formatted_address": "Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321865,8.5391474",
+      "google_place_id": "ChIJiUEkTVaBUBAR-g9x15KPjkk"
+    }
   },
   {
     "id": "30067",
@@ -45,7 +79,8 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30068",
@@ -61,7 +96,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.350825899999999,
+      "longitude": 8.8362755,
+      "viewport": {
+        "northeast": {
+          "lat": 7.351780929892722,
+          "lng": 8.837165329892722
+        },
+        "southwest": {
+          "lat": 7.349081270107278,
+          "lng": 8.834465670107278
+        }
+      },
+      "formatted_address": "9R2P+8GJ, 981113, Mbasere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.350825899999999,8.8362755",
+      "google_place_id": "ChIJq6qqqqpqWhAR09t23Qtz4Q8"
+    }
   },
   {
     "id": "30069",
@@ -77,6 +129,23 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.350825899999999,
+      "longitude": 8.8362755,
+      "viewport": {
+        "northeast": {
+          "lat": 7.351780929892722,
+          "lng": 8.837165329892722
+        },
+        "southwest": {
+          "lat": 7.349081270107278,
+          "lng": 8.834465670107278
+        }
+      },
+      "formatted_address": "9R2P+8GJ, 981113, Mbasere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.350825899999999,8.8362755",
+      "google_place_id": "ChIJq6qqqqpqWhAR09t23Qtz4Q8"
+    }
   }
 ]

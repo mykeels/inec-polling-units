@@ -13,7 +13,8 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28258",
@@ -29,7 +30,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.888107,
+      "longitude": 9.238977,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889693129892722,
+          "lng": 9.240345429892724
+        },
+        "southwest": {
+          "lat": 6.886993470107278,
+          "lng": 9.23764577010728
+        }
+      },
+      "formatted_address": "Township kwande, 6FRFV6QQ+6HX Adikpo Nanev, Benue, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.888107,9.238977",
+      "google_place_id": "ChIJh7lO1tJ9WRARd8VUrvB_eG0"
+    }
   },
   {
     "id": "28259",
@@ -45,7 +63,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.464863299999999,
+      "longitude": 9.482038,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466213129892721,
+          "lng": 9.48338782989272
+        },
+        "southwest": {
+          "lat": 6.463513470107277,
+          "lng": 9.480688170107276
+        }
+      },
+      "formatted_address": "FF7J+WRV, 982101, Susu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.464863299999999,9.482038",
+      "google_place_id": "ChIJc1Equ-tIWRAR1gRReOKL4LI"
+    }
   },
   {
     "id": "28260",
@@ -61,7 +96,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.8815999,
+      "longitude": 9.2382937,
+      "viewport": {
+        "northeast": {
+          "lat": 6.882965429892722,
+          "lng": 9.23967087989272
+        },
+        "southwest": {
+          "lat": 6.880265770107278,
+          "lng": 9.236971220107277
+        }
+      },
+      "formatted_address": "6FRFV6JQ+J8V Township kwande, Benue, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8815999,9.2382937",
+      "google_place_id": "ChIJ0xxzu1N8WRAROaRC6sh90RE"
+    }
   },
   {
     "id": "28261",
@@ -77,7 +129,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.464863299999999,
+      "longitude": 9.482038,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466213129892721,
+          "lng": 9.48338782989272
+        },
+        "southwest": {
+          "lat": 6.463513470107277,
+          "lng": 9.480688170107276
+        }
+      },
+      "formatted_address": "FF7J+WRV, 982101, Susu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.464863299999999,9.482038",
+      "google_place_id": "ChIJc1Equ-tIWRAR1gRReOKL4LI"
+    }
   },
   {
     "id": "28262",
@@ -93,7 +162,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.800578199999999,
+      "longitude": 9.284327099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.801928029892722,
+          "lng": 9.28567692989272
+        },
+        "southwest": {
+          "lat": 6.799228370107278,
+          "lng": 9.282977270107276
+        }
+      },
+      "formatted_address": "6FRFR72M+6PC, Mbahula, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.800578199999999,9.284327099999999",
+      "google_place_id": "ChIJhSkI1ullWRARy_9Jm9SYiXI"
+    }
   },
   {
     "id": "28263",
@@ -109,7 +195,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.800578199999999,
+      "longitude": 9.284327099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.801928029892722,
+          "lng": 9.28567692989272
+        },
+        "southwest": {
+          "lat": 6.799228370107278,
+          "lng": 9.282977270107276
+        }
+      },
+      "formatted_address": "6FRFR72M+6PC, Mbahula, 982104, Adikpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.800578199999999,9.284327099999999",
+      "google_place_id": "ChIJhSkI1ullWRARy_9Jm9SYiXI"
+    }
   },
   {
     "id": "28264",
@@ -125,7 +228,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.798294299999999,
+      "longitude": 8.5008845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.799661979892721,
+          "lng": 8.502247429892721
+        },
+        "southwest": {
+          "lat": 6.796962320107277,
+          "lng": 8.499547770107277
+        }
+      },
+      "formatted_address": "QGX2+896, OHUHU OJU LGA, Benue,, Owo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.798294299999999,8.5008845",
+      "google_place_id": "ChIJV0mtA3SnWxAR38CeOuLW4Ew"
+    }
   },
   {
     "id": "28265",
@@ -141,7 +261,8 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "28266",
@@ -157,7 +278,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7151777,
+      "longitude": 8.5032863,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716579629892723,
+          "lng": 8.504661129892721
+        },
+        "southwest": {
+          "lat": 7.713879970107279,
+          "lng": 8.501961470107277
+        }
+      },
+      "formatted_address": "Margaret Ichen Street, Township 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7151777,8.5032863",
+      "google_place_id": "ChIJob-ofrKBUBAReRno3Ox3FT0"
+    }
   },
   {
     "id": "28267",
@@ -173,7 +311,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.464863299999999,
+      "longitude": 9.482038,
+      "viewport": {
+        "northeast": {
+          "lat": 6.466213129892721,
+          "lng": 9.48338782989272
+        },
+        "southwest": {
+          "lat": 6.463513470107277,
+          "lng": 9.480688170107276
+        }
+      },
+      "formatted_address": "FF7J+WRV, 982101, Susu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.464863299999999,9.482038",
+      "google_place_id": "ChIJc1Equ-tIWRAR1gRReOKL4LI"
+    }
   },
   {
     "id": "28268",
@@ -189,7 +344,24 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 6.4972606,
+      "longitude": 9.4871953,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498610429892722,
+          "lng": 9.48854512989272
+        },
+        "southwest": {
+          "lat": 6.495910770107278,
+          "lng": 9.485845470107277
+        }
+      },
+      "formatted_address": "FFWP+WV4, 982101, Susu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4972606,9.4871953",
+      "google_place_id": "ChIJCR3uBiVGWRARnTOWfL6_9rM"
+    }
   },
   {
     "id": "28269",
@@ -205,6 +377,7 @@
     "local_government_id": "129",
     "local_government_name": "KWANDE",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]

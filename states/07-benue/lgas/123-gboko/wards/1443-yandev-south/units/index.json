@@ -13,7 +13,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.360656000000001,
+      "longitude": 9.04195,
+      "viewport": {
+        "northeast": {
+          "lat": 7.361917679892721,
+          "lng": 9.043293579892723
+        },
+        "southwest": {
+          "lat": 7.359218020107277,
+          "lng": 9.040593920107279
+        }
+      },
+      "formatted_address": "6FVF926R+7Q8, Mbadeda, 981102, Yandev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.360656000000001,9.04195",
+      "google_place_id": "ChIJj2QlPpcZWhARlJ1h6ba7En8"
+    }
   },
   {
     "id": "26916",
@@ -29,7 +46,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.363266400000001,
+      "longitude": 9.0444467,
+      "viewport": {
+        "northeast": {
+          "lat": 7.364683579892722,
+          "lng": 9.045796529892721
+        },
+        "southwest": {
+          "lat": 7.361983920107278,
+          "lng": 9.043096870107277
+        }
+      },
+      "formatted_address": "6FVF927V+8RQ, 981102, Yandev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.363266400000001,9.0444467",
+      "google_place_id": "ChIJNZX4SyUZWhARUZo6kvl2_wA"
+    }
   },
   {
     "id": "26917",
@@ -45,7 +79,8 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26918",
@@ -61,7 +96,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.433401600000001,
+      "longitude": 9.0888564,
+      "viewport": {
+        "northeast": {
+          "lat": 7.434688379892723,
+          "lng": 9.090258479892722
+        },
+        "southwest": {
+          "lat": 7.431988720107279,
+          "lng": 9.087558820107278
+        }
+      },
+      "formatted_address": "6FVFC3MQ+8HC NOR, Yandev-Gboko Rd, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.433401600000001,9.0888564",
+      "google_place_id": "ChIJT2320Y4bWhARDtdM5m96smU"
+    }
   },
   {
     "id": "26919",
@@ -77,7 +129,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.350991,
+      "longitude": 9.055937,
+      "viewport": {
+        "northeast": {
+          "lat": 7.352319729892723,
+          "lng": 9.057282529892722
+        },
+        "southwest": {
+          "lat": 7.349620070107279,
+          "lng": 9.054582870107279
+        }
+      },
+      "formatted_address": "6FVF9324+99V ADOO MBAKPEGH, 981113, Yandev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.350991,9.055937",
+      "google_place_id": "ChIJh_w-P40ZWhAR81fIyJjtbYE"
+    }
   },
   {
     "id": "26920",
@@ -93,7 +162,8 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26921",
@@ -109,7 +179,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.406840000000001,
+      "longitude": 9.081624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.408195279892723,
+          "lng": 9.083015629892722
+        },
+        "southwest": {
+          "lat": 7.405495620107279,
+          "lng": 9.080315970107279
+        }
+      },
+      "formatted_address": "6FVFC34J+PJQ Kyado, 981102, Yandev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.406840000000001,9.081624",
+      "google_place_id": "ChIJ3ZL-lmIZWhARszv2VdTaRqI"
+    }
   },
   {
     "id": "26922",
@@ -125,7 +212,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.433401600000001,
+      "longitude": 9.0888564,
+      "viewport": {
+        "northeast": {
+          "lat": 7.434688379892723,
+          "lng": 9.090258479892722
+        },
+        "southwest": {
+          "lat": 7.431988720107279,
+          "lng": 9.087558820107278
+        }
+      },
+      "formatted_address": "6FVFC3MQ+8HC NOR, Yandev-Gboko Rd, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.433401600000001,9.0888564",
+      "google_place_id": "ChIJT2320Y4bWhARDtdM5m96smU"
+    }
   },
   {
     "id": "26923",
@@ -141,7 +245,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
   },
   {
     "id": "26924",
@@ -157,7 +278,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.406840000000001,
+      "longitude": 9.081624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.408195279892723,
+          "lng": 9.083015629892722
+        },
+        "southwest": {
+          "lat": 7.405495620107279,
+          "lng": 9.080315970107279
+        }
+      },
+      "formatted_address": "6FVFC34J+PJQ Kyado, 981102, Yandev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.406840000000001,9.081624",
+      "google_place_id": "ChIJ3ZL-lmIZWhARszv2VdTaRqI"
+    }
   },
   {
     "id": "26925",
@@ -173,7 +311,8 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26926",
@@ -189,7 +328,8 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26927",
@@ -205,7 +345,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.318956200000001,
+      "longitude": 9.0175732,
+      "viewport": {
+        "northeast": {
+          "lat": 7.32030387989272,
+          "lng": 9.01893397989272
+        },
+        "southwest": {
+          "lat": 7.317604220107277,
+          "lng": 9.016234320107277
+        }
+      },
+      "formatted_address": "8298+HXQ, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.318956200000001,9.0175732",
+      "google_place_id": "ChIJreRMPMwiWhARauUG3VgcTkE"
+    }
   },
   {
     "id": "26928",
@@ -221,7 +378,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.317755399999999,
+      "longitude": 8.989716399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.319160729892721,
+          "lng": 8.991211929892721
+        },
+        "southwest": {
+          "lat": 7.316461070107277,
+          "lng": 8.988512270107277
+        }
+      },
+      "formatted_address": "TARUKPE MAIN MARKET SQUARE, Yandev Rd, GBOKO#, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.317755399999999,8.989716399999999",
+      "google_place_id": "ChIJC6woGPI9WhARu5IsRK7hmsE"
+    }
   },
   {
     "id": "26929",
@@ -237,7 +411,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.360656000000001,
+      "longitude": 9.04195,
+      "viewport": {
+        "northeast": {
+          "lat": 7.361917679892721,
+          "lng": 9.043293579892723
+        },
+        "southwest": {
+          "lat": 7.359218020107277,
+          "lng": 9.040593920107279
+        }
+      },
+      "formatted_address": "6FVF926R+7Q8, Mbadeda, 981102, Yandev, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.360656000000001,9.04195",
+      "google_place_id": "ChIJj2QlPpcZWhARlJ1h6ba7En8"
+    }
   },
   {
     "id": "26930",
@@ -253,7 +444,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.3308482,
+      "longitude": 8.997135199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.332196179892724,
+          "lng": 8.998565329892722
+        },
+        "southwest": {
+          "lat": 7.32949652010728,
+          "lng": 8.995865670107278
+        }
+      },
+      "formatted_address": "8XJW+8VJ, opposite St. John's Day Secondary School, 981101, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3308482,8.997135199999999",
+      "google_place_id": "ChIJnZ78v0Y9WhARSyth1xz8qgg"
+    }
   },
   {
     "id": "26931",
@@ -269,7 +477,24 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.329086699999999,
+      "longitude": 9.0007749,
+      "viewport": {
+        "northeast": {
+          "lat": 7.330401029892722,
+          "lng": 9.002065179892721
+        },
+        "southwest": {
+          "lat": 7.327701370107278,
+          "lng": 8.999365520107277
+        }
+      },
+      "formatted_address": "82H2+J7H, ANYIMAN, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.329086699999999,9.0007749",
+      "google_place_id": "ChIJh0v9OL49WhARt0VLV1b5vkg"
+    }
   },
   {
     "id": "26932",
@@ -285,6 +510,23 @@
     "local_government_id": "123",
     "local_government_name": "GBOKO",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.367787000000001,
+      "longitude": 9.09455,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369159479892723,
+          "lng": 9.095934429892722
+        },
+        "southwest": {
+          "lat": 7.366459820107279,
+          "lng": 9.093234770107278
+        }
+      },
+      "formatted_address": "6FVF939V+4R7, ANGWE, 981113, Gboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.367787000000001,9.09455",
+      "google_place_id": "ChIJ23RorIYZWhAR3yE2U_0vMe4"
+    }
   }
 ]

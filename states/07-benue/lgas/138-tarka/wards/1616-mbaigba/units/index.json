@@ -13,7 +13,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.660609000000001,
+      "longitude": 8.895664,
+      "viewport": {
+        "northeast": {
+          "lat": 7.661968429892721,
+          "lng": 8.897045379892722
+        },
+        "southwest": {
+          "lat": 7.659268770107277,
+          "lng": 8.894345720107278
+        }
+      },
+      "formatted_address": "YIA tarka Benue, 6FVCMV6W+67V BUTER MBAKYO, Atom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.660609000000001,8.895664",
+      "google_place_id": "ChIJyRwTPugLWhARbPM1iqjF8do"
+    }
   },
   {
     "id": "30088",
@@ -29,7 +46,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.620703,
+      "longitude": 8.932019,
+      "viewport": {
+        "northeast": {
+          "lat": 7.622098279892723,
+          "lng": 8.933334479892721
+        },
+        "southwest": {
+          "lat": 7.619398620107279,
+          "lng": 8.930634820107278
+        }
+      },
+      "formatted_address": "6FVCJWCJ+7RJ MBAKYO tarka Benue, TINDIKULA, 981108, Wanzum Amagwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.620703,8.932019",
+      "google_place_id": "ChIJrbWl8dAJWhARLq0klEQuZ6U"
+    }
   },
   {
     "id": "30089",
@@ -45,7 +79,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.789993200000001,
+      "longitude": 8.6174621,
+      "viewport": {
+        "northeast": {
+          "lat": 7.791478979892722,
+          "lng": 8.618797029892722
+        },
+        "southwest": {
+          "lat": 7.788779320107278,
+          "lng": 8.616097370107278
+        }
+      },
+      "formatted_address": "QJQ8+XXW, 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.789993200000001,8.6174621",
+      "google_place_id": "ChIJj-DILbqFUBAR_2aJ-aYmnIU"
+    }
   },
   {
     "id": "30090",
@@ -61,7 +112,8 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "30091",
@@ -77,7 +129,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.745076200000001,
+      "longitude": 8.5125654,
+      "viewport": {
+        "northeast": {
+          "lat": 7.746422029892723,
+          "lng": 8.513893929892722
+        },
+        "southwest": {
+          "lat": 7.743722370107279,
+          "lng": 8.511194270107278
+        }
+      },
+      "formatted_address": "6 Port Harcourt Street, behind Mc Carthy Stadium, 970211, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.745076200000001,8.5125654",
+      "google_place_id": "ChIJZyQybPaAUBAR_zpiOZJnJXg"
+    }
   },
   {
     "id": "30092",
@@ -93,7 +162,24 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7321863,
+      "longitude": 8.5391496,
+      "viewport": {
+        "northeast": {
+          "lat": 7.733545379892721,
+          "lng": 8.540447079892722
+        },
+        "southwest": {
+          "lat": 7.730845720107277,
+          "lng": 8.537747420107278
+        }
+      },
+      "formatted_address": "opposite Ben Hotel, Makurdi 970101, Makurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7321863,8.5391496",
+      "google_place_id": "ChIJwUwH1hiBUBARBUgfA_S_B_w"
+    }
   },
   {
     "id": "30093",
@@ -109,6 +195,23 @@
     "local_government_id": "138",
     "local_government_name": "TARKA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.498023,
+      "longitude": 8.906024,
+      "viewport": {
+        "northeast": {
+          "lat": 7.499172879892722,
+          "lng": 8.907536229892722
+        },
+        "southwest": {
+          "lat": 7.496473220107278,
+          "lng": 8.904836570107278
+        }
+      },
+      "formatted_address": "6FVCFWX4+6C2, TARHEMBA, 981106, Wanunnue, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.498023,8.906024",
+      "google_place_id": "ChIJFymi-wMTWhARlGqc0F14s70"
+    }
   }
 ]

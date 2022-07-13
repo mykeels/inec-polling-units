@@ -13,7 +13,8 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26124",
@@ -29,7 +30,8 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26125",
@@ -45,7 +47,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.735791,
+      "longitude": 7.886676,
+      "viewport": {
+        "northeast": {
+          "lat": 7.736846479892722,
+          "lng": 7.887456179892721
+        },
+        "southwest": {
+          "lat": 7.734146820107278,
+          "lng": 7.884756520107278
+        }
+      },
+      "formatted_address": "6FV9PVPP+8M7, Akpete 972107, Bopo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.735791,7.886676",
+      "google_place_id": "ChIJV1id47oHUBARV-7J5swDKL4"
+    }
   },
   {
     "id": "26126",
@@ -61,7 +80,8 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26127",
@@ -77,7 +97,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.7463373,
+      "longitude": 7.9228199,
+      "viewport": {
+        "northeast": {
+          "lat": 7.747756179892722,
+          "lng": 7.92418942989272
+        },
+        "southwest": {
+          "lat": 7.745056520107278,
+          "lng": 7.921489770107276
+        }
+      },
+      "formatted_address": "6FV9PWWF+G4P Akpete Ojantelle / Akpete, Ikobi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7463373,7.9228199",
+      "google_place_id": "ChIJi-jYm6QHUBARJ9AnvhSxGVo"
+    }
   },
   {
     "id": "26128",
@@ -93,7 +130,8 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   },
   {
     "id": "26129",
@@ -109,7 +147,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.797675,
+      "longitude": 7.869837,
+      "viewport": {
+        "northeast": {
+          "lat": 7.799013279892722,
+          "lng": 7.870979279892723
+        },
+        "southwest": {
+          "lat": 7.796313620107278,
+          "lng": 7.86827962010728
+        }
+      },
+      "formatted_address": "6FV9QVX9+3W8 Omelemu Ojantelle / Akpete, Oshigbudu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.797675,7.869837",
+      "google_place_id": "ChIJfcumnDUBUBARgpSp86R3KMs"
+    }
   },
   {
     "id": "26130",
@@ -125,7 +180,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.679351999999999,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 7.680716979892723,
+          "lng": 7.927982229892724
+        },
+        "southwest": {
+          "lat": 7.678017320107279,
+          "lng": 7.925282570107281
+        }
+      },
+      "formatted_address": "MWHG+PJX, 972107, Akwanta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.679351999999999,7.9266015",
+      "google_place_id": "ChIJAQAAAFCoWhARvGfqk7vDtB0"
+    }
   },
   {
     "id": "26131",
@@ -141,7 +213,24 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": {
+      "latitude": 7.206276099999999,
+      "longitude": 8.1525414,
+      "viewport": {
+        "northeast": {
+          "lat": 7.207652029892722,
+          "lng": 8.153935129892721
+        },
+        "southwest": {
+          "lat": 7.204952370107278,
+          "lng": 8.151235470107277
+        }
+      },
+      "formatted_address": "6543+G27, Enugu - Makurdi Rd, 972261, Otukpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.206276099999999,8.1525414",
+      "google_place_id": "ChIJvzp6VxLoWhAR4Unprr6sN2c"
+    }
   },
   {
     "id": "26132",
@@ -157,6 +246,7 @@
     "local_government_id": "121",
     "local_government_name": "APA",
     "state_id": "7",
-    "state_name": "BENUE"
+    "state_name": "BENUE",
+    "location": null
   }
 ]
