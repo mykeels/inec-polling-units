@@ -13,7 +13,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2088758,
+      "longitude": 6.453622999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.21027537989272,
+          "lng": 6.454727329892722
+        },
+        "southwest": {
+          "lat": 7.207575720107276,
+          "lng": 6.452027670107278
+        }
+      },
+      "formatted_address": "6F53+HC5 Imiegba, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2088758,6.453622999999999",
+      "google_place_id": "ChIJYwclfXfXRRARjlt5hTJiGB4"
+    }
   },
   {
     "id": "49517",
@@ -29,7 +46,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2088758,
+      "longitude": 6.453622999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.21027537989272,
+          "lng": 6.454727329892722
+        },
+        "southwest": {
+          "lat": 7.207575720107276,
+          "lng": 6.452027670107278
+        }
+      },
+      "formatted_address": "6F53+HC5 Imiegba, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2088758,6.453622999999999",
+      "google_place_id": "ChIJYwclfXfXRRARjlt5hTJiGB4"
+    }
   },
   {
     "id": "49518",
@@ -45,7 +79,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.1293583,
+      "longitude": 6.5885004,
+      "viewport": {
+        "northeast": {
+          "lat": 7.130519629892722,
+          "lng": 6.590139479892722
+        },
+        "southwest": {
+          "lat": 7.127819970107279,
+          "lng": 6.587439820107278
+        }
+      },
+      "formatted_address": "4HHQ+PCR, 312107, Ivianopodi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1293583,6.5885004",
+      "google_place_id": "ChIJVRgMpJzNRRARDZUWHxA8evQ"
+    }
   },
   {
     "id": "49519",
@@ -61,7 +112,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.196840300000001,
+      "longitude": 6.4877037,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198772579892721,
+          "lng": 6.489345429892722
+        },
+        "southwest": {
+          "lat": 7.196072920107278,
+          "lng": 6.486645770107279
+        }
+      },
+      "formatted_address": "5FWQ+P3P, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.196840300000001,6.4877037",
+      "google_place_id": "ChIJ-a6odQXXRRAR_WrSwO351xQ"
+    }
   },
   {
     "id": "49520",
@@ -77,7 +145,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.131345,
+      "longitude": 6.6227867,
+      "viewport": {
+        "northeast": {
+          "lat": 7.132570829892722,
+          "lng": 6.624101729892723
+        },
+        "southwest": {
+          "lat": 7.129871170107278,
+          "lng": 6.621402070107279
+        }
+      },
+      "formatted_address": "4JJF+G4M, Unnamed Road, 312107, Ivioghe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.131345,6.6227867",
+      "google_place_id": "ChIJm0ZtYQHNRRAR6rOpKW7nuOE"
+    }
   },
   {
     "id": "49521",
@@ -93,7 +178,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.196840300000001,
+      "longitude": 6.4877037,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198772579892721,
+          "lng": 6.489345429892722
+        },
+        "southwest": {
+          "lat": 7.196072920107278,
+          "lng": 6.486645770107279
+        }
+      },
+      "formatted_address": "5FWQ+P3P, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.196840300000001,6.4877037",
+      "google_place_id": "ChIJ-a6odQXXRRAR_WrSwO351xQ"
+    }
   },
   {
     "id": "49522",
@@ -109,7 +211,8 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "49523",
@@ -125,7 +228,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.196840300000001,
+      "longitude": 6.4877037,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198772579892721,
+          "lng": 6.489345429892722
+        },
+        "southwest": {
+          "lat": 7.196072920107278,
+          "lng": 6.486645770107279
+        }
+      },
+      "formatted_address": "5FWQ+P3P, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.196840300000001,6.4877037",
+      "google_place_id": "ChIJ-a6odQXXRRAR_WrSwO351xQ"
+    }
   },
   {
     "id": "49524",
@@ -141,7 +261,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.1293583,
+      "longitude": 6.5885004,
+      "viewport": {
+        "northeast": {
+          "lat": 7.130519629892722,
+          "lng": 6.590139479892722
+        },
+        "southwest": {
+          "lat": 7.127819970107279,
+          "lng": 6.587439820107278
+        }
+      },
+      "formatted_address": "4HHQ+PCR, 312107, Ivianopodi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1293583,6.5885004",
+      "google_place_id": "ChIJVRgMpJzNRRARDZUWHxA8evQ"
+    }
   },
   {
     "id": "49525",
@@ -157,7 +294,24 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.196840300000001,
+      "longitude": 6.4877037,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198772579892721,
+          "lng": 6.489345429892722
+        },
+        "southwest": {
+          "lat": 7.196072920107278,
+          "lng": 6.486645770107279
+        }
+      },
+      "formatted_address": "5FWQ+P3P, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.196840300000001,6.4877037",
+      "google_place_id": "ChIJ-a6odQXXRRAR_WrSwO351xQ"
+    }
   },
   {
     "id": "49526",
@@ -173,6 +327,23 @@
     "local_government_id": "232",
     "local_government_name": "ETSAKO EAST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.132,
+      "longitude": 6.6227,
+      "viewport": {
+        "northeast": {
+          "lat": 7.132933029892722,
+          "lng": 6.623932829892722
+        },
+        "southwest": {
+          "lat": 7.130233370107279,
+          "lng": 6.621233170107279
+        }
+      },
+      "formatted_address": "4JJF+R34, 312107, Ivioghe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.132,6.6227",
+      "google_place_id": "ChIJHffwI4DORRAR-7mUQBTs1L4"
+    }
   }
 ]

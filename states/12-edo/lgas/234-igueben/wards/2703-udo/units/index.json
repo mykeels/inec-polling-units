@@ -13,7 +13,24 @@
     "local_government_id": "234",
     "local_government_name": "IGUEBEN",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.606529099999999,
+      "longitude": 6.2297157,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607850629892722,
+          "lng": 6.231115979892722
+        },
+        "southwest": {
+          "lat": 6.605150970107278,
+          "lng": 6.228416320107278
+        }
+      },
+      "formatted_address": "Idumogo Igieben, 310109, Ekehen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.606529099999999,6.2297157",
+      "google_place_id": "ChIJEW8LAUm7RhARlpd55uAunaY"
+    }
   },
   {
     "id": "50024",
@@ -29,7 +46,24 @@
     "local_government_id": "234",
     "local_government_name": "IGUEBEN",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.606529099999999,
+      "longitude": 6.2297157,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607850629892722,
+          "lng": 6.231115979892722
+        },
+        "southwest": {
+          "lat": 6.605150970107278,
+          "lng": 6.228416320107278
+        }
+      },
+      "formatted_address": "Idumogo Igieben, 310109, Ekehen, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.606529099999999,6.2297157",
+      "google_place_id": "ChIJEW8LAUm7RhARlpd55uAunaY"
+    }
   },
   {
     "id": "50025",
@@ -45,7 +79,24 @@
     "local_government_id": "234",
     "local_government_name": "IGUEBEN",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.62901,
+      "longitude": 6.334397,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630314029892721,
+          "lng": 6.335697279892722
+        },
+        "southwest": {
+          "lat": 6.627614370107278,
+          "lng": 6.332997620107278
+        }
+      },
+      "formatted_address": "J8HM+JQ2, 310110, Udo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.62901,6.334397",
+      "google_place_id": "ChIJJ6mpC06hRhARjGUmc1PXYmc"
+    }
   },
   {
     "id": "50026",
@@ -61,7 +112,24 @@
     "local_government_id": "234",
     "local_government_name": "IGUEBEN",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.4988421,
+      "longitude": 6.3308692,
+      "viewport": {
+        "northeast": {
+          "lat": 6.500108129892722,
+          "lng": 6.332357579892722
+        },
+        "southwest": {
+          "lat": 6.497408470107279,
+          "lng": 6.329657920107278
+        }
+      },
+      "formatted_address": "F8XJ+G8Q, Ewohimi 311104, Isanju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4988421,6.3308692",
+      "google_place_id": "ChIJ3xDLStGpRhAREiIwFy7mYGM"
+    }
   },
   {
     "id": "50027",
@@ -77,6 +145,23 @@
     "local_government_id": "234",
     "local_government_name": "IGUEBEN",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.730666299999999,
+      "longitude": 6.215134,
+      "viewport": {
+        "northeast": {
+          "lat": 6.732161979892721,
+          "lng": 6.216493029892721
+        },
+        "southwest": {
+          "lat": 6.729462320107277,
+          "lng": 6.213793370107277
+        }
+      },
+      "formatted_address": "No 1Momodu Road, Irrua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.730666299999999,6.215134",
+      "google_place_id": "ChIJufl6oKKXRhAR3-1jC9RGTPk"
+    }
   }
 ]

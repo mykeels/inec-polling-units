@@ -13,7 +13,24 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.834499999999999,
+      "longitude": 6.584899999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.835864629892721,
+          "lng": 6.586265979892722
+        },
+        "southwest": {
+          "lat": 6.833164970107277,
+          "lng": 6.583566320107278
+        }
+      },
+      "formatted_address": "RHMM+RX2, 312111, Alegbette, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.834499999999999,6.584899999999999",
+      "google_place_id": "ChIJoUjuatY6RBARB2VFMGmF7Jo"
+    }
   },
   {
     "id": "49481",
@@ -29,7 +46,24 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.834499999999999,
+      "longitude": 6.584899999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.835864629892721,
+          "lng": 6.586265979892722
+        },
+        "southwest": {
+          "lat": 6.833164970107277,
+          "lng": 6.583566320107278
+        }
+      },
+      "formatted_address": "RHMM+RX2, 312111, Alegbette, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.834499999999999,6.584899999999999",
+      "google_place_id": "ChIJoUjuatY6RBARB2VFMGmF7Jo"
+    }
   },
   {
     "id": "49482",
@@ -45,7 +79,24 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2088758,
+      "longitude": 6.453622999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.21027537989272,
+          "lng": 6.454727329892722
+        },
+        "southwest": {
+          "lat": 7.207575720107276,
+          "lng": 6.452027670107278
+        }
+      },
+      "formatted_address": "6F53+HC5 Imiegba, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2088758,6.453622999999999",
+      "google_place_id": "ChIJYwclfXfXRRARjlt5hTJiGB4"
+    }
   },
   {
     "id": "49483",
@@ -61,7 +112,24 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2088758,
+      "longitude": 6.453622999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.21027537989272,
+          "lng": 6.454727329892722
+        },
+        "southwest": {
+          "lat": 7.207575720107276,
+          "lng": 6.452027670107278
+        }
+      },
+      "formatted_address": "6F53+HC5 Imiegba, 312107, Itsukwi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2088758,6.453622999999999",
+      "google_place_id": "ChIJYwclfXfXRRARjlt5hTJiGB4"
+    }
   },
   {
     "id": "49484",
@@ -77,7 +145,24 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.0925563,
+      "longitude": 6.5026832,
+      "viewport": {
+        "northeast": {
+          "lat": 7.093955979892721,
+          "lng": 6.504114379892722
+        },
+        "southwest": {
+          "lat": 7.091256320107277,
+          "lng": 6.501414720107278
+        }
+      },
+      "formatted_address": "Auchi - Agenebode Rd, 312110, Fugar, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0925563,6.5026832",
+      "google_place_id": "ChIJy9da24LTRRAR1nraXemwtQI"
+    }
   },
   {
     "id": "49485",
@@ -93,7 +178,24 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.043610300000001,
+      "longitude": 6.2366477,
+      "viewport": {
+        "northeast": {
+          "lat": 7.044743300000001,
+          "lng": 6.238953049999997
+        },
+        "southwest": {
+          "lat": 7.040211299999998,
+          "lng": 6.235879250000001
+        }
+      },
+      "formatted_address": "26VP+CMR, 312101, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.043610300000001,6.2366477",
+      "google_place_id": "ChIJ4Y6xdgeIRhARgPUjp1i8qq4"
+    }
   },
   {
     "id": "49486",
@@ -109,6 +211,7 @@
     "local_government_id": "231",
     "local_government_name": "ETSAKO CENTRAL",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   }
 ]

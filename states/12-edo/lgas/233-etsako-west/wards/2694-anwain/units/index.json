@@ -13,7 +13,8 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "49864",
@@ -29,7 +30,8 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "49865",
@@ -45,7 +47,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.7384194,
+      "longitude": 6.0810714,
+      "viewport": {
+        "northeast": {
+          "lat": 6.739576729892722,
+          "lng": 6.082347479892722
+        },
+        "southwest": {
+          "lat": 6.736877070107278,
+          "lng": 6.079647820107278
+        }
+      },
+      "formatted_address": "310103, Ekpoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7384194,6.0810714",
+      "google_place_id": "ChIJpUSNkDmVRhARH5_S5srwWFY"
+    }
   },
   {
     "id": "49866",
@@ -61,7 +80,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2192556,
+      "longitude": 6.3343506,
+      "viewport": {
+        "northeast": {
+          "lat": 7.220624629892723,
+          "lng": 6.335719950000001
+        },
+        "southwest": {
+          "lat": 7.217924970107279,
+          "lng": 6.330242550000001
+        }
+      },
+      "formatted_address": "689M+PP5, 312107, Okpella, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2192556,6.3343506",
+      "google_place_id": "ChIJVVVVVVXFRhARkW1PfBRnswM"
+    }
   },
   {
     "id": "49867",
@@ -77,7 +113,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.9276623,
+      "longitude": 6.4163589,
+      "viewport": {
+        "northeast": {
+          "lat": 6.929014229892722,
+          "lng": 6.417706279892722
+        },
+        "southwest": {
+          "lat": 6.926314570107277,
+          "lng": 6.415006620107278
+        }
+      },
+      "formatted_address": "WCH8+3G9, 312105, Ebu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9276623,6.4163589",
+      "google_place_id": "ChIJJ1dWo9EpRBARHbm_bjHAL0c"
+    }
   },
   {
     "id": "49868",
@@ -93,7 +146,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2192556,
+      "longitude": 6.3343506,
+      "viewport": {
+        "northeast": {
+          "lat": 7.220624629892723,
+          "lng": 6.335719950000001
+        },
+        "southwest": {
+          "lat": 7.217924970107279,
+          "lng": 6.330242550000001
+        }
+      },
+      "formatted_address": "689M+PP5, 312107, Okpella, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2192556,6.3343506",
+      "google_place_id": "ChIJVVVVVVXFRhARkW1PfBRnswM"
+    }
   },
   {
     "id": "49869",
@@ -109,7 +179,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2192556,
+      "longitude": 6.3343506,
+      "viewport": {
+        "northeast": {
+          "lat": 7.220624629892723,
+          "lng": 6.335719950000001
+        },
+        "southwest": {
+          "lat": 7.217924970107279,
+          "lng": 6.330242550000001
+        }
+      },
+      "formatted_address": "689M+PP5, 312107, Okpella, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2192556,6.3343506",
+      "google_place_id": "ChIJVVVVVVXFRhARkW1PfBRnswM"
+    }
   },
   {
     "id": "49870",
@@ -125,7 +212,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.1004915,
+      "longitude": 6.313252899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.102112979892722,
+          "lng": 6.314435079892721
+        },
+        "southwest": {
+          "lat": 7.099413320107278,
+          "lng": 6.311735420107278
+        }
+      },
+      "formatted_address": "4827+58R, 312102, Jattu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1004915,6.313252899999999",
+      "google_place_id": "ChIJuX0iWDR8RhARiR01yM4BRZI"
+    }
   },
   {
     "id": "49871",
@@ -141,7 +245,8 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "49872",
@@ -157,7 +262,8 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": null
   },
   {
     "id": "49873",
@@ -173,7 +279,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 6.332072,
+      "longitude": 5.6203246,
+      "viewport": {
+        "northeast": {
+          "lat": 6.333350129892721,
+          "lng": 5.621630979892721
+        },
+        "southwest": {
+          "lat": 6.330650470107277,
+          "lng": 5.618931320107277
+        }
+      },
+      "formatted_address": "8JJC+R4G, Ogogugbo 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332072,5.6203246",
+      "google_place_id": "ChIJM8TR1abTQBAR59MGi2_ACYc"
+    }
   },
   {
     "id": "49874",
@@ -189,7 +312,24 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.2192556,
+      "longitude": 6.3343506,
+      "viewport": {
+        "northeast": {
+          "lat": 7.220624629892723,
+          "lng": 6.335719950000001
+        },
+        "southwest": {
+          "lat": 7.217924970107279,
+          "lng": 6.330242550000001
+        }
+      },
+      "formatted_address": "689M+PP5, 312107, Okpella, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2192556,6.3343506",
+      "google_place_id": "ChIJVVVVVVXFRhARkW1PfBRnswM"
+    }
   },
   {
     "id": "49875",
@@ -205,6 +345,23 @@
     "local_government_id": "233",
     "local_government_name": "ETSAKO  WEST",
     "state_id": "12",
-    "state_name": "EDO"
+    "state_name": "EDO",
+    "location": {
+      "latitude": 7.135626299999999,
+      "longitude": 6.3078141,
+      "viewport": {
+        "northeast": {
+          "lat": 7.137384029892721,
+          "lng": 6.309503029892721
+        },
+        "southwest": {
+          "lat": 7.134684370107277,
+          "lng": 6.306803370107278
+        }
+      },
+      "formatted_address": "Iyahmo, 200099, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.135626299999999,6.3078141",
+      "google_place_id": "ChIJL1MbJM59RhARhjFaOeIkBI4"
+    }
   }
 ]
