@@ -13,7 +13,24 @@
     "local_government_id": "216",
     "local_government_name": "EZZA NORTH",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3076081,
+      "longitude": 8.0290638,
+      "viewport": {
+        "northeast": {
+          "lat": 6.308901179892722,
+          "lng": 8.030435229892722
+        },
+        "southwest": {
+          "lat": 6.306201520107278,
+          "lng": 8.027735570107279
+        }
+      },
+      "formatted_address": "825H+2JP, 482106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3076081,8.0290638",
+      "google_place_id": "ChIJEc4rgMmnXBARZU5AqzUYTSM"
+    }
   },
   {
     "id": "46035",
@@ -29,7 +46,24 @@
     "local_government_id": "216",
     "local_government_name": "EZZA NORTH",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3076081,
+      "longitude": 8.0290638,
+      "viewport": {
+        "northeast": {
+          "lat": 6.308901179892722,
+          "lng": 8.030435229892722
+        },
+        "southwest": {
+          "lat": 6.306201520107278,
+          "lng": 8.027735570107279
+        }
+      },
+      "formatted_address": "825H+2JP, 482106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3076081,8.0290638",
+      "google_place_id": "ChIJEc4rgMmnXBARZU5AqzUYTSM"
+    }
   },
   {
     "id": "46036",
@@ -45,7 +79,24 @@
     "local_government_id": "216",
     "local_government_name": "EZZA NORTH",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2051738,
+      "longitude": 7.8993756,
+      "viewport": {
+        "northeast": {
+          "lat": 6.2303625,
+          "lng": 7.915340400000001
+        },
+        "southwest": {
+          "lat": 6.1844125,
+          "lng": 7.882315900000001
+        }
+      },
+      "formatted_address": "Ogboji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2051738,7.8993756",
+      "google_place_id": "ChIJz0HyhEOuXBARXZJpmjRn6eQ"
+    }
   },
   {
     "id": "46037",
@@ -61,7 +112,8 @@
     "local_government_id": "216",
     "local_government_name": "EZZA NORTH",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "46038",
@@ -77,7 +129,24 @@
     "local_government_id": "216",
     "local_government_name": "EZZA NORTH",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2977387,
+      "longitude": 8.0903941,
+      "viewport": {
+        "northeast": {
+          "lat": 6.299052479892722,
+          "lng": 8.091706979892722
+        },
+        "southwest": {
+          "lat": 6.296352820107278,
+          "lng": 8.089007320107278
+        }
+      },
+      "formatted_address": "73XR+35R, 482103, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2977387,8.0903941",
+      "google_place_id": "ChIJs3ilKkShXBARFXUfvlh10xQ"
+    }
   },
   {
     "id": "46039",
@@ -93,6 +162,23 @@
     "local_government_id": "216",
     "local_government_name": "EZZA NORTH",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1371191,
+      "longitude": 8.0103861,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1530689,
+          "lng": 8.023268999999999
+        },
+        "southwest": {
+          "lat": 6.12298,
+          "lng": 8.0022249
+        }
+      },
+      "formatted_address": "491109, Idembia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1371191,8.0103861",
+      "google_place_id": "ChIJM0QPNAa7XBARutFSnxakAnw"
+    }
   }
 ]

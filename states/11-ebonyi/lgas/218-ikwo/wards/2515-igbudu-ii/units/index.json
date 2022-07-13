@@ -13,7 +13,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.170489,
+      "longitude": 8.0292996,
+      "viewport": {
+        "northeast": {
+          "lat": 6.171737479892721,
+          "lng": 8.030833379892721
+        },
+        "southwest": {
+          "lat": 6.169037820107278,
+          "lng": 8.028133720107277
+        }
+      },
+      "formatted_address": "52CH+4MP, 491109, Amuzu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.170489,8.0292996",
+      "google_place_id": "ChIJHfdBJkm7XBARMwsn7-wOZjM"
+    }
   },
   {
     "id": "46522",
@@ -29,7 +46,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 5.9915015,
+      "longitude": 8.1746837,
+      "viewport": {
+        "northeast": {
+          "lat": 5.992896529892723,
+          "lng": 8.176123229892722
+        },
+        "southwest": {
+          "lat": 5.990196870107279,
+          "lng": 8.173423570107278
+        }
+      },
+      "formatted_address": "X5RF+JV3, 482129, Hotekwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9915015,8.1746837",
+      "google_place_id": "ChIJZfpTKNnqXBAREbnPUnyIr8c"
+    }
   },
   {
     "id": "46523",
@@ -45,7 +79,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.043628399999999,
+      "longitude": 8.1611703,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0747718,
+          "lng": 8.1842629
+        },
+        "southwest": {
+          "lat": 6.023488899999999,
+          "lng": 8.0839748
+        }
+      },
+      "formatted_address": "Igbudu I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.043628399999999,8.1611703",
+      "google_place_id": "ChIJ87sh_3-VXBARvxZnKcfrfDQ"
+    }
   },
   {
     "id": "46524",
@@ -61,7 +112,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 5.9915015,
+      "longitude": 8.1746837,
+      "viewport": {
+        "northeast": {
+          "lat": 5.992896529892723,
+          "lng": 8.176123229892722
+        },
+        "southwest": {
+          "lat": 5.990196870107279,
+          "lng": 8.173423570107278
+        }
+      },
+      "formatted_address": "X5RF+JV3, 482129, Hotekwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9915015,8.1746837",
+      "google_place_id": "ChIJZfpTKNnqXBAREbnPUnyIr8c"
+    }
   },
   {
     "id": "46525",
@@ -77,7 +145,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.030192,
+      "longitude": 8.239004000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.031538929892721,
+          "lng": 8.240347879892722
+        },
+        "southwest": {
+          "lat": 6.028839270107277,
+          "lng": 8.237648220107278
+        }
+      },
+      "formatted_address": "5 Gunning Road, Azuiyi Udene 482124, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.030192,8.239004000000001",
+      "google_place_id": "ChIJQ55yx2uTXBARDVk4WzBgQPs"
+    }
   },
   {
     "id": "46526",
@@ -93,6 +178,23 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.043628399999999,
+      "longitude": 8.1611703,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0747718,
+          "lng": 8.1842629
+        },
+        "southwest": {
+          "lat": 6.023488899999999,
+          "lng": 8.0839748
+        }
+      },
+      "formatted_address": "Igbudu I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.043628399999999,8.1611703",
+      "google_place_id": "ChIJ87sh_3-VXBARvxZnKcfrfDQ"
+    }
   }
 ]

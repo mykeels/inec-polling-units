@@ -13,7 +13,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1317758,
+      "longitude": 8.141298299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.133230029892721,
+          "lng": 8.142284179892721
+        },
+        "southwest": {
+          "lat": 6.130530370107278,
+          "lng": 8.139584520107277
+        }
+      },
+      "formatted_address": "44JR+PG7, IKWO IKWO LGA, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1317758,8.141298299999999",
+      "google_place_id": "ChIJg0uqsyejXBARVgiQAhCUySs"
+    }
   },
   {
     "id": "46404",
@@ -29,7 +46,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.005247,
+      "longitude": 8.026524,
+      "viewport": {
+        "northeast": {
+          "lat": 6.006582779892723,
+          "lng": 8.027881229892722
+        },
+        "southwest": {
+          "lat": 6.003883120107279,
+          "lng": 8.025181570107279
+        }
+      },
+      "formatted_address": "224G+3JR, 482127, Agbara-Igbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.005247,8.026524",
+      "google_place_id": "ChIJ_T6PQ17HXBAR0yy1aKgwsGk"
+    }
   },
   {
     "id": "46405",
@@ -45,7 +79,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1561815,
+      "longitude": 7.801652000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.157498229892722,
+          "lng": 7.802827879892722
+        },
+        "southwest": {
+          "lat": 6.154798570107278,
+          "lng": 7.800128220107278
+        }
+      },
+      "formatted_address": "5R42+FMF, AMANKPUMA UKAWU IN ONICHA LOCAL GOVERNMENT AREA OF, Omoniko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1561815,7.801652000000001",
+      "google_place_id": "ChIJZUqJlUezXBARHCfA4A1I-Dg"
+    }
   },
   {
     "id": "46406",
@@ -61,7 +112,8 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "46407",
@@ -77,7 +129,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0257786,
+      "longitude": 8.0414772,
+      "viewport": {
+        "northeast": {
+          "lat": 6.027129629892721,
+          "lng": 8.042823229892722
+        },
+        "southwest": {
+          "lat": 6.024429970107278,
+          "lng": 8.040123570107278
+        }
+      },
+      "formatted_address": "22GR+8H9, 482127, Amenyi Opuitumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0257786,8.0414772",
+      "google_place_id": "ChIJ4YYNIrS4XBAR-broPnDgwQk"
+    }
   },
   {
     "id": "46408",
@@ -93,7 +162,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.019953,
+      "longitude": 8.056916,
+      "viewport": {
+        "northeast": {
+          "lat": 6.021306029892722,
+          "lng": 8.05823937989272
+        },
+        "southwest": {
+          "lat": 6.018606370107278,
+          "lng": 8.055539720107276
+        }
+      },
+      "formatted_address": "2394+XQM, 482128, Amenyi Opuitumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.019953,8.056916",
+      "google_place_id": "ChIJF0gr8k-_XBARHF21CXQz8aQ"
+    }
   },
   {
     "id": "46409",
@@ -109,7 +195,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.030192,
+      "longitude": 8.239004000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.031538929892721,
+          "lng": 8.240347879892722
+        },
+        "southwest": {
+          "lat": 6.028839270107277,
+          "lng": 8.237648220107278
+        }
+      },
+      "formatted_address": "5 Gunning Road, Azuiyi Udene 482124, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.030192,8.239004000000001",
+      "google_place_id": "ChIJQ55yx2uTXBARDVk4WzBgQPs"
+    }
   },
   {
     "id": "46410",
@@ -125,7 +228,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.053972099999999,
+      "longitude": 8.036697499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.055369079892722,
+          "lng": 8.03807057989272
+        },
+        "southwest": {
+          "lat": 6.052669420107278,
+          "lng": 8.035370920107276
+        }
+      },
+      "formatted_address": "323P+HMP, 491109, Amenyi Opuitumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.053972099999999,8.036697499999999",
+      "google_place_id": "ChIJPQXyjSi5XBARmg3bu8bf2t0"
+    }
   },
   {
     "id": "46411",
@@ -141,7 +261,24 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.080209600000001,
+      "longitude": 8.0164455,
+      "viewport": {
+        "northeast": {
+          "lat": 6.081607779892722,
+          "lng": 8.017829229892723
+        },
+        "southwest": {
+          "lat": 6.078908120107278,
+          "lng": 8.015129570107279
+        }
+      },
+      "formatted_address": "32J8+3HP, 491109, Onueke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.080209600000001,8.0164455",
+      "google_place_id": "ChIJ7yofqm-5XBAR0-wn_wB59WQ"
+    }
   },
   {
     "id": "46412",
@@ -157,6 +294,23 @@
     "local_government_id": "218",
     "local_government_name": "IKWO",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.123232799999999,
+      "longitude": 8.088351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.124547229892721,
+          "lng": 8.08974802989272
+        },
+        "southwest": {
+          "lat": 6.121847570107278,
+          "lng": 8.087048370107276
+        }
+      },
+      "formatted_address": "43FQ+78X, 491109, Eka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.123232799999999,8.088351",
+      "google_place_id": "ChIJT_LtY028XBARTElUQKWccJE"
+    }
   }
 ]

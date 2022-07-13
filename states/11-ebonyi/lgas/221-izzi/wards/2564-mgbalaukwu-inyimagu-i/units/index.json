@@ -13,7 +13,8 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "47286",
@@ -29,7 +30,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4099793,
+      "longitude": 8.2376813,
+      "viewport": {
+        "northeast": {
+          "lat": 6.411780979892723,
+          "lng": 8.239425129892723
+        },
+        "southwest": {
+          "lat": 6.409081320107279,
+          "lng": 8.23672547010728
+        }
+      },
+      "formatted_address": "C65Q+X3V, 480109, Ohagulode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4099793,8.2376813",
+      "google_place_id": "ChIJ71nUEgdjWxARsIXDXRLw2po"
+    }
   },
   {
     "id": "47287",
@@ -45,7 +63,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2977387,
+      "longitude": 8.0903941,
+      "viewport": {
+        "northeast": {
+          "lat": 6.299052479892722,
+          "lng": 8.091706979892722
+        },
+        "southwest": {
+          "lat": 6.296352820107278,
+          "lng": 8.089007320107278
+        }
+      },
+      "formatted_address": "73XR+35R, 482103, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2977387,8.0903941",
+      "google_place_id": "ChIJs3ilKkShXBARFXUfvlh10xQ"
+    }
   },
   {
     "id": "47288",
@@ -61,7 +96,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4069668,
+      "longitude": 8.226602399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.408243579892722,
+          "lng": 8.227849129892723
+        },
+        "southwest": {
+          "lat": 6.405543920107278,
+          "lng": 8.22514947010728
+        }
+      },
+      "formatted_address": "C64G+QJQ, 480109, Iboko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4069668,8.226602399999999",
+      "google_place_id": "ChIJz58AJOZjWxARQbq7EBxzQM0"
+    }
   },
   {
     "id": "47289",
@@ -77,7 +129,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   },
   {
     "id": "47290",
@@ -93,7 +162,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   },
   {
     "id": "47291",
@@ -109,7 +195,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.123232799999999,
+      "longitude": 8.088351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.124547229892721,
+          "lng": 8.08974802989272
+        },
+        "southwest": {
+          "lat": 6.121847570107278,
+          "lng": 8.087048370107276
+        }
+      },
+      "formatted_address": "43FQ+78X, 491109, Eka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.123232799999999,8.088351",
+      "google_place_id": "ChIJT_LtY028XBARTElUQKWccJE"
+    }
   },
   {
     "id": "47292",
@@ -125,7 +228,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.317550400000001,
+      "longitude": 8.1163134,
+      "viewport": {
+        "northeast": {
+          "lat": 6.318905379892722,
+          "lng": 8.117647829892721
+        },
+        "southwest": {
+          "lat": 6.316205720107278,
+          "lng": 8.114948170107278
+        }
+      },
+      "formatted_address": "8498+2G8, Azuiyi Udene 480101, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.317550400000001,8.1163134",
+      "google_place_id": "ChIJR7QaVnmhXBARiMh3nKtL1p8"
+    }
   },
   {
     "id": "47293",
@@ -141,7 +261,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   },
   {
     "id": "47294",
@@ -157,7 +294,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.323409499999999,
+      "longitude": 8.1221436,
+      "viewport": {
+        "northeast": {
+          "lat": 6.324769529892722,
+          "lng": 8.123465829892723
+        },
+        "southwest": {
+          "lat": 6.322069870107278,
+          "lng": 8.120766170107279
+        }
+      },
+      "formatted_address": "84FC+9V6, Obiora Street, Azuiyi Udene 480101, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.323409499999999,8.1221436",
+      "google_place_id": "ChIJFwAA5RegXBARnaedHsC_h3Q"
+    }
   },
   {
     "id": "47295",
@@ -173,7 +327,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 5.809764299999999,
+      "longitude": 8.0826116,
+      "viewport": {
+        "northeast": {
+          "lat": 5.811129379892723,
+          "lng": 8.083855379892722
+        },
+        "southwest": {
+          "lat": 5.808429720107279,
+          "lng": 8.081155720107278
+        }
+      },
+      "formatted_address": "543105, Ugep, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.809764299999999,8.0826116",
+      "google_place_id": "ChIJhTgS0OTcXBARxy6t83wg7VE"
+    }
   },
   {
     "id": "47296",
@@ -189,7 +360,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.1158261,
+      "longitude": 8.165189800000002,
+      "viewport": {
+        "northeast": {
+          "lat": 6.117158429892721,
+          "lng": 8.16651722989272
+        },
+        "southwest": {
+          "lat": 6.114458770107277,
+          "lng": 8.163817570107277
+        }
+      },
+      "formatted_address": "4588+83P, 482123, Eka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1158261,8.165189800000002",
+      "google_place_id": "ChIJlXa149SXXBARHw0N2Ipbud0"
+    }
   },
   {
     "id": "47297",
@@ -205,7 +393,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3859518,
+      "longitude": 8.011411200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387303479892722,
+          "lng": 8.012755779892721
+        },
+        "southwest": {
+          "lat": 6.384603820107278,
+          "lng": 8.010056120107278
+        }
+      },
+      "formatted_address": "ISHIEKE MARKET EBONYI LOCAL GOVERNMENT, 480211, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3859518,8.011411200000001",
+      "google_place_id": "ChIJd-p4M06gXBARo8AaQiTDqSI"
+    }
   },
   {
     "id": "47298",
@@ -221,7 +426,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4099793,
+      "longitude": 8.2376813,
+      "viewport": {
+        "northeast": {
+          "lat": 6.411780979892723,
+          "lng": 8.239425129892723
+        },
+        "southwest": {
+          "lat": 6.409081320107279,
+          "lng": 8.23672547010728
+        }
+      },
+      "formatted_address": "C65Q+X3V, 480109, Ohagulode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4099793,8.2376813",
+      "google_place_id": "ChIJ71nUEgdjWxARsIXDXRLw2po"
+    }
   },
   {
     "id": "47299",
@@ -237,7 +459,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   },
   {
     "id": "47300",
@@ -253,7 +492,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   },
   {
     "id": "47301",
@@ -269,7 +525,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.123232799999999,
+      "longitude": 8.088351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.124547229892721,
+          "lng": 8.08974802989272
+        },
+        "southwest": {
+          "lat": 6.121847570107278,
+          "lng": 8.087048370107276
+        }
+      },
+      "formatted_address": "43FQ+78X, 491109, Eka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.123232799999999,8.088351",
+      "google_place_id": "ChIJT_LtY028XBARTElUQKWccJE"
+    }
   },
   {
     "id": "47302",
@@ -285,7 +558,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3640105,
+      "longitude": 8.3320438,
+      "viewport": {
+        "northeast": {
+          "lat": 6.365791479892722,
+          "lng": 8.33338317989272
+        },
+        "southwest": {
+          "lat": 6.363091820107278,
+          "lng": 8.330683520107277
+        }
+      },
+      "formatted_address": "Ogoja-Abakaliki Rd, 480110, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3640105,8.3320438",
+      "google_place_id": "ChIJAZYmftp9WxARMb5lYk3Xxco"
+    }
   },
   {
     "id": "47303",
@@ -301,7 +591,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   },
   {
     "id": "47304",
@@ -317,7 +624,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.323468099999999,
+      "longitude": 8.0479004,
+      "viewport": {
+        "northeast": {
+          "lat": 6.324757879892722,
+          "lng": 8.04911342989272
+        },
+        "southwest": {
+          "lat": 6.322058220107278,
+          "lng": 8.046413770107277
+        }
+      },
+      "formatted_address": "Secondary School, 482106, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.323468099999999,8.0479004",
+      "google_place_id": "ChIJrWMB5O-hXBAR_ndkr8EiipU"
+    }
   },
   {
     "id": "47305",
@@ -333,7 +657,24 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.652706600000001,
+      "longitude": 8.180825,
+      "viewport": {
+        "northeast": {
+          "lat": 6.653836029892721,
+          "lng": 8.182124829892722
+        },
+        "southwest": {
+          "lat": 6.651136370107277,
+          "lng": 8.179425170107278
+        }
+      },
+      "formatted_address": "M53J+38P, 480111, Akwarata Agbaja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.652706600000001,8.180825",
+      "google_place_id": "ChIJ8dlc5fxrWxARAo1BB5cmFQo"
+    }
   },
   {
     "id": "47306",
@@ -349,6 +690,23 @@
     "local_government_id": "221",
     "local_government_name": "IZZI",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.536719499999999,
+      "longitude": 8.2850402,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538163429892722,
+          "lng": 8.286384429892724
+        },
+        "southwest": {
+          "lat": 6.535463770107278,
+          "lng": 8.28368477010728
+        }
+      },
+      "formatted_address": "G7PP+M2M, Nwezenyi, Igbeagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536719499999999,8.2850402",
+      "google_place_id": "ChIJD9cuzbhvWxARyTCuIPqCGFo"
+    }
   }
 ]

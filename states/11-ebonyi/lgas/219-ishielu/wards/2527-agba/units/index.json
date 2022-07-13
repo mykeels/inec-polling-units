@@ -13,7 +13,8 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "46709",
@@ -29,7 +30,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.037204,
+      "longitude": 7.807848,
+      "viewport": {
+        "northeast": {
+          "lat": 6.038614829892721,
+          "lng": 7.809179779892721
+        },
+        "southwest": {
+          "lat": 6.035915170107277,
+          "lng": 7.806480120107278
+        }
+      },
+      "formatted_address": "2RP5+V4Q, 491105, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.037204,7.807848",
+      "google_place_id": "ChIJ3zdk7BW1XBARd5b1JwNcFk8"
+    }
   },
   {
     "id": "46710",
@@ -45,7 +63,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0469497,
+      "longitude": 7.7552606,
+      "viewport": {
+        "northeast": {
+          "lat": 6.048227779892722,
+          "lng": 7.756554629892722
+        },
+        "southwest": {
+          "lat": 6.045528120107278,
+          "lng": 7.753854970107279
+        }
+      },
+      "formatted_address": "2QW4+Q4C, Umuorji Eweze, 491101, Uburu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0469497,7.7552606",
+      "google_place_id": "ChIJM-AdPV1LQxARzuHecIJfTRI"
+    }
   },
   {
     "id": "46711",
@@ -61,7 +96,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2829253,
+      "longitude": 7.981084500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.284667729892722,
+          "lng": 7.983721650000001
+        },
+        "southwest": {
+          "lat": 6.281968070107278,
+          "lng": 7.980205449999999
+        }
+      },
+      "formatted_address": "7XMJ+5CG, 482106, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2829253,7.981084500000001",
+      "google_place_id": "ChIJ29xJGaunXBARnyjPIBIFoDk"
+    }
   },
   {
     "id": "46712",
@@ -77,7 +129,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2245727,
+      "longitude": 8.2258057,
+      "viewport": {
+        "northeast": {
+          "lat": 6.225925079892722,
+          "lng": 8.227146229892721
+        },
+        "southwest": {
+          "lat": 6.223225420107278,
+          "lng": 8.224446570107277
+        }
+      },
+      "formatted_address": "66FG+R8F, 482137, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2245727,8.2258057",
+      "google_place_id": "ChIJDatIO9ebXBARCSUjgY5UuFE"
+    }
   },
   {
     "id": "46713",
@@ -93,7 +162,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2580401,
+      "longitude": 7.8629771,
+      "viewport": {
+        "northeast": {
+          "lat": 6.2602999,
+          "lng": 7.870213
+        },
+        "southwest": {
+          "lat": 6.251466,
+          "lng": 7.8595359
+        }
+      },
+      "formatted_address": "Agba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2580401,7.8629771",
+      "google_place_id": "ChIJ4y5ohxusXBARPZvjfw5jrBk"
+    }
   },
   {
     "id": "46714",
@@ -109,7 +195,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.043697799999999,
+      "longitude": 8.1642044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.044945379892721,
+          "lng": 8.165477829892719
+        },
+        "southwest": {
+          "lat": 6.042245720107277,
+          "lng": 8.162778170107275
+        }
+      },
+      "formatted_address": "8 New Market Rd, 480103, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.043697799999999,8.1642044",
+      "google_place_id": "ChIJy4-a1AiVXBAR_EYzb5VJABM"
+    }
   },
   {
     "id": "46715",
@@ -125,7 +228,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.037204,
+      "longitude": 7.807848,
+      "viewport": {
+        "northeast": {
+          "lat": 6.038614829892721,
+          "lng": 7.809179779892721
+        },
+        "southwest": {
+          "lat": 6.035915170107277,
+          "lng": 7.806480120107278
+        }
+      },
+      "formatted_address": "2RP5+V4Q, 491105, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.037204,7.807848",
+      "google_place_id": "ChIJ3zdk7BW1XBARd5b1JwNcFk8"
+    }
   },
   {
     "id": "46716",
@@ -141,7 +261,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3855901,
+      "longitude": 7.977930799999998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387053479892722,
+          "lng": 7.979256029892722
+        },
+        "southwest": {
+          "lat": 6.384353820107278,
+          "lng": 7.976556370107278
+        }
+      },
+      "formatted_address": "9XPH+66V, Unnamed Road, 481101, Ezamgbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3855901,7.977930799999998",
+      "google_place_id": "ChIJterAwWlZWxARW6Rm2nQ1AiU"
+    }
   },
   {
     "id": "46717",
@@ -157,7 +294,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.241334999999999,
+      "longitude": 7.753654699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.242684829892721,
+          "lng": 7.755004529892721
+        },
+        "southwest": {
+          "lat": 6.239985170107277,
+          "lng": 7.752304870107277
+        }
+      },
+      "formatted_address": "6QR3+GFJ, 481114, Ndiagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.241334999999999,7.753654699999999",
+      "google_place_id": "ChIJYb8TYRJTQxARxvlvX2ZoHM0"
+    }
   },
   {
     "id": "46718",
@@ -173,7 +327,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.043697799999999,
+      "longitude": 8.1642044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.044945379892721,
+          "lng": 8.165477829892719
+        },
+        "southwest": {
+          "lat": 6.042245720107277,
+          "lng": 8.162778170107275
+        }
+      },
+      "formatted_address": "8 New Market Rd, 480103, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.043697799999999,8.1642044",
+      "google_place_id": "ChIJy4-a1AiVXBAR_EYzb5VJABM"
+    }
   },
   {
     "id": "46719",
@@ -189,7 +360,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3257309,
+      "longitude": 8.116031,
+      "viewport": {
+        "northeast": {
+          "lat": 6.327076679892722,
+          "lng": 8.117345679892722
+        },
+        "southwest": {
+          "lat": 6.324377020107278,
+          "lng": 8.114646020107278
+        }
+      },
+      "formatted_address": "1 AWOLOWO STREET, Water Works Rd, 480213, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3257309,8.116031",
+      "google_place_id": "ChIJw9Rc-6ehXBAR6DnKoKgVd88"
+    }
   },
   {
     "id": "46720",
@@ -205,7 +393,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3944074,
+      "longitude": 7.9555395,
+      "viewport": {
+        "northeast": {
+          "lat": 6.39574837989272,
+          "lng": 7.956844079892723
+        },
+        "southwest": {
+          "lat": 6.393048720107276,
+          "lng": 7.954144420107279
+        }
+      },
+      "formatted_address": "Enugu-Abakaliki Rd, 481101, Ezamgbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3944074,7.9555395",
+      "google_place_id": "ChIJl1KKyNpVWxARJFN3xjDGh7M"
+    }
   },
   {
     "id": "46721",
@@ -221,7 +426,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.109053,
+      "longitude": 8.136884,
+      "viewport": {
+        "northeast": {
+          "lat": 6.110404629892721,
+          "lng": 8.138236829892723
+        },
+        "southwest": {
+          "lat": 6.107704970107277,
+          "lng": 8.135537170107279
+        }
+      },
+      "formatted_address": "5 Gunning Road, Azuiyi Udene 482123, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.109053,8.136884",
+      "google_place_id": "ChIJeWOP-R6WXBAR3u-l5Qw-rGk"
+    }
   },
   {
     "id": "46722",
@@ -237,6 +459,23 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.2829253,
+      "longitude": 7.981084500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.284667729892722,
+          "lng": 7.983721650000001
+        },
+        "southwest": {
+          "lat": 6.281968070107278,
+          "lng": 7.980205449999999
+        }
+      },
+      "formatted_address": "7XMJ+5CG, 482106, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2829253,7.981084500000001",
+      "google_place_id": "ChIJ29xJGaunXBARnyjPIBIFoDk"
+    }
   }
 ]

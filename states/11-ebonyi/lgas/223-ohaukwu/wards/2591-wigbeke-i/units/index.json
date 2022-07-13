@@ -13,7 +13,8 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "47801",
@@ -29,7 +30,8 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "47802",
@@ -45,7 +47,8 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "47803",
@@ -61,7 +64,8 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "47804",
@@ -77,7 +81,24 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.317550400000001,
+      "longitude": 8.1163134,
+      "viewport": {
+        "northeast": {
+          "lat": 6.318905379892722,
+          "lng": 8.117647829892721
+        },
+        "southwest": {
+          "lat": 6.316205720107278,
+          "lng": 8.114948170107278
+        }
+      },
+      "formatted_address": "8498+2G8, Azuiyi Udene 480101, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.317550400000001,8.1163134",
+      "google_place_id": "ChIJR7QaVnmhXBARiMh3nKtL1p8"
+    }
   },
   {
     "id": "47805",
@@ -93,7 +114,8 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "47806",
@@ -109,7 +131,24 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.643494500000001,
+      "longitude": 8.065614499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.658017,
+          "lng": 8.0790629
+        },
+        "southwest": {
+          "lat": 6.6315732,
+          "lng": 8.0549719
+        }
+      },
+      "formatted_address": "Wigbeke III, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.643494500000001,8.065614499999999",
+      "google_place_id": "ChIJS1n9P95AWxARnROydmlSPks"
+    }
   },
   {
     "id": "47807",
@@ -125,7 +164,24 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3859518,
+      "longitude": 8.011411200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387303479892722,
+          "lng": 8.012755779892721
+        },
+        "southwest": {
+          "lat": 6.384603820107278,
+          "lng": 8.010056120107278
+        }
+      },
+      "formatted_address": "ISHIEKE MARKET EBONYI LOCAL GOVERNMENT, 480211, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3859518,8.011411200000001",
+      "google_place_id": "ChIJd-p4M06gXBARo8AaQiTDqSI"
+    }
   },
   {
     "id": "47808",
@@ -141,6 +197,23 @@
     "local_government_id": "223",
     "local_government_name": "OHAUKWU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3859518,
+      "longitude": 8.011411200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387303479892722,
+          "lng": 8.012755779892721
+        },
+        "southwest": {
+          "lat": 6.384603820107278,
+          "lng": 8.010056120107278
+        }
+      },
+      "formatted_address": "ISHIEKE MARKET EBONYI LOCAL GOVERNMENT, 480211, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3859518,8.011411200000001",
+      "google_place_id": "ChIJd-p4M06gXBARo8AaQiTDqSI"
+    }
   }
 ]

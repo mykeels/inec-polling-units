@@ -13,7 +13,8 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "46724",
@@ -29,7 +30,8 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   },
   {
     "id": "46725",
@@ -45,7 +47,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.566284899999999,
+      "longitude": 7.7579683,
+      "viewport": {
+        "northeast": {
+          "lat": 6.589293,
+          "lng": 7.7788175
+        },
+        "southwest": {
+          "lat": 6.536778399999999,
+          "lng": 7.725572799999998
+        }
+      },
+      "formatted_address": "Amaezu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.566284899999999,7.7579683",
+      "google_place_id": "ChIJp30HzgKzRBARXx61BN-35hM"
+    }
   },
   {
     "id": "46726",
@@ -61,7 +80,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.0447967,
+      "longitude": 7.751455300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.046145829892722,
+          "lng": 7.752807179892722
+        },
+        "southwest": {
+          "lat": 6.043446170107278,
+          "lng": 7.750107520107278
+        }
+      },
+      "formatted_address": "2QV2+WH8, 491105, Uburu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0447967,7.751455300000001",
+      "google_place_id": "ChIJpYKTo_pKQxARXw8EoUexsnE"
+    }
   },
   {
     "id": "46727",
@@ -77,7 +113,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3353658,
+      "longitude": 8.1053829,
+      "viewport": {
+        "northeast": {
+          "lat": 6.336714529892722,
+          "lng": 8.106717179892721
+        },
+        "southwest": {
+          "lat": 6.334014870107278,
+          "lng": 8.104017520107277
+        }
+      },
+      "formatted_address": "Block J12, Flat A Goverment Staff Quaters, Udensi St, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3353658,8.1053829",
+      "google_place_id": "ChIJuQmWmQWhXBARKIDOFek8KSg"
+    }
   },
   {
     "id": "46728",
@@ -93,6 +146,23 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3831357,
+      "longitude": 7.767671300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.38448422989272,
+          "lng": 7.769048679892722
+        },
+        "southwest": {
+          "lat": 6.381784570107277,
+          "lng": 7.766349020107278
+        }
+      },
+      "formatted_address": "9QM9+733, 481111, Okpoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3831357,7.767671300000001",
+      "google_place_id": "ChIJPQBHezqrRBARaNLudfhpdZ4"
+    }
   }
 ]

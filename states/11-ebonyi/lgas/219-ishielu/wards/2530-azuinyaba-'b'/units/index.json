@@ -13,7 +13,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.037204,
+      "longitude": 7.807848,
+      "viewport": {
+        "northeast": {
+          "lat": 6.038614829892721,
+          "lng": 7.809179779892721
+        },
+        "southwest": {
+          "lat": 6.035915170107277,
+          "lng": 7.806480120107278
+        }
+      },
+      "formatted_address": "2RP5+V4Q, 491105, Okposi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.037204,7.807848",
+      "google_place_id": "ChIJ3zdk7BW1XBARd5b1JwNcFk8"
+    }
   },
   {
     "id": "46736",
@@ -29,7 +46,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.365399699999999,
+      "longitude": 7.7579683,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3971496,
+          "lng": 7.7900083
+        },
+        "southwest": {
+          "lat": 6.3366908,
+          "lng": 7.726198900000001
+        }
+      },
+      "formatted_address": "Azuinyaba \"B\", Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.365399699999999,7.7579683",
+      "google_place_id": "ChIJgc-vdZSqRBARiSrUQkUSfew"
+    }
   },
   {
     "id": "46737",
@@ -45,7 +79,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.4737551,
+      "longitude": 7.7800034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.475242129892721,
+          "lng": 7.781492279892724
+        },
+        "southwest": {
+          "lat": 6.472542470107277,
+          "lng": 7.77879262010728
+        }
+      },
+      "formatted_address": "FQFJ+G22, 481122, Nkalagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4737551,7.7800034",
+      "google_place_id": "ChIJI5T2P1CtRBAR_owEPBTRrG4"
+    }
   },
   {
     "id": "46738",
@@ -61,7 +112,24 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": {
+      "latitude": 6.3294866,
+      "longitude": 8.1218326,
+      "viewport": {
+        "northeast": {
+          "lat": 6.330832879892721,
+          "lng": 8.123188579892723
+        },
+        "southwest": {
+          "lat": 6.328133220107278,
+          "lng": 8.12048892010728
+        }
+      },
+      "formatted_address": "67 igweore street, Hilltop St, opp. assemblies of God sec. School, Abakaliki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3294866,8.1218326",
+      "google_place_id": "ChIJsUZnNfGhXBAR4GAqghDvM2Q"
+    }
   },
   {
     "id": "46739",
@@ -77,6 +145,7 @@
     "local_government_id": "219",
     "local_government_name": "ISHIELU",
     "state_id": "11",
-    "state_name": "EBONYI"
+    "state_name": "EBONYI",
+    "location": null
   }
 ]
