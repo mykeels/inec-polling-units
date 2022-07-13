@@ -13,7 +13,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0037308,
+      "longitude": 7.2706807,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0519969,
+          "lng": 7.296263
+        },
+        "southwest": {
+          "lat": 5.992083699999999,
+          "lng": 7.257188299999999
+        }
+      },
+      "formatted_address": "Ogbunka I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0037308,7.2706807",
+      "google_place_id": "ChIJs-ypgk1tQxARQwzTQlRQKQA"
+    }
   },
   {
     "id": "17887",
@@ -29,7 +46,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0037308,
+      "longitude": 7.2706807,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0519969,
+          "lng": 7.296263
+        },
+        "southwest": {
+          "lat": 5.992083699999999,
+          "lng": 7.257188299999999
+        }
+      },
+      "formatted_address": "Ogbunka I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0037308,7.2706807",
+      "google_place_id": "ChIJs-ypgk1tQxARQwzTQlRQKQA"
+    }
   },
   {
     "id": "17888",
@@ -45,7 +79,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1034228,
+      "longitude": 6.8833562,
+      "viewport": {
+        "northeast": {
+          "lat": 6.104698529892722,
+          "lng": 6.884787429892722
+        },
+        "southwest": {
+          "lat": 6.101998870107278,
+          "lng": 6.882087770107278
+        }
+      },
+      "formatted_address": "Umuoji Mr Ofonze Comp Ulo Uruegbe Village Square, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1034228,6.8833562",
+      "google_place_id": "ChIJ99fQSf6XQxARdnpujbRqRDU"
+    }
   },
   {
     "id": "17889",
@@ -61,7 +112,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1945308,
+      "longitude": 7.067948599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195893079892722,
+          "lng": 7.069371679892722
+        },
+        "southwest": {
+          "lat": 6.193193420107278,
+          "lng": 7.066672020107278
+        }
+      },
+      "formatted_address": "53V9+R58, Umuenechi Village, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1945308,7.067948599999999",
+      "google_place_id": "ChIJiRaMytODQxAROQb5gRjPGrg"
+    }
   },
   {
     "id": "17890",
@@ -77,7 +145,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9649559,
+      "longitude": 7.227651400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.966147429892722,
+          "lng": 7.229092479892721
+        },
+        "southwest": {
+          "lat": 5.963447770107278,
+          "lng": 7.226392820107277
+        }
+      },
+      "formatted_address": "X68H+232, Madonna Girls Secondary School, 423101, Umunze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9649559,7.227651400000001",
+      "google_place_id": "ChIJBSZarfQNQxARQ06oZcOgiu0"
+    }
   },
   {
     "id": "17891",
@@ -93,7 +178,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9649559,
+      "longitude": 7.227651400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 5.966147429892722,
+          "lng": 7.229092479892721
+        },
+        "southwest": {
+          "lat": 5.963447770107278,
+          "lng": 7.226392820107277
+        }
+      },
+      "formatted_address": "X68H+232, Madonna Girls Secondary School, 423101, Umunze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9649559,7.227651400000001",
+      "google_place_id": "ChIJBSZarfQNQxARQ06oZcOgiu0"
+    }
   },
   {
     "id": "17892",
@@ -109,7 +211,8 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17893",
@@ -125,7 +228,8 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17894",
@@ -141,7 +245,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3652864,
+      "longitude": 7.4056928,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3824251,
+          "lng": 7.4347306
+        },
+        "southwest": {
+          "lat": 6.3461352,
+          "lng": 7.381906600000001
+        }
+      },
+      "formatted_address": "Obioma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3652864,7.4056928",
+      "google_place_id": "ChIJJ3e22NqfRBAR6B_1LU7fspw"
+    }
   },
   {
     "id": "17895",
@@ -157,7 +278,8 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17896",
@@ -173,7 +295,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0106132,
+      "longitude": 7.2792188,
+      "viewport": {
+        "northeast": {
+          "lat": 6.012056379892723,
+          "lng": 7.280554029892722
+        },
+        "southwest": {
+          "lat": 6.009356720107279,
+          "lng": 7.277854370107279
+        }
+      },
+      "formatted_address": "276H+6MX, 423115, Umunze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0106132,7.2792188",
+      "google_place_id": "ChIJ_9gSP30TQxARA8KEXfI2TrM"
+    }
   },
   {
     "id": "17897",
@@ -189,6 +328,23 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0106132,
+      "longitude": 7.2792188,
+      "viewport": {
+        "northeast": {
+          "lat": 6.012056379892723,
+          "lng": 7.280554029892722
+        },
+        "southwest": {
+          "lat": 6.009356720107279,
+          "lng": 7.277854370107279
+        }
+      },
+      "formatted_address": "276H+6MX, 423115, Umunze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0106132,7.2792188",
+      "google_place_id": "ChIJ_9gSP30TQxARA8KEXfI2TrM"
+    }
   }
 ]

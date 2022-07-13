@@ -13,7 +13,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.028454399999999,
+      "longitude": 7.2185222,
+      "viewport": {
+        "northeast": {
+          "lat": 6.029777629892721,
+          "lng": 7.219937629892723
+        },
+        "southwest": {
+          "lat": 6.027077970107277,
+          "lng": 7.217237970107279
+        }
+      },
+      "formatted_address": "26H9+9CJ, Ekwulobia-Umunze Rd, 423106, Nawfija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.028454399999999,7.2185222",
+      "google_place_id": "ChIJCQSbLylzQxARh_heJXQMd3Y"
+    }
   },
   {
     "id": "17660",
@@ -29,7 +46,8 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17661",
@@ -45,7 +63,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.018021399999999,
+      "longitude": 7.1499269,
+      "viewport": {
+        "northeast": {
+          "lat": 6.019367529892723,
+          "lng": 7.151280929892722
+        },
+        "southwest": {
+          "lat": 6.016667870107279,
+          "lng": 7.148581270107278
+        }
+      },
+      "formatted_address": "249X+6X3, 423114, Ogboji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.018021399999999,7.1499269",
+      "google_place_id": "ChIJV_cbrzMLQxARd8OqXi_PaiQ"
+    }
   },
   {
     "id": "17662",
@@ -61,6 +96,23 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0052918,
+      "longitude": 7.1520926,
+      "viewport": {
+        "northeast": {
+          "lat": 6.0543314,
+          "lng": 7.182115700000001
+        },
+        "southwest": {
+          "lat": 5.9887877,
+          "lng": 7.130205999999999
+        }
+      },
+      "formatted_address": "Ndiokolo/Ndiokpaleke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0052918,7.1520926",
+      "google_place_id": "ChIJ12fct8p0QxARYsqPkLrDmRE"
+    }
   }
 ]

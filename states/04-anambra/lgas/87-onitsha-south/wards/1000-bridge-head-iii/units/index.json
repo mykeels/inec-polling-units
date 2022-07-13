@@ -13,7 +13,24 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1293859,
+      "longitude": 6.7855757,
+      "viewport": {
+        "northeast": {
+          "lat": 6.130538379892722,
+          "lng": 6.787053629892722
+        },
+        "southwest": {
+          "lat": 6.127838720107278,
+          "lng": 6.784353970107278
+        }
+      },
+      "formatted_address": "4QHP+Q64, Bridgehead 431107, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1293859,6.7855757",
+      "google_place_id": "ChIJ39rdyTuTQxARNjGs0TZIBkk"
+    }
   },
   {
     "id": "17233",
@@ -29,7 +46,8 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17234",
@@ -45,7 +63,8 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17235",
@@ -61,7 +80,8 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17236",
@@ -77,7 +97,24 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1312847,
+      "longitude": 6.786095599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.132634529892722,
+          "lng": 6.78744542989272
+        },
+        "southwest": {
+          "lat": 6.129934870107278,
+          "lng": 6.784745770107277
+        }
+      },
+      "formatted_address": "9 Akpo St, Fegge 431107, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1312847,6.786095599999999",
+      "google_place_id": "Eik5IEFrcG8gU3QsIEZlZ2dlIDQzMTEwNywgT25pdHNoYSwgTmlnZXJpYSIwEi4KFAoSCfG0w0xzk0MQEXvcxirS464NEAkqFAoSCVPiYbEMk0MQEffSHcdjlY3B"
+    }
   },
   {
     "id": "17237",
@@ -93,7 +130,24 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1300697,
+      "longitude": 6.785496699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.131602329892723,
+          "lng": 6.786828429892721
+        },
+        "southwest": {
+          "lat": 6.128902670107279,
+          "lng": 6.784128770107277
+        }
+      },
+      "formatted_address": "19 Urunebo Street, State Low Cost Housi 431107, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1300697,6.785496699999999",
+      "google_place_id": "EkAxOSBVcnVuZWJvIFN0cmVldCwgU3RhdGUgTG93IENvc3QgSG91c2kgNDMxMTA3LCBPbml0c2hhLCBOaWdlcmlhIjASLgoUChIJa3NaSHOTQxARRnJCfQ1olGIQEyoUChIJvTPAVHOTQxARMI1CTHOAyag"
+    }
   },
   {
     "id": "17238",
@@ -109,7 +163,8 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17239",
@@ -125,6 +180,7 @@
     "local_government_id": "87",
     "local_government_name": "ONITSHA -SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   }
 ]

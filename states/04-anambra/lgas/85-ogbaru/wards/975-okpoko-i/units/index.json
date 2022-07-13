@@ -13,7 +13,8 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "16656",
@@ -29,7 +30,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1287787,
+      "longitude": 6.7928232,
+      "viewport": {
+        "northeast": {
+          "lat": 6.130123179892722,
+          "lng": 6.79417472989272
+        },
+        "southwest": {
+          "lat": 6.127423520107278,
+          "lng": 6.791475070107277
+        }
+      },
+      "formatted_address": "A26/27 Ogbaru Main Market GOD’S WILL MAIN LINE, 434242, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1287787,6.7928232",
+      "google_place_id": "ChIJ7YSYoxCTQxARPc3Xq-ABy3E"
+    }
   },
   {
     "id": "16657",
@@ -45,7 +63,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1329419,
+      "longitude": 6.7923994,
+      "viewport": {
+        "northeast": {
+          "lat": 6.134269329892722,
+          "lng": 6.79376352989272
+        },
+        "southwest": {
+          "lat": 6.131569670107278,
+          "lng": 6.791063870107276
+        }
+      },
+      "formatted_address": "A25/15,Ogbaru Main Market, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1329419,6.7923994",
+      "google_place_id": "ChIJ6yP0TRqTQxAR8fuRKyuK7JQ"
+    }
   },
   {
     "id": "16658",
@@ -61,7 +96,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7959141,
+      "longitude": 7.0381287,
+      "viewport": {
+        "northeast": {
+          "lat": 5.797229029892721,
+          "lng": 7.039435179892722
+        },
+        "southwest": {
+          "lat": 5.794529370107277,
+          "lng": 7.036735520107278
+        }
+      },
+      "formatted_address": "Q2WQ+976, Amaigbo Rd, Umuezeala 473102, Orlu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7959141,7.0381287",
+      "google_place_id": "ChIJ0U097nOpQxARUJcSHfE0Up8"
+    }
   },
   {
     "id": "16659",
@@ -77,7 +129,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.7959141,
+      "longitude": 7.0381287,
+      "viewport": {
+        "northeast": {
+          "lat": 5.797229029892721,
+          "lng": 7.039435179892722
+        },
+        "southwest": {
+          "lat": 5.794529370107277,
+          "lng": 7.036735520107278
+        }
+      },
+      "formatted_address": "Q2WQ+976, Amaigbo Rd, Umuezeala 473102, Orlu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.7959141,7.0381287",
+      "google_place_id": "ChIJ0U097nOpQxARUJcSHfE0Up8"
+    }
   },
   {
     "id": "16660",
@@ -93,7 +162,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9319449,
+      "longitude": 7.075286699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.933299679892722,
+          "lng": 7.076618379892722
+        },
+        "southwest": {
+          "lat": 5.930600020107277,
+          "lng": 7.073918720107278
+        }
+      },
+      "formatted_address": "W3JG+P4J, 422115, Uga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9319449,7.075286699999999",
+      "google_place_id": "ChIJOVV1aUmnQxARQm0Hm6DRfw4"
+    }
   },
   {
     "id": "16661",
@@ -109,7 +195,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1066277,
+      "longitude": 6.762209299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.107974529892722,
+          "lng": 6.763542379892723
+        },
+        "southwest": {
+          "lat": 6.105274870107278,
+          "lng": 6.760842720107279
+        }
+      },
+      "formatted_address": "4Q46+MV5, Iyiowa Layout 431114, Iyowa Odekpe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1066277,6.762209299999999",
+      "google_place_id": "ChIJQwxxZ36VQxARWxh4xR2QXX0"
+    }
   },
   {
     "id": "16662",
@@ -125,7 +228,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1066277,
+      "longitude": 6.762209299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.107974529892722,
+          "lng": 6.763542379892723
+        },
+        "southwest": {
+          "lat": 6.105274870107278,
+          "lng": 6.760842720107279
+        }
+      },
+      "formatted_address": "4Q46+MV5, Iyiowa Layout 431114, Iyowa Odekpe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1066277,6.762209299999999",
+      "google_place_id": "ChIJQwxxZ36VQxARWxh4xR2QXX0"
+    }
   },
   {
     "id": "16663",
@@ -141,7 +261,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1191783,
+      "longitude": 6.7828626,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1257861,
+          "lng": 6.787521000000001
+        },
+        "southwest": {
+          "lat": 6.1125305,
+          "lng": 6.7761141
+        }
+      },
+      "formatted_address": "Okpoko Layout, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1191783,6.7828626",
+      "google_place_id": "ChIJw3wFynqTQxARiCOppARuYGE"
+    }
   },
   {
     "id": "16664",
@@ -157,7 +294,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1287787,
+      "longitude": 6.7928232,
+      "viewport": {
+        "northeast": {
+          "lat": 6.130123179892722,
+          "lng": 6.79417472989272
+        },
+        "southwest": {
+          "lat": 6.127423520107278,
+          "lng": 6.791475070107277
+        }
+      },
+      "formatted_address": "A26/27 Ogbaru Main Market GOD’S WILL MAIN LINE, 434242, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1287787,6.7928232",
+      "google_place_id": "ChIJ7YSYoxCTQxARPc3Xq-ABy3E"
+    }
   },
   {
     "id": "16665",
@@ -173,7 +327,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9319449,
+      "longitude": 7.075286699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.933299679892722,
+          "lng": 7.076618379892722
+        },
+        "southwest": {
+          "lat": 5.930600020107277,
+          "lng": 7.073918720107278
+        }
+      },
+      "formatted_address": "W3JG+P4J, 422115, Uga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9319449,7.075286699999999",
+      "google_place_id": "ChIJOVV1aUmnQxARQm0Hm6DRfw4"
+    }
   },
   {
     "id": "16666",
@@ -189,7 +360,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1251646,
+      "longitude": 6.7814615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.126472929892722,
+          "lng": 6.782826029892723
+        },
+        "southwest": {
+          "lat": 6.123773270107278,
+          "lng": 6.780126370107279
+        }
+      },
+      "formatted_address": "233 B, Obodo - Ukwu Road, Ogbaru Main Market, Near Bournvita House, Okpoko, Ogbaru, 434212, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1251646,6.7814615",
+      "google_place_id": "ChIJK603lvGSQxARH0i_uzXuyXc"
+    }
   },
   {
     "id": "16667",
@@ -205,7 +393,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1251646,
+      "longitude": 6.7814615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.126472929892722,
+          "lng": 6.782826029892723
+        },
+        "southwest": {
+          "lat": 6.123773270107278,
+          "lng": 6.780126370107279
+        }
+      },
+      "formatted_address": "233 B, Obodo - Ukwu Road, Ogbaru Main Market, Near Bournvita House, Okpoko, Ogbaru, 434212, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1251646,6.7814615",
+      "google_place_id": "ChIJK603lvGSQxARH0i_uzXuyXc"
+    }
   },
   {
     "id": "16668",
@@ -221,7 +426,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1191783,
+      "longitude": 6.7828626,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1257861,
+          "lng": 6.787521000000001
+        },
+        "southwest": {
+          "lat": 6.1125305,
+          "lng": 6.7761141
+        }
+      },
+      "formatted_address": "Okpoko Layout, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1191783,6.7828626",
+      "google_place_id": "ChIJw3wFynqTQxARiCOppARuYGE"
+    }
   },
   {
     "id": "16669",
@@ -237,7 +459,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9213455,
+      "longitude": 6.7279918,
+      "viewport": {
+        "northeast": {
+          "lat": 5.922695329892722,
+          "lng": 6.729341629892722
+        },
+        "southwest": {
+          "lat": 5.919995670107278,
+          "lng": 6.726641970107278
+        }
+      },
+      "formatted_address": "Okoti market Ogbaru LGA Okoti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9213455,6.7279918",
+      "google_place_id": "ChIJe2Vsz3nHQxARYirzhUz0I64"
+    }
   },
   {
     "id": "16670",
@@ -253,7 +492,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1251646,
+      "longitude": 6.7814615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.126472929892722,
+          "lng": 6.782826029892723
+        },
+        "southwest": {
+          "lat": 6.123773270107278,
+          "lng": 6.780126370107279
+        }
+      },
+      "formatted_address": "233 B, Obodo - Ukwu Road, Ogbaru Main Market, Near Bournvita House, Okpoko, Ogbaru, 434212, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1251646,6.7814615",
+      "google_place_id": "ChIJK603lvGSQxARH0i_uzXuyXc"
+    }
   },
   {
     "id": "16671",
@@ -269,7 +525,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1066277,
+      "longitude": 6.762209299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.107974529892722,
+          "lng": 6.763542379892723
+        },
+        "southwest": {
+          "lat": 6.105274870107278,
+          "lng": 6.760842720107279
+        }
+      },
+      "formatted_address": "4Q46+MV5, Iyiowa Layout 431114, Iyowa Odekpe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1066277,6.762209299999999",
+      "google_place_id": "ChIJQwxxZ36VQxARWxh4xR2QXX0"
+    }
   },
   {
     "id": "16672",
@@ -285,7 +558,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1178447,
+      "longitude": 6.7842015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.129460799999999,
+          "lng": 6.7946577
+        },
+        "southwest": {
+          "lat": 6.110813599999999,
+          "lng": 6.7752814
+        }
+      },
+      "formatted_address": "Okpoko, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1178447,6.7842015",
+      "google_place_id": "ChIJI-E2d3qTQxAR4rBKN2-n_80"
+    }
   },
   {
     "id": "16673",
@@ -301,7 +591,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1178447,
+      "longitude": 6.7842015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.129460799999999,
+          "lng": 6.7946577
+        },
+        "southwest": {
+          "lat": 6.110813599999999,
+          "lng": 6.7752814
+        }
+      },
+      "formatted_address": "Okpoko, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1178447,6.7842015",
+      "google_place_id": "ChIJI-E2d3qTQxAR4rBKN2-n_80"
+    }
   },
   {
     "id": "16674",
@@ -317,7 +624,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1191783,
+      "longitude": 6.7828626,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1257861,
+          "lng": 6.787521000000001
+        },
+        "southwest": {
+          "lat": 6.1125305,
+          "lng": 6.7761141
+        }
+      },
+      "formatted_address": "Okpoko Layout, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1191783,6.7828626",
+      "google_place_id": "ChIJw3wFynqTQxARiCOppARuYGE"
+    }
   },
   {
     "id": "16675",
@@ -333,7 +657,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1179796,
+      "longitude": 6.773491099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.1270148,
+          "lng": 6.7847455
+        },
+        "southwest": {
+          "lat": 6.104155599999999,
+          "lng": 6.7564747
+        }
+      },
+      "formatted_address": "Okpoko VI, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1179796,6.773491099999999",
+      "google_place_id": "ChIJm8f6_l2TQxARrzY_83le60I"
+    }
   },
   {
     "id": "16676",
@@ -349,7 +690,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1251646,
+      "longitude": 6.7814615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.126472929892722,
+          "lng": 6.782826029892723
+        },
+        "southwest": {
+          "lat": 6.123773270107278,
+          "lng": 6.780126370107279
+        }
+      },
+      "formatted_address": "233 B, Obodo - Ukwu Road, Ogbaru Main Market, Near Bournvita House, Okpoko, Ogbaru, 434212, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1251646,6.7814615",
+      "google_place_id": "ChIJK603lvGSQxARH0i_uzXuyXc"
+    }
   },
   {
     "id": "16677",
@@ -365,7 +723,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1601653,
+      "longitude": 6.7874406,
+      "viewport": {
+        "northeast": {
+          "lat": 6.161597379892722,
+          "lng": 6.788830029892721
+        },
+        "southwest": {
+          "lat": 6.158897720107278,
+          "lng": 6.786130370107277
+        }
+      },
+      "formatted_address": "5Q6P+3XG, GRA 434106, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1601653,6.7874406",
+      "google_place_id": "ChIJGwO9Z6uTQxARbgJAoEmaoe0"
+    }
   },
   {
     "id": "16678",
@@ -381,7 +756,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9319449,
+      "longitude": 7.075286699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.933299679892722,
+          "lng": 7.076618379892722
+        },
+        "southwest": {
+          "lat": 5.930600020107277,
+          "lng": 7.073918720107278
+        }
+      },
+      "formatted_address": "W3JG+P4J, 422115, Uga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9319449,7.075286699999999",
+      "google_place_id": "ChIJOVV1aUmnQxARQm0Hm6DRfw4"
+    }
   },
   {
     "id": "16679",
@@ -397,7 +789,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1462473,
+      "longitude": 6.8297686,
+      "viewport": {
+        "northeast": {
+          "lat": 6.147642729892722,
+          "lng": 6.831164229892723
+        },
+        "southwest": {
+          "lat": 6.144943070107278,
+          "lng": 6.828464570107279
+        }
+      },
+      "formatted_address": "4RWH+FVX, Palace Road, Nkpor 434105, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1462473,6.8297686",
+      "google_place_id": "ChIJUQQaSpKTQxARWcwGWj3cwjs"
+    }
   },
   {
     "id": "16680",
@@ -413,7 +822,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1462473,
+      "longitude": 6.8297686,
+      "viewport": {
+        "northeast": {
+          "lat": 6.147642729892722,
+          "lng": 6.831164229892723
+        },
+        "southwest": {
+          "lat": 6.144943070107278,
+          "lng": 6.828464570107279
+        }
+      },
+      "formatted_address": "4RWH+FVX, Palace Road, Nkpor 434105, Nkpor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1462473,6.8297686",
+      "google_place_id": "ChIJUQQaSpKTQxARWcwGWj3cwjs"
+    }
   },
   {
     "id": "16681",
@@ -429,7 +855,24 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.125249999999999,
+      "longitude": 6.782013000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.126627079892722,
+          "lng": 6.783353629892721
+        },
+        "southwest": {
+          "lat": 6.123927420107278,
+          "lng": 6.780653970107277
+        }
+      },
+      "formatted_address": "A8/15G4 Ogbaru Market Anambra, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.125249999999999,6.782013000000001",
+      "google_place_id": "ChIJ6xipbhGTQxARK283XJrO_lw"
+    }
   },
   {
     "id": "16682",
@@ -445,7 +888,8 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "16683",
@@ -461,7 +905,8 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "16684",
@@ -477,6 +922,23 @@
     "local_government_id": "85",
     "local_government_name": "OGBARU",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1264724,
+      "longitude": 6.7858066,
+      "viewport": {
+        "northeast": {
+          "lat": 6.127852129892721,
+          "lng": 6.787146529892722
+        },
+        "southwest": {
+          "lat": 6.125152470107277,
+          "lng": 6.784446870107278
+        }
+      },
+      "formatted_address": "33 obododu ukua road, Okpoko 431107, ogbara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1264724,6.7858066",
+      "google_place_id": "ChIJR_XV6haTQxARUcHB8cY7cnA"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1844622,
+      "longitude": 7.110246399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.185867429892721,
+          "lng": 7.111775179892721
+        },
+        "southwest": {
+          "lat": 6.183167770107278,
+          "lng": 7.109075520107277
+        }
+      },
+      "formatted_address": "54M6+Q3Q, 420105, Isiagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1844622,7.110246399999999",
+      "google_place_id": "ChIJOYuR9PN3QxAR019XjhiBvM4"
+    }
   },
   {
     "id": "17552",
@@ -29,7 +46,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1317907,
+      "longitude": 7.1305536,
+      "viewport": {
+        "northeast": {
+          "lat": 6.155324999999999,
+          "lng": 7.1533778
+        },
+        "southwest": {
+          "lat": 6.112988,
+          "lng": 7.1159684
+        }
+      },
+      "formatted_address": "Amaetiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1317907,7.1305536",
+      "google_place_id": "ChIJoWg9i1h2QxARztEDOd9wLuY"
+    }
   },
   {
     "id": "17553",
@@ -45,6 +79,23 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1317907,
+      "longitude": 7.1305536,
+      "viewport": {
+        "northeast": {
+          "lat": 6.155324999999999,
+          "lng": 7.1533778
+        },
+        "southwest": {
+          "lat": 6.112988,
+          "lng": 7.1159684
+        }
+      },
+      "formatted_address": "Amaetiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1317907,7.1305536",
+      "google_place_id": "ChIJoWg9i1h2QxARztEDOd9wLuY"
+    }
   }
 ]

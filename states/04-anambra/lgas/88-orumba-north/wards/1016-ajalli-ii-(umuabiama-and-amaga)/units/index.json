@@ -13,7 +13,8 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17547",
@@ -29,7 +30,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0423217,
+      "longitude": 7.2131028,
+      "viewport": {
+        "northeast": {
+          "lat": 6.043569179892722,
+          "lng": 7.214316429892721
+        },
+        "southwest": {
+          "lat": 6.040869520107278,
+          "lng": 7.211616770107277
+        }
+      },
+      "formatted_address": "26R7+W6H, Orumba North L.G.A,, Ajalli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0423217,7.2131028",
+      "google_place_id": "ChIJpZJDaRhzQxAR8-XzSvTFi0M"
+    }
   },
   {
     "id": "17548",
@@ -45,7 +63,8 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "17549",
@@ -61,7 +80,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0480073,
+      "longitude": 7.2092885,
+      "viewport": {
+        "northeast": {
+          "lat": 6.049319229892721,
+          "lng": 7.210660379892722
+        },
+        "southwest": {
+          "lat": 6.046619570107278,
+          "lng": 7.207960720107278
+        }
+      },
+      "formatted_address": "26X5+6J5, Ajalli, Orumba North L.G.A, Ujari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0480073,7.2092885",
+      "google_place_id": "ChIJP85o5xBzQxARpLKuliuQDcw"
+    }
   },
   {
     "id": "17550",
@@ -77,6 +113,23 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0480073,
+      "longitude": 7.2092885,
+      "viewport": {
+        "northeast": {
+          "lat": 6.049319229892721,
+          "lng": 7.210660379892722
+        },
+        "southwest": {
+          "lat": 6.046619570107278,
+          "lng": 7.207960720107278
+        }
+      },
+      "formatted_address": "26X5+6J5, Ajalli, Orumba North L.G.A, Ujari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0480073,7.2092885",
+      "google_place_id": "ChIJP85o5xBzQxARpLKuliuQDcw"
+    }
   }
 ]

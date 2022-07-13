@@ -13,7 +13,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.981607899999999,
+      "longitude": 7.234298599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.982959079892722,
+          "lng": 7.235635729892723
+        },
+        "southwest": {
+          "lat": 5.980259420107278,
+          "lng": 7.232936070107278
+        }
+      },
+      "formatted_address": "X6JM+JPV, 423105, Umunze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.981607899999999,7.234298599999999",
+      "google_place_id": "ChIJURlO6wgNQxARemTesHaYNcY"
+    }
   },
   {
     "id": "17785",
@@ -29,7 +46,24 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.981607899999999,
+      "longitude": 7.234298599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.982959079892722,
+          "lng": 7.235635729892723
+        },
+        "southwest": {
+          "lat": 5.980259420107278,
+          "lng": 7.232936070107278
+        }
+      },
+      "formatted_address": "X6JM+JPV, 423105, Umunze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.981607899999999,7.234298599999999",
+      "google_place_id": "ChIJURlO6wgNQxARemTesHaYNcY"
+    }
   },
   {
     "id": "17786",
@@ -45,6 +79,7 @@
     "local_government_id": "89",
     "local_government_name": "ORUMBA  SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   }
 ]

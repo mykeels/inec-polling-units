@@ -13,7 +13,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9413277,
+      "longitude": 7.2509786,
+      "viewport": {
+        "northeast": {
+          "lat": 5.942664429892721,
+          "lng": 7.252382679892722
+        },
+        "southwest": {
+          "lat": 5.939964770107277,
+          "lng": 7.249683020107278
+        }
+      },
+      "formatted_address": "SHOP NO 1 OPOSITE ORIE MARKET IHITE ORUMBA OSUTH #ANAMBRA STATE, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9413277,7.2509786",
+      "google_place_id": "ChIJDQNj7CANQxARYSzb1lBlMPc"
+    }
   },
   {
     "id": "17728",
@@ -29,7 +46,24 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1902193,
+      "longitude": 7.073135400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.191571029892722,
+          "lng": 7.074504429892722
+        },
+        "southwest": {
+          "lat": 6.188871370107278,
+          "lng": 7.071804770107279
+        }
+      },
+      "formatted_address": "53RF+37J, 420107, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1902193,7.073135400000001",
+      "google_place_id": "ChIJg1o8zEqdQxAR92VoE7HjbWo"
+    }
   },
   {
     "id": "17729",
@@ -45,6 +79,23 @@
     "local_government_id": "88",
     "local_government_name": "ORUMBA NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.062464299999999,
+      "longitude": 7.1294286,
+      "viewport": {
+        "northeast": {
+          "lat": 6.063766529892722,
+          "lng": 7.130798029892721
+        },
+        "southwest": {
+          "lat": 6.061066870107278,
+          "lng": 7.128098370107277
+        }
+      },
+      "formatted_address": "346H+XQM, 423120, Ndiowu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.062464299999999,7.1294286",
+      "google_place_id": "ChIJe9_EQwd1QxARCOx004Id0E4"
+    }
   }
 ]
