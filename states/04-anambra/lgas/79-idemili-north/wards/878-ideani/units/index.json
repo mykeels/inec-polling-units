@@ -13,7 +13,24 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.117541,
+      "longitude": 6.9115221,
+      "viewport": {
+        "northeast": {
+          "lat": 6.118606029892723,
+          "lng": 6.912655679892723
+        },
+        "southwest": {
+          "lat": 6.115906370107279,
+          "lng": 6.909956020107279
+        }
+      },
+      "formatted_address": "Civic Centre Uru Eheem Village, 434112, Ideani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.117541,6.9115221",
+      "google_place_id": "ChIJMT94UsCRQxARYycNlrA_Rk8"
+    }
   },
   {
     "id": "14701",
@@ -29,7 +46,8 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14702",
@@ -45,7 +63,24 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.089216,
+      "longitude": 6.9320887,
+      "viewport": {
+        "northeast": {
+          "lat": 6.09058357989272,
+          "lng": 6.933415479892722
+        },
+        "southwest": {
+          "lat": 6.087883920107276,
+          "lng": 6.930715820107278
+        }
+      },
+      "formatted_address": "3WQJ+MRP, 434116, Alor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.089216,6.9320887",
+      "google_place_id": "ChIJ4Se8e-iZQxARSaUSiOp0C5U"
+    }
   },
   {
     "id": "14703",
@@ -61,7 +96,24 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.089216,
+      "longitude": 6.9320887,
+      "viewport": {
+        "northeast": {
+          "lat": 6.09058357989272,
+          "lng": 6.933415479892722
+        },
+        "southwest": {
+          "lat": 6.087883920107276,
+          "lng": 6.930715820107278
+        }
+      },
+      "formatted_address": "3WQJ+MRP, 434116, Alor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.089216,6.9320887",
+      "google_place_id": "ChIJ4Se8e-iZQxARSaUSiOp0C5U"
+    }
   },
   {
     "id": "14704",
@@ -77,7 +129,24 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9754419,
+      "longitude": 7.0229629,
+      "viewport": {
+        "northeast": {
+          "lat": 5.976592279892722,
+          "lng": 7.024072079892721
+        },
+        "southwest": {
+          "lat": 5.973892620107278,
+          "lng": 7.021372420107277
+        }
+      },
+      "formatted_address": "X2GF+55G, 435110, Ekwulumili, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9754419,7.0229629",
+      "google_place_id": "ChIJbUxkv7ehQxAR_S6D5mYo-EE"
+    }
   },
   {
     "id": "14705",
@@ -93,7 +162,24 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.913111199999999,
+      "longitude": 6.845931999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.914477379892721,
+          "lng": 6.847289279892721
+        },
+        "southwest": {
+          "lat": 5.911777720107278,
+          "lng": 6.844589620107277
+        }
+      },
+      "formatted_address": "WR7W+69M, 431123, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.913111199999999,6.845931999999999",
+      "google_place_id": "ChIJEYVeUim7QxARRl-Z87T6Kqo"
+    }
   },
   {
     "id": "14706",
@@ -109,7 +195,24 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.089216,
+      "longitude": 6.9320887,
+      "viewport": {
+        "northeast": {
+          "lat": 6.09058357989272,
+          "lng": 6.933415479892722
+        },
+        "southwest": {
+          "lat": 6.087883920107276,
+          "lng": 6.930715820107278
+        }
+      },
+      "formatted_address": "3WQJ+MRP, 434116, Alor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.089216,6.9320887",
+      "google_place_id": "ChIJ4Se8e-iZQxARSaUSiOp0C5U"
+    }
   },
   {
     "id": "14707",
@@ -125,6 +228,23 @@
     "local_government_id": "79",
     "local_government_name": "IDEMILI NORTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9754419,
+      "longitude": 7.0229629,
+      "viewport": {
+        "northeast": {
+          "lat": 5.976592279892722,
+          "lng": 7.024072079892721
+        },
+        "southwest": {
+          "lat": 5.973892620107278,
+          "lng": 7.021372420107277
+        }
+      },
+      "formatted_address": "X2GF+55G, 435110, Ekwulumili, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9754419,7.0229629",
+      "google_place_id": "ChIJbUxkv7ehQxAR_S6D5mYo-EE"
+    }
   }
 ]

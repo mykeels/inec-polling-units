@@ -13,7 +13,8 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14098",
@@ -29,7 +30,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2343739,
+      "longitude": 7.0924896,
+      "viewport": {
+        "northeast": {
+          "lat": 6.235708279892721,
+          "lng": 7.093807679892722
+        },
+        "southwest": {
+          "lat": 6.233008620107277,
+          "lng": 7.091108020107278
+        }
+      },
+      "formatted_address": "63MR+PXX Goverment House, 420112, Ifite Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2343739,7.0924896",
+      "google_place_id": "ChIJBaJZj3-CQxAR5tSD8G2KY7c"
+    }
   },
   {
     "id": "14099",
@@ -45,7 +63,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14100",
@@ -61,7 +96,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2473259,
+      "longitude": 7.0619444,
+      "viewport": {
+        "northeast": {
+          "lat": 6.248803679892721,
+          "lng": 7.063392829892721
+        },
+        "southwest": {
+          "lat": 6.246104020107277,
+          "lng": 7.060693170107277
+        }
+      },
+      "formatted_address": "63W6+WQP, 410229, Okpuno Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2473259,7.0619444",
+      "google_place_id": "ChIJvSRdmSuDQxARk2cif8YjXik"
+    }
   },
   {
     "id": "14101",
@@ -77,7 +129,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14102",
@@ -93,7 +162,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14103",
@@ -109,7 +195,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14104",
@@ -125,7 +228,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2017961,
+      "longitude": 7.059162499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.203114179892721,
+          "lng": 7.060509479892721
+        },
+        "southwest": {
+          "lat": 6.200414520107278,
+          "lng": 7.057809820107277
+        }
+      },
+      "formatted_address": "Onowu Street, 420103, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2017961,7.059162499999999",
+      "google_place_id": "ChIJ-V9RmtqCQxARCL1Waht9fX4"
+    }
   },
   {
     "id": "14105",
@@ -141,7 +261,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2017961,
+      "longitude": 7.059162499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.203114179892721,
+          "lng": 7.060509479892721
+        },
+        "southwest": {
+          "lat": 6.200414520107278,
+          "lng": 7.057809820107277
+        }
+      },
+      "formatted_address": "Onowu Street, 420103, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2017961,7.059162499999999",
+      "google_place_id": "ChIJ-V9RmtqCQxARCL1Waht9fX4"
+    }
   },
   {
     "id": "14106",
@@ -157,7 +294,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2390001,
+      "longitude": 7.1046076,
+      "viewport": {
+        "northeast": {
+          "lat": 6.240359279892721,
+          "lng": 7.106015379892722
+        },
+        "southwest": {
+          "lat": 6.237659620107277,
+          "lng": 7.103315720107278
+        }
+      },
+      "formatted_address": "64Q3+JR5, Esther Obuakor Rd, 420112, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2390001,7.1046076",
+      "google_place_id": "ChIJu-jSa494QxAR1wlDJ_4k-lI"
+    }
   },
   {
     "id": "14107",
@@ -173,7 +327,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14108",
@@ -189,7 +360,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14109",
@@ -205,7 +393,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.231705499999999,
+      "longitude": 7.0816946,
+      "viewport": {
+        "northeast": {
+          "lat": 6.233045729892722,
+          "lng": 7.083114579892722
+        },
+        "southwest": {
+          "lat": 6.230346070107278,
+          "lng": 7.080414920107278
+        }
+      },
+      "formatted_address": "Secretariat Rd, 420110, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.231705499999999,7.0816946",
+      "google_place_id": "ChIJk5AOK4KDQxARC1EGDoRfekg"
+    }
   },
   {
     "id": "14110",
@@ -221,7 +426,8 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14111",
@@ -237,7 +443,8 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14112",
@@ -253,7 +460,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2327248,
+      "longitude": 7.103694,
+      "viewport": {
+        "northeast": {
+          "lat": 6.234014779892721,
+          "lng": 7.104979329892722
+        },
+        "southwest": {
+          "lat": 6.231315120107277,
+          "lng": 7.102279670107278
+        }
+      },
+      "formatted_address": "64M3+4F6, 420112, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2327248,7.103694",
+      "google_place_id": "ChIJJfJ8_Yd4QxARRX8ku9OQhqA"
+    }
   },
   {
     "id": "14113",
@@ -269,7 +493,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2473259,
+      "longitude": 7.0619444,
+      "viewport": {
+        "northeast": {
+          "lat": 6.248803679892721,
+          "lng": 7.063392829892721
+        },
+        "southwest": {
+          "lat": 6.246104020107277,
+          "lng": 7.060693170107277
+        }
+      },
+      "formatted_address": "63W6+WQP, 410229, Okpuno Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2473259,7.0619444",
+      "google_place_id": "ChIJvSRdmSuDQxARk2cif8YjXik"
+    }
   },
   {
     "id": "14114",
@@ -285,7 +526,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14115",
@@ -301,7 +559,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2084717,
+      "longitude": 7.056500799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.209964329892721,
+          "lng": 7.057627779892722
+        },
+        "southwest": {
+          "lat": 6.207264670107278,
+          "lng": 7.054928120107277
+        }
+      },
+      "formatted_address": "6354+CJ6, Obunagu Rd, 420103, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2084717,7.056500799999999",
+      "google_place_id": "ChIJrcXi49mDQxARvTtc-UjZizM"
+    }
   },
   {
     "id": "14116",
@@ -317,7 +592,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.231705499999999,
+      "longitude": 7.0816946,
+      "viewport": {
+        "northeast": {
+          "lat": 6.233045729892722,
+          "lng": 7.083114579892722
+        },
+        "southwest": {
+          "lat": 6.230346070107278,
+          "lng": 7.080414920107278
+        }
+      },
+      "formatted_address": "Secretariat Rd, 420110, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.231705499999999,7.0816946",
+      "google_place_id": "ChIJk5AOK4KDQxARC1EGDoRfekg"
+    }
   },
   {
     "id": "14117",
@@ -333,7 +625,8 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14118",
@@ -349,7 +642,8 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14119",
@@ -365,7 +659,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.207046900000001,
+      "longitude": 7.068868500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.208317879892722,
+          "lng": 7.070399529892722
+        },
+        "southwest": {
+          "lat": 6.205618220107278,
+          "lng": 7.067699870107278
+        }
+      },
+      "formatted_address": "Nnamdi Azikiwe Ave, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.207046900000001,7.068868500000001",
+      "google_place_id": "ChIJz5mUX8aCQxARrf9TaNgwTOs"
+    }
   },
   {
     "id": "14120",
@@ -381,7 +692,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2236676,
+      "longitude": 7.0510125,
+      "viewport": {
+        "northeast": {
+          "lat": 6.224904179892721,
+          "lng": 7.052406279892721
+        },
+        "southwest": {
+          "lat": 6.222204520107277,
+          "lng": 7.049706620107277
+        }
+      },
+      "formatted_address": "Ngozika Housing Estate Awka, 420211, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2236676,7.0510125",
+      "google_place_id": "ChIJ_S6n2P2CQxARxGzU00q4e1s"
+    }
   },
   {
     "id": "14121",
@@ -397,7 +725,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1994585,
+      "longitude": 7.063757,
+      "viewport": {
+        "northeast": {
+          "lat": 6.200876129892722,
+          "lng": 7.065024229892722
+        },
+        "southwest": {
+          "lat": 6.198176470107279,
+          "lng": 7.062324570107278
+        }
+      },
+      "formatted_address": "53X7+QGJ, Nnamdi Azikiwe Ave, 420103, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1994585,7.063757",
+      "google_place_id": "ChIJR-YXBc-CQxARwGL61ppyeI8"
+    }
   },
   {
     "id": "14122",
@@ -413,7 +758,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2473259,
+      "longitude": 7.0619444,
+      "viewport": {
+        "northeast": {
+          "lat": 6.248803679892721,
+          "lng": 7.063392829892721
+        },
+        "southwest": {
+          "lat": 6.246104020107277,
+          "lng": 7.060693170107277
+        }
+      },
+      "formatted_address": "63W6+WQP, 410229, Okpuno Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2473259,7.0619444",
+      "google_place_id": "ChIJvSRdmSuDQxARk2cif8YjXik"
+    }
   },
   {
     "id": "14123",
@@ -429,7 +791,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2099901,
+      "longitude": 7.0662331,
+      "viewport": {
+        "northeast": {
+          "lat": 6.211347129892722,
+          "lng": 7.067625629892721
+        },
+        "southwest": {
+          "lat": 6.208647470107278,
+          "lng": 7.064925970107277
+        }
+      },
+      "formatted_address": "6368+2F9 High Court, Road, 420108, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2099901,7.0662331",
+      "google_place_id": "ChIJI9Dmi8GCQxARcmowJ3Y51OM"
+    }
   },
   {
     "id": "14124",
@@ -445,6 +824,7 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   }
 ]

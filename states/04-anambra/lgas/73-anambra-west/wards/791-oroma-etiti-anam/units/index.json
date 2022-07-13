@@ -13,7 +13,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2059925,
+      "longitude": 6.69621,
+      "viewport": {
+        "northeast": {
+          "lat": 6.207377929892721,
+          "lng": 6.697572879892721
+        },
+        "southwest": {
+          "lat": 6.204678270107277,
+          "lng": 6.694873220107278
+        }
+      },
+      "formatted_address": "8 Kingsley Emu Street, Central Area 320242, Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2059925,6.69621",
+      "google_place_id": "ChIJq8zr4DL1QxARBvoq0QqqmXI"
+    }
   },
   {
     "id": "13345",
@@ -29,7 +46,8 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "13346",
@@ -45,7 +63,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3282655,
+      "longitude": 6.747115600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3393554,
+          "lng": 6.763122999999999
+        },
+        "southwest": {
+          "lat": 6.3171754,
+          "lng": 6.7311082
+        }
+      },
+      "formatted_address": "Ilo Umuorom, 432109, Onoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3282655,6.747115600000001",
+      "google_place_id": "ChIJg1-R8yz1QxARIaG8B1ZYIVc"
+    }
   },
   {
     "id": "13347",
@@ -61,7 +96,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13348",
@@ -77,7 +129,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3271896,
+      "longitude": 6.748897400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3287987,
+          "lng": 6.750626599999999
+        },
+        "southwest": {
+          "lat": 6.326004699999999,
+          "lng": 6.747365
+        }
+      },
+      "formatted_address": "Ndiobi Oroma Etiti Anam, 432109, Oroma Etiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3271896,6.748897400000001",
+      "google_place_id": "ChIJF-nosSz1QxARDJxJ8WVL0vs"
+    }
   },
   {
     "id": "13349",
@@ -93,7 +162,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13350",
@@ -109,7 +195,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13351",
@@ -125,7 +228,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.318412299999999,
+      "longitude": 6.754317299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.319742279892722,
+          "lng": 6.755684129892723
+        },
+        "southwest": {
+          "lat": 6.317042620107278,
+          "lng": 6.752984470107279
+        }
+      },
+      "formatted_address": "8Q93+9P8, 432109, Oroma Etiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.318412299999999,6.754317299999999",
+      "google_place_id": "ChIJbUHD0yuLQxARWhhslh9NbfU"
+    }
   },
   {
     "id": "13352",
@@ -141,7 +261,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3294421,
+      "longitude": 6.747141099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.330712929892721,
+          "lng": 6.748226229892722
+        },
+        "southwest": {
+          "lat": 6.328013270107277,
+          "lng": 6.745526570107278
+        }
+      },
+      "formatted_address": "8PHW+QVC, 432109, Oroma Etiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3294421,6.747141099999999",
+      "google_place_id": "ChIJn_z1AS31QxARbJ-xVFBsDxg"
+    }
   },
   {
     "id": "13353",
@@ -157,7 +294,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13354",
@@ -173,7 +327,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13355",
@@ -189,7 +360,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13356",
@@ -205,7 +393,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13357",
@@ -221,7 +426,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13358",
@@ -237,7 +459,24 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.332111599999999,
+      "longitude": 6.738694600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.3471334,
+          "lng": 6.7859468
+        },
+        "southwest": {
+          "lat": 6.3011161,
+          "lng": 6.713909399999999
+        }
+      },
+      "formatted_address": "Oroma Etiti-Anam, 432109, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.332111599999999,6.738694600000001",
+      "google_place_id": "ChIJnz6219SKQxAR6L7NVRPoKNk"
+    }
   },
   {
     "id": "13359",
@@ -253,6 +492,23 @@
     "local_government_id": "73",
     "local_government_name": "ANAMBRA WEST",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3133726,
+      "longitude": 6.7574289,
+      "viewport": {
+        "northeast": {
+          "lat": 6.321547300000001,
+          "lng": 6.767320700000001
+        },
+        "southwest": {
+          "lat": 6.300433099999999,
+          "lng": 6.7487812
+        }
+      },
+      "formatted_address": "432109, Umudora Anam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3133726,6.7574289",
+      "google_place_id": "ChIJhWBD1y-LQxARmcQiVB18IYc"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.017852599999999,
+      "longitude": 6.91252,
+      "viewport": {
+        "northeast": {
+          "lat": 6.019222379892721,
+          "lng": 6.913871129892721
+        },
+        "southwest": {
+          "lat": 6.016522720107277,
+          "lng": 6.911171470107277
+        }
+      },
+      "formatted_address": "2W97+522, 435101, Nnewi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.017852599999999,6.91252",
+      "google_place_id": "ChIJLV8A3FC9QxAR0c901mkXxJk"
+    }
   },
   {
     "id": "15306",
@@ -29,7 +46,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.174955499999999,
+      "longitude": 6.638885399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.176279829892722,
+          "lng": 6.640393029892722
+        },
+        "southwest": {
+          "lat": 6.173580170107278,
+          "lng": 6.637693370107278
+        }
+      },
+      "formatted_address": "5JFQ+XG5, 320103, Igbuzor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.174955499999999,6.638885399999999",
+      "google_place_id": "ChIJt8WhnUDuQxARXKpkG9Z84lI"
+    }
   },
   {
     "id": "15307",
@@ -45,7 +79,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1077524,
+      "longitude": 6.9209397,
+      "viewport": {
+        "northeast": {
+          "lat": 6.109123279892723,
+          "lng": 6.922286829892723
+        },
+        "southwest": {
+          "lat": 6.106423620107279,
+          "lng": 6.919587170107279
+        }
+      },
+      "formatted_address": "4W5C+39F, Uke, Abatete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1077524,6.9209397",
+      "google_place_id": "ChIJt3Ij8wGZQxARXRSeDp0KYxs"
+    }
   },
   {
     "id": "15308",
@@ -61,7 +112,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15309",
@@ -77,7 +129,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   },
   {
     "id": "15310",
@@ -93,7 +162,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1552124,
+      "longitude": 6.8926539,
+      "viewport": {
+        "northeast": {
+          "lat": 6.156504529892723,
+          "lng": 6.893962529892722
+        },
+        "southwest": {
+          "lat": 6.153804870107279,
+          "lng": 6.891262870107278
+        }
+      },
+      "formatted_address": "5V4V+33J, 421108, Idemili North, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1552124,6.8926539",
+      "google_place_id": "ChIJechAaFmQQxARJlzQSHMZ1tk"
+    }
   },
   {
     "id": "15311",
@@ -109,7 +195,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   },
   {
     "id": "15312",
@@ -125,7 +228,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   },
   {
     "id": "15313",
@@ -141,7 +261,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3141608,
+      "longitude": 7.364514899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.315488329892723,
+          "lng": 7.365852679892721
+        },
+        "southwest": {
+          "lat": 6.312788670107279,
+          "lng": 7.363153020107277
+        }
+      },
+      "formatted_address": "8977+JRV, 401108, Amokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3141608,7.364514899999999",
+      "google_place_id": "ChIJGVQYB-JhQxARWYNdSWeyIco"
+    }
   },
   {
     "id": "15314",
@@ -157,7 +294,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3141608,
+      "longitude": 7.364514899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.315488329892723,
+          "lng": 7.365852679892721
+        },
+        "southwest": {
+          "lat": 6.312788670107279,
+          "lng": 7.363153020107277
+        }
+      },
+      "formatted_address": "8977+JRV, 401108, Amokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3141608,7.364514899999999",
+      "google_place_id": "ChIJGVQYB-JhQxARWYNdSWeyIco"
+    }
   },
   {
     "id": "15315",
@@ -173,7 +327,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.3141608,
+      "longitude": 7.364514899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.315488329892723,
+          "lng": 7.365852679892721
+        },
+        "southwest": {
+          "lat": 6.312788670107279,
+          "lng": 7.363153020107277
+        }
+      },
+      "formatted_address": "8977+JRV, 401108, Amokwe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3141608,7.364514899999999",
+      "google_place_id": "ChIJGVQYB-JhQxARWYNdSWeyIco"
+    }
   },
   {
     "id": "15316",
@@ -189,7 +360,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15317",
@@ -205,7 +377,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2480353,
+      "longitude": 7.1172764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.249526779892722,
+          "lng": 7.118812379892722
+        },
+        "southwest": {
+          "lat": 6.246827120107278,
+          "lng": 7.116112720107278
+        }
+      },
+      "formatted_address": "64X8+6W6, 420112, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2480353,7.1172764",
+      "google_place_id": "ChIJxXhxSO95QxARftS5C7IVPMM"
+    }
   },
   {
     "id": "15318",
@@ -221,7 +410,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.913111199999999,
+      "longitude": 6.845931999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.914477379892721,
+          "lng": 6.847289279892721
+        },
+        "southwest": {
+          "lat": 5.911777720107278,
+          "lng": 6.844589620107277
+        }
+      },
+      "formatted_address": "WR7W+69M, 431123, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.913111199999999,6.845931999999999",
+      "google_place_id": "ChIJEYVeUim7QxARRl-Z87T6Kqo"
+    }
   },
   {
     "id": "15319",
@@ -237,7 +443,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.221257899999999,
+      "longitude": 7.0826679,
+      "viewport": {
+        "northeast": {
+          "lat": 6.222611779892722,
+          "lng": 7.084024479892722
+        },
+        "southwest": {
+          "lat": 6.219912120107278,
+          "lng": 7.081324820107278
+        }
+      },
+      "formatted_address": "331 Zik Avenue, 420110, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.221257899999999,7.0826679",
+      "google_place_id": "ChIJc19Zm_V-RBARi3LmpFIu41w"
+    }
   },
   {
     "id": "15320",
@@ -253,7 +476,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.221257899999999,
+      "longitude": 7.0826679,
+      "viewport": {
+        "northeast": {
+          "lat": 6.222611779892722,
+          "lng": 7.084024479892722
+        },
+        "southwest": {
+          "lat": 6.219912120107278,
+          "lng": 7.081324820107278
+        }
+      },
+      "formatted_address": "331 Zik Avenue, 420110, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.221257899999999,7.0826679",
+      "google_place_id": "ChIJc19Zm_V-RBARi3LmpFIu41w"
+    }
   },
   {
     "id": "15321",
@@ -269,7 +509,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15322",
@@ -285,7 +526,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15323",
@@ -301,7 +543,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15324",
@@ -317,7 +560,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15325",
@@ -333,7 +577,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   },
   {
     "id": "15326",
@@ -349,7 +610,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   },
   {
     "id": "15327",
@@ -365,7 +643,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.055014,
+      "longitude": 6.8651864,
+      "viewport": {
+        "northeast": {
+          "lat": 6.056342529892722,
+          "lng": 6.866558379892721
+        },
+        "southwest": {
+          "lat": 6.053642870107278,
+          "lng": 6.863858720107277
+        }
+      },
+      "formatted_address": "1 IGWE GERALD MBAMALU ROAD ENUGO OJOTO OBA-NNEWI OLD ROAD ENUGO, 434111, Ojoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.055014,6.8651864",
+      "google_place_id": "ChIJMREXXOqXQxARNhxke8YjLwE"
+    }
   },
   {
     "id": "15328",
@@ -381,7 +676,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.055014,
+      "longitude": 6.8651864,
+      "viewport": {
+        "northeast": {
+          "lat": 6.056342529892722,
+          "lng": 6.866558379892721
+        },
+        "southwest": {
+          "lat": 6.053642870107278,
+          "lng": 6.863858720107277
+        }
+      },
+      "formatted_address": "1 IGWE GERALD MBAMALU ROAD ENUGO OJOTO OBA-NNEWI OLD ROAD ENUGO, 434111, Ojoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.055014,6.8651864",
+      "google_place_id": "ChIJMREXXOqXQxARNhxke8YjLwE"
+    }
   },
   {
     "id": "15329",
@@ -397,7 +709,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.017852599999999,
+      "longitude": 6.91252,
+      "viewport": {
+        "northeast": {
+          "lat": 6.019222379892721,
+          "lng": 6.913871129892721
+        },
+        "southwest": {
+          "lat": 6.016522720107277,
+          "lng": 6.911171470107277
+        }
+      },
+      "formatted_address": "2W97+522, 435101, Nnewi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.017852599999999,6.91252",
+      "google_place_id": "ChIJLV8A3FC9QxAR0c901mkXxJk"
+    }
   },
   {
     "id": "15330",
@@ -413,7 +742,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15331",
@@ -429,7 +759,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15332",
@@ -445,7 +776,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.100105699999999,
+      "longitude": 6.8998802,
+      "viewport": {
+        "northeast": {
+          "lat": 6.101446479892721,
+          "lng": 6.901509229892722
+        },
+        "southwest": {
+          "lat": 6.098746820107277,
+          "lng": 6.898809570107277
+        }
+      },
+      "formatted_address": "Local Government Area, 434111, Ojoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.100105699999999,6.8998802",
+      "google_place_id": "ChIJWbjZgKKXQxARe2u7qW5I-Kk"
+    }
   },
   {
     "id": "15333",
@@ -461,7 +809,8 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15334",
@@ -477,7 +826,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1019064,
+      "longitude": 7.0404564,
+      "viewport": {
+        "northeast": {
+          "lat": 6.103248979892722,
+          "lng": 7.041693629892722
+        },
+        "southwest": {
+          "lat": 6.100549320107278,
+          "lng": 7.038993970107279
+        }
+      },
+      "formatted_address": "422R+Q58, Odidama 422101, Agulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1019064,7.0404564",
+      "google_place_id": "ChIJM-ODZ4OeQxARzEAEQCYxhI0"
+    }
   },
   {
     "id": "15335",
@@ -493,7 +859,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1779313,
+      "longitude": 7.0148151,
+      "viewport": {
+        "northeast": {
+          "lat": 6.179261679892721,
+          "lng": 7.016207679892722
+        },
+        "southwest": {
+          "lat": 6.176562020107277,
+          "lng": 7.013508020107278
+        }
+      },
+      "formatted_address": "52H7+4WP, 421103, Enugwu Ukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1779313,7.0148151",
+      "google_place_id": "ChIJxfokHcudQxARNI1xtH7qRiA"
+    }
   },
   {
     "id": "15336",
@@ -509,7 +892,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1779313,
+      "longitude": 7.0148151,
+      "viewport": {
+        "northeast": {
+          "lat": 6.179261679892721,
+          "lng": 7.016207679892722
+        },
+        "southwest": {
+          "lat": 6.176562020107277,
+          "lng": 7.013508020107278
+        }
+      },
+      "formatted_address": "52H7+4WP, 421103, Enugwu Ukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1779313,7.0148151",
+      "google_place_id": "ChIJxfokHcudQxARNI1xtH7qRiA"
+    }
   },
   {
     "id": "15337",
@@ -525,7 +925,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1779313,
+      "longitude": 7.0148151,
+      "viewport": {
+        "northeast": {
+          "lat": 6.179261679892721,
+          "lng": 7.016207679892722
+        },
+        "southwest": {
+          "lat": 6.176562020107277,
+          "lng": 7.013508020107278
+        }
+      },
+      "formatted_address": "52H7+4WP, 421103, Enugwu Ukwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1779313,7.0148151",
+      "google_place_id": "ChIJxfokHcudQxARNI1xtH7qRiA"
+    }
   },
   {
     "id": "15338",
@@ -541,7 +958,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.174955499999999,
+      "longitude": 6.638885399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.176279829892722,
+          "lng": 6.640393029892722
+        },
+        "southwest": {
+          "lat": 6.173580170107278,
+          "lng": 6.637693370107278
+        }
+      },
+      "formatted_address": "5JFQ+XG5, 320103, Igbuzor, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.174955499999999,6.638885399999999",
+      "google_place_id": "ChIJt8WhnUDuQxARXKpkG9Z84lI"
+    }
   },
   {
     "id": "15339",
@@ -557,7 +991,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0641892,
+      "longitude": 6.8645856,
+      "viewport": {
+        "northeast": {
+          "lat": 6.065441479892721,
+          "lng": 6.865894079892722
+        },
+        "southwest": {
+          "lat": 6.062741820107277,
+          "lng": 6.863194420107278
+        }
+      },
+      "formatted_address": "3V77+MRG, 434116, Ojoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0641892,6.8645856",
+      "google_place_id": "ChIJBSSt1v2XQxARin8uPpfy9G8"
+    }
   },
   {
     "id": "15340",
@@ -573,7 +1024,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.03618,
+      "longitude": 6.960743099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.037565829892722,
+          "lng": 6.962081829892722
+        },
+        "southwest": {
+          "lat": 6.034866170107278,
+          "lng": 6.959382170107278
+        }
+      },
+      "formatted_address": "Idemili-South, 434117, Awka Etiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.03618,6.960743099999999",
+      "google_place_id": "ChIJ72tfBGOYQxARzqaWBVacl-0"
+    }
   },
   {
     "id": "15341",
@@ -589,7 +1057,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.03618,
+      "longitude": 6.960743099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.037565829892722,
+          "lng": 6.962081829892722
+        },
+        "southwest": {
+          "lat": 6.034866170107278,
+          "lng": 6.959382170107278
+        }
+      },
+      "formatted_address": "Idemili-South, 434117, Awka Etiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.03618,6.960743099999999",
+      "google_place_id": "ChIJ72tfBGOYQxARzqaWBVacl-0"
+    }
   },
   {
     "id": "15342",
@@ -605,7 +1090,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.121608699999999,
+      "longitude": 6.887801899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.122959629892722,
+          "lng": 6.889149979892722
+        },
+        "southwest": {
+          "lat": 6.120259970107278,
+          "lng": 6.886450320107278
+        }
+      },
+      "formatted_address": "4VCQ+J5C, 434112, Umuoji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.121608699999999,6.887801899999999",
+      "google_place_id": "ChIJxQu_OcyRQxAR9pnvIDPzfK4"
+    }
   },
   {
     "id": "15343",
@@ -621,7 +1123,24 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   },
   {
     "id": "15344",
@@ -637,6 +1156,23 @@
     "local_government_id": "80",
     "local_government_name": "IDEMILI-SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0060454,
+      "longitude": 6.8395087,
+      "viewport": {
+        "northeast": {
+          "lat": 6.007410229892722,
+          "lng": 6.840689079892722
+        },
+        "southwest": {
+          "lat": 6.004710570107278,
+          "lng": 6.837989420107278
+        }
+      },
+      "formatted_address": "Community School, 435114, Oraifite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0060454,6.8395087",
+      "google_place_id": "ChIJS1iNOXm9QxARNVr_4k55vOY"
+    }
   }
 ]

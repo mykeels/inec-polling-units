@@ -13,7 +13,8 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14319",
@@ -29,7 +30,24 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.252842299999999,
+      "longitude": 6.9769215,
+      "viewport": {
+        "northeast": {
+          "lat": 6.254190879892721,
+          "lng": 6.978381129892721
+        },
+        "southwest": {
+          "lat": 6.251491220107277,
+          "lng": 6.975681470107277
+        }
+      },
+      "formatted_address": "7X3G+4QM, 421108, Nawgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.252842299999999,6.9769215",
+      "google_place_id": "ChIJQ-HIrkeEQxARODuSwwS5p9I"
+    }
   },
   {
     "id": "14320",
@@ -45,7 +63,24 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.0270569,
+      "longitude": 7.089135799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.028461479892723,
+          "lng": 7.090549329892721
+        },
+        "southwest": {
+          "lat": 6.025761820107279,
+          "lng": 7.087849670107278
+        }
+      },
+      "formatted_address": "23GQ+RMC, 422114, Ekwulobia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.0270569,7.089135799999999",
+      "google_place_id": "ChIJVfsUtXOfQxARGA913TwMXDE"
+    }
   },
   {
     "id": "14321",
@@ -61,7 +96,8 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14322",
@@ -77,7 +113,24 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.257616199999999,
+      "longitude": 6.9826614,
+      "viewport": {
+        "northeast": {
+          "lat": 6.258883829892723,
+          "lng": 6.984231179892721
+        },
+        "southwest": {
+          "lat": 6.256184170107279,
+          "lng": 6.981531520107278
+        }
+      },
+      "formatted_address": "7X5M+23V, 421108, Nawgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.257616199999999,6.9826614",
+      "google_place_id": "ChIJm1cFgtOFQxAR__uYiaZ_jEU"
+    }
   },
   {
     "id": "14323",
@@ -93,7 +146,24 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.257616199999999,
+      "longitude": 6.9826614,
+      "viewport": {
+        "northeast": {
+          "lat": 6.258883829892723,
+          "lng": 6.984231179892721
+        },
+        "southwest": {
+          "lat": 6.256184170107279,
+          "lng": 6.981531520107278
+        }
+      },
+      "formatted_address": "7X5M+23V, 421108, Nawgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.257616199999999,6.9826614",
+      "google_place_id": "ChIJm1cFgtOFQxAR__uYiaZ_jEU"
+    }
   },
   {
     "id": "14324",
@@ -109,7 +179,8 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14325",
@@ -125,6 +196,23 @@
     "local_government_id": "77",
     "local_government_name": "DUNUKOFIA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.252842299999999,
+      "longitude": 6.9769215,
+      "viewport": {
+        "northeast": {
+          "lat": 6.254190879892721,
+          "lng": 6.978381129892721
+        },
+        "southwest": {
+          "lat": 6.251491220107277,
+          "lng": 6.975681470107277
+        }
+      },
+      "formatted_address": "7X3G+4QM, 421108, Nawgu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.252842299999999,6.9769215",
+      "google_place_id": "ChIJQ-HIrkeEQxARODuSwwS5p9I"
+    }
   }
 ]

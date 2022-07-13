@@ -13,7 +13,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.855057599999999,
+      "longitude": 6.8600983,
+      "viewport": {
+        "northeast": {
+          "lat": 5.856413329892722,
+          "lng": 6.861630629892722
+        },
+        "southwest": {
+          "lat": 5.853713670107278,
+          "lng": 6.858930970107278
+        }
+      },
+      "formatted_address": "VV46+22H, 431119, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.855057599999999,6.8600983",
+      "google_place_id": "ChIJgZP1YBixQxART4_-AE_q9xs"
+    }
   },
   {
     "id": "15409",
@@ -29,7 +46,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8733801,
+      "longitude": 6.8588966,
+      "viewport": {
+        "northeast": {
+          "lat": 5.874481529892722,
+          "lng": 6.860112179892721
+        },
+        "southwest": {
+          "lat": 5.871781870107278,
+          "lng": 6.857412520107277
+        }
+      },
+      "formatted_address": "VVF5+9H2, 431119, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8733801,6.8588966",
+      "google_place_id": "ChIJtfLSdmu6QxARKODaKPo0Lw8"
+    }
   },
   {
     "id": "15410",
@@ -45,7 +79,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8516439,
+      "longitude": 6.8511814,
+      "viewport": {
+        "northeast": {
+          "lat": 5.853101979892721,
+          "lng": 6.852471329892722
+        },
+        "southwest": {
+          "lat": 5.850402320107277,
+          "lng": 6.849771670107278
+        }
+      },
+      "formatted_address": "VV22+MF3, 431119, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8516439,6.8511814",
+      "google_place_id": "ChIJ_____6OwQxAR10DxONKzepI"
+    }
   },
   {
     "id": "15411",
@@ -61,7 +112,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.819541099999999,
+      "longitude": 6.8193159,
+      "viewport": {
+        "northeast": {
+          "lat": 5.820829429892722,
+          "lng": 6.820680229892721
+        },
+        "southwest": {
+          "lat": 5.818129770107278,
+          "lng": 6.817980570107277
+        }
+      },
+      "formatted_address": "RR99+RPP, 431117, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.819541099999999,6.8193159",
+      "google_place_id": "ChIJhdc4D-23QxARJdRICeJX7lY"
+    }
   },
   {
     "id": "15412",
@@ -77,7 +145,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8317767,
+      "longitude": 6.821615899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.833168729892721,
+          "lng": 6.822987379892722
+        },
+        "southwest": {
+          "lat": 5.830469070107277,
+          "lng": 6.820287720107278
+        }
+      },
+      "formatted_address": "RRJC+PJ9, 431117, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8317767,6.821615899999999",
+      "google_place_id": "ChIJ-Unmqw-3QxARjZl7KOJuhC8"
+    }
   },
   {
     "id": "15413",
@@ -93,7 +178,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8516439,
+      "longitude": 6.8511814,
+      "viewport": {
+        "northeast": {
+          "lat": 5.853101979892721,
+          "lng": 6.852471329892722
+        },
+        "southwest": {
+          "lat": 5.850402320107277,
+          "lng": 6.849771670107278
+        }
+      },
+      "formatted_address": "VV22+MF3, 431119, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8516439,6.8511814",
+      "google_place_id": "ChIJ_____6OwQxAR10DxONKzepI"
+    }
   },
   {
     "id": "15414",
@@ -109,7 +211,8 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15415",
@@ -125,7 +228,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8317767,
+      "longitude": 6.821615899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.833168729892721,
+          "lng": 6.822987379892722
+        },
+        "southwest": {
+          "lat": 5.830469070107277,
+          "lng": 6.820287720107278
+        }
+      },
+      "formatted_address": "RRJC+PJ9, 431117, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8317767,6.821615899999999",
+      "google_place_id": "ChIJ-Unmqw-3QxARjZl7KOJuhC8"
+    }
   },
   {
     "id": "15416",
@@ -141,7 +261,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9016232,
+      "longitude": 6.874257,
+      "viewport": {
+        "northeast": {
+          "lat": 5.902963179892722,
+          "lng": 6.875606379892722
+        },
+        "southwest": {
+          "lat": 5.900263520107278,
+          "lng": 6.872906720107277
+        }
+      },
+      "formatted_address": "WV2F+JPR, 431123, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9016232,6.874257",
+      "google_place_id": "ChIJK5SRo6u7QxARzYNKd0iW5LI"
+    }
   },
   {
     "id": "15417",
@@ -157,7 +294,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.157930599999999,
+      "longitude": 6.7837491,
+      "viewport": {
+        "northeast": {
+          "lat": 6.159338029892721,
+          "lng": 6.785004829892721
+        },
+        "southwest": {
+          "lat": 6.156638370107277,
+          "lng": 6.782305170107278
+        }
+      },
+      "formatted_address": "5Q5M+5FH, GRA Phase I 434106, Onitsha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.157930599999999,6.7837491",
+      "google_place_id": "ChIJ0-JCevuSQxARsHxNdIT8iws"
+    }
   },
   {
     "id": "15418",
@@ -173,7 +327,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8317767,
+      "longitude": 6.821615899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.833168729892721,
+          "lng": 6.822987379892722
+        },
+        "southwest": {
+          "lat": 5.830469070107277,
+          "lng": 6.820287720107278
+        }
+      },
+      "formatted_address": "RRJC+PJ9, 431117, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8317767,6.821615899999999",
+      "google_place_id": "ChIJ-Unmqw-3QxARjZl7KOJuhC8"
+    }
   },
   {
     "id": "15419",
@@ -189,7 +360,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8290725,
+      "longitude": 6.810531399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.830451379892722,
+          "lng": 6.811854429892721
+        },
+        "southwest": {
+          "lat": 5.827751720107278,
+          "lng": 6.809154770107277
+        }
+      },
+      "formatted_address": "RRH6+J67, Umudara 431116, Ihiala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8290725,6.810531399999999",
+      "google_place_id": "ChIJ5el_CTK3QxAROIOtgcz5Jr4"
+    }
   },
   {
     "id": "15420",
@@ -205,6 +393,23 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.4912633,
+      "longitude": 7.058441999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.492635629892721,
+          "lng": 7.059893329892722
+        },
+        "southwest": {
+          "lat": 5.489935970107277,
+          "lng": 7.057193670107278
+        }
+      },
+      "formatted_address": "47 MCC/Uratta FHE, 460232, Owerri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.4912633,7.058441999999999",
+      "google_place_id": "ChIJrz2ks85ZQhARl4qi6Q0Q0sk"
+    }
   }
 ]

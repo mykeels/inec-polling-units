@@ -13,7 +13,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.174683400000001,
+      "longitude": 7.066195899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.176055979892721,
+          "lng": 7.067531379892722
+        },
+        "southwest": {
+          "lat": 6.173356320107278,
+          "lng": 7.064831720107279
+        }
+      },
+      "formatted_address": "Ezielle Rd Awka South L.G.A, 420006, Nibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.174683400000001,7.066195899999999",
+      "google_place_id": "ChIJiSEdCMKdQxARLKTLgNyB64g"
+    }
   },
   {
     "id": "14198",
@@ -29,7 +46,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.181896,
+      "longitude": 7.064106499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.183261979892723,
+          "lng": 7.065434679892722
+        },
+        "southwest": {
+          "lat": 6.180562320107279,
+          "lng": 7.062735020107278
+        }
+      },
+      "formatted_address": "Nibo Rd, 420107, Nibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.181896,7.064106499999999",
+      "google_place_id": "ChIJmfZI2jCdQxARMiRK1Uzr0Jo"
+    }
   },
   {
     "id": "14199",
@@ -45,7 +79,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1850141,
+      "longitude": 7.0801735,
+      "viewport": {
+        "northeast": {
+          "lat": 6.186358829892722,
+          "lng": 7.081527479892722
+        },
+        "southwest": {
+          "lat": 6.183659170107278,
+          "lng": 7.078827820107279
+        }
+      },
+      "formatted_address": "53PJ+233, 420107, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1850141,7.0801735",
+      "google_place_id": "ChIJZaGXd06dQxARj_44W_aGR8w"
+    }
   },
   {
     "id": "14200",
@@ -61,7 +112,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1850141,
+      "longitude": 7.0801735,
+      "viewport": {
+        "northeast": {
+          "lat": 6.186358829892722,
+          "lng": 7.081527479892722
+        },
+        "southwest": {
+          "lat": 6.183659170107278,
+          "lng": 7.078827820107279
+        }
+      },
+      "formatted_address": "53PJ+233, 420107, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1850141,7.0801735",
+      "google_place_id": "ChIJZaGXd06dQxARj_44W_aGR8w"
+    }
   },
   {
     "id": "14201",
@@ -77,7 +145,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1886357,
+      "longitude": 7.0630462,
+      "viewport": {
+        "northeast": {
+          "lat": 6.189769029892721,
+          "lng": 7.064084679892721
+        },
+        "southwest": {
+          "lat": 6.187069370107277,
+          "lng": 7.061385020107277
+        }
+      },
+      "formatted_address": "Along Amawbia, Nibo Rd, near Governor’s Lodge, Nibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1886357,7.0630462",
+      "google_place_id": "ChIJc5MmrzudQxAR-BHZ2tVgqzk"
+    }
   },
   {
     "id": "14202",
@@ -93,7 +178,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2180049,
+      "longitude": 7.0309211,
+      "viewport": {
+        "northeast": {
+          "lat": 6.219030229892721,
+          "lng": 7.032108379892722
+        },
+        "southwest": {
+          "lat": 6.216330570107277,
+          "lng": 7.029408720107278
+        }
+      },
+      "formatted_address": "Klm 1, off Enugu Onitsha Express Road by Amawbia Bypass, New Town Layout Capital Territory, Enugwu Agidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2180049,7.0309211",
+      "google_place_id": "ChIJ5c5TGBSDQxAR3TdwT_sQu0E"
+    }
   },
   {
     "id": "14203",
@@ -109,7 +211,8 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "14204",
@@ -125,7 +228,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.174683400000001,
+      "longitude": 7.066195899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.176055979892721,
+          "lng": 7.067531379892722
+        },
+        "southwest": {
+          "lat": 6.173356320107278,
+          "lng": 7.064831720107279
+        }
+      },
+      "formatted_address": "Ezielle Rd Awka South L.G.A, 420006, Nibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.174683400000001,7.066195899999999",
+      "google_place_id": "ChIJiSEdCMKdQxARLKTLgNyB64g"
+    }
   },
   {
     "id": "14205",
@@ -141,7 +261,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1737801,
+      "longitude": 7.0688344,
+      "viewport": {
+        "northeast": {
+          "lat": 6.175105479892723,
+          "lng": 7.070181679892722
+        },
+        "southwest": {
+          "lat": 6.172405820107279,
+          "lng": 7.067482020107278
+        }
+      },
+      "formatted_address": "53F9+FHJ, Umuawulu Rd, 420107, Nibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1737801,7.0688344",
+      "google_place_id": "ChIJFTwiID-dQxARDX4B3kyab7c"
+    }
   },
   {
     "id": "14206",
@@ -157,7 +294,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1737801,
+      "longitude": 7.0688344,
+      "viewport": {
+        "northeast": {
+          "lat": 6.175105479892723,
+          "lng": 7.070181679892722
+        },
+        "southwest": {
+          "lat": 6.172405820107279,
+          "lng": 7.067482020107278
+        }
+      },
+      "formatted_address": "53F9+FHJ, Umuawulu Rd, 420107, Nibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1737801,7.0688344",
+      "google_place_id": "ChIJFTwiID-dQxARDX4B3kyab7c"
+    }
   },
   {
     "id": "14207",
@@ -173,7 +327,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2345092,
+      "longitude": 7.0804937,
+      "viewport": {
+        "northeast": {
+          "lat": 6.235870929892722,
+          "lng": 7.081844529892723
+        },
+        "southwest": {
+          "lat": 6.233171270107278,
+          "lng": 7.079144870107279
+        }
+      },
+      "formatted_address": "63MJ+R55, Judiciary Road, 420112, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2345092,7.0804937",
+      "google_place_id": "ChIJz7Sk6GKCQxARp-ZaYmt16qw"
+    }
   },
   {
     "id": "14208",
@@ -189,7 +360,24 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.2345092,
+      "longitude": 7.0804937,
+      "viewport": {
+        "northeast": {
+          "lat": 6.235870929892722,
+          "lng": 7.081844529892723
+        },
+        "southwest": {
+          "lat": 6.233171270107278,
+          "lng": 7.079144870107279
+        }
+      },
+      "formatted_address": "63MJ+R55, Judiciary Road, 420112, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2345092,7.0804937",
+      "google_place_id": "ChIJz7Sk6GKCQxARp-ZaYmt16qw"
+    }
   },
   {
     "id": "14209",
@@ -205,6 +393,7 @@
     "local_government_id": "76",
     "local_government_name": "AWKA SOUTH",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   }
 ]

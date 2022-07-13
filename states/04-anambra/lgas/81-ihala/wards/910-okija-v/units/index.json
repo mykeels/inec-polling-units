@@ -13,7 +13,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9080503,
+      "longitude": 6.804598599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.909431729892722,
+          "lng": 6.805903879892721
+        },
+        "southwest": {
+          "lat": 5.906732070107278,
+          "lng": 6.803204220107277
+        }
+      },
+      "formatted_address": "WR53+6RH, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9080503,6.804598599999999",
+      "google_place_id": "ChIJr8Fm2GC5QxARyf7XbStA6kQ"
+    }
   },
   {
     "id": "15517",
@@ -29,7 +46,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9018069,
+      "longitude": 6.8257831,
+      "viewport": {
+        "northeast": {
+          "lat": 5.903191179892722,
+          "lng": 6.827132279892721
+        },
+        "southwest": {
+          "lat": 5.900491520107278,
+          "lng": 6.824432620107277
+        }
+      },
+      "formatted_address": "WR2G+P8F, Uhuobo 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9018069,6.8257831",
+      "google_place_id": "ChIJwf3KFeS5QxARckcBIoGJEos"
+    }
   },
   {
     "id": "15518",
@@ -45,7 +79,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.892970099999999,
+      "longitude": 6.8698578,
+      "viewport": {
+        "northeast": {
+          "lat": 5.894425079892721,
+          "lng": 6.871365979892722
+        },
+        "southwest": {
+          "lat": 5.891725420107277,
+          "lng": 6.868666320107278
+        }
+      },
+      "formatted_address": "VVV9+5WQ, Umuohi 431123, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.892970099999999,6.8698578",
+      "google_place_id": "ChIJ40tdnDS7QxARrtsUSxBpzzM"
+    }
   },
   {
     "id": "15519",
@@ -61,7 +112,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8969855,
+      "longitude": 6.838558099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898431529892722,
+          "lng": 6.839850829892722
+        },
+        "southwest": {
+          "lat": 5.895731870107278,
+          "lng": 6.837151170107278
+        }
+      },
+      "formatted_address": "VRWQ+QCV, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8969855,6.838558099999999",
+      "google_place_id": "ChIJmRVKuVi7QxARTeZKZZmn710"
+    }
   },
   {
     "id": "15520",
@@ -77,7 +145,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.914723899999999,
+      "longitude": 6.840459999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.916061029892722,
+          "lng": 6.841760329892722
+        },
+        "southwest": {
+          "lat": 5.913361370107278,
+          "lng": 6.839060670107278
+        }
+      },
+      "formatted_address": "WR7R+V5P, 431123, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.914723899999999,6.840459999999999",
+      "google_place_id": "ChIJWd3iPeC7QxAR4FYIfv6kfq4"
+    }
   },
   {
     "id": "15521",
@@ -93,7 +178,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8943827,
+      "longitude": 6.836548499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.895897929892723,
+          "lng": 6.838037979892722
+        },
+        "southwest": {
+          "lat": 5.893198270107279,
+          "lng": 6.835338320107279
+        }
+      },
+      "formatted_address": "VRVP+RJ6, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8943827,6.836548499999999",
+      "google_place_id": "ChIJTX0uTpm7QxAR5IdF66S9QTY"
+    }
   },
   {
     "id": "15522",
@@ -109,7 +211,8 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": null
   },
   {
     "id": "15523",
@@ -125,7 +228,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9080503,
+      "longitude": 6.804598599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.909431729892722,
+          "lng": 6.805903879892721
+        },
+        "southwest": {
+          "lat": 5.906732070107278,
+          "lng": 6.803204220107277
+        }
+      },
+      "formatted_address": "WR53+6RH, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9080503,6.804598599999999",
+      "google_place_id": "ChIJr8Fm2GC5QxARyf7XbStA6kQ"
+    }
   },
   {
     "id": "15524",
@@ -141,7 +261,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9018069,
+      "longitude": 6.8257831,
+      "viewport": {
+        "northeast": {
+          "lat": 5.903191179892722,
+          "lng": 6.827132279892721
+        },
+        "southwest": {
+          "lat": 5.900491520107278,
+          "lng": 6.824432620107277
+        }
+      },
+      "formatted_address": "WR2G+P8F, Uhuobo 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9018069,6.8257831",
+      "google_place_id": "ChIJwf3KFeS5QxARckcBIoGJEos"
+    }
   },
   {
     "id": "15525",
@@ -157,7 +294,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8969855,
+      "longitude": 6.838558099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898431529892722,
+          "lng": 6.839850829892722
+        },
+        "southwest": {
+          "lat": 5.895731870107278,
+          "lng": 6.837151170107278
+        }
+      },
+      "formatted_address": "VRWQ+QCV, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8969855,6.838558099999999",
+      "google_place_id": "ChIJmRVKuVi7QxARTeZKZZmn710"
+    }
   },
   {
     "id": "15526",
@@ -173,7 +327,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9080503,
+      "longitude": 6.804598599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.909431729892722,
+          "lng": 6.805903879892721
+        },
+        "southwest": {
+          "lat": 5.906732070107278,
+          "lng": 6.803204220107277
+        }
+      },
+      "formatted_address": "WR53+6RH, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9080503,6.804598599999999",
+      "google_place_id": "ChIJr8Fm2GC5QxARyf7XbStA6kQ"
+    }
   },
   {
     "id": "15527",
@@ -189,7 +360,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 6.1945308,
+      "longitude": 7.067948599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.195893079892722,
+          "lng": 7.069371679892722
+        },
+        "southwest": {
+          "lat": 6.193193420107278,
+          "lng": 7.066672020107278
+        }
+      },
+      "formatted_address": "53V9+R58, Umuenechi Village, Awka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.1945308,7.067948599999999",
+      "google_place_id": "ChIJiRaMytODQxAROQb5gRjPGrg"
+    }
   },
   {
     "id": "15528",
@@ -205,7 +393,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8969855,
+      "longitude": 6.838558099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898431529892722,
+          "lng": 6.839850829892722
+        },
+        "southwest": {
+          "lat": 5.895731870107278,
+          "lng": 6.837151170107278
+        }
+      },
+      "formatted_address": "VRWQ+QCV, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8969855,6.838558099999999",
+      "google_place_id": "ChIJmRVKuVi7QxARTeZKZZmn710"
+    }
   },
   {
     "id": "15529",
@@ -221,7 +426,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.921202099999999,
+      "longitude": 6.8144648,
+      "viewport": {
+        "northeast": {
+          "lat": 5.922577929892721,
+          "lng": 6.815840829892722
+        },
+        "southwest": {
+          "lat": 5.919878270107278,
+          "lng": 6.813141170107278
+        }
+      },
+      "formatted_address": "431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.921202099999999,6.8144648",
+      "google_place_id": "ChIJk5lkJWS5QxARVzBaKx_pwI8"
+    }
   },
   {
     "id": "15530",
@@ -237,7 +459,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.921487,
+      "longitude": 6.8499447,
+      "viewport": {
+        "northeast": {
+          "lat": 5.922700929892722,
+          "lng": 6.851249479892721
+        },
+        "southwest": {
+          "lat": 5.920001270107278,
+          "lng": 6.848549820107277
+        }
+      },
+      "formatted_address": "No 2 Madonna university Road, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.921487,6.8499447",
+      "google_place_id": "ChIJAQAAANy7QxARW8bOIPPrQZI"
+    }
   },
   {
     "id": "15531",
@@ -253,7 +492,24 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.8969855,
+      "longitude": 6.838558099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.898431529892722,
+          "lng": 6.839850829892722
+        },
+        "southwest": {
+          "lat": 5.895731870107278,
+          "lng": 6.837151170107278
+        }
+      },
+      "formatted_address": "VRWQ+QCV, 431125, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.8969855,6.838558099999999",
+      "google_place_id": "ChIJmRVKuVi7QxARTeZKZZmn710"
+    }
   },
   {
     "id": "15532",
@@ -269,6 +525,23 @@
     "local_government_id": "81",
     "local_government_name": "IHALA",
     "state_id": "4",
-    "state_name": "ANAMBRA"
+    "state_name": "ANAMBRA",
+    "location": {
+      "latitude": 5.9303886,
+      "longitude": 7.2598913,
+      "viewport": {
+        "northeast": {
+          "lat": 5.933168849999999,
+          "lng": 7.261416829892721
+        },
+        "southwest": {
+          "lat": 5.929461850000001,
+          "lng": 7.258717170107277
+        }
+      },
+      "formatted_address": "W7J5+5X2, 470105, Okija, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.9303886,7.2598913",
+      "google_place_id": "ChIJI0ZRWf8PQxARhYC4KoUuqdo"
+    }
   }
 ]
