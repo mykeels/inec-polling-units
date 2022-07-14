@@ -13,7 +13,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8444175,
+      "longitude": 7.881084899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.845743829892722,
+          "lng": 7.882426729892722
+        },
+        "southwest": {
+          "lat": 8.843044170107278,
+          "lng": 7.879727070107278
+        }
+      },
+      "formatted_address": "RVVJ+QCW, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8444175,7.881084899999999",
+      "google_place_id": "ChIJU8u2n-jlURARivGdYP71rfA"
+    }
   },
   {
     "id": "331650",
@@ -29,7 +46,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331651",
@@ -45,7 +63,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331652",
@@ -61,7 +80,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331653",
@@ -77,7 +97,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.4230605,
+      "longitude": 9.7346051,
+      "viewport": {
+        "northeast": {
+          "lat": 8.424410329892721,
+          "lng": 9.735954929892722
+        },
+        "southwest": {
+          "lat": 8.421710670107277,
+          "lng": 9.733255270107279
+        }
+      },
+      "formatted_address": "CPFM+6RH, 941106, Bua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4230605,9.7346051",
+      "google_place_id": "ChIJfY2M_sX8VhARZMpIOBGdkA0"
+    }
   },
   {
     "id": "331654",
@@ -93,7 +130,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.7360165,
+      "longitude": 9.709449600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.73735142989272,
+          "lng": 9.710799079892722
+        },
+        "southwest": {
+          "lat": 8.734651770107277,
+          "lng": 9.708099420107278
+        }
+      },
+      "formatted_address": "PPP5+CQ4, 941111, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7360165,9.709449600000001",
+      "google_place_id": "ChIJuel0qpeSVhARvMaVvp6XsUU"
+    }
   },
   {
     "id": "331655",
@@ -109,6 +163,7 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   }
 ]

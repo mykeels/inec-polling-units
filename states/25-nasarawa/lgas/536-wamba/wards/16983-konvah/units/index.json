@@ -13,7 +13,24 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.9548319,
+      "longitude": 8.6030328,
+      "viewport": {
+        "northeast": {
+          "lat": 8.956223279892724,
+          "lng": 8.60437367989272
+        },
+        "southwest": {
+          "lat": 8.95352362010728,
+          "lng": 8.601674020107277
+        }
+      },
+      "formatted_address": "XJ33+X5F, 960134, Wamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9548319,8.6030328",
+      "google_place_id": "ChIJt4YwRkR7URAR49uY_yJR15k"
+    }
   },
   {
     "id": "334551",
@@ -29,7 +46,24 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.934021099999999,
+      "longitude": 8.6006237,
+      "viewport": {
+        "northeast": {
+          "lat": 8.93547132989272,
+          "lng": 8.60424935
+        },
+        "southwest": {
+          "lat": 8.932771670107277,
+          "lng": 8.59941515
+        }
+      },
+      "formatted_address": "Along new market road, sabon kotar, 960134, Wamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.934021099999999,8.6006237",
+      "google_place_id": "ChIJi2QRzrh7URARAvStFfLlspM"
+    }
   },
   {
     "id": "334552",
@@ -45,7 +79,8 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334553",
@@ -61,7 +96,24 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.943208,
+      "longitude": 8.6023254,
+      "viewport": {
+        "northeast": {
+          "lat": 8.98048,
+          "lng": 8.613824
+        },
+        "southwest": {
+          "lat": 8.9304329,
+          "lng": 8.593103
+        }
+      },
+      "formatted_address": "960134, Wamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.943208,8.6023254",
+      "google_place_id": "ChIJN7k07Vt6URARVcn1Uu3X99c"
+    }
   },
   {
     "id": "334554",
@@ -77,7 +129,24 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.943208,
+      "longitude": 8.6023254,
+      "viewport": {
+        "northeast": {
+          "lat": 8.98048,
+          "lng": 8.613824
+        },
+        "southwest": {
+          "lat": 8.9304329,
+          "lng": 8.593103
+        }
+      },
+      "formatted_address": "960134, Wamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.943208,8.6023254",
+      "google_place_id": "ChIJN7k07Vt6URARVcn1Uu3X99c"
+    }
   },
   {
     "id": "334555",
@@ -93,7 +162,24 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.943208,
+      "longitude": 8.6023254,
+      "viewport": {
+        "northeast": {
+          "lat": 8.98048,
+          "lng": 8.613824
+        },
+        "southwest": {
+          "lat": 8.9304329,
+          "lng": 8.593103
+        }
+      },
+      "formatted_address": "960134, Wamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.943208,8.6023254",
+      "google_place_id": "ChIJN7k07Vt6URARVcn1Uu3X99c"
+    }
   },
   {
     "id": "334556",
@@ -109,6 +195,23 @@
     "local_government_id": "536",
     "local_government_name": "WAMBA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 9.003047600000002,
+      "longitude": 8.6604023,
+      "viewport": {
+        "northeast": {
+          "lat": 9.0057581,
+          "lng": 8.663546
+        },
+        "southwest": {
+          "lat": 9.0004799,
+          "lng": 8.658546099999999
+        }
+      },
+      "formatted_address": "960135, Jidda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.003047600000002,8.6604023",
+      "google_place_id": "ChIJlf7HxlRjURARmOrs4Iz1HHM"
+    }
   }
 ]

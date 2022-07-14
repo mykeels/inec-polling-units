@@ -13,7 +13,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334459",
@@ -29,7 +30,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334460",
@@ -45,7 +47,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334461",
@@ -61,7 +64,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334462",
@@ -77,7 +81,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334463",
@@ -93,7 +98,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334464",
@@ -109,7 +115,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334465",
@@ -125,7 +132,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334466",
@@ -141,7 +149,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334467",
@@ -157,7 +166,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334468",
@@ -173,7 +183,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334469",
@@ -189,7 +200,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334470",
@@ -205,7 +217,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334471",
@@ -221,7 +234,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334472",
@@ -237,7 +251,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5357969,
+      "longitude": 8.5317393,
+      "viewport": {
+        "northeast": {
+          "lat": 8.53718217989272,
+          "lng": 8.532880829892722
+        },
+        "southwest": {
+          "lat": 8.534482520107277,
+          "lng": 8.530181170107278
+        }
+      },
+      "formatted_address": "Bukan Sidi Primary School, 950101, Lafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5357969,8.5317393",
+      "google_place_id": "ChIJhalG8eoHURAR_CsFIq0gPQg"
+    }
   },
   {
     "id": "334473",
@@ -253,7 +284,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3839851,
+      "longitude": 7.083197800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.385491679892722,
+          "lng": 7.084522979892721
+        },
+        "southwest": {
+          "lat": 8.382792020107278,
+          "lng": 7.081823320107278
+        }
+      },
+      "formatted_address": "93MM+H7W, Nasarawa road, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3839851,7.083197800000001",
+      "google_place_id": "ChIJCYB9uNMBTxARC4aw1bIV4TY"
+    }
   },
   {
     "id": "334474",
@@ -269,7 +317,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.5357969,
+      "longitude": 8.5317393,
+      "viewport": {
+        "northeast": {
+          "lat": 8.53718217989272,
+          "lng": 8.532880829892722
+        },
+        "southwest": {
+          "lat": 8.534482520107277,
+          "lng": 8.530181170107278
+        }
+      },
+      "formatted_address": "Bukan Sidi Primary School, 950101, Lafia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5357969,8.5317393",
+      "google_place_id": "ChIJhalG8eoHURAR_CsFIq0gPQg"
+    }
   },
   {
     "id": "334475",
@@ -285,6 +350,7 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   }
 ]

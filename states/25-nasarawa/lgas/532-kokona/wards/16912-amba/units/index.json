@@ -13,7 +13,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 10.4460279,
+      "longitude": 7.427323499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.44737772989272,
+          "lng": 7.428673129892721
+        },
+        "southwest": {
+          "lat": 10.44467807010728,
+          "lng": 7.425973470107277
+        }
+      },
+      "formatted_address": "15 fada, Ikulu Road, Kakuri, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4460279,7.427323499999999",
+      "google_place_id": "ChIJUZZ7nVg1TRAR1fMomYmISQk"
+    }
   },
   {
     "id": "332943",
@@ -29,7 +46,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.6300714,
+      "longitude": 8.1352213,
+      "viewport": {
+        "northeast": {
+          "lat": 8.638854,
+          "lng": 8.140122
+        },
+        "southwest": {
+          "lat": 8.6229499,
+          "lng": 8.1269511
+        }
+      },
+      "formatted_address": "961102, Amba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6300714,8.1352213",
+      "google_place_id": "ChIJacwKfZ24URARDHUdJHKoQVA"
+    }
   },
   {
     "id": "332944",
@@ -45,7 +79,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
   },
   {
     "id": "332945",
@@ -61,7 +112,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.69778,
+      "longitude": 8.157072399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.704914,
+          "lng": 8.1620371
+        },
+        "southwest": {
+          "lat": 8.691578999999999,
+          "lng": 8.154601
+        }
+      },
+      "formatted_address": "961102, Arusu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.69778,8.157072399999999",
+      "google_place_id": "ChIJtTGyiQy_URAR_nuLHaTG3_Q"
+    }
   },
   {
     "id": "332946",
@@ -77,7 +145,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
   },
   {
     "id": "332947",
@@ -93,7 +178,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.916015,
+      "longitude": 8.400381,
+      "viewport": {
+        "northeast": {
+          "lat": 8.91743147989272,
+          "lng": 8.401735979892722
+        },
+        "southwest": {
+          "lat": 8.914731820107276,
+          "lng": 8.399036320107278
+        }
+      },
+      "formatted_address": "Nasarawa Akwanga AA koto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.916015,8.400381",
+      "google_place_id": "ChIJY4BvPRudURAR4VeaV6ll7E0"
+    }
   },
   {
     "id": "332948",
@@ -109,7 +211,8 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "332949",
@@ -125,7 +228,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
   },
   {
     "id": "332950",
@@ -141,7 +261,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
   },
   {
     "id": "332951",
@@ -157,7 +294,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8380639,
+      "longitude": 8.0465185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1630282,
+          "lng": 8.2582462
+        },
+        "southwest": {
+          "lat": 8.5411732,
+          "lng": 7.810768500000001
+        }
+      },
+      "formatted_address": "Kokona, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8380639,8.0465185",
+      "google_place_id": "ChIJgyPCILvuURARgaTS5aJvqmA"
+    }
   },
   {
     "id": "332952",
@@ -173,7 +327,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8444175,
+      "longitude": 7.881084899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.845743829892722,
+          "lng": 7.882426729892722
+        },
+        "southwest": {
+          "lat": 8.843044170107278,
+          "lng": 7.879727070107278
+        }
+      },
+      "formatted_address": "RVVJ+QCW, 961101, Keffi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8444175,7.881084899999999",
+      "google_place_id": "ChIJU8u2n-jlURARivGdYP71rfA"
+    }
   },
   {
     "id": "332953",
@@ -189,7 +360,24 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8524938,
+      "longitude": 8.136394899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.853914529892721,
+          "lng": 8.137681429892721
+        },
+        "southwest": {
+          "lat": 8.851214870107277,
+          "lng": 8.134981770107277
+        }
+      },
+      "formatted_address": "V42P+XHR, Keffi-Akwanga Rd, Along 961102, Garaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8524938,8.136394899999999",
+      "google_place_id": "ChIJg9XTgUyTURARSvzHzw2BokE"
+    }
   },
   {
     "id": "332954",
@@ -205,6 +393,7 @@
     "local_government_id": "532",
     "local_government_name": "KOKONA",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334410",
@@ -29,7 +30,8 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "334411",
@@ -45,7 +47,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.137898,
+      "longitude": 7.0713572,
+      "viewport": {
+        "northeast": {
+          "lat": 8.217032,
+          "lng": 7.211375100000001
+        },
+        "southwest": {
+          "lat": 8.0406231,
+          "lng": 6.974305299999999
+        }
+      },
+      "formatted_address": "Ugya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.137898,7.0713572",
+      "google_place_id": "ChIJ1cHa13cKTxARqLYgmfnMRy0"
+    }
   },
   {
     "id": "334412",
@@ -61,7 +80,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.388245000000001,
+      "longitude": 7.077589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389545329892723,
+          "lng": 7.079032729892722
+        },
+        "southwest": {
+          "lat": 8.386845670107279,
+          "lng": 7.076333070107278
+        }
+      },
+      "formatted_address": "93QH+72W, Along Nasarawa Expressway, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.388245000000001,7.077589",
+      "google_place_id": "ChIJ11DMW28ATxARzVLK5qQbrIU"
+    }
   },
   {
     "id": "334413",
@@ -77,7 +113,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1964705,
+      "longitude": 7.1556058,
+      "viewport": {
+        "northeast": {
+          "lat": 8.19777542989272,
+          "lng": 7.157258629892721
+        },
+        "southwest": {
+          "lat": 8.195075770107277,
+          "lng": 7.154558970107277
+        }
+      },
+      "formatted_address": "55W4+H6Q, 962105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1964705,7.1556058",
+      "google_place_id": "ChIJCWFxnPSmTxARC3N6cLHol7g"
+    }
   },
   {
     "id": "334414",
@@ -93,7 +146,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
   },
   {
     "id": "334415",
@@ -109,7 +179,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.388245000000001,
+      "longitude": 7.077589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389545329892723,
+          "lng": 7.079032729892722
+        },
+        "southwest": {
+          "lat": 8.386845670107279,
+          "lng": 7.076333070107278
+        }
+      },
+      "formatted_address": "93QH+72W, Along Nasarawa Expressway, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.388245000000001,7.077589",
+      "google_place_id": "ChIJ11DMW28ATxARzVLK5qQbrIU"
+    }
   },
   {
     "id": "334416",
@@ -125,7 +212,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.388245000000001,
+      "longitude": 7.077589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389545329892723,
+          "lng": 7.079032729892722
+        },
+        "southwest": {
+          "lat": 8.386845670107279,
+          "lng": 7.076333070107278
+        }
+      },
+      "formatted_address": "93QH+72W, Along Nasarawa Expressway, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.388245000000001,7.077589",
+      "google_place_id": "ChIJ11DMW28ATxARzVLK5qQbrIU"
+    }
   },
   {
     "id": "334417",
@@ -141,7 +245,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.388245000000001,
+      "longitude": 7.077589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389545329892723,
+          "lng": 7.079032729892722
+        },
+        "southwest": {
+          "lat": 8.386845670107279,
+          "lng": 7.076333070107278
+        }
+      },
+      "formatted_address": "93QH+72W, Along Nasarawa Expressway, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.388245000000001,7.077589",
+      "google_place_id": "ChIJ11DMW28ATxARzVLK5qQbrIU"
+    }
   },
   {
     "id": "334418",
@@ -157,7 +278,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
   },
   {
     "id": "334419",
@@ -173,7 +311,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1964705,
+      "longitude": 7.1556058,
+      "viewport": {
+        "northeast": {
+          "lat": 8.19777542989272,
+          "lng": 7.157258629892721
+        },
+        "southwest": {
+          "lat": 8.195075770107277,
+          "lng": 7.154558970107277
+        }
+      },
+      "formatted_address": "55W4+H6Q, 962105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1964705,7.1556058",
+      "google_place_id": "ChIJCWFxnPSmTxARC3N6cLHol7g"
+    }
   },
   {
     "id": "334420",
@@ -189,7 +344,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
   },
   {
     "id": "334421",
@@ -205,7 +377,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1964705,
+      "longitude": 7.1556058,
+      "viewport": {
+        "northeast": {
+          "lat": 8.19777542989272,
+          "lng": 7.157258629892721
+        },
+        "southwest": {
+          "lat": 8.195075770107277,
+          "lng": 7.154558970107277
+        }
+      },
+      "formatted_address": "55W4+H6Q, 962105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1964705,7.1556058",
+      "google_place_id": "ChIJCWFxnPSmTxARC3N6cLHol7g"
+    }
   },
   {
     "id": "334422",
@@ -221,7 +410,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3884929,
+      "longitude": 7.0887676,
+      "viewport": {
+        "northeast": {
+          "lat": 8.389714929892722,
+          "lng": 7.089869579892722
+        },
+        "southwest": {
+          "lat": 8.387015270107279,
+          "lng": 7.087169920107278
+        }
+      },
+      "formatted_address": "93QQ+9GR, 962106, Toto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3884929,7.0887676",
+      "google_place_id": "ChIJPzgp0RsBTxARG_93waxW9DI"
+    }
   },
   {
     "id": "334423",
@@ -237,7 +443,24 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1964705,
+      "longitude": 7.1556058,
+      "viewport": {
+        "northeast": {
+          "lat": 8.19777542989272,
+          "lng": 7.157258629892721
+        },
+        "southwest": {
+          "lat": 8.195075770107277,
+          "lng": 7.154558970107277
+        }
+      },
+      "formatted_address": "55W4+H6Q, 962105, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1964705,7.1556058",
+      "google_place_id": "ChIJCWFxnPSmTxARC3N6cLHol7g"
+    }
   },
   {
     "id": "334424",
@@ -253,6 +476,7 @@
     "local_government_id": "535",
     "local_government_name": "TOTO",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   }
 ]

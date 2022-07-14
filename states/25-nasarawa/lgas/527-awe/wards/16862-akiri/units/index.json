@@ -13,7 +13,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3800936,
+      "longitude": 9.3283531,
+      "viewport": {
+        "northeast": {
+          "lat": 8.381917929892722,
+          "lng": 9.329576079892721
+        },
+        "southwest": {
+          "lat": 8.379218270107279,
+          "lng": 9.326876420107277
+        }
+      },
+      "formatted_address": "98JH+28Q, 951104, Wuse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3800936,9.3283531",
+      "google_place_id": "ChIJN6eJ4dPXVhARcF0CMB5xLFI"
+    }
   },
   {
     "id": "331737",
@@ -29,7 +46,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.3800936,
+      "longitude": 9.3283531,
+      "viewport": {
+        "northeast": {
+          "lat": 8.381917929892722,
+          "lng": 9.329576079892721
+        },
+        "southwest": {
+          "lat": 8.379218270107279,
+          "lng": 9.326876420107277
+        }
+      },
+      "formatted_address": "98JH+28Q, 951104, Wuse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3800936,9.3283531",
+      "google_place_id": "ChIJN6eJ4dPXVhARcF0CMB5xLFI"
+    }
   },
   {
     "id": "331738",
@@ -45,7 +79,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331739",
@@ -61,7 +96,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331740",
@@ -77,7 +113,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331741",
@@ -93,7 +130,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331742",
@@ -109,7 +147,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331743",
@@ -125,7 +164,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.8660028,
+      "longitude": 7.790332699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.867305029892721,
+          "lng": 7.791719679892722
+        },
+        "southwest": {
+          "lat": 8.864605370107277,
+          "lng": 7.789020020107278
+        }
+      },
+      "formatted_address": "VQ8R+C44, 961101, Uko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8660028,7.790332699999999",
+      "google_place_id": "ChIJgXSIqHTiURARfb-Fg4mqBV0"
+    }
   },
   {
     "id": "331744",
@@ -141,7 +197,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.1557129,
+      "longitude": 7.4642046,
+      "viewport": {
+        "northeast": {
+          "lat": 8.1667579,
+          "lng": 7.480211999999999
+        },
+        "southwest": {
+          "lat": 8.1446676,
+          "lng": 7.4481972
+        }
+      },
+      "formatted_address": "962103, Awakua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1557129,7.4642046",
+      "google_place_id": "ChIJo8H89MzATxARivuelVYzEd8"
+    }
   },
   {
     "id": "331745",
@@ -157,6 +230,7 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   }
 ]

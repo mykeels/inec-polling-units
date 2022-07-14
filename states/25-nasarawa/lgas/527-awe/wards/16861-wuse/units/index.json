@@ -13,7 +13,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331719",
@@ -29,7 +30,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331720",
@@ -45,7 +47,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331721",
@@ -61,7 +64,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331722",
@@ -77,7 +81,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331723",
@@ -93,7 +98,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 12.2028821,
+      "longitude": 4.7520102,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20405182989272,
+          "lng": 4.753368279892722
+        },
+        "southwest": {
+          "lat": 12.20135217010728,
+          "lng": 4.750668620107279
+        }
+      },
+      "formatted_address": "850105, Gidan Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2028821,4.7520102",
+      "google_place_id": "ChIJZ4Qq35nyyRERxw_a93AYrZM"
+    }
   },
   {
     "id": "331724",
@@ -109,7 +131,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331725",
@@ -125,7 +148,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331726",
@@ -141,7 +165,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.355426699999999,
+      "longitude": 9.621956299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.357980099999999,
+          "lng": 9.624935
+        },
+        "southwest": {
+          "lat": 8.351590999999999,
+          "lng": 9.6199351
+        }
+      },
+      "formatted_address": "670002, Dorowan Wuse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.355426699999999,9.621956299999999",
+      "google_place_id": "ChIJkwowGhAeVxARfVtJBDhFKIo"
+    }
   },
   {
     "id": "331727",
@@ -157,7 +198,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331728",
@@ -173,7 +215,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 11.1252693,
+      "longitude": 7.523708999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.126869,
+          "lng": 7.524934900000001
+        },
+        "southwest": {
+          "lat": 11.120986,
+          "lng": 7.516324
+        }
+      },
+      "formatted_address": "810105, Ungwan Audu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1252693,7.523708999999999",
+      "google_place_id": "ChIJjwUDoiiMshERbkLlqbVa2mM"
+    }
   },
   {
     "id": "331729",
@@ -189,7 +248,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 8.4715207,
+      "longitude": 9.582300799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.4746461,
+          "lng": 9.585491
+        },
+        "southwest": {
+          "lat": 8.47048,
+          "lng": 9.57688
+        }
+      },
+      "formatted_address": "940104, Angwan Buildigag, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4715207,9.582300799999999",
+      "google_place_id": "ChIJ2XMKCCPnVhARfLEBTCnuLxA"
+    }
   },
   {
     "id": "331730",
@@ -205,7 +281,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 7.4569391,
+      "longitude": 9.0730202,
+      "viewport": {
+        "northeast": {
+          "lat": 7.45826472989272,
+          "lng": 9.074294779892725
+        },
+        "southwest": {
+          "lat": 7.455565070107276,
+          "lng": 9.07159512010728
+        }
+      },
+      "formatted_address": "Yaounde St, Wuse 981102, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4569391,9.0730202",
+      "google_place_id": "ChIJXWu9vn0bWhARODMfn72PHPw"
+    }
   },
   {
     "id": "331731",
@@ -221,7 +314,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331732",
@@ -237,7 +331,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331733",
@@ -253,7 +348,24 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": {
+      "latitude": 12.2028821,
+      "longitude": 4.7520102,
+      "viewport": {
+        "northeast": {
+          "lat": 12.20405182989272,
+          "lng": 4.753368279892722
+        },
+        "southwest": {
+          "lat": 12.20135217010728,
+          "lng": 4.750668620107279
+        }
+      },
+      "formatted_address": "850105, Gidan Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2028821,4.7520102",
+      "google_place_id": "ChIJZ4Qq35nyyRERxw_a93AYrZM"
+    }
   },
   {
     "id": "331734",
@@ -269,7 +381,8 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   },
   {
     "id": "331735",
@@ -285,6 +398,7 @@
     "local_government_id": "527",
     "local_government_name": "AWE",
     "state_id": "25",
-    "state_name": "NASARAWA"
+    "state_name": "NASARAWA",
+    "location": null
   }
 ]
