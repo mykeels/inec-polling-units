@@ -13,7 +13,24 @@
     "local_government_id": "573",
     "local_government_name": "IKENNE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8886148,
+      "longitude": 3.7120052,
+      "viewport": {
+        "northeast": {
+          "lat": 6.889929279892722,
+          "lng": 3.713458929892722
+        },
+        "southwest": {
+          "lat": 6.887229620107278,
+          "lng": 3.710759270107278
+        }
+      },
+      "formatted_address": "6FR5VPQ6+FQ3 WARD 8 ikenne, 121103, Ilishan-Remo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8886148,3.7120052",
+      "google_place_id": "ChIJY5xXajfYOxAREXEpONF7giE"
+    }
   },
   {
     "id": "342971",
@@ -29,7 +46,24 @@
     "local_government_id": "573",
     "local_government_name": "IKENNE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.867909000000001,
+      "longitude": 3.940542,
+      "viewport": {
+        "northeast": {
+          "lat": 6.869117129892722,
+          "lng": 3.941757029892721
+        },
+        "southwest": {
+          "lat": 6.866417470107278,
+          "lng": 3.939057370107277
+        }
+      },
+      "formatted_address": "6FR5VW9R+567 Oke eri 9, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.867909000000001,3.940542",
+      "google_place_id": "ChIJK52G-L9vORARR7u8k-JZQtM"
+    }
   },
   {
     "id": "342972",
@@ -45,7 +79,24 @@
     "local_government_id": "573",
     "local_government_name": "IKENNE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.906318199999999,
+      "longitude": 3.7473679,
+      "viewport": {
+        "northeast": {
+          "lat": 6.907732979892722,
+          "lng": 3.748490529892722
+        },
+        "southwest": {
+          "lat": 6.905033320107278,
+          "lng": 3.745790870107278
+        }
+      },
+      "formatted_address": "WP4W+GWH, 121103, Ilishan-Remo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.906318199999999,3.7473679",
+      "google_place_id": "ChIJNWJEtVR9ORAR7uJzOFaX_xY"
+    }
   },
   {
     "id": "342973",
@@ -61,7 +112,24 @@
     "local_government_id": "573",
     "local_government_name": "IKENNE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8949551,
+      "longitude": 3.7088361,
+      "viewport": {
+        "northeast": {
+          "lat": 6.896329979892722,
+          "lng": 3.710173779892722
+        },
+        "southwest": {
+          "lat": 6.893630320107278,
+          "lng": 3.707474120107278
+        }
+      },
+      "formatted_address": "VPW5+2G7, 121103, Ilishan-Remo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8949551,3.7088361",
+      "google_place_id": "ChIJDSv3I-bZOxARKJrdomunkLs"
+    }
   },
   {
     "id": "342974",
@@ -77,7 +145,24 @@
     "local_government_id": "573",
     "local_government_name": "IKENNE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8982759,
+      "longitude": 3.74097,
+      "viewport": {
+        "northeast": {
+          "lat": 6.9184278,
+          "lng": 3.7538296
+        },
+        "southwest": {
+          "lat": 6.875829899999999,
+          "lng": 3.7268822
+        }
+      },
+      "formatted_address": "Ilisan/Irolu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8982759,3.74097",
+      "google_place_id": "ChIJd6yGSAbYOxARvwvTvEemRpE"
+    }
   },
   {
     "id": "342975",
@@ -93,6 +178,23 @@
     "local_government_id": "573",
     "local_government_name": "IKENNE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9059168,
+      "longitude": 3.7473377,
+      "viewport": {
+        "northeast": {
+          "lat": 6.907190579892721,
+          "lng": 3.748895879892722
+        },
+        "southwest": {
+          "lat": 6.904490920107277,
+          "lng": 3.746196220107278
+        }
+      },
+      "formatted_address": "WP4W+9W8, 121103, Ilishan-Remo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9059168,3.7473377",
+      "google_place_id": "ChIJ_w1jm0JjORARwk4coa-wczA"
+    }
   }
 ]

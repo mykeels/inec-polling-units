@@ -13,7 +13,8 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "343234",
@@ -29,7 +30,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.517072799999999,
+      "longitude": 3.3534392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.51843137989272,
+          "lng": 3.354797279892722
+        },
+        "southwest": {
+          "lat": 6.515731720107277,
+          "lng": 3.352097620107278
+        }
+      },
+      "formatted_address": "4 Ishaga Rd, Idi Oro 101241, Kemta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.517072799999999,3.3534392",
+      "google_place_id": "ChIJ5UFGZ5ONOxARi7uAXcj926k"
+    }
   },
   {
     "id": "343235",
@@ -45,7 +63,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.525105700000001,
+      "longitude": 2.8403103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526454279892722,
+          "lng": 2.841621979892722
+        },
+        "southwest": {
+          "lat": 6.523754620107278,
+          "lng": 2.838922320107278
+        }
+      },
+      "formatted_address": "GRGR+24V, 112101, Ipokia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525105700000001,2.8403103",
+      "google_place_id": "ChIJVVVVVYpmOxAR64afHhOznK4"
+    }
   },
   {
     "id": "343236",
@@ -61,7 +96,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.525105700000001,
+      "longitude": 2.8403103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526454279892722,
+          "lng": 2.841621979892722
+        },
+        "southwest": {
+          "lat": 6.523754620107278,
+          "lng": 2.838922320107278
+        }
+      },
+      "formatted_address": "GRGR+24V, Main,ipokia local government,Ogun State of, Wuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525105700000001,2.8403103",
+      "google_place_id": "ChIJkYwXB1BnOxAR9ydSHoHocQs"
+    }
   },
   {
     "id": "343237",
@@ -77,7 +129,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.476893599999999,
+      "longitude": 2.8330953,
+      "viewport": {
+        "northeast": {
+          "lat": 6.478377229892722,
+          "lng": 2.834334779892723
+        },
+        "southwest": {
+          "lat": 6.475677570107278,
+          "lng": 2.831635120107278
+        }
+      },
+      "formatted_address": "6FR4FRGM+P6P, Maun Road, Maun 1 112101, Ipokia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.476893599999999,2.8330953",
+      "google_place_id": "ChIJA2n6X1xhOxAR0v-rvH4xgDY"
+    }
   },
   {
     "id": "343238",
@@ -93,7 +162,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.525105700000001,
+      "longitude": 2.8403103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526454279892722,
+          "lng": 2.841621979892722
+        },
+        "southwest": {
+          "lat": 6.523754620107278,
+          "lng": 2.838922320107278
+        }
+      },
+      "formatted_address": "GRGR+24V, Main,ipokia local government,Ogun State of, Wuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525105700000001,2.8403103",
+      "google_place_id": "ChIJkYwXB1BnOxAR9ydSHoHocQs"
+    }
   },
   {
     "id": "343239",
@@ -109,7 +195,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.4328394,
+      "longitude": 2.9031909,
+      "viewport": {
+        "northeast": {
+          "lat": 6.434132929892721,
+          "lng": 2.904539479892722
+        },
+        "southwest": {
+          "lat": 6.431433270107277,
+          "lng": 2.901839820107278
+        }
+      },
+      "formatted_address": "CWM3+47P, 103101, Badagry, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4328394,2.9031909",
+      "google_place_id": "ChIJZ4ymIvpiOxAR-ubAPCxZv6E"
+    }
   },
   {
     "id": "343240",
@@ -125,7 +228,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.525105700000001,
+      "longitude": 2.8403103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526454279892722,
+          "lng": 2.841621979892722
+        },
+        "southwest": {
+          "lat": 6.523754620107278,
+          "lng": 2.838922320107278
+        }
+      },
+      "formatted_address": "GRGR+24V, Main,ipokia local government,Ogun State of, Wuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525105700000001,2.8403103",
+      "google_place_id": "ChIJkYwXB1BnOxAR9ydSHoHocQs"
+    }
   },
   {
     "id": "343241",
@@ -141,7 +261,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.4328394,
+      "longitude": 2.9031909,
+      "viewport": {
+        "northeast": {
+          "lat": 6.434132929892721,
+          "lng": 2.904539479892722
+        },
+        "southwest": {
+          "lat": 6.431433270107277,
+          "lng": 2.901839820107278
+        }
+      },
+      "formatted_address": "CWM3+47P, 103101, Badagry, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4328394,2.9031909",
+      "google_place_id": "ChIJZ4ymIvpiOxAR-ubAPCxZv6E"
+    }
   },
   {
     "id": "343242",
@@ -157,7 +294,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.525105700000001,
+      "longitude": 2.8403103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526454279892722,
+          "lng": 2.841621979892722
+        },
+        "southwest": {
+          "lat": 6.523754620107278,
+          "lng": 2.838922320107278
+        }
+      },
+      "formatted_address": "GRGR+24V, 112101, Ipokia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525105700000001,2.8403103",
+      "google_place_id": "ChIJVVVVVYpmOxAR64afHhOznK4"
+    }
   },
   {
     "id": "343243",
@@ -173,7 +327,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.638488799999999,
+      "longitude": 2.7445392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.639734379892721,
+          "lng": 2.745801879892723
+        },
+        "southwest": {
+          "lat": 6.637034720107277,
+          "lng": 2.743102220107278
+        }
+      },
+      "formatted_address": "Igbo Adigun, Ikolaje, Idiroko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.638488799999999,2.7445392",
+      "google_place_id": "ChIJj6x3T1hDOxARTN42zlOOrTU"
+    }
   },
   {
     "id": "343244",
@@ -189,7 +360,24 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.525105700000001,
+      "longitude": 2.8403103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526454279892722,
+          "lng": 2.841621979892722
+        },
+        "southwest": {
+          "lat": 6.523754620107278,
+          "lng": 2.838922320107278
+        }
+      },
+      "formatted_address": "GRGR+24V, 112101, Ipokia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.525105700000001,2.8403103",
+      "google_place_id": "ChIJVVVVVYpmOxARl9C6KZ575Oo"
+    }
   },
   {
     "id": "343245",
@@ -205,6 +393,23 @@
     "local_government_id": "575",
     "local_government_name": "IPOKIA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.526675099999999,
+      "longitude": 2.8420843,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528076179892722,
+          "lng": 2.843431229892722
+        },
+        "southwest": {
+          "lat": 6.525376520107278,
+          "lng": 2.840731570107277
+        }
+      },
+      "formatted_address": "GRGR+MR8, Road, 112101, Ipokia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.526675099999999,2.8420843",
+      "google_place_id": "ChIJ2Qg2979nOxARIqUiqlwHDnk"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342036",
@@ -29,7 +46,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7919866,
+      "longitude": 3.2684215,
+      "viewport": {
+        "northeast": {
+          "lat": 6.847141199999999,
+          "lng": 3.325808
+        },
+        "southwest": {
+          "lat": 6.7361822,
+          "lng": 3.2053019
+        }
+      },
+      "formatted_address": "Ososun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7919866,3.2684215",
+      "google_place_id": "ChIJu4dS0dG8OxAR2ojv6fK-0A8"
+    }
   },
   {
     "id": "342037",
@@ -45,7 +79,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8359651,
+      "longitude": 3.2429639,
+      "viewport": {
+        "northeast": {
+          "lat": 6.841043099999999,
+          "lng": 3.24988
+        },
+        "southwest": {
+          "lat": 6.827031,
+          "lng": 3.233582
+        }
+      },
+      "formatted_address": "112105, Balogun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8359651,3.2429639",
+      "google_place_id": "ChIJdzdcOaOkOxARUoApA4QiZQQ"
+    }
   },
   {
     "id": "342038",
@@ -61,7 +112,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8185856,
+      "longitude": 3.1980299,
+      "viewport": {
+        "northeast": {
+          "lat": 6.819928529892722,
+          "lng": 3.199373479892722
+        },
+        "southwest": {
+          "lat": 6.817228870107278,
+          "lng": 3.196673820107277
+        }
+      },
+      "formatted_address": "R59X+C6V, Ososun Road, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8185856,3.1980299",
+      "google_place_id": "ChIJp3zETw2jOxAR_W9foJlzKgQ"
+    }
   },
   {
     "id": "342039",
@@ -77,7 +145,8 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342040",
@@ -93,7 +162,8 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342041",
@@ -109,7 +179,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8216813,
+      "longitude": 3.1996826,
+      "viewport": {
+        "northeast": {
+          "lat": 6.823055879892722,
+          "lng": 3.201005179892722
+        },
+        "southwest": {
+          "lat": 6.820356220107278,
+          "lng": 3.198305520107278
+        }
+      },
+      "formatted_address": "R5CX+MRH, LGA, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8216813,3.1996826",
+      "google_place_id": "ChIJ_wI4IXejOxAROeMbiOkOHTY"
+    }
   },
   {
     "id": "342042",
@@ -125,7 +212,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7765393,
+      "longitude": 3.2791114,
+      "viewport": {
+        "northeast": {
+          "lat": 6.7784466,
+          "lng": 3.2805724
+        },
+        "southwest": {
+          "lat": 6.774616399999999,
+          "lng": 3.2762647
+        }
+      },
+      "formatted_address": "112105, Oyero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7765393,3.2791114",
+      "google_place_id": "ChIJzaMPCuK8OxARt-VlZC_vBPc"
+    }
   },
   {
     "id": "342043",
@@ -141,7 +245,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342044",
@@ -157,7 +278,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7275649,
+      "longitude": 3.3086778,
+      "viewport": {
+        "northeast": {
+          "lat": 6.7712824,
+          "lng": 3.3286429
+        },
+        "southwest": {
+          "lat": 6.691929699999999,
+          "lng": 3.2597637
+        }
+      },
+      "formatted_address": "Ijoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7275649,3.3086778",
+      "google_place_id": "ChIJQZ-_ptOXOxARpsWTAaPx5Xk"
+    }
   },
   {
     "id": "342045",
@@ -173,7 +311,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8028904,
+      "longitude": 3.1995659,
+      "viewport": {
+        "northeast": {
+          "lat": 6.804286079892722,
+          "lng": 3.200915579892722
+        },
+        "southwest": {
+          "lat": 6.801586420107278,
+          "lng": 3.198215920107277
+        }
+      },
+      "formatted_address": "R53X+5R4, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8028904,3.1995659",
+      "google_place_id": "ChIJN476KPSjOxARHDcl8PaU2Ws"
+    }
   },
   {
     "id": "342046",
@@ -189,7 +344,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.820339000000001,
+      "longitude": 3.2333512,
+      "viewport": {
+        "northeast": {
+          "lat": 6.821708129892722,
+          "lng": 3.234762279892722
+        },
+        "southwest": {
+          "lat": 6.819008470107278,
+          "lng": 3.232062620107278
+        }
+      },
+      "formatted_address": "African Church School, Abule, Oshosun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.820339000000001,3.2333512",
+      "google_place_id": "ChIJNzU7I0ijOxARY5Cgf1SK9VY"
+    }
   },
   {
     "id": "342047",
@@ -205,7 +377,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8132993,
+      "longitude": 3.2094187,
+      "viewport": {
+        "northeast": {
+          "lat": 6.814649429892722,
+          "lng": 3.210768529892722
+        },
+        "southwest": {
+          "lat": 6.811949770107278,
+          "lng": 3.208068870107278
+        }
+      },
+      "formatted_address": "R675+8Q7, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8132993,3.2094187",
+      "google_place_id": "ChIJk13JyZqjOxARdL_YbJamGZg"
+    }
   },
   {
     "id": "342048",
@@ -221,7 +410,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342049",
@@ -237,7 +443,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.800328500000001,
+      "longitude": 3.2206602,
+      "viewport": {
+        "northeast": {
+          "lat": 6.806784,
+          "lng": 3.231405
+        },
+        "southwest": {
+          "lat": 6.790457,
+          "lng": 3.2113781
+        }
+      },
+      "formatted_address": "Lerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.800328500000001,3.2206602",
+      "google_place_id": "ChIJpQrbxQujOxARlNcfohAdabQ"
+    }
   },
   {
     "id": "342050",
@@ -253,7 +476,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8172976,
+      "longitude": 3.2599879,
+      "viewport": {
+        "northeast": {
+          "lat": 6.818639979892722,
+          "lng": 3.261277979892722
+        },
+        "southwest": {
+          "lat": 6.815940320107278,
+          "lng": 3.258578320107278
+        }
+      },
+      "formatted_address": "R785+VXQ, Lagos-Abeokuta Expy, Rd 112105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8172976,3.2599879",
+      "google_place_id": "ChIJOTi27GG9OxARiz3ZVJUywpU"
+    }
   },
   {
     "id": "342051",
@@ -269,7 +509,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342052",
@@ -285,7 +542,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8210104,
+      "longitude": 3.2219137,
+      "viewport": {
+        "northeast": {
+          "lat": 6.822326079892722,
+          "lng": 3.223269079892722
+        },
+        "southwest": {
+          "lat": 6.819626420107278,
+          "lng": 3.220569420107278
+        }
+      },
+      "formatted_address": "R6CC+CQ3, Ososun Road, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8210104,3.2219137",
+      "google_place_id": "ChIJPR9Z8uajOxARr75nQpD9csk"
+    }
   },
   {
     "id": "342053",
@@ -301,7 +575,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342054",
@@ -317,7 +608,8 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342055",
@@ -333,7 +625,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7494992,
+      "longitude": 3.2734012,
+      "viewport": {
+        "northeast": {
+          "lat": 6.750859129892722,
+          "lng": 3.274704079892722
+        },
+        "southwest": {
+          "lat": 6.748159470107278,
+          "lng": 3.272004420107277
+        }
+      },
+      "formatted_address": "P7XF+R92, Unnamed Rd, Agege 112105, Ijoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7494992,3.2734012",
+      "google_place_id": "ChIJ5YYfqkS9OxARNbHS06ZOqxg"
+    }
   },
   {
     "id": "342056",
@@ -349,7 +658,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   },
   {
     "id": "342057",
@@ -365,7 +691,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8191451,
+      "longitude": 3.1930074,
+      "viewport": {
+        "northeast": {
+          "lat": 6.820533729892722,
+          "lng": 3.194354329892723
+        },
+        "southwest": {
+          "lat": 6.817834070107279,
+          "lng": 3.191654670107278
+        }
+      },
+      "formatted_address": "Oba Samuel Oladipupo Road, Bamu, Abule Ogun, opposite Meridian Star School, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8191451,3.1930074",
+      "google_place_id": "ChIJ15sLcEKjOxARjQadWqp6ZkM"
+    }
   },
   {
     "id": "342058",
@@ -381,7 +724,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8180999,
+      "longitude": 3.1956538,
+      "viewport": {
+        "northeast": {
+          "lat": 6.819461929892722,
+          "lng": 3.197003279892722
+        },
+        "southwest": {
+          "lat": 6.816762270107279,
+          "lng": 3.194303620107277
+        }
+      },
+      "formatted_address": "R59W+67J, Ososun Road, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8180999,3.1956538",
+      "google_place_id": "ChIJcb-8J2mjOxARk1nI1AQeDH8"
+    }
   },
   {
     "id": "342059",
@@ -397,7 +757,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342060",
@@ -413,7 +790,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8081653,
+      "longitude": 3.1954055,
+      "viewport": {
+        "northeast": {
+          "lat": 6.809506879892722,
+          "lng": 3.196745279892722
+        },
+        "southwest": {
+          "lat": 6.806807220107278,
+          "lng": 3.194045620107278
+        }
+      },
+      "formatted_address": "R55W+748, Moboluwaduro CDA 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8081653,3.1954055",
+      "google_place_id": "ChIJ_Yx6geujOxAROKF25FCS3zk"
+    }
   },
   {
     "id": "342061",
@@ -429,7 +823,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342062",
@@ -445,7 +856,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342063",
@@ -461,7 +889,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342064",
@@ -477,7 +922,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.5958169,
+      "longitude": 3.3510396,
+      "viewport": {
+        "northeast": {
+          "lat": 6.597281379892721,
+          "lng": 3.352412579892722
+        },
+        "southwest": {
+          "lat": 6.594581720107278,
+          "lng": 3.349712920107277
+        }
+      },
+      "formatted_address": "3rd Floor, Stanbic IBTC Building, 36A Toyin St, 100271, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5958169,3.3510396",
+      "google_place_id": "ChIJ7-jCDjuSOxARk_dk9F_15sg"
+    }
   },
   {
     "id": "342065",
@@ -493,7 +955,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.841707,
+      "longitude": 3.1987535,
+      "viewport": {
+        "northeast": {
+          "lat": 6.843049029892721,
+          "lng": 3.200096429892723
+        },
+        "southwest": {
+          "lat": 6.840349370107277,
+          "lng": 3.197396770107278
+        }
+      },
+      "formatted_address": "Ejio Rd, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.841707,3.1987535",
+      "google_place_id": "ChIJrXr1ouKlOxARU_8L_oJDSdg"
+    }
   },
   {
     "id": "342066",
@@ -509,7 +988,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   },
   {
     "id": "342067",
@@ -525,7 +1021,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.392724299999999,
+      "longitude": 3.879554,
+      "viewport": {
+        "northeast": {
+          "lat": 7.394107079892723,
+          "lng": 3.880958679892721
+        },
+        "southwest": {
+          "lat": 7.391407420107279,
+          "lng": 3.878259020107278
+        }
+      },
+      "formatted_address": "No 2 Onireke layout, besides Ibadan Northwest local government, Dugbe Rd, 234002, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.392724299999999,3.879554",
+      "google_place_id": "ChIJk-qffc-NORAR6eaIcluvhMw"
+    }
   },
   {
     "id": "342068",
@@ -541,7 +1054,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.828817,
+      "longitude": 3.2052493,
+      "viewport": {
+        "northeast": {
+          "lat": 6.830244029892723,
+          "lng": 3.206562829892722
+        },
+        "southwest": {
+          "lat": 6.827544370107279,
+          "lng": 3.203863170107278
+        }
+      },
+      "formatted_address": "R6H4+G3H, Ajowa Street, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.828817,3.2052493",
+      "google_place_id": "ChIJAeyfM1SlOxARkb28jDOlG34"
+    }
   },
   {
     "id": "342069",
@@ -557,7 +1087,8 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342070",
@@ -573,7 +1104,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.768326999999999,
+      "longitude": 3.2745631,
+      "viewport": {
+        "northeast": {
+          "lat": 6.769633229892721,
+          "lng": 3.276001179892722
+        },
+        "southwest": {
+          "lat": 6.766933570107277,
+          "lng": 3.273301520107277
+        }
+      },
+      "formatted_address": "Q79F+8RP, 112105, Oyero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.768326999999999,3.2745631",
+      "google_place_id": "ChIJkUuj32W9OxARfqY4x6YbFo8"
+    }
   },
   {
     "id": "342071",
@@ -589,7 +1137,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   },
   {
     "id": "342072",
@@ -605,7 +1170,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8210104,
+      "longitude": 3.2219137,
+      "viewport": {
+        "northeast": {
+          "lat": 6.822326079892722,
+          "lng": 3.223269079892722
+        },
+        "southwest": {
+          "lat": 6.819626420107278,
+          "lng": 3.220569420107278
+        }
+      },
+      "formatted_address": "R6CC+CQ3, Ososun Road, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8210104,3.2219137",
+      "google_place_id": "ChIJPR9Z8uajOxARr75nQpD9csk"
+    }
   },
   {
     "id": "342073",
@@ -621,7 +1203,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   },
   {
     "id": "342074",
@@ -637,7 +1236,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.823979599999999,
+      "longitude": 3.2309001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.825307579892721,
+          "lng": 3.232232829892722
+        },
+        "southwest": {
+          "lat": 6.822607920107277,
+          "lng": 3.229533170107278
+        }
+      },
+      "formatted_address": "6FR5R6FJ+H89 Ososun Ward 8, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.823979599999999,3.2309001",
+      "google_place_id": "ChIJ721yBGWjOxARnECfzogNp6I"
+    }
   },
   {
     "id": "342075",
@@ -653,7 +1269,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   },
   {
     "id": "342076",
@@ -669,7 +1302,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   },
   {
     "id": "342077",
@@ -685,7 +1335,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8187719,
+      "longitude": 3.271687,
+      "viewport": {
+        "northeast": {
+          "lat": 6.820107079892722,
+          "lng": 3.273229029892722
+        },
+        "southwest": {
+          "lat": 6.817407420107278,
+          "lng": 3.270529370107278
+        }
+      },
+      "formatted_address": "6FR5R79C+GM5 Ifote Ward 9, Seriki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8187719,3.271687",
+      "google_place_id": "ChIJ7wGRaBu9OxAR1PmvkNalguI"
+    }
   },
   {
     "id": "342078",
@@ -701,7 +1368,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7629888,
+      "longitude": 3.2417853,
+      "viewport": {
+        "northeast": {
+          "lat": 6.764338029892722,
+          "lng": 3.243134379892722
+        },
+        "southwest": {
+          "lat": 6.761638370107279,
+          "lng": 3.240434720107277
+        }
+      },
+      "formatted_address": "Agosi Estate, 2 Oremeji St, 112104, Onihale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7629888,3.2417853",
+      "google_place_id": "ChIJp9ctmOqjOxAR975cEAuCbgw"
+    }
   },
   {
     "id": "342079",
@@ -717,7 +1401,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8028904,
+      "longitude": 3.1995659,
+      "viewport": {
+        "northeast": {
+          "lat": 6.804286079892722,
+          "lng": 3.200915579892722
+        },
+        "southwest": {
+          "lat": 6.801586420107278,
+          "lng": 3.198215920107277
+        }
+      },
+      "formatted_address": "R53X+5R4, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8028904,3.1995659",
+      "google_place_id": "ChIJN476KPSjOxARHDcl8PaU2Ws"
+    }
   },
   {
     "id": "342080",
@@ -733,7 +1434,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8180999,
+      "longitude": 3.1956538,
+      "viewport": {
+        "northeast": {
+          "lat": 6.819461929892722,
+          "lng": 3.197003279892722
+        },
+        "southwest": {
+          "lat": 6.816762270107279,
+          "lng": 3.194303620107277
+        }
+      },
+      "formatted_address": "R59W+67J, Ososun Road, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8180999,3.1956538",
+      "google_place_id": "ChIJcb-8J2mjOxARk1nI1AQeDH8"
+    }
   },
   {
     "id": "342081",
@@ -749,7 +1467,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8236883,
+      "longitude": 3.226015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.824957329892721,
+          "lng": 3.227379679892722
+        },
+        "southwest": {
+          "lat": 6.822257670107277,
+          "lng": 3.224680020107277
+        }
+      },
+      "formatted_address": "R6FG+FCC, 112105, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8236883,3.226015",
+      "google_place_id": "ChIJScarcH2jOxARQtXVDlF_4gk"
+    }
   },
   {
     "id": "342082",
@@ -765,7 +1500,24 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8180999,
+      "longitude": 3.1956538,
+      "viewport": {
+        "northeast": {
+          "lat": 6.819461929892722,
+          "lng": 3.197003279892722
+        },
+        "southwest": {
+          "lat": 6.816762270107279,
+          "lng": 3.194303620107277
+        }
+      },
+      "formatted_address": "R59W+67J, Ososun Road, Ifo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8180999,3.1956538",
+      "google_place_id": "ChIJcb-8J2mjOxARk1nI1AQeDH8"
+    }
   },
   {
     "id": "342083",
@@ -781,6 +1533,23 @@
     "local_government_id": "568",
     "local_government_name": "IFO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8438099,
+      "longitude": 3.1932645,
+      "viewport": {
+        "northeast": {
+          "lat": 6.845214479892722,
+          "lng": 3.194612229892722
+        },
+        "southwest": {
+          "lat": 6.842514820107279,
+          "lng": 3.191912570107278
+        }
+      },
+      "formatted_address": "R5VV+G8C, 110106, Arigbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8438099,3.1932645",
+      "google_place_id": "ChIJfY0v1A6lOxARRMAXJBpr3Io"
+    }
   }
 ]

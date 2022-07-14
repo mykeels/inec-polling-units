@@ -13,7 +13,8 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342834",
@@ -29,7 +30,24 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8299226,
+      "longitude": 3.9164228,
+      "viewport": {
+        "northeast": {
+          "lat": 6.831299479892723,
+          "lng": 3.917826129892722
+        },
+        "southwest": {
+          "lat": 6.82859982010728,
+          "lng": 3.915126470107278
+        }
+      },
+      "formatted_address": "State Hospital, Road, 120101, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8299226,3.9164228",
+      "google_place_id": "ChIJB2QdhLRvORARKLadb2TCZs0"
+    }
   },
   {
     "id": "342835",
@@ -45,7 +63,24 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7900581,
+      "longitude": 3.9342729,
+      "viewport": {
+        "northeast": {
+          "lat": 6.79374795,
+          "lng": 3.935774429892722
+        },
+        "southwest": {
+          "lat": 6.788828149999999,
+          "lng": 3.933074770107278
+        }
+      },
+      "formatted_address": "QWRM+2PC, 120101, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7900581,3.9342729",
+      "google_place_id": "ChIJC8gG_u5oORAR2lJ7ikMtQgg"
+    }
   },
   {
     "id": "342836",
@@ -61,7 +96,24 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.799204,
+      "longitude": 3.9629448,
+      "viewport": {
+        "northeast": {
+          "lat": 6.800487429892722,
+          "lng": 3.964276079892721
+        },
+        "southwest": {
+          "lat": 6.797787770107278,
+          "lng": 3.961576420107277
+        }
+      },
+      "formatted_address": "QXX7+M5J Old Ondo, Benin Road, 122103, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.799204,3.9629448",
+      "google_place_id": "ChIJSZ23VEVpORAR1SNyJAgr7Po"
+    }
   },
   {
     "id": "342837",
@@ -77,7 +129,24 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.712015699999999,
+      "longitude": 3.9674371,
+      "viewport": {
+        "northeast": {
+          "lat": 6.892099,
+          "lng": 4.0776845
+        },
+        "southwest": {
+          "lat": 6.679862099999999,
+          "lng": 3.8977823
+        }
+      },
+      "formatted_address": "Ijebu ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.712015699999999,3.9674371",
+      "google_place_id": "ChIJHZtqWH1pORARBMWT7h-BqYk"
+    }
   },
   {
     "id": "342838",
@@ -93,7 +162,24 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.281308000000001,
+      "longitude": 3.956229,
+      "viewport": {
+        "northeast": {
+          "lat": 7.282621829892723,
+          "lng": 3.957564329892723
+        },
+        "southwest": {
+          "lat": 7.279922170107279,
+          "lng": 3.954864670107279
+        }
+      },
+      "formatted_address": "6FV57XJ4+GFH Inu Odi Okiti, Ibadan-Lagos Rd, Oluyole 110115, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.281308000000001,3.956229",
+      "google_place_id": "ChIJ1zHuxpiRORARx4WvMOpAnvI"
+    }
   },
   {
     "id": "342839",
@@ -109,6 +195,23 @@
     "local_government_id": "572",
     "local_government_name": "IJEBU ODE",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.701503,
+      "longitude": 3.965092,
+      "viewport": {
+        "northeast": {
+          "lat": 6.702850279892722,
+          "lng": 3.966453179892723
+        },
+        "southwest": {
+          "lat": 6.700150620107278,
+          "lng": 3.963753520107279
+        }
+      },
+      "formatted_address": "10, 6FR5PX28+J24, 120101, Ijebu Ishiwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.701503,3.965092",
+      "google_place_id": "ChIJYW6P3xxDORAR0MAkyMqlc18"
+    }
   }
 ]

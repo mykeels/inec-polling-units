@@ -13,7 +13,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9369,
+      "longitude": 3.861748,
+      "viewport": {
+        "northeast": {
+          "lat": 6.938243729892721,
+          "lng": 3.863076079892721
+        },
+        "southwest": {
+          "lat": 6.935544070107277,
+          "lng": 3.860376420107277
+        }
+      },
+      "formatted_address": "6FR5WVP6+QM5 Ako Permanent Site Road, Sigunsin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9369,3.861748",
+      "google_place_id": "ChIJTSalEaV7ORAR7yweKej_w3k"
+    }
   },
   {
     "id": "342540",
@@ -29,7 +46,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9423619,
+      "longitude": 3.9215317,
+      "viewport": {
+        "northeast": {
+          "lat": 6.943710079892723,
+          "lng": 3.922827429892721
+        },
+        "southwest": {
+          "lat": 6.941010420107279,
+          "lng": 3.920127770107277
+        }
+      },
+      "formatted_address": "WWRC+WJV, akoonigbagbo, Ago-Iwoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9423619,3.9215317",
+      "google_place_id": "ChIJQVGYj_pxORAR021JsYT9vTA"
+    }
   },
   {
     "id": "342541",
@@ -45,7 +79,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.813549999999999,
+      "longitude": 3.962387,
+      "viewport": {
+        "northeast": {
+          "lat": 6.815018179892722,
+          "lng": 3.963691279892722
+        },
+        "southwest": {
+          "lat": 6.812318520107278,
+          "lng": 3.960991620107278
+        }
+      },
+      "formatted_address": "RX76+CX6, 122103, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.813549999999999,3.962387",
+      "google_place_id": "ChIJN0hlxwJpORARFNFijCB33FY"
+    }
   },
   {
     "id": "342542",
@@ -61,7 +112,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8006272,
+      "longitude": 3.9212861,
+      "viewport": {
+        "northeast": {
+          "lat": 6.801972429892722,
+          "lng": 3.922667329892722
+        },
+        "southwest": {
+          "lat": 6.799272770107278,
+          "lng": 3.919967670107278
+        }
+      },
+      "formatted_address": "60 Ijagun Road, 120101, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8006272,3.9212861",
+      "google_place_id": "ChIJb7JxXGZpORAREidpmnkHjqk"
+    }
   },
   {
     "id": "342543",
@@ -77,7 +145,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8827355,
+      "longitude": 4.0082563,
+      "viewport": {
+        "northeast": {
+          "lat": 6.883891229892722,
+          "lng": 4.009335099999999
+        },
+        "southwest": {
+          "lat": 6.881191570107278,
+          "lng": 4.0050199
+        }
+      },
+      "formatted_address": "V2M5+38R, Onirugba, 110001, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8827355,4.0082563",
+      "google_place_id": "ChIJD20K-lJtORARu78kY8-0cfg"
+    }
   },
   {
     "id": "342544",
@@ -93,7 +178,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8827355,
+      "longitude": 4.0082563,
+      "viewport": {
+        "northeast": {
+          "lat": 6.883891229892722,
+          "lng": 4.009335099999999
+        },
+        "southwest": {
+          "lat": 6.881191570107278,
+          "lng": 4.0050199
+        }
+      },
+      "formatted_address": "V2M5+38R, Onirugba, 110001, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8827355,4.0082563",
+      "google_place_id": "ChIJD20K-lJtORARu78kY8-0cfg"
+    }
   },
   {
     "id": "342545",
@@ -109,7 +211,8 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342546",
@@ -125,7 +228,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.810086999999999,
+      "longitude": 3.922097,
+      "viewport": {
+        "northeast": {
+          "lat": 6.811343429892721,
+          "lng": 3.923535279892722
+        },
+        "southwest": {
+          "lat": 6.808643770107278,
+          "lng": 3.920835620107278
+        }
+      },
+      "formatted_address": "6FR5RW6C+2RQ, 120101, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.810086999999999,3.922097",
+      "google_place_id": "ChIJATO6OLdoORARkin1ZPAEeBU"
+    }
   },
   {
     "id": "342547",
@@ -141,7 +261,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.994585,
+      "longitude": 3.796432,
+      "viewport": {
+        "northeast": {
+          "lat": 6.995954679892722,
+          "lng": 3.797693679892722
+        },
+        "southwest": {
+          "lat": 6.993255020107278,
+          "lng": 3.794994020107278
+        }
+      },
+      "formatted_address": "6FR5XQVW+RHM, 120107, Odoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.994585,3.796432",
+      "google_place_id": "ChIJ8WyAgqh_ORARwmtMnFyesyY"
+    }
   },
   {
     "id": "342548",
@@ -157,7 +294,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.783474999999999,
+      "longitude": 4.0291286,
+      "viewport": {
+        "northeast": {
+          "lat": 6.784804629892721,
+          "lng": 4.030468879892721
+        },
+        "southwest": {
+          "lat": 6.782104970107278,
+          "lng": 4.027769220107277
+        }
+      },
+      "formatted_address": "Q2MH+9MJ, oke axis, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.783474999999999,4.0291286",
+      "google_place_id": "ChIJiYb7eAdrORAR8NhsmPXjYz8"
+    }
   },
   {
     "id": "342549",
@@ -173,7 +327,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9423619,
+      "longitude": 3.9215317,
+      "viewport": {
+        "northeast": {
+          "lat": 6.943710079892723,
+          "lng": 3.922827429892721
+        },
+        "southwest": {
+          "lat": 6.941010420107279,
+          "lng": 3.920127770107277
+        }
+      },
+      "formatted_address": "WWRC+WJV, akoonigbagbo, Ago-Iwoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9423619,3.9215317",
+      "google_place_id": "ChIJQVGYj_pxORAR021JsYT9vTA"
+    }
   },
   {
     "id": "342550",
@@ -189,7 +360,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0575722,
+      "longitude": 4.029795,
+      "viewport": {
+        "northeast": {
+          "lat": 7.059036829892722,
+          "lng": 4.031107829892722
+        },
+        "southwest": {
+          "lat": 7.056337170107278,
+          "lng": 4.028408170107278
+        }
+      },
+      "formatted_address": "120106, Ipakodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0575722,4.029795",
+      "google_place_id": "ChIJRTKOlnV1ORARo_u5QB2rGSU"
+    }
   },
   {
     "id": "342551",
@@ -205,7 +393,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.96503,
+      "longitude": 3.796348,
+      "viewport": {
+        "northeast": {
+          "lat": 6.966373929892721,
+          "lng": 3.797707129892722
+        },
+        "southwest": {
+          "lat": 6.963674270107277,
+          "lng": 3.795007470107278
+        }
+      },
+      "formatted_address": "6FR5XQ8W+2G9 Ago Iwoye, Eredo, Odoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.96503,3.796348",
+      "google_place_id": "ChIJbzJZHzR9ORARX1rfEAtpPtc"
+    }
   },
   {
     "id": "342552",
@@ -221,7 +426,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.970499999999999,
+      "longitude": 3.8154,
+      "viewport": {
+        "northeast": {
+          "lat": 6.971886579892721,
+          "lng": 3.816809829892722
+        },
+        "southwest": {
+          "lat": 6.969186920107277,
+          "lng": 3.814110170107278
+        }
+      },
+      "formatted_address": "XRC8+652, 120107, Oke-Ogbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.970499999999999,3.8154",
+      "google_place_id": "ChIJfddNTg18ORAREbxCiv6D7rU"
+    }
   },
   {
     "id": "342553",
@@ -237,7 +459,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8888646,
+      "longitude": 4.0353806,
+      "viewport": {
+        "northeast": {
+          "lat": 6.8961019,
+          "lng": 4.039929
+        },
+        "southwest": {
+          "lat": 6.884336999999999,
+          "lng": 4.029201
+        }
+      },
+      "formatted_address": "120102, Oriwu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8888646,4.0353806",
+      "google_place_id": "ChIJfSh_JnFtORARHUuZkiHYR_A"
+    }
   },
   {
     "id": "342554",
@@ -253,7 +492,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.941375,
+      "longitude": 3.90814,
+      "viewport": {
+        "northeast": {
+          "lat": 6.942688929892721,
+          "lng": 3.909488379892723
+        },
+        "southwest": {
+          "lat": 6.939989270107278,
+          "lng": 3.906788720107279
+        }
+      },
+      "formatted_address": "6FR5WWR5+G7R, 120107, Ago-Iwoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.941375,3.90814",
+      "google_place_id": "ChIJc7QtTXJxORARMjY9xggV4eA"
+    }
   },
   {
     "id": "342555",
@@ -269,7 +525,8 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "342556",
@@ -285,7 +542,24 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9348849,
+      "longitude": 3.8830587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.936242829892723,
+          "lng": 3.884376779892723
+        },
+        "southwest": {
+          "lat": 6.93354317010728,
+          "lng": 3.881677120107279
+        }
+      },
+      "formatted_address": "6FR5WVMM+X55 Ago Iwoye Permanent Site Road ijebu north Ogun, Ago-Iwoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9348849,3.8830587",
+      "google_place_id": "ChIJ_dhVwfl7ORARBfLelhZGYX8"
+    }
   },
   {
     "id": "342557",
@@ -301,6 +575,23 @@
     "local_government_id": "570",
     "local_government_name": "IJEBU NORTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9612851,
+      "longitude": 3.9888414,
+      "viewport": {
+        "northeast": {
+          "lat": 6.962653979892722,
+          "lng": 3.990178479892721
+        },
+        "southwest": {
+          "lat": 6.959954320107278,
+          "lng": 3.987478820107277
+        }
+      },
+      "formatted_address": "XX6Q+GG5, Goodluck Jonathan Political Centre Beside Abusi Edumare Academy Secondary Oke Sopin, Ijebu Igbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9612851,3.9888414",
+      "google_place_id": "ChIJBYIZeN1zORAR9IdliKzkht0"
+    }
   }
 ]

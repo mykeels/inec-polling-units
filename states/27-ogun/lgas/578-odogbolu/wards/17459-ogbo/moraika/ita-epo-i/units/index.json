@@ -13,7 +13,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7724929,
+      "longitude": 3.911366799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.773845679892722,
+          "lng": 3.912665929892722
+        },
+        "southwest": {
+          "lat": 6.771146020107278,
+          "lng": 3.909966270107279
+        }
+      },
+      "formatted_address": "QWC6+XGX, Isanya ogbo Road, 120103, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7724929,3.911366799999999",
+      "google_place_id": "ChIJt9z1ENZpORAR_vnBybbPioc"
+    }
   },
   {
     "id": "343995",
@@ -29,7 +46,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7994613,
+      "longitude": 3.8978124,
+      "viewport": {
+        "northeast": {
+          "lat": 6.800951579892722,
+          "lng": 3.899239929892722
+        },
+        "southwest": {
+          "lat": 6.798251920107278,
+          "lng": 3.896540270107278
+        }
+      },
+      "formatted_address": "QVXX+Q4P, Mobalufon, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7994613,3.8978124",
+      "google_place_id": "ChIJ9aKhXalnORARXPfXZN0FQOM"
+    }
   },
   {
     "id": "343996",
@@ -45,7 +79,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8099744,
+      "longitude": 3.9001928,
+      "viewport": {
+        "northeast": {
+          "lat": 6.811324229892722,
+          "lng": 3.901542629892722
+        },
+        "southwest": {
+          "lat": 6.808624570107278,
+          "lng": 3.898842970107278
+        }
+      },
+      "formatted_address": "Adefisan St, 120103, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8099744,3.9001928",
+      "google_place_id": "ChIJPdgYuQRmORARmA7yVLM_jGo"
+    }
   },
   {
     "id": "343997",
@@ -61,7 +112,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.6275802,
+      "longitude": 3.5140797,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628893679892722,
+          "lng": 3.515374579892722
+        },
+        "southwest": {
+          "lat": 6.626194020107278,
+          "lng": 3.512674920107278
+        }
+      },
+      "formatted_address": "JGH7+2JP, James Daniel Street, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6275802,3.5140797",
+      "google_place_id": "ChIJ8duoX5buOxAR8cup4FInMXY"
+    }
   },
   {
     "id": "343998",
@@ -77,7 +145,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7989589,
+      "longitude": 3.8888693,
+      "viewport": {
+        "northeast": {
+          "lat": 6.800321779892721,
+          "lng": 3.890207679892722
+        },
+        "southwest": {
+          "lat": 6.797622120107278,
+          "lng": 3.887508020107278
+        }
+      },
+      "formatted_address": "QVXQ+HHC, 120103, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7989589,3.8888693",
+      "google_place_id": "ChIJmWkhmxVmORARrGV6J_EtLvg"
+    }
   },
   {
     "id": "343999",
@@ -93,7 +178,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8052562,
+      "longitude": 3.9394675,
+      "viewport": {
+        "northeast": {
+          "lat": 6.806594079892721,
+          "lng": 3.940791929892721
+        },
+        "southwest": {
+          "lat": 6.803894420107278,
+          "lng": 3.938092270107278
+        }
+      },
+      "formatted_address": "6FR5RW4Q+4Q3, 120101, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8052562,3.9394675",
+      "google_place_id": "ChIJ82Q4MLJpORARzAvi7dIT1Fo"
+    }
   },
   {
     "id": "344000",
@@ -109,7 +211,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344001",
@@ -125,7 +228,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344002",
@@ -141,7 +245,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8230853,
+      "longitude": 3.9303522,
+      "viewport": {
+        "northeast": {
+          "lat": 6.824435229892721,
+          "lng": 3.931721879892721
+        },
+        "southwest": {
+          "lat": 6.821735570107277,
+          "lng": 3.929022220107278
+        }
+      },
+      "formatted_address": "RWFJ+64M, Along Obanta Club, GRA, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8230853,3.9303522",
+      "google_place_id": "ChIJR03tQDRvORARM9MR5BQzUvo"
+    }
   },
   {
     "id": "344003",
@@ -157,7 +278,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344004",
@@ -173,7 +295,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344005",
@@ -189,7 +312,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.829922199999999,
+      "longitude": 3.9164154,
+      "viewport": {
+        "northeast": {
+          "lat": 6.831299479892723,
+          "lng": 3.917826129892722
+        },
+        "southwest": {
+          "lat": 6.82859982010728,
+          "lng": 3.915126470107278
+        }
+      },
+      "formatted_address": "16, Church Street Isade, 120102, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.829922199999999,3.9164154",
+      "google_place_id": "ChIJ14rLz81vORAREtQ1r41n4rE"
+    }
   },
   {
     "id": "344006",
@@ -205,7 +345,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.717700600000001,
+      "longitude": 4.4458857,
+      "viewport": {
+        "northeast": {
+          "lat": 7.719045479892724,
+          "lng": 4.447213579892722
+        },
+        "southwest": {
+          "lat": 7.71634582010728,
+          "lng": 4.444513920107278
+        }
+      },
+      "formatted_address": "Plot 3, Ilupeju street off Station Road Baptistic High School Junction, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.717700600000001,4.4458857",
+      "google_place_id": "ChIJJUGtkD0rOBARHLJSx6tNobY"
+    }
   },
   {
     "id": "344007",
@@ -221,7 +378,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344008",
@@ -237,7 +395,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344009",
@@ -253,7 +412,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.5398299,
+      "longitude": 3.3927744,
+      "viewport": {
+        "northeast": {
+          "lat": 6.541241779892721,
+          "lng": 3.394143429892722
+        },
+        "southwest": {
+          "lat": 6.538542120107278,
+          "lng": 3.391443770107278
+        }
+      },
+      "formatted_address": "Lade Bus Stop, Bariga, 36 Jagumolu St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5398299,3.3927744",
+      "google_place_id": "ChIJBaqeZhGNOxARM111TW8hYJw"
+    }
   },
   {
     "id": "344010",
@@ -269,7 +445,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344011",
@@ -285,7 +462,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344012",
@@ -301,7 +479,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.8347674,
+      "longitude": 3.9382817,
+      "viewport": {
+        "northeast": {
+          "lat": 6.836116229892722,
+          "lng": 3.939630179892722
+        },
+        "southwest": {
+          "lat": 6.833416570107278,
+          "lng": 3.936930520107278
+        }
+      },
+      "formatted_address": "6FR5RWMQ+W83, OLIWORO ODOEBGO 120101, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.8347674,3.9382817",
+      "google_place_id": "ChIJ3xzQo4xvORARwn0o-YiDkfk"
+    }
   },
   {
     "id": "344013",
@@ -317,7 +512,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344014",
@@ -333,7 +529,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.4765317,
+      "longitude": 4.5573992,
+      "viewport": {
+        "northeast": {
+          "lat": 7.477779029892724,
+          "lng": 4.558754429892721
+        },
+        "southwest": {
+          "lat": 7.47507937010728,
+          "lng": 4.556054770107277
+        }
+      },
+      "formatted_address": "FHG4+HXP, Ondo- Ife Rd, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4765317,4.5573992",
+      "google_place_id": "ChIJ9_GUMWE3OBAR1BQD3R1qkUc"
+    }
   },
   {
     "id": "344015",
@@ -349,7 +562,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344016",
@@ -365,7 +579,8 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "344017",
@@ -381,7 +596,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.7729,
+      "longitude": 3.7286,
+      "viewport": {
+        "northeast": {
+          "lat": 6.774246429892722,
+          "lng": 3.730007079892722
+        },
+        "southwest": {
+          "lat": 6.771546770107278,
+          "lng": 3.727307420107278
+        }
+      },
+      "formatted_address": "QPFH+5C5, 120103, Ita-Epinni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.7729,3.7286",
+      "google_place_id": "ChIJPWa1BpzfOxARHMEOlbEqAOQ"
+    }
   },
   {
     "id": "344018",
@@ -397,7 +629,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.596307599999999,
+      "longitude": 3.5012514,
+      "viewport": {
+        "northeast": {
+          "lat": 6.597584629892721,
+          "lng": 3.502577479892722
+        },
+        "southwest": {
+          "lat": 6.594884970107278,
+          "lng": 3.499877820107277
+        }
+      },
+      "formatted_address": "HGW2+GGC, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.596307599999999,3.5012514",
+      "google_place_id": "ChIJ71TBxXfuOxAR8OIBnJxPtxg"
+    }
   },
   {
     "id": "344019",
@@ -413,7 +662,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.891986300000001,
+      "longitude": 3.7181286,
+      "viewport": {
+        "northeast": {
+          "lat": 6.893345529892722,
+          "lng": 3.719491029892722
+        },
+        "southwest": {
+          "lat": 6.890645870107278,
+          "lng": 3.716791370107278
+        }
+      },
+      "formatted_address": "121103, Ilishan-Remo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.891986300000001,3.7181286",
+      "google_place_id": "ChIJw07lORbYOxARUn42yKi0KZE"
+    }
   },
   {
     "id": "344020",
@@ -429,7 +695,24 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.769832999999999,
+      "longitude": 3.911609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.771204329892722,
+          "lng": 3.912968579892723
+        },
+        "southwest": {
+          "lat": 6.768504670107278,
+          "lng": 3.910268920107279
+        }
+      },
+      "formatted_address": "6FR5QW96+WJQ OGBO, 15 odogbolu Ogun, Ijebu Ode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.769832999999999,3.911609",
+      "google_place_id": "ChIJXWavx-BpORARXqyt7jY7d5s"
+    }
   },
   {
     "id": "344021",
@@ -445,6 +728,7 @@
     "local_government_id": "578",
     "local_government_name": "ODOGBOLU",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   }
 ]

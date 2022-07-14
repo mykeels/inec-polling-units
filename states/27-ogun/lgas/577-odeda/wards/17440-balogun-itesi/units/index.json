@@ -13,7 +13,24 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1910101,
+      "longitude": 3.5760527,
+      "viewport": {
+        "northeast": {
+          "lat": 7.192442379892722,
+          "lng": 3.577431129892723
+        },
+        "southwest": {
+          "lat": 7.189742720107279,
+          "lng": 3.574731470107278
+        }
+      },
+      "formatted_address": "6FV55HRG+CC4 Toba Itesi, 110119, Baase Iporo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1910101,3.5760527",
+      "google_place_id": "ChIJ96dFAdkxOhAR36gvSRYW9-Y"
+    }
   },
   {
     "id": "343724",
@@ -29,7 +46,24 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.787305099999999,
+      "longitude": 3.9938557,
+      "viewport": {
+        "northeast": {
+          "lat": 6.788666379892722,
+          "lng": 3.995213179892722
+        },
+        "southwest": {
+          "lat": 6.785966720107278,
+          "lng": 3.992513520107278
+        }
+      },
+      "formatted_address": "QXPV+VGM, 122103, Ijebu Imushin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.787305099999999,3.9938557",
+      "google_place_id": "ChIJc4skDtprORARfoUxeNOqEAo"
+    }
   },
   {
     "id": "343725",
@@ -45,7 +79,24 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.186963299999999,
+      "longitude": 3.5646628,
+      "viewport": {
+        "northeast": {
+          "lat": 7.188218279892721,
+          "lng": 3.566146329892722
+        },
+        "southwest": {
+          "lat": 7.185518620107277,
+          "lng": 3.563446670107278
+        }
+      },
+      "formatted_address": "110119, Segile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.186963299999999,3.5646628",
+      "google_place_id": "ChIJzyHn38ExOhARln6QxjVdPOQ"
+    }
   },
   {
     "id": "343726",
@@ -61,7 +112,24 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.180005,
+      "longitude": 3.5851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.181198379892723,
+          "lng": 3.586405179892721
+        },
+        "southwest": {
+          "lat": 7.178498720107279,
+          "lng": 3.583705520107277
+        }
+      },
+      "formatted_address": "6FV55HJP+225 Odelaitan Itesi ward, 110120, Baase Iporo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.180005,3.5851",
+      "google_place_id": "ChIJTTxMXbMvOhARZsGdx-C6VuY"
+    }
   },
   {
     "id": "343727",
@@ -77,7 +145,8 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "343728",
@@ -93,7 +162,24 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.190568700000001,
+      "longitude": 3.5598566,
+      "viewport": {
+        "northeast": {
+          "lat": 7.191917929892721,
+          "lng": 3.561216229892722
+        },
+        "southwest": {
+          "lat": 7.189218270107277,
+          "lng": 3.558516570107277
+        }
+      },
+      "formatted_address": "5HR5+6WH, 110119, Odeda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.190568700000001,3.5598566",
+      "google_place_id": "ChIJA6sG7G8xOhARiyC7AiTGwHc"
+    }
   },
   {
     "id": "343729",
@@ -109,7 +195,8 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "343730",
@@ -125,6 +212,23 @@
     "local_government_id": "577",
     "local_government_name": "ODEDA",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.180005,
+      "longitude": 3.5851,
+      "viewport": {
+        "northeast": {
+          "lat": 7.181198379892723,
+          "lng": 3.586405179892721
+        },
+        "southwest": {
+          "lat": 7.178498720107279,
+          "lng": 3.583705520107277
+        }
+      },
+      "formatted_address": "6FV55HJP+225 Odelaitan Itesi ward, 110120, Baase Iporo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.180005,3.5851",
+      "google_place_id": "ChIJTTxMXbMvOhARZsGdx-C6VuY"
+    }
   }
 ]

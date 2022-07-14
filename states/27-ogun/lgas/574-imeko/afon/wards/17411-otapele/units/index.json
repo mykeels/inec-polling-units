@@ -13,7 +13,8 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "343073",
@@ -29,7 +30,24 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.4323105,
+      "longitude": 2.8432307,
+      "viewport": {
+        "northeast": {
+          "lat": 7.433669729892722,
+          "lng": 2.844495679892722
+        },
+        "southwest": {
+          "lat": 7.430970070107279,
+          "lng": 2.841796020107277
+        }
+      },
+      "formatted_address": "CRJV+W7H, 111104, Imeko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4323105,2.8432307",
+      "google_place_id": "ChIJjwQljN2VOhAResgiYbK8-b0"
+    }
   },
   {
     "id": "343074",
@@ -45,7 +63,24 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.5472059,
+      "longitude": 2.9675572,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6045671,
+          "lng": 3.0267387
+        },
+        "southwest": {
+          "lat": 7.4502765,
+          "lng": 2.92156
+        }
+      },
+      "formatted_address": "Otapele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5472059,2.9675572",
+      "google_place_id": "ChIJ6XuFEWOOOhARKDAtgwRu03c"
+    }
   },
   {
     "id": "343075",
@@ -61,7 +96,24 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.4323105,
+      "longitude": 2.8432307,
+      "viewport": {
+        "northeast": {
+          "lat": 7.433669729892722,
+          "lng": 2.844495679892722
+        },
+        "southwest": {
+          "lat": 7.430970070107279,
+          "lng": 2.841796020107277
+        }
+      },
+      "formatted_address": "CRJV+W7H, 111104, Imeko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4323105,2.8432307",
+      "google_place_id": "ChIJjwQljN2VOhAResgiYbK8-b0"
+    }
   },
   {
     "id": "343076",
@@ -77,7 +129,24 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.4000471,
+      "longitude": 3.0066919,
+      "viewport": {
+        "northeast": {
+          "lat": 7.401479129892722,
+          "lng": 3.008138379892722
+        },
+        "southwest": {
+          "lat": 7.398779470107279,
+          "lng": 3.005438720107278
+        }
+      },
+      "formatted_address": "Abeokuta-Idofa Road, 111125, Idi-Emi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4000471,3.0066919",
+      "google_place_id": "ChIJ2UQSRG_zOhAR7fcgmJep97E"
+    }
   },
   {
     "id": "343077",
@@ -93,7 +162,24 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.475654,
+      "longitude": 2.838876,
+      "viewport": {
+        "northeast": {
+          "lat": 7.477003829892723,
+          "lng": 2.840225829892722
+        },
+        "southwest": {
+          "lat": 7.474304170107279,
+          "lng": 2.837526170107277
+        }
+      },
+      "formatted_address": "Celestial City, Imeko-Afon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.475654,2.838876",
+      "google_place_id": "ChIJq_hc05KUOhAROh6wHHaUwzk"
+    }
   },
   {
     "id": "343078",
@@ -109,6 +195,23 @@
     "local_government_id": "574",
     "local_government_name": "IMEKO/AFON",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.448081499999999,
+      "longitude": 2.8375887,
+      "viewport": {
+        "northeast": {
+          "lat": 7.449495679892721,
+          "lng": 2.839011729892722
+        },
+        "southwest": {
+          "lat": 7.446796020107278,
+          "lng": 2.836312070107278
+        }
+      },
+      "formatted_address": "CRXQ+62J, Iwoye Road Beside Custom Office, Imeko. IMEKO OGUN STATE, Imeko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.448081499999999,2.8375887",
+      "google_place_id": "ChIJp3EUfsCUOhAR5-8NCBrZPgc"
+    }
   }
 ]

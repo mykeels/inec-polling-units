@@ -13,7 +13,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.170864,
+      "longitude": 3.3577848,
+      "viewport": {
+        "northeast": {
+          "lat": 7.174283599999999,
+          "lng": 3.362096
+        },
+        "southwest": {
+          "lat": 7.169226200000001,
+          "lng": 3.3514382
+        }
+      },
+      "formatted_address": "Aregba 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.170864,3.3577848",
+      "google_place_id": "ChIJFXRofF5JOhARd16C7CPaX6w"
+    }
   },
   {
     "id": "339940",
@@ -29,7 +46,8 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "339941",
@@ -45,7 +63,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.164977700000001,
+      "longitude": 3.3454281,
+      "viewport": {
+        "northeast": {
+          "lat": 7.166324729892722,
+          "lng": 3.346790629892722
+        },
+        "southwest": {
+          "lat": 7.163625070107278,
+          "lng": 3.344090970107277
+        }
+      },
+      "formatted_address": "587W+X5V, Erunwon 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.164977700000001,3.3454281",
+      "google_place_id": "ChIJ9Y7quf1LOhARKGCh30DDcFM"
+    }
   },
   {
     "id": "339942",
@@ -61,7 +96,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.163436,
+      "longitude": 3.3551117,
+      "viewport": {
+        "northeast": {
+          "lat": 7.164832229892722,
+          "lng": 3.356469329892722
+        },
+        "southwest": {
+          "lat": 7.162132570107278,
+          "lng": 3.353769670107277
+        }
+      },
+      "formatted_address": "5974+92H, Isale, Ake 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.163436,3.3551117",
+      "google_place_id": "ChIJsWfmBzFLOhAR6Rf0JuwbAjA"
+    }
   },
   {
     "id": "339943",
@@ -77,7 +129,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1854004,
+      "longitude": 3.3691601,
+      "viewport": {
+        "northeast": {
+          "lat": 7.186710429892724,
+          "lng": 3.370492479892722
+        },
+        "southwest": {
+          "lat": 7.18401077010728,
+          "lng": 3.367792820107277
+        }
+      },
+      "formatted_address": "59P9+5M7, Oke Aregba 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1854004,3.3691601",
+      "google_place_id": "ChIJ0VDHPkFJOhAR5IkSqhFgZks"
+    }
   },
   {
     "id": "339944",
@@ -93,7 +162,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.081232000000001,
+      "longitude": 3.138817,
+      "viewport": {
+        "northeast": {
+          "lat": 7.082703079892722,
+          "lng": 3.140069629892722
+        },
+        "southwest": {
+          "lat": 7.080003420107278,
+          "lng": 3.137369970107278
+        }
+      },
+      "formatted_address": "34JQ+FGW, 110106, Balogun Isaga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.081232000000001,3.138817",
+      "google_place_id": "ChIJHbG_viqrOxARda8om23FcBk"
+    }
   },
   {
     "id": "339945",
@@ -109,7 +195,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1639874,
+      "longitude": 3.3692595,
+      "viewport": {
+        "northeast": {
+          "lat": 7.165244429892722,
+          "lng": 3.370578679892722
+        },
+        "southwest": {
+          "lat": 7.162544770107278,
+          "lng": 3.367879020107277
+        }
+      },
+      "formatted_address": "5979+HPR, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1639874,3.3692595",
+      "google_place_id": "ChIJIZuwPNVLOhARaNgcs0DbtQA"
+    }
   },
   {
     "id": "339946",
@@ -125,7 +228,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1687901,
+      "longitude": 3.3668745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.170139279892721,
+          "lng": 3.368221679892723
+        },
+        "southwest": {
+          "lat": 7.167439620107277,
+          "lng": 3.365522020107278
+        }
+      },
+      "formatted_address": "abeokuta18 somorin road adatan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1687901,3.3668745",
+      "google_place_id": "ChIJ3YGB8GJJOhARLnzXZ-62mD0"
+    }
   },
   {
     "id": "339947",
@@ -141,7 +261,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.172928,
+      "longitude": 3.37811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17477802989272,
+          "lng": 3.379333529892722
+        },
+        "southwest": {
+          "lat": 7.172078370107276,
+          "lng": 3.376633870107277
+        }
+      },
+      "formatted_address": "6FV559FH+56H, Asero, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.172928,3.37811",
+      "google_place_id": "ChIJqTLTv3hJOhARgGTbxlo-Ru8"
+    }
   },
   {
     "id": "339948",
@@ -157,7 +294,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.172928,
+      "longitude": 3.37811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17477802989272,
+          "lng": 3.379333529892722
+        },
+        "southwest": {
+          "lat": 7.172078370107276,
+          "lng": 3.376633870107277
+        }
+      },
+      "formatted_address": "6FV559FH+56H, Asero, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.172928,3.37811",
+      "google_place_id": "ChIJqTLTv3hJOhARgGTbxlo-Ru8"
+    }
   },
   {
     "id": "339949",
@@ -173,7 +327,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1731642,
+      "longitude": 3.3766064,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17448542989272,
+          "lng": 3.377848979892722
+        },
+        "southwest": {
+          "lat": 7.171785770107276,
+          "lng": 3.375149320107277
+        }
+      },
+      "formatted_address": "Block 7, Plot 22, Abeokuta-Ibadan Express Way Asero Opposite Asero Garage By GTBank, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1731642,3.3766064",
+      "google_place_id": "ChIJGzZKG3lJOhAR5R_Tc1uBhfg"
+    }
   },
   {
     "id": "339950",
@@ -189,7 +360,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.173758499999999,
+      "longitude": 3.3771935,
+      "viewport": {
+        "northeast": {
+          "lat": 7.175078129892722,
+          "lng": 3.378552029892722
+        },
+        "southwest": {
+          "lat": 7.172378470107278,
+          "lng": 3.375852370107277
+        }
+      },
+      "formatted_address": "59FG+GV4, Asero, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173758499999999,3.3771935",
+      "google_place_id": "ChIJWU9ReMBJOhAR4yfd92mPU4A"
+    }
   },
   {
     "id": "339951",
@@ -205,7 +393,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.13786,
+      "longitude": 3.338897,
+      "viewport": {
+        "northeast": {
+          "lat": 7.139221529892723,
+          "lng": 3.340281979892722
+        },
+        "southwest": {
+          "lat": 7.136521870107279,
+          "lng": 3.337582320107277
+        }
+      },
+      "formatted_address": "125, Olusegun Osoba Way, Oke Ilewo, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.13786,3.338897",
+      "google_place_id": "ChIJvaqQsvxLOhARNZov5F0_p1I"
+    }
   },
   {
     "id": "339952",
@@ -221,7 +426,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1795689,
+      "longitude": 3.3654667,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180886429892722,
+          "lng": 3.366798529892722
+        },
+        "southwest": {
+          "lat": 7.178186770107279,
+          "lng": 3.364098870107278
+        }
+      },
+      "formatted_address": "59H8+R5G, Oke-Saje 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1795689,3.3654667",
+      "google_place_id": "ChIJUS-vJm9JOhARcChbL1kDolw"
+    }
   },
   {
     "id": "339953",
@@ -237,7 +459,8 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "339954",
@@ -253,7 +476,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.163436,
+      "longitude": 3.3551117,
+      "viewport": {
+        "northeast": {
+          "lat": 7.164832229892722,
+          "lng": 3.356469329892722
+        },
+        "southwest": {
+          "lat": 7.162132570107278,
+          "lng": 3.353769670107277
+        }
+      },
+      "formatted_address": "5974+92H, Isale, Ake 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.163436,3.3551117",
+      "google_place_id": "ChIJsWfmBzFLOhAR6Rf0JuwbAjA"
+    }
   },
   {
     "id": "339955",
@@ -269,7 +509,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.175302500000001,
+      "longitude": 3.3883158,
+      "viewport": {
+        "northeast": {
+          "lat": 7.176691979892722,
+          "lng": 3.389654029892722
+        },
+        "southwest": {
+          "lat": 7.173992320107278,
+          "lng": 3.386954370107278
+        }
+      },
+      "formatted_address": "6FV559GQ+553, 2 Asero, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.175302500000001,3.3883158",
+      "google_place_id": "ChIJdSfRV-xJOhAR2pd6GvcvaiQ"
+    }
   },
   {
     "id": "339956",
@@ -285,7 +542,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.148673199999999,
+      "longitude": 3.3498038,
+      "viewport": {
+        "northeast": {
+          "lat": 7.150083129892723,
+          "lng": 3.351179179892722
+        },
+        "southwest": {
+          "lat": 7.147383470107279,
+          "lng": 3.348479520107277
+        }
+      },
+      "formatted_address": "48XX+FW7, Nawair-Ud-Deen Road, Oke-Bode, Isabo, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.148673199999999,3.3498038",
+      "google_place_id": "ChIJuSppmu1LOhARaqkwIUI_t5E"
+    }
   },
   {
     "id": "339957",
@@ -301,7 +575,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.169272599999999,
+      "longitude": 3.3725442,
+      "viewport": {
+        "northeast": {
+          "lat": 7.170596829892721,
+          "lng": 3.373869879892722
+        },
+        "southwest": {
+          "lat": 7.167897170107277,
+          "lng": 3.371170220107278
+        }
+      },
+      "formatted_address": "599F+P28, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.169272599999999,3.3725442",
+      "google_place_id": "ChIJmXFQM3xJOhARmwH6xbuHHxM"
+    }
   },
   {
     "id": "339958",
@@ -317,7 +608,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1639159,
+      "longitude": 3.3534962,
+      "viewport": {
+        "northeast": {
+          "lat": 7.165293979892722,
+          "lng": 3.354852329892722
+        },
+        "southwest": {
+          "lat": 7.162594320107278,
+          "lng": 3.352152670107277
+        }
+      },
+      "formatted_address": "5973+H99, Ake 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1639159,3.3534962",
+      "google_place_id": "ChIJ2_E30uNLOhARQh3DKPI-KAc"
+    }
   },
   {
     "id": "339959",
@@ -333,7 +641,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.140790099999999,
+      "longitude": 3.3387299,
+      "viewport": {
+        "northeast": {
+          "lat": 7.142104279892722,
+          "lng": 3.339949579892723
+        },
+        "southwest": {
+          "lat": 7.139404620107278,
+          "lng": 3.337249920107278
+        }
+      },
+      "formatted_address": "48RQ+8F9, Ita Eko 111102, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.140790099999999,3.3387299",
+      "google_place_id": "ChIJ0aZPDIpLOhARlzdfnxdvsiQ"
+    }
   },
   {
     "id": "339960",
@@ -349,7 +674,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1452653,
+      "longitude": 3.3615529,
+      "viewport": {
+        "northeast": {
+          "lat": 7.146543179892722,
+          "lng": 3.362903479892722
+        },
+        "southwest": {
+          "lat": 7.143843520107279,
+          "lng": 3.360203820107277
+        }
+      },
+      "formatted_address": "49W6+4J3 Iyano mortuary, 111102, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1452653,3.3615529",
+      "google_place_id": "ChIJoRCpbEhLOhARTbNbUnPG1G0"
+    }
   },
   {
     "id": "339961",
@@ -365,7 +707,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.148673199999999,
+      "longitude": 3.3498038,
+      "viewport": {
+        "northeast": {
+          "lat": 7.150083129892723,
+          "lng": 3.351179179892722
+        },
+        "southwest": {
+          "lat": 7.147383470107279,
+          "lng": 3.348479520107277
+        }
+      },
+      "formatted_address": "48XX+FW7, Nawair-Ud-Deen Road, Oke-Bode, Isabo, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.148673199999999,3.3498038",
+      "google_place_id": "ChIJuSppmu1LOhARaqkwIUI_t5E"
+    }
   },
   {
     "id": "339962",
@@ -381,7 +740,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1854004,
+      "longitude": 3.3691601,
+      "viewport": {
+        "northeast": {
+          "lat": 7.186710429892724,
+          "lng": 3.370492479892722
+        },
+        "southwest": {
+          "lat": 7.18401077010728,
+          "lng": 3.367792820107277
+        }
+      },
+      "formatted_address": "59P9+5M7, Oke Aregba 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1854004,3.3691601",
+      "google_place_id": "ChIJ0VDHPkFJOhAR5IkSqhFgZks"
+    }
   },
   {
     "id": "339963",
@@ -397,7 +773,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1768364,
+      "longitude": 3.3538102,
+      "viewport": {
+        "northeast": {
+          "lat": 7.178202979892721,
+          "lng": 3.355186929892723
+        },
+        "southwest": {
+          "lat": 7.175503320107278,
+          "lng": 3.352487270107278
+        }
+      },
+      "formatted_address": "59G3+PGM, Kugba Road, Gbaguru 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1768364,3.3538102",
+      "google_place_id": "ChIJzaWwWVtJOhAREcd01Cdk8AA"
+    }
   },
   {
     "id": "339964",
@@ -413,7 +806,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.2143394,
+      "longitude": 3.3519622,
+      "viewport": {
+        "northeast": {
+          "lat": 7.215681429892721,
+          "lng": 3.353307529892723
+        },
+        "southwest": {
+          "lat": 7.212981770107277,
+          "lng": 3.350607870107278
+        }
+      },
+      "formatted_address": "Alubarika Junction, Off Bode-Olude, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2143394,3.3519622",
+      "google_place_id": "ChIJ0Q0TolRJOhAR3ZoQ0hQ0ep8"
+    }
   },
   {
     "id": "339965",
@@ -429,7 +839,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 43.2076347,
+      "longitude": -79.87410469999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.20882462989272,
+          "lng": -79.87282982010728
+        },
+        "southwest": {
+          "lat": 43.20612497010728,
+          "lng": -79.87552947989272
+        }
+      },
+      "formatted_address": "337 Stone Church Rd E, Hamilton, ON L9B 1B1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.2076347,-79.87410469999999",
+      "google_place_id": "ChIJE859BmCaLIgR-0BM2wq5pmM"
+    }
   },
   {
     "id": "339966",
@@ -445,7 +872,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1718142,
+      "longitude": 3.3640316,
+      "viewport": {
+        "northeast": {
+          "lat": 7.173096679892723,
+          "lng": 3.365260929892722
+        },
+        "southwest": {
+          "lat": 7.170397020107279,
+          "lng": 3.362561270107277
+        }
+      },
+      "formatted_address": "6FV559C7+PJ4 Car. Wach 6, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1718142,3.3640316",
+      "google_place_id": "ChIJRbicautJOhARz8N_VPtY_1I"
+    }
   },
   {
     "id": "339967",
@@ -461,7 +905,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.188387499999999,
+      "longitude": 3.3842767,
+      "viewport": {
+        "northeast": {
+          "lat": 7.189734279892721,
+          "lng": 3.385633829892722
+        },
+        "southwest": {
+          "lat": 7.187034620107277,
+          "lng": 3.382934170107278
+        }
+      },
+      "formatted_address": "59QM+9P2, Asero Estate, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.188387499999999,3.3842767",
+      "google_place_id": "ChIJgb5f-RRJOhAREvT2FAlgCEo"
+    }
   },
   {
     "id": "339968",
@@ -477,7 +938,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1639159,
+      "longitude": 3.3534962,
+      "viewport": {
+        "northeast": {
+          "lat": 7.165293979892722,
+          "lng": 3.354852329892722
+        },
+        "southwest": {
+          "lat": 7.162594320107278,
+          "lng": 3.352152670107277
+        }
+      },
+      "formatted_address": "5973+H99, Ake 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1639159,3.3534962",
+      "google_place_id": "ChIJ2_E30uNLOhARQh3DKPI-KAc"
+    }
   },
   {
     "id": "339969",
@@ -493,7 +971,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.220108199999999,
+      "longitude": 3.4296446,
+      "viewport": {
+        "northeast": {
+          "lat": 7.222814050000003,
+          "lng": 3.431370579892723
+        },
+        "southwest": {
+          "lat": 7.21920625,
+          "lng": 3.428670920107278
+        }
+      },
+      "formatted_address": "12, Alade Babalola Street, Arokoje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.220108199999999,3.4296446",
+      "google_place_id": "ChIJhTQ1pgc3OhARJH1R11V6zII"
+    }
   },
   {
     "id": "339970",
@@ -509,7 +1004,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1976575,
+      "longitude": 3.3554998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198985229892721,
+          "lng": 3.356876279892723
+        },
+        "southwest": {
+          "lat": 7.196285570107277,
+          "lng": 3.354176620107278
+        }
+      },
+      "formatted_address": "59X4+359, Bode Olude, Akingbade Road, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1976575,3.3554998",
+      "google_place_id": "ChIJtelGzPRJOhARAU6_wcvCB5I"
+    }
   },
   {
     "id": "339971",
@@ -525,7 +1037,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.188387499999999,
+      "longitude": 3.3842767,
+      "viewport": {
+        "northeast": {
+          "lat": 7.189734279892721,
+          "lng": 3.385633829892722
+        },
+        "southwest": {
+          "lat": 7.187034620107277,
+          "lng": 3.382934170107278
+        }
+      },
+      "formatted_address": "59QM+9P2, Asero Estate, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.188387499999999,3.3842767",
+      "google_place_id": "ChIJgb5f-RRJOhAREvT2FAlgCEo"
+    }
   },
   {
     "id": "339972",
@@ -541,7 +1070,24 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.1718299,
+      "longitude": 3.3769729,
+      "viewport": {
+        "northeast": {
+          "lat": 7.173169029892723,
+          "lng": 3.378324329892723
+        },
+        "southwest": {
+          "lat": 7.170469370107279,
+          "lng": 3.375624670107278
+        }
+      },
+      "formatted_address": "59CG+MRR, Asero, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1718299,3.3769729",
+      "google_place_id": "ChIJGUGx1nhJOhARgu9WFcVm90c"
+    }
   },
   {
     "id": "339973",
@@ -557,6 +1103,23 @@
     "local_government_id": "563",
     "local_government_name": "ABEOKUTA SOUTH",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.164570599999999,
+      "longitude": 3.3404264,
+      "viewport": {
+        "northeast": {
+          "lat": 7.165942329892721,
+          "lng": 3.341974429892722
+        },
+        "southwest": {
+          "lat": 7.163242670107278,
+          "lng": 3.339274770107278
+        }
+      },
+      "formatted_address": "33a Alice Tinubu St, Kosofe 110101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.164570599999999,3.3404264",
+      "google_place_id": "ChIJSwDQ2nJMOhAR8VzF4aNmpoo"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 40.2691319,
+      "longitude": -80.17048129999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.26986792989272,
+          "lng": -80.16878117010728
+        },
+        "southwest": {
+          "lat": 40.26716827010728,
+          "lng": -80.17148082989272
+        }
+      },
+      "formatted_address": "30 Curry Avenue, Canonsburg, PA 15317, United States",
+      "google_map_url": "https://maps.google.com?q=40.2691319,-80.17048129999999",
+      "google_place_id": "ChIJaQ3T4WdUNIgRrF46stjmpY0"
+    }
   },
   {
     "id": "341618",
@@ -29,7 +46,8 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "341619",
@@ -45,7 +63,8 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "341620",
@@ -61,7 +80,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.933691199999999,
+      "longitude": 3.2241719,
+      "viewport": {
+        "northeast": {
+          "lat": 6.934937379892722,
+          "lng": 3.225646979892722
+        },
+        "southwest": {
+          "lat": 6.932237720107278,
+          "lng": 3.222947320107278
+        }
+      },
+      "formatted_address": "W6MF+FMF, Daleko Area, Abese Village Ewekoro Local Government Area, 112106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.933691199999999,3.2241719",
+      "google_place_id": "ChIJn_bhNaKvOxARQdIVml25Zb8"
+    }
   },
   {
     "id": "341621",
@@ -77,7 +113,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.243699099999999,
+      "longitude": 3.3433048,
+      "viewport": {
+        "northeast": {
+          "lat": 7.244893779892722,
+          "lng": 3.344624129892722
+        },
+        "southwest": {
+          "lat": 7.242194120107278,
+          "lng": 3.341924470107278
+        }
+      },
+      "formatted_address": "68VV+F8F, Alabata Street, 111101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.243699099999999,3.3433048",
+      "google_place_id": "ChIJq9Y7B_JJOhARtluLm5GR0I4"
+    }
   },
   {
     "id": "341622",
@@ -93,7 +146,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9395057,
+      "longitude": 3.2205977,
+      "viewport": {
+        "northeast": {
+          "lat": 6.940889479892722,
+          "lng": 3.221982029892722
+        },
+        "southwest": {
+          "lat": 6.938189820107278,
+          "lng": 3.219282370107277
+        }
+      },
+      "formatted_address": "TEMILOLA CLOSE OFF GAS LINE OLD ONIGBEDU ROAD ITORI-EWEKORO L. G. A OGUN, STATE, Itori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9395057,3.2205977",
+      "google_place_id": "ChIJXeEaa2KvOxARftjlJtMJxTQ"
+    }
   },
   {
     "id": "341623",
@@ -109,7 +179,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.941604,
+      "longitude": 3.536164,
+      "viewport": {
+        "northeast": {
+          "lat": 6.942614429892721,
+          "lng": 3.537121829892723
+        },
+        "southwest": {
+          "lat": 6.939914770107277,
+          "lng": 3.534422170107278
+        }
+      },
+      "formatted_address": "6FR5WGRP+JFV Odofin Igbore Moloko Asipa obafemi owode Ogun Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.941604,3.536164",
+      "google_place_id": "ChIJ0S3eXVPPOxARafAClsm6bfs"
+    }
   },
   {
     "id": "341624",
@@ -125,7 +212,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.0723584,
+      "longitude": 3.07689,
+      "viewport": {
+        "northeast": {
+          "lat": 7.073638729892721,
+          "lng": 3.078060729892723
+        },
+        "southwest": {
+          "lat": 7.070939070107277,
+          "lng": 3.075361070107278
+        }
+      },
+      "formatted_address": "33CG+WQR, 110123, Iboro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0723584,3.07689",
+      "google_place_id": "ChIJ8_s9N8YBOxARjlRiKrOn2Fk"
+    }
   },
   {
     "id": "341625",
@@ -141,7 +245,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.941604,
+      "longitude": 3.536164,
+      "viewport": {
+        "northeast": {
+          "lat": 6.942614429892721,
+          "lng": 3.537121829892723
+        },
+        "southwest": {
+          "lat": 6.939914770107277,
+          "lng": 3.534422170107278
+        }
+      },
+      "formatted_address": "6FR5WGRP+JFV Odofin Igbore Moloko Asipa obafemi owode Ogun Owode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.941604,3.536164",
+      "google_place_id": "ChIJ0S3eXVPPOxARafAClsm6bfs"
+    }
   },
   {
     "id": "341626",
@@ -157,7 +278,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.948722999999999,
+      "longitude": 3.220675,
+      "viewport": {
+        "northeast": {
+          "lat": 6.949660579892721,
+          "lng": 3.222260729892723
+        },
+        "southwest": {
+          "lat": 6.946960920107277,
+          "lng": 3.219561070107278
+        }
+      },
+      "formatted_address": "6FR5W6XC+F7M, 110106, Itori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.948722999999999,3.220675",
+      "google_place_id": "ChIJDZBuy6uvOxAR7PQJUZthgVU"
+    }
   },
   {
     "id": "341627",
@@ -173,7 +311,8 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": null
   },
   {
     "id": "341628",
@@ -189,7 +328,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.933691199999999,
+      "longitude": 3.2241719,
+      "viewport": {
+        "northeast": {
+          "lat": 6.934937379892722,
+          "lng": 3.225646979892722
+        },
+        "southwest": {
+          "lat": 6.932237720107278,
+          "lng": 3.222947320107278
+        }
+      },
+      "formatted_address": "W6MF+FMF, Daleko Area, Abese Village Ewekoro Local Government Area, 112106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.933691199999999,3.2241719",
+      "google_place_id": "ChIJn_bhNaKvOxARQdIVml25Zb8"
+    }
   },
   {
     "id": "341629",
@@ -205,7 +361,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 7.037939499999999,
+      "longitude": 3.2334303,
+      "viewport": {
+        "northeast": {
+          "lat": 7.039253929892721,
+          "lng": 3.234803729892722
+        },
+        "southwest": {
+          "lat": 7.036554270107277,
+          "lng": 3.232104070107277
+        }
+      },
+      "formatted_address": "26QM+59F, 110106, Aroge, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.037939499999999,3.2334303",
+      "google_place_id": "ChIJv13nIbitOxARu86rtAoLjwU"
+    }
   },
   {
     "id": "341630",
@@ -221,7 +394,24 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.9249166,
+      "longitude": 3.2187501,
+      "viewport": {
+        "northeast": {
+          "lat": 6.926431679892721,
+          "lng": 3.219794579892722
+        },
+        "southwest": {
+          "lat": 6.923732020107277,
+          "lng": 3.217094920107277
+        }
+      },
+      "formatted_address": "W6F9+XG6, local développement area 110106, Itori, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9249166,3.2187501",
+      "google_place_id": "ChIJdYG44xWvOxAR2P0RQC3piaM"
+    }
   },
   {
     "id": "341631",
@@ -237,6 +427,23 @@
     "local_government_id": "567",
     "local_government_name": "EWEKORO",
     "state_id": "27",
-    "state_name": "OGUN"
+    "state_name": "OGUN",
+    "location": {
+      "latitude": 6.933691199999999,
+      "longitude": 3.2241719,
+      "viewport": {
+        "northeast": {
+          "lat": 6.934937379892722,
+          "lng": 3.225646979892722
+        },
+        "southwest": {
+          "lat": 6.932237720107278,
+          "lng": 3.222947320107278
+        }
+      },
+      "formatted_address": "W6MF+FMF, Daleko Area, Abese Village Ewekoro Local Government Area, 112106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.933691199999999,3.2241719",
+      "google_place_id": "ChIJn_bhNaKvOxARQdIVml25Zb8"
+    }
   }
 ]
