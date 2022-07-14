@@ -13,7 +13,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.558999600000001,
+      "longitude": 6.6249008,
+      "viewport": {
+        "northeast": {
+          "lat": 7.560356179892721,
+          "lng": 6.626241029892721
+        },
+        "southwest": {
+          "lat": 7.557656520107277,
+          "lng": 6.623541370107278
+        }
+      },
+      "formatted_address": "Jdp Junction, Lokoja, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.558999600000001,6.6249008",
+      "google_place_id": "ChIJvZs-moTvRRAR08JjSQekw2w"
+    }
   },
   {
     "id": "105708",
@@ -29,7 +46,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.460987800000001,
+      "longitude": 6.4610197,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462416629892723,
+          "lng": 6.462472679892722
+        },
+        "southwest": {
+          "lat": 7.459716970107279,
+          "lng": 6.459773020107278
+        }
+      },
+      "formatted_address": "263102, Adogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460987800000001,6.4610197",
+      "google_place_id": "ChIJZWGr-G3hRRARnR6JJnaR0ME"
+    }
   },
   {
     "id": "105709",
@@ -45,7 +79,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.575061000000001,
+      "longitude": 6.621245999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.576406729892722,
+          "lng": 6.622598029892722
+        },
+        "southwest": {
+          "lat": 7.573707070107278,
+          "lng": 6.619898370107278
+        }
+      },
+      "formatted_address": "B74, AJAOKUTA, KOGI STATE, 263106, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.575061000000001,6.621245999999999",
+      "google_place_id": "ChIJCyaB08zxRRARqV5ec_GPNUQ"
+    }
   },
   {
     "id": "105710",
@@ -61,7 +112,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.460987800000001,
+      "longitude": 6.4610197,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462416629892723,
+          "lng": 6.462472679892722
+        },
+        "southwest": {
+          "lat": 7.459716970107279,
+          "lng": 6.459773020107278
+        }
+      },
+      "formatted_address": "263102, Adogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460987800000001,6.4610197",
+      "google_place_id": "ChIJZWGr-G3hRRARnR6JJnaR0ME"
+    }
   },
   {
     "id": "105711",
@@ -77,6 +145,23 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.558999600000001,
+      "longitude": 6.6249008,
+      "viewport": {
+        "northeast": {
+          "lat": 7.560356179892721,
+          "lng": 6.626241029892721
+        },
+        "southwest": {
+          "lat": 7.557656520107277,
+          "lng": 6.623541370107278
+        }
+      },
+      "formatted_address": "Jdp Junction, Lokoja, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.558999600000001,6.6249008",
+      "google_place_id": "ChIJvZs-moTvRRAR08JjSQekw2w"
+    }
   }
 ]

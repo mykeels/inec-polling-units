@@ -13,7 +13,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106925",
@@ -29,7 +30,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106926",
@@ -45,7 +63,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1396777,
+      "longitude": 6.7814274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.140975629892722,
+          "lng": 6.782797029892722
+        },
+        "southwest": {
+          "lat": 7.138275970107278,
+          "lng": 6.780097370107278
+        }
+      },
+      "formatted_address": "4QQJ+VHF, 271101, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1396777,6.7814274",
+      "google_place_id": "ChIJV2nLAHC2RRARYvCes9PN02M"
+    }
   },
   {
     "id": "106927",
@@ -61,7 +96,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "106928",
@@ -77,6 +129,7 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

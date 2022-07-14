@@ -13,7 +13,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8104217,
+      "longitude": 6.7462743,
+      "viewport": {
+        "northeast": {
+          "lat": 7.811836329892721,
+          "lng": 6.747590529892721
+        },
+        "southwest": {
+          "lat": 7.809136670107277,
+          "lng": 6.744890870107277
+        }
+      },
+      "formatted_address": "Taiwo Rd, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8104217,6.7462743",
+      "google_place_id": "ChIJbz4QTDtfTxARFO4kErg5GCw"
+    }
   },
   {
     "id": "107520",
@@ -29,7 +46,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107521",
@@ -45,7 +79,8 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107522",
@@ -61,7 +96,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107523",
@@ -77,7 +129,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.795465799999999,
+      "longitude": 6.738567799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.796799729892722,
+          "lng": 6.739917579892722
+        },
+        "southwest": {
+          "lat": 7.794100070107278,
+          "lng": 6.737217920107279
+        }
+      },
+      "formatted_address": "Lokoja-Ankpa Rd, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.795465799999999,6.738567799999999",
+      "google_place_id": "ChIJ85cMpD1eTxARaL9iLGJlor4"
+    }
   },
   {
     "id": "107524",
@@ -93,7 +162,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 9.0596486,
+      "longitude": 7.469617599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.061027379892723,
+          "lng": 7.470930929892723
+        },
+        "southwest": {
+          "lat": 9.058327720107279,
+          "lng": 7.468231270107279
+        }
+      },
+      "formatted_address": "Bamenda Street, Off Maputo Str. By All Saints Primary School Opp. Abuja, Shopping Mall, Zone 3, Wuse, Abuja, FCT, Wuse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0596486,7.469617599999999",
+      "google_place_id": "ChIJ_8BNsQQLThARCe9YTwZg94I"
+    }
   },
   {
     "id": "107525",
@@ -109,7 +195,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.788071,
+      "longitude": 6.730441799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.789317029892722,
+          "lng": 6.731449579892722
+        },
+        "southwest": {
+          "lat": 7.786617370107278,
+          "lng": 6.728749920107278
+        }
+      },
+      "formatted_address": "QPQJ+66M, ganaja road, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.788071,6.730441799999999",
+      "google_place_id": "ChIJM7-wRjheTxARSb-Iiz4Ue0A"
+    }
   },
   {
     "id": "107526",
@@ -125,7 +228,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8104217,
+      "longitude": 6.7462743,
+      "viewport": {
+        "northeast": {
+          "lat": 7.811836329892721,
+          "lng": 6.747590529892721
+        },
+        "southwest": {
+          "lat": 7.809136670107277,
+          "lng": 6.744890870107277
+        }
+      },
+      "formatted_address": "Taiwo Rd, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8104217,6.7462743",
+      "google_place_id": "ChIJbz4QTDtfTxARFO4kErg5GCw"
+    }
   },
   {
     "id": "107527",
@@ -141,7 +261,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8104217,
+      "longitude": 6.7462743,
+      "viewport": {
+        "northeast": {
+          "lat": 7.811836329892721,
+          "lng": 6.747590529892721
+        },
+        "southwest": {
+          "lat": 7.809136670107277,
+          "lng": 6.744890870107277
+        }
+      },
+      "formatted_address": "Taiwo Rd, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8104217,6.7462743",
+      "google_place_id": "ChIJbz4QTDtfTxARFO4kErg5GCw"
+    }
   },
   {
     "id": "107528",
@@ -157,7 +294,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.811125700000001,
+      "longitude": 6.744203799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.812232379892722,
+          "lng": 6.745529529892723
+        },
+        "southwest": {
+          "lat": 7.809532720107278,
+          "lng": 6.742829870107279
+        }
+      },
+      "formatted_address": "Taiwo Rd, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.811125700000001,6.744203799999999",
+      "google_place_id": "ChIJH9i_EqRfTxARQV8mMwZ1AxQ"
+    }
   },
   {
     "id": "107529",
@@ -173,7 +327,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107530",
@@ -189,7 +360,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8075574,
+      "longitude": 6.7466917,
+      "viewport": {
+        "northeast": {
+          "lat": 7.80882292989272,
+          "lng": 6.748017929892722
+        },
+        "southwest": {
+          "lat": 7.806123270107276,
+          "lng": 6.745318270107278
+        }
+      },
+      "formatted_address": "RP5W+2MG, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8075574,6.7466917",
+      "google_place_id": "ChIJm4KlKgNeTxARHHi7lyXWkGo"
+    }
   },
   {
     "id": "107531",
@@ -205,7 +393,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107532",
@@ -221,7 +426,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107533",
@@ -237,7 +459,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8086633,
+      "longitude": 6.7463533,
+      "viewport": {
+        "northeast": {
+          "lat": 7.810022779892722,
+          "lng": 6.747639629892721
+        },
+        "southwest": {
+          "lat": 7.807323120107278,
+          "lng": 6.744939970107278
+        }
+      },
+      "formatted_address": "Muritala Muhammed Road, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8086633,6.7463533",
+      "google_place_id": "ChIJobPrEkVfTxARGEjzfMd6Lxc"
+    }
   },
   {
     "id": "107534",
@@ -253,7 +492,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.810794,
+      "longitude": 6.7439559,
+      "viewport": {
+        "northeast": {
+          "lat": 7.812076879892722,
+          "lng": 6.745299079892722
+        },
+        "southwest": {
+          "lat": 7.809377220107279,
+          "lng": 6.742599420107278
+        }
+      },
+      "formatted_address": "RP6V+8H8, Taiwo Rd, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.810794,6.7439559",
+      "google_place_id": "ChIJTbpdeAReTxAR-NBkqTD4PVY"
+    }
   },
   {
     "id": "107535",
@@ -269,7 +525,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.811788699999999,
+      "longitude": 6.747429700000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.813102679892721,
+          "lng": 6.748779329892721
+        },
+        "southwest": {
+          "lat": 7.810403020107277,
+          "lng": 6.746079670107277
+        }
+      },
+      "formatted_address": "60 Cantonment road Lokoja Kogi NG, 260120, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.811788699999999,6.747429700000001",
+      "google_place_id": "ChIJiX4kwiFfTxARjMHmxUa7ps4"
+    }
   },
   {
     "id": "107536",
@@ -285,7 +558,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.7741335,
+      "longitude": -79.5009749,
+      "viewport": {
+        "northeast": {
+          "lat": 43.77607927989272,
+          "lng": -79.49072704999999
+        },
+        "southwest": {
+          "lat": 43.77337962010728,
+          "lng": -79.50439085000001
+        }
+      },
+      "formatted_address": "4700 Keele St, North York, ON M3J 1P3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7741335,-79.5009749",
+      "google_place_id": "ChIJ19wZLzsuK4gR-fZA-hxAK84"
+    }
   },
   {
     "id": "107537",
@@ -301,7 +591,24 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107538",
@@ -317,6 +624,23 @@
     "local_government_id": "480",
     "local_government_name": "LOKOJA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   }
 ]

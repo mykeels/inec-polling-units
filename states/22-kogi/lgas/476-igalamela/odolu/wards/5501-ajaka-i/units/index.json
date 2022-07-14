@@ -13,7 +13,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106953",
@@ -29,7 +30,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 5.1325007,
+      "longitude": 7.714753399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.133716929892722,
+          "lng": 7.716109679892723
+        },
+        "southwest": {
+          "lat": 5.131017270107278,
+          "lng": 7.713410020107279
+        }
+      },
+      "formatted_address": "Ikot Ekpene - Abak Rd, Ukana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1325007,7.714753399999999",
+      "google_place_id": "ChIJma8ufIuqQhARb963LutAj2c"
+    }
   },
   {
     "id": "106954",
@@ -45,7 +63,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106955",
@@ -61,7 +96,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106956",
@@ -77,7 +129,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.9826837,
+      "longitude": 7.1683728,
+      "viewport": {
+        "northeast": {
+          "lat": 6.984056529892722,
+          "lng": 7.169697479892721
+        },
+        "southwest": {
+          "lat": 6.981356870107279,
+          "lng": 7.166997820107277
+        }
+      },
+      "formatted_address": "X5M9+38H, Obolo - Idah Rd, 271101, Adoru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9826837,7.1683728",
+      "google_place_id": "ChIJ97Bwc8T_RBARJ3SSS-XjbDE"
+    }
   },
   {
     "id": "106957",
@@ -93,7 +162,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.9826837,
+      "longitude": 7.1683728,
+      "viewport": {
+        "northeast": {
+          "lat": 6.984056529892722,
+          "lng": 7.169697479892721
+        },
+        "southwest": {
+          "lat": 6.981356870107279,
+          "lng": 7.166997820107277
+        }
+      },
+      "formatted_address": "X5M9+38H, Obolo - Idah Rd, 271101, Adoru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9826837,7.1683728",
+      "google_place_id": "ChIJ97Bwc8T_RBARJ3SSS-XjbDE"
+    }
   },
   {
     "id": "106958",
@@ -109,7 +195,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106959",
@@ -125,7 +228,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106960",
@@ -141,7 +261,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1017467,
+      "longitude": 6.7741134,
+      "viewport": {
+        "northeast": {
+          "lat": 7.103130729892721,
+          "lng": 6.775375929892722
+        },
+        "southwest": {
+          "lat": 7.100431070107277,
+          "lng": 6.772676270107278
+        }
+      },
+      "formatted_address": "4Q2F+MP6, 271101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1017467,6.7741134",
+      "google_place_id": "ChIJm9YdFuS1RRARARRCiQuDGsM"
+    }
   },
   {
     "id": "106961",
@@ -157,7 +294,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106962",
@@ -173,7 +327,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106963",
@@ -189,7 +360,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.0825382,
+      "longitude": 7.0498442,
+      "viewport": {
+        "northeast": {
+          "lat": 7.083888029892721,
+          "lng": 7.051194029892723
+        },
+        "southwest": {
+          "lat": 7.081188370107277,
+          "lng": 7.048494370107279
+        }
+      },
+      "formatted_address": "32MX+2W9, 271101, Egabada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0825382,7.0498442",
+      "google_place_id": "ChIJeZmlLACrRRARadMVKvOzRPg"
+    }
   },
   {
     "id": "106964",
@@ -205,7 +393,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.3920562,
+      "longitude": -79.79078729999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.39343832989272,
+          "lng": -79.78941937010727
+        },
+        "southwest": {
+          "lat": 43.39073867010728,
+          "lng": -79.79211902989272
+        }
+      },
+      "formatted_address": "1940 Appleby Line, Burlington, ON L7L 0B7, Canada",
+      "google_map_url": "https://maps.google.com?q=43.3920562,-79.79078729999999",
+      "google_place_id": "ChIJj7vJyCNhK4gR5sICTHJ-byc"
+    }
   },
   {
     "id": "106965",
@@ -221,7 +426,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.3383511,
+      "longitude": 7.062395,
+      "viewport": {
+        "northeast": {
+          "lat": 7.33970682989272,
+          "lng": 7.063745229892723
+        },
+        "southwest": {
+          "lat": 7.337007170107277,
+          "lng": 7.061045570107279
+        }
+      },
+      "formatted_address": "83Q6+8XR, 271106, Ejule, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3383511,7.062395",
+      "google_place_id": "ChIJp1aaxvegRRAR_mdcoX5Jc20"
+    }
   },
   {
     "id": "106966",
@@ -237,7 +459,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106967",
@@ -253,7 +492,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 5.1325007,
+      "longitude": 7.714753399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.133716929892722,
+          "lng": 7.716109679892723
+        },
+        "southwest": {
+          "lat": 5.131017270107278,
+          "lng": 7.713410020107279
+        }
+      },
+      "formatted_address": "Ikot Ekpene - Abak Rd, Ukana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.1325007,7.714753399999999",
+      "google_place_id": "ChIJma8ufIuqQhARb963LutAj2c"
+    }
   },
   {
     "id": "106968",
@@ -269,7 +525,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106969",
@@ -285,7 +542,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.035187,
+      "longitude": 7.760155999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.036667879892722,
+          "lng": 7.761359329892722
+        },
+        "southwest": {
+          "lat": 7.033968220107278,
+          "lng": 7.758659670107278
+        }
+      },
+      "formatted_address": "6FV92QP6+33C, Oklenyi 973101, Okpoga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.035187,7.760155999999999",
+      "google_place_id": "ChIJX9skFeErRRARvrpC92acnPo"
+    }
   },
   {
     "id": "106970",
@@ -301,7 +575,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1396777,
+      "longitude": 6.7814274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.140975629892722,
+          "lng": 6.782797029892722
+        },
+        "southwest": {
+          "lat": 7.138275970107278,
+          "lng": 6.780097370107278
+        }
+      },
+      "formatted_address": "4QQJ+VHF, 271101, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1396777,6.7814274",
+      "google_place_id": "ChIJV2nLAHC2RRARYvCes9PN02M"
+    }
   },
   {
     "id": "106971",
@@ -317,7 +608,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.077128999999999,
+      "longitude": 6.2770557,
+      "viewport": {
+        "northeast": {
+          "lat": 7.078482829892722,
+          "lng": 6.278394029892723
+        },
+        "southwest": {
+          "lat": 7.075783170107278,
+          "lng": 6.275694370107279
+        }
+      },
+      "formatted_address": "Jattu Road, Auchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.077128999999999,6.2770557",
+      "google_place_id": "ChIJiSpD0Qt9RhARs9yf4w57chA"
+    }
   },
   {
     "id": "106972",
@@ -333,7 +641,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106973",
@@ -349,7 +658,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106974",
@@ -365,7 +691,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.176553299999999,
+      "longitude": 6.829767500000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17781007989272,
+          "lng": 6.831085229892722
+        },
+        "southwest": {
+          "lat": 7.175110420107276,
+          "lng": 6.828385570107278
+        }
+      },
+      "formatted_address": "5RGH+JWC, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.176553299999999,6.829767500000001",
+      "google_place_id": "ChIJla8u_iu3RRARCLbfTT5khXM"
+    }
   },
   {
     "id": "106975",
@@ -381,7 +724,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106976",
@@ -397,7 +757,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106977",
@@ -413,7 +790,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1063433,
+      "longitude": 6.734273099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.107693129892722,
+          "lng": 6.73562292989272
+        },
+        "southwest": {
+          "lat": 7.104993470107278,
+          "lng": 6.732923270107277
+        }
+      },
+      "formatted_address": "Idah Rd, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1063433,6.734273099999999",
+      "google_place_id": "ChIJo3N5OmzKRRARRQqljjzYfAY"
+    }
   },
   {
     "id": "106978",
@@ -429,7 +823,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106979",
@@ -445,7 +840,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106980",
@@ -461,7 +857,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.617724,
+      "longitude": 7.826277,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619032129892721,
+          "lng": 7.827517329892721
+        },
+        "southwest": {
+          "lat": 7.616332470107277,
+          "lng": 7.824817670107278
+        }
+      },
+      "formatted_address": "6FV9JR9G+3GJ Olobadu Ojope, Ifoke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.617724,7.826277",
+      "google_place_id": "ChIJz1zFHzatWhARhaY7hdKORJM"
+    }
   },
   {
     "id": "106981",
@@ -477,7 +890,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.14257,
+      "longitude": 6.791312,
+      "viewport": {
+        "northeast": {
+          "lat": 7.143928979892721,
+          "lng": 6.792681529892722
+        },
+        "southwest": {
+          "lat": 7.141229320107278,
+          "lng": 6.789981870107278
+        }
+      },
+      "formatted_address": "4QVR+2GF, 271101, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.14257,6.791312",
+      "google_place_id": "ChIJKy4kOmW2RRARpmHR00t-7XA"
+    }
   },
   {
     "id": "106982",
@@ -493,7 +923,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.173268200000001,
+      "longitude": 6.8209611,
+      "viewport": {
+        "northeast": {
+          "lat": 7.17453457989272,
+          "lng": 6.822596029892722
+        },
+        "southwest": {
+          "lat": 7.171834920107276,
+          "lng": 6.819896370107278
+        }
+      },
+      "formatted_address": "5RFC+894, 271101, Ajaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.173268200000001,6.8209611",
+      "google_place_id": "ChIJqVxVYMG3RRARafk1lWPZWZs"
+    }
   },
   {
     "id": "106983",
@@ -509,7 +956,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.063742,
+      "longitude": 7.589917,
+      "viewport": {
+        "northeast": {
+          "lat": 7.065344029892722,
+          "lng": 7.591277529892721
+        },
+        "southwest": {
+          "lat": 7.062644370107278,
+          "lng": 7.588577870107277
+        }
+      },
+      "formatted_address": "6FV93H7Q+FXV Ishilor Igwu Orokam, Adupe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.063742,7.589917",
+      "google_place_id": "ChIJGTBC3D4nRRAR8pYK8TtDnY0"
+    }
   },
   {
     "id": "106984",
@@ -525,7 +989,8 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106985",
@@ -541,7 +1006,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.617724,
+      "longitude": 7.826277,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619032129892721,
+          "lng": 7.827517329892721
+        },
+        "southwest": {
+          "lat": 7.616332470107277,
+          "lng": 7.824817670107278
+        }
+      },
+      "formatted_address": "6FV9JR9G+3GJ Olobadu Ojope, Ifoke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.617724,7.826277",
+      "google_place_id": "ChIJz1zFHzatWhARhaY7hdKORJM"
+    }
   },
   {
     "id": "106986",
@@ -557,7 +1039,24 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1396777,
+      "longitude": 6.7814274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.140975629892722,
+          "lng": 6.782797029892722
+        },
+        "southwest": {
+          "lat": 7.138275970107278,
+          "lng": 6.780097370107278
+        }
+      },
+      "formatted_address": "4QQJ+VHF, 271101, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1396777,6.7814274",
+      "google_place_id": "ChIJV2nLAHC2RRARYvCes9PN02M"
+    }
   },
   {
     "id": "106987",
@@ -573,6 +1072,23 @@
     "local_government_id": "476",
     "local_government_name": "IGALAMELA/ODOLU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1396777,
+      "longitude": 6.7814274,
+      "viewport": {
+        "northeast": {
+          "lat": 7.140975629892722,
+          "lng": 6.782797029892722
+        },
+        "southwest": {
+          "lat": 7.138275970107278,
+          "lng": 6.780097370107278
+        }
+      },
+      "formatted_address": "4QQJ+VHF, 271101, Idah, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1396777,6.7814274",
+      "google_place_id": "ChIJV2nLAHC2RRARYvCes9PN02M"
+    }
   }
 ]

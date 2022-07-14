@@ -13,7 +13,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.460987800000001,
+      "longitude": 6.4610197,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462416629892723,
+          "lng": 6.462472679892722
+        },
+        "southwest": {
+          "lat": 7.459716970107279,
+          "lng": 6.459773020107278
+        }
+      },
+      "formatted_address": "263102, Adogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460987800000001,6.4610197",
+      "google_place_id": "ChIJZWGr-G3hRRARnR6JJnaR0ME"
+    }
   },
   {
     "id": "105699",
@@ -29,7 +46,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.409282,
+      "longitude": 6.829712,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410702229892723,
+          "lng": 6.831164879892722
+        },
+        "southwest": {
+          "lat": 7.408002570107279,
+          "lng": 6.828465220107278
+        }
+      },
+      "formatted_address": "Ajaokuta - Ayangba Rd, 271109, Adoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.409282,6.829712",
+      "google_place_id": "ChIJ5bp92N2VRRARjJefWrAcYjI"
+    }
   },
   {
     "id": "105700",
@@ -45,7 +79,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.409282,
+      "longitude": 6.829712,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410702229892723,
+          "lng": 6.831164879892722
+        },
+        "southwest": {
+          "lat": 7.408002570107279,
+          "lng": 6.828465220107278
+        }
+      },
+      "formatted_address": "Ajaokuta - Ayangba Rd, 271109, Adoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.409282,6.829712",
+      "google_place_id": "ChIJ5bp92N2VRRARjJefWrAcYjI"
+    }
   },
   {
     "id": "105701",
@@ -61,7 +112,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.563902699999999,
+      "longitude": 6.6937061,
+      "viewport": {
+        "northeast": {
+          "lat": 7.565547829892722,
+          "lng": 6.694833679892722
+        },
+        "southwest": {
+          "lat": 7.562848170107278,
+          "lng": 6.692134020107278
+        }
+      },
+      "formatted_address": "HM7V+HF8, 263106, Geregu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.563902699999999,6.6937061",
+      "google_place_id": "ChIJf5Z2GXfyRRARAdZzhJ1RsJk"
+    }
   },
   {
     "id": "105702",
@@ -77,6 +145,23 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.563902699999999,
+      "longitude": 6.6937061,
+      "viewport": {
+        "northeast": {
+          "lat": 7.565547829892722,
+          "lng": 6.694833679892722
+        },
+        "southwest": {
+          "lat": 7.562848170107278,
+          "lng": 6.692134020107278
+        }
+      },
+      "formatted_address": "HM7V+HF8, 263106, Geregu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.563902699999999,6.6937061",
+      "google_place_id": "ChIJf5Z2GXfyRRARAdZzhJ1RsJk"
+    }
   }
 ]

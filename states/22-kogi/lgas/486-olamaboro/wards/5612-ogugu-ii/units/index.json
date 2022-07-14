@@ -13,7 +13,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.178359,
+      "longitude": 7.5771629,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180106249999999,
+          "lng": 7.5800429
+        },
+        "southwest": {
+          "lat": 7.173117250000001,
+          "lng": 7.576202900000004
+        }
+      },
+      "formatted_address": "5HHG+8VV, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.178359,7.5771629",
+      "google_place_id": "ChIJWdlnsxklRRARpSVDTaUl-cU"
+    }
   },
   {
     "id": "108528",
@@ -29,7 +46,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1118668,
+      "longitude": 7.580338,
+      "viewport": {
+        "northeast": {
+          "lat": 7.113172029892722,
+          "lng": 7.581688029892721
+        },
+        "southwest": {
+          "lat": 7.110472370107278,
+          "lng": 7.578988370107277
+        }
+      },
+      "formatted_address": "4H6J+P4W, 270109, Oledo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1118668,7.580338",
+      "google_place_id": "ChIJiR9nylonRRARTQTj0mV9-6g"
+    }
   },
   {
     "id": "108529",
@@ -45,7 +79,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.5937886,
+      "longitude": -80.5616776,
+      "viewport": {
+        "northeast": {
+          "lat": 43.59514522989272,
+          "lng": -80.56031487010728
+        },
+        "southwest": {
+          "lat": 43.59244557010727,
+          "lng": -80.56301452989273
+        }
+      },
+      "formatted_address": "4 University Ave, Elmira, ON N3B 1K2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5937886,-80.5616776",
+      "google_place_id": "ChIJU4hqToruK4gRU8ViY3PVddI"
+    }
   },
   {
     "id": "108530",
@@ -61,7 +112,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1379098,
+      "longitude": 7.541537699999998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.139814429892721,
+          "lng": 7.544150400000003
+        },
+        "southwest": {
+          "lat": 7.137114770107277,
+          "lng": 7.540666799999997
+        }
+      },
+      "formatted_address": "4GQR+5J7, Adupi-Emoriko, Olamaboro Local Government, Kogi State, Edipe Eke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1379098,7.541537699999998",
+      "google_place_id": "ChIJGUhkoxQkRRAR2nFtp9wUbDw"
+    }
   },
   {
     "id": "108531",
@@ -77,7 +145,8 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108532",
@@ -93,7 +162,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1173476,
+      "longitude": 7.4899292,
+      "viewport": {
+        "northeast": {
+          "lat": 7.118352579892721,
+          "lng": 7.491209679892722
+        },
+        "southwest": {
+          "lat": 7.115652920107277,
+          "lng": 7.488510020107278
+        }
+      },
+      "formatted_address": "4F8Q+WXM, 270107, Akpanya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1173476,7.4899292",
+      "google_place_id": "ChIJVwpjI3ghRRARYPKQ2uTaJMA"
+    }
   },
   {
     "id": "108533",
@@ -109,7 +195,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.365655400000001,
+      "longitude": 7.0982581,
+      "viewport": {
+        "northeast": {
+          "lat": 7.366963679892721,
+          "lng": 7.099611929892722
+        },
+        "southwest": {
+          "lat": 7.364264020107277,
+          "lng": 7.096912270107278
+        }
+      },
+      "formatted_address": "938X+786, Angba-Akynia Road, 271106, Ejule, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.365655400000001,7.0982581",
+      "google_place_id": "ChIJwYfTbjILRRARXfGC75F5GWo"
+    }
   },
   {
     "id": "108534",
@@ -125,7 +228,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.178359,
+      "longitude": 7.5771629,
+      "viewport": {
+        "northeast": {
+          "lat": 7.180106249999999,
+          "lng": 7.5800429
+        },
+        "southwest": {
+          "lat": 7.173117250000001,
+          "lng": 7.576202900000004
+        }
+      },
+      "formatted_address": "5HHG+8VV, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.178359,7.5771629",
+      "google_place_id": "ChIJWdlnsxklRRARpSVDTaUl-cU"
+    }
   },
   {
     "id": "108535",
@@ -141,7 +261,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.207086100000001,
+      "longitude": 7.5574145,
+      "viewport": {
+        "northeast": {
+          "lat": 7.208460979892721,
+          "lng": 7.558678779892721
+        },
+        "southwest": {
+          "lat": 7.205761320107277,
+          "lng": 7.555979120107276
+        }
+      },
+      "formatted_address": "6H44+RXG, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.207086100000001,7.5574145",
+      "google_place_id": "ChIJx-Ynhzk7RRAR2JbsFy1wBJk"
+    }
   },
   {
     "id": "108536",
@@ -157,7 +294,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1118668,
+      "longitude": 7.580338,
+      "viewport": {
+        "northeast": {
+          "lat": 7.113172029892722,
+          "lng": 7.581688029892721
+        },
+        "southwest": {
+          "lat": 7.110472370107278,
+          "lng": 7.578988370107277
+        }
+      },
+      "formatted_address": "4H6J+P4W, 270109, Oledo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1118668,7.580338",
+      "google_place_id": "ChIJiR9nylonRRARTQTj0mV9-6g"
+    }
   },
   {
     "id": "108537",
@@ -173,7 +327,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.218854800000001,
+      "longitude": 7.561001399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.220303479892723,
+          "lng": 7.562343229892723
+        },
+        "southwest": {
+          "lat": 7.217603820107279,
+          "lng": 7.559643570107279
+        }
+      },
+      "formatted_address": "6H96+GCR, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.218854800000001,7.561001399999999",
+      "google_place_id": "ChIJ-5R1diQ7RRAR_ECvQHgjeSU"
+    }
   },
   {
     "id": "108538",
@@ -189,7 +360,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.218854800000001,
+      "longitude": 7.561001399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.220303479892723,
+          "lng": 7.562343229892723
+        },
+        "southwest": {
+          "lat": 7.217603820107279,
+          "lng": 7.559643570107279
+        }
+      },
+      "formatted_address": "6H96+GCR, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.218854800000001,7.561001399999999",
+      "google_place_id": "ChIJ-5R1diQ7RRAR_ECvQHgjeSU"
+    }
   },
   {
     "id": "108539",
@@ -205,7 +393,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.112388699999999,
+      "longitude": 7.490211,
+      "viewport": {
+        "northeast": {
+          "lat": 7.113742229892723,
+          "lng": 7.491593679892722
+        },
+        "southwest": {
+          "lat": 7.111042570107279,
+          "lng": 7.488894020107278
+        }
+      },
+      "formatted_address": "Okegbi 270107, Ogugu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.112388699999999,7.490211",
+      "google_place_id": "ChIJgeqwImMhRRARJnnPRF7ZRaM"
+    }
   },
   {
     "id": "108540",
@@ -221,7 +426,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.207086100000001,
+      "longitude": 7.5574145,
+      "viewport": {
+        "northeast": {
+          "lat": 7.208460979892721,
+          "lng": 7.558678779892721
+        },
+        "southwest": {
+          "lat": 7.205761320107277,
+          "lng": 7.555979120107276
+        }
+      },
+      "formatted_address": "6H44+RXG, 270107, Okpo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.207086100000001,7.5574145",
+      "google_place_id": "ChIJx-Ynhzk7RRAR2JbsFy1wBJk"
+    }
   },
   {
     "id": "108541",
@@ -237,7 +459,24 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.1118668,
+      "longitude": 7.580338,
+      "viewport": {
+        "northeast": {
+          "lat": 7.113172029892722,
+          "lng": 7.581688029892721
+        },
+        "southwest": {
+          "lat": 7.110472370107278,
+          "lng": 7.578988370107277
+        }
+      },
+      "formatted_address": "4H6J+P4W, 270109, Oledo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1118668,7.580338",
+      "google_place_id": "ChIJiR9nylonRRARTQTj0mV9-6g"
+    }
   },
   {
     "id": "108542",
@@ -253,6 +492,23 @@
     "local_government_id": "486",
     "local_government_name": "OLAMABORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5323,
+      "longitude": 7.333800000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.533646829892722,
+          "lng": 7.335144329892722
+        },
+        "southwest": {
+          "lat": 7.530947170107278,
+          "lng": 7.332444670107278
+        }
+      },
+      "formatted_address": "G8JM+WGF, 272102, Egboje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5323,7.333800000000001",
+      "google_place_id": "ChIJw7GZFEFvRRARFAfOUdUU5S8"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.460987800000001,
+      "longitude": 6.4610197,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462416629892723,
+          "lng": 6.462472679892722
+        },
+        "southwest": {
+          "lat": 7.459716970107279,
+          "lng": 6.459773020107278
+        }
+      },
+      "formatted_address": "263102, Adogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460987800000001,6.4610197",
+      "google_place_id": "ChIJZWGr-G3hRRARnR6JJnaR0ME"
+    }
   },
   {
     "id": "105729",
@@ -29,7 +46,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.460987800000001,
+      "longitude": 6.4610197,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462416629892723,
+          "lng": 6.462472679892722
+        },
+        "southwest": {
+          "lat": 7.459716970107279,
+          "lng": 6.459773020107278
+        }
+      },
+      "formatted_address": "263102, Adogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460987800000001,6.4610197",
+      "google_place_id": "ChIJZWGr-G3hRRARnR6JJnaR0ME"
+    }
   },
   {
     "id": "105730",
@@ -45,7 +79,8 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "105731",
@@ -61,6 +96,23 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5569725,
+      "longitude": 6.635656399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.557892679892722,
+          "lng": 6.636884829892721
+        },
+        "southwest": {
+          "lat": 7.555193020107278,
+          "lng": 6.634185170107277
+        }
+      },
+      "formatted_address": "HJ4P+Q7M, Central Mosque Road, 263106, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5569725,6.635656399999999",
+      "google_place_id": "ChIJV1o0lSbuRRARfvB3738LbW4"
+    }
   }
 ]

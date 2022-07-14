@@ -13,7 +13,8 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108228",
@@ -29,7 +30,8 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108229",
@@ -45,7 +47,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.548432,
+      "longitude": 6.244016299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.549739829892723,
+          "lng": 6.245447029892722
+        },
+        "southwest": {
+          "lat": 7.547040170107279,
+          "lng": 6.242747370107279
+        }
+      },
+      "formatted_address": "G6XV+9JC, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.548432,6.244016299999999",
+      "google_place_id": "ChIJp3lY3OYPRhARDTq3my3iiSA"
+    }
   },
   {
     "id": "108230",
@@ -61,7 +80,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.3508295,
+      "longitude": -80.3212236,
+      "viewport": {
+        "northeast": {
+          "lat": 43.35231047989272,
+          "lng": -80.31980857010727
+        },
+        "southwest": {
+          "lat": 43.34961082010727,
+          "lng": -80.32250822989272
+        }
+      },
+      "formatted_address": "65 Victoria Ave, Cambridge, ON N1S 1X2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.3508295,-80.3212236",
+      "google_place_id": "ChIJC65lIRZ3LIgRDsxVOYIN8nY"
+    }
   },
   {
     "id": "108231",
@@ -77,7 +113,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.561384499999999,
+      "longitude": 6.242967800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.562691479892721,
+          "lng": 6.244417629892722
+        },
+        "southwest": {
+          "lat": 7.559991820107277,
+          "lng": 6.241717970107278
+        }
+      },
+      "formatted_address": "H66V+H54, beside Dehiro Hotel INIKE, 264103, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.561384499999999,6.242967800000001",
+      "google_place_id": "ChIJq6qqqv4PRhARbOYs8LHsn-U"
+    }
   },
   {
     "id": "108232",
@@ -93,7 +146,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5566691,
+      "longitude": 6.231590000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.557893129892721,
+          "lng": 6.232793679892723
+        },
+        "southwest": {
+          "lat": 7.555193470107278,
+          "lng": 6.230094020107279
+        }
+      },
+      "formatted_address": "H64J+MJ8, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5566691,6.231590000000001",
+      "google_place_id": "ChIJdf3xHhwQRhARI3cvipS4dYk"
+    }
   },
   {
     "id": "108233",
@@ -109,7 +179,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.46744169999999,
+      "longitude": -80.4555846,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46871312989272,
+          "lng": -80.45415752010727
+        },
+        "southwest": {
+          "lat": 43.46601347010728,
+          "lng": -80.45685717989272
+        }
+      },
+      "formatted_address": "1166 Victoria St N, Kitchener, ON N2B 3C9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.46744169999999,-80.4555846",
+      "google_place_id": "ChIJj6K4g3_1K4gR3CziJqhBJeQ"
+    }
   },
   {
     "id": "108234",
@@ -125,7 +212,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.8187109,
+      "longitude": -79.22987169999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.82018897989273,
+          "lng": -79.22823917010727
+        },
+        "southwest": {
+          "lat": 43.81748932010728,
+          "lng": -79.23093882989272
+        }
+      },
+      "formatted_address": "1630 Neilson Rd, Scarborough, ON M1X 1S3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.8187109,-79.22987169999999",
+      "google_place_id": "ChIJfQq3wDPX1IkRZWoEsXYCtdU"
+    }
   },
   {
     "id": "108235",
@@ -141,7 +245,8 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108236",
@@ -157,7 +262,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.550039699999998,
+      "longitude": 6.233657099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.551386279892724,
+          "lng": 6.234973179892722
+        },
+        "southwest": {
+          "lat": 7.54868662010728,
+          "lng": 6.232273520107278
+        }
+      },
+      "formatted_address": "Off Lafia Road, beside First Bank PLC, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.550039699999998,6.233657099999999",
+      "google_place_id": "ChIJp5PVlx4QRhARkIeGp-EZm-w"
+    }
   },
   {
     "id": "108237",
@@ -173,7 +295,8 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108238",
@@ -189,7 +312,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.561384499999999,
+      "longitude": 6.242967800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.562691479892721,
+          "lng": 6.244417629892722
+        },
+        "southwest": {
+          "lat": 7.559991820107277,
+          "lng": 6.241717970107278
+        }
+      },
+      "formatted_address": "H66V+H54, opp. first Gate FCE, 264103, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.561384499999999,6.242967800000001",
+      "google_place_id": "ChIJq6qqqv4PRhARFb1rjZwWfUo"
+    }
   },
   {
     "id": "108239",
@@ -205,7 +345,8 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108240",
@@ -221,7 +362,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5818026,
+      "longitude": 6.2612256,
+      "viewport": {
+        "northeast": {
+          "lat": 7.583140129892723,
+          "lng": 6.262559179892722
+        },
+        "southwest": {
+          "lat": 7.58044047010728,
+          "lng": 6.259859520107278
+        }
+      },
+      "formatted_address": "H7J6+PFH Oze-Aare, 264103, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5818026,6.2612256",
+      "google_place_id": "ChIJjTJ4GqwFRhAR46go5DIvSL0"
+    }
   },
   {
     "id": "108241",
@@ -237,7 +395,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5818026,
+      "longitude": 6.2612256,
+      "viewport": {
+        "northeast": {
+          "lat": 7.583140129892723,
+          "lng": 6.262559179892722
+        },
+        "southwest": {
+          "lat": 7.58044047010728,
+          "lng": 6.259859520107278
+        }
+      },
+      "formatted_address": "H7J6+PFH Oze-Aare, 264103, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5818026,6.2612256",
+      "google_place_id": "ChIJjTJ4GqwFRhAR46go5DIvSL0"
+    }
   },
   {
     "id": "108242",
@@ -253,7 +428,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.0589959,
+      "longitude": 5.7534778,
+      "viewport": {
+        "northeast": {
+          "lat": 8.06038617989272,
+          "lng": 5.754776729892721
+        },
+        "southwest": {
+          "lat": 8.057686520107277,
+          "lng": 5.752077070107277
+        }
+      },
+      "formatted_address": "3Q53+H9X, 262102, Ejuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0589959,5.7534778",
+      "google_place_id": "ChIJze5e9vKKSBARQhVEwXKFwgs"
+    }
   },
   {
     "id": "108243",
@@ -269,7 +461,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.550789900000001,
+      "longitude": 6.236742899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.552161829892723,
+          "lng": 6.238091979892721
+        },
+        "southwest": {
+          "lat": 7.549462170107279,
+          "lng": 6.235392320107278
+        }
+      },
+      "formatted_address": "H62P+7MX, A2, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.550789900000001,6.236742899999999",
+      "google_place_id": "ChIJJ7dt4h0QRhARQFHcf9ICXq0"
+    }
   },
   {
     "id": "108244",
@@ -285,7 +494,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.563993000000001,
+      "longitude": 6.2250796,
+      "viewport": {
+        "northeast": {
+          "lat": 7.565445179892722,
+          "lng": 6.226654979892722
+        },
+        "southwest": {
+          "lat": 7.562745520107279,
+          "lng": 6.223955320107279
+        }
+      },
+      "formatted_address": "opposite police barracks, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.563993000000001,6.2250796",
+      "google_place_id": "ChIJZ-yeRHgRRhARr3zwyUWZPKE"
+    }
   },
   {
     "id": "108245",
@@ -301,7 +527,24 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5514761,
+      "longitude": 6.2357722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.552802629892722,
+          "lng": 6.237091729892722
+        },
+        "southwest": {
+          "lat": 7.550102970107278,
+          "lng": 6.234392070107278
+        }
+      },
+      "formatted_address": "No 12 Ohionye Close GRA, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5514761,6.2357722",
+      "google_place_id": "ChIJa9hGxR0QRhART9xe2a9z3HQ"
+    }
   },
   {
     "id": "108246",
@@ -317,6 +560,23 @@
     "local_government_id": "485",
     "local_government_name": "OKENE",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5514761,
+      "longitude": 6.2357722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.552802629892722,
+          "lng": 6.237091729892722
+        },
+        "southwest": {
+          "lat": 7.550102970107278,
+          "lng": 6.234392070107278
+        }
+      },
+      "formatted_address": "No 12 Ohionye Close GRA, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5514761,6.2357722",
+      "google_place_id": "ChIJa9hGxR0QRhART9xe2a9z3HQ"
+    }
   }
 ]

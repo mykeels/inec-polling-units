@@ -13,7 +13,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107838",
@@ -29,7 +30,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107839",
@@ -45,7 +47,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107840",
@@ -61,7 +64,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107841",
@@ -77,7 +81,24 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.241283699999999,
+      "longitude": 6.923867200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.242656979892721,
+          "lng": 6.925231929892721
+        },
+        "southwest": {
+          "lat": 7.239957320107277,
+          "lng": 6.922532270107277
+        }
+      },
+      "formatted_address": "6WRF+GG9, HIll top, Atoda, Gwolawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.241283699999999,6.923867200000001",
+      "google_place_id": "ChIJzUdgb0ulRRARCZ9MvqwsxnI"
+    }
   },
   {
     "id": "107842",
@@ -93,7 +114,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107843",
@@ -109,7 +131,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107844",
@@ -125,7 +148,8 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107845",
@@ -141,6 +165,23 @@
     "local_government_id": "482",
     "local_government_name": "OFU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.241283699999999,
+      "longitude": 6.923867200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.242656979892721,
+          "lng": 6.925231929892721
+        },
+        "southwest": {
+          "lat": 7.239957320107277,
+          "lng": 6.922532270107277
+        }
+      },
+      "formatted_address": "6WRF+GG9, HIll top, Atoda, Gwolawo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.241283699999999,6.923867200000001",
+      "google_place_id": "ChIJzUdgb0ulRRARCZ9MvqwsxnI"
+    }
   }
 ]

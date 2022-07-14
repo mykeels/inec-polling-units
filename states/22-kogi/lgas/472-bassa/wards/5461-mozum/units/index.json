@@ -13,7 +13,24 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.968347000000001,
+      "longitude": 7.256424999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.970010579892721,
+          "lng": 7.25744627989272
+        },
+        "southwest": {
+          "lat": 7.967310920107277,
+          "lng": 7.254746620107277
+        }
+      },
+      "formatted_address": "X794+8HM, 272111, Akpaku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.968347000000001,7.256424999999999",
+      "google_place_id": "ChIJm9aeRA6aTxARZRQgHoT0EC8"
+    }
   },
   {
     "id": "106239",
@@ -29,7 +46,8 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "106240",
@@ -45,7 +63,24 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 40.1421634,
+      "longitude": -75.42667689999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.14346697989272,
+          "lng": -75.42538432010727
+        },
+        "southwest": {
+          "lat": 40.14076732010728,
+          "lng": -75.42808397989272
+        }
+      },
+      "formatted_address": "21 Denise Ct, Norristown, PA 19403, United States",
+      "google_map_url": "https://maps.google.com?q=40.1421634,-75.42667689999999",
+      "google_place_id": "ChIJkV55Rs6WxokRfwni1Dsv0To"
+    }
   },
   {
     "id": "106241",
@@ -61,7 +96,24 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.845434499999999,
+      "longitude": 6.7487745,
+      "viewport": {
+        "northeast": {
+          "lat": 7.846787479892722,
+          "lng": 6.750067479892722
+        },
+        "southwest": {
+          "lat": 7.844087820107278,
+          "lng": 6.747367820107278
+        }
+      },
+      "formatted_address": "RPWX+5GC, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845434499999999,6.7487745",
+      "google_place_id": "ChIJ1cLw-IldTxARKpxoidxdtBU"
+    }
   },
   {
     "id": "106242",
@@ -77,7 +129,24 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.6330025,
+      "longitude": 3.328759,
+      "viewport": {
+        "northeast": {
+          "lat": 6.634348879892722,
+          "lng": 3.330107029892722
+        },
+        "southwest": {
+          "lat": 6.631649220107279,
+          "lng": 3.327407370107277
+        }
+      },
+      "formatted_address": "J8MH+6G2, Ogba Housing Estate Road, Ifako Agege 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6330025,3.328759",
+      "google_place_id": "ChIJmVA62fGROxARcOFSK5aOpPg"
+    }
   },
   {
     "id": "106243",
@@ -93,7 +162,24 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "106244",
@@ -109,7 +195,24 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.805458199999999,
+      "longitude": 6.742699699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.806808829892722,
+          "lng": 6.743980079892722
+        },
+        "southwest": {
+          "lat": 7.804109170107278,
+          "lng": 6.741280420107278
+        }
+      },
+      "formatted_address": "RP4V+53M, Sabon Gari LGEA Primary School, Rufus Kupolati Street, Off Lugard Way, Township/ G.R.A, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.805458199999999,6.742699699999999",
+      "google_place_id": "ChIJhcNGDRteTxARnQ7Pq6CaCT4"
+    }
   },
   {
     "id": "106245",
@@ -125,6 +228,7 @@
     "local_government_id": "472",
     "local_government_name": "BASSA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

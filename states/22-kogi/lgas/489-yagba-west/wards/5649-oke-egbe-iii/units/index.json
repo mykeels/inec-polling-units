@@ -13,7 +13,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2251393,
+      "longitude": 5.5093555,
+      "viewport": {
+        "northeast": {
+          "lat": 8.226504329892723,
+          "lng": 5.510703529892722
+        },
+        "southwest": {
+          "lat": 8.22380467010728,
+          "lng": 5.508003870107278
+        }
+      },
+      "formatted_address": "6GG5+3P5, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2251393,5.5093555",
+      "google_place_id": "ChIJcQ7qC1VFSBARLnhV_fX3cSQ"
+    }
   },
   {
     "id": "108943",
@@ -29,7 +46,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2207552,
+      "longitude": 5.4974453,
+      "viewport": {
+        "northeast": {
+          "lat": 8.225860299999999,
+          "lng": 5.5083175
+        },
+        "southwest": {
+          "lat": 8.2140529,
+          "lng": 5.4807875
+        }
+      },
+      "formatted_address": "Oke Egbe IV, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2207552,5.4974453",
+      "google_place_id": "ChIJbXKJ3DZESBAR_17H1P4ojOo"
+    }
   },
   {
     "id": "108944",
@@ -45,7 +79,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2044015,
+      "longitude": 5.556555400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.205531379892722,
+          "lng": 5.557913329892722
+        },
+        "southwest": {
+          "lat": 8.202831720107278,
+          "lng": 5.555213670107278
+        }
+      },
+      "formatted_address": "6H34+QJ7, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2044015,5.556555400000001",
+      "google_place_id": "ChIJMQiM3U1FSBARpiHft0hT5D8"
+    }
   },
   {
     "id": "108945",
@@ -61,7 +112,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2044015,
+      "longitude": 5.556555400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.205531379892722,
+          "lng": 5.557913329892722
+        },
+        "southwest": {
+          "lat": 8.202831720107278,
+          "lng": 5.555213670107278
+        }
+      },
+      "formatted_address": "6H34+QJ7, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2044015,5.556555400000001",
+      "google_place_id": "ChIJMQiM3U1FSBARpiHft0hT5D8"
+    }
   },
   {
     "id": "108946",
@@ -77,6 +145,23 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2165372,
+      "longitude": 5.5097312,
+      "viewport": {
+        "northeast": {
+          "lat": 8.217988029892721,
+          "lng": 5.511158879892721
+        },
+        "southwest": {
+          "lat": 8.215288370107277,
+          "lng": 5.508459220107278
+        }
+      },
+      "formatted_address": "6G85+JV9, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2165372,5.5097312",
+      "google_place_id": "ChIJwznjHFBESBARty8Jc9hCaDk"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107709",
@@ -29,7 +30,24 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.853070199999999,
+      "longitude": 6.1540241,
+      "viewport": {
+        "northeast": {
+          "lat": 7.861083000000001,
+          "lng": 6.1647189
+        },
+        "southwest": {
+          "lat": 7.845443100000001,
+          "lng": 6.1445421
+        }
+      },
+      "formatted_address": "261101, Okebukun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853070199999999,6.1540241",
+      "google_place_id": "ChIJJ1rge3WkSBARGZxy_1ImO10"
+    }
   },
   {
     "id": "107710",
@@ -45,7 +63,24 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1378938,
+      "longitude": 5.895626600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.139243329892722,
+          "lng": 5.896946229892722
+        },
+        "southwest": {
+          "lat": 8.136543670107278,
+          "lng": 5.894246570107279
+        }
+      },
+      "formatted_address": "4VQW+572, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1378938,5.895626600000001",
+      "google_place_id": "ChIJX91e-X7ySBARE-SvdHkykC4"
+    }
   },
   {
     "id": "107711",
@@ -61,7 +96,8 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107712",
@@ -77,6 +113,7 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

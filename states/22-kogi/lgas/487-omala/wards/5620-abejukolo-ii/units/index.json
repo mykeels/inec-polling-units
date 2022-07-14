@@ -13,7 +13,24 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8724764,
+      "longitude": 7.507831599999998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.873826229892722,
+          "lng": 7.509181429892722
+        },
+        "southwest": {
+          "lat": 7.871126570107278,
+          "lng": 7.506481770107278
+        }
+      },
+      "formatted_address": "Ibadan Road Ibado, 270105, Abejukolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8724764,7.507831599999998",
+      "google_place_id": "ChIJ52Y1NenzTxAReML65NFLz3Y"
+    }
   },
   {
     "id": "108668",
@@ -29,7 +46,24 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8724764,
+      "longitude": 7.507831599999998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.873826229892722,
+          "lng": 7.509181429892722
+        },
+        "southwest": {
+          "lat": 7.871126570107278,
+          "lng": 7.506481770107278
+        }
+      },
+      "formatted_address": "Ibadan Road Ibado, 270105, Abejukolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8724764,7.507831599999998",
+      "google_place_id": "ChIJ52Y1NenzTxAReML65NFLz3Y"
+    }
   },
   {
     "id": "108669",
@@ -45,7 +79,8 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108670",
@@ -61,7 +96,8 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108671",
@@ -77,7 +113,24 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.827982,
+      "longitude": 7.513045,
+      "viewport": {
+        "northeast": {
+          "lat": 7.829331679892724,
+          "lng": 7.514263579892722
+        },
+        "southwest": {
+          "lat": 7.82663202010728,
+          "lng": 7.511563920107278
+        }
+      },
+      "formatted_address": "RGH7+56V, 270105, Abejukolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.827982,7.513045",
+      "google_place_id": "ChIJN9IqusLzTxAR5C4DJG7xNm4"
+    }
   },
   {
     "id": "108672",
@@ -93,7 +146,8 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108673",
@@ -109,7 +163,24 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8018581,
+      "longitude": 6.7439072,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803269129892723,
+          "lng": 6.745258279892721
+        },
+        "southwest": {
+          "lat": 7.800569470107279,
+          "lng": 6.742558620107277
+        }
+      },
+      "formatted_address": "2, Marine Road, Opposite Post Office, Along INEC Road Lokoja, 260103, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8018581,6.7439072",
+      "google_place_id": "ChIJE2V8MwlfTxARJvtzm74CSHM"
+    }
   },
   {
     "id": "108674",
@@ -125,6 +196,7 @@
     "local_government_id": "487",
     "local_government_name": "OMALA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

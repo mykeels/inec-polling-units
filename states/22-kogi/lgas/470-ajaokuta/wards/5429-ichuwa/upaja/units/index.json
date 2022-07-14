@@ -13,7 +13,8 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "105704",
@@ -29,7 +30,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.558999600000001,
+      "longitude": 6.6249008,
+      "viewport": {
+        "northeast": {
+          "lat": 7.560356179892721,
+          "lng": 6.626241029892721
+        },
+        "southwest": {
+          "lat": 7.557656520107277,
+          "lng": 6.623541370107278
+        }
+      },
+      "formatted_address": "Jdp Junction, Lokoja, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.558999600000001,6.6249008",
+      "google_place_id": "ChIJvZs-moTvRRAR08JjSQekw2w"
+    }
   },
   {
     "id": "105705",
@@ -45,7 +63,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5532428,
+      "longitude": 6.632235199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.554600079892721,
+          "lng": 6.633585379892722
+        },
+        "southwest": {
+          "lat": 7.551900420107277,
+          "lng": 6.630885720107278
+        }
+      },
+      "formatted_address": "HJ3J+7VX, 263106, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5532428,6.632235199999999",
+      "google_place_id": "ChIJb7BnW97vRRARXl6PjPHFmVY"
+    }
   },
   {
     "id": "105706",
@@ -61,6 +96,23 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5551431,
+      "longitude": 6.5929126,
+      "viewport": {
+        "northeast": {
+          "lat": 7.556276429892721,
+          "lng": 6.594607879892721
+        },
+        "southwest": {
+          "lat": 7.553576770107277,
+          "lng": 6.591908220107277
+        }
+      },
+      "formatted_address": "HH4V+353, 263106, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5551431,6.5929126",
+      "google_place_id": "ChIJlxUaa-TvRRARX9qUD1aRwsg"
+    }
   }
 ]

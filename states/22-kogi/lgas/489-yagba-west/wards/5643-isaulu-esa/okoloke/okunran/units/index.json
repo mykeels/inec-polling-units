@@ -13,7 +13,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.3808145,
+      "longitude": 5.456813299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.5385227,
+          "lng": 5.6434109
+        },
+        "southwest": {
+          "lat": 8.2349898,
+          "lng": 5.3215026
+        }
+      },
+      "formatted_address": "Isaulu Esa/Okoloke/Okunran, 262103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3808145,5.456813299999999",
+      "google_place_id": "ChIJQWpesHZMSBARM1Bjj4HcS9w"
+    }
   },
   {
     "id": "108904",
@@ -29,7 +46,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.3808145,
+      "longitude": 5.456813299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.5385227,
+          "lng": 5.6434109
+        },
+        "southwest": {
+          "lat": 8.2349898,
+          "lng": 5.3215026
+        }
+      },
+      "formatted_address": "Isaulu Esa/Okoloke/Okunran, 262103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3808145,5.456813299999999",
+      "google_place_id": "ChIJQWpesHZMSBARM1Bjj4HcS9w"
+    }
   },
   {
     "id": "108905",
@@ -45,7 +79,8 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108906",
@@ -61,7 +96,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2908289,
+      "longitude": 5.4541928,
+      "viewport": {
+        "northeast": {
+          "lat": 8.2972811,
+          "lng": 5.4620935
+        },
+        "southwest": {
+          "lat": 8.2797,
+          "lng": 5.4458714
+        }
+      },
+      "formatted_address": "262103, Okunran, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2908289,5.4541928",
+      "google_place_id": "ChIJWzvpmZBISBARG9ZkFEt05Tg"
+    }
   },
   {
     "id": "108907",
@@ -77,6 +129,23 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.3808145,
+      "longitude": 5.456813299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.5385227,
+          "lng": 5.6434109
+        },
+        "southwest": {
+          "lat": 8.2349898,
+          "lng": 5.3215026
+        }
+      },
+      "formatted_address": "Isaulu Esa/Okoloke/Okunran, 262103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3808145,5.456813299999999",
+      "google_place_id": "ChIJQWpesHZMSBARM1Bjj4HcS9w"
+    }
   }
 ]

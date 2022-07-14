@@ -13,7 +13,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.195777,
+      "longitude": 140.998928,
+      "viewport": {
+        "northeast": {
+          "lat": 43.19715422989272,
+          "lng": 141.0003603798927
+        },
+        "southwest": {
+          "lat": 43.19445457010728,
+          "lng": 140.9976607201073
+        }
+      },
+      "formatted_address": "1-chome-3-13 Inaho, Otaru, Hokkaido 047-0032, Japan",
+      "google_map_url": "https://maps.google.com?q=43.195777,140.998928",
+      "google_place_id": "ChIJif-btFPgCl8RoQv0I9_x7b8"
+    }
   },
   {
     "id": "108019",
@@ -29,7 +46,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.801738200000001,
+      "longitude": 6.743900699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.80322607989272,
+          "lng": 6.745250979892721
+        },
+        "southwest": {
+          "lat": 7.800526420107277,
+          "lng": 6.742551320107277
+        }
+      },
+      "formatted_address": "RP2V+PH6, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801738200000001,6.743900699999999",
+      "google_place_id": "ChIJc-E1ShleTxARvw6WIKDifUE"
+    }
   },
   {
     "id": "108020",
@@ -45,7 +79,8 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108021",
@@ -61,7 +96,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.591910200000001,
+      "longitude": 6.1603287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593277079892722,
+          "lng": 6.161667679892722
+        },
+        "southwest": {
+          "lat": 7.590577420107278,
+          "lng": 6.158968020107278
+        }
+      },
+      "formatted_address": "H5R6+Q48, Oboroke, Ihima Adavi Rd, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.591910200000001,6.1603287",
+      "google_place_id": "ChIJu8jSAiMaRhARwbWzttEPFxE"
+    }
   },
   {
     "id": "108022",
@@ -77,7 +129,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "108023",
@@ -93,7 +162,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "108024",
@@ -109,7 +195,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "108025",
@@ -125,7 +228,8 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108026",
@@ -141,7 +245,8 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108027",
@@ -157,7 +262,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 39.9966151,
+      "longitude": -75.1236816,
+      "viewport": {
+        "northeast": {
+          "lat": 39.99797032989273,
+          "lng": -75.12222532010729
+        },
+        "southwest": {
+          "lat": 39.99527067010729,
+          "lng": -75.12492497989273
+        }
+      },
+      "formatted_address": "3100 C St, Philadelphia, PA 19134, United States",
+      "google_map_url": "https://maps.google.com?q=39.9966151,-75.1236816",
+      "google_place_id": "ChIJuaVs4Ni3xokRclb7OTXW9UU"
+    }
   },
   {
     "id": "108028",
@@ -173,7 +295,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 39.9966151,
+      "longitude": -75.1236816,
+      "viewport": {
+        "northeast": {
+          "lat": 39.99797032989273,
+          "lng": -75.12222532010729
+        },
+        "southwest": {
+          "lat": 39.99527067010729,
+          "lng": -75.12492497989273
+        }
+      },
+      "formatted_address": "3100 C St, Philadelphia, PA 19134, United States",
+      "google_map_url": "https://maps.google.com?q=39.9966151,-75.1236816",
+      "google_place_id": "ChIJuaVs4Ni3xokRclb7OTXW9UU"
+    }
   },
   {
     "id": "108029",
@@ -189,7 +328,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.609747,
+      "longitude": 6.268711199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.61110637989272,
+          "lng": 6.270027179892721
+        },
+        "southwest": {
+          "lat": 7.608406720107276,
+          "lng": 6.267327520107277
+        }
+      },
+      "formatted_address": "J759+VFW, 264103, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.609747,6.268711199999999",
+      "google_place_id": "ChIJM2lXpuIERhAR_kKqdxDrgCw"
+    }
   },
   {
     "id": "108030",
@@ -205,7 +361,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.590971000000001,
+      "longitude": 6.2038568,
+      "viewport": {
+        "northeast": {
+          "lat": 7.59231472989272,
+          "lng": 6.205218229892722
+        },
+        "southwest": {
+          "lat": 7.589615070107276,
+          "lng": 6.202518570107277
+        }
+      },
+      "formatted_address": "No 5, OBANGEDE/UHUODO okehi local government, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.590971000000001,6.2038568",
+      "google_place_id": "ChIJYUIX8PIaRhAR6ph6_HA5gio"
+    }
   },
   {
     "id": "108031",
@@ -221,7 +394,8 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108032",
@@ -237,6 +411,7 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

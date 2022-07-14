@@ -13,7 +13,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.841942700000001,
+      "longitude": 6.7400033,
+      "viewport": {
+        "northeast": {
+          "lat": 7.843173829892721,
+          "lng": 6.741424979892722
+        },
+        "southwest": {
+          "lat": 7.840474170107277,
+          "lng": 6.738725320107278
+        }
+      },
+      "formatted_address": "Kogi State Polytechnic, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.841942700000001,6.7400033",
+      "google_place_id": "ChIJm_rgN41dTxARRdVm2doxa8A"
+    }
   },
   {
     "id": "107315",
@@ -29,7 +46,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107316",
@@ -45,7 +63,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107317",
@@ -61,7 +80,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2185961,
+      "longitude": 5.507604400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.219955879892721,
+          "lng": 5.509007279892723
+        },
+        "southwest": {
+          "lat": 8.217256220107277,
+          "lng": 5.506307620107279
+        }
+      },
+      "formatted_address": "6G95+C2Q, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2185961,5.507604400000001",
+      "google_place_id": "ChIJL3W0oDdFSBARyK38n6Sr1Ts"
+    }
   },
   {
     "id": "107318",
@@ -77,7 +113,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.838878299999999,
+      "longitude": 6.6708956,
+      "viewport": {
+        "northeast": {
+          "lat": 7.840265729892723,
+          "lng": 6.672301979892722
+        },
+        "southwest": {
+          "lat": 7.837566070107279,
+          "lng": 6.669602320107278
+        }
+      },
+      "formatted_address": "RMQC+G8M, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.838878299999999,6.6708956",
+      "google_place_id": "ChIJ8daM8wxcTxAR_6SrmKivgj8"
+    }
   },
   {
     "id": "107319",
@@ -93,7 +146,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 5.9708621,
+      "longitude": 116.0663544,
+      "viewport": {
+        "northeast": {
+          "lat": 5.972874849999999,
+          "lng": 116.06819975
+        },
+        "southwest": {
+          "lat": 5.968619049999997,
+          "lng": 116.06386035
+        }
+      },
+      "formatted_address": "KK Times Square, Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah, Malaysia",
+      "google_map_url": "https://maps.google.com?q=5.9708621,116.0663544",
+      "google_place_id": "ChIJGwRDk79pOzIRjM0ywHUkgDM"
+    }
   },
   {
     "id": "107320",
@@ -109,7 +179,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107321",
@@ -125,6 +196,23 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 9.0087352,
+      "longitude": 7.4785187,
+      "viewport": {
+        "northeast": {
+          "lat": 9.01015087989272,
+          "lng": 7.479808129892723
+        },
+        "southwest": {
+          "lat": 9.007451220107276,
+          "lng": 7.477108470107279
+        }
+      },
+      "formatted_address": "12 21st St, Apo Quarters 900110, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0087352,7.4785187",
+      "google_place_id": "ChIJb3-X1YsMThAR3V68-M4csk0"
+    }
   }
 ]

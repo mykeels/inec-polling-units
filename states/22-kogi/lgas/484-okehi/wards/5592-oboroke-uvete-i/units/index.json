@@ -13,7 +13,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.543496999999999,
+      "longitude": 6.255709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.544746029892724,
+          "lng": 6.256436929892722
+        },
+        "southwest": {
+          "lat": 7.54204637010728,
+          "lng": 6.253737270107278
+        }
+      },
+      "formatted_address": "G7V4+97W, behind DE hero hotel, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.543496999999999,6.255709",
+      "google_place_id": "ChIJkWDktsEPRhARl9uzv4pieqQ"
+    }
   },
   {
     "id": "108088",
@@ -29,7 +46,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.608994699999999,
+      "longitude": 6.1744039,
+      "viewport": {
+        "northeast": {
+          "lat": 7.610373029892721,
+          "lng": 6.175767279892722
+        },
+        "southwest": {
+          "lat": 7.607673370107277,
+          "lng": 6.173067620107278
+        }
+      },
+      "formatted_address": "Alh MO Onukoko street Oboroke, Ihima Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.608994699999999,6.1744039",
+      "google_place_id": "ChIJpWcPGtEbRhARz1NgZ-H1Jkg"
+    }
   },
   {
     "id": "108089",
@@ -45,7 +79,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.485843699999999,
+      "longitude": 7.187395599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487135729892722,
+          "lng": 7.188881829892721
+        },
+        "southwest": {
+          "lat": 7.484436070107278,
+          "lng": 7.186182170107277
+        }
+      },
+      "formatted_address": "University, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.485843699999999,7.187395599999999",
+      "google_place_id": "ChIJ8Sc_5nsLThARDZHeroLI0Bc"
+    }
   },
   {
     "id": "108090",
@@ -61,7 +112,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "108091",
@@ -77,7 +145,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.608994699999999,
+      "longitude": 6.1744039,
+      "viewport": {
+        "northeast": {
+          "lat": 7.610373029892721,
+          "lng": 6.175767279892722
+        },
+        "southwest": {
+          "lat": 7.607673370107277,
+          "lng": 6.173067620107278
+        }
+      },
+      "formatted_address": "Alh MO Onukoko street Oboroke, Ihima Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.608994699999999,6.1744039",
+      "google_place_id": "ChIJpWcPGtEbRhARz1NgZ-H1Jkg"
+    }
   },
   {
     "id": "108092",
@@ -93,7 +178,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.608994699999999,
+      "longitude": 6.1744039,
+      "viewport": {
+        "northeast": {
+          "lat": 7.610373029892721,
+          "lng": 6.175767279892722
+        },
+        "southwest": {
+          "lat": 7.607673370107277,
+          "lng": 6.173067620107278
+        }
+      },
+      "formatted_address": "Alh MO Onukoko street Oboroke, Ihima Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.608994699999999,6.1744039",
+      "google_place_id": "ChIJpWcPGtEbRhARz1NgZ-H1Jkg"
+    }
   },
   {
     "id": "108093",
@@ -109,7 +211,8 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108094",
@@ -125,7 +228,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.591910200000001,
+      "longitude": 6.1603287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593277079892722,
+          "lng": 6.161667679892722
+        },
+        "southwest": {
+          "lat": 7.590577420107278,
+          "lng": 6.158968020107278
+        }
+      },
+      "formatted_address": "H5R6+Q48, Oboroke, Ihima Adavi Rd, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.591910200000001,6.1603287",
+      "google_place_id": "ChIJu8jSAiMaRhARwbWzttEPFxE"
+    }
   },
   {
     "id": "108095",
@@ -141,7 +261,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.591910200000001,
+      "longitude": 6.1603287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593277079892722,
+          "lng": 6.161667679892722
+        },
+        "southwest": {
+          "lat": 7.590577420107278,
+          "lng": 6.158968020107278
+        }
+      },
+      "formatted_address": "H5R6+Q48, Oboroke, Ihima Adavi Rd, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.591910200000001,6.1603287",
+      "google_place_id": "ChIJu8jSAiMaRhARwbWzttEPFxE"
+    }
   },
   {
     "id": "108096",
@@ -157,7 +294,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.608994699999999,
+      "longitude": 6.1744039,
+      "viewport": {
+        "northeast": {
+          "lat": 7.610373029892721,
+          "lng": 6.175767279892722
+        },
+        "southwest": {
+          "lat": 7.607673370107277,
+          "lng": 6.173067620107278
+        }
+      },
+      "formatted_address": "Alh MO Onukoko street Oboroke, Ihima Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.608994699999999,6.1744039",
+      "google_place_id": "ChIJpWcPGtEbRhARz1NgZ-H1Jkg"
+    }
   },
   {
     "id": "108097",
@@ -173,7 +327,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.591910200000001,
+      "longitude": 6.1603287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.593277079892722,
+          "lng": 6.161667679892722
+        },
+        "southwest": {
+          "lat": 7.590577420107278,
+          "lng": 6.158968020107278
+        }
+      },
+      "formatted_address": "H5R6+Q48, Oboroke, Ihima Adavi Rd, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.591910200000001,6.1603287",
+      "google_place_id": "ChIJu8jSAiMaRhARwbWzttEPFxE"
+    }
   },
   {
     "id": "108098",
@@ -189,7 +360,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.801738200000001,
+      "longitude": 6.743900699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.80322607989272,
+          "lng": 6.745250979892721
+        },
+        "southwest": {
+          "lat": 7.800526420107277,
+          "lng": 6.742551320107277
+        }
+      },
+      "formatted_address": "RP2V+PH6, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801738200000001,6.743900699999999",
+      "google_place_id": "ChIJc-E1ShleTxARvw6WIKDifUE"
+    }
   },
   {
     "id": "108099",
@@ -205,7 +393,24 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.801738200000001,
+      "longitude": 6.743900699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.80322607989272,
+          "lng": 6.745250979892721
+        },
+        "southwest": {
+          "lat": 7.800526420107277,
+          "lng": 6.742551320107277
+        }
+      },
+      "formatted_address": "RP2V+PH6, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801738200000001,6.743900699999999",
+      "google_place_id": "ChIJc-E1ShleTxARvw6WIKDifUE"
+    }
   },
   {
     "id": "108100",
@@ -221,6 +426,23 @@
     "local_government_id": "484",
     "local_government_name": "OKEHI",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.801738200000001,
+      "longitude": 6.743900699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.80322607989272,
+          "lng": 6.745250979892721
+        },
+        "southwest": {
+          "lat": 7.800526420107277,
+          "lng": 6.742551320107277
+        }
+      },
+      "formatted_address": "RP2V+PH6, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.801738200000001,6.743900699999999",
+      "google_place_id": "ChIJc-E1ShleTxARvw6WIKDifUE"
+    }
   }
 ]

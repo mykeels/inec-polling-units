@@ -13,7 +13,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.409282,
+      "longitude": 6.829712,
+      "viewport": {
+        "northeast": {
+          "lat": 7.410702229892723,
+          "lng": 6.831164879892722
+        },
+        "southwest": {
+          "lat": 7.408002570107279,
+          "lng": 6.828465220107278
+        }
+      },
+      "formatted_address": "Ajaokuta - Ayangba Rd, 271109, Adoma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.409282,6.829712",
+      "google_place_id": "ChIJ5bp92N2VRRARjJefWrAcYjI"
+    }
   },
   {
     "id": "105733",
@@ -29,7 +46,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5393781,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 7.540727929892722,
+          "lng": 6.643782829892722
+        },
+        "southwest": {
+          "lat": 7.538028270107278,
+          "lng": 6.641083170107278
+        }
+      },
+      "formatted_address": "Local Government Area, Lgea Primary School Okudugu, Adankolo Road, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5393781,6.642433",
+      "google_place_id": "ChIJkZiGfuHvRRARY_Fg8lO-rUI"
+    }
   },
   {
     "id": "105734",
@@ -45,6 +79,23 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.554653899999999,
+      "longitude": 6.6253137,
+      "viewport": {
+        "northeast": {
+          "lat": 7.556046029892721,
+          "lng": 6.626665879892721
+        },
+        "southwest": {
+          "lat": 7.553346370107277,
+          "lng": 6.623966220107277
+        }
+      },
+      "formatted_address": "1 4th School Road, 263106, Ajaokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.554653899999999,6.6253137",
+      "google_place_id": "ChIJRxboFCvuRRAR7-Lu630LE3A"
+    }
   }
 ]

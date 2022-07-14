@@ -13,7 +13,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.255602999999999,
+      "longitude": 5.5537434,
+      "viewport": {
+        "northeast": {
+          "lat": 8.256931379892723,
+          "lng": 5.555116229892722
+        },
+        "southwest": {
+          "lat": 8.25423172010728,
+          "lng": 5.552416570107278
+        }
+      },
+      "formatted_address": "Ikoja, Ilorin-Egbe-Lokoja Rd, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.255602999999999,5.5537434",
+      "google_place_id": "ChIJNX7-YVJFSBARlVfR_Hrryd0"
+    }
   },
   {
     "id": "108948",
@@ -29,7 +46,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2181454,
+      "longitude": 5.506094099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.219442979892722,
+          "lng": 5.507185979892722
+        },
+        "southwest": {
+          "lat": 8.216743320107279,
+          "lng": 5.504486320107278
+        }
+      },
+      "formatted_address": "6G94+7G7, Salvation Army Road, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2181454,5.506094099999999",
+      "google_place_id": "ChIJnez1C09ESBAR0znsXNX7Pn4"
+    }
   },
   {
     "id": "108949",
@@ -45,7 +79,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.5278265,
+      "longitude": 3.214006,
+      "viewport": {
+        "northeast": {
+          "lat": 6.529160029892722,
+          "lng": 3.215341379892722
+        },
+        "southwest": {
+          "lat": 6.526460370107278,
+          "lng": 3.212641720107277
+        }
+      },
+      "formatted_address": "Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5278265,3.214006",
+      "google_place_id": "ChIJXaq8Jv-EOxARNqPpBUgmE4A"
+    }
   },
   {
     "id": "108950",
@@ -61,7 +112,24 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2044015,
+      "longitude": 5.556555400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.205531379892722,
+          "lng": 5.557913329892722
+        },
+        "southwest": {
+          "lat": 8.202831720107278,
+          "lng": 5.555213670107278
+        }
+      },
+      "formatted_address": "6H34+QJ7, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2044015,5.556555400000001",
+      "google_place_id": "ChIJMQiM3U1FSBARpiHft0hT5D8"
+    }
   },
   {
     "id": "108951",
@@ -77,6 +145,23 @@
     "local_government_id": "489",
     "local_government_name": "YAGBA WEST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2286925,
+      "longitude": 5.510534,
+      "viewport": {
+        "northeast": {
+          "lat": 8.230090429892721,
+          "lng": 5.511435329892722
+        },
+        "southwest": {
+          "lat": 8.227390770107277,
+          "lng": 5.508735670107277
+        }
+      },
+      "formatted_address": "6GH6+F6F, Pategi-Egbe, 262103, Egbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2286925,5.510534",
+      "google_place_id": "ChIJ1_Iha61FSBARp6eD4H9TWaM"
+    }
   }
 ]

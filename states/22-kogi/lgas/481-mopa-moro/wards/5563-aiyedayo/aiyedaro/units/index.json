@@ -13,7 +13,8 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107733",
@@ -29,7 +30,24 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1104959,
+      "longitude": 5.890794,
+      "viewport": {
+        "northeast": {
+          "lat": 8.111868829892723,
+          "lng": 5.891858679892722
+        },
+        "southwest": {
+          "lat": 8.109169170107279,
+          "lng": 5.889159020107278
+        }
+      },
+      "formatted_address": "4V6R+58V, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1104959,5.890794",
+      "google_place_id": "ChIJIcwtxdPzSBAR1Wn881N66r4"
+    }
   },
   {
     "id": "107734",
@@ -45,7 +63,8 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107735",
@@ -61,6 +80,23 @@
     "local_government_id": "481",
     "local_government_name": "MOPA MORO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.1104959,
+      "longitude": 5.890794,
+      "viewport": {
+        "northeast": {
+          "lat": 8.111868829892723,
+          "lng": 5.891858679892722
+        },
+        "southwest": {
+          "lat": 8.109169170107279,
+          "lng": 5.889159020107278
+        }
+      },
+      "formatted_address": "4V6R+58V, 262101, Mopa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1104959,5.890794",
+      "google_place_id": "ChIJIcwtxdPzSBAR1Wn881N66r4"
+    }
   }
 ]

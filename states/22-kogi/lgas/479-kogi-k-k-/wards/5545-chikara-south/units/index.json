@@ -13,7 +13,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107414",
@@ -29,7 +30,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.841942700000001,
+      "longitude": 6.7400033,
+      "viewport": {
+        "northeast": {
+          "lat": 7.843173829892721,
+          "lng": 6.741424979892722
+        },
+        "southwest": {
+          "lat": 7.840474170107277,
+          "lng": 6.738725320107278
+        }
+      },
+      "formatted_address": "Kogi State Polytechnic, 260102, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.841942700000001,6.7400033",
+      "google_place_id": "ChIJm_rgN41dTxARRdVm2doxa8A"
+    }
   },
   {
     "id": "107415",
@@ -45,7 +63,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107416",
@@ -61,7 +80,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107417",
@@ -77,7 +97,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107418",
@@ -93,6 +114,7 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

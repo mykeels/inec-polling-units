@@ -13,7 +13,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.548432,
+      "longitude": 6.244016299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.549739829892723,
+          "lng": 6.245447029892722
+        },
+        "southwest": {
+          "lat": 7.547040170107279,
+          "lng": 6.242747370107279
+        }
+      },
+      "formatted_address": "G6XV+9JC, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.548432,6.244016299999999",
+      "google_place_id": "ChIJp3lY3OYPRhARDTq3my3iiSA"
+    }
   },
   {
     "id": "107959",
@@ -29,7 +46,8 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107960",
@@ -45,7 +63,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.051745799999999,
+      "longitude": 5.940353399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.05312132989272,
+          "lng": 5.941727279892721
+        },
+        "southwest": {
+          "lat": 8.050421670107276,
+          "lng": 5.939027620107277
+        }
+      },
+      "formatted_address": "3W2R+M4X, 261103, Iddo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.051745799999999,5.940353399999999",
+      "google_place_id": "ChIJlac8Gv6SSBAR0iRDcqYz3ss"
+    }
   },
   {
     "id": "107961",
@@ -61,6 +96,23 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.4035783,
+      "longitude": 6.225547799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.404887479892723,
+          "lng": 6.226842079892722
+        },
+        "southwest": {
+          "lat": 7.402187820107279,
+          "lng": 6.224142420107278
+        }
+      },
+      "formatted_address": "C63G+C65, 312118, Makeke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4035783,6.225547799999999",
+      "google_place_id": "ChIJ8Wta5AQTRhARTIXp9VfbKKc"
+    }
   }
 ]

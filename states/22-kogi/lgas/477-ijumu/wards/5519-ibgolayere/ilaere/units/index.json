@@ -13,7 +13,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.842993,
+      "longitude": 5.9689333,
+      "viewport": {
+        "northeast": {
+          "lat": 7.844364829892721,
+          "lng": 5.970280729892722
+        },
+        "southwest": {
+          "lat": 7.841665170107277,
+          "lng": 5.967581070107278
+        }
+      },
+      "formatted_address": "RXV9+5H8, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.842993,5.9689333",
+      "google_place_id": "ChIJZ1jPXO6bSBARuq5t0N2FjKQ"
+    }
   },
   {
     "id": "107155",
@@ -29,7 +46,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.842993,
+      "longitude": 5.9689333,
+      "viewport": {
+        "northeast": {
+          "lat": 7.844364829892721,
+          "lng": 5.970280729892722
+        },
+        "southwest": {
+          "lat": 7.841665170107277,
+          "lng": 5.967581070107278
+        }
+      },
+      "formatted_address": "RXV9+5H8, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.842993,5.9689333",
+      "google_place_id": "ChIJZ1jPXO6bSBARuq5t0N2FjKQ"
+    }
   },
   {
     "id": "107156",
@@ -45,7 +79,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.5044583,
+      "longitude": 5.7534826,
+      "viewport": {
+        "northeast": {
+          "lat": 7.505705779892724,
+          "lng": 5.754851829892722
+        },
+        "southwest": {
+          "lat": 7.50300612010728,
+          "lng": 5.752152170107278
+        }
+      },
+      "formatted_address": "GQ33+Q97, 342111, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5044583,5.7534826",
+      "google_place_id": "ChIJx3z0M2ozRhAR4LAgxGHT3aw"
+    }
   },
   {
     "id": "107157",
@@ -61,6 +112,23 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.1469247,
+      "longitude": -80.7322095,
+      "viewport": {
+        "northeast": {
+          "lat": 43.14802817989271,
+          "lng": -80.73079017010727
+        },
+        "southwest": {
+          "lat": 43.14532852010727,
+          "lng": -80.73348982989272
+        }
+      },
+      "formatted_address": "1085 Devonshire Ave, Woodstock, ON N4S 5S1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.1469247,-80.7322095",
+      "google_place_id": "ChIJU_R3HSgfLIgR8RP1chjXmfw"
+    }
   }
 ]

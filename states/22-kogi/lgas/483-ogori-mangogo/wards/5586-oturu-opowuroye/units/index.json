@@ -13,7 +13,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107992",
@@ -29,7 +46,8 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107993",
@@ -45,7 +63,8 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107994",
@@ -61,7 +80,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.543763599999998,
+      "longitude": 6.222376199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.544939329892721,
+          "lng": 6.223712779892721
+        },
+        "southwest": {
+          "lat": 7.542239670107278,
+          "lng": 6.221013120107277
+        }
+      },
+      "formatted_address": "G6VC+GX2, 263101, Okene, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.543763599999998,6.222376199999999",
+      "google_place_id": "ChIJMYXHFvERRhARqMktsYogn90"
+    }
   },
   {
     "id": "107995",
@@ -77,6 +113,7 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

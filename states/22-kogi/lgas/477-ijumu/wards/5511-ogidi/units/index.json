@@ -13,7 +13,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.759576799999999,
+      "longitude": 6.023589599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7636411,
+          "lng": 6.027881
+        },
+        "southwest": {
+          "lat": 7.756102899999999,
+          "lng": 6.018849899999999
+        }
+      },
+      "formatted_address": "261103, Ogidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.759576799999999,6.023589599999999",
+      "google_place_id": "ChIJbT0anzqeSBARuAyUGAOtn2g"
+    }
   },
   {
     "id": "107090",
@@ -29,7 +46,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.759576799999999,
+      "longitude": 6.023589599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7636411,
+          "lng": 6.027881
+        },
+        "southwest": {
+          "lat": 7.756102899999999,
+          "lng": 6.018849899999999
+        }
+      },
+      "formatted_address": "261103, Ogidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.759576799999999,6.023589599999999",
+      "google_place_id": "ChIJbT0anzqeSBARuAyUGAOtn2g"
+    }
   },
   {
     "id": "107091",
@@ -45,7 +79,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107092",
@@ -61,6 +112,23 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8408712,
+      "longitude": 5.9575295,
+      "viewport": {
+        "northeast": {
+          "lat": 7.842179629892722,
+          "lng": 5.958763779892721
+        },
+        "southwest": {
+          "lat": 7.839479970107278,
+          "lng": 5.956064120107277
+        }
+      },
+      "formatted_address": "RXR5+82R, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8408712,5.9575295",
+      "google_place_id": "ChIJ8a-a942bSBARDtegEGnwzfk"
+    }
   }
 ]

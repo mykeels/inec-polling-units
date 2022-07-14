@@ -13,7 +13,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "105713",
@@ -29,7 +46,8 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "105714",
@@ -45,7 +63,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.563902699999999,
+      "longitude": 6.6937061,
+      "viewport": {
+        "northeast": {
+          "lat": 7.565547829892722,
+          "lng": 6.694833679892722
+        },
+        "southwest": {
+          "lat": 7.562848170107278,
+          "lng": 6.692134020107278
+        }
+      },
+      "formatted_address": "HM7V+HF8, 263106, Geregu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.563902699999999,6.6937061",
+      "google_place_id": "ChIJf5Z2GXfyRRARAdZzhJ1RsJk"
+    }
   },
   {
     "id": "105715",
@@ -61,7 +96,24 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.487516299999999,
+      "longitude": 7.1879767,
+      "viewport": {
+        "northeast": {
+          "lat": 7.488704479892722,
+          "lng": 7.189273279892721
+        },
+        "southwest": {
+          "lat": 7.486004820107278,
+          "lng": 7.186573620107278
+        }
+      },
+      "formatted_address": "F5QQ+259, Lokoja-Ankpa Rd, 272102, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.487516299999999,7.1879767",
+      "google_place_id": "ChIJu-6PKUhxRRARyDBZbIk8nQw"
+    }
   },
   {
     "id": "105716",
@@ -77,6 +129,23 @@
     "local_government_id": "470",
     "local_government_name": "AJAOKUTA",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.479946,
+      "longitude": 7.169073299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.480940029892722,
+          "lng": 7.17067432989272
+        },
+        "southwest": {
+          "lat": 7.478240370107279,
+          "lng": 7.167974670107276
+        }
+      },
+      "formatted_address": "F5H9+XJG, 272102, Anyigba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.479946,7.169073299999999",
+      "google_place_id": "ChIJ_S2JYrB2RRARUdcKDM67SR8"
+    }
   }
 ]

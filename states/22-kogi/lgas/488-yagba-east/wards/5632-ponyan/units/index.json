@@ -13,7 +13,8 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108803",
@@ -29,7 +30,24 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.207992300000001,
+      "longitude": 5.1728884,
+      "viewport": {
+        "northeast": {
+          "lat": 7.209302479892722,
+          "lng": 5.174230329892723
+        },
+        "southwest": {
+          "lat": 7.206602820107278,
+          "lng": 5.171530670107279
+        }
+      },
+      "formatted_address": "340283, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.207992300000001,5.1728884",
+      "google_place_id": "ChIJwS12bLuFRxARszLzL_6-doE"
+    }
   },
   {
     "id": "108804",
@@ -45,7 +63,8 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108805",
@@ -61,7 +80,8 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108806",
@@ -77,7 +97,8 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108807",
@@ -93,7 +114,8 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108808",
@@ -109,6 +131,7 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

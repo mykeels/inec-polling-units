@@ -13,7 +13,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 42.9616586,
+      "longitude": -81.2180111,
+      "viewport": {
+        "northeast": {
+          "lat": 42.96298252989272,
+          "lng": -81.21661437010728
+        },
+        "southwest": {
+          "lat": 42.96028287010728,
+          "lng": -81.21931402989271
+        }
+      },
+      "formatted_address": "280 Adelaide St S, London, ON N5Z 3L1, Canada",
+      "google_map_url": "https://maps.google.com?q=42.9616586,-81.2180111",
+      "google_place_id": "ChIJ2eGMZE3zLogRKD2vaklFKi8"
+    }
   },
   {
     "id": "107941",
@@ -29,7 +46,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.3088359,
+      "longitude": 5.9258529,
+      "viewport": {
+        "northeast": {
+          "lat": 7.310145629892722,
+          "lng": 5.927224629892722
+        },
+        "southwest": {
+          "lat": 7.307445970107278,
+          "lng": 5.924524970107278
+        }
+      },
+      "formatted_address": "8W5G+G8Q, 312116, Ogbodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3088359,5.9258529",
+      "google_place_id": "ChIJPchnONlFRhARub7jyWiL1Hw"
+    }
   },
   {
     "id": "107942",
@@ -45,7 +79,8 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107943",
@@ -61,7 +96,8 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107944",
@@ -77,7 +113,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.466730000000001,
+      "longitude": 6.163559999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.468079829892723,
+          "lng": 6.164909829892721
+        },
+        "southwest": {
+          "lat": 7.465380170107279,
+          "lng": 6.162210170107277
+        }
+      },
+      "formatted_address": "305 Obatigban Street Kogi Ogori Civic Centre, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.466730000000001,6.163559999999999",
+      "google_place_id": "ChIJnzG0wX8TRhARVbL_JA05cYI"
+    }
   },
   {
     "id": "107945",
@@ -93,7 +146,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107946",
@@ -109,7 +179,24 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.4709559,
+      "longitude": 6.1633042,
+      "viewport": {
+        "northeast": {
+          "lat": 7.472305729892724,
+          "lng": 6.164654029892723
+        },
+        "southwest": {
+          "lat": 7.46960607010728,
+          "lng": 6.161954370107279
+        }
+      },
+      "formatted_address": "F5C7+98M, 263103, Ososo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4709559,6.1633042",
+      "google_place_id": "ChIJ_____-8TRhAR7iTFmtAcFfY"
+    }
   },
   {
     "id": "107947",
@@ -125,6 +212,23 @@
     "local_government_id": "483",
     "local_government_name": "OGORI MANGOGO",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.4709559,
+      "longitude": 6.1633042,
+      "viewport": {
+        "northeast": {
+          "lat": 7.472305729892724,
+          "lng": 6.164654029892723
+        },
+        "southwest": {
+          "lat": 7.46960607010728,
+          "lng": 6.161954370107279
+        }
+      },
+      "formatted_address": "F5C7+98M, 263103, Ososo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4709559,6.1633042",
+      "google_place_id": "ChIJ_____-8TRhAR7iTFmtAcFfY"
+    }
   }
 ]

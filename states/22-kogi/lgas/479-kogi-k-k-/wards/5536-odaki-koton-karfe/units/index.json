@@ -13,7 +13,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.2341638,
+      "longitude": 6.648873399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.235545629892722,
+          "lng": 6.650339079892721
+        },
+        "southwest": {
+          "lat": 6.232845970107278,
+          "lng": 6.647639420107277
+        }
+      },
+      "formatted_address": "6JMX+MG9, Asaba Road, 320108, Okpanam, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.2341638,6.648873399999999",
+      "google_place_id": "ChIJ0UP-FpzxQxARBgFpv2_v4YQ"
+    }
   },
   {
     "id": "107323",
@@ -29,7 +46,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 43.4607429,
+      "longitude": -80.51926879999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46197212989272,
+          "lng": -80.51804807010728
+        },
+        "southwest": {
+          "lat": 43.45927247010727,
+          "lng": -80.52074772989273
+        }
+      },
+      "formatted_address": "180 King St S Suite 701, Waterloo, ON N2J 1P8, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4607429,-80.51926879999999",
+      "google_place_id": "ChIJ80VViWz0K4gRa1LMGh9AEf8"
+    }
   },
   {
     "id": "107324",
@@ -45,7 +79,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107325",
@@ -61,7 +96,24 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 40.0616515,
+      "longitude": -82.97350949999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.06274997989271,
+          "lng": -82.97218927010726
+        },
+        "southwest": {
+          "lat": 40.06005032010727,
+          "lng": -82.97488892989271
+        }
+      },
+      "formatted_address": "1700 Morse Rd, Columbus, OH 43229, United States",
+      "google_map_url": "https://maps.google.com?q=40.0616515,-82.97350949999999",
+      "google_place_id": "ChIJq6qqE3OLOIgR0_h76QY9H-k"
+    }
   },
   {
     "id": "107326",
@@ -77,7 +129,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107327",
@@ -93,7 +146,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107328",
@@ -109,7 +163,8 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107329",
@@ -125,6 +180,7 @@
     "local_government_id": "479",
     "local_government_name": "KOGI . K. K.",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

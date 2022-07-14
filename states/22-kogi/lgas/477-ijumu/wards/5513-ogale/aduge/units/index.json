@@ -13,7 +13,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8434564,
+      "longitude": 5.9753267,
+      "viewport": {
+        "northeast": {
+          "lat": 7.84480587989272,
+          "lng": 5.976661429892722
+        },
+        "southwest": {
+          "lat": 7.842106220107276,
+          "lng": 5.973961770107278
+        }
+      },
+      "formatted_address": "Olujumu of Ijumu Palace, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8434564,5.9753267",
+      "google_place_id": "ChIJ47J8N2ybSBARQ7vhpHN1QVw"
+    }
   },
   {
     "id": "107097",
@@ -29,7 +46,8 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107098",
@@ -45,7 +63,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8434564,
+      "longitude": 5.9753267,
+      "viewport": {
+        "northeast": {
+          "lat": 7.84480587989272,
+          "lng": 5.976661429892722
+        },
+        "southwest": {
+          "lat": 7.842106220107276,
+          "lng": 5.973961770107278
+        }
+      },
+      "formatted_address": "Olujumu of Ijumu Palace, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8434564,5.9753267",
+      "google_place_id": "ChIJ47J8N2ybSBARQ7vhpHN1QVw"
+    }
   },
   {
     "id": "107099",
@@ -61,7 +96,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 6.936369099999999,
+      "longitude": 3.6353332,
+      "viewport": {
+        "northeast": {
+          "lat": 6.937721879892723,
+          "lng": 3.636682179892722
+        },
+        "southwest": {
+          "lat": 6.935022220107278,
+          "lng": 3.633982520107278
+        }
+      },
+      "formatted_address": "WJPP+G49, 121107, Ogere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.936369099999999,3.6353332",
+      "google_place_id": "ChIJxxbpq2zROxARkew7x0_xh58"
+    }
   },
   {
     "id": "107100",
@@ -77,7 +129,8 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "107101",
@@ -93,6 +146,23 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8434564,
+      "longitude": 5.9753267,
+      "viewport": {
+        "northeast": {
+          "lat": 7.84480587989272,
+          "lng": 5.976661429892722
+        },
+        "southwest": {
+          "lat": 7.842106220107276,
+          "lng": 5.973961770107278
+        }
+      },
+      "formatted_address": "Olujumu of Ijumu Palace, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8434564,5.9753267",
+      "google_place_id": "ChIJ47J8N2ybSBARQ7vhpHN1QVw"
+    }
   }
 ]

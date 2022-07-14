@@ -13,7 +13,24 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2830724,
+      "longitude": 5.8328064,
+      "viewport": {
+        "northeast": {
+          "lat": 8.28427292989272,
+          "lng": 5.833981379892721
+        },
+        "southwest": {
+          "lat": 8.281573270107277,
+          "lng": 5.831281720107278
+        }
+      },
+      "formatted_address": "7RMM+64F, Ilorin-Egbe-Lokoja Rd, 262102, Isanlu Itedo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2830724,5.8328064",
+      "google_place_id": "ChIJ3c6wgBT6SBAR8BiZ7VTnweg"
+    }
   },
   {
     "id": "108797",
@@ -29,7 +46,8 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   },
   {
     "id": "108798",
@@ -45,7 +63,24 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2830724,
+      "longitude": 5.8328064,
+      "viewport": {
+        "northeast": {
+          "lat": 8.28427292989272,
+          "lng": 5.833981379892721
+        },
+        "southwest": {
+          "lat": 8.281573270107277,
+          "lng": 5.831281720107278
+        }
+      },
+      "formatted_address": "7RMM+64F, Ilorin-Egbe-Lokoja Rd, 262102, Isanlu Itedo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2830724,5.8328064",
+      "google_place_id": "ChIJ3c6wgBT6SBAR8BiZ7VTnweg"
+    }
   },
   {
     "id": "108799",
@@ -61,7 +96,24 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 8.2830724,
+      "longitude": 5.8328064,
+      "viewport": {
+        "northeast": {
+          "lat": 8.28427292989272,
+          "lng": 5.833981379892721
+        },
+        "southwest": {
+          "lat": 8.281573270107277,
+          "lng": 5.831281720107278
+        }
+      },
+      "formatted_address": "7RMM+64F, Ilorin-Egbe-Lokoja Rd, 262102, Isanlu Itedo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2830724,5.8328064",
+      "google_place_id": "ChIJ3c6wgBT6SBAR8BiZ7VTnweg"
+    }
   },
   {
     "id": "108800",
@@ -77,7 +129,24 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9127466,
+      "longitude": 5.7593576,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914114829892721,
+          "lng": 5.760657779892722
+        },
+        "southwest": {
+          "lat": 7.911415170107277,
+          "lng": 5.757958120107278
+        }
+      },
+      "formatted_address": "WQ75+3Q6, Ife olukotun, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9127466,5.7593576",
+      "google_place_id": "ChIJYW7kBLuHSBARVMjEAK8OToI"
+    }
   },
   {
     "id": "108801",
@@ -93,6 +162,7 @@
     "local_government_id": "488",
     "local_government_name": "YAGBA EAST",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": null
   }
 ]

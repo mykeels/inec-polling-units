@@ -13,7 +13,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8023256,
+      "longitude": 6.733435,
+      "viewport": {
+        "northeast": {
+          "lat": 7.803590029892721,
+          "lng": 6.734788679892723
+        },
+        "southwest": {
+          "lat": 7.800890370107277,
+          "lng": 6.732089020107279
+        }
+      },
+      "formatted_address": "Suit 14, Lokongoma Plaza Lokoja, 260101, Lokoja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8023256,6.733435",
+      "google_place_id": "ChIJ7yjgfhhfTxAR1DAbwm2zN-w"
+    }
   },
   {
     "id": "107094",
@@ -29,7 +46,24 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.8442798,
+      "longitude": 5.9227205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.84574327989272,
+          "lng": 5.923972979892722
+        },
+        "southwest": {
+          "lat": 7.843043620107276,
+          "lng": 5.921273320107278
+        }
+      },
+      "formatted_address": "RWVF+P35, 261103, Iyara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8442798,5.9227205",
+      "google_place_id": "ChIJ20sbQGibSBAR6oawtoCqW9U"
+    }
   },
   {
     "id": "107095",
@@ -45,6 +79,23 @@
     "local_government_id": "477",
     "local_government_name": "IJUMU",
     "state_id": "22",
-    "state_name": "KOGI"
+    "state_name": "KOGI",
+    "location": {
+      "latitude": 7.9787457,
+      "longitude": 5.991111999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.980177929892723,
+          "lng": 5.992474379892721
+        },
+        "southwest": {
+          "lat": 7.977478270107279,
+          "lng": 5.989774720107278
+        }
+      },
+      "formatted_address": "Ikorodu iyaji quarters ayetoro gbede,kogi state Ijumu, 261271, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9787457,5.991111999999999",
+      "google_place_id": "ChIJY5Nj-C6XSBARbozk976YJlw"
+    }
   }
 ]
