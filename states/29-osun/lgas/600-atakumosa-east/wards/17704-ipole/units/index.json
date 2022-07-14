@@ -13,7 +13,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.506388299999999,
+      "longitude": 4.8264125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.507741529892721,
+          "lng": 4.827769379892721
+        },
+        "southwest": {
+          "lat": 7.505041870107277,
+          "lng": 4.825069720107277
+        }
+      },
+      "formatted_address": "GR4G+HH2, 233113, Iperindo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.506388299999999,4.8264125",
+      "google_place_id": "ChIJQbc_flwROBARXWGN-g4_uYo"
+    }
   },
   {
     "id": "348562",
@@ -29,7 +46,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.623992599999999,
+      "longitude": 4.7331006,
+      "viewport": {
+        "northeast": {
+          "lat": 7.625342429892721,
+          "lng": 4.734450429892722
+        },
+        "southwest": {
+          "lat": 7.622642770107277,
+          "lng": 4.731750770107278
+        }
+      },
+      "formatted_address": "JPFM+H6X, Oke Ese Street, 233285, Ibokun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.623992599999999,4.7331006",
+      "google_place_id": "ChIJEdjGefUZOBARa1FepSeTabM"
+    }
   },
   {
     "id": "348563",
@@ -45,7 +79,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348564",
@@ -61,7 +96,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6229643,
+      "longitude": 4.7912267,
+      "viewport": {
+        "northeast": {
+          "lat": 7.624314129892722,
+          "lng": 4.792575829892722
+        },
+        "southwest": {
+          "lat": 7.621614470107279,
+          "lng": 4.789876170107278
+        }
+      },
+      "formatted_address": "JQFR+5FQ, Old Iloko Road, 233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6229643,4.7912267",
+      "google_place_id": "ChIJ5ZpmReUZOBARhDyx-2CSo8E"
+    }
   },
   {
     "id": "348565",
@@ -77,7 +129,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.506388299999999,
+      "longitude": 4.8264125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.507741529892721,
+          "lng": 4.827769379892721
+        },
+        "southwest": {
+          "lat": 7.505041870107277,
+          "lng": 4.825069720107277
+        }
+      },
+      "formatted_address": "GR4G+HH2, 233113, Iperindo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.506388299999999,4.8264125",
+      "google_place_id": "ChIJQbc_flwROBARXWGN-g4_uYo"
+    }
   },
   {
     "id": "348566",
@@ -93,7 +162,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6225555,
+      "longitude": 4.749143699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.62380282989272,
+          "lng": 4.750509279892722
+        },
+        "southwest": {
+          "lat": 7.621103170107276,
+          "lng": 4.747809620107278
+        }
+      },
+      "formatted_address": "JPFX+2MJ, Akure Rd, 233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6225555,4.749143699999999",
+      "google_place_id": "ChIJmwq41vMZOBARSR7u0DhzuWY"
+    }
   },
   {
     "id": "348567",
@@ -109,6 +195,23 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.506388299999999,
+      "longitude": 4.8264125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.507741529892721,
+          "lng": 4.827769379892721
+        },
+        "southwest": {
+          "lat": 7.505041870107277,
+          "lng": 4.825069720107277
+        }
+      },
+      "formatted_address": "GR4G+HH2, 233113, Iperindo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.506388299999999,4.8264125",
+      "google_place_id": "ChIJQbc_flwROBARXWGN-g4_uYo"
+    }
   }
 ]

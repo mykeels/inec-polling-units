@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.753419299999999,
+      "longitude": 4.2230836,
+      "viewport": {
+        "northeast": {
+          "lat": 7.785280599999999,
+          "lng": 4.285866899999999
+        },
+        "southwest": {
+          "lat": 7.729295100000001,
+          "lng": 4.1824163
+        }
+      },
+      "formatted_address": "Bode-Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.753419299999999,4.2230836",
+      "google_place_id": "ChIJ_ZdKlvjXORARY3XMAH5GeMg"
+    }
   },
   {
     "id": "351604",
@@ -29,7 +46,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.753419299999999,
+      "longitude": 4.2230836,
+      "viewport": {
+        "northeast": {
+          "lat": 7.785280599999999,
+          "lng": 4.285866899999999
+        },
+        "southwest": {
+          "lat": 7.729295100000001,
+          "lng": 4.1824163
+        }
+      },
+      "formatted_address": "Bode-Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.753419299999999,4.2230836",
+      "google_place_id": "ChIJ_ZdKlvjXORARY3XMAH5GeMg"
+    }
   },
   {
     "id": "351605",
@@ -45,7 +79,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.7444229,
+      "longitude": -81.7073806,
+      "viewport": {
+        "northeast": {
+          "lat": 43.74577167989273,
+          "lng": -81.70623802010728
+        },
+        "southwest": {
+          "lat": 43.74307202010728,
+          "lng": -81.70893767989273
+        }
+      },
+      "formatted_address": "46 Victoria St N, Goderich, ON N7A 2R6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7444229,-81.7073806",
+      "google_place_id": "ChIJN0hBHEPDKIgRA0cVCY8qqH4"
+    }
   },
   {
     "id": "351606",
@@ -61,7 +112,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.769237,
+      "longitude": 4.270083,
+      "viewport": {
+        "northeast": {
+          "lat": 7.770779979892722,
+          "lng": 4.271350729892721
+        },
+        "southwest": {
+          "lat": 7.768080320107278,
+          "lng": 4.268651070107278
+        }
+      },
+      "formatted_address": "Q79C+M2W, 232107, Bode Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.769237,4.270083",
+      "google_place_id": "ChIJ08TPTHl9NxARpiLdBgFHcLE"
+    }
   },
   {
     "id": "351607",
@@ -77,7 +145,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7826709,
+      "longitude": 4.5418141,
+      "viewport": {
+        "northeast": {
+          "lat": 7.78393392989272,
+          "lng": 4.543285579892721
+        },
+        "southwest": {
+          "lat": 7.781234270107277,
+          "lng": 4.540585920107278
+        }
+      },
+      "formatted_address": "Ajiborisa Street, Oke Fia Road, Gra, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7826709,4.5418141",
+      "google_place_id": "ChIJJU8GvQmHNxARYAZNCPJYJxc"
+    }
   },
   {
     "id": "351608",
@@ -93,7 +178,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6782602,
+      "longitude": 4.4640097,
+      "viewport": {
+        "northeast": {
+          "lat": 7.679663979892721,
+          "lng": 4.465243429892722
+        },
+        "southwest": {
+          "lat": 7.676964320107277,
+          "lng": 4.462543770107279
+        }
+      },
+      "formatted_address": "Gbongan Rd, 232101, Akoda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6782602,4.4640097",
+      "google_place_id": "ChIJaUU-LvQrOBAReufUKmJHhLo"
+    }
   },
   {
     "id": "351609",
@@ -109,6 +211,7 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

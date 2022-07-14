@@ -13,7 +13,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 47.5120971,
+      "longitude": -52.8177586,
+      "viewport": {
+        "northeast": {
+          "lat": 47.51331812989272,
+          "lng": -52.81637167010727
+        },
+        "southwest": {
+          "lat": 47.51061847010728,
+          "lng": -52.81907132989271
+        }
+      },
+      "formatted_address": "108 Ashford Dr, Mount Pearl, NL A1N 3L6, Canada",
+      "google_map_url": "https://maps.google.com?q=47.5120971,-52.8177586",
+      "google_place_id": "ChIJhYaXSpC8DEsRbUz3wf43KEQ"
+    }
   },
   {
     "id": "351524",
@@ -29,7 +46,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 47.5120971,
+      "longitude": -52.8177586,
+      "viewport": {
+        "northeast": {
+          "lat": 47.51331812989272,
+          "lng": -52.81637167010727
+        },
+        "southwest": {
+          "lat": 47.51061847010728,
+          "lng": -52.81907132989271
+        }
+      },
+      "formatted_address": "108 Ashford Dr, Mount Pearl, NL A1N 3L6, Canada",
+      "google_map_url": "https://maps.google.com?q=47.5120971,-52.8177586",
+      "google_place_id": "ChIJhYaXSpC8DEsRbUz3wf43KEQ"
+    }
   },
   {
     "id": "351525",
@@ -45,7 +79,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351526",
@@ -61,7 +112,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351527",
@@ -77,7 +145,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351528",
@@ -93,7 +178,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.971334999999999,
+      "longitude": 4.660535,
+      "viewport": {
+        "northeast": {
+          "lat": 7.9884084,
+          "lng": 4.7097321
+        },
+        "southwest": {
+          "lat": 7.9548366,
+          "lng": 4.6135754
+        }
+      },
+      "formatted_address": "Olunisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.971334999999999,4.660535",
+      "google_place_id": "ChIJo3DXHjSSNxAR9vsdPHyt4IU"
+    }
   },
   {
     "id": "351529",
@@ -109,6 +211,7 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

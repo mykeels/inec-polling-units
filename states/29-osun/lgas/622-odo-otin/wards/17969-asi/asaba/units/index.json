@@ -13,7 +13,8 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351508",
@@ -29,7 +30,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9274186,
+      "longitude": 4.6740181,
+      "viewport": {
+        "northeast": {
+          "lat": 7.928768479892723,
+          "lng": 4.675357329892722
+        },
+        "southwest": {
+          "lat": 7.926068820107279,
+          "lng": 4.672657670107278
+        }
+      },
+      "formatted_address": "WMGF+XJ7, 231111, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9274186,4.6740181",
+      "google_place_id": "ChIJATP7LY-NNxARlQDx5RJLhXY"
+    }
   },
   {
     "id": "351509",
@@ -45,7 +63,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.833016899999999,
+      "longitude": 4.918483999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.834394729892722,
+          "lng": 4.919842179892722
+        },
+        "southwest": {
+          "lat": 7.831695070107278,
+          "lng": 4.917142520107278
+        }
+      },
+      "formatted_address": "RWM9+6CJ, 372102, Oke-Mesi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.833016899999999,4.918483999999999",
+      "google_place_id": "ChIJCSXk8435NxARdo29uXmOuC0"
+    }
   },
   {
     "id": "351510",
@@ -61,7 +96,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0569124,
+      "longitude": 4.784693799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.0684375,
+          "lng": 4.795550299999999
+        },
+        "southwest": {
+          "lat": 8.0025882,
+          "lng": 4.768591499999999
+        }
+      },
+      "formatted_address": "Asi/Asaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0569124,4.784693799999999",
+      "google_place_id": "ChIJexADKpfrNxAR_IVNFkIxgvc"
+    }
   },
   {
     "id": "351511",
@@ -77,6 +129,23 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0537338,
+      "longitude": 4.7840465,
+      "viewport": {
+        "northeast": {
+          "lat": 8.05513452989272,
+          "lng": 4.785356729892722
+        },
+        "southwest": {
+          "lat": 8.052434870107277,
+          "lng": 4.782657070107278
+        }
+      },
+      "formatted_address": "3Q3M+FJH, 231106, Asi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0537338,4.7840465",
+      "google_place_id": "ChIJeaKpTQbrNxARJUvov4Vgma4"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.623541,
+      "longitude": 4.7309059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.624893979892723,
+          "lng": 4.732267029892721
+        },
+        "southwest": {
+          "lat": 7.622194320107279,
+          "lng": 4.729567370107278
+        }
+      },
+      "formatted_address": "JPFJ+C96, Oke Ese Street, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.623541,4.7309059",
+      "google_place_id": "ChIJLywe0X4YOBARFMDwGthlgJw"
+    }
   },
   {
     "id": "348615",
@@ -29,7 +46,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5869747,
+      "longitude": 4.629449800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.587950429892723,
+          "lng": 4.630861429892722
+        },
+        "southwest": {
+          "lat": 7.585250770107279,
+          "lng": 4.628161770107278
+        }
+      },
+      "formatted_address": "Ife-Ilesa Expressway, 233105, Osu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5869747,4.629449800000001",
+      "google_place_id": "ChIJiwHrqrQkOBARgXtbfvrSPMI"
+    }
   },
   {
     "id": "348616",
@@ -45,7 +79,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.886582199999999,
+      "longitude": 4.8899208,
+      "viewport": {
+        "northeast": {
+          "lat": 7.887923029892722,
+          "lng": 4.89105042989272
+        },
+        "southwest": {
+          "lat": 7.885223370107278,
+          "lng": 4.888350770107277
+        }
+      },
+      "formatted_address": "VVPQ+MXQ, ogbonila edemosi, 234101, Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.886582199999999,4.8899208",
+      "google_place_id": "ChIJLaqHmYDwNxARjJYLyedV_N4"
+    }
   },
   {
     "id": "348617",
@@ -61,7 +112,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348618",
@@ -77,7 +129,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348619",
@@ -93,7 +146,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5403179,
+      "longitude": 4.8251988,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541652779892722,
+          "lng": 4.826391579892721
+        },
+        "southwest": {
+          "lat": 7.538953120107278,
+          "lng": 4.823691920107278
+        }
+      },
+      "formatted_address": "GRRG+43G, Odo-Ijesa, Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5403179,4.8251988",
+      "google_place_id": "ChIJbx-dtRMROBARzIA0pTCE3Jk"
+    }
   },
   {
     "id": "348620",
@@ -109,7 +179,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348621",
@@ -125,6 +196,7 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

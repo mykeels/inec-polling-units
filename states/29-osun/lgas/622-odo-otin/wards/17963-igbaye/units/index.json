@@ -13,7 +13,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.035753999999999,
+      "longitude": 4.647124799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.037156229892721,
+          "lng": 4.648453229892723
+        },
+        "southwest": {
+          "lat": 8.034456570107277,
+          "lng": 4.645753570107279
+        }
+      },
+      "formatted_address": "2JPW+7RX, 231102, Igbaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.035753999999999,4.647124799999999",
+      "google_place_id": "ChIJAS-kxh2UNxARa1u1dFY7HuI"
+    }
   },
   {
     "id": "351463",
@@ -29,7 +46,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0365013,
+      "longitude": 4.6866238,
+      "viewport": {
+        "northeast": {
+          "lat": 8.037801479892723,
+          "lng": 4.688002179892723
+        },
+        "southwest": {
+          "lat": 8.035101820107279,
+          "lng": 4.685302520107279
+        }
+      },
+      "formatted_address": "231105, Okuku Railway Stati, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0365013,4.6866238",
+      "google_place_id": "ChIJ3yRtAYqUNxARujt1eIDvCSs"
+    }
   },
   {
     "id": "351464",
@@ -45,7 +79,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.033790999999999,
+      "longitude": 4.6526759,
+      "viewport": {
+        "northeast": {
+          "lat": 8.035140029892721,
+          "lng": 4.654030779892723
+        },
+        "southwest": {
+          "lat": 8.032440370107278,
+          "lng": 4.651331120107279
+        }
+      },
+      "formatted_address": "2MM3+G37, 231102, Igbaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.033790999999999,4.6526759",
+      "google_place_id": "ChIJ41tFABuUNxARYOIYVjVwlNA"
+    }
   },
   {
     "id": "351465",
@@ -61,7 +112,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.021341399999999,
+      "longitude": 4.6145153,
+      "viewport": {
+        "northeast": {
+          "lat": 8.022687829892723,
+          "lng": 4.615859279892722
+        },
+        "southwest": {
+          "lat": 8.019988170107279,
+          "lng": 4.613159620107278
+        }
+      },
+      "formatted_address": "2JC7+GRJ, 231104, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.021341399999999,4.6145153",
+      "google_place_id": "ChIJLdv2UM2WNxAR3J7MxmM596Q"
+    }
   },
   {
     "id": "351466",
@@ -77,7 +145,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.031967,
+      "longitude": 4.6400309,
+      "viewport": {
+        "northeast": {
+          "lat": 8.033265129892722,
+          "lng": 4.641396979892722
+        },
+        "southwest": {
+          "lat": 8.030565470107279,
+          "lng": 4.638697320107278
+        }
+      },
+      "formatted_address": "2JJR+Q2J, 231102, Igbaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.031967,4.6400309",
+      "google_place_id": "ChIJ65HOB6aWNxARJJUHO5QFlS0"
+    }
   },
   {
     "id": "351467",
@@ -93,7 +178,8 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351468",
@@ -109,6 +195,23 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.016063599999999,
+      "longitude": 4.6731406,
+      "viewport": {
+        "northeast": {
+          "lat": 8.017427829892721,
+          "lng": 4.674465479892722
+        },
+        "southwest": {
+          "lat": 8.014728170107277,
+          "lng": 4.671765820107278
+        }
+      },
+      "formatted_address": "2M8F+C6P, Ajasse Ipo - Offa, 231105, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.016063599999999,4.6731406",
+      "google_place_id": "ChIJr9-hGImTNxARDwuVVgmQBtU"
+    }
   }
 ]

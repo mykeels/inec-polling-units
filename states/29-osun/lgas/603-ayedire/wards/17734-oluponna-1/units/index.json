@@ -13,7 +13,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5896796,
+      "longitude": 4.183447399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.591446729892722,
+          "lng": 4.185124579892721
+        },
+        "southwest": {
+          "lat": 7.588747070107278,
+          "lng": 4.182424920107277
+        }
+      },
+      "formatted_address": "H5QM+V9G, 232015, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5896796,4.183447399999999",
+      "google_place_id": "ChIJiaMn8xnFORARzoOrQLXNURg"
+    }
   },
   {
     "id": "348849",
@@ -29,7 +46,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6339631,
+      "longitude": 4.170916099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.635314729892722,
+          "lng": 4.172256579892721
+        },
+        "southwest": {
+          "lat": 7.632615070107279,
+          "lng": 4.169556920107278
+        }
+      },
+      "formatted_address": "J5MC+H8W, Alaye, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6339631,4.170916099999999",
+      "google_place_id": "ChIJ02iYvibbORARdgQ3_O18R7U"
+    }
   },
   {
     "id": "348850",
@@ -45,7 +79,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.642231799999999,
+      "longitude": 4.1877702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.643654229892721,
+          "lng": 4.188670279892722
+        },
+        "southwest": {
+          "lat": 7.640954570107277,
+          "lng": 4.185970620107279
+        }
+      },
+      "formatted_address": "J5RQ+V4R, Molete III, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.642231799999999,4.1877702",
+      "google_place_id": "ChIJleVKLqzbORAROK1swzQY3fo"
+    }
   },
   {
     "id": "348851",
@@ -61,7 +112,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.605370199999999,
+      "longitude": 4.1894217,
+      "viewport": {
+        "northeast": {
+          "lat": 7.60672787989272,
+          "lng": 4.190783629892722
+        },
+        "southwest": {
+          "lat": 7.604028220107276,
+          "lng": 4.188083970107278
+        }
+      },
+      "formatted_address": "J54Q+4Q6, 232015, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.605370199999999,4.1894217",
+      "google_place_id": "ChIJkZhoeijbORARNTRthORNqA8"
+    }
   },
   {
     "id": "348852",
@@ -77,7 +145,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.605370199999999,
+      "longitude": 4.1894217,
+      "viewport": {
+        "northeast": {
+          "lat": 7.60672787989272,
+          "lng": 4.190783629892722
+        },
+        "southwest": {
+          "lat": 7.604028220107276,
+          "lng": 4.188083970107278
+        }
+      },
+      "formatted_address": "J54Q+4Q6, 232015, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.605370199999999,4.1894217",
+      "google_place_id": "ChIJkZhoeijbORARNTRthORNqA8"
+    }
   },
   {
     "id": "348853",
@@ -93,7 +178,8 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348854",
@@ -109,6 +195,7 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

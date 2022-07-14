@@ -13,7 +13,24 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 40.72951339999999,
+      "longitude": -73.9964609,
+      "viewport": {
+        "northeast": {
+          "lat": 40.73454915000001,
+          "lng": -73.98985275
+        },
+        "southwest": {
+          "lat": 40.72399454999999,
+          "lng": -74.00363175000001
+        }
+      },
+      "formatted_address": "New York, NY 10012, United States",
+      "google_map_url": "https://maps.google.com?q=40.72951339999999,-73.9964609",
+      "google_place_id": "ChIJwZVT9ZpZwokRBfO1cTF0MNo"
+    }
   },
   {
     "id": "350229",
@@ -29,7 +46,8 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350230",
@@ -45,7 +63,8 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350231",
@@ -61,7 +80,8 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350232",
@@ -77,7 +97,8 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350233",
@@ -93,7 +114,8 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350234",
@@ -109,6 +131,7 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

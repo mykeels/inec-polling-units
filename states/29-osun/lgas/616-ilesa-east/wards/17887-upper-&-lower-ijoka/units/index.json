@@ -13,7 +13,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.629063099999999,
+      "longitude": 4.781772000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630410779892723,
+          "lng": 4.783120479892721
+        },
+        "southwest": {
+          "lat": 7.627711120107279,
+          "lng": 4.780420820107278
+        }
+      },
+      "formatted_address": "Off Station Road, Iyemogun 233111, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.629063099999999,4.781772000000001",
+      "google_place_id": "ChIJ-73ILQgZOBARWfV_s59kak4"
+    }
   },
   {
     "id": "350601",
@@ -29,7 +46,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350602",
@@ -45,7 +63,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350603",
@@ -61,7 +80,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350604",
@@ -77,7 +97,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 53.5706847,
+      "longitude": -2.3399924,
+      "viewport": {
+        "northeast": {
+          "lat": 53.57202572989272,
+          "lng": -2.338646370107278
+        },
+        "southwest": {
+          "lat": 53.56932607010727,
+          "lng": -2.341346029892723
+        }
+      },
+      "formatted_address": "Forth Rd, Radcliffe, Manchester M26 4PX, United Kingdom",
+      "google_map_url": "https://maps.google.com?q=53.5706847,-2.3399924",
+      "google_place_id": "ChIJ_Z7D2bqle0gR4oGP85UeQBM"
+    }
   },
   {
     "id": "350605",
@@ -93,7 +130,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5392532,
+      "longitude": 5.7212055,
+      "viewport": {
+        "northeast": {
+          "lat": 7.54054847989272,
+          "lng": 5.722535229892722
+        },
+        "southwest": {
+          "lat": 7.537848820107277,
+          "lng": 5.719835570107278
+        }
+      },
+      "formatted_address": "GPQC+PF4, F117, 342110, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5392532,5.7212055",
+      "google_place_id": "ChIJmYHxoy_NRxARAkTX53ilPCI"
+    }
   },
   {
     "id": "350606",
@@ -109,7 +163,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 5.023886,
+      "longitude": 7.9173117,
+      "viewport": {
+        "northeast": {
+          "lat": 5.025215079892723,
+          "lng": 7.91863527989272
+        },
+        "southwest": {
+          "lat": 5.022515420107279,
+          "lng": 7.915935620107276
+        }
+      },
+      "formatted_address": "2WF8+HW3, Ukana Offot St, 520102, Uyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.023886,7.9173117",
+      "google_place_id": "ChIJv4SoZdJXXRARSwUSgokxwfE"
+    }
   },
   {
     "id": "350607",
@@ -125,7 +196,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 34.0956116,
+      "longitude": -118.2788198,
+      "viewport": {
+        "northeast": {
+          "lat": 34.09705267989272,
+          "lng": -118.2774322701073
+        },
+        "southwest": {
+          "lat": 34.09435302010727,
+          "lng": -118.2801319298927
+        }
+      },
+      "formatted_address": "4000 Fountain Ave, Los Angeles, CA 90029, United States",
+      "google_map_url": "https://maps.google.com?q=34.0956116,-118.2788198",
+      "google_place_id": "ChIJcUvHLUrHwoARSUhDDuhOILE"
+    }
   },
   {
     "id": "350608",
@@ -141,6 +229,23 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 10.5116391,
+      "longitude": 7.425958799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.51299042989272,
+          "lng": 7.427351829892723
+        },
+        "southwest": {
+          "lat": 10.51029077010728,
+          "lng": 7.424652170107279
+        }
+      },
+      "formatted_address": "B. P - 5, Gurbiya Street, Sabon Gari, Refinery Junction, 800221, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5116391,7.425958799999999",
+      "google_place_id": "ChIJAQAAwEI1TRARIid_kpRQ_S8"
+    }
   }
 ]

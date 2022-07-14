@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.754021600000001,
+      "longitude": 4.1616143,
+      "viewport": {
+        "northeast": {
+          "lat": 7.793697300000001,
+          "lng": 4.2173219
+        },
+        "southwest": {
+          "lat": 7.7031394,
+          "lng": 4.1368803
+        }
+      },
+      "formatted_address": "Obamoro/Ile Ogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.754021600000001,4.1616143",
+      "google_place_id": "ChIJUV_Q_5PYORAR5Sg1JXJ4n3w"
+    }
   },
   {
     "id": "351598",
@@ -29,7 +46,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351599",
@@ -45,7 +63,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.984678,
+      "longitude": 4.645796,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985794579892723,
+          "lng": 4.646919879892722
+        },
+        "southwest": {
+          "lat": 7.983094920107278,
+          "lng": 4.644220220107278
+        }
+      },
+      "formatted_address": "XJMW+V8F, 231101, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.984678,4.645796",
+      "google_place_id": "ChIJM7ebMdaTNxARHVqTHbGtIY4"
+    }
   },
   {
     "id": "351600",
@@ -61,7 +96,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.936401,
+      "longitude": 4.12287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.937741229892722,
+          "lng": 4.124227179892721
+        },
+        "southwest": {
+          "lat": 7.935041570107278,
+          "lng": 4.121527520107278
+        }
+      },
+      "formatted_address": "6FV6W4PF+H49 Ward 1, Abikehin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.936401,4.12287",
+      "google_place_id": "ChIJnx_DJWlnNxARV0CWSAhcK2c"
+    }
   },
   {
     "id": "351601",
@@ -77,7 +129,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.936401,
+      "longitude": 4.12287,
+      "viewport": {
+        "northeast": {
+          "lat": 7.937741229892722,
+          "lng": 4.124227179892721
+        },
+        "southwest": {
+          "lat": 7.935041570107278,
+          "lng": 4.121527520107278
+        }
+      },
+      "formatted_address": "6FV6W4PF+H49 Ward 1, Abikehin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.936401,4.12287",
+      "google_place_id": "ChIJnx_DJWlnNxARV0CWSAhcK2c"
+    }
   },
   {
     "id": "351602",
@@ -93,6 +162,23 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.75,
+      "longitude": 4.149999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.751999679892722,
+          "lng": 4.155206650000001
+        },
+        "southwest": {
+          "lat": 7.749300020107278,
+          "lng": 4.14826445
+        }
+      },
+      "formatted_address": "Q522+22R, 232111, Awba-Mowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.75,4.149999999999999",
+      "google_place_id": "ChIJ1Zc-lUzfORARySvya63KfRQ"
+    }
   }
 ]

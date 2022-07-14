@@ -13,7 +13,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9475148,
+      "longitude": 5.0318187,
+      "viewport": {
+        "northeast": {
+          "lat": 7.948864629892722,
+          "lng": 5.033168529892722
+        },
+        "southwest": {
+          "lat": 7.946164970107279,
+          "lng": 5.030468870107278
+        }
+      },
+      "formatted_address": "W2XJ+2P4, 372103, ODO-OWA EKITI, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9475148,5.0318187",
+      "google_place_id": "ChIJd6bnrcPiNxARi9bJmGRH4T0"
+    }
   },
   {
     "id": "349799",
@@ -29,7 +46,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.950404099999998,
+      "longitude": 4.9864696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.951774579892722,
+          "lng": 4.987825079892721
+        },
+        "southwest": {
+          "lat": 7.949074920107278,
+          "lng": 4.985125420107277
+        }
+      },
+      "formatted_address": "XX2P+4JC, Balogun's Compound, Oke-Ila Orangun, Oke Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.950404099999998,4.9864696",
+      "google_place_id": "ChIJLV47T13jNxARfYpwpmYmwpk"
+    }
   },
   {
     "id": "349800",
@@ -45,7 +79,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.950404099999998,
+      "longitude": 4.9864696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.951774579892722,
+          "lng": 4.987825079892721
+        },
+        "southwest": {
+          "lat": 7.949074920107278,
+          "lng": 4.985125420107277
+        }
+      },
+      "formatted_address": "XX2P+4JC, Balogun's Compound, Oke-Ila Orangun, Oke Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.950404099999998,4.9864696",
+      "google_place_id": "ChIJLV47T13jNxARfYpwpmYmwpk"
+    }
   },
   {
     "id": "349801",
@@ -61,7 +112,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9232381,
+      "longitude": 4.672117099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.92455107989272,
+          "lng": 4.673441579892722
+        },
+        "southwest": {
+          "lat": 7.921851420107276,
+          "lng": 4.670741920107278
+        }
+      },
+      "formatted_address": "Off Ikirun - Ila Orangun Rd, 231111, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9232381,4.672117099999999",
+      "google_place_id": "ChIJWR-6gbSNNxAReamZxt6uSWk"
+    }
   },
   {
     "id": "349802",
@@ -77,6 +145,23 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9232381,
+      "longitude": 4.672117099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.92455107989272,
+          "lng": 4.673441579892722
+        },
+        "southwest": {
+          "lat": 7.921851420107276,
+          "lng": 4.670741920107278
+        }
+      },
+      "formatted_address": "Off Ikirun - Ila Orangun Rd, 231111, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9232381,4.672117099999999",
+      "google_place_id": "ChIJWR-6gbSNNxAReamZxt6uSWk"
+    }
   }
 ]

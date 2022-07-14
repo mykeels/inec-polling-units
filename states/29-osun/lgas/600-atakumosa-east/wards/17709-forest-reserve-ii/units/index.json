@@ -13,7 +13,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.506388299999999,
+      "longitude": 4.8264125,
+      "viewport": {
+        "northeast": {
+          "lat": 7.507741529892721,
+          "lng": 4.827769379892721
+        },
+        "southwest": {
+          "lat": 7.505041870107277,
+          "lng": 4.825069720107277
+        }
+      },
+      "formatted_address": "GR4G+HH2, 233113, Iperindo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.506388299999999,4.8264125",
+      "google_place_id": "ChIJQbc_flwROBARXWGN-g4_uYo"
+    }
   },
   {
     "id": "348601",
@@ -29,7 +46,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 5.5439377,
+      "longitude": 6.238906999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 5.545322129892721,
+          "lng": 6.240388629892721
+        },
+        "southwest": {
+          "lat": 5.542622470107277,
+          "lng": 6.237688970107278
+        }
+      },
+      "formatted_address": "G6VQ+HHF, Alaka Road, 334111, Ozoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=5.5439377,6.238906999999999",
+      "google_place_id": "ChIJyUgab62FQRARAQW7PPHjeQ4"
+    }
   },
   {
     "id": "348602",
@@ -45,7 +79,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5869747,
+      "longitude": 4.629449800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.587950429892723,
+          "lng": 4.630861429892722
+        },
+        "southwest": {
+          "lat": 7.585250770107279,
+          "lng": 4.628161770107278
+        }
+      },
+      "formatted_address": "Ife-Ilesa Expressway, 233105, Osu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5869747,4.629449800000001",
+      "google_place_id": "ChIJiwHrqrQkOBARgXtbfvrSPMI"
+    }
   },
   {
     "id": "348603",
@@ -61,7 +112,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348604",
@@ -77,7 +129,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348605",
@@ -93,6 +146,7 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.852705899999999,
+      "longitude": 4.378869799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.853852229892721,
+          "lng": 4.380241429892722
+        },
+        "southwest": {
+          "lat": 7.851152570107277,
+          "lng": 4.377541770107278
+        }
+      },
+      "formatted_address": "V93H+3GQ, 232109, Ara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.852705899999999,4.378869799999999",
+      "google_place_id": "ChIJW10GpbV4NxAR2NsIR_jFhN0"
+    }
   },
   {
     "id": "349349",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.852705899999999,
+      "longitude": 4.378869799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.853852229892721,
+          "lng": 4.380241429892722
+        },
+        "southwest": {
+          "lat": 7.851152570107277,
+          "lng": 4.377541770107278
+        }
+      },
+      "formatted_address": "V93H+3GQ, 232109, Ara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.852705899999999,4.378869799999999",
+      "google_place_id": "ChIJW10GpbV4NxAR2NsIR_jFhN0"
+    }
   },
   {
     "id": "349350",
@@ -45,7 +79,8 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349351",
@@ -61,7 +96,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.850693399999999,
+      "longitude": 4.3863471,
+      "viewport": {
+        "northeast": {
+          "lat": 7.852208979892722,
+          "lng": 4.387911129892722
+        },
+        "southwest": {
+          "lat": 7.849509320107278,
+          "lng": 4.385211470107278
+        }
+      },
+      "formatted_address": "V92P+7GH, 232109, Ara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.850693399999999,4.3863471",
+      "google_place_id": "ChIJV9QRvrJ4NxAR0p6IwIYN66A"
+    }
   },
   {
     "id": "349352",
@@ -77,7 +129,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.842169699999999,
+      "longitude": 4.3794799,
+      "viewport": {
+        "northeast": {
+          "lat": 7.843424329892721,
+          "lng": 4.381146329892721
+        },
+        "southwest": {
+          "lat": 7.840724670107277,
+          "lng": 4.378446670107278
+        }
+      },
+      "formatted_address": "232109, Aro Alara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.842169699999999,4.3794799",
+      "google_place_id": "ChIJjThgCEl_NxARnV1iMXCZs9k"
+    }
   },
   {
     "id": "349353",
@@ -93,6 +162,23 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.814403599999999,
+      "longitude": 4.5296205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.815883279892722,
+          "lng": 4.531113729892722
+        },
+        "southwest": {
+          "lat": 7.813183620107278,
+          "lng": 4.528414070107278
+        }
+      },
+      "formatted_address": "RG7H+PRM, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.814403599999999,4.5296205",
+      "google_place_id": "ChIJ0TYIZlCGNxARUO3Ru-5oBcM"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.8787711,
+      "longitude": 4.6925284,
+      "viewport": {
+        "northeast": {
+          "lat": 7.880349229892722,
+          "lng": 4.693870379892722
+        },
+        "southwest": {
+          "lat": 7.877649570107278,
+          "lng": 4.691170720107278
+        }
+      },
+      "formatted_address": "VMHV+G22, 231108, Ororuwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8787711,4.6925284",
+      "google_place_id": "ChIJhw7MeS-NNxAR6kzsF2IkxD4"
+    }
   },
   {
     "id": "349050",
@@ -29,7 +46,24 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.884254899999999,
+      "longitude": 4.691589599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.885583929892721,
+          "lng": 4.692951729892723
+        },
+        "southwest": {
+          "lat": 7.882884270107278,
+          "lng": 4.690252070107279
+        }
+      },
+      "formatted_address": "Shop 7 Ororuwo Market Shopping Complex Osun Poly Junction, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.884254899999999,4.691589599999999",
+      "google_place_id": "ChIJ7wfUmTyNNxAR-o03zHzkpN0"
+    }
   },
   {
     "id": "349051",
@@ -45,7 +79,24 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.896203499999999,
+      "longitude": 4.7079407,
+      "viewport": {
+        "northeast": {
+          "lat": 7.897500429892721,
+          "lng": 4.709272279892721
+        },
+        "southwest": {
+          "lat": 7.894800770107278,
+          "lng": 4.706572620107277
+        }
+      },
+      "formatted_address": "VPW5+F5P, 231108, Iragbiji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.896203499999999,4.7079407",
+      "google_place_id": "ChIJjeVCCSKNNxAR2EiqI5l1lys"
+    }
   },
   {
     "id": "349052",
@@ -61,7 +112,24 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.48943120000001,
+      "longitude": -80.4918288,
+      "viewport": {
+        "northeast": {
+          "lat": 43.49076972989272,
+          "lng": -80.49057622010727
+        },
+        "southwest": {
+          "lat": 43.48807007010728,
+          "lng": -80.49327587989272
+        }
+      },
+      "formatted_address": "425 University Ave E Unit D, Waterloo, ON N2K 4C9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.48943120000001,-80.4918288",
+      "google_place_id": "ChIJUQn2RTrzK4gR98bNarRK8kg"
+    }
   },
   {
     "id": "349053",
@@ -77,6 +145,23 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.935208099999999,
+      "longitude": 4.7303254,
+      "viewport": {
+        "northeast": {
+          "lat": 7.936581229892721,
+          "lng": 4.731683279892721
+        },
+        "southwest": {
+          "lat": 7.933881570107277,
+          "lng": 4.728983620107277
+        }
+      },
+      "formatted_address": "Ile ojomu,, ororuwo market, iragbiji, Ikirun - Ila Orangun Rd, Iree, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.935208099999999,4.7303254",
+      "google_place_id": "ChIJq_W8BoTtNxARZY0raDuelE8"
+    }
   }
 ]

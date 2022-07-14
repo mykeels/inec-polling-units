@@ -13,7 +13,8 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348662",
@@ -29,7 +30,8 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348663",
@@ -45,7 +47,8 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348664",
@@ -61,7 +64,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6168571,
+      "longitude": 4.3939398,
+      "viewport": {
+        "northeast": {
+          "lat": 7.618201,
+          "lng": 4.394824779892722
+        },
+        "southwest": {
+          "lat": 7.614032000000001,
+          "lng": 4.392125120107278
+        }
+      },
+      "formatted_address": "232101, Araromi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6168571,4.3939398",
+      "google_place_id": "ChIJZ2gh9MvSORAREQ03RlomKZQ"
+    }
   },
   {
     "id": "348665",
@@ -77,7 +97,8 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348666",
@@ -93,6 +114,7 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

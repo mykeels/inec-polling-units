@@ -13,7 +13,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.1521296,
+      "longitude": 4.7040877,
+      "viewport": {
+        "northeast": {
+          "lat": 8.153410529892723,
+          "lng": 4.705419479892723
+        },
+        "southwest": {
+          "lat": 8.150710870107279,
+          "lng": 4.702719820107279
+        }
+      },
+      "formatted_address": "5P23+VJ4, Igbonna Road, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1521296,4.7040877",
+      "google_place_id": "ChIJdxTyWwq_NxARkXxL1GR6qKM"
+    }
   },
   {
     "id": "350099",
@@ -29,7 +46,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.912812499999999,
+      "longitude": 4.6534375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914274379892722,
+          "lng": 4.654718829892722
+        },
+        "southwest": {
+          "lat": 7.911574720107279,
+          "lng": 4.652019170107279
+        }
+      },
+      "formatted_address": "WM73+49, Unnamed Road, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.912812499999999,4.6534375",
+      "google_place_id": "ChIJF4jmCWmNNxARZV04L3iArbU"
+    }
   },
   {
     "id": "350100",
@@ -45,7 +79,8 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350101",
@@ -61,7 +96,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.912812499999999,
+      "longitude": 4.6534375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914274379892722,
+          "lng": 4.654718829892722
+        },
+        "southwest": {
+          "lat": 7.911574720107279,
+          "lng": 4.652019170107279
+        }
+      },
+      "formatted_address": "WM73+49, Unnamed Road, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.912812499999999,4.6534375",
+      "google_place_id": "ChIJF4jmCWmNNxARZV04L3iArbU"
+    }
   },
   {
     "id": "350102",
@@ -77,7 +129,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.918145,
+      "longitude": 4.664486999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.919510579892722,
+          "lng": 4.665840629892722
+        },
+        "southwest": {
+          "lat": 7.916810920107278,
+          "lng": 4.663140970107278
+        }
+      },
+      "formatted_address": "WM97+7Q5, Ajasse Ipo - Offa, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.918145,4.664486999999999",
+      "google_place_id": "ChIJyWk1vuyNNxARL973msgulL8"
+    }
   },
   {
     "id": "350103",
@@ -93,7 +162,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.918145,
+      "longitude": 4.664486999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.919510579892722,
+          "lng": 4.665840629892722
+        },
+        "southwest": {
+          "lat": 7.916810920107278,
+          "lng": 4.663140970107278
+        }
+      },
+      "formatted_address": "WM97+7Q5, Ajasse Ipo - Offa, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.918145,4.664486999999999",
+      "google_place_id": "ChIJyWk1vuyNNxARL973msgulL8"
+    }
   },
   {
     "id": "350104",
@@ -109,7 +195,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9187843,
+      "longitude": 4.6563902,
+      "viewport": {
+        "northeast": {
+          "lat": 7.920128379892721,
+          "lng": 4.657775379892722
+        },
+        "southwest": {
+          "lat": 7.917428720107277,
+          "lng": 4.655075720107278
+        }
+      },
+      "formatted_address": "WM94+GG9, 231110, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9187843,4.6563902",
+      "google_place_id": "ChIJ9fYNbO-NNxAR2jVDd-UYohw"
+    }
   },
   {
     "id": "350105",
@@ -125,7 +228,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9473022,
+      "longitude": 4.663802899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.94865187989272,
+          "lng": 4.665213679892723
+        },
+        "southwest": {
+          "lat": 7.945952220107277,
+          "lng": 4.662514020107279
+        }
+      },
+      "formatted_address": "Ajasse Ipo - Osogbo Rd, 231110, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9473022,4.663802899999999",
+      "google_place_id": "ChIJ_zRkJeCTNxAR-B8VmBTjC5M"
+    }
   },
   {
     "id": "350106",
@@ -141,7 +261,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.8034053,
+      "longitude": 4.5952396,
+      "viewport": {
+        "northeast": {
+          "lat": 7.804863879892722,
+          "lng": 4.596564029892722
+        },
+        "southwest": {
+          "lat": 7.802164220107279,
+          "lng": 4.593864370107278
+        }
+      },
+      "formatted_address": "RH3W+939, Oke Odo Street, 231113, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8034053,4.5952396",
+      "google_place_id": "ChIJr0Aj2leINxARax7T1o4vfsM"
+    }
   },
   {
     "id": "350107",
@@ -157,7 +294,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.912812499999999,
+      "longitude": 4.6534375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914274379892722,
+          "lng": 4.654718829892722
+        },
+        "southwest": {
+          "lat": 7.911574720107279,
+          "lng": 4.652019170107279
+        }
+      },
+      "formatted_address": "WM73+49, Unnamed Road, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.912812499999999,4.6534375",
+      "google_place_id": "ChIJF4jmCWmNNxARZV04L3iArbU"
+    }
   },
   {
     "id": "350108",
@@ -173,7 +327,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.918425399999999,
+      "longitude": 4.665985399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.91973562989272,
+          "lng": 4.667261779892722
+        },
+        "southwest": {
+          "lat": 7.917035970107277,
+          "lng": 4.664562120107278
+        }
+      },
+      "formatted_address": "Ajasse Ipo - Osogbo Road Ikirun Motorpark, Lagos Garage, near Union Bank, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.918425399999999,4.665985399999999",
+      "google_place_id": "ChIJvRRVb7-NNxARdwxGbqoB4pA"
+    }
   },
   {
     "id": "350109",
@@ -189,7 +360,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.909713399999999,
+      "longitude": 4.6513253,
+      "viewport": {
+        "northeast": {
+          "lat": 7.911072179892721,
+          "lng": 4.652564129892722
+        },
+        "southwest": {
+          "lat": 7.908372520107277,
+          "lng": 4.649864470107278
+        }
+      },
+      "formatted_address": "behind Ikirun, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.909713399999999,4.6513253",
+      "google_place_id": "ChIJfxYST3iNNxARHHzp8W7FnzU"
+    }
   },
   {
     "id": "350110",
@@ -205,7 +393,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.912812499999999,
+      "longitude": 4.6534375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914274379892722,
+          "lng": 4.654718829892722
+        },
+        "southwest": {
+          "lat": 7.911574720107279,
+          "lng": 4.652019170107279
+        }
+      },
+      "formatted_address": "WM73+49, Unnamed Road, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.912812499999999,4.6534375",
+      "google_place_id": "ChIJF4jmCWmNNxARZV04L3iArbU"
+    }
   },
   {
     "id": "350111",
@@ -221,7 +426,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.912812499999999,
+      "longitude": 4.6534375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914274379892722,
+          "lng": 4.654718829892722
+        },
+        "southwest": {
+          "lat": 7.911574720107279,
+          "lng": 4.652019170107279
+        }
+      },
+      "formatted_address": "WM73+49, Unnamed Road, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.912812499999999,4.6534375",
+      "google_place_id": "ChIJF4jmCWmNNxARZV04L3iArbU"
+    }
   },
   {
     "id": "350112",
@@ -237,7 +459,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9024971,
+      "longitude": 4.6685337,
+      "viewport": {
+        "northeast": {
+          "lat": 7.904059679892722,
+          "lng": 4.669770029892722
+        },
+        "southwest": {
+          "lat": 7.901360020107278,
+          "lng": 4.667070370107278
+        }
+      },
+      "formatted_address": "WM29+XCV, Unnamed Road, 231114, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9024971,4.6685337",
+      "google_place_id": "ChIJl4yXYNuNNxAROLjkE4xc_co"
+    }
   },
   {
     "id": "350113",
@@ -253,7 +492,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.912812499999999,
+      "longitude": 4.6534375,
+      "viewport": {
+        "northeast": {
+          "lat": 7.914274379892722,
+          "lng": 4.654718829892722
+        },
+        "southwest": {
+          "lat": 7.911574720107279,
+          "lng": 4.652019170107279
+        }
+      },
+      "formatted_address": "WM73+49, Unnamed Road, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.912812499999999,4.6534375",
+      "google_place_id": "ChIJF4jmCWmNNxARZV04L3iArbU"
+    }
   },
   {
     "id": "350114",
@@ -269,7 +525,24 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9473022,
+      "longitude": 4.663802899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.94865187989272,
+          "lng": 4.665213679892723
+        },
+        "southwest": {
+          "lat": 7.945952220107277,
+          "lng": 4.662514020107279
+        }
+      },
+      "formatted_address": "Ajasse Ipo - Osogbo Rd, 231110, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9473022,4.663802899999999",
+      "google_place_id": "ChIJ_zRkJeCTNxAR-B8VmBTjC5M"
+    }
   },
   {
     "id": "350115",
@@ -285,6 +558,23 @@
     "local_government_id": "772",
     "local_government_name": "IFELODUN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.909713399999999,
+      "longitude": 4.6513253,
+      "viewport": {
+        "northeast": {
+          "lat": 7.911072179892721,
+          "lng": 4.652564129892722
+        },
+        "southwest": {
+          "lat": 7.908372520107277,
+          "lng": 4.649864470107278
+        }
+      },
+      "formatted_address": "behind Ikirun, 231115, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.909713399999999,4.6513253",
+      "google_place_id": "ChIJfxYST3iNNxARHHzp8W7FnzU"
+    }
   }
 ]

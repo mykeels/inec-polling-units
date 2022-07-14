@@ -13,7 +13,8 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350686",
@@ -29,7 +30,24 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.631455799999999,
+      "longitude": 4.7432336,
+      "viewport": {
+        "northeast": {
+          "lat": 7.63280562989272,
+          "lng": 4.744583429892721
+        },
+        "southwest": {
+          "lat": 7.630105970107276,
+          "lng": 4.741883770107277
+        }
+      },
+      "formatted_address": "Ibosinni Street, 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.631455799999999,4.7432336",
+      "google_place_id": "ChIJ_w561YsYOBAR_nGwq2wor10"
+    }
   },
   {
     "id": "350687",
@@ -45,7 +63,24 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6253395,
+      "longitude": 4.7412722,
+      "viewport": {
+        "northeast": {
+          "lat": 7.626750779892722,
+          "lng": 4.742637529892721
+        },
+        "southwest": {
+          "lat": 7.624051120107278,
+          "lng": 4.739937870107277
+        }
+      },
+      "formatted_address": "JPGR+4GJ, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6253395,4.7412722",
+      "google_place_id": "ChIJGfOgNr8ZOBARLfzVtbSWm6A"
+    }
   },
   {
     "id": "350688",
@@ -61,7 +96,8 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350689",
@@ -77,7 +113,24 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.626518,
+      "longitude": 4.7408836,
+      "viewport": {
+        "northeast": {
+          "lat": 7.627872479892722,
+          "lng": 4.742197579892721
+        },
+        "southwest": {
+          "lat": 7.625172820107278,
+          "lng": 4.739497920107278
+        }
+      },
+      "formatted_address": "JPGR+J92, Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.626518,4.7408836",
+      "google_place_id": "ChIJ4ywWVGIYOBARoM9aw0N5HeU"
+    }
   },
   {
     "id": "350690",
@@ -93,7 +146,24 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.647514099999999,
+      "longitude": 4.7416865,
+      "viewport": {
+        "northeast": {
+          "lat": 7.648809579892723,
+          "lng": 4.743002929892722
+        },
+        "southwest": {
+          "lat": 7.646109920107279,
+          "lng": 4.740303270107278
+        }
+      },
+      "formatted_address": "JPXR+2MQ, Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.647514099999999,4.7416865",
+      "google_place_id": "ChIJcSUBmJcYOBARKv6DUCAenZI"
+    }
   },
   {
     "id": "350691",
@@ -109,7 +179,24 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6323931,
+      "longitude": 4.7407068,
+      "viewport": {
+        "northeast": {
+          "lat": 7.633742929892722,
+          "lng": 4.742056629892722
+        },
+        "southwest": {
+          "lat": 7.631043270107278,
+          "lng": 4.739356970107278
+        }
+      },
+      "formatted_address": "Igbogi Street, 233285, Ilerin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6323931,4.7407068",
+      "google_place_id": "ChIJAyCu_I4YOBAR7a17zmRuGck"
+    }
   },
   {
     "id": "350692",
@@ -125,6 +212,7 @@
     "local_government_id": "617",
     "local_government_name": "ILESA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

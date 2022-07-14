@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.808529800000001,
+      "longitude": 4.4262325,
+      "viewport": {
+        "northeast": {
+          "lat": 7.809938129892723,
+          "lng": 4.427731029892723
+        },
+        "southwest": {
+          "lat": 7.807238470107279,
+          "lng": 4.425031370107279
+        }
+      },
+      "formatted_address": "Baptist day school, Ara,Osun State, 232109, Ojo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.808529800000001,4.4262325",
+      "google_place_id": "ChIJyQwhVLKBNxART49_PYlS2G0"
+    }
   },
   {
     "id": "349342",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.767867099999999,
+      "longitude": 4.4027782,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830655999999999,
+          "lng": 4.4374246
+        },
+        "southwest": {
+          "lat": 7.734494900000001,
+          "lng": 4.367014999999999
+        }
+      },
+      "formatted_address": "Awo/Abudo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.767867099999999,4.4027782",
+      "google_place_id": "ChIJGTwNNx-ANxARn2MbSxPQtLs"
+    }
   },
   {
     "id": "349343",
@@ -45,7 +79,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.8158215,
+      "longitude": 4.4026175,
+      "viewport": {
+        "northeast": {
+          "lat": 7.817314729892722,
+          "lng": 4.403733379892722
+        },
+        "southwest": {
+          "lat": 7.814615070107278,
+          "lng": 4.401033720107278
+        }
+      },
+      "formatted_address": "232105, Abudo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8158215,4.4026175",
+      "google_place_id": "ChIJB-8YTteBNxARSHphdXrm2u4"
+    }
   },
   {
     "id": "349344",
@@ -61,7 +112,8 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349345",
@@ -77,7 +129,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.767867099999999,
+      "longitude": 4.4027782,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830655999999999,
+          "lng": 4.4374246
+        },
+        "southwest": {
+          "lat": 7.734494900000001,
+          "lng": 4.367014999999999
+        }
+      },
+      "formatted_address": "Awo/Abudo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.767867099999999,4.4027782",
+      "google_place_id": "ChIJGTwNNx-ANxARn2MbSxPQtLs"
+    }
   },
   {
     "id": "349346",
@@ -93,7 +162,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.466711399999999,
+      "longitude": 4.3499314,
+      "viewport": {
+        "northeast": {
+          "lat": 7.468089879892721,
+          "lng": 4.351210979892722
+        },
+        "southwest": {
+          "lat": 7.465390220107277,
+          "lng": 4.348511320107278
+        }
+      },
+      "formatted_address": "F88X+MX8, Chief Abiola Morakinyo Avenue, Oke-elu, Gbongan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.466711399999999,4.3499314",
+      "google_place_id": "ChIJDXihla7LORARPyaM-0z9vDw"
+    }
   },
   {
     "id": "349347",
@@ -109,6 +195,23 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.659125,
+      "longitude": 4.918975,
+      "viewport": {
+        "northeast": {
+          "lat": 7.66047517989272,
+          "lng": 4.920317479892722
+        },
+        "southwest": {
+          "lat": 7.657775520107276,
+          "lng": 4.917617820107278
+        }
+      },
+      "formatted_address": "Efon Alaaye, Road, Alaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.659125,4.918975",
+      "google_place_id": "ChIJIZrWGG4FOBAR-AcDXK7L86Q"
+    }
   }
 ]

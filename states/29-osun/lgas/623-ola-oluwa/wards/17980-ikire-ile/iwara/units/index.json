@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.605370199999999,
+      "longitude": 4.1894217,
+      "viewport": {
+        "northeast": {
+          "lat": 7.60672787989272,
+          "lng": 4.190783629892722
+        },
+        "southwest": {
+          "lat": 7.604028220107276,
+          "lng": 4.188083970107278
+        }
+      },
+      "formatted_address": "J54Q+4Q6, 232015, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.605370199999999,4.1894217",
+      "google_place_id": "ChIJkZhoeijbORARNTRthORNqA8"
+    }
   },
   {
     "id": "351586",
@@ -29,7 +46,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7100698,
+      "longitude": 4.2230836,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7574503,
+          "lng": 4.3011263
+        },
+        "southwest": {
+          "lat": 7.685617799999999,
+          "lng": 4.186477
+        }
+      },
+      "formatted_address": "Ikire Ile/Iwara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7100698,4.2230836",
+      "google_place_id": "ChIJxa-zTZ3XORARVYdHYAjU_kk"
+    }
   },
   {
     "id": "351587",
@@ -45,7 +79,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7100698,
+      "longitude": 4.2230836,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7574503,
+          "lng": 4.3011263
+        },
+        "southwest": {
+          "lat": 7.685617799999999,
+          "lng": 4.186477
+        }
+      },
+      "formatted_address": "Ikire Ile/Iwara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7100698,4.2230836",
+      "google_place_id": "ChIJxa-zTZ3XORARVYdHYAjU_kk"
+    }
   },
   {
     "id": "351588",
@@ -61,7 +112,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351589",
@@ -77,7 +129,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.714587499999999,
+      "longitude": 4.2112324,
+      "viewport": {
+        "northeast": {
+          "lat": 7.717057,
+          "lng": 4.213222
+        },
+        "southwest": {
+          "lat": 7.712275,
+          "lng": 4.2094469
+        }
+      },
+      "formatted_address": "232108, Amere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.714587499999999,4.2112324",
+      "google_place_id": "ChIJz_JpbLbZORARPdtTzNqc6SU"
+    }
   },
   {
     "id": "351590",
@@ -93,6 +162,23 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.647647000000001,
+      "longitude": 4.1879051,
+      "viewport": {
+        "northeast": {
+          "lat": 7.649019079892723,
+          "lng": 4.189096279892722
+        },
+        "southwest": {
+          "lat": 7.646319420107279,
+          "lng": 4.186396620107279
+        }
+      },
+      "formatted_address": "J5XQ+352, Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.647647000000001,4.1879051",
+      "google_place_id": "ChIJeXKWMLLbORAR0t9aER18V98"
+    }
   }
 ]

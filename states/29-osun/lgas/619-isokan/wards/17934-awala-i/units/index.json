@@ -13,7 +13,8 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351159",
@@ -29,7 +30,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.2534071,
+      "longitude": 4.2413627,
+      "viewport": {
+        "northeast": {
+          "lat": 7.254693479892722,
+          "lng": 4.242671029892722
+        },
+        "southwest": {
+          "lat": 7.251993820107278,
+          "lng": 4.239971370107278
+        }
+      },
+      "formatted_address": "763R+9G9, 221106, Afolu Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2534071,4.2413627",
+      "google_place_id": "ChIJv9se_ASwORARB55M6pxfZ6M"
+    }
   },
   {
     "id": "351160",
@@ -45,7 +63,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.781082,
+      "longitude": 4.725283999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.782374129892723,
+          "lng": 4.726733979892722
+        },
+        "southwest": {
+          "lat": 7.779674470107279,
+          "lng": 4.724034320107278
+        }
+      },
+      "formatted_address": "QPJG+C4M, 233122, Ibokun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.781082,4.725283999999999",
+      "google_place_id": "ChIJy7s8h8qKNxARSaTRFLNfgHQ"
+    }
   },
   {
     "id": "351161",
@@ -61,7 +96,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3484488,
+      "longitude": 4.1871735,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349787529892722,
+          "lng": 4.188535329892722
+        },
+        "southwest": {
+          "lat": 7.347087870107278,
+          "lng": 4.185835670107278
+        }
+      },
+      "formatted_address": "Arikoko Area, 221105, Apomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3484488,4.1871735",
+      "google_place_id": "ChIJkwh7ZQq5ORARWxNCXL02EdQ"
+    }
   },
   {
     "id": "351162",
@@ -77,7 +129,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.186583,
+      "longitude": 4.247358,
+      "viewport": {
+        "northeast": {
+          "lat": 7.187496579892721,
+          "lng": 4.249107279892723
+        },
+        "southwest": {
+          "lat": 7.184796920107277,
+          "lng": 4.246407620107279
+        }
+      },
+      "formatted_address": "56PW+JWQ, 221102, Okodowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.186583,4.247358",
+      "google_place_id": "ChIJR11kym6vORARXjTBBha0wGs"
+    }
   },
   {
     "id": "351163",
@@ -93,7 +162,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.2022656,
+      "longitude": 4.2743628,
+      "viewport": {
+        "northeast": {
+          "lat": 7.20361542989272,
+          "lng": 4.275712629892721
+        },
+        "southwest": {
+          "lat": 7.200915770107276,
+          "lng": 4.273012970107278
+        }
+      },
+      "formatted_address": "1 Kayvia Avenue Ayedaade South, 023468, Orile Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2022656,4.2743628",
+      "google_place_id": "ChIJL2809TGvORARmBkDDqmJ1tI"
+    }
   },
   {
     "id": "351164",
@@ -109,6 +195,7 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

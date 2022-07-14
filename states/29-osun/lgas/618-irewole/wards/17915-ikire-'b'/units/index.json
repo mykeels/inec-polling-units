@@ -13,7 +13,24 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3700193,
+      "longitude": 4.187200799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371417179892723,
+          "lng": 4.188579779892721
+        },
+        "southwest": {
+          "lat": 7.368717520107279,
+          "lng": 4.185880120107277
+        }
+      },
+      "formatted_address": "Old Ife Rd, 221104, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3700193,4.187200799999999",
+      "google_place_id": "ChIJDZYXNa65ORARN4Savvk9CPA"
+    }
   },
   {
     "id": "350951",
@@ -29,7 +46,24 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6292935,
+      "longitude": 4.184563499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630680379892724,
+          "lng": 4.185971379892722
+        },
+        "southwest": {
+          "lat": 7.62798072010728,
+          "lng": 4.183271720107278
+        }
+      },
+      "formatted_address": "J5HM+PR2, Ikire - Iwo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6292935,4.184563499999999",
+      "google_place_id": "ChIJ2_99fwbbORARIZQaMBVC8Sk"
+    }
   },
   {
     "id": "350952",
@@ -45,7 +79,8 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350953",
@@ -61,7 +96,24 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3748497,
+      "longitude": 4.1758332,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376177779892721,
+          "lng": 4.177189129892723
+        },
+        "southwest": {
+          "lat": 7.373478120107277,
+          "lng": 4.174489470107279
+        }
+      },
+      "formatted_address": "95FG+W8P, 221104, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3748497,4.1758332",
+      "google_place_id": "ChIJfdGmLh65ORARejnJJdzN1vY"
+    }
   },
   {
     "id": "350954",
@@ -77,7 +129,24 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3798394,
+      "longitude": 4.1832283,
+      "viewport": {
+        "northeast": {
+          "lat": 7.381200279892721,
+          "lng": 4.184500129892722
+        },
+        "southwest": {
+          "lat": 7.378500620107277,
+          "lng": 4.181800470107278
+        }
+      },
+      "formatted_address": "95HM+W7Q, Oriolori Junction, Ibadan-Ife Expressway, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3798394,4.1832283",
+      "google_place_id": "ChIJlyozvPy4ORARkPUmm2qx7zE"
+    }
   },
   {
     "id": "350955",
@@ -93,7 +162,8 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350956",
@@ -109,6 +179,23 @@
     "local_government_id": "618",
     "local_government_name": "IREWOLE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3700193,
+      "longitude": 4.187200799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371417179892723,
+          "lng": 4.188579779892721
+        },
+        "southwest": {
+          "lat": 7.368717520107279,
+          "lng": 4.185880120107277
+        }
+      },
+      "formatted_address": "Old Ife Rd, 221104, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3700193,4.187200799999999",
+      "google_place_id": "ChIJDZYXNa65ORARN4Savvk9CPA"
+    }
   }
 ]

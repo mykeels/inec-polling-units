@@ -13,7 +13,8 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348747",
@@ -29,7 +30,8 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348748",
@@ -45,7 +47,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.540581,
+      "longitude": 4.402803899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541755179892722,
+          "lng": 4.404138179892722
+        },
+        "southwest": {
+          "lat": 7.539055520107278,
+          "lng": 4.401438520107278
+        }
+      },
+      "formatted_address": "3 Oke Eso St, 233111, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.540581,4.402803899999999",
+      "google_place_id": "ChIJLYsQrBEzOBARu9h2-PgYCKI"
+    }
   },
   {
     "id": "348749",
@@ -61,7 +80,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.540581,
+      "longitude": 4.402803899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541755179892722,
+          "lng": 4.404138179892722
+        },
+        "southwest": {
+          "lat": 7.539055520107278,
+          "lng": 4.401438520107278
+        }
+      },
+      "formatted_address": "3 Oke Eso St, 233111, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.540581,4.402803899999999",
+      "google_place_id": "ChIJLYsQrBEzOBARu9h2-PgYCKI"
+    }
   },
   {
     "id": "348750",
@@ -77,7 +113,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4804486,
+      "longitude": 4.5720696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.481815679892724,
+          "lng": 4.573336229892722
+        },
+        "southwest": {
+          "lat": 7.47911602010728,
+          "lng": 4.570636570107278
+        }
+      },
+      "formatted_address": "FHJC+5QP, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4804486,4.5720696",
+      "google_place_id": "ChIJY_nG5-c5OBAR4Rjbvo1v9Yg"
+    }
   },
   {
     "id": "348751",
@@ -93,7 +146,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5412481,
+      "longitude": 4.3864552,
+      "viewport": {
+        "northeast": {
+          "lat": 7.542594279892723,
+          "lng": 4.387827429892722
+        },
+        "southwest": {
+          "lat": 7.53989462010728,
+          "lng": 4.385127770107278
+        }
+      },
+      "formatted_address": "G9RP+FH, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5412481,4.3864552",
+      "google_place_id": "ChIJ64y35_vNORARawQfk8czg1Y"
+    }
   },
   {
     "id": "348752",
@@ -109,7 +179,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.530083999999999,
+      "longitude": 4.3719303,
+      "viewport": {
+        "northeast": {
+          "lat": 7.5649915,
+          "lng": 4.401339
+        },
+        "southwest": {
+          "lat": 7.502634,
+          "lng": 4.3535606
+        }
+      },
+      "formatted_address": "Ijegbe/Oke-Eso/Oke-Owu Ijugbe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.530083999999999,4.3719303",
+      "google_place_id": "ChIJwchGmcLMORARds7a5IQcEmo"
+    }
   },
   {
     "id": "348753",
@@ -125,7 +212,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.829650000000001,
+      "longitude": 4.097664,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830793779892724,
+          "lng": 4.098904679892721
+        },
+        "southwest": {
+          "lat": 7.82809412010728,
+          "lng": 4.096205020107277
+        }
+      },
+      "formatted_address": "Ife Odan Rd, 232119, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.829650000000001,4.097664",
+      "google_place_id": "ChIJpX8AGEthNxARx-KfTDuxis0"
+    }
   },
   {
     "id": "348754",
@@ -141,7 +245,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.829650000000001,
+      "longitude": 4.097664,
+      "viewport": {
+        "northeast": {
+          "lat": 7.830793779892724,
+          "lng": 4.098904679892721
+        },
+        "southwest": {
+          "lat": 7.82809412010728,
+          "lng": 4.096205020107277
+        }
+      },
+      "formatted_address": "Ife Odan Rd, 232119, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.829650000000001,4.097664",
+      "google_place_id": "ChIJpX8AGEthNxARx-KfTDuxis0"
+    }
   },
   {
     "id": "348755",
@@ -157,7 +278,8 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348756",
@@ -173,7 +295,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5327343,
+      "longitude": 4.420481,
+      "viewport": {
+        "northeast": {
+          "lat": 7.534079529892721,
+          "lng": 4.421799429892721
+        },
+        "southwest": {
+          "lat": 7.531379870107277,
+          "lng": 4.419099770107278
+        }
+      },
+      "formatted_address": "Ile Osoaro, Ode Omu Rd, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5327343,4.420481",
+      "google_place_id": "ChIJL15E-P4zOBARLU251Dg5pWA"
+    }
   },
   {
     "id": "348757",
@@ -189,7 +328,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5393623,
+      "longitude": 4.3960827,
+      "viewport": {
+        "northeast": {
+          "lat": 7.540670329892722,
+          "lng": 4.397436429892721
+        },
+        "southwest": {
+          "lat": 7.537970670107279,
+          "lng": 4.394736770107277
+        }
+      },
+      "formatted_address": "G9QW+QC8, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5393623,4.3960827",
+      "google_place_id": "ChIJnw0sftHMORARPzpLTfzvv0E"
+    }
   },
   {
     "id": "348758",
@@ -205,7 +361,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.553431600000001,
+      "longitude": 3.804642,
+      "viewport": {
+        "northeast": {
+          "lat": 7.555202,
+          "lng": 3.8082691
+        },
+        "southwest": {
+          "lat": 7.552145999999999,
+          "lng": 3.803824
+        }
+      },
+      "formatted_address": "Ketu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.553431600000001,3.804642",
+      "google_place_id": "ChIJid7JSCD3ORAR41c3w1dPbrk"
+    }
   },
   {
     "id": "348759",
@@ -221,7 +394,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5393623,
+      "longitude": 4.3960827,
+      "viewport": {
+        "northeast": {
+          "lat": 7.540670329892722,
+          "lng": 4.397436429892721
+        },
+        "southwest": {
+          "lat": 7.537970670107279,
+          "lng": 4.394736770107277
+        }
+      },
+      "formatted_address": "G9QW+QC8, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5393623,4.3960827",
+      "google_place_id": "ChIJnw0sftHMORARPzpLTfzvv0E"
+    }
   },
   {
     "id": "348760",
@@ -237,7 +427,8 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348761",
@@ -253,7 +444,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.540581,
+      "longitude": 4.402803899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.541930829892721,
+          "lng": 4.404153729892721
+        },
+        "southwest": {
+          "lat": 7.539231170107278,
+          "lng": 4.401454070107278
+        }
+      },
+      "formatted_address": "local government, 39 OKE ODO MUNI ODEOMU, 221102, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.540581,4.402803899999999",
+      "google_place_id": "ChIJDXpgeF_NORARAq9R8qGwI-4"
+    }
   },
   {
     "id": "348762",
@@ -269,7 +477,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.535018999999999,
+      "longitude": 4.413899799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.536367429892723,
+          "lng": 4.415270129892721
+        },
+        "southwest": {
+          "lat": 7.533667770107279,
+          "lng": 4.412570470107277
+        }
+      },
+      "formatted_address": "GCP7+2H2, Road, 220104, Ode Omu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.535018999999999,4.413899799999999",
+      "google_place_id": "ChIJ6fqi4rgzOBAROjTpJtcYPhY"
+    }
   },
   {
     "id": "348763",
@@ -285,6 +510,23 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.720485800000001,
+      "longitude": 4.4486831,
+      "viewport": {
+        "northeast": {
+          "lat": 7.721798979892721,
+          "lng": 4.450000279892722
+        },
+        "southwest": {
+          "lat": 7.719099320107278,
+          "lng": 4.447300620107278
+        }
+      },
+      "formatted_address": "PCCX+5FV, 232101, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.720485800000001,4.4486831",
+      "google_place_id": "ChIJYU3AjFIqOBARzMhvHEzmIdo"
+    }
   }
 ]

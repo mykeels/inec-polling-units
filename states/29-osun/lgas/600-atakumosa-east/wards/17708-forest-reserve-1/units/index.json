@@ -13,7 +13,24 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6538301,
+      "longitude": 4.8330188,
+      "viewport": {
+        "northeast": {
+          "lat": 7.655143679892722,
+          "lng": 4.834461979892722
+        },
+        "southwest": {
+          "lat": 7.652444020107279,
+          "lng": 4.831762320107278
+        }
+      },
+      "formatted_address": "MR3M+G6J, 233116, Ijeda Ijesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6538301,4.8330188",
+      "google_place_id": "ChIJlb0enZQbOBAR_VjfwIeBmDA"
+    }
   },
   {
     "id": "348594",
@@ -29,7 +46,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348595",
@@ -45,7 +63,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348596",
@@ -61,7 +80,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348597",
@@ -77,7 +97,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348598",
@@ -93,7 +114,8 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348599",
@@ -109,6 +131,7 @@
     "local_government_id": "600",
     "local_government_name": "ATAKUMOSA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

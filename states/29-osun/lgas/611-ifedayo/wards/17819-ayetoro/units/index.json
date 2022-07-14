@@ -13,7 +13,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.953544099999999,
+      "longitude": 5.2362543,
+      "viewport": {
+        "northeast": {
+          "lat": 7.954923329892722,
+          "lng": 5.237525979892723
+        },
+        "southwest": {
+          "lat": 7.952223670107278,
+          "lng": 5.234826320107279
+        }
+      },
+      "formatted_address": "St Johns Primary School, 360103, Iye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.953544099999999,5.2362543",
+      "google_place_id": "ChIJU1uRHXIQSBARfq5KLhmrxVw"
+    }
   },
   {
     "id": "349788",
@@ -29,7 +46,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.886582199999999,
+      "longitude": 4.8899208,
+      "viewport": {
+        "northeast": {
+          "lat": 7.887923029892722,
+          "lng": 4.89105042989272
+        },
+        "southwest": {
+          "lat": 7.885223370107278,
+          "lng": 4.888350770107277
+        }
+      },
+      "formatted_address": "VVPQ+MXQ, ogbonila edemosi, 234101, Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.886582199999999,4.8899208",
+      "google_place_id": "ChIJLaqHmYDwNxARjJYLyedV_N4"
+    }
   },
   {
     "id": "349789",
@@ -45,7 +79,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7808645,
+      "longitude": 4.5640294,
+      "viewport": {
+        "northeast": {
+          "lat": 7.783151699999998,
+          "lng": 4.565609929892723
+        },
+        "southwest": {
+          "lat": 7.7801021,
+          "lng": 4.562910270107279
+        }
+      },
+      "formatted_address": "QHJ7+8JR Orita, 230103, Òṣogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7808645,4.5640294",
+      "google_place_id": "ChIJ_Svz0AqINxARKTHRwKL_iAI"
+    }
   },
   {
     "id": "349790",
@@ -61,7 +112,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.467299,
+      "longitude": -80.52329800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46868722989272,
+          "lng": -80.52178887010727
+        },
+        "southwest": {
+          "lat": 43.46598757010727,
+          "lng": -80.52448852989272
+        }
+      },
+      "formatted_address": "71 King St N, Waterloo, ON N2J 2X2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.467299,-80.52329800000001",
+      "google_place_id": "ChIJmd9ZziP1K4gRijXWDeYBaag"
+    }
   },
   {
     "id": "349791",
@@ -77,7 +145,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.964827799999999,
+      "longitude": 5.0031228,
+      "viewport": {
+        "northeast": {
+          "lat": 7.966349029892722,
+          "lng": 5.004483229892722
+        },
+        "southwest": {
+          "lat": 7.963649370107278,
+          "lng": 5.001783570107278
+        }
+      },
+      "formatted_address": "234102, Oke Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.964827799999999,5.0031228",
+      "google_place_id": "ChIJ_QC0rlPjNxARWeKji4x26BI"
+    }
   },
   {
     "id": "349792",
@@ -93,6 +178,23 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.1372043,
+      "longitude": 4.3359635,
+      "viewport": {
+        "northeast": {
+          "lat": 7.214711200000001,
+          "lng": 4.3964228
+        },
+        "southwest": {
+          "lat": 7.059700899999999,
+          "lng": 4.2674067
+        }
+      },
+      "formatted_address": "Araromi-Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1372043,4.3359635",
+      "google_place_id": "ChIJdWvQ4cGrORARqfZTf4lApvM"
+    }
   }
 ]

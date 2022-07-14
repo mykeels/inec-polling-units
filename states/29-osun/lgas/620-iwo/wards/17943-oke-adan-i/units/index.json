@@ -13,7 +13,8 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351249",
@@ -29,7 +30,8 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351250",
@@ -45,7 +47,8 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351251",
@@ -61,7 +64,24 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6465162,
+      "longitude": 4.1867991,
+      "viewport": {
+        "northeast": {
+          "lat": 7.647822779892721,
+          "lng": 4.188454129892722
+        },
+        "southwest": {
+          "lat": 7.645123120107277,
+          "lng": 4.185754470107278
+        }
+      },
+      "formatted_address": "J5WP+JP3, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6465162,4.1867991",
+      "google_place_id": "ChIJP3noNlLbORARD7HF9a07PMA"
+    }
   },
   {
     "id": "351252",
@@ -77,7 +97,24 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6465162,
+      "longitude": 4.1867991,
+      "viewport": {
+        "northeast": {
+          "lat": 7.647822779892721,
+          "lng": 4.188454129892722
+        },
+        "southwest": {
+          "lat": 7.645123120107277,
+          "lng": 4.185754470107278
+        }
+      },
+      "formatted_address": "J5WP+JP3, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6465162,4.1867991",
+      "google_place_id": "ChIJP3noNlLbORARD7HF9a07PMA"
+    }
   },
   {
     "id": "351253",
@@ -93,7 +130,24 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6335105,
+      "longitude": 4.179916599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.634966829892721,
+          "lng": 4.181452479892721
+        },
+        "southwest": {
+          "lat": 7.632267170107277,
+          "lng": 4.178752820107277
+        }
+      },
+      "formatted_address": "J5MH+CX8, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6335105,4.179916599999999",
+      "google_place_id": "ChIJW_DBeLDbORARwahw-HVaGCw"
+    }
   },
   {
     "id": "351254",
@@ -109,7 +163,24 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6335105,
+      "longitude": 4.179916599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.634966829892721,
+          "lng": 4.181452479892721
+        },
+        "southwest": {
+          "lat": 7.632267170107277,
+          "lng": 4.178752820107277
+        }
+      },
+      "formatted_address": "J5MH+CX8, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6335105,4.179916599999999",
+      "google_place_id": "ChIJW_DBeLDbORARwahw-HVaGCw"
+    }
   },
   {
     "id": "351255",
@@ -125,6 +196,23 @@
     "local_government_id": "620",
     "local_government_name": "IWO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6465162,
+      "longitude": 4.1867991,
+      "viewport": {
+        "northeast": {
+          "lat": 7.647822779892721,
+          "lng": 4.188454129892722
+        },
+        "southwest": {
+          "lat": 7.645123120107277,
+          "lng": 4.185754470107278
+        }
+      },
+      "formatted_address": "J5WP+JP3, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6465162,4.1867991",
+      "google_place_id": "ChIJP3noNlLbORARD7HF9a07PMA"
+    }
   }
 ]

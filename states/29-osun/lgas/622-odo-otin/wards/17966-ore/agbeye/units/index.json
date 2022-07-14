@@ -13,7 +13,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7738241,
+      "longitude": 4.5895182,
+      "viewport": {
+        "northeast": {
+          "lat": 7.775398429892721,
+          "lng": 4.590727829892723
+        },
+        "southwest": {
+          "lat": 7.772698770107278,
+          "lng": 4.588028170107279
+        }
+      },
+      "formatted_address": "Ibokun-Osogbo Rd, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7738241,4.5895182",
+      "google_place_id": "ChIJV6M5xzmJNxARPB2jFKftKh8"
+    }
   },
   {
     "id": "351483",
@@ -29,7 +46,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.963227999999999,
+      "longitude": 4.566663999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.96457252989272,
+          "lng": 4.568029529892722
+        },
+        "southwest": {
+          "lat": 7.961872870107277,
+          "lng": 4.565329870107278
+        }
+      },
+      "formatted_address": "Ogbomosho - Ikirun Rd, 231103, Ore, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.963227999999999,4.566663999999999",
+      "google_place_id": "ChIJ3aYPxHaQNxARN7yIRnFWqQ4"
+    }
   },
   {
     "id": "351484",
@@ -45,7 +79,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0372706,
+      "longitude": 4.5985613,
+      "viewport": {
+        "northeast": {
+          "lat": 8.038620429892722,
+          "lng": 4.599911129892723
+        },
+        "southwest": {
+          "lat": 8.035920770107278,
+          "lng": 4.597211470107279
+        }
+      },
+      "formatted_address": "2HPX+WC3, Ekosin road Agbeye, Okua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0372706,4.5985613",
+      "google_place_id": "ChIJ28G_d56XNxARq2R6l1pd4l0"
+    }
   },
   {
     "id": "351485",
@@ -61,7 +112,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.035753999999999,
+      "longitude": 4.647124799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.037156229892721,
+          "lng": 4.648453229892723
+        },
+        "southwest": {
+          "lat": 8.034456570107277,
+          "lng": 4.645753570107279
+        }
+      },
+      "formatted_address": "2JPW+7RX, 231102, Igbaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.035753999999999,4.647124799999999",
+      "google_place_id": "ChIJAS-kxh2UNxARa1u1dFY7HuI"
+    }
   },
   {
     "id": "351486",
@@ -77,7 +145,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.859370500000001,
+      "longitude": 4.469676499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.893649099999999,
+          "lng": 4.4982148
+        },
+        "southwest": {
+          "lat": 7.832091900000001,
+          "lng": 4.453926099999999
+        }
+      },
+      "formatted_address": "Ifon-Osun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.859370500000001,4.469676499999999",
+      "google_place_id": "ChIJP_A8fwB4NxAREFffexM_3Po"
+    }
   },
   {
     "id": "351487",
@@ -93,7 +178,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351488",
@@ -109,7 +211,8 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351489",
@@ -125,7 +228,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.015064299999999,
+      "longitude": 4.6169041,
+      "viewport": {
+        "northeast": {
+          "lat": 8.016394679892722,
+          "lng": 4.618243529892721
+        },
+        "southwest": {
+          "lat": 8.013695020107278,
+          "lng": 4.615543870107278
+        }
+      },
+      "formatted_address": "2J78+XQV, 231102, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.015064299999999,4.6169041",
+      "google_place_id": "ChIJm1JxXWmRNxAR4UsOjljQRW4"
+    }
   },
   {
     "id": "351490",
@@ -141,6 +261,23 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   }
 ]

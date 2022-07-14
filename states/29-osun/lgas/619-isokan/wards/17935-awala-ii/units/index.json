@@ -13,7 +13,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.284142099999999,
+      "longitude": 4.2876464,
+      "viewport": {
+        "northeast": {
+          "lat": 7.285622979892721,
+          "lng": 4.289129629892721
+        },
+        "southwest": {
+          "lat": 7.282923320107277,
+          "lng": 4.286429970107277
+        }
+      },
+      "formatted_address": "77MQ+J2Q, 221102, Bale Oja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.284142099999999,4.2876464",
+      "google_place_id": "ChIJsZK3jKaxORARXbviP6khU3c"
+    }
   },
   {
     "id": "351166",
@@ -29,7 +46,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.2283755,
+      "longitude": 4.2823467,
+      "viewport": {
+        "northeast": {
+          "lat": 7.229725329892722,
+          "lng": 4.283696529892721
+        },
+        "southwest": {
+          "lat": 7.227025670107278,
+          "lng": 4.280996870107277
+        }
+      },
+      "formatted_address": "67HJ+9W5, 221102, Ago-Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2283755,4.2823467",
+      "google_place_id": "ChIJHR0FJjeuORARKTuxsx1Gax0"
+    }
   },
   {
     "id": "351167",
@@ -45,7 +79,8 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351168",
@@ -61,7 +96,8 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351169",
@@ -77,7 +113,8 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351170",
@@ -93,7 +130,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7750185,
+      "longitude": 4.5605083,
+      "viewport": {
+        "northeast": {
+          "lat": 7.778504499999999,
+          "lng": 4.5633738
+        },
+        "southwest": {
+          "lat": 7.771114400000001,
+          "lng": 4.5565868
+        }
+      },
+      "formatted_address": "Akogun, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7750185,4.5605083",
+      "google_place_id": "ChIJXRIQU-KHNxARKhxrzIFZVto"
+    }
   },
   {
     "id": "351171",
@@ -109,6 +163,23 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3676292,
+      "longitude": 4.1760281,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369015479892722,
+          "lng": 4.177306079892722
+        },
+        "southwest": {
+          "lat": 7.366315820107278,
+          "lng": 4.174606420107278
+        }
+      },
+      "formatted_address": "959G+3F4, 221104, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3676292,4.1760281",
+      "google_place_id": "ChIJHWJnTJ65ORARWV9bGZIGI_Y"
+    }
   }
 ]

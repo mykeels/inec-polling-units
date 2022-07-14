@@ -13,7 +13,8 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349147",
@@ -29,7 +30,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7349042,
+      "longitude": 4.443902899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.736354929892721,
+          "lng": 4.445324329892721
+        },
+        "southwest": {
+          "lat": 7.733655270107278,
+          "lng": 4.442624670107278
+        }
+      },
+      "formatted_address": "PCMV+XH2, Alusekere Street, 232101, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7349042,4.443902899999999",
+      "google_place_id": "ChIJwRBGkqArOBARmQF2cGOG8jU"
+    }
   },
   {
     "id": "349148",
@@ -45,7 +63,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.734785,
+      "longitude": 4.4339114,
+      "viewport": {
+        "northeast": {
+          "lat": 7.736131729892722,
+          "lng": 4.435317779892721
+        },
+        "southwest": {
+          "lat": 7.733432070107278,
+          "lng": 4.432618120107278
+        }
+      },
+      "formatted_address": "PCMM+WH7, 232101, Nijhof Advies, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.734785,4.4339114",
+      "google_place_id": "ChIJZUbCq_YqOBARZDMXrV9_lQE"
+    }
   },
   {
     "id": "349149",
@@ -61,7 +96,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7162288,
+      "longitude": 4.4241025,
+      "viewport": {
+        "northeast": {
+          "lat": 7.717557129892723,
+          "lng": 4.425430679892722
+        },
+        "southwest": {
+          "lat": 7.714857470107279,
+          "lng": 4.422731020107278
+        }
+      },
+      "formatted_address": "PC8F+FJX, 232101, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7162288,4.4241025",
+      "google_place_id": "ChIJuTA-zR0rOBARMvvZwJ72a98"
+    }
   },
   {
     "id": "349150",
@@ -77,7 +129,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7428401,
+      "longitude": 4.4396418,
+      "viewport": {
+        "northeast": {
+          "lat": 7.744168479892722,
+          "lng": 4.440985579892722
+        },
+        "southwest": {
+          "lat": 7.741468820107278,
+          "lng": 4.438285920107278
+        }
+      },
+      "formatted_address": "PCVQ+4VJ, 232104, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7428401,4.4396418",
+      "google_place_id": "ChIJM0nGM2AqOBARqS61UhXwLv8"
+    }
   },
   {
     "id": "349151",
@@ -93,7 +162,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.734174400000001,
+      "longitude": 4.5160396,
+      "viewport": {
+        "northeast": {
+          "lat": 7.745076999999999,
+          "lng": 4.5236341
+        },
+        "southwest": {
+          "lat": 7.7225799,
+          "lng": 4.501199
+        }
+      },
+      "formatted_address": "230284, Abeere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.734174400000001,4.5160396",
+      "google_place_id": "ChIJkf8VArEpOBARyPPXKvWE4bU"
+    }
   },
   {
     "id": "349152",
@@ -109,7 +195,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.730030800000001,
+      "longitude": 4.5177292,
+      "viewport": {
+        "northeast": {
+          "lat": 7.731259279892721,
+          "lng": 4.519335829892722
+        },
+        "southwest": {
+          "lat": 7.728559620107277,
+          "lng": 4.516636170107278
+        }
+      },
+      "formatted_address": "Osun state government secretariate Abere, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.730030800000001,4.5177292",
+      "google_place_id": "ChIJ60__paopOBARq5DjpxFe-OE"
+    }
   },
   {
     "id": "349153",
@@ -125,7 +228,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.752157699999999,
+      "longitude": 4.523151599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.753641479892721,
+          "lng": 4.524698079892723
+        },
+        "southwest": {
+          "lat": 7.750941820107277,
+          "lng": 4.521998420107279
+        }
+      },
+      "formatted_address": "QG2F+V76, Gbongan - Oshogbo Rd, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.752157699999999,4.523151599999999",
+      "google_place_id": "ChIJj7jSTzspOBAR6CiTb6BPFaU"
+    }
   },
   {
     "id": "349154",
@@ -141,7 +261,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.745117899999999,
+      "longitude": 4.5057333,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7708914,
+          "lng": 4.5451631
+        },
+        "southwest": {
+          "lat": 7.706724500000001,
+          "lng": 4.4384199
+        }
+      },
+      "formatted_address": "Olusokun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.745117899999999,4.5057333",
+      "google_place_id": "ChIJdaI2wZIpOBARnI1Sec3YZ5Q"
+    }
   },
   {
     "id": "349155",
@@ -157,7 +294,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.736907399999999,
+      "longitude": 4.4295002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.738252129892722,
+          "lng": 4.430828279892721
+        },
+        "southwest": {
+          "lat": 7.735552470107279,
+          "lng": 4.428128620107278
+        }
+      },
+      "formatted_address": "PCPH+QR6, Ojularede Road, 232104, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.736907399999999,4.4295002",
+      "google_place_id": "ChIJhwuGol8rOBAR62zEhbpbH5E"
+    }
   },
   {
     "id": "349156",
@@ -173,7 +327,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 10.8445837,
+      "longitude": 106.7864793,
+      "viewport": {
+        "northeast": {
+          "lat": 10.84592812989272,
+          "lng": 106.7878607298927
+        },
+        "southwest": {
+          "lat": 10.84322847010728,
+          "lng": 106.7851610701073
+        }
+      },
+      "formatted_address": "3A Đường số 8, Tăng Nhơn Phú A, Quận 9, Thành phố Hồ Chí Minh, Vietnam",
+      "google_map_url": "https://maps.google.com?q=10.8445837,106.7864793",
+      "google_place_id": "ChIJG8xT2RMndTERgHFfCWflEhU"
+    }
   },
   {
     "id": "349157",
@@ -189,6 +360,23 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7179486,
+      "longitude": 4.4487637,
+      "viewport": {
+        "northeast": {
+          "lat": 7.719290929892721,
+          "lng": 4.450132879892721
+        },
+        "southwest": {
+          "lat": 7.716591270107277,
+          "lng": 4.447433220107277
+        }
+      },
+      "formatted_address": "No. 1, Hon. Amusat Iyiola street, Sawmill Allahu Lateef Area, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7179486,4.4487637",
+      "google_place_id": "ChIJkQXxGdErOBARLecKFbp_6x4"
+    }
   }
 ]

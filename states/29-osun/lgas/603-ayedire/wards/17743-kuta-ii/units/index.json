@@ -13,7 +13,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.64962,
+      "longitude": 4.2961203,
+      "viewport": {
+        "northeast": {
+          "lat": 7.650824879892721,
+          "lng": 4.297624479892723
+        },
+        "southwest": {
+          "lat": 7.648125220107278,
+          "lng": 4.294924820107279
+        }
+      },
+      "formatted_address": "J7XW+RCX, 232114, Kuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.64962,4.2961203",
+      "google_place_id": "ChIJxUzDN4XRORARxmxe4ZqnSO0"
+    }
   },
   {
     "id": "348911",
@@ -29,7 +46,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.826891799999999,
+      "longitude": 4.8352376,
+      "viewport": {
+        "northeast": {
+          "lat": 7.828304129892721,
+          "lng": 4.836607679892722
+        },
+        "southwest": {
+          "lat": 7.825604470107277,
+          "lng": 4.833908020107278
+        }
+      },
+      "formatted_address": "RRGP+Q35, 233125, Imesi Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.826891799999999,4.8352376",
+      "google_place_id": "ChIJLwoEQMH2NxARgwi9UW8fvy8"
+    }
   },
   {
     "id": "348912",
@@ -45,7 +79,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6476286,
+      "longitude": 4.2884381,
+      "viewport": {
+        "northeast": {
+          "lat": 7.648924429892721,
+          "lng": 4.289749979892722
+        },
+        "southwest": {
+          "lat": 7.646224770107278,
+          "lng": 4.287050320107278
+        }
+      },
+      "formatted_address": "Isale-oba, Kuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6476286,4.2884381",
+      "google_place_id": "ChIJp1z2USfRORARARLtKWYYK8k"
+    }
   },
   {
     "id": "348913",
@@ -61,7 +112,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.637042600000001,
+      "longitude": 4.2852554,
+      "viewport": {
+        "northeast": {
+          "lat": 7.638421579892724,
+          "lng": 4.286686229892722
+        },
+        "southwest": {
+          "lat": 7.63572192010728,
+          "lng": 4.283986570107278
+        }
+      },
+      "formatted_address": "J7PP+R46, 232110, Kuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.637042600000001,4.2852554",
+      "google_place_id": "ChIJf6gCEsHRORARqQr__Xpl_6c"
+    }
   },
   {
     "id": "348914",
@@ -77,6 +145,23 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6476286,
+      "longitude": 4.2884381,
+      "viewport": {
+        "northeast": {
+          "lat": 7.648924429892721,
+          "lng": 4.289749979892722
+        },
+        "southwest": {
+          "lat": 7.646224770107278,
+          "lng": 4.287050320107278
+        }
+      },
+      "formatted_address": "Isale-oba, Kuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6476286,4.2884381",
+      "google_place_id": "ChIJp1z2USfRORARARLtKWYYK8k"
+    }
   }
 ]

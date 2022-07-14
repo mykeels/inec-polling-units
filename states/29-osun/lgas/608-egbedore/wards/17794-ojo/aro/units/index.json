@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.808529800000001,
+      "longitude": 4.4262325,
+      "viewport": {
+        "northeast": {
+          "lat": 7.809938129892723,
+          "lng": 4.427731029892723
+        },
+        "southwest": {
+          "lat": 7.807238470107279,
+          "lng": 4.425031370107279
+        }
+      },
+      "formatted_address": "Baptist day school, Ara,Osun State, 232109, Ojo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.808529800000001,4.4262325",
+      "google_place_id": "ChIJyQwhVLKBNxART49_PYlS2G0"
+    }
   },
   {
     "id": "349393",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.823581,
+      "longitude": 4.441668,
+      "viewport": {
+        "northeast": {
+          "lat": 7.824902029892722,
+          "lng": 4.443155529892721
+        },
+        "southwest": {
+          "lat": 7.822202370107278,
+          "lng": 4.440455870107277
+        }
+      },
+      "formatted_address": "RCFR+CMM, 232105, Oojo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.823581,4.441668",
+      "google_place_id": "ChIJvWcosguBNxARuuoKR9Crny8"
+    }
   },
   {
     "id": "349394",
@@ -45,7 +79,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7135414,
+      "longitude": 4.4888943,
+      "viewport": {
+        "northeast": {
+          "lat": 7.714845079892722,
+          "lng": 4.490193879892722
+        },
+        "southwest": {
+          "lat": 7.712145420107278,
+          "lng": 4.487494220107278
+        }
+      },
+      "formatted_address": "PF7Q+CHC, Owode ede, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7135414,4.4888943",
+      "google_place_id": "ChIJNZuE73kpOBARJaW0HVLYfJk"
+    }
   },
   {
     "id": "349395",
@@ -61,6 +112,23 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.779716499999999,
+      "longitude": 4.5489538,
+      "viewport": {
+        "northeast": {
+          "lat": 7.781066029892722,
+          "lng": 4.550216429892722
+        },
+        "southwest": {
+          "lat": 7.778366370107278,
+          "lng": 4.547516770107278
+        }
+      },
+      "formatted_address": "QGHX+WHF, Ilesha Road, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.779716499999999,4.5489538",
+      "google_place_id": "ChIJk6MWqOmHNxAREC3o5xOONTM"
+    }
   }
 ]

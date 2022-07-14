@@ -13,7 +13,8 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349226",
@@ -29,7 +30,8 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349227",
@@ -45,7 +47,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7338,
+      "longitude": 4.4276,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735087929892721,
+          "lng": 4.428961529892722
+        },
+        "southwest": {
+          "lat": 7.732388270107277,
+          "lng": 4.426261870107278
+        }
+      },
+      "formatted_address": "PCMH+G2H, 232104, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7338,4.4276",
+      "google_place_id": "ChIJDesWFu4qOBARwY4Eo3g3swk"
+    }
   },
   {
     "id": "349228",
@@ -61,7 +80,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7338,
+      "longitude": 4.4276,
+      "viewport": {
+        "northeast": {
+          "lat": 7.735087929892721,
+          "lng": 4.428961529892722
+        },
+        "southwest": {
+          "lat": 7.732388270107277,
+          "lng": 4.426261870107278
+        }
+      },
+      "formatted_address": "PCMH+G2H, 232104, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7338,4.4276",
+      "google_place_id": "ChIJDesWFu4qOBARwY4Eo3g3swk"
+    }
   },
   {
     "id": "349229",
@@ -77,7 +113,8 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349230",
@@ -93,7 +130,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.736907399999999,
+      "longitude": 4.4295002,
+      "viewport": {
+        "northeast": {
+          "lat": 7.738252129892722,
+          "lng": 4.430828279892721
+        },
+        "southwest": {
+          "lat": 7.735552470107279,
+          "lng": 4.428128620107278
+        }
+      },
+      "formatted_address": "PCPH+QR6, Ojularede Road, 232104, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.736907399999999,4.4295002",
+      "google_place_id": "ChIJhwuGol8rOBAR62zEhbpbH5E"
+    }
   },
   {
     "id": "349231",
@@ -109,7 +163,24 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7616469,
+      "longitude": 4.6012166,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763085229892722,
+          "lng": 4.602590679892722
+        },
+        "southwest": {
+          "lat": 7.760385570107278,
+          "lng": 4.599891020107278
+        }
+      },
+      "formatted_address": "Main Campus, Oke Bale Street, Area 210001, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7616469,4.6012166",
+      "google_place_id": "ChIJA-5EmkgnOBARI9G_qMqb1cg"
+    }
   },
   {
     "id": "349232",
@@ -125,6 +196,7 @@
     "local_government_id": "606",
     "local_government_name": "EDE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

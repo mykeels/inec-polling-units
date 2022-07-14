@@ -13,7 +13,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4010213,
+      "longitude": 3.9245013,
+      "viewport": {
+        "northeast": {
+          "lat": 7.40245737989272,
+          "lng": 3.925742129892722
+        },
+        "southwest": {
+          "lat": 7.399757720107275,
+          "lng": 3.923042470107279
+        }
+      },
+      "formatted_address": "CW2F+CR2, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4010213,3.9245013",
+      "google_place_id": "ChIJ-3cFQ1WTORAREdPD2gCM1W4"
+    }
   },
   {
     "id": "348886",
@@ -29,7 +46,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.642231799999999,
+      "longitude": 4.1877702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.643654229892721,
+          "lng": 4.188670279892722
+        },
+        "southwest": {
+          "lat": 7.640954570107277,
+          "lng": 4.185970620107279
+        }
+      },
+      "formatted_address": "J5RQ+V4R, Molete III, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.642231799999999,4.1877702",
+      "google_place_id": "ChIJleVKLqzbORAROK1swzQY3fo"
+    }
   },
   {
     "id": "348887",
@@ -45,7 +79,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6174921,
+      "longitude": 4.2671149,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619554000000002,
+          "lng": 4.272980949999998
+        },
+        "southwest": {
+          "lat": 7.616804799999998,
+          "lng": 4.265159550000001
+        }
+      },
+      "formatted_address": "l.g, Alagba's compound, 232110, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6174921,4.2671149",
+      "google_place_id": "ChIJI6B9SC3RORARtMJPULccJG4"
+    }
   },
   {
     "id": "348888",
@@ -61,7 +112,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5221507,
+      "longitude": 4.4443581,
+      "viewport": {
+        "northeast": {
+          "lat": 7.523479029892721,
+          "lng": 4.445674979892723
+        },
+        "southwest": {
+          "lat": 7.520779370107277,
+          "lng": 4.442975320107278
+        }
+      },
+      "formatted_address": "GCCV+VP9, 220103, Ipetumodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5221507,4.4443581",
+      "google_place_id": "ChIJK2PuzpgzOBAR7fM59XBsRQw"
+    }
   },
   {
     "id": "348889",
@@ -77,7 +145,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6748215,
+      "longitude": 4.2524957,
+      "viewport": {
+        "northeast": {
+          "lat": 7.67615757989272,
+          "lng": 4.253873279892722
+        },
+        "southwest": {
+          "lat": 7.673457920107277,
+          "lng": 4.251173620107278
+        }
+      },
+      "formatted_address": "Alawe open space, 232113, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6748215,4.2524957",
+      "google_place_id": "ChIJ8xGcet7RORARKYGHPko_Kio"
+    }
   },
   {
     "id": "348890",
@@ -93,6 +178,23 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4889575,
+      "longitude": 4.5379007,
+      "viewport": {
+        "northeast": {
+          "lat": 7.490172529892721,
+          "lng": 4.539263979892723
+        },
+        "southwest": {
+          "lat": 7.487472870107277,
+          "lng": 4.536564320107279
+        }
+      },
+      "formatted_address": "FGQQ+H5J, Ibadan-Ife Rd, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4889575,4.5379007",
+      "google_place_id": "ChIJexTllTk3OBAR-C5sQjBIudw"
+    }
   }
 ]

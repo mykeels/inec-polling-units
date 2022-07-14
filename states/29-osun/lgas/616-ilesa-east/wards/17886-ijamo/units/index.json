@@ -13,7 +13,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6276192,
+      "longitude": 4.7415638,
+      "viewport": {
+        "northeast": {
+          "lat": 7.628975729892721,
+          "lng": 4.742973329892721
+        },
+        "southwest": {
+          "lat": 7.626276070107277,
+          "lng": 4.740273670107277
+        }
+      },
+      "formatted_address": "Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6276192,4.7415638",
+      "google_place_id": "ChIJ5RPtQWIYOBARrDnMet7l5QI"
+    }
   },
   {
     "id": "350595",
@@ -29,7 +46,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6276192,
+      "longitude": 4.7415638,
+      "viewport": {
+        "northeast": {
+          "lat": 7.628975729892721,
+          "lng": 4.742973329892721
+        },
+        "southwest": {
+          "lat": 7.626276070107277,
+          "lng": 4.740273670107277
+        }
+      },
+      "formatted_address": "Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6276192,4.7415638",
+      "google_place_id": "ChIJ5RPtQWIYOBARrDnMet7l5QI"
+    }
   },
   {
     "id": "350596",
@@ -45,7 +79,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.600046799999999,
+      "longitude": 4.7244758,
+      "viewport": {
+        "northeast": {
+          "lat": 7.601445679892721,
+          "lng": 4.725788279892722
+        },
+        "southwest": {
+          "lat": 7.598746020107277,
+          "lng": 4.723088620107278
+        }
+      },
+      "formatted_address": "ZOA 73, Iyemogun Road, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.600046799999999,4.7244758",
+      "google_place_id": "ChIJV0oI8KYiOBARocVk_p4nj7k"
+    }
   },
   {
     "id": "350597",
@@ -61,7 +112,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6271342,
+      "longitude": 4.741972,
+      "viewport": {
+        "northeast": {
+          "lat": 7.628462829892722,
+          "lng": 4.743263079892722
+        },
+        "southwest": {
+          "lat": 7.625763170107279,
+          "lng": 4.740563420107279
+        }
+      },
+      "formatted_address": "Oshogbo - Ilesha Rd, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6271342,4.741972",
+      "google_place_id": "ChIJof9gR2IYOBARZ4Jq4JH7xF8"
+    }
   },
   {
     "id": "350598",
@@ -77,7 +145,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350599",
@@ -93,6 +162,23 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.623122299999999,
+      "longitude": 4.7429521,
+      "viewport": {
+        "northeast": {
+          "lat": 7.624475679892721,
+          "lng": 4.744377129892722
+        },
+        "southwest": {
+          "lat": 7.621776020107277,
+          "lng": 4.741677470107279
+        }
+      },
+      "formatted_address": "JPFV+65W, 233285, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.623122299999999,4.7429521",
+      "google_place_id": "ChIJYwOtBmQYOBARaeOCx7z2AYw"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9481851,
+      "longitude": 4.8079908,
+      "viewport": {
+        "northeast": {
+          "lat": 7.949480129892723,
+          "lng": 4.809298129892722
+        },
+        "southwest": {
+          "lat": 7.946780470107279,
+          "lng": 4.806598470107279
+        }
+      },
+      "formatted_address": "Otan Aiyegbaju-Igbaja-Ijero Road, 231119, Otan Aiyegbaju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9481851,4.8079908",
+      "google_place_id": "ChIJp1kJwwjtNxARE25iKPY2vc8"
+    }
   },
   {
     "id": "348967",
@@ -29,7 +46,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9481851,
+      "longitude": 4.8079908,
+      "viewport": {
+        "northeast": {
+          "lat": 7.949480129892723,
+          "lng": 4.809298129892722
+        },
+        "southwest": {
+          "lat": 7.946780470107279,
+          "lng": 4.806598470107279
+        }
+      },
+      "formatted_address": "Otan Aiyegbaju-Igbaja-Ijero Road, 231119, Otan Aiyegbaju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9481851,4.8079908",
+      "google_place_id": "ChIJp1kJwwjtNxARE25iKPY2vc8"
+    }
   },
   {
     "id": "348968",
@@ -45,7 +79,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.835412,
+      "longitude": 4.9221395,
+      "viewport": {
+        "northeast": {
+          "lat": 7.836792829892722,
+          "lng": 4.923547529892721
+        },
+        "southwest": {
+          "lat": 7.834093170107278,
+          "lng": 4.920847870107277
+        }
+      },
+      "formatted_address": "B9,Odowo Street, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.835412,4.9221395",
+      "google_place_id": "ChIJaVQ6_gH5NxAR_xuvU1sIaFY"
+    }
   },
   {
     "id": "348969",
@@ -61,7 +112,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.093956299999999,
+      "longitude": 5.1859,
+      "viewport": {
+        "northeast": {
+          "lat": 7.096201379892722,
+          "lng": 5.1872061
+        },
+        "southwest": {
+          "lat": 7.093501720107279,
+          "lng": 5.18328
+        }
+      },
+      "formatted_address": "340108, Ajebandele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.093956299999999,5.1859",
+      "google_place_id": "ChIJF8h33veCRxAR576pAD7Kuw4"
+    }
   },
   {
     "id": "348970",
@@ -77,7 +145,8 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348971",
@@ -93,7 +162,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9481851,
+      "longitude": 4.8079908,
+      "viewport": {
+        "northeast": {
+          "lat": 7.949480129892723,
+          "lng": 4.809298129892722
+        },
+        "southwest": {
+          "lat": 7.946780470107279,
+          "lng": 4.806598470107279
+        }
+      },
+      "formatted_address": "Otan Aiyegbaju-Igbaja-Ijero Road, 231119, Otan Aiyegbaju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9481851,4.8079908",
+      "google_place_id": "ChIJp1kJwwjtNxARE25iKPY2vc8"
+    }
   },
   {
     "id": "348972",
@@ -109,6 +195,23 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.754976699999999,
+      "longitude": 4.8205163,
+      "viewport": {
+        "northeast": {
+          "lat": 7.756326279892722,
+          "lng": 4.821863529892722
+        },
+        "southwest": {
+          "lat": 7.753626620107278,
+          "lng": 4.819163870107278
+        }
+      },
+      "formatted_address": "QR3C+X6R to Esa Oke, Road, 233127, Esa Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.754976699999999,4.8205163",
+      "google_place_id": "ChIJ1d_kZycdOBARxaXfGEMdiAg"
+    }
   }
 ]

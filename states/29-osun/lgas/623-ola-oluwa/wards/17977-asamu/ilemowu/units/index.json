@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.645223599999999,
+      "longitude": 4.28434,
+      "viewport": {
+        "northeast": {
+          "lat": 7.646568079892721,
+          "lng": 4.285684729892722
+        },
+        "southwest": {
+          "lat": 7.643868420107277,
+          "lng": 4.282985070107277
+        }
+      },
+      "formatted_address": "J7WM+3PP, 232114, Kuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.645223599999999,4.28434",
+      "google_place_id": "ChIJ83geYJzRORARjh6XqdwImCQ"
+    }
   },
   {
     "id": "351570",
@@ -29,7 +46,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.681012099999999,
+      "longitude": 4.2517079,
+      "viewport": {
+        "northeast": {
+          "lat": 7.682396129892722,
+          "lng": 4.253103779892722
+        },
+        "southwest": {
+          "lat": 7.679696470107278,
+          "lng": 4.250404120107278
+        }
+      },
+      "formatted_address": "M7J2+CM4, 232114, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.681012099999999,4.2517079",
+      "google_place_id": "ChIJicHMTkrXORARaGccNw0RvWI"
+    }
   },
   {
     "id": "351571",
@@ -45,7 +79,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.821962999999999,
+      "longitude": 3.9088948,
+      "viewport": {
+        "northeast": {
+          "lat": 7.823371079892723,
+          "lng": 3.910436429892722
+        },
+        "southwest": {
+          "lat": 7.82067142010728,
+          "lng": 3.907736770107278
+        }
+      },
+      "formatted_address": "Ilora 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.821962999999999,3.9088948",
+      "google_place_id": "ChIJDWM909lZNxAR8FAKHm_4LTM"
+    }
   },
   {
     "id": "351572",
@@ -61,7 +112,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.674591599999999,
+      "longitude": 4.251281,
+      "viewport": {
+        "northeast": {
+          "lat": 7.675604479892722,
+          "lng": 4.252827329892722
+        },
+        "southwest": {
+          "lat": 7.672904820107278,
+          "lng": 4.250127670107278
+        }
+      },
+      "formatted_address": "M7F2+RGJ, Alapola Road, 232113, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.674591599999999,4.251281",
+      "google_place_id": "ChIJKbPzmJvRORARIlBxxB8EQLo"
+    }
   },
   {
     "id": "351573",
@@ -77,6 +145,23 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.75,
+      "longitude": 4.149999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.751999679892722,
+          "lng": 4.155206650000001
+        },
+        "southwest": {
+          "lat": 7.749300020107278,
+          "lng": 4.14826445
+        }
+      },
+      "formatted_address": "Q522+22R, 232111, Awba-Mowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.75,4.149999999999999",
+      "google_place_id": "ChIJ1Zc-lUzfORARySvya63KfRQ"
+    }
   }
 ]

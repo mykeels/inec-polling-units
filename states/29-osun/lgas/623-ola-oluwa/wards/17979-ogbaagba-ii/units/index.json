@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.715160999999999,
+      "longitude": 4.256686999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716342429892721,
+          "lng": 4.258398979892723
+        },
+        "southwest": {
+          "lat": 7.713642770107277,
+          "lng": 4.255699320107279
+        }
+      },
+      "formatted_address": "P784+3M7, Iwo - Oshogbo Rd, 232112, Ogbagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.715160999999999,4.256686999999999",
+      "google_place_id": "ChIJQ--ngAvXORARlJ00v47fauA"
+    }
   },
   {
     "id": "351582",
@@ -29,7 +46,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.715160999999999,
+      "longitude": 4.256686999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.716342429892721,
+          "lng": 4.258398979892723
+        },
+        "southwest": {
+          "lat": 7.713642770107277,
+          "lng": 4.255699320107279
+        }
+      },
+      "formatted_address": "P784+3M7, Iwo - Oshogbo Rd, 232112, Ogbagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.715160999999999,4.256686999999999",
+      "google_place_id": "ChIJQ--ngAvXORARlJ00v47fauA"
+    }
   },
   {
     "id": "351583",
@@ -45,7 +79,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.943434399999998,
+      "longitude": 4.592317299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.944751279892721,
+          "lng": 4.593648629892723
+        },
+        "southwest": {
+          "lat": 7.942051620107277,
+          "lng": 4.590948970107279
+        }
+      },
+      "formatted_address": "WHVR+9WG, Ogbomosho - Ikirun Rd, 231103, Eko Onde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.943434399999998,4.592317299999999",
+      "google_place_id": "ChIJtZVPaiWQNxARx5OYqhLqtzA"
+    }
   },
   {
     "id": "351584",
@@ -61,6 +112,23 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.943434399999998,
+      "longitude": 4.592317299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.944751279892721,
+          "lng": 4.593648629892723
+        },
+        "southwest": {
+          "lat": 7.942051620107277,
+          "lng": 4.590948970107279
+        }
+      },
+      "formatted_address": "WHVR+9WG, Ogbomosho - Ikirun Rd, 231103, Eko Onde, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.943434399999998,4.592317299999999",
+      "google_place_id": "ChIJtZVPaiWQNxARx5OYqhLqtzA"
+    }
   }
 ]

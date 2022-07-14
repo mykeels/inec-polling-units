@@ -13,7 +13,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.1976575,
+      "longitude": 3.3554998,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198985229892721,
+          "lng": 3.356876279892723
+        },
+        "southwest": {
+          "lat": 7.196285570107277,
+          "lng": 3.354176620107278
+        }
+      },
+      "formatted_address": "59X4+359, Bode-Olude, 110101, Abeokuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1976575,3.3554998",
+      "google_place_id": "ChIJUWiETDpJOhAR1IES6qXGVa8"
+    }
   },
   {
     "id": "348892",
@@ -29,7 +46,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6174921,
+      "longitude": 4.2671149,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619554000000002,
+          "lng": 4.272980949999998
+        },
+        "southwest": {
+          "lat": 7.616804799999998,
+          "lng": 4.265159550000001
+        }
+      },
+      "formatted_address": "l.g, Alagba's compound, 232110, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6174921,4.2671149",
+      "google_place_id": "ChIJI6B9SC3RORARtMJPULccJG4"
+    }
   },
   {
     "id": "348893",
@@ -45,7 +79,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6167,
+      "longitude": 4.25,
+      "viewport": {
+        "northeast": {
+          "lat": 7.618049979892722,
+          "lng": 4.251340479892721
+        },
+        "southwest": {
+          "lat": 7.615350320107278,
+          "lng": 4.248640820107277
+        }
+      },
+      "formatted_address": "J782+M2H, 232110, Ile Igbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6167,4.25",
+      "google_place_id": "ChIJE_zhwWvQORARSOnq56rKias"
+    }
   },
   {
     "id": "348894",
@@ -61,7 +112,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6174921,
+      "longitude": 4.2671149,
+      "viewport": {
+        "northeast": {
+          "lat": 7.619554000000002,
+          "lng": 4.272980949999998
+        },
+        "southwest": {
+          "lat": 7.616804799999998,
+          "lng": 4.265159550000001
+        }
+      },
+      "formatted_address": "l.g, Alagba's compound, 232110, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6174921,4.2671149",
+      "google_place_id": "ChIJI6B9SC3RORARtMJPULccJG4"
+    }
   },
   {
     "id": "348895",
@@ -77,7 +145,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.674591599999999,
+      "longitude": 4.251281,
+      "viewport": {
+        "northeast": {
+          "lat": 7.675604479892722,
+          "lng": 4.252827329892722
+        },
+        "southwest": {
+          "lat": 7.672904820107278,
+          "lng": 4.250127670107278
+        }
+      },
+      "formatted_address": "M7F2+RGJ, 232113, Ileogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.674591599999999,4.251281",
+      "google_place_id": "ChIJfQWWQ3nRORARM4glkWr6SsY"
+    }
   },
   {
     "id": "348896",
@@ -93,7 +178,8 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348897",
@@ -109,6 +195,23 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3645924,
+      "longitude": 3.854484899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.365864529892722,
+          "lng": 3.855843279892722
+        },
+        "southwest": {
+          "lat": 7.363164870107278,
+          "lng": 3.853143620107278
+        }
+      },
+      "formatted_address": "Oluyole Estate, 30, Alafın Avenue, MKO Abiola Way, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3645924,3.854484899999999",
+      "google_place_id": "ChIJZ2jIz2mMORARk0xLe5-zEtY"
+    }
   }
 ]

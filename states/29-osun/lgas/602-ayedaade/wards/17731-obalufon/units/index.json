@@ -13,7 +13,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.133348699999999,
+      "longitude": 4.235566299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.134691279892722,
+          "lng": 4.236911679892723
+        },
+        "southwest": {
+          "lat": 8.131991620107279,
+          "lng": 4.234212020107279
+        }
+      },
+      "formatted_address": "Old, Oyo/ Ilorin Rd, 210214, Ogbomosho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.133348699999999,4.235566299999999",
+      "google_place_id": "ChIJb4_VGIQ3MRARAn-pMPWl4k8"
+    }
   },
   {
     "id": "348809",
@@ -29,7 +46,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.253935999999999,
+      "longitude": 4.334289,
+      "viewport": {
+        "northeast": {
+          "lat": 7.255280779892722,
+          "lng": 4.335621729892721
+        },
+        "southwest": {
+          "lat": 7.252581120107278,
+          "lng": 4.332922070107277
+        }
+      },
+      "formatted_address": "783M+HPF, 221101, Ago-Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.253935999999999,4.334289",
+      "google_place_id": "ChIJX4e9Ew2yORARGjqQUcU8viU"
+    }
   },
   {
     "id": "348810",
@@ -45,7 +79,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.474354600000001,
+      "longitude": 4.360329,
+      "viewport": {
+        "northeast": {
+          "lat": 7.475737979892723,
+          "lng": 4.361703929892721
+        },
+        "southwest": {
+          "lat": 7.473038320107279,
+          "lng": 4.359004270107278
+        }
+      },
+      "formatted_address": "F9F6+P4W, 221103, Gbongan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.474354600000001,4.360329",
+      "google_place_id": "ChIJf1Z9MqDLORARycLNQePnQgE"
+    }
   },
   {
     "id": "348811",
@@ -61,7 +112,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4007151,
+      "longitude": 3.9235473,
+      "viewport": {
+        "northeast": {
+          "lat": 7.40215447989272,
+          "lng": 3.924638529892722
+        },
+        "southwest": {
+          "lat": 7.399454820107276,
+          "lng": 3.921938870107278
+        }
+      },
+      "formatted_address": "Iwo Road 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4007151,3.9235473",
+      "google_place_id": "ChIJX3rKiniTORAR0rYS-G-h4nQ"
+    }
   },
   {
     "id": "348812",
@@ -77,7 +145,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.359673,
+      "longitude": 4.1863483,
+      "viewport": {
+        "northeast": {
+          "lat": 7.361027679892723,
+          "lng": 4.187685079892722
+        },
+        "southwest": {
+          "lat": 7.358328020107279,
+          "lng": 4.184985420107278
+        }
+      },
+      "formatted_address": "955P+VGG, At the back of Ikire post office, Sekere Ayo street, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.359673,4.1863483",
+      "google_place_id": "ChIJDaw84w25ORARawe4RJkx8lY"
+    }
   },
   {
     "id": "348813",
@@ -93,7 +178,8 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348814",
@@ -109,7 +195,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.391444300000001,
+      "longitude": 3.8870554,
+      "viewport": {
+        "northeast": {
+          "lat": 7.392813779892723,
+          "lng": 3.888327379892722
+        },
+        "southwest": {
+          "lat": 7.390114120107279,
+          "lng": 3.885627720107278
+        }
+      },
+      "formatted_address": "9VRP+HRF, Salvation Army - Oke-Padi Road, Ekotedo 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.391444300000001,3.8870554",
+      "google_place_id": "ChIJgTnS2GmNORARuFzb3q2qcIo"
+    }
   },
   {
     "id": "348815",
@@ -125,7 +228,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.684162400000001,
+      "longitude": 3.5162195,
+      "viewport": {
+        "northeast": {
+          "lat": 7.685462829892722,
+          "lng": 3.517590829892722
+        },
+        "southwest": {
+          "lat": 7.682763170107278,
+          "lng": 3.514891170107278
+        }
+      },
+      "formatted_address": "200129, Aba Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.684162400000001,3.5162195",
+      "google_place_id": "ChIJyZukTUsJOhARYqS7F27q9tk"
+    }
   },
   {
     "id": "348816",
@@ -141,7 +261,24 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.215661900000001,
+      "longitude": 4.368557399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.21702932989272,
+          "lng": 4.370055329892722
+        },
+        "southwest": {
+          "lat": 7.214329670107277,
+          "lng": 4.367355670107278
+        }
+      },
+      "formatted_address": "221101, Atoba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.215661900000001,4.368557399999999",
+      "google_place_id": "ChIJeYUruxGtORAR_jgLTOCqrAk"
+    }
   },
   {
     "id": "348817",
@@ -157,6 +294,23 @@
     "local_government_id": "602",
     "local_government_name": "AYEDAADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.359673,
+      "longitude": 4.1863483,
+      "viewport": {
+        "northeast": {
+          "lat": 7.361027679892723,
+          "lng": 4.187685079892722
+        },
+        "southwest": {
+          "lat": 7.358328020107279,
+          "lng": 4.184985420107278
+        }
+      },
+      "formatted_address": "955P+VGG, At the back of Ikire post office, Sekere Ayo street, Ikire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.359673,4.1863483",
+      "google_place_id": "ChIJDaw84w25ORARawe4RJkx8lY"
+    }
   }
 ]

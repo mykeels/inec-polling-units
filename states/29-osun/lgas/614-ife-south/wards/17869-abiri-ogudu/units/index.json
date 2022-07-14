@@ -13,7 +13,8 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350409",
@@ -29,7 +30,24 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4554424,
+      "longitude": 4.5729947,
+      "viewport": {
+        "northeast": {
+          "lat": 7.456949329892722,
+          "lng": 4.574364479892722
+        },
+        "southwest": {
+          "lat": 7.454249670107278,
+          "lng": 4.571664820107278
+        }
+      },
+      "formatted_address": "FH4F+55H, Okerewe I 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4554424,4.5729947",
+      "google_place_id": "ChIJ4SRqgTI4OBARqLd8Ea0FanE"
+    }
   },
   {
     "id": "350410",
@@ -45,7 +63,8 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350411",
@@ -61,7 +80,24 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.192956499999999,
+      "longitude": 4.676006099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.193973629892723,
+          "lng": 4.677378129892722
+        },
+        "southwest": {
+          "lat": 7.191273970107279,
+          "lng": 4.674678470107279
+        }
+      },
+      "formatted_address": "5MVG+5CJ, 220110, Ifetedo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.192956499999999,4.676006099999999",
+      "google_place_id": "ChIJYeH5_1lcOBARiGvElbWB1So"
+    }
   },
   {
     "id": "350412",
@@ -77,7 +113,8 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350413",
@@ -93,7 +130,8 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350414",
@@ -109,7 +147,8 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350415",
@@ -125,7 +164,8 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350416",
@@ -141,7 +181,24 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.482672699999999,
+      "longitude": 4.5697543,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483954729892721,
+          "lng": 4.571104829892722
+        },
+        "southwest": {
+          "lat": 7.481255070107277,
+          "lng": 4.568405170107278
+        }
+      },
+      "formatted_address": "FHM9+3WR, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.482672699999999,4.5697543",
+      "google_place_id": "ChIJGRZE-uY5OBARF9TBNHBdiII"
+    }
   },
   {
     "id": "350417",
@@ -157,6 +214,23 @@
     "local_government_id": "614",
     "local_government_name": "IFE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.482672699999999,
+      "longitude": 4.5697543,
+      "viewport": {
+        "northeast": {
+          "lat": 7.483954729892721,
+          "lng": 4.571104829892722
+        },
+        "southwest": {
+          "lat": 7.481255070107277,
+          "lng": 4.568405170107278
+        }
+      },
+      "formatted_address": "FHM9+3WR, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.482672699999999,4.5697543",
+      "google_place_id": "ChIJGRZE-uY5OBARF9TBNHBdiII"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.974227,
+      "longitude": 4.6526976,
+      "viewport": {
+        "northeast": {
+          "lat": 7.975547679892722,
+          "lng": 4.654037079892722
+        },
+        "southwest": {
+          "lat": 7.972848020107278,
+          "lng": 4.651337420107279
+        }
+      },
+      "formatted_address": "Grammar School, 231105, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.974227,4.6526976",
+      "google_place_id": "ChIJAeZUIiOTNxAR6iXO6nRBYlM"
+    }
   },
   {
     "id": "351513",
@@ -29,7 +46,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.972968,
+      "longitude": 4.650119999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.974250129892721,
+          "lng": 4.651561979892722
+        },
+        "southwest": {
+          "lat": 7.971550470107277,
+          "lng": 4.648862320107278
+        }
+      },
+      "formatted_address": "XMF2+52Q, 231105, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.972968,4.650119999999999",
+      "google_place_id": "ChIJy0hciiuSNxARCoxljEf6iw4"
+    }
   },
   {
     "id": "351514",
@@ -45,7 +79,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.915297,
+      "longitude": 4.665465999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.916646079892722,
+          "lng": 4.666713479892722
+        },
+        "southwest": {
+          "lat": 7.913946420107278,
+          "lng": 4.664013820107278
+        }
+      },
+      "formatted_address": "WM88+458, 231110, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.915297,4.665465999999999",
+      "google_place_id": "ChIJVWlyNOuNNxAR4csi3D3K-hs"
+    }
   },
   {
     "id": "351515",
@@ -61,7 +112,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9805509,
+      "longitude": 4.6450261,
+      "viewport": {
+        "northeast": {
+          "lat": 7.981911879892724,
+          "lng": 4.646324379892722
+        },
+        "southwest": {
+          "lat": 7.97921222010728,
+          "lng": 4.643624720107278
+        }
+      },
+      "formatted_address": "XJJW+62C, 231101, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9805509,4.6450261",
+      "google_place_id": "ChIJyw01H36RNxARdmjWTyxMvlc"
+    }
   },
   {
     "id": "351516",
@@ -77,7 +145,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351517",
@@ -93,7 +178,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.971334999999999,
+      "longitude": 4.660535,
+      "viewport": {
+        "northeast": {
+          "lat": 7.9884084,
+          "lng": 4.7097321
+        },
+        "southwest": {
+          "lat": 7.9548366,
+          "lng": 4.6135754
+        }
+      },
+      "formatted_address": "Olunisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.971334999999999,4.660535",
+      "google_place_id": "ChIJo3DXHjSSNxAR9vsdPHyt4IU"
+    }
   },
   {
     "id": "351518",
@@ -109,7 +211,8 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351519",
@@ -125,7 +228,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.971334999999999,
+      "longitude": 4.660535,
+      "viewport": {
+        "northeast": {
+          "lat": 7.9884084,
+          "lng": 4.7097321
+        },
+        "southwest": {
+          "lat": 7.9548366,
+          "lng": 4.6135754
+        }
+      },
+      "formatted_address": "Olunisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.971334999999999,4.660535",
+      "google_place_id": "ChIJo3DXHjSSNxAR9vsdPHyt4IU"
+    }
   },
   {
     "id": "351520",
@@ -141,7 +261,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.971334999999999,
+      "longitude": 4.660535,
+      "viewport": {
+        "northeast": {
+          "lat": 7.9884084,
+          "lng": 4.7097321
+        },
+        "southwest": {
+          "lat": 7.9548366,
+          "lng": 4.6135754
+        }
+      },
+      "formatted_address": "Olunisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.971334999999999,4.660535",
+      "google_place_id": "ChIJo3DXHjSSNxAR9vsdPHyt4IU"
+    }
   },
   {
     "id": "351521",
@@ -157,7 +294,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351522",
@@ -173,6 +327,23 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9741389,
+      "longitude": 4.6527845,
+      "viewport": {
+        "northeast": {
+          "lat": 7.975547279892723,
+          "lng": 4.654046079892723
+        },
+        "southwest": {
+          "lat": 7.972847620107279,
+          "lng": 4.651346420107279
+        }
+      },
+      "formatted_address": "XMF3+M43, Express Road, 231105, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9741389,4.6527845",
+      "google_place_id": "ChIJpyahD2CTNxARuVLlDlfkLWk"
+    }
   }
 ]

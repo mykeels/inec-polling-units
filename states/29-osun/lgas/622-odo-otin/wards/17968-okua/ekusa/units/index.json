@@ -13,7 +13,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.766347299999999,
+      "longitude": 4.5550812,
+      "viewport": {
+        "northeast": {
+          "lat": 7.767750979892723,
+          "lng": 4.556406679892722
+        },
+        "southwest": {
+          "lat": 7.765051320107279,
+          "lng": 4.553707020107278
+        }
+      },
+      "formatted_address": "local Government, Oja oba, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.766347299999999,4.5550812",
+      "google_place_id": "ChIJe7fTYEqHNxARFJLqr0Ygl88"
+    }
   },
   {
     "id": "351502",
@@ -29,7 +46,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0087335,
+      "longitude": 4.6224714,
+      "viewport": {
+        "northeast": {
+          "lat": 8.009841179892723,
+          "lng": 4.623755679892722
+        },
+        "southwest": {
+          "lat": 8.007141520107279,
+          "lng": 4.621056020107278
+        }
+      },
+      "formatted_address": "2J5C+GX5, 231102, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0087335,4.6224714",
+      "google_place_id": "ChIJCd1VNziRNxARESlaA-uWb9k"
+    }
   },
   {
     "id": "351503",
@@ -45,7 +79,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.013302,
+      "longitude": 4.6571095,
+      "viewport": {
+        "northeast": {
+          "lat": 8.014587879892723,
+          "lng": 4.658499179892724
+        },
+        "southwest": {
+          "lat": 8.011888220107279,
+          "lng": 4.655799520107279
+        }
+      },
+      "formatted_address": "2M74+8RV, 231102, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.013302,4.6571095",
+      "google_place_id": "ChIJCRh5d9uTNxARtaUgkNaIlPE"
+    }
   },
   {
     "id": "351504",
@@ -61,7 +112,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0001506,
+      "longitude": 4.551184,
+      "viewport": {
+        "northeast": {
+          "lat": 8.001548679892721,
+          "lng": 4.552558529892721
+        },
+        "southwest": {
+          "lat": 7.998849020107277,
+          "lng": 4.549858870107277
+        }
+      },
+      "formatted_address": "2H22+3F7, 210102, Baruwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0001506,4.551184",
+      "google_place_id": "ChIJvx02sRKaNxARKZR7_fKx5EY"
+    }
   },
   {
     "id": "351505",
@@ -77,7 +145,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.013302,
+      "longitude": 4.6571095,
+      "viewport": {
+        "northeast": {
+          "lat": 8.014587879892723,
+          "lng": 4.658499179892724
+        },
+        "southwest": {
+          "lat": 8.011888220107279,
+          "lng": 4.655799520107279
+        }
+      },
+      "formatted_address": "2M74+8RV, 231102, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.013302,4.6571095",
+      "google_place_id": "ChIJCRh5d9uTNxARtaUgkNaIlPE"
+    }
   },
   {
     "id": "351506",
@@ -93,6 +178,23 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 42.79624219999999,
+      "longitude": -80.2220727,
+      "viewport": {
+        "northeast": {
+          "lat": 42.79761122989272,
+          "lng": -80.22064162010727
+        },
+        "southwest": {
+          "lat": 42.79491157010727,
+          "lng": -80.22334127989272
+        }
+      },
+      "formatted_address": "Port Dover, ON N0A 1N5, Canada",
+      "google_map_url": "https://maps.google.com?q=42.79624219999999,-80.2220727",
+      "google_place_id": "ChIJVYinF6hTLIgRnWW713nqYE0"
+    }
   }
 ]

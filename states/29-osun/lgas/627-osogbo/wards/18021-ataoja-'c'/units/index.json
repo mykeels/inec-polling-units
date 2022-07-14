@@ -13,7 +13,8 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "352056",
@@ -29,7 +30,8 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "352057",
@@ -45,7 +47,8 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "352058",
@@ -61,7 +64,8 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "352059",
@@ -77,7 +81,8 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "352060",
@@ -93,7 +98,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7617812,
+      "longitude": 4.5520174,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763138479892721,
+          "lng": 4.553356229892722
+        },
+        "southwest": {
+          "lat": 7.760438820107277,
+          "lng": 4.550656570107278
+        }
+      },
+      "formatted_address": "QH62+PQ5, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7617812,4.5520174",
+      "google_place_id": "ChIJfyz09veHNxARzaiQMbrAYzQ"
+    }
   },
   {
     "id": "352061",
@@ -109,7 +131,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.774432099999999,
+      "longitude": 4.5467088,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77578192989272,
+          "lng": 4.548058629892721
+        },
+        "southwest": {
+          "lat": 7.773082270107277,
+          "lng": 4.545358970107277
+        }
+      },
+      "formatted_address": "5 Asubiaro, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.774432099999999,4.5467088",
+      "google_place_id": "EiM1IEFzdWJpYXJvLCAyMzAyODQsIE9zb2dibywgTmlnZXJpYSIwEi4KFAoSCdeAhC7shzcQEax08S4LZqw-EAUqFAoSCf8CE5PwhzcQEdCxupwlQdRG"
+    }
   },
   {
     "id": "352062",
@@ -125,7 +164,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.774432099999999,
+      "longitude": 4.5467088,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77578192989272,
+          "lng": 4.548058629892721
+        },
+        "southwest": {
+          "lat": 7.773082270107277,
+          "lng": 4.545358970107277
+        }
+      },
+      "formatted_address": "19 Asubiaro, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.774432099999999,4.5467088",
+      "google_place_id": "EiQxOSBBc3ViaWFybywgMjMwMjg0LCBPc29nYm8sIE5pZ2VyaWEiMBIuChQKEgnXgIQu7Ic3EBGsdPEuC2asPhATKhQKEgn_AhOT8Ic3EBHQsbqcJUHURg"
+    }
   },
   {
     "id": "352063",
@@ -141,7 +197,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7733916,
+      "longitude": 4.5471952,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77473257989272,
+          "lng": 4.548522679892721
+        },
+        "southwest": {
+          "lat": 7.772032920107276,
+          "lng": 4.545823020107277
+        }
+      },
+      "formatted_address": "30 Asubiaro, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7733916,4.5471952",
+      "google_place_id": "ChIJfSY_dO6HNxARmwlMiuCSv9M"
+    }
   },
   {
     "id": "352064",
@@ -157,7 +230,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.761655999999999,
+      "longitude": 4.549628,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763105129892724,
+          "lng": 4.550922579892722
+        },
+        "southwest": {
+          "lat": 7.76040547010728,
+          "lng": 4.548222920107278
+        }
+      },
+      "formatted_address": "QG6X+MV6, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.761655999999999,4.549628",
+      "google_place_id": "ChIJCdxBzfeHNxARfY84klIY2QY"
+    }
   },
   {
     "id": "352065",
@@ -173,7 +263,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.761655999999999,
+      "longitude": 4.549628,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763105129892724,
+          "lng": 4.550922579892722
+        },
+        "southwest": {
+          "lat": 7.76040547010728,
+          "lng": 4.548222920107278
+        }
+      },
+      "formatted_address": "QG6X+MV6, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.761655999999999,4.549628",
+      "google_place_id": "ChIJCdxBzfeHNxARfY84klIY2QY"
+    }
   },
   {
     "id": "352066",
@@ -189,7 +296,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.814403599999999,
+      "longitude": 4.5296205,
+      "viewport": {
+        "northeast": {
+          "lat": 7.815883279892722,
+          "lng": 4.531113729892722
+        },
+        "southwest": {
+          "lat": 7.813183620107278,
+          "lng": 4.528414070107278
+        }
+      },
+      "formatted_address": "RG7H+PRM, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.814403599999999,4.5296205",
+      "google_place_id": "ChIJ0TYIZlCGNxARUO3Ru-5oBcM"
+    }
   },
   {
     "id": "352067",
@@ -205,7 +329,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7676315,
+      "longitude": 4.5524296,
+      "viewport": {
+        "northeast": {
+          "lat": 7.768996279892722,
+          "lng": 4.553824579892722
+        },
+        "southwest": {
+          "lat": 7.766296620107278,
+          "lng": 4.551124920107278
+        }
+      },
+      "formatted_address": "QH92+3X3, 230103, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7676315,4.5524296",
+      "google_place_id": "ChIJE8aqdPqHNxARkV4hfQqe8PM"
+    }
   },
   {
     "id": "352068",
@@ -221,7 +362,8 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "352069",
@@ -237,7 +379,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.748601000000001,
+      "longitude": 4.517041799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.750044229892721,
+          "lng": 4.518382779892721
+        },
+        "southwest": {
+          "lat": 7.747344570107277,
+          "lng": 4.515683120107277
+        }
+      },
+      "formatted_address": "PGX8+CRV, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.748601000000001,4.517041799999999",
+      "google_place_id": "ChIJ4b6axs0pOBARIFny7YOG6eA"
+    }
   },
   {
     "id": "352070",
@@ -253,7 +412,24 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.748601000000001,
+      "longitude": 4.517041799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.750044229892721,
+          "lng": 4.518382779892721
+        },
+        "southwest": {
+          "lat": 7.747344570107277,
+          "lng": 4.515683120107277
+        }
+      },
+      "formatted_address": "PGX8+CRV, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.748601000000001,4.517041799999999",
+      "google_place_id": "ChIJ4b6axs0pOBARIFny7YOG6eA"
+    }
   },
   {
     "id": "352071",
@@ -269,6 +445,23 @@
     "local_government_id": "627",
     "local_government_name": "OSOGBO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.768293099999999,
+      "longitude": 4.5461595,
+      "viewport": {
+        "northeast": {
+          "lat": 7.769642929892721,
+          "lng": 4.547509329892722
+        },
+        "southwest": {
+          "lat": 7.766943270107277,
+          "lng": 4.544809670107278
+        }
+      },
+      "formatted_address": "2 Jala Yemmy St, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.768293099999999,4.5461595",
+      "google_place_id": "EigyIEphbGEgWWVtbXkgU3QsIDIzMDI4NCwgT3NvZ2JvLCBOaWdlcmlhIjASLgoUChIJrb6IxfOHNxARruS9K2H5O1UQAioUChIJ0YXAWfGHNxARsEt7t18m58c"
+    }
   }
 ]

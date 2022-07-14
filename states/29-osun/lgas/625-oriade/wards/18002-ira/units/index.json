@@ -13,7 +13,24 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.484775,
+      "longitude": 4.9224877,
+      "viewport": {
+        "northeast": {
+          "lat": 7.486106479892723,
+          "lng": 4.923921879892722
+        },
+        "southwest": {
+          "lat": 7.483406820107279,
+          "lng": 4.921222220107278
+        }
+      },
+      "formatted_address": "233119, Ipetu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.484775,4.9224877",
+      "google_place_id": "ChIJX1bk_hwNOBAR_heiDwYW_9s"
+    }
   },
   {
     "id": "351872",
@@ -29,7 +46,24 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7897821,
+      "longitude": 4.7874427,
+      "viewport": {
+        "northeast": {
+          "lat": 7.791101529892721,
+          "lng": 4.788786429892722
+        },
+        "southwest": {
+          "lat": 7.788401870107277,
+          "lng": 4.786086770107278
+        }
+      },
+      "formatted_address": "QQQP+WX8, Oke Eyindi street, Ilare, Osun State, Nigeria, Ilare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7897821,4.7874427",
+      "google_place_id": "ChIJAU6HNLj1NxAR1aZWuOhg2GE"
+    }
   },
   {
     "id": "351873",
@@ -45,7 +79,24 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.401113899999999,
+      "longitude": 4.8896921,
+      "viewport": {
+        "northeast": {
+          "lat": 7.406799950000001,
+          "lng": 4.890587899999998
+        },
+        "southwest": {
+          "lat": 7.399218549999998,
+          "lng": 4.887004700000001
+        }
+      },
+      "formatted_address": "CV2Q+CVW, 233120, Ipetu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.401113899999999,4.8896921",
+      "google_place_id": "ChIJZdfre09tOBARGlXd1-ck1AA"
+    }
   },
   {
     "id": "351874",
@@ -61,6 +112,23 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.40282,
+      "longitude": 5.0042426,
+      "viewport": {
+        "northeast": {
+          "lat": 7.404148929892721,
+          "lng": 5.005601379892722
+        },
+        "southwest": {
+          "lat": 7.401449270107277,
+          "lng": 5.002901720107278
+        }
+      },
+      "formatted_address": "C233+4MH, 233121, Igbara Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.40282,5.0042426",
+      "google_place_id": "ChIJ41LzRDN1OBARFNM0A4Mz6ps"
+    }
   }
 ]

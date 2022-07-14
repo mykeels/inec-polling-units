@@ -13,7 +13,24 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.3543136,
+      "longitude": -79.7673815,
+      "viewport": {
+        "northeast": {
+          "lat": 43.35568802989272,
+          "lng": -79.76611527010728
+        },
+        "southwest": {
+          "lat": 43.35298837010728,
+          "lng": -79.76881492989273
+        }
+      },
+      "formatted_address": "4056 New St, Burlington, ON L7L 1S9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.3543136,-79.7673815",
+      "google_place_id": "ChIJ3SpPLUFgK4gRF1WNfXrxACA"
+    }
   },
   {
     "id": "350285",
@@ -29,7 +46,24 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.469134700000001,
+      "longitude": 4.5422036,
+      "viewport": {
+        "northeast": {
+          "lat": 7.47048237989272,
+          "lng": 4.543551379892723
+        },
+        "southwest": {
+          "lat": 7.467782720107277,
+          "lng": 4.540851720107279
+        }
+      },
+      "formatted_address": "FG9R+MV4, ONDO ROAD, 220101, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.469134700000001,4.5422036",
+      "google_place_id": "ChIJ387rjco3OBARn9PKyU0Dqz8"
+    }
   },
   {
     "id": "350286",
@@ -45,7 +79,24 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.33839,
+      "longitude": 4.5299759,
+      "viewport": {
+        "northeast": {
+          "lat": 7.339937079892721,
+          "lng": 4.531247079892721
+        },
+        "southwest": {
+          "lat": 7.337237420107277,
+          "lng": 4.528547420107278
+        }
+      },
+      "formatted_address": "8GQH+9X5, 220112, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.33839,4.5299759",
+      "google_place_id": "ChIJ6xcNatBIOBARM7qMfLms-0I"
+    }
   },
   {
     "id": "350287",
@@ -61,7 +112,24 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5303234,
+      "longitude": 4.4691022,
+      "viewport": {
+        "northeast": {
+          "lat": 7.531673229892724,
+          "lng": 4.470452029892722
+        },
+        "southwest": {
+          "lat": 7.52897357010728,
+          "lng": 4.467752370107278
+        }
+      },
+      "formatted_address": "Ayepe Area, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5303234,4.4691022",
+      "google_place_id": "ChIJ77oSHBEzOBARJnsHaI2IOh8"
+    }
   },
   {
     "id": "350288",
@@ -77,7 +145,24 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.4253911,
+      "longitude": -80.5162734,
+      "viewport": {
+        "northeast": {
+          "lat": 43.42688567989272,
+          "lng": -80.51469992010728
+        },
+        "southwest": {
+          "lat": 43.42418602010728,
+          "lng": -80.51739957989273
+        }
+      },
+      "formatted_address": "45 Birchcliff Ave, Kitchener, ON N2M 4V7, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4253911,-80.5162734",
+      "google_place_id": "ChIJw7MPamTzK4gRguNu5QdvYR4"
+    }
   },
   {
     "id": "350289",
@@ -93,6 +178,23 @@
     "local_government_id": "613",
     "local_government_name": "IFE NORTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.316552,
+      "longitude": 4.4268,
+      "viewport": {
+        "northeast": {
+          "lat": 7.317883929892721,
+          "lng": 4.428240779892722
+        },
+        "southwest": {
+          "lat": 7.315184270107277,
+          "lng": 4.425541120107278
+        }
+      },
+      "formatted_address": "8C8G+JPF, 220107, Kilibi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.316552,4.4268",
+      "google_place_id": "ChIJ83bITJBMOBARS7hKdkRapqE"
+    }
   }
 ]

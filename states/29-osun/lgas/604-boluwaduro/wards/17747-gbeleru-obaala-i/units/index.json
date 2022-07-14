@@ -13,7 +13,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9094148,
+      "longitude": 4.807519,
+      "viewport": {
+        "northeast": {
+          "lat": 7.91073752989272,
+          "lng": 4.809139729892721
+        },
+        "southwest": {
+          "lat": 7.908037870107276,
+          "lng": 4.806440070107278
+        }
+      },
+      "formatted_address": "WR54+GWP Kiriji Memorial College, 231118, Igbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9094148,4.807519",
+      "google_place_id": "ChIJ749O0iHyNxARKa6cLbDFSCI"
+    }
   },
   {
     "id": "348939",
@@ -29,7 +46,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.901963899999999,
+      "longitude": 4.6907876,
+      "viewport": {
+        "northeast": {
+          "lat": 7.903222329892722,
+          "lng": 4.692010629892722
+        },
+        "southwest": {
+          "lat": 7.900522670107278,
+          "lng": 4.689310970107278
+        }
+      },
+      "formatted_address": "WM2R+Q8V, 231114, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.901963899999999,4.6907876",
+      "google_place_id": "ChIJn6dBxgiNNxARSyu2IWRT5dc"
+    }
   },
   {
     "id": "348940",
@@ -45,7 +79,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.903911999999999,
+      "longitude": 4.814385,
+      "viewport": {
+        "northeast": {
+          "lat": 7.905344879892721,
+          "lng": 4.815765779892723
+        },
+        "southwest": {
+          "lat": 7.902645220107277,
+          "lng": 4.813066120107279
+        }
+      },
+      "formatted_address": "WR37+HQ6, 231118, Iresi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.903911999999999,4.814385",
+      "google_place_id": "ChIJ_fafZ4nxNxARdlld6ahH1hY"
+    }
   },
   {
     "id": "348941",
@@ -61,7 +112,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.906156500000001,
+      "longitude": 4.8165089,
+      "viewport": {
+        "northeast": {
+          "lat": 7.907501079892723,
+          "lng": 4.817860579892723
+        },
+        "southwest": {
+          "lat": 7.904801420107279,
+          "lng": 4.815160920107279
+        }
+      },
+      "formatted_address": "WR48+FJ6, 231118, Iresi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.906156500000001,4.8165089",
+      "google_place_id": "ChIJPSprbozxNxARNl_31ht33rc"
+    }
   },
   {
     "id": "348942",
@@ -77,7 +145,24 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.906728299999998,
+      "longitude": 4.8153467,
+      "viewport": {
+        "northeast": {
+          "lat": 7.908070029892722,
+          "lng": 4.816677829892721
+        },
+        "southwest": {
+          "lat": 7.905370370107278,
+          "lng": 4.813978170107277
+        }
+      },
+      "formatted_address": "WR48+M4X, Imesi Road, 231118, Igbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.906728299999998,4.8153467",
+      "google_place_id": "ChIJRV5uhIvxNxARHLw7vViCGpg"
+    }
   },
   {
     "id": "348943",
@@ -93,6 +178,23 @@
     "local_government_id": "604",
     "local_government_name": "BOLUWADURO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.239702699999999,
+      "longitude": 3.0278447,
+      "viewport": {
+        "northeast": {
+          "lat": 7.241143229892722,
+          "lng": 3.029266179892722
+        },
+        "southwest": {
+          "lat": 7.238443570107278,
+          "lng": 3.026566520107277
+        }
+      },
+      "formatted_address": "62QH+V4Q, 111109, Ayetoro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.239702699999999,3.0278447",
+      "google_place_id": "ChIJ57T6-Of5OhARPonixJIPBNE"
+    }
   }
 ]

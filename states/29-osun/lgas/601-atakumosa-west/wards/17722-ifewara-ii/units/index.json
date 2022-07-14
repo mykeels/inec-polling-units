@@ -13,7 +13,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.459199899999999,
+      "longitude": 4.6771001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.460632329892721,
+          "lng": 4.678267429892721
+        },
+        "southwest": {
+          "lat": 7.457932670107277,
+          "lng": 4.675567770107278
+        }
+      },
+      "formatted_address": "Ria Road, Ifewara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.459199899999999,4.6771001",
+      "google_place_id": "ChIJjQvTxPw-OBARhQR2vpMwCwM"
+    }
   },
   {
     "id": "348694",
@@ -29,7 +46,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.473474599999999,
+      "longitude": 4.6771702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.474865329892721,
+          "lng": 4.678741429892721
+        },
+        "southwest": {
+          "lat": 7.472165670107278,
+          "lng": 4.676041770107277
+        }
+      },
+      "formatted_address": "Ifewara, Ifewara High School, 233106, Ifewara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.473474599999999,4.6771702",
+      "google_place_id": "ChIJmd8msgU_OBARdTCZBwUpJIg"
+    }
   },
   {
     "id": "348695",
@@ -45,7 +79,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.473474599999999,
+      "longitude": 4.6771702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.474722079892723,
+          "lng": 4.678327029892722
+        },
+        "southwest": {
+          "lat": 7.472022420107279,
+          "lng": 4.675627370107278
+        }
+      },
+      "formatted_address": "Ifewara High School, 233106, Osu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.473474599999999,4.6771702",
+      "google_place_id": "ChIJt37mG_I-OBARwdyL4I_CeRk"
+    }
   },
   {
     "id": "348696",
@@ -61,7 +112,8 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348697",
@@ -77,6 +129,23 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.54191,
+      "longitude": 4.721738999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.543289379892721,
+          "lng": 4.723005279892721
+        },
+        "southwest": {
+          "lat": 7.540589720107278,
+          "lng": 4.720305620107277
+        }
+      },
+      "formatted_address": "GPRC+QM9, 233110, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.54191,4.721738999999999",
+      "google_place_id": "ChIJ9UnIEYI9OBARZ6PNBKDg36k"
+    }
   }
 ]

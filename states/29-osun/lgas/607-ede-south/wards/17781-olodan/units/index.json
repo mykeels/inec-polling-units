@@ -13,7 +13,24 @@
     "local_government_id": "607",
     "local_government_name": "EDE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.1335588,
+      "longitude": 4.365024099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.13498632989272,
+          "lng": 4.366627329892722
+        },
+        "southwest": {
+          "lat": 8.132286670107277,
+          "lng": 4.363927670107278
+        }
+      },
+      "formatted_address": "210105, Idi Iroko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1335588,4.365024099999999",
+      "google_place_id": "ChIJhze-lecKNxARhRsT71vGE1I"
+    }
   },
   {
     "id": "349302",
@@ -29,7 +46,24 @@
     "local_government_id": "607",
     "local_government_name": "EDE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 33.9335225,
+      "longitude": -118.3083952,
+      "viewport": {
+        "northeast": {
+          "lat": 33.93488097989272,
+          "lng": -118.3073523701073
+        },
+        "southwest": {
+          "lat": 33.93218132010728,
+          "lng": -118.3100520298927
+        }
+      },
+      "formatted_address": "11130 S Western Ave, Los Angeles, CA 90047, United States",
+      "google_map_url": "https://maps.google.com?q=33.9335225,-118.3083952",
+      "google_place_id": "ChIJHXeJewa2woAR3wvKyqqe-ZM"
+    }
   },
   {
     "id": "349303",
@@ -45,7 +79,24 @@
     "local_government_id": "607",
     "local_government_name": "EDE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 33.9335225,
+      "longitude": -118.3083952,
+      "viewport": {
+        "northeast": {
+          "lat": 33.93488097989272,
+          "lng": -118.3073523701073
+        },
+        "southwest": {
+          "lat": 33.93218132010728,
+          "lng": -118.3100520298927
+        }
+      },
+      "formatted_address": "11130 S Western Ave, Los Angeles, CA 90047, United States",
+      "google_map_url": "https://maps.google.com?q=33.9335225,-118.3083952",
+      "google_place_id": "ChIJHXeJewa2woAR3wvKyqqe-ZM"
+    }
   },
   {
     "id": "349304",
@@ -61,7 +112,8 @@
     "local_government_id": "607",
     "local_government_name": "EDE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349305",
@@ -77,6 +129,7 @@
     "local_government_id": "607",
     "local_government_name": "EDE SOUTH",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

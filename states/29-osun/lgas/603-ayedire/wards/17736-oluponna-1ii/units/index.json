@@ -13,7 +13,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.640390099999999,
+      "longitude": 4.1866596,
+      "viewport": {
+        "northeast": {
+          "lat": 7.641765779892721,
+          "lng": 4.187923979892721
+        },
+        "southwest": {
+          "lat": 7.639066120107277,
+          "lng": 4.185224320107277
+        }
+      },
+      "formatted_address": "J5RP+5M2, Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.640390099999999,4.1866596",
+      "google_place_id": "ChIJS2hxTanbORARglWClsI5ldI"
+    }
   },
   {
     "id": "348863",
@@ -29,7 +46,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.640390099999999,
+      "longitude": 4.1866596,
+      "viewport": {
+        "northeast": {
+          "lat": 7.641765779892721,
+          "lng": 4.187923979892721
+        },
+        "southwest": {
+          "lat": 7.639066120107277,
+          "lng": 4.185224320107277
+        }
+      },
+      "formatted_address": "J5RP+5M2, Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.640390099999999,4.1866596",
+      "google_place_id": "ChIJS2hxTanbORARglWClsI5ldI"
+    }
   },
   {
     "id": "348864",
@@ -45,7 +79,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.640390099999999,
+      "longitude": 4.1866596,
+      "viewport": {
+        "northeast": {
+          "lat": 7.641765779892721,
+          "lng": 4.187923979892721
+        },
+        "southwest": {
+          "lat": 7.639066120107277,
+          "lng": 4.185224320107277
+        }
+      },
+      "formatted_address": "J5RP+5M2, Iwo - Oshogbo Rd, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.640390099999999,4.1866596",
+      "google_place_id": "ChIJS2hxTanbORARglWClsI5ldI"
+    }
   },
   {
     "id": "348865",
@@ -61,7 +112,8 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348866",
@@ -77,6 +129,7 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9153789,
+      "longitude": 4.667987699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.916726479892721,
+          "lng": 4.669341479892721
+        },
+        "southwest": {
+          "lat": 7.914026820107277,
+          "lng": 4.666641820107277
+        }
+      },
+      "formatted_address": "Ajasse Ipo - Offa Rd, 231110, Ikirun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9153789,4.667987699999999",
+      "google_place_id": "ChIJL5Gm9JSNNxARM8lxubHy79I"
+    }
   },
   {
     "id": "349825",
@@ -29,7 +46,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.10848000000001,
+      "longitude": -79.06362,
+      "viewport": {
+        "northeast": {
+          "lat": 43.10983067989272,
+          "lng": -79.06220337010728
+        },
+        "southwest": {
+          "lat": 43.10713102010727,
+          "lng": -79.06490302989273
+        }
+      },
+      "formatted_address": "Niagara Falls, ON L2E 7G9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.10848000000001,-79.06362",
+      "google_place_id": "ChIJB6bSCdZC04kRqE81AQJ0SRc"
+    }
   },
   {
     "id": "349826",
@@ -45,7 +79,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.886263199999998,
+      "longitude": 4.886976799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.887670079892721,
+          "lng": 4.888336279892722
+        },
+        "southwest": {
+          "lat": 7.884970420107277,
+          "lng": 4.885636620107278
+        }
+      },
+      "formatted_address": "VVPP+GQ5, 234101, Igbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.886263199999998,4.886976799999999",
+      "google_place_id": "ChIJ20khaofwNxARJdIwv_fYEWQ"
+    }
   },
   {
     "id": "349827",
@@ -61,7 +112,8 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349828",
@@ -77,6 +129,23 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.886263199999998,
+      "longitude": 4.886976799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.887670079892721,
+          "lng": 4.888336279892722
+        },
+        "southwest": {
+          "lat": 7.884970420107277,
+          "lng": 4.885636620107278
+        }
+      },
+      "formatted_address": "VVPP+GQ5, 234101, Igbajo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.886263199999998,4.886976799999999",
+      "google_place_id": "ChIJ20khaofwNxARJdIwv_fYEWQ"
+    }
   }
 ]

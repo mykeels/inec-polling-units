@@ -13,7 +13,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5896796,
+      "longitude": 4.183447399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.591446729892722,
+          "lng": 4.185124579892721
+        },
+        "southwest": {
+          "lat": 7.588747070107278,
+          "lng": 4.182424920107277
+        }
+      },
+      "formatted_address": "H5QM+V9G, 232015, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5896796,4.183447399999999",
+      "google_place_id": "ChIJiaMn8xnFORARzoOrQLXNURg"
+    }
   },
   {
     "id": "348856",
@@ -29,7 +46,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.553691700000001,
+      "longitude": 4.166734,
+      "viewport": {
+        "northeast": {
+          "lat": 7.555041529892723,
+          "lng": 4.168083829892722
+        },
+        "southwest": {
+          "lat": 7.552341870107279,
+          "lng": 4.165384170107278
+        }
+      },
+      "formatted_address": "Ori Apata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.553691700000001,4.166734",
+      "google_place_id": "ChIJJ1g3i23FORARbyfMw-Uv_BA"
+    }
   },
   {
     "id": "348857",
@@ -45,7 +79,8 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348858",
@@ -61,7 +96,8 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348859",
@@ -77,7 +113,24 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.591154199999999,
+      "longitude": 4.182905,
+      "viewport": {
+        "northeast": {
+          "lat": 7.59266547989272,
+          "lng": 4.184307329892722
+        },
+        "southwest": {
+          "lat": 7.589965820107277,
+          "lng": 4.181607670107279
+        }
+      },
+      "formatted_address": "H5RM+F56, 232015, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.591154199999999,4.182905",
+      "google_place_id": "ChIJ00MRV83EORARQRjUN24_S0Y"
+    }
   },
   {
     "id": "348860",
@@ -93,7 +146,8 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348861",
@@ -109,6 +163,7 @@
     "local_government_id": "603",
     "local_government_name": "AYEDIRE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

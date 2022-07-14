@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7303025,
+      "longitude": 4.3667907,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763281699999999,
+          "lng": 4.395161499999999
+        },
+        "southwest": {
+          "lat": 7.6785566,
+          "lng": 4.3285669
+        }
+      },
+      "formatted_address": "Iwoye/Idoo/Origo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7303025,4.3667907",
+      "google_place_id": "ChIJq93EIQLVORAR5eUSe7bGBkw"
+    }
   },
   {
     "id": "349385",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7210987,
+      "longitude": 4.372894,
+      "viewport": {
+        "northeast": {
+          "lat": 7.722723999999999,
+          "lng": 4.374863
+        },
+        "southwest": {
+          "lat": 7.719721000000001,
+          "lng": 4.3702991
+        }
+      },
+      "formatted_address": "232104, Idoo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7210987,4.372894",
+      "google_place_id": "ChIJ3bYnbh7VORAR4_0f0ueScxg"
+    }
   },
   {
     "id": "349386",
@@ -45,7 +79,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7356578,
+      "longitude": 4.3646226,
+      "viewport": {
+        "northeast": {
+          "lat": 7.736968829892723,
+          "lng": 4.366007379892722
+        },
+        "southwest": {
+          "lat": 7.734269170107279,
+          "lng": 4.363307720107279
+        }
+      },
+      "formatted_address": "232104, Ekuro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7356578,4.3646226",
+      "google_place_id": "ChIJW5PveA7VORARU0zWQrJypBA"
+    }
   },
   {
     "id": "349387",
@@ -61,7 +112,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7303025,
+      "longitude": 4.3667907,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763281699999999,
+          "lng": 4.395161499999999
+        },
+        "southwest": {
+          "lat": 7.6785566,
+          "lng": 4.3285669
+        }
+      },
+      "formatted_address": "Iwoye/Idoo/Origo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7303025,4.3667907",
+      "google_place_id": "ChIJq93EIQLVORAR5eUSe7bGBkw"
+    }
   },
   {
     "id": "349388",
@@ -77,6 +145,23 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.741532799999999,
+      "longitude": 4.4340657,
+      "viewport": {
+        "northeast": {
+          "lat": 7.742899479892723,
+          "lng": 4.435477679892722
+        },
+        "southwest": {
+          "lat": 7.740199820107279,
+          "lng": 4.432778020107278
+        }
+      },
+      "formatted_address": "PCRM+JJ3, 232104, Ede, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.741532799999999,4.4340657",
+      "google_place_id": "ChIJYaUQXIsqOBAR138U-41YXcM"
+    }
   }
 ]

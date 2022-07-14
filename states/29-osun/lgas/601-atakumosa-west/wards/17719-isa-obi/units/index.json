@@ -13,7 +13,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5869747,
+      "longitude": 4.629449800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.587950429892723,
+          "lng": 4.630861429892722
+        },
+        "southwest": {
+          "lat": 7.585250770107279,
+          "lng": 4.628161770107278
+        }
+      },
+      "formatted_address": "Ife-Ilesa Expressway, 233105, Osu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5869747,4.629449800000001",
+      "google_place_id": "ChIJiwHrqrQkOBARgXtbfvrSPMI"
+    }
   },
   {
     "id": "348679",
@@ -29,7 +46,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.624280899999999,
+      "longitude": 4.6708709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6474954,
+          "lng": 4.7013785
+        },
+        "southwest": {
+          "lat": 7.602669400000001,
+          "lng": 4.641489099999999
+        }
+      },
+      "formatted_address": "Isa Obi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.624280899999999,4.6708709",
+      "google_place_id": "ChIJk_LnWgkjOBARLV6Nm2vqYS0"
+    }
   },
   {
     "id": "348680",
@@ -45,7 +79,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.624280899999999,
+      "longitude": 4.6708709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6474954,
+          "lng": 4.7013785
+        },
+        "southwest": {
+          "lat": 7.602669400000001,
+          "lng": 4.641489099999999
+        }
+      },
+      "formatted_address": "Isa Obi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.624280899999999,4.6708709",
+      "google_place_id": "ChIJk_LnWgkjOBARLV6Nm2vqYS0"
+    }
   },
   {
     "id": "348681",
@@ -61,6 +112,23 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.624280899999999,
+      "longitude": 4.6708709,
+      "viewport": {
+        "northeast": {
+          "lat": 7.6474954,
+          "lng": 4.7013785
+        },
+        "southwest": {
+          "lat": 7.602669400000001,
+          "lng": 4.641489099999999
+        }
+      },
+      "formatted_address": "Isa Obi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.624280899999999,4.6708709",
+      "google_place_id": "ChIJk_LnWgkjOBARLV6Nm2vqYS0"
+    }
   }
 ]

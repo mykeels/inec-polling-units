@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.814044900000001,
+      "longitude": 4.3762794,
+      "viewport": {
+        "northeast": {
+          "lat": 7.815394729892723,
+          "lng": 4.377629229892722
+        },
+        "southwest": {
+          "lat": 7.812695070107279,
+          "lng": 4.374929570107278
+        }
+      },
+      "formatted_address": "R97G+JG6, 232109, Ara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.814044900000001,4.3762794",
+      "google_place_id": "ChIJP7er2Qx_NxARvk-fyaUcDNk"
+    }
   },
   {
     "id": "349390",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.747338699999999,
+      "longitude": 4.3713076,
+      "viewport": {
+        "northeast": {
+          "lat": 7.748288129892721,
+          "lng": 4.372361029892721
+        },
+        "southwest": {
+          "lat": 7.745588470107277,
+          "lng": 4.369661370107277
+        }
+      },
+      "formatted_address": "P9WC+WGM, Awo-Iwoye Road, 232104, Iwoye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.747338699999999,4.3713076",
+      "google_place_id": "ChIJA76Zum7VORAR-mQ0G3Q2KXY"
+    }
   },
   {
     "id": "349391",
@@ -45,6 +79,7 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

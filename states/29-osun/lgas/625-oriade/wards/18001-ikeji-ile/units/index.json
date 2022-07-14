@@ -13,7 +13,24 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.484775,
+      "longitude": 4.9224877,
+      "viewport": {
+        "northeast": {
+          "lat": 7.486106479892723,
+          "lng": 4.923921879892722
+        },
+        "southwest": {
+          "lat": 7.483406820107279,
+          "lng": 4.921222220107278
+        }
+      },
+      "formatted_address": "233119, Ipetu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.484775,4.9224877",
+      "google_place_id": "ChIJX1bk_hwNOBAR_heiDwYW_9s"
+    }
   },
   {
     "id": "351868",
@@ -29,7 +46,24 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4216221,
+      "longitude": 4.954604,
+      "viewport": {
+        "northeast": {
+          "lat": 7.422351279892721,
+          "lng": 4.955546979892723
+        },
+        "southwest": {
+          "lat": 7.419651620107278,
+          "lng": 4.952847320107279
+        }
+      },
+      "formatted_address": "CXC3+JRX, Ipo Arakeji, Ijesa, Ikeji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4216221,4.954604",
+      "google_place_id": "ChIJtSTZbkQNOBARldfKL2DQJxc"
+    }
   },
   {
     "id": "351869",
@@ -45,7 +79,24 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4215317,
+      "longitude": 4.9454803,
+      "viewport": {
+        "northeast": {
+          "lat": 7.4944267,
+          "lng": 4.992174599999999
+        },
+        "southwest": {
+          "lat": 7.4043284,
+          "lng": 4.9187122
+        }
+      },
+      "formatted_address": "Ikeji-Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4215317,4.9454803",
+      "google_place_id": "ChIJh4I0sfQMOBAR6iWzR2NJMgU"
+    }
   },
   {
     "id": "351870",
@@ -61,6 +112,23 @@
     "local_government_id": "625",
     "local_government_name": "ORIADE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.1372043,
+      "longitude": 4.3359635,
+      "viewport": {
+        "northeast": {
+          "lat": 7.214711200000001,
+          "lng": 4.3964228
+        },
+        "southwest": {
+          "lat": 7.059700899999999,
+          "lng": 4.2674067
+        }
+      },
+      "formatted_address": "Araromi-Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1372043,4.3359635",
+      "google_place_id": "ChIJdWvQ4cGrORARqfZTf4lApvM"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3484488,
+      "longitude": 4.1871735,
+      "viewport": {
+        "northeast": {
+          "lat": 7.349787529892722,
+          "lng": 4.188535329892722
+        },
+        "southwest": {
+          "lat": 7.347087870107278,
+          "lng": 4.185835670107278
+        }
+      },
+      "formatted_address": "Arikoko Area, 221105, Apomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3484488,4.1871735",
+      "google_place_id": "ChIJkwh7ZQq5ORARWxNCXL02EdQ"
+    }
   },
   {
     "id": "351108",
@@ -29,7 +46,8 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351109",
@@ -45,7 +63,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.4144431,
+      "longitude": 3.9398347,
+      "viewport": {
+        "northeast": {
+          "lat": 7.415787479892723,
+          "lng": 3.941155679892722
+        },
+        "southwest": {
+          "lat": 7.413087820107279,
+          "lng": 3.938456020107278
+        }
+      },
+      "formatted_address": "8 Orange Lane, Akeke Zone B, Bode Wasimi Bashorun Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4144431,3.9398347",
+      "google_place_id": "ChIJ9e7dqGmTORARmbtaGqcHJsc"
+    }
   },
   {
     "id": "351110",
@@ -61,7 +96,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6260561,
+      "longitude": 4.1915339,
+      "viewport": {
+        "northeast": {
+          "lat": 7.627396579892721,
+          "lng": 4.192862879892721
+        },
+        "southwest": {
+          "lat": 7.624696920107277,
+          "lng": 4.190163220107277
+        }
+      },
+      "formatted_address": "J5GR+CJ9, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6260561,4.1915339",
+      "google_place_id": "ChIJkd1HjwLbORARtAZJDwvCfvE"
+    }
   },
   {
     "id": "351111",
@@ -77,7 +129,24 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.1123287,
+      "longitude": 3.2721941,
+      "viewport": {
+        "northeast": {
+          "lat": 7.122447999999999,
+          "lng": 3.28577
+        },
+        "southwest": {
+          "lat": 7.09974,
+          "lng": 3.259902
+        }
+      },
+      "formatted_address": "110103, Eruku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.1123287,3.2721941",
+      "google_place_id": "ChIJHbEzfW5NOhARTvEYbE1JEiI"
+    }
   },
   {
     "id": "351112",
@@ -93,6 +162,23 @@
     "local_government_id": "619",
     "local_government_name": "ISOKAN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3165812,
+      "longitude": 4.1859657,
+      "viewport": {
+        "northeast": {
+          "lat": 7.31830887989272,
+          "lng": 4.187808529892721
+        },
+        "southwest": {
+          "lat": 7.315609220107277,
+          "lng": 4.185108870107277
+        }
+      },
+      "formatted_address": "858P+J9P, Along Oranran road, off Ori-oke road, Ikoyi, Apomu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3165812,4.1859657",
+      "google_place_id": "ChIJV3J_V8W7ORARSDhhjsVstPY"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.808529800000001,
+      "longitude": 4.4262325,
+      "viewport": {
+        "northeast": {
+          "lat": 7.809938129892723,
+          "lng": 4.427731029892723
+        },
+        "southwest": {
+          "lat": 7.807238470107279,
+          "lng": 4.425031370107279
+        }
+      },
+      "formatted_address": "Baptist day school, Ara,Osun State, 232109, Ojo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.808529800000001,4.4262325",
+      "google_place_id": "ChIJyQwhVLKBNxART49_PYlS2G0"
+    }
   },
   {
     "id": "349380",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.783158100000001,
+      "longitude": 4.3655059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7944041,
+          "lng": 4.377066
+        },
+        "southwest": {
+          "lat": 7.772498099999999,
+          "lng": 4.355878
+        }
+      },
+      "formatted_address": "Iragberi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.783158100000001,4.3655059",
+      "google_place_id": "ChIJUfWgcch_NxARWc0aLiSSbmg"
+    }
   },
   {
     "id": "349381",
@@ -45,7 +79,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.783158100000001,
+      "longitude": 4.3655059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7944041,
+          "lng": 4.377066
+        },
+        "southwest": {
+          "lat": 7.772498099999999,
+          "lng": 4.355878
+        }
+      },
+      "formatted_address": "Iragberi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.783158100000001,4.3655059",
+      "google_place_id": "ChIJUfWgcch_NxARWc0aLiSSbmg"
+    }
   },
   {
     "id": "349382",
@@ -61,7 +112,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.783158100000001,
+      "longitude": 4.3655059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7944041,
+          "lng": 4.377066
+        },
+        "southwest": {
+          "lat": 7.772498099999999,
+          "lng": 4.355878
+        }
+      },
+      "formatted_address": "Iragberi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.783158100000001,4.3655059",
+      "google_place_id": "ChIJUfWgcch_NxARWc0aLiSSbmg"
+    }
   },
   {
     "id": "349383",
@@ -77,6 +145,7 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

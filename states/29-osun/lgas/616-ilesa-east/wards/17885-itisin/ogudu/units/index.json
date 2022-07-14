@@ -13,7 +13,24 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.6626351,
+      "longitude": -79.5928338,
+      "viewport": {
+        "northeast": {
+          "lat": 43.66399152989272,
+          "lng": -79.59142997010728
+        },
+        "southwest": {
+          "lat": 43.66129187010728,
+          "lng": -79.59412962989272
+        }
+      },
+      "formatted_address": "2800 Skymark Ave Suite 402, Mississauga, ON L4W 5A6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6626351,-79.5928338",
+      "google_place_id": "ChIJD25RarI5K4gR24_52D0AkCA"
+    }
   },
   {
     "id": "350589",
@@ -29,7 +46,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350590",
@@ -45,7 +63,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350591",
@@ -61,7 +80,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350592",
@@ -77,7 +97,8 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "350593",
@@ -93,6 +114,7 @@
     "local_government_id": "616",
     "local_government_name": "ILESA EAST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

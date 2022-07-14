@@ -13,7 +13,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.5869747,
+      "longitude": 4.629449800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.587950429892723,
+          "lng": 4.630861429892722
+        },
+        "southwest": {
+          "lat": 7.585250770107279,
+          "lng": 4.628161770107278
+        }
+      },
+      "formatted_address": "Ife-Ilesa Expressway, 233105, Osu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5869747,4.629449800000001",
+      "google_place_id": "ChIJiwHrqrQkOBARgXtbfvrSPMI"
+    }
   },
   {
     "id": "348648",
@@ -29,7 +46,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.871918699999999,
+      "longitude": 5.074909300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.873162529892721,
+          "lng": 5.076271729892722
+        },
+        "southwest": {
+          "lat": 7.870462870107277,
+          "lng": 5.073572070107278
+        }
+      },
+      "formatted_address": "V3CF+QX7, 372108, Ipoti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.871918699999999,5.074909300000001",
+      "google_place_id": "ChIJ3Wy1KG8CSBARx6x2qKKu5Hs"
+    }
   },
   {
     "id": "348649",
@@ -45,7 +79,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.581700000000001,
+      "longitude": 4.6631,
+      "viewport": {
+        "northeast": {
+          "lat": 7.582971729892723,
+          "lng": 4.664450179892722
+        },
+        "southwest": {
+          "lat": 7.580272070107279,
+          "lng": 4.661750520107279
+        }
+      },
+      "formatted_address": "HMJ7+M6H, 233109, Ibode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.581700000000001,4.6631",
+      "google_place_id": "ChIJsdA1LbQ8OBARGve8554Z9cg"
+    }
   },
   {
     "id": "348650",
@@ -61,7 +112,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.175804499999999,
+      "longitude": 5.612942,
+      "viewport": {
+        "northeast": {
+          "lat": 7.188409,
+          "lng": 5.627934
+        },
+        "southwest": {
+          "lat": 7.161752,
+          "lng": 5.604436
+        }
+      },
+      "formatted_address": "341102, Iyere, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.175804499999999,5.612942",
+      "google_place_id": "ChIJsYlNpe-uRxARHbfDbhc8iDI"
+    }
   },
   {
     "id": "348651",
@@ -77,7 +145,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.6048317,
+      "longitude": 4.7020789,
+      "viewport": {
+        "northeast": {
+          "lat": 7.60618612989272,
+          "lng": 4.703432779892722
+        },
+        "southwest": {
+          "lat": 7.603486470107276,
+          "lng": 4.700733120107278
+        }
+      },
+      "formatted_address": "JP32+WRP, Isua, Ilesa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6048317,4.7020789",
+      "google_place_id": "ChIJyXf8fsEiOBARQoGJXZB9jXY"
+    }
   },
   {
     "id": "348652",
@@ -93,7 +178,24 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.845558799999999,
+      "longitude": 4.4928531,
+      "viewport": {
+        "northeast": {
+          "lat": 7.885716899999999,
+          "lng": 4.513733
+        },
+        "southwest": {
+          "lat": 7.833897,
+          "lng": 4.456170999999999
+        }
+      },
+      "formatted_address": "230102, Ilobu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.845558799999999,4.4928531",
+      "google_place_id": "ChIJx5jTA5qDNxARjFkB8u3GrLw"
+    }
   },
   {
     "id": "348653",
@@ -109,7 +211,8 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "348654",
@@ -125,6 +228,7 @@
     "local_government_id": "601",
     "local_government_name": "ATAKUMOSA WEST",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   }
 ]

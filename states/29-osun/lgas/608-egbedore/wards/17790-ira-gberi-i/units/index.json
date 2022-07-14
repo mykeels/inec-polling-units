@@ -13,7 +13,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.7845724,
+      "longitude": 4.3636493,
+      "viewport": {
+        "northeast": {
+          "lat": 7.785702229892721,
+          "lng": 4.364906529892722
+        },
+        "southwest": {
+          "lat": 7.783002570107278,
+          "lng": 4.362206870107278
+        }
+      },
+      "formatted_address": "Q9M7+RFC, 232109, Iragberi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7845724,4.3636493",
+      "google_place_id": "ChIJubOambN_NxARiGKfCoL6k0Y"
+    }
   },
   {
     "id": "349376",
@@ -29,7 +46,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.9016186,
+      "longitude": 4.3231241,
+      "viewport": {
+        "northeast": {
+          "lat": 7.912585,
+          "lng": 4.3307424
+        },
+        "southwest": {
+          "lat": 7.893805,
+          "lng": 4.3143674
+        }
+      },
+      "formatted_address": "Elejigbo 'D'/Ejemu, 232116, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9016186,4.3231241",
+      "google_place_id": "ChIJgdfHmYV5NxARrIw1Saw6Yvw"
+    }
   },
   {
     "id": "349377",
@@ -45,7 +79,24 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.783158100000001,
+      "longitude": 4.3655059,
+      "viewport": {
+        "northeast": {
+          "lat": 7.7944041,
+          "lng": 4.377066
+        },
+        "southwest": {
+          "lat": 7.772498099999999,
+          "lng": 4.355878
+        }
+      },
+      "formatted_address": "Iragberi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.783158100000001,4.3655059",
+      "google_place_id": "ChIJUfWgcch_NxARWc0aLiSSbmg"
+    }
   },
   {
     "id": "349378",
@@ -61,6 +112,23 @@
     "local_government_id": "608",
     "local_government_name": "EGBEDORE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.8605051,
+      "longitude": 4.4736006,
+      "viewport": {
+        "northeast": {
+          "lat": 7.861792129892723,
+          "lng": 4.474984429892721
+        },
+        "southwest": {
+          "lat": 7.859092470107279,
+          "lng": 4.472284770107278
+        }
+      },
+      "formatted_address": "L36 Jaleoyemi Street, Osogbo - Ogbomoso Rd, Ifon-Osun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8605051,4.4736006",
+      "google_place_id": "ChIJ-wBhmfCDNxARqVC_84t5YFQ"
+    }
   }
 ]

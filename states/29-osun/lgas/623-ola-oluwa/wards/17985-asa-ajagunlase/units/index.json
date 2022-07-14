@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.984678,
+      "longitude": 4.645796,
+      "viewport": {
+        "northeast": {
+          "lat": 7.985794579892723,
+          "lng": 4.646919879892722
+        },
+        "southwest": {
+          "lat": 7.983094920107278,
+          "lng": 4.644220220107278
+        }
+      },
+      "formatted_address": "XJMW+V8F, 231101, Inisa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.984678,4.645796",
+      "google_place_id": "ChIJM7ebMdaTNxARHVqTHbGtIY4"
+    }
   },
   {
     "id": "351617",
@@ -29,7 +46,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351618",
@@ -45,7 +63,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.818477499999999,
+      "longitude": 4.2057215,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819827329892721,
+          "lng": 4.207071329892722
+        },
+        "southwest": {
+          "lat": 7.817127670107277,
+          "lng": 4.204371670107278
+        }
+      },
+      "formatted_address": "R694+97X Ola Oluwa, Asa Ajagunlase, 232119, Idiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.818477499999999,4.2057215",
+      "google_place_id": "ChIJ1wYc4i1jNxAR5_mqXqA7F2A"
+    }
   },
   {
     "id": "351619",
@@ -61,7 +96,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.818477499999999,
+      "longitude": 4.2057215,
+      "viewport": {
+        "northeast": {
+          "lat": 7.819827329892721,
+          "lng": 4.207071329892722
+        },
+        "southwest": {
+          "lat": 7.817127670107277,
+          "lng": 4.204371670107278
+        }
+      },
+      "formatted_address": "R694+97X Ola Oluwa, Asa Ajagunlase, 232119, Idiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.818477499999999,4.2057215",
+      "google_place_id": "ChIJ1wYc4i1jNxAR5_mqXqA7F2A"
+    }
   },
   {
     "id": "351620",
@@ -77,7 +129,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351621",
@@ -93,7 +146,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351622",
@@ -109,7 +163,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.812897799999999,
+      "longitude": 4.206108299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.813909329892723,
+          "lng": 4.207923099999999
+        },
+        "southwest": {
+          "lat": 7.811209670107279,
+          "lng": 4.2050791
+        }
+      },
+      "formatted_address": "Idiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812897799999999,4.206108299999999",
+      "google_place_id": "ChIJLZhfDRxjNxARBznr6UZHUBA"
+    }
   },
   {
     "id": "351623",
@@ -125,7 +196,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351624",
@@ -141,6 +213,23 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.8970335,
+      "longitude": 4.102394299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.898383329892722,
+          "lng": 4.103744129892722
+        },
+        "southwest": {
+          "lat": 7.895683670107278,
+          "lng": 4.101044470107278
+        }
+      },
+      "formatted_address": "V4W2+RX6, 210101, Ofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8970335,4.102394299999999",
+      "google_place_id": "ChIJIdYdNqhnNxARV7tfZpfEa1Y"
+    }
   }
 ]

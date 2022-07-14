@@ -13,7 +13,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.779574599999999,
+      "longitude": 4.25064,
+      "viewport": {
+        "northeast": {
+          "lat": 7.78247,
+          "lng": 4.2535551
+        },
+        "southwest": {
+          "lat": 7.7751011,
+          "lng": 4.247568000000001
+        }
+      },
+      "formatted_address": "232111, Ajagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.779574599999999,4.25064",
+      "google_place_id": "ChIJFZk4uEN9NxARaduNODzD8Mc"
+    }
   },
   {
     "id": "351611",
@@ -29,7 +46,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.812915199999999,
+      "longitude": 4.2384621,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8352301,
+          "lng": 4.265197
+        },
+        "southwest": {
+          "lat": 7.7670521,
+          "lng": 4.2238486
+        }
+      },
+      "formatted_address": "Ajagba/Iwo Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812915199999999,4.2384621",
+      "google_place_id": "ChIJYdvW7iV9NxARM06Hm6fvdRE"
+    }
   },
   {
     "id": "351612",
@@ -45,7 +79,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.812915199999999,
+      "longitude": 4.2384621,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8352301,
+          "lng": 4.265197
+        },
+        "southwest": {
+          "lat": 7.7670521,
+          "lng": 4.2238486
+        }
+      },
+      "formatted_address": "Ajagba/Iwo Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812915199999999,4.2384621",
+      "google_place_id": "ChIJYdvW7iV9NxARM06Hm6fvdRE"
+    }
   },
   {
     "id": "351613",
@@ -61,7 +112,24 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.812915199999999,
+      "longitude": 4.2384621,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8352301,
+          "lng": 4.265197
+        },
+        "southwest": {
+          "lat": 7.7670521,
+          "lng": 4.2238486
+        }
+      },
+      "formatted_address": "Ajagba/Iwo Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.812915199999999,4.2384621",
+      "google_place_id": "ChIJYdvW7iV9NxARM06Hm6fvdRE"
+    }
   },
   {
     "id": "351614",
@@ -77,7 +145,8 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "351615",
@@ -93,6 +162,23 @@
     "local_government_id": "623",
     "local_government_name": "OLA-OLUWA",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.620575,
+      "longitude": 4.438630799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.621925879892722,
+          "lng": 4.439987079892721
+        },
+        "southwest": {
+          "lat": 7.619226220107278,
+          "lng": 4.437287420107277
+        }
+      },
+      "formatted_address": "JCCQ+6FJ, 232101, Ojudo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.620575,4.438630799999999",
+      "google_place_id": "ChIJK2o986YtOBARekQeEqug5iw"
+    }
   }
 ]

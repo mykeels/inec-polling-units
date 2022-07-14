@@ -13,7 +13,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0179703,
+      "longitude": 4.9091039,
+      "viewport": {
+        "northeast": {
+          "lat": 8.019262429892724,
+          "lng": 4.910441429892721
+        },
+        "southwest": {
+          "lat": 8.01656277010728,
+          "lng": 4.907741770107277
+        }
+      },
+      "formatted_address": "2W95+5JQ, 234101, Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0179703,4.9091039",
+      "google_place_id": "ChIJqROIAgrmNxAR0Ox-vgnw6yY"
+    }
   },
   {
     "id": "349794",
@@ -29,7 +46,8 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349795",
@@ -45,7 +63,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.964827799999999,
+      "longitude": 5.0031228,
+      "viewport": {
+        "northeast": {
+          "lat": 7.966349029892722,
+          "lng": 5.004483229892722
+        },
+        "southwest": {
+          "lat": 7.963649370107278,
+          "lng": 5.001783570107278
+        }
+      },
+      "formatted_address": "234102, Oke Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.964827799999999,5.0031228",
+      "google_place_id": "ChIJ_QC0rlPjNxARWeKji4x26BI"
+    }
   },
   {
     "id": "349796",
@@ -61,7 +96,24 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.964827799999999,
+      "longitude": 5.0031228,
+      "viewport": {
+        "northeast": {
+          "lat": 7.966349029892722,
+          "lng": 5.004483229892722
+        },
+        "southwest": {
+          "lat": 7.963649370107278,
+          "lng": 5.001783570107278
+        }
+      },
+      "formatted_address": "234102, Oke Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.964827799999999,5.0031228",
+      "google_place_id": "ChIJ_QC0rlPjNxARWeKji4x26BI"
+    }
   },
   {
     "id": "349797",
@@ -77,6 +129,23 @@
     "local_government_id": "611",
     "local_government_name": "IFEDAYO",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.964827799999999,
+      "longitude": 5.0031228,
+      "viewport": {
+        "northeast": {
+          "lat": 7.966349029892722,
+          "lng": 5.004483229892722
+        },
+        "southwest": {
+          "lat": 7.963649370107278,
+          "lng": 5.001783570107278
+        }
+      },
+      "formatted_address": "234102, Oke Ila Orangun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.964827799999999,5.0031228",
+      "google_place_id": "ChIJ_QC0rlPjNxARWeKji4x26BI"
+    }
   }
 ]

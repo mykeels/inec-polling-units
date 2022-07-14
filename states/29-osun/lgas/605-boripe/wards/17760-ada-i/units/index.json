@@ -13,7 +13,24 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.7449051,
+      "longitude": -79.5820281,
+      "viewport": {
+        "northeast": {
+          "lat": 43.74626842989272,
+          "lng": -79.58094112010728
+        },
+        "southwest": {
+          "lat": 43.74356877010727,
+          "lng": -79.58364077989272
+        }
+      },
+      "formatted_address": "2533 Kipling Ave, Etobicoke, ON M9V 3A8, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7449051,-79.5820281",
+      "google_place_id": "ChIJ3x_2tJI6K4gRd5onG2KPMI8"
+    }
   },
   {
     "id": "349055",
@@ -29,7 +46,8 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349056",
@@ -45,7 +63,24 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 43.467728,
+      "longitude": -80.519207,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46908917989272,
+          "lng": -80.51805987010728
+        },
+        "southwest": {
+          "lat": 43.46638952010727,
+          "lng": -80.52075952989273
+        }
+      },
+      "formatted_address": "53 Bridgeport Rd E, Waterloo, ON N2J 2J7, Canada",
+      "google_map_url": "https://maps.google.com?q=43.467728,-80.519207",
+      "google_place_id": "ChIJO1L7j3P0K4gR9cnVHzUl8V0"
+    }
   },
   {
     "id": "349057",
@@ -61,7 +96,8 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349058",
@@ -77,7 +113,8 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": null
   },
   {
     "id": "349059",
@@ -93,6 +130,23 @@
     "local_government_id": "605",
     "local_government_name": "BORIPE",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.3241893,
+      "longitude": 4.1846569,
+      "viewport": {
+        "northeast": {
+          "lat": 7.357286,
+          "lng": 4.1906877
+        },
+        "southwest": {
+          "lat": 7.3190035,
+          "lng": 4.1681529
+        }
+      },
+      "formatted_address": "Alapomu I (Odo-Osun), 221105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3241893,4.1846569",
+      "google_place_id": "ChIJsey5fWS5ORARU2SwJ2pj5x8"
+    }
   }
 ]

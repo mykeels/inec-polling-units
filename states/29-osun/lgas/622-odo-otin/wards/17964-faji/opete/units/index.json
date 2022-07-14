@@ -13,7 +13,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0485641,
+      "longitude": 4.7629166,
+      "viewport": {
+        "northeast": {
+          "lat": 8.049866729892722,
+          "lng": 4.764294179892722
+        },
+        "southwest": {
+          "lat": 8.047167070107278,
+          "lng": 4.761594520107278
+        }
+      },
+      "formatted_address": "2QX7+C5F, 231106, Oyan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0485641,4.7629166",
+      "google_place_id": "ChIJSW1B3A7rNxARNmyBuT1EFc0"
+    }
   },
   {
     "id": "351470",
@@ -29,7 +46,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 7.908837699999999,
+      "longitude": 4.6605501,
+      "viewport": {
+        "northeast": {
+          "lat": 7.910209779892722,
+          "lng": 4.662109879892721
+        },
+        "southwest": {
+          "lat": 7.907510120107278,
+          "lng": 4.659410220107278
+        }
+      },
+      "formatted_address": "WM56+G6M, Ikirun- Oke-Afo,, New Ikirun Rd, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.908837699999999,4.6605501",
+      "google_place_id": "ChIJ-138f8GNNxARvdH1TKwxXq0"
+    }
   },
   {
     "id": "351471",
@@ -45,7 +79,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0590915,
+      "longitude": 4.6344763,
+      "viewport": {
+        "northeast": {
+          "lat": 8.060404479892723,
+          "lng": 4.636009379892722
+        },
+        "southwest": {
+          "lat": 8.05770482010728,
+          "lng": 4.633309720107278
+        }
+      },
+      "formatted_address": "3J5M+JQQ, 250102, Erin Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0590915,4.6344763",
+      "google_place_id": "ChIJWRQXqYiWNxARMz7395U1s_s"
+    }
   },
   {
     "id": "351472",
@@ -61,7 +112,24 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.0242417,
+      "longitude": 4.6761739,
+      "viewport": {
+        "northeast": {
+          "lat": 8.02565687989272,
+          "lng": 4.677543529892723
+        },
+        "southwest": {
+          "lat": 8.022957220107276,
+          "lng": 4.674843870107279
+        }
+      },
+      "formatted_address": "local government, O'bas compound, 231101, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0242417,4.6761739",
+      "google_place_id": "ChIJKRNn4HmUNxARYsh0JqVp7mU"
+    }
   },
   {
     "id": "351473",
@@ -77,6 +145,23 @@
     "local_government_id": "622",
     "local_government_name": "ODO-OTIN",
     "state_id": "29",
-    "state_name": "OSUN"
+    "state_name": "OSUN",
+    "location": {
+      "latitude": 8.016063599999999,
+      "longitude": 4.6731406,
+      "viewport": {
+        "northeast": {
+          "lat": 8.017427829892721,
+          "lng": 4.674465479892722
+        },
+        "southwest": {
+          "lat": 8.014728170107277,
+          "lng": 4.671765820107278
+        }
+      },
+      "formatted_address": "2M8F+C6P, Ajasse Ipo - Offa, 231105, Okuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.016063599999999,4.6731406",
+      "google_place_id": "ChIJr9-hGImTNxARDwuVVgmQBtU"
+    }
   }
 ]
