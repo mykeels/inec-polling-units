@@ -13,7 +13,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.0603973,
+      "longitude": 3.3237824,
+      "viewport": {
+        "northeast": {
+          "lat": 8.0732654,
+          "lng": 3.3631157
+        },
+        "southwest": {
+          "lat": 8.0446919,
+          "lng": 3.299633
+        }
+      },
+      "formatted_address": "Ilaji Oke/Iwere-Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0603973,3.3237824",
+      "google_place_id": "ChIJnfNXNYyTMBARAujRyUiOP04"
+    }
   },
   {
     "id": "356449",
@@ -29,7 +46,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.041752299999999,
+      "longitude": 3.3451944,
+      "viewport": {
+        "northeast": {
+          "lat": 8.04312802989272,
+          "lng": 3.346305029892723
+        },
+        "southwest": {
+          "lat": 8.040428370107277,
+          "lng": 3.343605370107278
+        }
+      },
+      "formatted_address": "28RW+P34, Iseyin, Iganna, Road, Oyalugbo Street, Okeho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.041752299999999,3.3451944",
+      "google_place_id": "ChIJrYUsxC-VMBARmwBtVhTUs7k"
+    }
   },
   {
     "id": "356450",
@@ -45,7 +79,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.041752299999999,
+      "longitude": 3.3451944,
+      "viewport": {
+        "northeast": {
+          "lat": 8.04312802989272,
+          "lng": 3.346305029892723
+        },
+        "southwest": {
+          "lat": 8.040428370107277,
+          "lng": 3.343605370107278
+        }
+      },
+      "formatted_address": "28RW+P34, Iseyin, Iganna, Road, Oyalugbo Street, Okeho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.041752299999999,3.3451944",
+      "google_place_id": "ChIJrYUsxC-VMBARmwBtVhTUs7k"
+    }
   },
   {
     "id": "356451",
@@ -61,7 +112,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356452",
@@ -77,7 +129,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.0432405,
+      "longitude": 3.3801083,
+      "viewport": {
+        "northeast": {
+          "lat": 8.044586729892723,
+          "lng": 3.381458229892722
+        },
+        "southwest": {
+          "lat": 8.041887070107279,
+          "lng": 3.378758570107278
+        }
+      },
+      "formatted_address": "29VJ+72X, 202107, Oke Iho Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0432405,3.3801083",
+      "google_place_id": "ChIJgy67ptKVMBAR5v4rb-bBfQA"
+    }
   },
   {
     "id": "356453",
@@ -93,6 +162,23 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.0603973,
+      "longitude": 3.3237824,
+      "viewport": {
+        "northeast": {
+          "lat": 8.0732654,
+          "lng": 3.3631157
+        },
+        "southwest": {
+          "lat": 8.0446919,
+          "lng": 3.299633
+        }
+      },
+      "formatted_address": "Ilaji Oke/Iwere-Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0603973,3.3237824",
+      "google_place_id": "ChIJnfNXNYyTMBARAujRyUiOP04"
+    }
   }
 ]

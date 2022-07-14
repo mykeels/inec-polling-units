@@ -13,7 +13,8 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352399",
@@ -29,7 +30,24 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.719441000000001,
+      "longitude": 3.799399,
+      "viewport": {
+        "northeast": {
+          "lat": 7.720790829892723,
+          "lng": 3.800748829892722
+        },
+        "southwest": {
+          "lat": 7.718091170107279,
+          "lng": 3.798049170107278
+        }
+      },
+      "formatted_address": "KM2 Imini Road Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.719441000000001,3.799399",
+      "google_place_id": "ChIJIboqNtn_ORARZj3Bs_Ya6PE"
+    }
   },
   {
     "id": "352400",
@@ -45,7 +63,8 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352401",
@@ -61,7 +80,24 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.853829499999999,
+      "longitude": 3.9117276,
+      "viewport": {
+        "northeast": {
+          "lat": 7.855143979892721,
+          "lng": 3.913154829892722
+        },
+        "southwest": {
+          "lat": 7.852444320107277,
+          "lng": 3.910455170107278
+        }
+      },
+      "formatted_address": "VW36+GMQ, Atilola Street, Ojongbodu Area, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853829499999999,3.9117276",
+      "google_place_id": "ChIJlWbU-_5ZNxARIQyI7ChYQj4"
+    }
   },
   {
     "id": "352402",
@@ -77,6 +113,23 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3611871,
+      "longitude": 3.8670033,
+      "viewport": {
+        "northeast": {
+          "lat": 7.362676079892721,
+          "lng": 3.868455929892722
+        },
+        "southwest": {
+          "lat": 7.359976420107277,
+          "lng": 3.865756270107279
+        }
+      },
+      "formatted_address": "Aboderin Layout, Ring Road, PMB 5031, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3611871,3.8670033",
+      "google_place_id": "ChIJ7RJPpLSNORAR68pm8ZJaGLg"
+    }
   }
 ]

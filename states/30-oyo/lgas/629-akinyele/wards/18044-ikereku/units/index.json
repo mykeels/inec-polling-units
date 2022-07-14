@@ -13,7 +13,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4454265,
+      "longitude": 3.9138765,
+      "viewport": {
+        "northeast": {
+          "lat": 7.446736829892722,
+          "lng": 3.915151179892723
+        },
+        "southwest": {
+          "lat": 7.444037170107278,
+          "lng": 3.912451520107279
+        }
+      },
+      "formatted_address": "Alagbara Loluwa Residence, Akinyele, Agbowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4454265,3.9138765",
+      "google_place_id": "ChIJZ6q1h8ftORARFilZRCxm-Xo"
+    }
   },
   {
     "id": "352404",
@@ -29,7 +46,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.630950899999999,
+      "longitude": 3.9720155,
+      "viewport": {
+        "northeast": {
+          "lat": 7.63225127989272,
+          "lng": 3.973574679892722
+        },
+        "southwest": {
+          "lat": 7.629551620107276,
+          "lng": 3.970875020107278
+        }
+      },
+      "formatted_address": "6FV5JXJC+9Q9 Ward 1, Talontan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.630950899999999,3.9720155",
+      "google_place_id": "ChIJpRc1cEvlORARIVYr8zRV5yE"
+    }
   },
   {
     "id": "352405",
@@ -45,7 +79,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.630950899999999,
+      "longitude": 3.9720155,
+      "viewport": {
+        "northeast": {
+          "lat": 7.63225127989272,
+          "lng": 3.973574679892722
+        },
+        "southwest": {
+          "lat": 7.629551620107276,
+          "lng": 3.970875020107278
+        }
+      },
+      "formatted_address": "6FV5JXJC+9Q9 Ward 1, Talontan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.630950899999999,3.9720155",
+      "google_place_id": "ChIJpRc1cEvlORARIVYr8zRV5yE"
+    }
   },
   {
     "id": "352406",
@@ -61,6 +112,23 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.630950899999999,
+      "longitude": 3.9720155,
+      "viewport": {
+        "northeast": {
+          "lat": 7.63225127989272,
+          "lng": 3.973574679892722
+        },
+        "southwest": {
+          "lat": 7.629551620107276,
+          "lng": 3.970875020107278
+        }
+      },
+      "formatted_address": "6FV5JXJC+9Q9 Ward 1, Talontan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.630950899999999,3.9720155",
+      "google_place_id": "ChIJpRc1cEvlORARIVYr8zRV5yE"
+    }
   }
 ]

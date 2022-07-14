@@ -13,7 +13,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.937151,
+      "longitude": 4.1354822,
+      "viewport": {
+        "northeast": {
+          "lat": 7.938554279892723,
+          "lng": 4.136860779892721
+        },
+        "southwest": {
+          "lat": 7.935854620107279,
+          "lng": 4.134161120107278
+        }
+      },
+      "formatted_address": "6FV6W4PP+V59 2 Ojutaye, Abikehin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.937151,4.1354822",
+      "google_place_id": "ChIJVxPgRntnNxARRNzRxKiRvD4"
+    }
   },
   {
     "id": "357130",
@@ -29,7 +46,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.9394176,
+      "longitude": 4.131872599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.940698429892721,
+          "lng": 4.133336229892721
+        },
+        "southwest": {
+          "lat": 7.937998770107277,
+          "lng": 4.130636570107277
+        }
+      },
+      "formatted_address": "6FV6W4QJ+PPQ 2 Osupa Orile, Abikehin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9394176,4.131872599999999",
+      "google_place_id": "ChIJn3Wdul1pNxARc_GPn3Tf88U"
+    }
   },
   {
     "id": "357131",
@@ -45,7 +79,8 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "357132",
@@ -61,7 +96,8 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "357133",
@@ -77,6 +113,23 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.933329199999998,
+      "longitude": 4.1223828,
+      "viewport": {
+        "northeast": {
+          "lat": 7.934637679892722,
+          "lng": 4.123676079892721
+        },
+        "southwest": {
+          "lat": 7.931938020107278,
+          "lng": 4.120976420107277
+        }
+      },
+      "formatted_address": "6FV6W4MC+9W9 1, Abikehin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.933329199999998,4.1223828",
+      "google_place_id": "ChIJvcP7sq1nNxARx3oclaYwPJU"
+    }
   }
 ]

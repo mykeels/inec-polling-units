@@ -13,7 +13,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353911",
@@ -29,7 +30,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353912",
@@ -45,7 +47,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353913",
@@ -61,7 +64,24 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.388657599999999,
+      "longitude": 3.9059383,
+      "viewport": {
+        "northeast": {
+          "lat": 7.390007429892721,
+          "lng": 3.907288129892722
+        },
+        "southwest": {
+          "lat": 7.387307770107277,
+          "lng": 3.904588470107278
+        }
+      },
+      "formatted_address": "Oje Street, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.388657599999999,3.9059383",
+      "google_place_id": "ChIJxWt0U32NORARqg3dI5qnRpM"
+    }
   },
   {
     "id": "353914",
@@ -77,7 +97,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353915",
@@ -93,7 +114,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353916",
@@ -109,7 +131,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353917",
@@ -125,7 +148,8 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "353918",
@@ -141,7 +165,24 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.382106899999999,
+      "longitude": 3.9157419,
+      "viewport": {
+        "northeast": {
+          "lat": 7.383492929892722,
+          "lng": 3.917185929892722
+        },
+        "southwest": {
+          "lat": 7.380793270107278,
+          "lng": 3.914486270107278
+        }
+      },
+      "formatted_address": "IMG Primary School, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.382106899999999,3.9157419",
+      "google_place_id": "ChIJxT_jGYaSORAR3xOGnh20Vh0"
+    }
   },
   {
     "id": "353919",
@@ -157,6 +198,23 @@
     "local_government_id": "634",
     "local_government_name": "IBADAN NORTH EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.382106899999999,
+      "longitude": 3.9157419,
+      "viewport": {
+        "northeast": {
+          "lat": 7.383492929892722,
+          "lng": 3.917185929892722
+        },
+        "southwest": {
+          "lat": 7.380793270107278,
+          "lng": 3.914486270107278
+        }
+      },
+      "formatted_address": "IMG Primary School, 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.382106899999999,3.9157419",
+      "google_place_id": "ChIJxT_jGYaSORAR3xOGnh20Vh0"
+    }
   }
 ]

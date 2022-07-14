@@ -13,7 +13,24 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.843714400000001,
+      "longitude": 3.9208596,
+      "viewport": {
+        "northeast": {
+          "lat": 7.845058379892722,
+          "lng": 3.922219679892721
+        },
+        "southwest": {
+          "lat": 7.842358720107279,
+          "lng": 3.919520020107277
+        }
+      },
+      "formatted_address": "Iseke Titun Road Oyo Jaremily Area, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.843714400000001,3.9208596",
+      "google_place_id": "ChIJhWQfgcBZNxARsjW4oiBup3E"
+    }
   },
   {
     "id": "352394",
@@ -29,7 +46,24 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.762598199999999,
+      "longitude": 3.9202825,
+      "viewport": {
+        "northeast": {
+          "lat": 7.763918879892723,
+          "lng": 3.921524829892722
+        },
+        "southwest": {
+          "lat": 7.761219220107279,
+          "lng": 3.918825170107278
+        }
+      },
+      "formatted_address": "QW7C+348, Jobele Police Sta Rd, 211103, Jobele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.762598199999999,3.9202825",
+      "google_place_id": "ChIJS0iBOnnjORAR7IMoDPW57Qo"
+    }
   },
   {
     "id": "352395",
@@ -45,7 +79,24 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.681839800000001,
+      "longitude": 3.9597479,
+      "viewport": {
+        "northeast": {
+          "lat": 7.683187479892722,
+          "lng": 3.961102679892722
+        },
+        "southwest": {
+          "lat": 7.680487820107278,
+          "lng": 3.958403020107278
+        }
+      },
+      "formatted_address": "No. 3,Afijio Shopping Complex, 211103, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.681839800000001,3.9597479",
+      "google_place_id": "ChIJK0s8gYPjORAR8E3mMiBBlaw"
+    }
   },
   {
     "id": "352396",
@@ -61,7 +112,24 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8200302,
+      "longitude": 3.9657075,
+      "viewport": {
+        "northeast": {
+          "lat": 7.82162882989272,
+          "lng": 3.966950679892721
+        },
+        "southwest": {
+          "lat": 7.818929170107277,
+          "lng": 3.964251020107278
+        }
+      },
+      "formatted_address": "RXC8+278, Awe 211106, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8200302,3.9657075",
+      "google_place_id": "ChIJgW7JOxhZNxARF9VU5HLi-os"
+    }
   },
   {
     "id": "352397",
@@ -77,6 +145,23 @@
     "local_government_id": "628",
     "local_government_name": "AFIJIO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.6792963,
+      "longitude": 3.9591568,
+      "viewport": {
+        "northeast": {
+          "lat": 7.680599829892722,
+          "lng": 3.960521229892722
+        },
+        "southwest": {
+          "lat": 7.677900170107278,
+          "lng": 3.957821570107278
+        }
+      },
+      "formatted_address": "opp. Methodist Church, 211103, Iware, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6792963,3.9591568",
+      "google_place_id": "ChIJ_xi44UnlORARnXlea7FSTZU"
+    }
   }
 ]

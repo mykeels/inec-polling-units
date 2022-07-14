@@ -13,7 +13,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.079985599999999,
+      "longitude": 3.3576087,
+      "viewport": {
+        "northeast": {
+          "lat": 8.08129932989272,
+          "lng": 3.358932129892722
+        },
+        "southwest": {
+          "lat": 8.078599670107277,
+          "lng": 3.356232470107277
+        }
+      },
+      "formatted_address": "6FW539H5+X2P, 3 Gbelekale, 202108, Ilero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.079985599999999,3.3576087",
+      "google_place_id": "ChIJWWko2xmVMBARYhUPVviMt_w"
+    }
   },
   {
     "id": "356404",
@@ -29,7 +46,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3775507,
+      "longitude": 3.9470624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.378873879892723,
+          "lng": 3.948366979892722
+        },
+        "southwest": {
+          "lat": 7.376174220107279,
+          "lng": 3.945667320107278
+        }
+      },
+      "formatted_address": "9WHW+2RF, Omo-oke shopping Plaza akala express way along kuola after CAC revival junction, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3775507,3.9470624",
+      "google_place_id": "ChIJY2PMdF6TORAR5a5Y_oPAOcs"
+    }
   },
   {
     "id": "356405",
@@ -45,7 +79,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.0954101,
+      "longitude": 3.3579125,
+      "viewport": {
+        "northeast": {
+          "lat": 8.096773579892721,
+          "lng": 3.359241929892722
+        },
+        "southwest": {
+          "lat": 8.094073920107277,
+          "lng": 3.356542270107277
+        }
+      },
+      "formatted_address": "ALOKOLOJA COMPOUND GBELEKALE ILERO KAJOLA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0954101,3.3579125",
+      "google_place_id": "ChIJZbkCinmVMBARBRAxuxTMbjs"
+    }
   },
   {
     "id": "356406",
@@ -61,7 +112,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356407",
@@ -77,7 +129,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.352338100000001,
+      "longitude": 3.8627786,
+      "viewport": {
+        "northeast": {
+          "lat": 7.353663479892721,
+          "lng": 3.864148329892721
+        },
+        "southwest": {
+          "lat": 7.350963820107277,
+          "lng": 3.861448670107277
+        }
+      },
+      "formatted_address": "Adefioye Crescent, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.352338100000001,3.8627786",
+      "google_place_id": "ChIJlfwfR8uNORARek9IP1sCzh8"
+    }
   },
   {
     "id": "356408",
@@ -93,7 +162,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356409",
@@ -109,7 +179,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.0901646,
+      "longitude": 3.3514955,
+      "viewport": {
+        "northeast": {
+          "lat": 8.09147157989272,
+          "lng": 3.352816729892723
+        },
+        "southwest": {
+          "lat": 8.088771920107277,
+          "lng": 3.350117070107278
+        }
+      },
+      "formatted_address": "MOGAJI COMPOUND, OJETE 202108, Ilero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0901646,3.3514955",
+      "google_place_id": "ChIJsWikTgaVMBARGX33LRNKyaQ"
+    }
   },
   {
     "id": "356410",
@@ -125,7 +212,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 32.61013730000001,
+      "longitude": -80.8041112,
+      "viewport": {
+        "northeast": {
+          "lat": 32.61116432989272,
+          "lng": -80.80272537010728
+        },
+        "southwest": {
+          "lat": 32.60846467010727,
+          "lng": -80.80542502989272
+        }
+      },
+      "formatted_address": "56 Bryant Ln, Seabrook, SC 29940, United States",
+      "google_map_url": "https://maps.google.com?q=32.61013730000001,-80.8041112",
+      "google_place_id": "ChIJgXMiH3kH_IgR42h1ZVI0dNI"
+    }
   },
   {
     "id": "356411",
@@ -141,7 +245,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.777342,
+      "longitude": 4.5500243,
+      "viewport": {
+        "northeast": {
+          "lat": 7.77884142989272,
+          "lng": 4.551451629892722
+        },
+        "southwest": {
+          "lat": 7.776141770107277,
+          "lng": 4.548751970107277
+        }
+      },
+      "formatted_address": "QHG2+W2J, Adenle market, 230284, Osogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.777342,4.5500243",
+      "google_place_id": "ChIJ1eyySqGHNxARDifGc3VcuVk"
+    }
   },
   {
     "id": "356412",
@@ -157,7 +278,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.352338100000001,
+      "longitude": 3.8627786,
+      "viewport": {
+        "northeast": {
+          "lat": 7.353663479892721,
+          "lng": 3.864148329892721
+        },
+        "southwest": {
+          "lat": 7.350963820107277,
+          "lng": 3.861448670107277
+        }
+      },
+      "formatted_address": "Adefioye Crescent, Oluyole 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.352338100000001,3.8627786",
+      "google_place_id": "ChIJlfwfR8uNORARek9IP1sCzh8"
+    }
   },
   {
     "id": "356413",
@@ -173,7 +311,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.0954101,
+      "longitude": 3.3579125,
+      "viewport": {
+        "northeast": {
+          "lat": 8.096773579892721,
+          "lng": 3.359241929892722
+        },
+        "southwest": {
+          "lat": 8.094073920107277,
+          "lng": 3.356542270107277
+        }
+      },
+      "formatted_address": "ALOKOLOJA COMPOUND GBELEKALE ILERO KAJOLA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0954101,3.3579125",
+      "google_place_id": "ChIJZbkCinmVMBARBRAxuxTMbjs"
+    }
   },
   {
     "id": "356414",
@@ -189,6 +344,7 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   }
 ]

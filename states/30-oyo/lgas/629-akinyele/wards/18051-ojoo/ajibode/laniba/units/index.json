@@ -13,7 +13,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 43.4954647,
+      "longitude": -80.4939071,
+      "viewport": {
+        "northeast": {
+          "lat": 43.49684652989272,
+          "lng": -80.49247057010727
+        },
+        "southwest": {
+          "lat": 43.49414687010727,
+          "lng": -80.49517022989272
+        }
+      },
+      "formatted_address": "405 Pastern Trail, Waterloo, ON N2K 3V6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4954647,-80.4939071",
+      "google_place_id": "ChIJZz9EHQzzK4gRVPDBhuVWc4k"
+    }
   },
   {
     "id": "352544",
@@ -29,7 +46,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4416134,
+      "longitude": 3.9272819,
+      "viewport": {
+        "northeast": {
+          "lat": 7.445410650000048,
+          "lng": 3.930546699999999
+        },
+        "southwest": {
+          "lat": 7.437302849999949,
+          "lng": 3.9248071
+        }
+      },
+      "formatted_address": "Aduloju Street, 200132, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4416134,3.9272819",
+      "google_place_id": "Eh9BZHVsb2p1IFN0cmVldCwgMjAwMTMyLCBOaWdlcmlhIi4qLAoUChIJAfZr6T_tORARaxrOuWbMlnMSFAoSCa3ia28N8jkQEcp-lz6CmVTV"
+    }
   },
   {
     "id": "352545",
@@ -45,7 +79,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4619158,
+      "longitude": 3.8792563,
+      "viewport": {
+        "northeast": {
+          "lat": 7.463306179892721,
+          "lng": 3.880593579892722
+        },
+        "southwest": {
+          "lat": 7.460606520107278,
+          "lng": 3.877893920107279
+        }
+      },
+      "formatted_address": "FV6H+RM8, Lakoto, 200116, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4619158,3.8792563",
+      "google_place_id": "ChIJZwOMV4XzORAR8d6AmtxNc8I"
+    }
   },
   {
     "id": "352546",
@@ -61,7 +112,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352547",
@@ -77,7 +145,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.490149599999999,
+      "longitude": 3.930594599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.491303329892721,
+          "lng": 3.932066729892722
+        },
+        "southwest": {
+          "lat": 7.488603670107278,
+          "lng": 3.929367070107278
+        }
+      },
+      "formatted_address": "Arulogun Rd, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.490149599999999,3.930594599999999",
+      "google_place_id": "ChIJ33EVfHXtORARkdXxDJVWBNw"
+    }
   },
   {
     "id": "352548",
@@ -93,7 +178,8 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352549",
@@ -109,7 +195,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4962112,
+      "longitude": 3.8698239,
+      "viewport": {
+        "northeast": {
+          "lat": 7.497570579892724,
+          "lng": 3.871185829892723
+        },
+        "southwest": {
+          "lat": 7.49487092010728,
+          "lng": 3.868486170107279
+        }
+      },
+      "formatted_address": "FVW9+GX2 Falao Village, Aba Osho Rd, 200116, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4962112,3.8698239",
+      "google_place_id": "ChIJm1_vOgrzORARqzcC9KBrpO0"
+    }
   },
   {
     "id": "352550",
@@ -125,7 +228,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4962112,
+      "longitude": 3.8698239,
+      "viewport": {
+        "northeast": {
+          "lat": 7.497570579892724,
+          "lng": 3.871185829892723
+        },
+        "southwest": {
+          "lat": 7.49487092010728,
+          "lng": 3.868486170107279
+        }
+      },
+      "formatted_address": "FVW9+GX2 Falao Village, Aba Osho Rd, 200116, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4962112,3.8698239",
+      "google_place_id": "ChIJm1_vOgrzORARqzcC9KBrpO0"
+    }
   },
   {
     "id": "352551",
@@ -141,7 +261,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.501575899999999,
+      "longitude": 3.9131123,
+      "viewport": {
+        "northeast": {
+          "lat": 7.502929129892721,
+          "lng": 3.914501029892723
+        },
+        "southwest": {
+          "lat": 7.500229470107278,
+          "lng": 3.911801370107279
+        }
+      },
+      "formatted_address": "Federal Trunk Rd A1, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.501575899999999,3.9131123",
+      "google_place_id": "ChIJHVDfjvvtORAR8ViHQdIo4-8"
+    }
   },
   {
     "id": "352552",
@@ -157,7 +294,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.501575899999999,
+      "longitude": 3.9131123,
+      "viewport": {
+        "northeast": {
+          "lat": 7.502929129892721,
+          "lng": 3.914501029892723
+        },
+        "southwest": {
+          "lat": 7.500229470107278,
+          "lng": 3.911801370107279
+        }
+      },
+      "formatted_address": "Federal Trunk Rd A1, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.501575899999999,3.9131123",
+      "google_place_id": "ChIJHVDfjvvtORAR8ViHQdIo4-8"
+    }
   },
   {
     "id": "352553",
@@ -173,7 +327,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4677849,
+      "longitude": 3.9112679,
+      "viewport": {
+        "northeast": {
+          "lat": 7.469127479892723,
+          "lng": 3.912626029892721
+        },
+        "southwest": {
+          "lat": 7.466427820107279,
+          "lng": 3.909926370107277
+        }
+      },
+      "formatted_address": "6FV5FW96+5G3 Hisbulahi Alkali School, 8 Lagos - Ojoo Expy, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4677849,3.9112679",
+      "google_place_id": "ChIJp1U3_wbtORAR4lteR0S0ncI"
+    }
   },
   {
     "id": "352554",
@@ -189,7 +360,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4677849,
+      "longitude": 3.9112679,
+      "viewport": {
+        "northeast": {
+          "lat": 7.469127479892723,
+          "lng": 3.912626029892721
+        },
+        "southwest": {
+          "lat": 7.466427820107279,
+          "lng": 3.909926370107277
+        }
+      },
+      "formatted_address": "6FV5FW96+5G3 Hisbulahi Alkali School, 8 Lagos - Ojoo Expy, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4677849,3.9112679",
+      "google_place_id": "ChIJp1U3_wbtORAR4lteR0S0ncI"
+    }
   },
   {
     "id": "352555",
@@ -205,7 +393,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352556",
@@ -221,7 +426,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352557",
@@ -237,7 +459,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352558",
@@ -253,7 +492,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352559",
@@ -269,7 +525,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.445213799999999,
+      "longitude": 3.923646499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.446251929892721,
+          "lng": 3.9280644
+        },
+        "southwest": {
+          "lat": 7.443552270107277,
+          "lng": 3.9192148
+        }
+      },
+      "formatted_address": "Jakan St, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.445213799999999,3.923646499999999",
+      "google_place_id": "EiFKYWthbiBTdCwgMjAwMTMyLCBJYmFkYW4sIE5pZ2VyaWEiLiosChQKEgmvITBSau05EBFsXY4HtvZehhIUChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352560",
@@ -285,7 +558,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4703557,
+      "longitude": 3.9161593,
+      "viewport": {
+        "northeast": {
+          "lat": 7.471868179892722,
+          "lng": 3.917565079892722
+        },
+        "southwest": {
+          "lat": 7.469168520107278,
+          "lng": 3.914865420107278
+        }
+      },
+      "formatted_address": "2 Ibrahim Babangida Way, Iyana Barracks 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4703557,3.9161593",
+      "google_place_id": "ChIJcdgvrVLtORARZZA_NuOX-uw"
+    }
   },
   {
     "id": "352561",
@@ -301,7 +591,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352562",
@@ -317,7 +624,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 6.5100431,
+      "longitude": 3.3842146,
+      "viewport": {
+        "northeast": {
+          "lat": 6.511456079892722,
+          "lng": 3.385539479892722
+        },
+        "southwest": {
+          "lat": 6.508756420107278,
+          "lng": 3.382839820107277
+        }
+      },
+      "formatted_address": "4 Majaro St, Ojo 101245, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5100431,3.3842146",
+      "google_place_id": "ChIJV2hizauNOxARx38a3WVxerA"
+    }
   },
   {
     "id": "352563",
@@ -333,7 +657,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.450006600000001,
+      "longitude": 3.9209414,
+      "viewport": {
+        "northeast": {
+          "lat": 7.491489700000049,
+          "lng": 3.944934049999998
+        },
+        "southwest": {
+          "lat": 7.408845699999949,
+          "lng": 3.90321265
+        }
+      },
+      "formatted_address": "Lagos - Ojoo Expy, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.450006600000001,3.9209414",
+      "google_place_id": "EhpMYWdvcyAtIE9qb28gRXhweSwgTmlnZXJpYSIuKiwKFAoSCSGtUcCC7TkQEdZGFJcp4BzEEhQKEgmt4mtvDfI5EBHKfpc-gplU1Q"
+    }
   },
   {
     "id": "352564",
@@ -349,7 +690,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352565",
@@ -365,7 +723,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.483323899999999,
+      "longitude": 3.9095819,
+      "viewport": {
+        "northeast": {
+          "lat": 7.484692029892722,
+          "lng": 3.910932479892723
+        },
+        "southwest": {
+          "lat": 7.481992370107278,
+          "lng": 3.908232820107279
+        }
+      },
+      "formatted_address": "FWM5+8WX, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.483323899999999,3.9095819",
+      "google_place_id": "ChIJHeybC4vtORARryraUAzqJU8"
+    }
   },
   {
     "id": "352566",
@@ -381,7 +756,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.483323899999999,
+      "longitude": 3.9095819,
+      "viewport": {
+        "northeast": {
+          "lat": 7.484692029892722,
+          "lng": 3.910932479892723
+        },
+        "southwest": {
+          "lat": 7.481992370107278,
+          "lng": 3.908232820107279
+        }
+      },
+      "formatted_address": "FWM5+8WX, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.483323899999999,3.9095819",
+      "google_place_id": "ChIJHeybC4vtORARryraUAzqJU8"
+    }
   },
   {
     "id": "352567",
@@ -397,7 +789,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4771193,
+      "longitude": 3.923651899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.478449429892721,
+          "lng": 3.925021579892722
+        },
+        "southwest": {
+          "lat": 7.475749770107277,
+          "lng": 3.922321920107278
+        }
+      },
+      "formatted_address": "6FV5FWGF+VJ7 8 Idi Iroko, Lagos - Ojoo Expy, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4771193,3.923651899999999",
+      "google_place_id": "ChIJdwmMpgztORARJ5BEdAtIthg"
+    }
   },
   {
     "id": "352568",
@@ -413,7 +822,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4771193,
+      "longitude": 3.923651899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.478449429892721,
+          "lng": 3.925021579892722
+        },
+        "southwest": {
+          "lat": 7.475749770107277,
+          "lng": 3.922321920107278
+        }
+      },
+      "formatted_address": "6FV5FWGF+VJ7 8 Idi Iroko, Lagos - Ojoo Expy, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4771193,3.923651899999999",
+      "google_place_id": "ChIJdwmMpgztORARJ5BEdAtIthg"
+    }
   },
   {
     "id": "352569",
@@ -429,7 +855,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4104151,
+      "longitude": 3.915195599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.411780829892723,
+          "lng": 3.916572679892723
+        },
+        "southwest": {
+          "lat": 7.409081170107279,
+          "lng": 3.913873020107279
+        }
+      },
+      "formatted_address": "Oyo Rd, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4104151,3.915195599999999",
+      "google_place_id": "ChIJH57ILmKTORARc4vW3nacaF4"
+    }
   },
   {
     "id": "352570",
@@ -445,7 +888,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.483323899999999,
+      "longitude": 3.9095819,
+      "viewport": {
+        "northeast": {
+          "lat": 7.484692029892722,
+          "lng": 3.910932479892723
+        },
+        "southwest": {
+          "lat": 7.481992370107278,
+          "lng": 3.908232820107279
+        }
+      },
+      "formatted_address": "FWM5+8WX, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.483323899999999,3.9095819",
+      "google_place_id": "ChIJHeybC4vtORARryraUAzqJU8"
+    }
   },
   {
     "id": "352571",
@@ -461,7 +921,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352572",
@@ -477,7 +954,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4572921,
+      "longitude": 3.9075759,
+      "viewport": {
+        "northeast": {
+          "lat": 7.458640479892721,
+          "lng": 3.908917779892723
+        },
+        "southwest": {
+          "lat": 7.455940820107277,
+          "lng": 3.906218120107279
+        }
+      },
+      "formatted_address": "FW45+W28, Sango-Ojoo Road, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4572921,3.9075759",
+      "google_place_id": "ChIJDQ1CqXHtORARo4EzJWPoW9o"
+    }
   },
   {
     "id": "352573",
@@ -493,7 +987,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.505749700000001,
+      "longitude": 3.887646,
+      "viewport": {
+        "northeast": {
+          "lat": 7.507116829892722,
+          "lng": 3.889090879892721
+        },
+        "southwest": {
+          "lat": 7.504417170107277,
+          "lng": 3.886391220107277
+        }
+      },
+      "formatted_address": "200136, Oloro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.505749700000001,3.887646",
+      "google_place_id": "ChIJt0dhuh_yORARWAbFLDZlLvU"
+    }
   },
   {
     "id": "352574",
@@ -509,7 +1020,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352575",
@@ -525,7 +1053,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.553727199999999,
+      "longitude": 3.9340563,
+      "viewport": {
+        "northeast": {
+          "lat": 7.555024279892721,
+          "lng": 3.935451829892723
+        },
+        "southwest": {
+          "lat": 7.552324620107277,
+          "lng": 3.932752170107279
+        }
+      },
+      "formatted_address": "200136, Onikoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.553727199999999,3.9340563",
+      "google_place_id": "ChIJ87SvrbPvORARPDFiP8Muv7Y"
+    }
   },
   {
     "id": "352576",
@@ -541,7 +1086,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.454512500000001,
+      "longitude": 3.9145231,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455895329892721,
+          "lng": 3.915872629892722
+        },
+        "southwest": {
+          "lat": 7.453195670107277,
+          "lng": 3.913172970107278
+        }
+      },
+      "formatted_address": "200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.454512500000001,3.9145231",
+      "google_place_id": "ChIJx3LR3HrtORAREAFrdB_4CUg"
+    }
   },
   {
     "id": "352577",
@@ -557,7 +1119,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.454512500000001,
+      "longitude": 3.9145231,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455895329892721,
+          "lng": 3.915872629892722
+        },
+        "southwest": {
+          "lat": 7.453195670107277,
+          "lng": 3.913172970107278
+        }
+      },
+      "formatted_address": "200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.454512500000001,3.9145231",
+      "google_place_id": "ChIJx3LR3HrtORAREAFrdB_4CUg"
+    }
   },
   {
     "id": "352578",
@@ -573,7 +1152,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4297864,
+      "longitude": 3.9398133,
+      "viewport": {
+        "northeast": {
+          "lat": 7.431173479892721,
+          "lng": 3.941186729892723
+        },
+        "southwest": {
+          "lat": 7.428473820107278,
+          "lng": 3.938487070107279
+        }
+      },
+      "formatted_address": "Elem Building Opposite IDC Primary School Akobo Road Akobo, Local Government, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4297864,3.9398133",
+      "google_place_id": "ChIJrdGs1IrtORARwCQQ-pcfZbw"
+    }
   },
   {
     "id": "352579",
@@ -589,7 +1185,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.458172,
+      "longitude": 3.918728799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.459532179892722,
+          "lng": 3.920045529892722
+        },
+        "southwest": {
+          "lat": 7.456832520107278,
+          "lng": 3.917345870107278
+        }
+      },
+      "formatted_address": "200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.458172,3.918728799999999",
+      "google_place_id": "ChIJTa8613DtORAR0tX_Dv7rwTk"
+    }
   },
   {
     "id": "352580",
@@ -605,7 +1218,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.458172,
+      "longitude": 3.918728799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.459532179892722,
+          "lng": 3.920045529892722
+        },
+        "southwest": {
+          "lat": 7.456832520107278,
+          "lng": 3.917345870107278
+        }
+      },
+      "formatted_address": "200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.458172,3.918728799999999",
+      "google_place_id": "ChIJTa8613DtORAR0tX_Dv7rwTk"
+    }
   },
   {
     "id": "352581",
@@ -621,7 +1251,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.455803999999999,
+      "longitude": 3.911986,
+      "viewport": {
+        "northeast": {
+          "lat": 7.457163579892722,
+          "lng": 3.913421829892723
+        },
+        "southwest": {
+          "lat": 7.454463920107278,
+          "lng": 3.910722170107279
+        }
+      },
+      "formatted_address": "6FV5FW46+8QH, 8 Oke Orogun Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.455803999999999,3.911986",
+      "google_place_id": "ChIJdbNtY3vtORAR0DUfmrxFFiw"
+    }
   },
   {
     "id": "352582",
@@ -637,7 +1284,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.455803999999999,
+      "longitude": 3.911986,
+      "viewport": {
+        "northeast": {
+          "lat": 7.457163579892722,
+          "lng": 3.913421829892723
+        },
+        "southwest": {
+          "lat": 7.454463920107278,
+          "lng": 3.910722170107279
+        }
+      },
+      "formatted_address": "6FV5FW46+8QH, 8 Oke Orogun Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.455803999999999,3.911986",
+      "google_place_id": "ChIJdbNtY3vtORAR0DUfmrxFFiw"
+    }
   },
   {
     "id": "352583",
@@ -653,7 +1317,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.455803999999999,
+      "longitude": 3.911986,
+      "viewport": {
+        "northeast": {
+          "lat": 7.457163579892722,
+          "lng": 3.913421829892723
+        },
+        "southwest": {
+          "lat": 7.454463920107278,
+          "lng": 3.910722170107279
+        }
+      },
+      "formatted_address": "6FV5FW46+8QH, 8 Oke Orogun Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.455803999999999,3.911986",
+      "google_place_id": "ChIJdbNtY3vtORAR0DUfmrxFFiw"
+    }
   },
   {
     "id": "352584",
@@ -669,7 +1350,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.455803999999999,
+      "longitude": 3.911986,
+      "viewport": {
+        "northeast": {
+          "lat": 7.457163579892722,
+          "lng": 3.913421829892723
+        },
+        "southwest": {
+          "lat": 7.454463920107278,
+          "lng": 3.910722170107279
+        }
+      },
+      "formatted_address": "6FV5FW46+8QH, 8 Oke Orogun Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.455803999999999,3.911986",
+      "google_place_id": "ChIJdbNtY3vtORAR0DUfmrxFFiw"
+    }
   },
   {
     "id": "352585",
@@ -685,7 +1383,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4546332,
+      "longitude": 3.9115011,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455983029892722,
+          "lng": 3.912850929892722
+        },
+        "southwest": {
+          "lat": 7.453283370107278,
+          "lng": 3.910151270107278
+        }
+      },
+      "formatted_address": "Orogun Rd, 200132, Alaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4546332,3.9115011",
+      "google_place_id": "ChIJQ6TJX3vtORAROXm1hPYGQWI"
+    }
   },
   {
     "id": "352586",
@@ -701,7 +1416,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.454319,
+      "longitude": 3.916201,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455712379892723,
+          "lng": 3.917561129892722
+        },
+        "southwest": {
+          "lat": 7.453012720107279,
+          "lng": 3.914861470107279
+        }
+      },
+      "formatted_address": "6FV5FW38+PFG, 8 Oke Orogun Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.454319,3.916201",
+      "google_place_id": "ChIJC1tiHmjtORARcQ7sCN_2SSo"
+    }
   },
   {
     "id": "352587",
@@ -717,7 +1449,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.454319,
+      "longitude": 3.916201,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455712379892723,
+          "lng": 3.917561129892722
+        },
+        "southwest": {
+          "lat": 7.453012720107279,
+          "lng": 3.914861470107279
+        }
+      },
+      "formatted_address": "6FV5FW38+PFG, 8 Oke Orogun Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.454319,3.916201",
+      "google_place_id": "ChIJC1tiHmjtORARcQ7sCN_2SSo"
+    }
   },
   {
     "id": "352588",
@@ -733,7 +1482,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.454700600000001,
+      "longitude": 3.9157054,
+      "viewport": {
+        "northeast": {
+          "lat": 7.456017029892721,
+          "lng": 3.917054929892722
+        },
+        "southwest": {
+          "lat": 7.453317370107277,
+          "lng": 3.914355270107278
+        }
+      },
+      "formatted_address": "Near UI 2nd Gate, Orogun Rd, opposite St. Matthias Anglican Church, 200213, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.454700600000001,3.9157054",
+      "google_place_id": "ChIJ8U94x5_tORARZnNiRxDdEdA"
+    }
   },
   {
     "id": "352589",
@@ -749,7 +1515,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.369216900000001,
+      "longitude": 3.8181932,
+      "viewport": {
+        "northeast": {
+          "lat": 7.370550729892721,
+          "lng": 3.819518279892722
+        },
+        "southwest": {
+          "lat": 7.367851070107277,
+          "lng": 3.816818620107278
+        }
+      },
+      "formatted_address": "26 Alafia St, 200131, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369216900000001,3.8181932",
+      "google_place_id": "ChIJW8wbmXrtORARic9x9cAJwZ4"
+    }
   },
   {
     "id": "352590",
@@ -765,7 +1548,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.481774199999999,
+      "longitude": 3.945827,
+      "viewport": {
+        "northeast": {
+          "lat": 7.48304082989272,
+          "lng": 3.947063629892722
+        },
+        "southwest": {
+          "lat": 7.480341170107276,
+          "lng": 3.944363970107278
+        }
+      },
+      "formatted_address": "6FV5FWJW+M88 8 Tubosun, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.481774199999999,3.945827",
+      "google_place_id": "ChIJBUzLBBvtORARm5fQIvUdDg4"
+    }
   },
   {
     "id": "352591",
@@ -781,7 +1581,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.457619999999999,
+      "longitude": 3.95243,
+      "viewport": {
+        "northeast": {
+          "lat": 7.458965429892721,
+          "lng": 3.953776329892722
+        },
+        "southwest": {
+          "lat": 7.456265770107277,
+          "lng": 3.951076670107278
+        }
+      },
+      "formatted_address": "BOLORUNPELU JUNCTION, beside IYA AHMED FOODSELLER#, Egbeda, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.457619999999999,3.95243",
+      "google_place_id": "ChIJj6S3XtPtORARReEdlmnREdo"
+    }
   },
   {
     "id": "352592",
@@ -797,7 +1614,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 6.6098157,
+      "longitude": 3.3453657,
+      "viewport": {
+        "northeast": {
+          "lat": 6.611329029892722,
+          "lng": 3.346841729892722
+        },
+        "southwest": {
+          "lat": 6.608629370107278,
+          "lng": 3.344142070107278
+        }
+      },
+      "formatted_address": "31b Aromire Ave, Ikeja 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6098157,3.3453657",
+      "google_place_id": "ChIJs18jp1uSOxARCiLik6mcVLE"
+    }
   },
   {
     "id": "352593",
@@ -813,7 +1647,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4104151,
+      "longitude": 3.915195599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.411780829892723,
+          "lng": 3.916572679892723
+        },
+        "southwest": {
+          "lat": 7.409081170107279,
+          "lng": 3.913873020107279
+        }
+      },
+      "formatted_address": "Oyo Rd, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4104151,3.915195599999999",
+      "google_place_id": "ChIJH57ILmKTORARc4vW3nacaF4"
+    }
   },
   {
     "id": "352594",
@@ -829,7 +1680,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.431548800000001,
+      "longitude": 3.9343168,
+      "viewport": {
+        "northeast": {
+          "lat": 7.43411580000005,
+          "lng": 3.937733949999998
+        },
+        "southwest": {
+          "lat": 7.42914699999995,
+          "lng": 3.93291815
+        }
+      },
+      "formatted_address": "Alagbayun Road, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.431548800000001,3.9343168",
+      "google_place_id": "EidBbGFnYmF5dW4gUm9hZCwgMjAwMTMyLCBJYmFkYW4sIE5pZ2VyaWEiLiosChQKEgkfKV6UOu05EBFX7ZpAOhBtNRIUChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352595",
@@ -845,7 +1713,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4362039,
+      "longitude": 3.934809,
+      "viewport": {
+        "northeast": {
+          "lat": 7.437569229892722,
+          "lng": 3.936151629892722
+        },
+        "southwest": {
+          "lat": 7.434869570107278,
+          "lng": 3.933451970107278
+        }
+      },
+      "formatted_address": "CWPM+FWM, Olapade Street, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4362039,3.934809",
+      "google_place_id": "ChIJGV-bcDvtORARdMt-F-DFmi0"
+    }
   },
   {
     "id": "352596",
@@ -861,7 +1746,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3775507,
+      "longitude": 3.9470624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.378874229892723,
+          "lng": 3.948366679892722
+        },
+        "southwest": {
+          "lat": 7.376174570107279,
+          "lng": 3.945667020107278
+        }
+      },
+      "formatted_address": "Department Of Estate Management University Of Ibadan, 200113, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3775507,3.9470624",
+      "google_place_id": "ChIJVVVVVVWSORARM0dZfO-4POM"
+    }
   },
   {
     "id": "352597",
@@ -877,7 +1779,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.461783800000001,
+      "longitude": 3.8899938,
+      "viewport": {
+        "northeast": {
+          "lat": 7.463138429892723,
+          "lng": 3.891358579892722
+        },
+        "southwest": {
+          "lat": 7.460438770107279,
+          "lng": 3.888658920107278
+        }
+      },
+      "formatted_address": "FV6Q+PX9, aho estate ajibode,university of, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.461783800000001,3.8899938",
+      "google_place_id": "ChIJbWXVT4XyORAReM9nkxe6XeY"
+    }
   },
   {
     "id": "352598",
@@ -893,7 +1812,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4104151,
+      "longitude": 3.915195599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.411780829892723,
+          "lng": 3.916572679892723
+        },
+        "southwest": {
+          "lat": 7.409081170107279,
+          "lng": 3.913873020107279
+        }
+      },
+      "formatted_address": "Oyo Rd, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4104151,3.915195599999999",
+      "google_place_id": "ChIJH57ILmKTORARc4vW3nacaF4"
+    }
   },
   {
     "id": "352599",
@@ -909,7 +1845,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3954472,
+      "longitude": 3.9756682,
+      "viewport": {
+        "northeast": {
+          "lat": 7.396778329892721,
+          "lng": 3.976983179892722
+        },
+        "southwest": {
+          "lat": 7.394078670107277,
+          "lng": 3.974283520107278
+        }
+      },
+      "formatted_address": "9XWG+57F, Eniti Akinruntan Road, 200113, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3954472,3.9756682",
+      "google_place_id": "ChIJTZXUdr-TORAR-ZDK0bYu6Wo"
+    }
   },
   {
     "id": "352600",
@@ -925,7 +1878,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.461783800000001,
+      "longitude": 3.8899938,
+      "viewport": {
+        "northeast": {
+          "lat": 7.463138429892723,
+          "lng": 3.891358579892722
+        },
+        "southwest": {
+          "lat": 7.460438770107279,
+          "lng": 3.888658920107278
+        }
+      },
+      "formatted_address": "FV6Q+PX9, aho estate ajibode,university of, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.461783800000001,3.8899938",
+      "google_place_id": "ChIJbWXVT4XyORAReM9nkxe6XeY"
+    }
   },
   {
     "id": "352601",
@@ -941,7 +1911,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352602",
@@ -957,7 +1944,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352603",
@@ -973,7 +1977,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352604",
@@ -989,7 +2010,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352605",
@@ -1005,7 +2043,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3643987,
+      "longitude": 3.8145185,
+      "viewport": {
+        "northeast": {
+          "lat": 7.365583229892723,
+          "lng": 3.815854929892722
+        },
+        "southwest": {
+          "lat": 7.362883570107279,
+          "lng": 3.813155270107278
+        }
+      },
+      "formatted_address": "Plot 5, Loose Area, Zone 2, Aba paanu, Kuola junction, Ibadan, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3643987,3.8145185",
+      "google_place_id": "ChIJI5i3R16LORARTehdB7wrdl0"
+    }
   },
   {
     "id": "352606",
@@ -1021,7 +2076,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4787046,
+      "longitude": 3.9248872,
+      "viewport": {
+        "northeast": {
+          "lat": 7.480010279892721,
+          "lng": 3.926294529892722
+        },
+        "southwest": {
+          "lat": 7.477310620107278,
+          "lng": 3.923594870107278
+        }
+      },
+      "formatted_address": "GEM Building, Koyewon Bustop, Arulogun Rd, Ojoo 200001, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4787046,3.9248872",
+      "google_place_id": "ChIJ4Qy9BsDtORARq3F3dc2t2io"
+    }
   },
   {
     "id": "352607",
@@ -1037,7 +2109,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.448494999999999,
+      "longitude": 3.897341,
+      "viewport": {
+        "northeast": {
+          "lat": 7.449783929892723,
+          "lng": 3.898654079892722
+        },
+        "southwest": {
+          "lat": 7.447084270107279,
+          "lng": 3.895954420107278
+        }
+      },
+      "formatted_address": "CVXW+9WW, Faculty Of Forestry and Renewable Resources, University of Ibadan, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.448494999999999,3.897341",
+      "google_place_id": "ChIJvSSmGJryORARlSqDK1r3TzI"
+    }
   },
   {
     "id": "352608",
@@ -1053,7 +2142,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4572921,
+      "longitude": 3.9075759,
+      "viewport": {
+        "northeast": {
+          "lat": 7.458640479892721,
+          "lng": 3.908917779892723
+        },
+        "southwest": {
+          "lat": 7.455940820107277,
+          "lng": 3.906218120107279
+        }
+      },
+      "formatted_address": "FW45+W28, Sango-Ojoo Road, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4572921,3.9075759",
+      "google_place_id": "ChIJDQ1CqXHtORARo4EzJWPoW9o"
+    }
   },
   {
     "id": "352609",
@@ -1069,7 +2175,8 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352610",
@@ -1085,7 +2192,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4989964,
+      "longitude": 3.9486295,
+      "viewport": {
+        "northeast": {
+          "lat": 7.500400029892722,
+          "lng": 3.949984029892722
+        },
+        "southwest": {
+          "lat": 7.497700370107278,
+          "lng": 3.947284370107278
+        }
+      },
+      "formatted_address": "FWXX+JF5 Dominion Quarters, Arulogun Road, off Omilabu, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4989964,3.9486295",
+      "google_place_id": "ChIJsbZXFw7tORARB5zNhF8gczg"
+    }
   },
   {
     "id": "352611",
@@ -1101,7 +2225,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352612",
@@ -1117,7 +2258,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.453873799999999,
+      "longitude": 3.8662297,
+      "viewport": {
+        "northeast": {
+          "lat": 7.455217079892724,
+          "lng": 3.867559079892722
+        },
+        "southwest": {
+          "lat": 7.45251742010728,
+          "lng": 3.864859420107278
+        }
+      },
+      "formatted_address": "No. 50 Temidire Jeje Area, Apete Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.453873799999999,3.8662297",
+      "google_place_id": "ChIJMc6VJLHzORARXHm8VbO_d0k"
+    }
   },
   {
     "id": "352613",
@@ -1133,7 +2291,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352614",
@@ -1149,7 +2324,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.46088,
+      "longitude": 3.9186983,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462247329892722,
+          "lng": 3.920036779892722
+        },
+        "southwest": {
+          "lat": 7.459547670107278,
+          "lng": 3.917337120107279
+        }
+      },
+      "formatted_address": "145, Lagos - Ibadan Expressway, Lagos - Ojoo Expy, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.46088,3.9186983",
+      "google_place_id": "ChIJkZLPg4TtORARnGNOKJCybWo"
+    }
   },
   {
     "id": "352615",
@@ -1165,7 +2357,8 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352616",
@@ -1181,7 +2374,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352617",
@@ -1197,7 +2407,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.464826599999999,
+      "longitude": 3.9558129,
+      "viewport": {
+        "northeast": {
+          "lat": 7.466217029892722,
+          "lng": 3.957189629892722
+        },
+        "southwest": {
+          "lat": 7.463517370107278,
+          "lng": 3.954489970107278
+        }
+      },
+      "formatted_address": "FX74+W8P, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.464826599999999,3.9558129",
+      "google_place_id": "ChIJk_MGzc_tORARs48nIejFvXs"
+    }
   },
   {
     "id": "352618",
@@ -1213,7 +2440,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.456885199999999,
+      "longitude": 3.9077925,
+      "viewport": {
+        "northeast": {
+          "lat": 7.458274579892723,
+          "lng": 3.909044529892721
+        },
+        "southwest": {
+          "lat": 7.45557492010728,
+          "lng": 3.906344870107277
+        }
+      },
+      "formatted_address": "Suite 45 Adom Plaza, Ajibode Junction along UI, Sango-Ojoo Road, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.456885199999999,3.9077925",
+      "google_place_id": "ChIJazNhHS3tORARqhQAW0JrZRU"
+    }
   },
   {
     "id": "352619",
@@ -1229,7 +2473,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352620",
@@ -1245,7 +2506,8 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352621",
@@ -1261,7 +2523,8 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352622",
@@ -1277,7 +2540,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4873365,
+      "longitude": 3.9248413,
+      "viewport": {
+        "northeast": {
+          "lat": 7.488686329892722,
+          "lng": 3.926191129892722
+        },
+        "southwest": {
+          "lat": 7.485986670107278,
+          "lng": 3.923491470107278
+        }
+      },
+      "formatted_address": "Jerusalem Crescent, 200132, Alaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4873365,3.9248413",
+      "google_place_id": "ChIJnwwo6ertORARhc8-t5d-fTs"
+    }
   },
   {
     "id": "352623",
@@ -1293,7 +2573,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.530893099999999,
+      "longitude": 3.9605713,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532189329892722,
+          "lng": 3.961901929892722
+        },
+        "southwest": {
+          "lat": 7.529489670107278,
+          "lng": 3.959202270107278
+        }
+      },
+      "formatted_address": "GXJ6+964, The Gospel Faith Mission International Conference Centre, Igbo Oloyin Rd,, Alaka Town,Ojoo, Ibadan, Arulogun Road, 200284, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.530893099999999,3.9605713",
+      "google_place_id": "ChIJu9rZ8OzuORAR5d70ukdtdh8"
+    }
   },
   {
     "id": "352624",
@@ -1309,7 +2606,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4924537,
+      "longitude": 3.9333825,
+      "viewport": {
+        "northeast": {
+          "lat": 7.493799979892722,
+          "lng": 3.934763329892722
+        },
+        "southwest": {
+          "lat": 7.491100320107277,
+          "lng": 3.932063670107278
+        }
+      },
+      "formatted_address": "FWRM+X8Q, road, Ojoo, Gospel Town Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4924537,3.9333825",
+      "google_place_id": "ChIJ9w0VR8TtORARdNvzS3nw16g"
+    }
   },
   {
     "id": "352625",
@@ -1325,7 +2639,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.497781900000001,
+      "longitude": 3.9263937,
+      "viewport": {
+        "northeast": {
+          "lat": 7.499197129892723,
+          "lng": 3.927751979892722
+        },
+        "southwest": {
+          "lat": 7.496497470107279,
+          "lng": 3.925052320107278
+        }
+      },
+      "formatted_address": "Ajoro Str, Goodness Estate, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.497781900000001,3.9263937",
+      "google_place_id": "ChIJV-UnDFntORARe-mbP6KAadY"
+    }
   },
   {
     "id": "352626",
@@ -1341,7 +2672,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4727811,
+      "longitude": 3.9070464,
+      "viewport": {
+        "northeast": {
+          "lat": 7.473700929892722,
+          "lng": 3.908258429892722
+        },
+        "southwest": {
+          "lat": 7.471001270107278,
+          "lng": 3.905558770107278
+        }
+      },
+      "formatted_address": "7B, Alfonso Road, Ojoo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4727811,3.9070464",
+      "google_place_id": "ChIJE94T6YTtORARSCUnJTyRDj4"
+    }
   },
   {
     "id": "352627",
@@ -1357,7 +2705,8 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352628",
@@ -1373,7 +2722,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4751217,
+      "longitude": 3.8960811,
+      "viewport": {
+        "northeast": {
+          "lat": 7.546391000000001,
+          "lng": 3.9742088
+        },
+        "southwest": {
+          "lat": 7.4290257,
+          "lng": 3.8193463
+        }
+      },
+      "formatted_address": "Ojoo/Ajibode/Laniba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4751217,3.8960811",
+      "google_place_id": "ChIJreJrbw3yORARyn6XPoKZVNU"
+    }
   },
   {
     "id": "352629",
@@ -1389,7 +2755,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3878324,
+      "longitude": 3.8789906,
+      "viewport": {
+        "northeast": {
+          "lat": 7.389288629892723,
+          "lng": 3.880476079892722
+        },
+        "southwest": {
+          "lat": 7.386588970107279,
+          "lng": 3.877776420107279
+        }
+      },
+      "formatted_address": "Cocoa House, 10th Floor, Building, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3878324,3.8789906",
+      "google_place_id": "ChIJM8CtmcuNORARXhbtAejvLwU"
+    }
   },
   {
     "id": "352630",
@@ -1405,7 +2788,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.451042699999999,
+      "longitude": 3.913383,
+      "viewport": {
+        "northeast": {
+          "lat": 7.45814030000005,
+          "lng": 3.915290429892722
+        },
+        "southwest": {
+          "lat": 7.444006699999946,
+          "lng": 3.912590770107278
+        }
+      },
+      "formatted_address": "Adeniran Street, 200132, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.451042699999999,3.913383",
+      "google_place_id": "EiBBZGVuaXJhbiBTdHJlZXQsIDIwMDEzMiwgTmlnZXJpYSIuKiwKFAoSCa-YCgJl7TkQEbyjkP8RygsWEhQKEgmt4mtvDfI5EBHKfpc-gplU1Q"
+    }
   },
   {
     "id": "352631",
@@ -1421,7 +2821,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.456823099999999,
+      "longitude": 3.9083645,
+      "viewport": {
+        "northeast": {
+          "lat": 7.458172929892721,
+          "lng": 3.909714329892722
+        },
+        "southwest": {
+          "lat": 7.455473270107277,
+          "lng": 3.907014670107278
+        }
+      },
+      "formatted_address": "Safori St, 200132, Alaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.456823099999999,3.9083645",
+      "google_place_id": "ChIJ8RSGrX3tORARmKx-BhzB3L8"
+    }
   },
   {
     "id": "352632",
@@ -1437,7 +2854,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4652203,
+      "longitude": 3.911139099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.466570379892723,
+          "lng": 3.912488779892722
+        },
+        "southwest": {
+          "lat": 7.463870720107279,
+          "lng": 3.909789120107278
+        }
+      },
+      "formatted_address": "FW86+3FJ, Old Odo Eran, Lagos - Ojoo Expy, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4652203,3.911139099999999",
+      "google_place_id": "ChIJw_euvETtORARj3ivNMm1NDA"
+    }
   },
   {
     "id": "352633",
@@ -1453,7 +2887,24 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5308671,
+      "longitude": 3.9110363,
+      "viewport": {
+        "northeast": {
+          "lat": 7.532220729892721,
+          "lng": 3.912420879892722
+        },
+        "southwest": {
+          "lat": 7.529521070107277,
+          "lng": 3.909721220107278
+        }
+      },
+      "formatted_address": "GWJ6+8CV, 200136, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5308671,3.9110363",
+      "google_place_id": "ChIJsw7VjiHuORARTbY8EPqEga0"
+    }
   },
   {
     "id": "352634",
@@ -1469,6 +2920,23 @@
     "local_government_id": "629",
     "local_government_name": "AKINYELE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.455821299999999,
+      "longitude": 3.9528081,
+      "viewport": {
+        "northeast": {
+          "lat": 7.457123379892722,
+          "lng": 3.954106179892722
+        },
+        "southwest": {
+          "lat": 7.454423720107278,
+          "lng": 3.951406520107278
+        }
+      },
+      "formatted_address": "FX43+84P, ojoo adekunle fajuyi cantoment, Akobo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.455821299999999,3.9528081",
+      "google_place_id": "ChIJS_CDM23tORAR9L6NBJ9tOXc"
+    }
   }
 ]

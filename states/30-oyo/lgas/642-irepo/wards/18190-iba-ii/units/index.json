@@ -13,7 +13,24 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0731782,
+      "longitude": 3.8473288,
+      "viewport": {
+        "northeast": {
+          "lat": 9.07446547989272,
+          "lng": 3.848294579892721
+        },
+        "southwest": {
+          "lat": 9.071765820107276,
+          "lng": 3.845594920107277
+        }
+      },
+      "formatted_address": "3RFW+7WG, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0731782,3.8473288",
+      "google_place_id": "ChIJ8wASrMmuNhARfXNZbX8_FX4"
+    }
   },
   {
     "id": "355881",
@@ -29,7 +46,24 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0811993,
+      "longitude": 3.8557539,
+      "viewport": {
+        "northeast": {
+          "lat": 9.082533179892723,
+          "lng": 3.857098679892722
+        },
+        "southwest": {
+          "lat": 9.079833520107279,
+          "lng": 3.854399020107278
+        }
+      },
+      "formatted_address": "3VJ4+F8R, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0811993,3.8557539",
+      "google_place_id": "ChIJPYILUy2pNhARZfB8zziPi8U"
+    }
   },
   {
     "id": "355882",
@@ -45,7 +79,24 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0811993,
+      "longitude": 3.8557539,
+      "viewport": {
+        "northeast": {
+          "lat": 9.082533179892723,
+          "lng": 3.857098679892722
+        },
+        "southwest": {
+          "lat": 9.079833520107279,
+          "lng": 3.854399020107278
+        }
+      },
+      "formatted_address": "3VJ4+F8R, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0811993,3.8557539",
+      "google_place_id": "ChIJPYILUy2pNhARZfB8zziPi8U"
+    }
   },
   {
     "id": "355883",
@@ -61,7 +112,8 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "355884",
@@ -77,7 +129,8 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "355885",
@@ -93,7 +146,8 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "355886",
@@ -109,7 +163,8 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "355887",
@@ -125,6 +180,23 @@
     "local_government_id": "642",
     "local_government_name": "IREPO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 9.0937492,
+      "longitude": 3.8523529,
+      "viewport": {
+        "northeast": {
+          "lat": 9.09524887989272,
+          "lng": 3.853776629892721
+        },
+        "southwest": {
+          "lat": 9.092549220107276,
+          "lng": 3.851076970107277
+        }
+      },
+      "formatted_address": "6FX53VV2+GW4, 7 Oke mapo, 212101, Kishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0937492,3.8523529",
+      "google_place_id": "ChIJDc_8gRKpNhARUAe0edNWvGU"
+    }
   }
 ]

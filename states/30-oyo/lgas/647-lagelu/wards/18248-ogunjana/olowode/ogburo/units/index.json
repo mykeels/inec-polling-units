@@ -13,7 +13,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.602150600000001,
+      "longitude": 4.0766126,
+      "viewport": {
+        "northeast": {
+          "lat": 7.603518879892722,
+          "lng": 4.077978879892722
+        },
+        "southwest": {
+          "lat": 7.600819220107278,
+          "lng": 4.075279220107278
+        }
+      },
+      "formatted_address": "CAC Primary School, 200107, Adegbite, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.602150600000001,4.0766126",
+      "google_place_id": "ChIJHw7kjVDdORARo7onm3R9aLQ"
+    }
   },
   {
     "id": "356709",
@@ -29,7 +46,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356710",
@@ -45,7 +63,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.553691700000001,
+      "longitude": 4.166734,
+      "viewport": {
+        "northeast": {
+          "lat": 7.555041529892723,
+          "lng": 4.168083829892722
+        },
+        "southwest": {
+          "lat": 7.552341870107279,
+          "lng": 4.165384170107278
+        }
+      },
+      "formatted_address": "Ori Apata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.553691700000001,4.166734",
+      "google_place_id": "ChIJJ1g3i23FORARbyfMw-Uv_BA"
+    }
   },
   {
     "id": "356711",
@@ -61,7 +96,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3780577,
+      "longitude": 3.8248241,
+      "viewport": {
+        "northeast": {
+          "lat": 8.379407529892724,
+          "lng": 3.826173929892721
+        },
+        "southwest": {
+          "lat": 8.37670787010728,
+          "lng": 3.823474270107277
+        }
+      },
+      "formatted_address": "9RHF+6WG, Bayo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3780577,3.8248241",
+      "google_place_id": "ChIJHRMn5hDbNhARDfScLv07_VU"
+    }
   },
   {
     "id": "356712",
@@ -77,6 +129,23 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.065881,
+      "longitude": 4.931522699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.0671845,
+          "lng": 4.932902329892721
+        },
+        "southwest": {
+          "lat": 7.063905099999999,
+          "lng": 4.930202670107278
+        }
+      },
+      "formatted_address": "340101, Bolorunduro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.065881,4.931522699999999",
+      "google_place_id": "ChIJFfockYCHOBAR7_U2zDalQUE"
+    }
   }
 ]

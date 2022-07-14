@@ -13,7 +13,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.1483477,
+      "longitude": 4.2599142,
+      "viewport": {
+        "northeast": {
+          "lat": 8.149648429892723,
+          "lng": 4.261323279892723
+        },
+        "southwest": {
+          "lat": 8.14694877010728,
+          "lng": 4.258623620107279
+        }
+      },
+      "formatted_address": "47X5+8XP, Orilonise Street, 212102, Ogbomosho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1483477,4.2599142",
+      "google_place_id": "ChIJfR_TlQ4NNxAR_js6tN2UCOc"
+    }
   },
   {
     "id": "357709",
@@ -29,7 +46,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.6335105,
+      "longitude": 4.179916599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.634966829892721,
+          "lng": 4.181452479892721
+        },
+        "southwest": {
+          "lat": 7.632267170107277,
+          "lng": 4.178752820107277
+        }
+      },
+      "formatted_address": "J5MH+CX8, 232102, Iwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.6335105,4.179916599999999",
+      "google_place_id": "ChIJW_DBeLDbORARwahw-HVaGCw"
+    }
   },
   {
     "id": "357710",
@@ -45,7 +79,8 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "357711",
@@ -61,7 +96,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.8341362,
+      "longitude": 3.758764,
+      "viewport": {
+        "northeast": {
+          "lat": 8.835516329892721,
+          "lng": 3.760130179892723
+        },
+        "southwest": {
+          "lat": 8.832816670107276,
+          "lng": 3.757430520107278
+        }
+      },
+      "formatted_address": "Along Second Baptist Church Road, Modeke, Igboho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8341362,3.758764",
+      "google_place_id": "ChIJG7Z46hy1NhARXPnXVIVxFuw"
+    }
   },
   {
     "id": "357712",
@@ -77,7 +129,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3775507,
+      "longitude": 3.9470624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.378873879892723,
+          "lng": 3.948366979892722
+        },
+        "southwest": {
+          "lat": 7.376174220107279,
+          "lng": 3.945667320107278
+        }
+      },
+      "formatted_address": "9WHW+2RF, 200113, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3775507,3.9470624",
+      "google_place_id": "ChIJVVVVVVWSORARX9ugh9PPMEE"
+    }
   },
   {
     "id": "357713",
@@ -93,6 +162,23 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.8351879,
+      "longitude": 3.7616208,
+      "viewport": {
+        "northeast": {
+          "lat": 8.836441479892722,
+          "lng": 3.762948629892723
+        },
+        "southwest": {
+          "lat": 8.833741820107278,
+          "lng": 3.760248970107279
+        }
+      },
+      "formatted_address": "RQP6+3JH, 212104, Igboho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8351879,3.7616208",
+      "google_place_id": "ChIJE1xNmUG1NhARoRIfyCrjkFI"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3611871,
+      "longitude": 3.8670033,
+      "viewport": {
+        "northeast": {
+          "lat": 7.362676079892721,
+          "lng": 3.868455929892722
+        },
+        "southwest": {
+          "lat": 7.359976420107277,
+          "lng": 3.865756270107279
+        }
+      },
+      "formatted_address": "Aboderin Layout, Ring Road, PMB 5031, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3611871,3.8670033",
+      "google_place_id": "ChIJ7RJPpLSNORAR68pm8ZJaGLg"
+    }
   },
   {
     "id": "356556",
@@ -29,7 +46,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356557",
@@ -45,7 +63,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356558",
@@ -61,7 +80,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5230094,
+      "longitude": 4.0062624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.524310879892722,
+          "lng": 4.007670229892722
+        },
+        "southwest": {
+          "lat": 7.521611220107278,
+          "lng": 4.004970570107278
+        }
+      },
+      "formatted_address": "Methodist Primary School, 200137, Ogeye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5230094,4.0062624",
+      "google_place_id": "ChIJSzYvhkHpORAR7pMMVy0eYbs"
+    }
   },
   {
     "id": "356559",
@@ -77,7 +113,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.510721999999999,
+      "longitude": 3.987297,
+      "viewport": {
+        "northeast": {
+          "lat": 7.512131979892721,
+          "lng": 3.988698679892722
+        },
+        "southwest": {
+          "lat": 7.509432320107277,
+          "lng": 3.985999020107278
+        }
+      },
+      "formatted_address": "6FV5GX6P+7WM ward 3, Olorunda Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.510721999999999,3.987297",
+      "google_place_id": "ChIJ7bOIwOjvORAR8E_HCPrRBrE"
+    }
   },
   {
     "id": "356560",
@@ -93,7 +146,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.503973,
+      "longitude": 4.005596199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.505164879892721,
+          "lng": 4.007060529892722
+        },
+        "southwest": {
+          "lat": 7.502465220107277,
+          "lng": 4.004360870107278
+        }
+      },
+      "formatted_address": "6FV6G234+H69 ward 3, Olorunda Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.503973,4.005596199999999",
+      "google_place_id": "ChIJY_2O2mjrORAR6WRjRtjStec"
+    }
   },
   {
     "id": "356561",
@@ -109,7 +179,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3764343,
+      "longitude": 3.8702231,
+      "viewport": {
+        "northeast": {
+          "lat": 7.377920829892723,
+          "lng": 3.871519079892723
+        },
+        "southwest": {
+          "lat": 7.375221170107279,
+          "lng": 3.868819420107279
+        }
+      },
+      "formatted_address": "9VGC+H3H, Iyaganku, New Gra 200273, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3764343,3.8702231",
+      "google_place_id": "ChIJw9E2PaqNORARsIn4I7mSz7o"
+    }
   },
   {
     "id": "356562",
@@ -125,7 +212,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.5069568,
+      "longitude": 3.9565359,
+      "viewport": {
+        "northeast": {
+          "lat": 7.508303179892723,
+          "lng": 3.957883079892722
+        },
+        "southwest": {
+          "lat": 7.505603520107279,
+          "lng": 3.955183420107278
+        }
+      },
+      "formatted_address": "Off Ojoo-Arulogun Road, near Idi-Omo, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5069568,3.9565359",
+      "google_place_id": "ChIJi6I8x0vtORARwukMwjk-fKM"
+    }
   },
   {
     "id": "356563",
@@ -141,7 +245,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 43.1004027,
+      "longitude": -79.5459296,
+      "viewport": {
+        "northeast": {
+          "lat": 43.10178167989272,
+          "lng": -79.54470647010727
+        },
+        "southwest": {
+          "lat": 43.09908202010728,
+          "lng": -79.54740612989272
+        }
+      },
+      "formatted_address": "216 Station St, Smithville, ON L0R 2A0, Canada",
+      "google_map_url": "https://maps.google.com?q=43.1004027,-79.5459296",
+      "google_place_id": "ChIJD74UOZawLIgRGno_U92FntQ"
+    }
   },
   {
     "id": "356564",
@@ -157,7 +278,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 43.4562339,
+      "longitude": -80.5120458,
+      "viewport": {
+        "northeast": {
+          "lat": 43.45761762989272,
+          "lng": -80.51059307010728
+        },
+        "southwest": {
+          "lat": 43.45491797010727,
+          "lng": -80.51329272989271
+        }
+      },
+      "formatted_address": "GRH KW Campus, 835 King St W, Kitchener, ON N2G 1G3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4562339,-80.5120458",
+      "google_place_id": "ChIJV5mLbmj0K4gRV5qXrNqbu7o"
+    }
   },
   {
     "id": "356565",
@@ -173,7 +311,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.421793699999999,
+      "longitude": 3.9812339,
+      "viewport": {
+        "northeast": {
+          "lat": 7.423143529892722,
+          "lng": 3.982583729892723
+        },
+        "southwest": {
+          "lat": 7.420443870107278,
+          "lng": 3.979884070107278
+        }
+      },
+      "formatted_address": "Iyalode Road, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.421793699999999,3.9812339",
+      "google_place_id": "ChIJxfzi-azsORAR4tV6VPxj9VQ"
+    }
   },
   {
     "id": "356566",
@@ -189,7 +344,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4856561,
+      "longitude": 3.926805,
+      "viewport": {
+        "northeast": {
+          "lat": 7.487026129892722,
+          "lng": 3.928130429892721
+        },
+        "southwest": {
+          "lat": 7.484326470107278,
+          "lng": 3.925430770107277
+        }
+      },
+      "formatted_address": "FWPG+7P7, Ajobo, Arulogun Rd, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4856561,3.926805",
+      "google_place_id": "ChIJt_6QIYztORARtvL1yFGGlag"
+    }
   },
   {
     "id": "356567",
@@ -205,6 +377,23 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.491837599999999,
+      "longitude": 3.9868466,
+      "viewport": {
+        "northeast": {
+          "lat": 7.493169479892722,
+          "lng": 3.988161679892721
+        },
+        "southwest": {
+          "lat": 7.490469820107278,
+          "lng": 3.985462020107277
+        }
+      },
+      "formatted_address": "FXRP+PPQ, Olorunda Road, 200106, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.491837599999999,3.9868466",
+      "google_place_id": "ChIJ1XcP6gnsORARZsldsroMOOw"
+    }
   }
 ]

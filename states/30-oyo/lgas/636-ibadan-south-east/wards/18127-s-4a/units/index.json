@@ -13,7 +13,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354462",
@@ -29,7 +30,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354463",
@@ -45,7 +47,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354464",
@@ -61,7 +64,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354465",
@@ -77,7 +81,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354466",
@@ -93,7 +98,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354467",
@@ -109,7 +115,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354468",
@@ -125,7 +132,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354469",
@@ -141,7 +149,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354470",
@@ -157,7 +166,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354471",
@@ -173,7 +183,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354472",
@@ -189,7 +200,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354473",
@@ -205,7 +217,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354474",
@@ -221,7 +234,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354475",
@@ -237,7 +251,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354476",
@@ -253,7 +268,24 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.336266599999999,
+      "longitude": 3.9393311,
+      "viewport": {
+        "northeast": {
+          "lat": 7.337652979892722,
+          "lng": 3.940648679892722
+        },
+        "southwest": {
+          "lat": 7.334953320107278,
+          "lng": 3.937949020107278
+        }
+      },
+      "formatted_address": "8WPQ+GP4, Iyana Asia, Muslim Odinjo, Mosfala Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.336266599999999,3.9393311",
+      "google_place_id": "ChIJF4FxTVaTORARBJseDIRRsWA"
+    }
   },
   {
     "id": "354477",
@@ -269,7 +301,24 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3568438,
+      "longitude": 3.9117939,
+      "viewport": {
+        "northeast": {
+          "lat": 7.358184929892722,
+          "lng": 3.913206679892721
+        },
+        "southwest": {
+          "lat": 7.355485270107279,
+          "lng": 3.910507020107278
+        }
+      },
+      "formatted_address": "9W46+PPM, 200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3568438,3.9117939",
+      "google_place_id": "ChIJ5-XxUHOSORARn3Ly24hScaI"
+    }
   },
   {
     "id": "354478",
@@ -285,7 +334,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354479",
@@ -301,7 +351,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354480",
@@ -317,7 +368,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354481",
@@ -333,7 +385,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354482",
@@ -349,7 +402,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354483",
@@ -365,7 +419,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354484",
@@ -381,7 +436,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354485",
@@ -397,7 +453,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354486",
@@ -413,7 +470,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354487",
@@ -429,7 +487,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354488",
@@ -445,7 +504,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354489",
@@ -461,7 +521,24 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.370260199999999,
+      "longitude": 3.911841,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371362200000001,
+          "lng": 3.913129029892721
+        },
+        "southwest": {
+          "lat": 7.368638199999999,
+          "lng": 3.910429370107277
+        }
+      },
+      "formatted_address": "Wesley College of Science, Elekuro Orita Aperin-Beere Rd, 200263, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.370260199999999,3.911841",
+      "google_place_id": "ChIJVVLdz3uSORAR_GoviGF4M4w"
+    }
   },
   {
     "id": "354490",
@@ -477,7 +554,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354491",
@@ -493,7 +571,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354492",
@@ -509,7 +588,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354493",
@@ -525,7 +605,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354494",
@@ -541,7 +622,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354495",
@@ -557,7 +639,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354496",
@@ -573,7 +656,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354497",
@@ -589,7 +673,24 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3679523,
+      "longitude": 3.8650115,
+      "viewport": {
+        "northeast": {
+          "lat": 7.369308129892721,
+          "lng": 3.866392479892722
+        },
+        "southwest": {
+          "lat": 7.366608470107277,
+          "lng": 3.863692820107278
+        }
+      },
+      "formatted_address": "1, Nihinlola Street, Off Ring Road, \"Joyce B\" Road, South West, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3679523,3.8650115",
+      "google_place_id": "ChIJqzEAr1KMORARWasjs7y1D60"
+    }
   },
   {
     "id": "354498",
@@ -605,7 +706,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354499",
@@ -621,7 +723,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354500",
@@ -637,7 +740,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354501",
@@ -653,7 +757,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354502",
@@ -669,7 +774,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354503",
@@ -685,7 +791,8 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "354504",
@@ -701,6 +808,7 @@
     "local_government_id": "636",
     "local_government_name": "IBADAN SOUTH-EAST",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   }
 ]

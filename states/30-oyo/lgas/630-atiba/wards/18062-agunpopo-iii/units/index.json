@@ -13,7 +13,8 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352758",
@@ -29,7 +30,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.855309500000001,
+      "longitude": 3.9561188,
+      "viewport": {
+        "northeast": {
+          "lat": 7.856659329892721,
+          "lng": 3.957468629892722
+        },
+        "southwest": {
+          "lat": 7.853959670107277,
+          "lng": 3.954768970107278
+        }
+      },
+      "formatted_address": "Boroboro Rd, Ajegunle 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.855309500000001,3.9561188",
+      "google_place_id": "ChIJT5EnlNdbNxARYQ1_bMQK_ds"
+    }
   },
   {
     "id": "352759",
@@ -45,7 +63,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8525207,
+      "longitude": 3.9443566,
+      "viewport": {
+        "northeast": {
+          "lat": 7.853893329892722,
+          "lng": 3.945785429892722
+        },
+        "southwest": {
+          "lat": 7.851193670107278,
+          "lng": 3.943085770107278
+        }
+      },
+      "formatted_address": "VW3V+2P9, ALHAJA AISHAT BUILDING, AKAPARO, OPP BOTAFAT COMM AGUNPOPO YIDI JUNCTION, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8525207,3.9443566",
+      "google_place_id": "ChIJNU65yOpZNxAREd1gI1o0jsM"
+    }
   },
   {
     "id": "352760",
@@ -61,7 +96,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8442558,
+      "longitude": 3.943216,
+      "viewport": {
+        "northeast": {
+          "lat": 7.8505024,
+          "lng": 3.9494155
+        },
+        "southwest": {
+          "lat": 7.838271000000001,
+          "lng": 3.9371555
+        }
+      },
+      "formatted_address": "Akunlemu 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8442558,3.943216",
+      "google_place_id": "ChIJlyAjFYNZNxARvKsngtrTJH4"
+    }
   },
   {
     "id": "352761",
@@ -77,7 +129,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.853804,
+      "longitude": 3.9434054,
+      "viewport": {
+        "northeast": {
+          "lat": 7.855229879892723,
+          "lng": 3.944795029892722
+        },
+        "southwest": {
+          "lat": 7.852530220107279,
+          "lng": 3.942095370107278
+        }
+      },
+      "formatted_address": "VW3V+G9C AMEJIOGBE COMPOUND, AREA 211101, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853804,3.9434054",
+      "google_place_id": "ChIJ04JinJtbNxARD417aJmJ9D4"
+    }
   },
   {
     "id": "352762",
@@ -93,7 +162,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.853361899999999,
+      "longitude": 3.9475515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.854703379892722,
+          "lng": 3.948813679892721
+        },
+        "southwest": {
+          "lat": 7.852003720107279,
+          "lng": 3.946114020107277
+        }
+      },
+      "formatted_address": "VW3X+82V, Sulu Dimeji Street, Oke-Ebo 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853361899999999,3.9475515",
+      "google_place_id": "ChIJhWV6-39ZNxARDNPGaQ2i4TY"
+    }
   },
   {
     "id": "352763",
@@ -109,7 +195,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.853361899999999,
+      "longitude": 3.9475515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.854703379892722,
+          "lng": 3.948813679892721
+        },
+        "southwest": {
+          "lat": 7.852003720107279,
+          "lng": 3.946114020107277
+        }
+      },
+      "formatted_address": "VW3X+82V, Sulu Dimeji Street, Oke-Ebo 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853361899999999,3.9475515",
+      "google_place_id": "ChIJhWV6-39ZNxARDNPGaQ2i4TY"
+    }
   },
   {
     "id": "352764",
@@ -125,7 +228,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.853361899999999,
+      "longitude": 3.9475515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.854703379892722,
+          "lng": 3.948813679892721
+        },
+        "southwest": {
+          "lat": 7.852003720107279,
+          "lng": 3.946114020107277
+        }
+      },
+      "formatted_address": "VW3X+82V, Sulu Dimeji Street, Oke-Ebo 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853361899999999,3.9475515",
+      "google_place_id": "ChIJhWV6-39ZNxARDNPGaQ2i4TY"
+    }
   },
   {
     "id": "352765",
@@ -141,7 +261,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.853361899999999,
+      "longitude": 3.9475515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.854703379892722,
+          "lng": 3.948813679892721
+        },
+        "southwest": {
+          "lat": 7.852003720107279,
+          "lng": 3.946114020107277
+        }
+      },
+      "formatted_address": "VW3X+82V, Sulu Dimeji Street, Oke-Ebo 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.853361899999999,3.9475515",
+      "google_place_id": "ChIJhWV6-39ZNxARDNPGaQ2i4TY"
+    }
   },
   {
     "id": "352766",
@@ -157,7 +294,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.849501499999999,
+      "longitude": 3.9423752,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850803529892723,
+          "lng": 3.943937729892723
+        },
+        "southwest": {
+          "lat": 7.848103870107279,
+          "lng": 3.941238070107279
+        }
+      },
+      "formatted_address": "RWXR+RX2, Oke-Ebo 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.849501499999999,3.9423752",
+      "google_place_id": "ChIJ4UoPSYFZNxARZyfCvcO50Vs"
+    }
   },
   {
     "id": "352767",
@@ -173,7 +327,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.855446,
+      "longitude": 3.9593515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.856764429892721,
+          "lng": 3.960670379892721
+        },
+        "southwest": {
+          "lat": 7.854064770107277,
+          "lng": 3.957970720107277
+        }
+      },
+      "formatted_address": "VX45+4QM, Oyo-Ogbomosho Road, Ajegunle 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.855446,3.9593515",
+      "google_place_id": "ChIJpYt6hNhbNxAR_ObXo9DsVrQ"
+    }
   },
   {
     "id": "352768",
@@ -189,7 +360,8 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352769",
@@ -205,7 +377,8 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352770",
@@ -221,7 +394,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8598575,
+      "longitude": 3.9274763,
+      "viewport": {
+        "northeast": {
+          "lat": 7.861181779892723,
+          "lng": 3.928803329892722
+        },
+        "southwest": {
+          "lat": 7.858482120107279,
+          "lng": 3.926103670107278
+        }
+      },
+      "formatted_address": "Oroki Rd, Asipa 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8598575,3.9274763",
+      "google_place_id": "ChIJYZ-D4w9aNxARNNqzda8zOcU"
+    }
   },
   {
     "id": "352771",
@@ -237,7 +427,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.438909600000001,
+      "longitude": 3.8879455,
+      "viewport": {
+        "northeast": {
+          "lat": 7.440255779892722,
+          "lng": 3.889263829892722
+        },
+        "southwest": {
+          "lat": 7.437556120107279,
+          "lng": 3.886564170107278
+        }
+      },
+      "formatted_address": "Plot 1, Imo Road Idiagbon Estate Off Soka Area, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.438909600000001,3.8879455",
+      "google_place_id": "ChIJW0Pu2kfzORARLv9Z96Db94Y"
+    }
   },
   {
     "id": "352772",
@@ -253,7 +460,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.898669899999999,
+      "longitude": 3.7841503,
+      "viewport": {
+        "northeast": {
+          "lat": 7.90051047989272,
+          "lng": 3.785473879892721
+        },
+        "southwest": {
+          "lat": 7.897810820107276,
+          "lng": 3.782774220107278
+        }
+      },
+      "formatted_address": "Jare Emily Area, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.898669899999999,3.7841503",
+      "google_place_id": "ChIJ______9SNxARM0yHlT3wn88"
+    }
   },
   {
     "id": "352773",
@@ -269,7 +493,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.855446,
+      "longitude": 3.9593515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.856764429892721,
+          "lng": 3.960670379892721
+        },
+        "southwest": {
+          "lat": 7.854064770107277,
+          "lng": 3.957970720107277
+        }
+      },
+      "formatted_address": "VX45+4QM, Oyo-Ogbomosho Road, Ajegunle 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.855446,3.9593515",
+      "google_place_id": "ChIJpYt6hNhbNxAR_ObXo9DsVrQ"
+    }
   },
   {
     "id": "352774",
@@ -285,7 +526,24 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8496133,
+      "longitude": 3.9303648,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850959879892721,
+          "lng": 3.931795329892723
+        },
+        "southwest": {
+          "lat": 7.848260220107277,
+          "lng": 3.929095670107279
+        }
+      },
+      "formatted_address": "RWXJ+V46, Jabata 2 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8496133,3.9303648",
+      "google_place_id": "ChIJmS32y55ZNxARZoUd5yxLgGk"
+    }
   },
   {
     "id": "352775",
@@ -301,6 +559,23 @@
     "local_government_id": "630",
     "local_government_name": "ATIBA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.849501499999999,
+      "longitude": 3.9423752,
+      "viewport": {
+        "northeast": {
+          "lat": 7.850803529892723,
+          "lng": 3.943937729892723
+        },
+        "southwest": {
+          "lat": 7.848103870107279,
+          "lng": 3.941238070107279
+        }
+      },
+      "formatted_address": "RWXR+RX2, Oke-Ebo 211271, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.849501499999999,3.9423752",
+      "google_place_id": "ChIJ4UoPSYFZNxARZyfCvcO50Vs"
+    }
   }
 ]

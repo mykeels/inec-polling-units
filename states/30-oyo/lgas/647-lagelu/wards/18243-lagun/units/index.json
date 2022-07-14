@@ -13,7 +13,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356633",
@@ -29,7 +30,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356634",
@@ -45,7 +47,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4885417,
+      "longitude": 4.0780001,
+      "viewport": {
+        "northeast": {
+          "lat": 7.490002629892722,
+          "lng": 4.079225779892721
+        },
+        "southwest": {
+          "lat": 7.487302970107278,
+          "lng": 4.076526120107277
+        }
+      },
+      "formatted_address": "F3QH+C66, Ibadan - Iwo Rd, 200108, Iyana Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4885417,4.0780001",
+      "google_place_id": "ChIJQV5paJTBORARPJGITmGbQsU"
+    }
   },
   {
     "id": "356635",
@@ -61,7 +80,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.443711,
+      "longitude": 3.9264476,
+      "viewport": {
+        "northeast": {
+          "lat": 7.445003529892722,
+          "lng": 3.927844379892722
+        },
+        "southwest": {
+          "lat": 7.442303870107279,
+          "lng": 3.925144720107278
+        }
+      },
+      "formatted_address": "CWVG+FGF, Aduloju Bus Stop, Iwo-Road - Ojoo Expressway, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.443711,3.9264476",
+      "google_place_id": "ChIJGfZPtmrtORARcE5rOtyPGwg"
+    }
   },
   {
     "id": "356636",
@@ -77,7 +113,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356637",
@@ -93,7 +130,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.499290499999999,
+      "longitude": 4.0815624,
+      "viewport": {
+        "northeast": {
+          "lat": 7.500608629892722,
+          "lng": 4.082901529892721
+        },
+        "southwest": {
+          "lat": 7.497908970107278,
+          "lng": 4.080201870107278
+        }
+      },
+      "formatted_address": "F3XJ+PJ7, Unnamed Road, 200108, Iyana Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.499290499999999,4.0815624",
+      "google_place_id": "ChIJPXj0_BjBORARNUOcWgf7Shw"
+    }
   },
   {
     "id": "356638",
@@ -109,7 +163,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8158371,
+      "longitude": 3.959966,
+      "viewport": {
+        "northeast": {
+          "lat": 7.817201529892722,
+          "lng": 3.961311329892722
+        },
+        "southwest": {
+          "lat": 7.814501870107278,
+          "lng": 3.958611670107278
+        }
+      },
+      "formatted_address": "Dr & Dr(Mrs) Giwa Residential Building Awe, Awe 211106, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8158371,3.959966",
+      "google_place_id": "ChIJdT7qIelZNxARMwOQxlTUEa0"
+    }
   },
   {
     "id": "356639",
@@ -125,7 +196,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356640",
@@ -141,7 +213,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4707555,
+      "longitude": 4.565274899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.472126279892723,
+          "lng": 4.566618629892723
+        },
+        "southwest": {
+          "lat": 7.469426620107278,
+          "lng": 4.563918970107279
+        }
+      },
+      "formatted_address": "FHC8+842, Balewu Street Iloro, Ife, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4707555,4.565274899999999",
+      "google_place_id": "ChIJf_14udk5OBARv2hXiS26o5c"
+    }
   },
   {
     "id": "356641",
@@ -157,6 +246,23 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.481597999999999,
+      "longitude": 4.103098999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.482931629892721,
+          "lng": 4.104445879892721
+        },
+        "southwest": {
+          "lat": 7.480231970107277,
+          "lng": 4.101746220107277
+        }
+      },
+      "formatted_address": "6FV6F4J3+J6Q 10 Akinsawe, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.481597999999999,4.103098999999999",
+      "google_place_id": "ChIJv9v9_FHBORARQ_eBtLrD6oM"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.047442,
+      "longitude": 3.3774772,
+      "viewport": {
+        "northeast": {
+          "lat": 8.048740229892722,
+          "lng": 3.378709479892722
+        },
+        "southwest": {
+          "lat": 8.046040570107278,
+          "lng": 3.376009820107277
+        }
+      },
+      "formatted_address": "29WG+XXH, 202107, Okeho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.047442,3.3774772",
+      "google_place_id": "ChIJrcHKEzOUMBARGstaa9LYgTM"
+    }
   },
   {
     "id": "356455",
@@ -29,7 +46,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.009797299999999,
+      "longitude": 3.3469248,
+      "viewport": {
+        "northeast": {
+          "lat": 8.011178429892722,
+          "lng": 3.348277729892722
+        },
+        "southwest": {
+          "lat": 8.008478770107278,
+          "lng": 3.345578070107277
+        }
+      },
+      "formatted_address": "Asasola Shopping Complex, Kajola Street, Okeho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.009797299999999,3.3469248",
+      "google_place_id": "ChIJUSAtSMiWMBARS9ELW7CkY8E"
+    }
   },
   {
     "id": "356456",
@@ -45,7 +79,24 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.024903,
+      "longitude": 3.347074,
+      "viewport": {
+        "northeast": {
+          "lat": 8.026277529892722,
+          "lng": 3.348479529892722
+        },
+        "southwest": {
+          "lat": 8.023577870107278,
+          "lng": 3.345779870107278
+        }
+      },
+      "formatted_address": "6FW528FW+XR8, 7 ALAAPA, 202107, Okeho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.024903,3.347074",
+      "google_place_id": "ChIJsXjpcBmXMBAR3cQUMlKGrBA"
+    }
   },
   {
     "id": "356457",
@@ -61,7 +112,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356458",
@@ -77,7 +129,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356459",
@@ -93,7 +146,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356460",
@@ -109,7 +163,8 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356461",
@@ -125,6 +180,23 @@
     "local_government_id": "646",
     "local_government_name": "KAJOLA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.029595600000002,
+      "longitude": 3.3465181,
+      "viewport": {
+        "northeast": {
+          "lat": 8.03205580000005,
+          "lng": 3.34905735
+        },
+        "southwest": {
+          "lat": 8.02714779999995,
+          "lng": 3.34441715
+        }
+      },
+      "formatted_address": "Oke Ogun Street, 202107, Oke Iho Hill, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.029595600000002,3.3465181",
+      "google_place_id": "Ei5Pa2UgT2d1biBTdHJlZXQsIDIwMjEwNywgT2tlIElobyBIaWxsLCBOaWdlcmlhIi4qLAoUChIJb-Gu_KiWMBAReUYt-vL5yXwSFAoSCQ-bFOE2kTAQESvrptPTr1mn"
+    }
   }
 ]

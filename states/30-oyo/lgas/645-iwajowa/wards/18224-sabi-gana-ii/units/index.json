@@ -13,7 +13,8 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356356",
@@ -29,7 +30,8 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356357",
@@ -45,7 +47,24 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.9667453,
+      "longitude": 3.2502332,
+      "viewport": {
+        "northeast": {
+          "lat": 7.968030329892722,
+          "lng": 3.251481029892723
+        },
+        "southwest": {
+          "lat": 7.965330670107278,
+          "lng": 3.248781370107278
+        }
+      },
+      "formatted_address": "6FV5X782+M3G 8 Oke Ago along Awaye road,Iganna, Igana, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9667453,3.2502332",
+      "google_place_id": "ChIJIc-Ry1-PMBARvN58bFvmHvk"
+    }
   },
   {
     "id": "356358",
@@ -61,7 +80,24 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.932182,
+      "longitude": 2.995545,
+      "viewport": {
+        "northeast": {
+          "lat": 7.934409199999999,
+          "lng": 2.997146329892722
+        },
+        "southwest": {
+          "lat": 7.931439599999999,
+          "lng": 2.994446670107278
+        }
+      },
+      "formatted_address": "6, 6FV4WXJW+V6F, 202113, Ijio, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.932182,2.995545",
+      "google_place_id": "ChIJbROWWw97MBARmifi7IGz32k"
+    }
   },
   {
     "id": "356359",
@@ -77,7 +113,24 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.837575200000001,
+      "longitude": 3.9402169,
+      "viewport": {
+        "northeast": {
+          "lat": 7.83895222989272,
+          "lng": 3.941614379892723
+        },
+        "southwest": {
+          "lat": 7.836252570107276,
+          "lng": 3.938914720107279
+        }
+      },
+      "formatted_address": "RWQR+23G, Along Oyo-Ogbomoso Road, Oyo Town, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.837575200000001,3.9402169",
+      "google_place_id": "ChIJYf19d3xZNxAROFyZpVAUE84"
+    }
   },
   {
     "id": "356360",
@@ -93,7 +146,24 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.8714926,
+      "longitude": 3.3328317,
+      "viewport": {
+        "northeast": {
+          "lat": 7.872801829892722,
+          "lng": 3.334201829892722
+        },
+        "southwest": {
+          "lat": 7.870102170107279,
+          "lng": 3.331502170107278
+        }
+      },
+      "formatted_address": "202111, Joloko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8714926,3.3328317",
+      "google_place_id": "ChIJqwM6lOSbMBAR3K-QjbMhQ4E"
+    }
   },
   {
     "id": "356361",
@@ -109,7 +179,8 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356362",
@@ -125,6 +196,23 @@
     "local_government_id": "645",
     "local_government_name": "IWAJOWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.9974412,
+      "longitude": 3.0631905,
+      "viewport": {
+        "northeast": {
+          "lat": 7.998312879892723,
+          "lng": 3.064116779892722
+        },
+        "southwest": {
+          "lat": 7.995613220107279,
+          "lng": 3.061417120107278
+        }
+      },
+      "formatted_address": "X3W7+X7G, Unnamed Road, Idiko Ago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.9974412,3.0631905",
+      "google_place_id": "ChIJt6YBghNjMBARLjheakw-4wU"
+    }
   }
 ]

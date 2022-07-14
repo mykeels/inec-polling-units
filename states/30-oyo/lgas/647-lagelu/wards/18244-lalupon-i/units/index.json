@@ -13,7 +13,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356643",
@@ -29,7 +30,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4756258,
+      "longitude": 4.0719829,
+      "viewport": {
+        "northeast": {
+          "lat": 7.476969779892723,
+          "lng": 4.073328479892723
+        },
+        "southwest": {
+          "lat": 7.474270120107279,
+          "lng": 4.070628820107279
+        }
+      },
+      "formatted_address": "F3GC+7Q5, 200108, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4756258,4.0719829",
+      "google_place_id": "ChIJ_zdZUtjBORARw4d9DiJi9Hg"
+    }
   },
   {
     "id": "356644",
@@ -45,7 +63,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4654704,
+      "longitude": 4.067137199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.466811179892723,
+          "lng": 4.068448729892721
+        },
+        "southwest": {
+          "lat": 7.464111520107279,
+          "lng": 4.065749070107278
+        }
+      },
+      "formatted_address": "Ibadan - Iwo Rd, 200101, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4654704,4.067137199999999",
+      "google_place_id": "ChIJF-GAqn_qORARacZY9Hx2Fr8"
+    }
   },
   {
     "id": "356645",
@@ -61,7 +96,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4463051,
+      "longitude": 4.0303087,
+      "viewport": {
+        "northeast": {
+          "lat": 7.447645329892722,
+          "lng": 4.031632329892721
+        },
+        "southwest": {
+          "lat": 7.444945670107278,
+          "lng": 4.028932670107277
+        }
+      },
+      "formatted_address": "Ibadan - Iwo Rd, 200112, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4463051,4.0303087",
+      "google_place_id": "ChIJdXJrj-HqORARLrF4ohk-6fI"
+    }
   },
   {
     "id": "356646",
@@ -77,7 +129,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.465743799999999,
+      "longitude": 4.0720548,
+      "viewport": {
+        "northeast": {
+          "lat": 7.467113979892721,
+          "lng": 4.073471479892722
+        },
+        "southwest": {
+          "lat": 7.464414320107277,
+          "lng": 4.070771820107278
+        }
+      },
+      "formatted_address": "F38C+8R3, 200101, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.465743799999999,4.0720548",
+      "google_place_id": "ChIJY9doZuXBORARZfM9gc7bhA4"
+    }
   },
   {
     "id": "356647",
@@ -93,7 +162,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3920887,
+      "longitude": 3.959595,
+      "viewport": {
+        "northeast": {
+          "lat": 7.39343742989272,
+          "lng": 3.960945079892722
+        },
+        "southwest": {
+          "lat": 7.390737770107276,
+          "lng": 3.958245420107279
+        }
+      },
+      "formatted_address": "Old Ife Rd, 200113, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3920887,3.959595",
+      "google_place_id": "ChIJZ2P94BCTORARAZClUvNkxY4"
+    }
   },
   {
     "id": "356648",
@@ -109,7 +195,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4547206,
+      "longitude": 3.9071696,
+      "viewport": {
+        "northeast": {
+          "lat": 7.456071879892721,
+          "lng": 3.908511179892722
+        },
+        "southwest": {
+          "lat": 7.453372220107277,
+          "lng": 3.905811520107278
+        }
+      },
+      "formatted_address": "Oyo Rd, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4547206,3.9071696",
+      "google_place_id": "ChIJeb3zQX3tORARE-kfmMEC57E"
+    }
   },
   {
     "id": "356649",
@@ -125,7 +228,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4654418,
+      "longitude": 4.0721007,
+      "viewport": {
+        "northeast": {
+          "lat": 7.48048,
+          "lng": 4.1033251
+        },
+        "southwest": {
+          "lat": 7.436907100000001,
+          "lng": 4.056843
+        }
+      },
+      "formatted_address": "Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4654418,4.0721007",
+      "google_place_id": "ChIJGxQu_9PBORAR0ZqSQNOsKU0"
+    }
   },
   {
     "id": "356650",
@@ -141,7 +261,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4635488,
+      "longitude": 3.9017425,
+      "viewport": {
+        "northeast": {
+          "lat": 7.464965129892721,
+          "lng": 3.903306379892722
+        },
+        "southwest": {
+          "lat": 7.462265470107277,
+          "lng": 3.900606720107278
+        }
+      },
+      "formatted_address": "University of Ibadan, Ajibode 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4635488,3.9017425",
+      "google_place_id": "ChIJtR6ksYDyORAReJEPjGnnGXI"
+    }
   },
   {
     "id": "356651",
@@ -157,7 +294,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4036414,
+      "longitude": 3.9315392,
+      "viewport": {
+        "northeast": {
+          "lat": 7.404993829892722,
+          "lng": 3.932944579892722
+        },
+        "southwest": {
+          "lat": 7.402294170107278,
+          "lng": 3.930244920107278
+        }
+      },
+      "formatted_address": "CW3J+FJ3, Iwo Road 200258, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4036414,3.9315392",
+      "google_place_id": "ChIJD35AXsGSORARYZBsh6DtxoM"
+    }
   },
   {
     "id": "356652",
@@ -173,7 +327,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3743814,
+      "longitude": 3.903999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.375435229892722,
+          "lng": 3.905171379892722
+        },
+        "southwest": {
+          "lat": 7.372735570107278,
+          "lng": 3.902471720107278
+        }
+      },
+      "formatted_address": "No 6 Lalupon, Ibadan Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3743814,3.903999",
+      "google_place_id": "ChIJq1MN5ICNORAR0_PjP6oyHqQ"
+    }
   },
   {
     "id": "356653",
@@ -189,7 +360,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4756258,
+      "longitude": 4.0719829,
+      "viewport": {
+        "northeast": {
+          "lat": 7.476969779892723,
+          "lng": 4.073328479892723
+        },
+        "southwest": {
+          "lat": 7.474270120107279,
+          "lng": 4.070628820107279
+        }
+      },
+      "formatted_address": "F3GC+7Q5, 200108, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4756258,4.0719829",
+      "google_place_id": "ChIJ_zdZUtjBORARw4d9DiJi9Hg"
+    }
   },
   {
     "id": "356654",
@@ -205,7 +393,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4353348,
+      "longitude": 3.9128186,
+      "viewport": {
+        "northeast": {
+          "lat": 7.436800329892723,
+          "lng": 3.914342579892721
+        },
+        "southwest": {
+          "lat": 7.434100670107279,
+          "lng": 3.911642920107278
+        }
+      },
+      "formatted_address": "local government, plank market, Zone4 blk.AF21 bodija international, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4353348,3.9128186",
+      "google_place_id": "ChIJq5h4YDDtORAROKYFCmOUnf4"
+    }
   },
   {
     "id": "356655",
@@ -221,7 +426,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.465743799999999,
+      "longitude": 4.0720548,
+      "viewport": {
+        "northeast": {
+          "lat": 7.467113979892721,
+          "lng": 4.073471479892722
+        },
+        "southwest": {
+          "lat": 7.464414320107277,
+          "lng": 4.070771820107278
+        }
+      },
+      "formatted_address": "F38C+8R3, 200101, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.465743799999999,4.0720548",
+      "google_place_id": "ChIJY9doZuXBORARZfM9gc7bhA4"
+    }
   },
   {
     "id": "356656",
@@ -237,7 +459,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.402060899999999,
+      "longitude": 3.8905101,
+      "viewport": {
+        "northeast": {
+          "lat": 7.40339217989272,
+          "lng": 3.891868429892722
+        },
+        "southwest": {
+          "lat": 7.400692520107277,
+          "lng": 3.889168770107278
+        }
+      },
+      "formatted_address": "CV2R+R6R, Mokola Hill 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.402060899999999,3.8905101",
+      "google_place_id": "ChIJJ3DUXZiNORARAYWQClhf3sM"
+    }
   },
   {
     "id": "356657",
@@ -253,7 +492,8 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "356658",
@@ -269,7 +509,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4756258,
+      "longitude": 4.0719829,
+      "viewport": {
+        "northeast": {
+          "lat": 7.476969779892723,
+          "lng": 4.073328479892723
+        },
+        "southwest": {
+          "lat": 7.474270120107279,
+          "lng": 4.070628820107279
+        }
+      },
+      "formatted_address": "F3GC+7Q5, 200108, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4756258,4.0719829",
+      "google_place_id": "ChIJ_zdZUtjBORARw4d9DiJi9Hg"
+    }
   },
   {
     "id": "356659",
@@ -285,7 +542,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4506909,
+      "longitude": 4.0671702,
+      "viewport": {
+        "northeast": {
+          "lat": 7.452037829892722,
+          "lng": 4.068531279892722
+        },
+        "southwest": {
+          "lat": 7.449338170107279,
+          "lng": 4.065831620107279
+        }
+      },
+      "formatted_address": "F328+7VQ, 200102, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4506909,4.0671702",
+      "google_place_id": "ChIJocXBIZ3qORARS83G9tsEgus"
+    }
   },
   {
     "id": "356660",
@@ -301,7 +575,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.468918400000001,
+      "longitude": 4.0658924,
+      "viewport": {
+        "northeast": {
+          "lat": 7.470233979892722,
+          "lng": 4.067236479892721
+        },
+        "southwest": {
+          "lat": 7.467534320107278,
+          "lng": 4.064536820107278
+        }
+      },
+      "formatted_address": "F398+H96, 200101, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.468918400000001,4.0658924",
+      "google_place_id": "ChIJpReAN3nqORAR8ON9ojkvZQY"
+    }
   },
   {
     "id": "356661",
@@ -317,7 +608,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4463051,
+      "longitude": 4.0303087,
+      "viewport": {
+        "northeast": {
+          "lat": 7.447645329892722,
+          "lng": 4.031632329892721
+        },
+        "southwest": {
+          "lat": 7.444945670107278,
+          "lng": 4.028932670107277
+        }
+      },
+      "formatted_address": "Ibadan - Iwo Rd, 200112, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4463051,4.0303087",
+      "google_place_id": "ChIJdXJrj-HqORARLrF4ohk-6fI"
+    }
   },
   {
     "id": "356662",
@@ -333,7 +641,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3743814,
+      "longitude": 3.903999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.375435229892722,
+          "lng": 3.905171379892722
+        },
+        "southwest": {
+          "lat": 7.372735570107278,
+          "lng": 3.902471720107278
+        }
+      },
+      "formatted_address": "No 6 Lalupon, Ibadan Road, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3743814,3.903999",
+      "google_place_id": "ChIJq1MN5ICNORAR0_PjP6oyHqQ"
+    }
   },
   {
     "id": "356663",
@@ -349,7 +674,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.460772,
+      "longitude": 4.0651141,
+      "viewport": {
+        "northeast": {
+          "lat": 7.462123629892723,
+          "lng": 4.066454079892723
+        },
+        "southwest": {
+          "lat": 7.459423970107278,
+          "lng": 4.063754420107279
+        }
+      },
+      "formatted_address": "F368+825, Owobowale Road, 200102, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460772,4.0651141",
+      "google_place_id": "ChIJXYe8_oLrORAR8D0gUUJedn0"
+    }
   },
   {
     "id": "356664",
@@ -365,7 +707,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.468918400000001,
+      "longitude": 4.0658924,
+      "viewport": {
+        "northeast": {
+          "lat": 7.470233979892722,
+          "lng": 4.067236479892721
+        },
+        "southwest": {
+          "lat": 7.467534320107278,
+          "lng": 4.064536820107278
+        }
+      },
+      "formatted_address": "F398+H96, 200101, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.468918400000001,4.0658924",
+      "google_place_id": "ChIJpReAN3nqORAR8ON9ojkvZQY"
+    }
   },
   {
     "id": "356665",
@@ -381,7 +740,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.487821299999998,
+      "longitude": 3.9199482,
+      "viewport": {
+        "northeast": {
+          "lat": 7.488684379892722,
+          "lng": 3.921472279892721
+        },
+        "southwest": {
+          "lat": 7.485984720107278,
+          "lng": 3.918772620107277
+        }
+      },
+      "formatted_address": "FWQ9+4XG, 200132, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.487821299999998,3.9199482",
+      "google_place_id": "ChIJwc708eztORARZTuT53NGuMg"
+    }
   },
   {
     "id": "356666",
@@ -397,7 +773,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4436626,
+      "longitude": 4.064048,
+      "viewport": {
+        "northeast": {
+          "lat": 7.444913079892721,
+          "lng": 4.065374379892722
+        },
+        "southwest": {
+          "lat": 7.442213420107278,
+          "lng": 4.062674720107278
+        }
+      },
+      "formatted_address": "C3V7+FJ7, Owobowale Road, 200102, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4436626,4.064048",
+      "google_place_id": "ChIJJ1C-1pjqORAR5aiyHWNcHBA"
+    }
   },
   {
     "id": "356667",
@@ -413,7 +806,24 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.468918400000001,
+      "longitude": 4.0658924,
+      "viewport": {
+        "northeast": {
+          "lat": 7.470233979892722,
+          "lng": 4.067236479892721
+        },
+        "southwest": {
+          "lat": 7.467534320107278,
+          "lng": 4.064536820107278
+        }
+      },
+      "formatted_address": "F398+H96, 200101, Lalupon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.468918400000001,4.0658924",
+      "google_place_id": "ChIJpReAN3nqORAR8ON9ojkvZQY"
+    }
   },
   {
     "id": "356668",
@@ -429,6 +839,23 @@
     "local_government_id": "647",
     "local_government_name": "LAGELU",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.474029900000001,
+      "longitude": 4.1286683,
+      "viewport": {
+        "northeast": {
+          "lat": 7.476460100000001,
+          "lng": 4.129962379892722
+        },
+        "southwest": {
+          "lat": 7.472299,
+          "lng": 4.127262720107278
+        }
+      },
+      "formatted_address": "200104, Dagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.474029900000001,4.1286683",
+      "google_place_id": "ChIJxcvjoRfBORARTqgnCsKA7mw"
+    }
   }
 ]

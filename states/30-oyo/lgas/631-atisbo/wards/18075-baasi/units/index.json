@@ -13,7 +13,24 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.4098779,
+      "longitude": 3.3584888,
+      "viewport": {
+        "northeast": {
+          "lat": 8.411219279892723,
+          "lng": 3.359806579892723
+        },
+        "southwest": {
+          "lat": 8.408519620107278,
+          "lng": 3.357106920107278
+        }
+      },
+      "formatted_address": "C955+X95, 203105, Agunrege, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4098779,3.3584888",
+      "google_place_id": "ChIJORlv6o_hMBARjUAekAKPs4E"
+    }
   },
   {
     "id": "352995",
@@ -29,7 +46,24 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3251305,
+      "longitude": 3.3978227,
+      "viewport": {
+        "northeast": {
+          "lat": 8.326665779892721,
+          "lng": 3.399642729892723
+        },
+        "southwest": {
+          "lat": 8.323966120107277,
+          "lng": 3.396943070107278
+        }
+      },
+      "formatted_address": "6FW589GX+34J Bassi Bassi, Abule Basi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3251305,3.3978227",
+      "google_place_id": "ChIJodeWy-znMBARiIABbb7FZ0c"
+    }
   },
   {
     "id": "352996",
@@ -45,7 +79,8 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352997",
@@ -61,7 +96,8 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "352998",
@@ -77,7 +113,24 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3137121,
+      "longitude": 3.4316159,
+      "viewport": {
+        "northeast": {
+          "lat": 8.31510687989272,
+          "lng": 3.432950329892722
+        },
+        "southwest": {
+          "lat": 8.312407220107277,
+          "lng": 3.430250670107277
+        }
+      },
+      "formatted_address": "203105, Asaju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3137121,3.4316159",
+      "google_place_id": "ChIJ_0gj-0LdMBARPubP7WSV-ac"
+    }
   },
   {
     "id": "352999",
@@ -93,7 +146,24 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3137121,
+      "longitude": 3.4316159,
+      "viewport": {
+        "northeast": {
+          "lat": 8.31510687989272,
+          "lng": 3.432950329892722
+        },
+        "southwest": {
+          "lat": 8.312407220107277,
+          "lng": 3.430250670107277
+        }
+      },
+      "formatted_address": "203105, Asaju, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3137121,3.4316159",
+      "google_place_id": "ChIJ_0gj-0LdMBARPubP7WSV-ac"
+    }
   },
   {
     "id": "353000",
@@ -109,6 +179,23 @@
     "local_government_id": "631",
     "local_government_name": "ATISBO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3251305,
+      "longitude": 3.3978227,
+      "viewport": {
+        "northeast": {
+          "lat": 8.326665779892721,
+          "lng": 3.399642729892723
+        },
+        "southwest": {
+          "lat": 8.323966120107277,
+          "lng": 3.396943070107278
+        }
+      },
+      "formatted_address": "6FW589GX+34J Bassi Bassi, Abule Basi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3251305,3.3978227",
+      "google_place_id": "ChIJodeWy-znMBARiIABbb7FZ0c"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.135376299999999,
+      "longitude": 4.2448817,
+      "viewport": {
+        "northeast": {
+          "lat": 8.136751329892721,
+          "lng": 4.246163429892721
+        },
+        "southwest": {
+          "lat": 8.134051670107278,
+          "lng": 4.243463770107277
+        }
+      },
+      "formatted_address": "46PV+4XR, Okelerin Street, 212102, Ogbomosho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.135376299999999,4.2448817",
+      "google_place_id": "ChIJy7AFQmgNNxARoSbxqHANhYU"
+    }
   },
   {
     "id": "357141",
@@ -29,7 +46,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.975161000000001,
+      "longitude": 4.224089,
+      "viewport": {
+        "northeast": {
+          "lat": 7.976510829892723,
+          "lng": 4.225438829892721
+        },
+        "southwest": {
+          "lat": 7.973811170107279,
+          "lng": 4.222739170107277
+        }
+      },
+      "formatted_address": "X6GF+3J8, 210101, Ilogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.975161000000001,4.224089",
+      "google_place_id": "ChIJ1UvF7dFvNxARK1iK6vy-nEc"
+    }
   },
   {
     "id": "357142",
@@ -45,7 +79,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.742603999999999,
+      "longitude": 3.92471,
+      "viewport": {
+        "northeast": {
+          "lat": 7.74395382989272,
+          "lng": 3.926059829892723
+        },
+        "southwest": {
+          "lat": 7.741254170107276,
+          "lng": 3.923360170107279
+        }
+      },
+      "formatted_address": "6FV5PWVF+2VW 10 Aguo, Jobele-Ilora Rd, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.742603999999999,3.92471",
+      "google_place_id": "ChIJB_syd0bjORARL44Jre0Rko8"
+    }
   },
   {
     "id": "357143",
@@ -61,7 +112,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.561912099999999,
+      "longitude": 3.5123017,
+      "viewport": {
+        "northeast": {
+          "lat": 8.563261929892722,
+          "lng": 3.513651529892722
+        },
+        "southwest": {
+          "lat": 8.560562270107278,
+          "lng": 3.510951870107277
+        }
+      },
+      "formatted_address": "HG66+QW7, 203104, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.561912099999999,3.5123017",
+      "google_place_id": "ChIJh2YmYxskMRARwlma3-_Os44"
+    }
   },
   {
     "id": "357144",
@@ -77,7 +145,24 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 43.467299,
+      "longitude": -80.52329800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 43.46868722989272,
+          "lng": -80.52178887010727
+        },
+        "southwest": {
+          "lat": 43.46598757010727,
+          "lng": -80.52448852989272
+        }
+      },
+      "formatted_address": "71 King St N, Waterloo, ON N2J 2X2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.467299,-80.52329800000001",
+      "google_place_id": "ChIJmd9ZziP1K4gRijXWDeYBaag"
+    }
   },
   {
     "id": "357145",
@@ -93,6 +178,23 @@
     "local_government_id": "650",
     "local_government_name": "OGO-OLUWA",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.885804100000001,
+      "longitude": 4.1233924,
+      "viewport": {
+        "northeast": {
+          "lat": 7.887158729892721,
+          "lng": 4.124854
+        },
+        "southwest": {
+          "lat": 7.884459070107277,
+          "lng": 4.1213689
+        }
+      },
+      "formatted_address": "210101, Aba Oku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.885804100000001,4.1233924",
+      "google_place_id": "ChIJ0a0CNfBmNxARL8koj3Zifww"
+    }
   }
 ]

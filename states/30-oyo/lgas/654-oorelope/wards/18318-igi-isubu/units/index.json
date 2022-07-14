@@ -13,7 +13,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4224092,
+      "longitude": 3.9049376,
+      "viewport": {
+        "northeast": {
+          "lat": 7.423722579892722,
+          "lng": 3.906309029892722
+        },
+        "southwest": {
+          "lat": 7.421022920107278,
+          "lng": 3.903609370107278
+        }
+      },
+      "formatted_address": "CWC3+XX8, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4224092,3.9049376",
+      "google_place_id": "ChIJHbOuEIXzORARsXLcFPo8JsU"
+    }
   },
   {
     "id": "357703",
@@ -29,7 +46,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.4224092,
+      "longitude": 3.9049376,
+      "viewport": {
+        "northeast": {
+          "lat": 7.423722579892722,
+          "lng": 3.906309029892722
+        },
+        "southwest": {
+          "lat": 7.421022920107278,
+          "lng": 3.903609370107278
+        }
+      },
+      "formatted_address": "CWC3+XX8, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.4224092,3.9049376",
+      "google_place_id": "ChIJHbOuEIXzORARsXLcFPo8JsU"
+    }
   },
   {
     "id": "357704",
@@ -45,7 +79,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.9276255,
+      "longitude": 3.7298633,
+      "viewport": {
+        "northeast": {
+          "lat": 8.939369,
+          "lng": 3.731324
+        },
+        "southwest": {
+          "lat": 8.924646,
+          "lng": 3.727713
+        }
+      },
+      "formatted_address": "212104, Odo Ogun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9276255,3.7298633",
+      "google_place_id": "ChIJC64jwMZMMRARh3aDhyylxTI"
+    }
   },
   {
     "id": "357705",
@@ -61,7 +112,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.3780577,
+      "longitude": 3.8248241,
+      "viewport": {
+        "northeast": {
+          "lat": 8.379407529892724,
+          "lng": 3.826173929892721
+        },
+        "southwest": {
+          "lat": 8.37670787010728,
+          "lng": 3.823474270107277
+        }
+      },
+      "formatted_address": "9RHF+6WG, Bayo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3780577,3.8248241",
+      "google_place_id": "ChIJHRMn5hDbNhARDfScLv07_VU"
+    }
   },
   {
     "id": "357706",
@@ -77,7 +145,24 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.8307948,
+      "longitude": 3.7403895,
+      "viewport": {
+        "northeast": {
+          "lat": 8.832144079892723,
+          "lng": 3.741747829892723
+        },
+        "southwest": {
+          "lat": 8.82944442010728,
+          "lng": 3.739048170107279
+        }
+      },
+      "formatted_address": "RPJR+856, Igbope, Igboho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8307948,3.7403895",
+      "google_place_id": "ChIJ4WGHS5pLMRARrq3wPiPxKFE"
+    }
   },
   {
     "id": "357707",
@@ -93,6 +178,23 @@
     "local_government_id": "654",
     "local_government_name": "OORELOPE",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.818791099999999,
+      "longitude": 3.908815999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.820146429892721,
+          "lng": 3.910210229892722
+        },
+        "southwest": {
+          "lat": 7.817446770107277,
+          "lng": 3.907510570107279
+        }
+      },
+      "formatted_address": "RW95+GG8, Ilora 211172, Oyo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.818791099999999,3.908815999999999",
+      "google_place_id": "ChIJVVVVVdZZNxARxVuOWAGiTjA"
+    }
   }
 ]

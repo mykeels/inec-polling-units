@@ -13,7 +13,8 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": null
   },
   {
     "id": "357238",
@@ -29,7 +30,24 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 7.3869801,
+      "longitude": 3.9023192,
+      "viewport": {
+        "northeast": {
+          "lat": 7.388300779892721,
+          "lng": 3.903635179892721
+        },
+        "southwest": {
+          "lat": 7.385601120107277,
+          "lng": 3.900935520107277
+        }
+      },
+      "formatted_address": "9WP2+QWW, Yemetu St, 200285, Ibadan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3869801,3.9023192",
+      "google_place_id": "ChIJl3Pl2D2NORAR4r67MF7PG84"
+    }
   },
   {
     "id": "357239",
@@ -45,7 +63,24 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.7472447,
+      "longitude": 4.1288102,
+      "viewport": {
+        "northeast": {
+          "lat": 8.748546129892723,
+          "lng": 4.129945229892722
+        },
+        "southwest": {
+          "lat": 8.74584647010728,
+          "lng": 4.127245570107278
+        }
+      },
+      "formatted_address": "Onigbeti Palace, A 7, 210115, Igbeti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7472447,4.1288102",
+      "google_place_id": "ChIJd_ire8DrNhARNqOSzcPcH1Q"
+    }
   },
   {
     "id": "357240",
@@ -61,7 +96,24 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.7472447,
+      "longitude": 4.1288102,
+      "viewport": {
+        "northeast": {
+          "lat": 8.748546129892723,
+          "lng": 4.129945229892722
+        },
+        "southwest": {
+          "lat": 8.74584647010728,
+          "lng": 4.127245570107278
+        }
+      },
+      "formatted_address": "Onigbeti Palace, A 7, 210115, Igbeti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7472447,4.1288102",
+      "google_place_id": "ChIJd_ire8DrNhARNqOSzcPcH1Q"
+    }
   },
   {
     "id": "357241",
@@ -77,7 +129,24 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.7472447,
+      "longitude": 4.1288102,
+      "viewport": {
+        "northeast": {
+          "lat": 8.748546129892723,
+          "lng": 4.129945229892722
+        },
+        "southwest": {
+          "lat": 8.74584647010728,
+          "lng": 4.127245570107278
+        }
+      },
+      "formatted_address": "Onigbeti Palace, A 7, 210115, Igbeti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7472447,4.1288102",
+      "google_place_id": "ChIJd_ire8DrNhARNqOSzcPcH1Q"
+    }
   },
   {
     "id": "357242",
@@ -93,7 +162,24 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.7472447,
+      "longitude": 4.1288102,
+      "viewport": {
+        "northeast": {
+          "lat": 8.748546129892723,
+          "lng": 4.129945229892722
+        },
+        "southwest": {
+          "lat": 8.74584647010728,
+          "lng": 4.127245570107278
+        }
+      },
+      "formatted_address": "Onigbeti Palace, A 7, 210115, Igbeti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7472447,4.1288102",
+      "google_place_id": "ChIJd_ire8DrNhARNqOSzcPcH1Q"
+    }
   },
   {
     "id": "357243",
@@ -109,6 +195,23 @@
     "local_government_id": "651",
     "local_government_name": "OLORUNSOGO",
     "state_id": "30",
-    "state_name": "OYO"
+    "state_name": "OYO",
+    "location": {
+      "latitude": 8.7472447,
+      "longitude": 4.1288102,
+      "viewport": {
+        "northeast": {
+          "lat": 8.748546129892723,
+          "lng": 4.129945229892722
+        },
+        "southwest": {
+          "lat": 8.74584647010728,
+          "lng": 4.127245570107278
+        }
+      },
+      "formatted_address": "Onigbeti Palace, A 7, 210115, Igbeti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7472447,4.1288102",
+      "google_place_id": "ChIJd_ire8DrNhARNqOSzcPcH1Q"
+    }
   }
 ]
