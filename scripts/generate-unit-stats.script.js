@@ -3,9 +3,9 @@
  * stats for every state
  */
 
-const fsPromise = require('node:fs/promises')
-const path = require("node:path");
-const walk = require('./walk')
+const fs = require('fs');
+const path = require("path");
+const walk = require('./walk');
 
  /**
   * @param {Object[]} units
@@ -62,7 +62,7 @@ const walk = require('./walk')
   */
  async function updateReadmePUTable(tableInfo) {
    const readmePath = path.join(process.cwd(), 'README.md')
-   const readme = await fsPromise.readFile(readmePath, {
+   const readme = await fs.promises.readFile(readmePath, {
      encoding: 'utf8'
    })
    const [firstPart] = readme.split('### Polling Unit Stats')
@@ -71,14 +71,14 @@ const walk = require('./walk')
    const updatedReadmeText = firstPart + '### Polling Unit Stats\n'
      + tableInfo + '\n<!-- End of PU stats -->' + lastPart;
 
-   await fsPromise.writeFile(readmePath, updatedReadmeText)
+   await fs.promises.writeFile(readmePath, updatedReadmeText)
  }
 
  (async () => {
    let all = []
    for await (const file of walk(`./states/`)) {
-     if (file.endsWith('/units/index.json')) {
-       const json = JSON.parse(await fsPromise.readFile(file, { encoding: 'utf8' }))
+     if (file.endsWith(path.normalize('/units/index.json'))) {
+       const json = JSON.parse(await fs.promises.readFile(file, { encoding: 'utf8' }))
        all = [...all, ...json]
      }
    }

@@ -4,7 +4,7 @@
  * name, ward_name, local_government_name, state_name, latitude, longitude
  */
 
-const fsPromise = require('node:fs/promises')
+const fs = require('fs')
 const path = require("node:path");
 const walk = require('./walk')
 const converter = require('json-2-csv');
@@ -12,8 +12,8 @@ const converter = require('json-2-csv');
 (async () => {
   let all = []
   for await (const file of walk(`./states/`)) {
-    if (file.endsWith('/units/index.json')) {
-      const json = JSON.parse(await fsPromise.readFile(file, { encoding: 'utf8' }))
+    if (file.endsWith(path.normalize('/units/index.json'))) {
+      const json = JSON.parse(await fs.promises.readFile(file, { encoding: 'utf8' }))
       all = [...all, ...json]
     }
   }
@@ -22,7 +22,7 @@ const converter = require('json-2-csv');
     if (err) {
       return console.error(err)
     }
-    await fsPromise.writeFile(path.join(process.cwd(), 'polling-units.csv'), csv)
+    await fs.promises.writeFile(path.join(process.cwd(), 'polling-units.csv'), csv)
   },
     {
       emptyFieldValue: "",
