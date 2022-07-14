@@ -13,7 +13,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96322",
@@ -29,7 +30,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96323",
@@ -45,7 +47,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96324",
@@ -61,7 +64,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96325",
@@ -77,7 +81,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96326",
@@ -93,7 +98,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96327",
@@ -109,7 +115,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96328",
@@ -125,7 +132,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96329",
@@ -141,7 +149,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96330",
@@ -157,7 +166,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96331",
@@ -173,7 +183,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96332",
@@ -189,7 +200,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96333",
@@ -205,7 +217,24 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.457149,
+      "longitude": 7.127105999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.45847882989272,
+          "lng": 7.128273429892722
+        },
+        "southwest": {
+          "lat": 11.45577917010728,
+          "lng": 7.125573770107278
+        }
+      },
+      "formatted_address": "F44G+VR5, 830103, Dan Dume, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.457149,7.127105999999999",
+      "google_place_id": "ChIJdxi2WnJNshER9CcQu9x4C-8"
+    }
   },
   {
     "id": "96334",
@@ -221,7 +250,8 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96335",
@@ -237,7 +267,24 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 0.5565167999999999,
+      "longitude": 123.0636827,
+      "viewport": {
+        "northeast": {
+          "lat": 0.5578333298927223,
+          "lng": 123.0650223298927
+        },
+        "southwest": {
+          "lat": 0.5551336701072778,
+          "lng": 123.0623226701073
+        }
+      },
+      "formatted_address": "Jl. Jend. Sudirman No.6, Dulalowo Tim., Kec. Kota Tengah, Kota Gorontalo, Gorontalo 96128, Indonesia",
+      "google_map_url": "https://maps.google.com?q=0.5565167999999999,123.0636827",
+      "google_place_id": "ChIJd11SJUcreTIRAw5teOpXlo0"
+    }
   },
   {
     "id": "96336",
@@ -253,6 +300,23 @@
     "local_government_id": "420",
     "local_government_name": "DANDUME",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5064702,
+      "longitude": 7.310875299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.50763627989272,
+          "lng": 7.312276429892721
+        },
+        "southwest": {
+          "lat": 11.50493662010728,
+          "lng": 7.309576770107277
+        }
+      },
+      "formatted_address": "G846+H8X, 830101, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5064702,7.310875299999999",
+      "google_place_id": "ChIJnYeOhjREshER9dNLF4qK0rw"
+    }
   }
 ]

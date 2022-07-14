@@ -13,7 +13,24 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9736159,
+      "longitude": 7.5810965,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97504327989272,
+          "lng": 7.582383229892721
+        },
+        "southwest": {
+          "lat": 12.97234362010728,
+          "lng": 7.579683570107277
+        }
+      },
+      "formatted_address": "XHFJ+CCX, Batsari Rd, 820252, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9736159,7.5810965",
+      "google_place_id": "ChIJx1T3KVs9sBERHj_-KC24Cps"
+    }
   },
   {
     "id": "101413",
@@ -29,7 +46,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101414",
@@ -45,7 +63,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101415",
@@ -61,7 +80,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101416",
@@ -77,7 +97,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101417",
@@ -93,7 +114,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101418",
@@ -109,7 +131,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101419",
@@ -125,7 +148,24 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.4417409,
+      "longitude": 7.266634499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4487919,
+          "lng": 7.272037999999999
+        },
+        "southwest": {
+          "lat": 11.438427,
+          "lng": 7.2620239
+        }
+      },
+      "formatted_address": "830103, Mahuta, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4417409,7.266634499999999",
+      "google_place_id": "ChIJoew7sVdFshERH7J9dOMG0y4"
+    }
   },
   {
     "id": "101420",
@@ -141,7 +181,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101421",
@@ -157,7 +198,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101422",
@@ -173,6 +215,23 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9379577,
+      "longitude": 7.605629299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.93911947989272,
+          "lng": 7.606941979892722
+        },
+        "southwest": {
+          "lat": 12.93641982010728,
+          "lng": 7.604242320107279
+        }
+      },
+      "formatted_address": "WJQ4+57J, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9379577,7.605629299999999",
+      "google_place_id": "ChIJffV6jDE7sBERW4fOCwSZ9gw"
+    }
   }
 ]

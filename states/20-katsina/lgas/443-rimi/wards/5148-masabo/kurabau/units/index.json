@@ -13,7 +13,8 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101135",
@@ -29,7 +30,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9548225,
+      "longitude": 7.6263704,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95605612989272,
+          "lng": 7.627627029892722
+        },
+        "southwest": {
+          "lat": 12.95335647010728,
+          "lng": 7.624927370107279
+        }
+      },
+      "formatted_address": "Abba Musa Rimi Way, Ring Rd, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9548225,7.6263704",
+      "google_place_id": "ChIJgculVZYksBERfBybCmx8aTw"
+    }
   },
   {
     "id": "101136",
@@ -45,7 +63,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
   },
   {
     "id": "101137",
@@ -61,7 +96,8 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101138",
@@ -77,7 +113,8 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101139",
@@ -93,7 +130,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9051,
+      "longitude": 7.594024099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.90601837989272,
+          "lng": 7.595397879892722
+        },
+        "southwest": {
+          "lat": 12.90331872010728,
+          "lng": 7.592698220107279
+        }
+      },
+      "formatted_address": "Dutsinma Road, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9051,7.594024099999999",
+      "google_place_id": "ChIJyegt3sY6sBERZiMqgv_1D04"
+    }
   },
   {
     "id": "101140",
@@ -109,7 +163,8 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101141",
@@ -125,7 +180,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9570115,
+      "longitude": 7.7587689,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95836367989272,
+          "lng": 7.760133279892723
+        },
+        "southwest": {
+          "lat": 12.95566402010728,
+          "lng": 7.757433620107279
+        }
+      },
+      "formatted_address": "XQ45+RG4, 822103, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9570115,7.7587689",
+      "google_place_id": "ChIJzdv5JDcnsBERDCcMDu_oTxc"
+    }
   },
   {
     "id": "101142",
@@ -141,7 +213,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9521996,
+      "longitude": 7.77703,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95349257989272,
+          "lng": 7.778323679892722
+        },
+        "southwest": {
+          "lat": 12.95079292010728,
+          "lng": 7.775624020107278
+        }
+      },
+      "formatted_address": "Kurabau Primary School, 822103, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9521996,7.77703",
+      "google_place_id": "ChIJzVrU91onsBER5h6-2H2OgxE"
+    }
   },
   {
     "id": "101143",
@@ -157,7 +246,8 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101144",
@@ -173,7 +263,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9920871,
+      "longitude": 7.504650000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99339162989272,
+          "lng": 7.50602707989272
+        },
+        "southwest": {
+          "lat": 12.99069197010728,
+          "lng": 7.503327420107277
+        }
+      },
+      "formatted_address": "XGR3+RRQ, 820104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9920871,7.504650000000001",
+      "google_place_id": "ChIJ54kuPr8-sBERmb3UFT93A8E"
+    }
   },
   {
     "id": "101145",
@@ -189,7 +296,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9051,
+      "longitude": 7.594024099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.90601837989272,
+          "lng": 7.595397879892722
+        },
+        "southwest": {
+          "lat": 12.90331872010728,
+          "lng": 7.592698220107279
+        }
+      },
+      "formatted_address": "Dutsinma Road, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9051,7.594024099999999",
+      "google_place_id": "ChIJyegt3sY6sBERZiMqgv_1D04"
+    }
   },
   {
     "id": "101146",
@@ -205,7 +329,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9521996,
+      "longitude": 7.77703,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95349257989272,
+          "lng": 7.778323679892722
+        },
+        "southwest": {
+          "lat": 12.95079292010728,
+          "lng": 7.775624020107278
+        }
+      },
+      "formatted_address": "Kurabau Primary School, 822103, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9521996,7.77703",
+      "google_place_id": "ChIJzVrU91onsBER5h6-2H2OgxE"
+    }
   },
   {
     "id": "101147",
@@ -221,7 +362,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
   },
   {
     "id": "101148",
@@ -237,7 +395,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9969019,
+      "longitude": 7.6124682,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99823702989272,
+          "lng": 7.613819079892723
+        },
+        "southwest": {
+          "lat": 12.99553737010728,
+          "lng": 7.611119420107279
+        }
+      },
+      "formatted_address": "XJW6+PX9, Musa Abdullahi St, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9969019,7.6124682",
+      "google_place_id": "ChIJN1VNxw4jsBERwa4mUo_4uGY"
+    }
   },
   {
     "id": "101149",
@@ -253,7 +428,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9051,
+      "longitude": 7.594024099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.90601837989272,
+          "lng": 7.595397879892722
+        },
+        "southwest": {
+          "lat": 12.90331872010728,
+          "lng": 7.592698220107279
+        }
+      },
+      "formatted_address": "Dutsinma Road, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9051,7.594024099999999",
+      "google_place_id": "ChIJyegt3sY6sBERZiMqgv_1D04"
+    }
   },
   {
     "id": "101150",
@@ -269,7 +461,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9521996,
+      "longitude": 7.77703,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95349257989272,
+          "lng": 7.778323679892722
+        },
+        "southwest": {
+          "lat": 12.95079292010728,
+          "lng": 7.775624020107278
+        }
+      },
+      "formatted_address": "Kurabau Primary School, 822103, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9521996,7.77703",
+      "google_place_id": "ChIJzVrU91onsBER5h6-2H2OgxE"
+    }
   },
   {
     "id": "101151",
@@ -285,7 +494,24 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9521996,
+      "longitude": 7.77703,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95349257989272,
+          "lng": 7.778323679892722
+        },
+        "southwest": {
+          "lat": 12.95079292010728,
+          "lng": 7.775624020107278
+        }
+      },
+      "formatted_address": "Kurabau Primary School, 822103, Ajiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9521996,7.77703",
+      "google_place_id": "ChIJzVrU91onsBER5h6-2H2OgxE"
+    }
   },
   {
     "id": "101152",
@@ -301,6 +527,7 @@
     "local_government_id": "443",
     "local_government_name": "RIMI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]

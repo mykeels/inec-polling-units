@@ -13,7 +13,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6698203,
+      "longitude": 7.7222843,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67134527989272,
+          "lng": 7.723586079892722
+        },
+        "southwest": {
+          "lat": 12.66864562010728,
+          "lng": 7.720886420107278
+        }
+      },
+      "formatted_address": "MP9C+WWF, banye road, Cheranchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6698203,7.7222843",
+      "google_place_id": "ChIJi5BqaIzVsRER-bopU0nLyfg"
+    }
   },
   {
     "id": "96226",
@@ -29,7 +46,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96227",
@@ -45,7 +63,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96228",
@@ -61,7 +80,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96229",
@@ -77,7 +97,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96230",
@@ -93,7 +114,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4402206,
+      "longitude": 7.4951223,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44182462989272,
+          "lng": 7.496486879892721
+        },
+        "southwest": {
+          "lat": 12.43912497010728,
+          "lng": 7.493787220107277
+        }
+      },
+      "formatted_address": "CFRW+32Q, 821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4402206,7.4951223",
+      "google_place_id": "ChIJybkfq8XGsRERS7HtZMtXHuo"
+    }
   },
   {
     "id": "96231",
@@ -109,7 +147,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96232",
@@ -125,7 +164,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96233",
@@ -141,7 +181,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6729584,
+      "longitude": 7.7280765,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67430882989272,
+          "lng": 7.729431779892723
+        },
+        "southwest": {
+          "lat": 12.67160917010728,
+          "lng": 7.726732120107279
+        }
+      },
+      "formatted_address": "SABON LAYI CHARANCHI KATSINA STATE CHARANCHI, NORTH WEST, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6729584,7.7280765",
+      "google_place_id": "ChIJPdoDhO_VsRERksUu0xexi9E"
+    }
   },
   {
     "id": "96234",
@@ -157,6 +214,23 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9920871,
+      "longitude": 7.504650000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99339162989272,
+          "lng": 7.50602707989272
+        },
+        "southwest": {
+          "lat": 12.99069197010728,
+          "lng": 7.503327420107277
+        }
+      },
+      "formatted_address": "XGR3+RRQ, 820104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9920871,7.504650000000001",
+      "google_place_id": "ChIJ54kuPr8-sBERmb3UFT93A8E"
+    }
   }
 ]

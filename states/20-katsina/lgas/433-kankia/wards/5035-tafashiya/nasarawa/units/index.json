@@ -13,7 +13,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0248508,
+      "longitude": 7.6914509,
+      "viewport": {
+        "northeast": {
+          "lat": 13.02610777989272,
+          "lng": 7.692875979892721
+        },
+        "southwest": {
+          "lat": 13.02340812010728,
+          "lng": 7.690176320107277
+        }
+      },
+      "formatted_address": "2MFR+WHJ, 820103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0248508,7.6914509",
+      "google_place_id": "ChIJU6o_Zy8isBERkZ5B3TxrbzM"
+    }
   },
   {
     "id": "98914",
@@ -29,7 +46,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5622649,
+      "longitude": 7.827197900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.56379177989272,
+          "lng": 7.828477379892722
+        },
+        "southwest": {
+          "lat": 12.56109212010728,
+          "lng": 7.825777720107278
+        }
+      },
+      "formatted_address": "HR6G+VVW, Kano-Kankia-Katsina Rd, 822101, Kankiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5622649,7.827197900000001",
+      "google_place_id": "ChIJ8-BdWgYprhERqEf2k45Tc3Y"
+    }
   },
   {
     "id": "98915",
@@ -45,7 +79,8 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "98916",
@@ -61,7 +96,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5330455,
+      "longitude": 7.816339299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.53439662989272,
+          "lng": 7.817708429892721
+        },
+        "southwest": {
+          "lat": 12.53169697010728,
+          "lng": 7.815008770107277
+        }
+      },
+      "formatted_address": "GRM8+6G8, 822101, Kankiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5330455,7.816339299999999",
+      "google_place_id": "ChIJy53UxywprhERxDwXrn5-lBU"
+    }
   },
   {
     "id": "98917",
@@ -77,7 +129,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9577814,
+      "longitude": 7.600403699999998,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95917182989272,
+          "lng": 7.601752329892722
+        },
+        "southwest": {
+          "lat": 12.95647217010728,
+          "lng": 7.599052670107278
+        }
+      },
+      "formatted_address": "XJ42+R24, Dutsinma Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9577814,7.600403699999998",
+      "google_place_id": "ChIJSa63ddE7sBERjDzf_ZkNvSg"
+    }
   },
   {
     "id": "98918",
@@ -93,7 +162,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5401627,
+      "longitude": 7.8209526,
+      "viewport": {
+        "northeast": {
+          "lat": 12.54153517989272,
+          "lng": 7.822290729892722
+        },
+        "southwest": {
+          "lat": 12.53883552010728,
+          "lng": 7.819591070107278
+        }
+      },
+      "formatted_address": "GRRC+494, 822101, Kankiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5401627,7.8209526",
+      "google_place_id": "ChIJ4S1H3koprhERjC6Cv5cXEoc"
+    }
   },
   {
     "id": "98919",
@@ -109,7 +195,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9795242,
+      "longitude": 7.584897799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98091027989272,
+          "lng": 7.586182679892723
+        },
+        "southwest": {
+          "lat": 12.97821062010728,
+          "lng": 7.583483020107279
+        }
+      },
+      "formatted_address": "XHHM+RX2, Batsari Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9795242,7.584897799999999",
+      "google_place_id": "ChIJrzkRTlQ9sBERNgN-JAeaNX0"
+    }
   },
   {
     "id": "98920",
@@ -125,7 +228,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4735657,
+      "longitude": 7.873526099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.47492607989272,
+          "lng": 7.874906329892722
+        },
+        "southwest": {
+          "lat": 12.47222642010728,
+          "lng": 7.872206670107278
+        }
+      },
+      "formatted_address": "FVFF+CCC Kano-Kankia, Katsina Road, 822102, kankiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4735657,7.873526099999999",
+      "google_place_id": "ChIJ08DppS8prhERaHcHOL4gdkg"
+    }
   },
   {
     "id": "98921",
@@ -141,7 +261,8 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "98922",
@@ -157,7 +278,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.462174,
+      "longitude": 7.828637,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46401315,
+          "lng": 7.829898479892721
+        },
+        "southwest": {
+          "lat": 12.45665655,
+          "lng": 7.827198820107277
+        }
+      },
+      "formatted_address": "FR6H+VF6, 822101, Machinjim, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.462174,7.828637",
+      "google_place_id": "ChIJA-sA9WYnrhERKFx0EG1iHy0"
+    }
   },
   {
     "id": "98923",
@@ -173,7 +311,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
   },
   {
     "id": "98924",
@@ -189,7 +344,8 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "98925",
@@ -205,7 +361,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5380181,
+      "longitude": 7.8193122,
+      "viewport": {
+        "northeast": {
+          "lat": 12.53933132989272,
+          "lng": 7.820751779892722
+        },
+        "southwest": {
+          "lat": 12.53663167010728,
+          "lng": 7.818052120107278
+        }
+      },
+      "formatted_address": "Kankia Rd, 822101, Gaci, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5380181,7.8193122",
+      "google_place_id": "ChIJs6Kze8EprhERS6Gn6dpjlX0"
+    }
   },
   {
     "id": "98926",
@@ -221,7 +394,24 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
   },
   {
     "id": "98927",
@@ -237,6 +427,23 @@
     "local_government_id": "433",
     "local_government_name": "KANKIA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4966358,
+      "longitude": 7.817760099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5381002,
+          "lng": 7.873153599999999
+        },
+        "southwest": {
+          "lat": 12.4480989,
+          "lng": 7.752308299999999
+        }
+      },
+      "formatted_address": "Tafashiya Nasarawa, 822101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4966358,7.817760099999999",
+      "google_place_id": "ChIJ63LDcMQnrhER5A-mNt7DgBk"
+    }
   }
 ]

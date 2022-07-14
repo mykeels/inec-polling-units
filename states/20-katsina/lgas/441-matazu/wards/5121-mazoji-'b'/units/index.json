@@ -13,7 +13,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0076612,
+      "longitude": 7.5868746,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00900492989272,
+          "lng": 7.588505879892723
+        },
+        "southwest": {
+          "lat": 13.00630527010728,
+          "lng": 7.585806220107278
+        }
+      },
+      "formatted_address": "2H5P+3P9 lowcost katsina, 820101, Dutsin Safe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0076612,7.5868746",
+      "google_place_id": "ChIJa6GIUuY8sBERAhX3mcN0PXc"
+    }
   },
   {
     "id": "100732",
@@ -29,7 +46,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.4380947,
+      "longitude": 7.4897894,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43945007989272,
+          "lng": 7.491139979892722
+        },
+        "southwest": {
+          "lat": 12.43675042010728,
+          "lng": 7.488440320107278
+        }
+      },
+      "formatted_address": "CFQQ+6WM, 821101, Dutsin-Ma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4380947,7.4897894",
+      "google_place_id": "ChIJ0y2ThtrGsRER7ZYU2J_GHXY"
+    }
   },
   {
     "id": "100733",
@@ -45,7 +79,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0076612,
+      "longitude": 7.5868746,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00900492989272,
+          "lng": 7.588505879892723
+        },
+        "southwest": {
+          "lat": 13.00630527010728,
+          "lng": 7.585806220107278
+        }
+      },
+      "formatted_address": "2H5P+3P9 lowcost katsina, 820101, Dutsin Safe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0076612,7.5868746",
+      "google_place_id": "ChIJa6GIUuY8sBERAhX3mcN0PXc"
+    }
   },
   {
     "id": "100734",
@@ -61,7 +112,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
   },
   {
     "id": "100735",
@@ -77,7 +145,8 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "100736",
@@ -93,7 +162,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9706934,
+      "longitude": 7.5993087,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97206992989272,
+          "lng": 7.600647779892723
+        },
+        "southwest": {
+          "lat": 12.96937027010728,
+          "lng": 7.597948120107279
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9706934,7.5993087",
+      "google_place_id": "ChIJM3jqClg7sBERrDqHWAOixC8"
+    }
   },
   {
     "id": "100737",
@@ -109,7 +195,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
   },
   {
     "id": "100738",
@@ -125,6 +228,23 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9864504,
+      "longitude": 7.6020005,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98780447989272,
+          "lng": 7.603344679892722
+        },
+        "southwest": {
+          "lat": 12.98510482010728,
+          "lng": 7.600645020107278
+        }
+      },
+      "formatted_address": "Tafawa Balewa Road, Sabon Layi 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9864504,7.6020005",
+      "google_place_id": "ChIJExQIwLA8sBERPuifQg6BjLU"
+    }
   }
 ]

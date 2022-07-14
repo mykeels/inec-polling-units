@@ -13,7 +13,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96236",
@@ -29,7 +30,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6617722,
+      "longitude": 7.730988399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66312937989272,
+          "lng": 7.732381129892722
+        },
+        "southwest": {
+          "lat": 12.66042972010728,
+          "lng": 7.729681470107278
+        }
+      },
+      "formatted_address": "MP6J+PC9, 822104, Cheranchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6617722,7.730988399999999",
+      "google_place_id": "ChIJbYfZgQTVsRERR-rkzQnYT0s"
+    }
   },
   {
     "id": "96237",
@@ -45,7 +63,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96238",
@@ -61,7 +80,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96239",
@@ -77,7 +97,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Kadarko Estate, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJ_byQJtgjsBERaJBmztEZDLc"
+    }
   },
   {
     "id": "96240",
@@ -93,7 +130,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.65755,
+      "longitude": 7.758698999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.65881372989272,
+          "lng": 7.760026329892723
+        },
+        "southwest": {
+          "lat": 12.65611407010728,
+          "lng": 7.757326670107279
+        }
+      },
+      "formatted_address": "MQ55+2FG, 822104, Cheranchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.65755,7.758698999999999",
+      "google_place_id": "ChIJhXJE9w3VsRERF0iFsisw7us"
+    }
   },
   {
     "id": "96241",
@@ -109,7 +163,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96242",
@@ -125,7 +180,8 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96243",
@@ -141,7 +197,24 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.6764472,
+      "longitude": -79.74638809999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.67770747989272,
+          "lng": -79.74512842010728
+        },
+        "southwest": {
+          "lat": 43.67500782010728,
+          "lng": -79.74782807989273
+        }
+      },
+      "formatted_address": "186 Main St S, Brampton, ON L6W 2E2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6764472,-79.74638809999999",
+      "google_place_id": "ChIJcb3KNugVK4gR0Ms1NvZstiE"
+    }
   },
   {
     "id": "96244",
@@ -157,6 +230,23 @@
     "local_government_id": "419",
     "local_government_name": "CHARANCHI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0000953,
+      "longitude": 7.602090199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00155752989272,
+          "lng": 7.603462279892724
+        },
+        "southwest": {
+          "lat": 12.99885787010728,
+          "lng": 7.60076262010728
+        }
+      },
+      "formatted_address": "2J22+2RP, M Dikko Rd, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0000953,7.602090199999999",
+      "google_place_id": "ChIJ8apzhC4jsBERcJm-VrO3ChI"
+    }
   }
 ]

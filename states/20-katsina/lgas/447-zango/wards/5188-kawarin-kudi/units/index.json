@@ -13,7 +13,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101709",
@@ -29,7 +30,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101710",
@@ -45,7 +47,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101711",
@@ -61,7 +64,24 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9031073,
+      "longitude": 8.671060299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.959762,
+          "lng": 8.721686499999999
+        },
+        "southwest": {
+          "lat": 12.8453879,
+          "lng": 8.625902
+        }
+      },
+      "formatted_address": "Kawarin Kudi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9031073,8.671060299999999",
+      "google_place_id": "ChIJJUcLgs8RrxER7-ZFZB6UYhc"
+    }
   },
   {
     "id": "101712",
@@ -77,7 +97,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101713",
@@ -93,7 +114,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101714",
@@ -109,7 +131,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101715",
@@ -125,7 +148,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101716",
@@ -141,7 +165,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101717",
@@ -157,7 +182,8 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101718",
@@ -173,6 +199,23 @@
     "local_government_id": "447",
     "local_government_name": "ZANGO",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9980032,
+      "longitude": 7.5955385,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99935827989272,
+          "lng": 7.596646279892721
+        },
+        "southwest": {
+          "lat": 12.99665862010728,
+          "lng": 7.593946620107277
+        }
+      },
+      "formatted_address": "XHXW+663, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9980032,7.5955385",
+      "google_place_id": "ChIJwf3xycY8sBERuSOehDaBVsE"
+    }
   }
 ]

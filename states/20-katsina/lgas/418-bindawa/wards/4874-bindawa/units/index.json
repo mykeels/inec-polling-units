@@ -13,7 +13,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.2256683,
+      "longitude": -79.7802609,
+      "viewport": {
+        "northeast": {
+          "lat": 43.22706612989273,
+          "lng": -79.77914297010727
+        },
+        "southwest": {
+          "lat": 43.22436647010728,
+          "lng": -79.78184262989272
+        }
+      },
+      "formatted_address": "145 Rainbow Dr, Hamilton, ON L8K 4G1, Canada",
+      "google_map_url": "https://maps.google.com?q=43.2256683,-79.7802609",
+      "google_place_id": "ChIJsXjHX_yYLIgRK9B0LvxijiA"
+    }
   },
   {
     "id": "95947",
@@ -29,7 +46,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815608,
+      "longitude": 7.622266499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98290287989272,
+          "lng": 7.62356807989272
+        },
+        "southwest": {
+          "lat": 12.98020322010728,
+          "lng": 7.620868420107276
+        }
+      },
+      "formatted_address": "Amado kurfi road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815608,7.622266499999999",
+      "google_place_id": "ChIJOyJFpy4jsBER0M-Fu_Pt2Lo"
+    }
   },
   {
     "id": "95948",
@@ -45,7 +79,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6666586,
+      "longitude": 7.807819599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66804722989272,
+          "lng": 7.809174429892722
+        },
+        "southwest": {
+          "lat": 12.66534757010728,
+          "lng": 7.806474770107278
+        }
+      },
+      "formatted_address": "Dan-yusufa Primary School, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6666586,7.807819599999999",
+      "google_place_id": "ChIJXZVCueoqrhERDbxbcIMwLBY"
+    }
   },
   {
     "id": "95949",
@@ -61,7 +112,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6711284,
+      "longitude": 7.8087246,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67247167989272,
+          "lng": 7.810097629892723
+        },
+        "southwest": {
+          "lat": 12.66977202010728,
+          "lng": 7.807397970107279
+        }
+      },
+      "formatted_address": "MRC5+FG3, Rijiyar Liman Rd, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6711284,7.8087246",
+      "google_place_id": "ChIJFyTqDcAqrhEREbKmX2JKi2Q"
+    }
   },
   {
     "id": "95950",
@@ -77,7 +145,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95951",
@@ -93,7 +162,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6710297,
+      "longitude": 7.804212199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67237622989272,
+          "lng": 7.80564912989272
+        },
+        "southwest": {
+          "lat": 12.66967657010728,
+          "lng": 7.802949470107276
+        }
+      },
+      "formatted_address": "822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6710297,7.804212199999999",
+      "google_place_id": "ChIJU6VLAb8qrhER6pFLM_PuC2w"
+    }
   },
   {
     "id": "95952",
@@ -109,7 +195,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6696482,
+      "longitude": 7.8062177,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67100032989272,
+          "lng": 7.807572679892723
+        },
+        "southwest": {
+          "lat": 12.66830067010728,
+          "lng": 7.804873020107279
+        }
+      },
+      "formatted_address": "MR94+VF4, Yara St, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6696482,7.8062177",
+      "google_place_id": "ChIJ8bETkr8qrhERf8ZsbIYSS4w"
+    }
   },
   {
     "id": "95953",
@@ -125,7 +228,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95954",
@@ -141,7 +245,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95955",
@@ -157,7 +262,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6696482,
+      "longitude": 7.8062177,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67100032989272,
+          "lng": 7.807572679892723
+        },
+        "southwest": {
+          "lat": 12.66830067010728,
+          "lng": 7.804873020107279
+        }
+      },
+      "formatted_address": "MR94+VF4, Yara St, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6696482,7.8062177",
+      "google_place_id": "ChIJ8bETkr8qrhERf8ZsbIYSS4w"
+    }
   },
   {
     "id": "95956",
@@ -173,7 +295,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6680418,
+      "longitude": 7.806036899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66932082989272,
+          "lng": 7.80745367989272
+        },
+        "southwest": {
+          "lat": 12.66662117010728,
+          "lng": 7.804754020107276
+        }
+      },
+      "formatted_address": "MR94+6C7, Yara, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6680418,7.806036899999999",
+      "google_place_id": "ChIJE9GF478qrhERnOJZdm5lo1E"
+    }
   },
   {
     "id": "95957",
@@ -189,7 +328,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6435613,
+      "longitude": 7.799838800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6445496,
+          "lng": 7.802951500000001
+        },
+        "southwest": {
+          "lat": 12.6412352,
+          "lng": 7.798785499999997
+        }
+      },
+      "formatted_address": "JQVX+FWP, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6435613,7.799838800000001",
+      "google_place_id": "ChIJ15JqSQQrrhERWNXKhLdfZYE"
+    }
   },
   {
     "id": "95958",
@@ -205,7 +361,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6684285,
+      "longitude": 7.809666,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67477360000005,
+          "lng": 7.810948979892722
+        },
+        "southwest": {
+          "lat": 12.66224159999995,
+          "lng": 7.808249320107278
+        }
+      },
+      "formatted_address": "Kofar Gabas, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6684285,7.809666",
+      "google_place_id": "EiVLb2ZhciBHYWJhcywgODIyMTA1LCBCaW5kYXdhLCBOaWdlcmlhIi4qLAoUChIJHx99zcEqrhERs9_2GtbT6gASFAoSCRtocVfAKq4RETrFzUP5vHzx"
+    }
   },
   {
     "id": "95959",
@@ -221,7 +394,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6729542,
+      "longitude": 7.8106513,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67428947989272,
+          "lng": 7.811995329892722
+        },
+        "southwest": {
+          "lat": 12.67158982010728,
+          "lng": 7.809295670107279
+        }
+      },
+      "formatted_address": "MRF6+56W, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6729542,7.8106513",
+      "google_place_id": "ChIJsdUjMcEqrhERTffkx_uphmA"
+    }
   },
   {
     "id": "95960",
@@ -237,7 +427,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6686779,
+      "longitude": 7.8076732,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67007397989272,
+          "lng": 7.809013779892722
+        },
+        "southwest": {
+          "lat": 12.66737432010728,
+          "lng": 7.806314120107278
+        }
+      },
+      "formatted_address": "MR95+F3F, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6686779,7.8076732",
+      "google_place_id": "ChIJq_tLEMAqrhERy1g0Aga6j0Y"
+    }
   },
   {
     "id": "95961",
@@ -253,7 +460,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95962",
@@ -269,7 +477,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9710507,
+      "longitude": 7.624668600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97245002989272,
+          "lng": 7.626017679892723
+        },
+        "southwest": {
+          "lat": 12.96975037010728,
+          "lng": 7.623318020107279
+        }
+      },
+      "formatted_address": "No8 Bindawa Street, 820223, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9710507,7.624668600000001",
+      "google_place_id": "ChIJFcP8ClUjsBERhIjiqXs35ZM"
+    }
   },
   {
     "id": "95963",
@@ -285,7 +510,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6691495,
+      "longitude": 7.810963,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6794258,
+          "lng": 7.8172016
+        },
+        "southwest": {
+          "lat": 12.662887,
+          "lng": 7.8021598
+        }
+      },
+      "formatted_address": "822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6691495,7.810963",
+      "google_place_id": "ChIJk6OSP5YqrhERFkI9SBouMgY"
+    }
   },
   {
     "id": "95964",
@@ -301,7 +543,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6691096,
+      "longitude": 7.8074311,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67049247989272,
+          "lng": 7.808811729892721
+        },
+        "southwest": {
+          "lat": 12.66779282010728,
+          "lng": 7.806112070107277
+        }
+      },
+      "formatted_address": "MR94+JXM, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6691096,7.8074311",
+      "google_place_id": "ChIJ7TQGDcAqrhERmgiJi5a94q4"
+    }
   },
   {
     "id": "95965",
@@ -317,7 +576,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.672957,
+      "longitude": 7.813897099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67411772989272,
+          "lng": 7.81524547989272
+        },
+        "southwest": {
+          "lat": 12.67141807010728,
+          "lng": 7.812545820107276
+        }
+      },
+      "formatted_address": "MRF7+5HJ, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.672957,7.813897099999999",
+      "google_place_id": "ChIJ3bpwjMMqrhERm0pRtRp1tE8"
+    }
   },
   {
     "id": "95966",
@@ -333,6 +609,23 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6653746,
+      "longitude": 7.809557,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66672442989272,
+          "lng": 7.810906829892722
+        },
+        "southwest": {
+          "lat": 12.66402477010728,
+          "lng": 7.808207170107278
+        }
+      },
+      "formatted_address": "MR85+4RV, Charanchi-Gindawa-Mani Junction Road, 822105, Bindawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6653746,7.809557",
+      "google_place_id": "ChIJn3u7MFUrrhERJB6PPPu2YEo"
+    }
   }
 ]

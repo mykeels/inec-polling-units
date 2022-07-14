@@ -13,7 +13,8 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "100799",
@@ -29,7 +30,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.2115914,
+      "longitude": 8.237173000000002,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21293282989272,
+          "lng": 8.23854892989272
+        },
+        "southwest": {
+          "lat": 12.21023317010728,
+          "lng": 8.235849270107277
+        }
+      },
+      "formatted_address": "7F4C666P+JVM, FARAS 703101, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2115914,8.237173000000002",
+      "google_place_id": "ChIJfVkRJiFvrhERFvpgbPabbDc"
+    }
   },
   {
     "id": "100800",
@@ -45,7 +63,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.7922416,
+      "longitude": 7.624992,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79357172989272,
+          "lng": 7.626290979892722
+        },
+        "southwest": {
+          "lat": 11.79087207010728,
+          "lng": 7.623591320107278
+        }
+      },
+      "formatted_address": "Unguwan Halilu Primary School, 832103, Malumfashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7922416,7.624992",
+      "google_place_id": "ChIJi1cchJwFshERJxmQN61Qm_U"
+    }
   },
   {
     "id": "100801",
@@ -61,7 +96,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.6737506,
+      "longitude": 7.591431099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.67516287989272,
+          "lng": 7.592907
+        },
+        "southwest": {
+          "lat": 11.67246322010728,
+          "lng": 7.588673999999998
+        }
+      },
+      "formatted_address": "832103, Gidan Kosau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6737506,7.591431099999999",
+      "google_place_id": "ChIJVZ9auWoSshERnXeJsmNKPMk"
+    }
   },
   {
     "id": "100802",
@@ -77,7 +129,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.2183582,
+      "longitude": 7.742767399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21969402989272,
+          "lng": 7.74411722989272
+        },
+        "southwest": {
+          "lat": 12.21699437010728,
+          "lng": 7.741417570107276
+        }
+      },
+      "formatted_address": "Jamaa kogari road, 833102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2183582,7.742767399999999",
+      "google_place_id": "ChIJkY4kzy_jsRER0NOwOG_fm6s"
+    }
   },
   {
     "id": "100803",
@@ -93,7 +162,8 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "100804",
@@ -109,7 +179,8 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "100805",
@@ -125,7 +196,24 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.134432,
+      "longitude": 7.669223499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.13594947989272,
+          "lng": 7.670541779892721
+        },
+        "southwest": {
+          "lat": 12.13324982010728,
+          "lng": 7.667842120107277
+        }
+      },
+      "formatted_address": "Garewa Primary School, 833103, Musawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.134432,7.669223499999999",
+      "google_place_id": "ChIJI1XWTTr7sRERfTQQPBkJIh8"
+    }
   },
   {
     "id": "100806",
@@ -141,6 +229,23 @@
     "local_government_id": "441",
     "local_government_name": "MATAZU",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
   }
 ]

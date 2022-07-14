@@ -13,7 +13,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101360",
@@ -29,7 +30,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101361",
@@ -45,7 +47,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101362",
@@ -61,7 +64,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101363",
@@ -77,7 +81,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101364",
@@ -93,7 +98,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101365",
@@ -109,7 +115,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101366",
@@ -125,7 +132,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101367",
@@ -141,7 +149,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101368",
@@ -157,7 +166,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101369",
@@ -173,7 +183,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101370",
@@ -189,7 +200,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101371",
@@ -205,7 +217,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101372",
@@ -221,7 +234,24 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9746132,
+      "longitude": 7.6262974,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97599402989272,
+          "lng": 7.627769329892722
+        },
+        "southwest": {
+          "lat": 12.97329437010728,
+          "lng": 7.625069670107278
+        }
+      },
+      "formatted_address": "XJFG+RFQ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9746132,7.6262974",
+      "google_place_id": "ChIJsXc8alkjsBERhb-9vV8SPmI"
+    }
   },
   {
     "id": "101373",
@@ -237,7 +267,24 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6594857,
+      "longitude": 7.2080141,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66080217989272,
+          "lng": 7.209377829892722
+        },
+        "southwest": {
+          "lat": 12.65810252010728,
+          "lng": 7.206678170107278
+        }
+      },
+      "formatted_address": "M655+Q6R, 824103, Wagin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6594857,7.2080141",
+      "google_place_id": "ChIJwRvU3bCtsRERh685NaUqG80"
+    }
   },
   {
     "id": "101374",
@@ -253,7 +300,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101375",
@@ -269,7 +317,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101376",
@@ -285,6 +334,23 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9146494,
+      "longitude": 7.6344554,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91600002989272,
+          "lng": 7.635881379892722
+        },
+        "southwest": {
+          "lat": 12.91330037010728,
+          "lng": 7.633181720107277
+        }
+      },
+      "formatted_address": "Kabukawa Sabon Gida Primary School, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9146494,7.6344554",
+      "google_place_id": "ChIJ8Y4wHFMlsBERLWlmdxm2BBI"
+    }
   }
 ]

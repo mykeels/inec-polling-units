@@ -13,7 +13,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95637",
@@ -29,7 +30,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95638",
@@ -45,7 +47,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95639",
@@ -61,7 +64,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7348837,
+      "longitude": 7.3533442,
+      "viewport": {
+        "northeast": {
+          "lat": 12.73612807989272,
+          "lng": 7.354798629892722
+        },
+        "southwest": {
+          "lat": 12.73342842010728,
+          "lng": 7.352098970107278
+        }
+      },
+      "formatted_address": "P9M3+X79, 820116, Zakka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7348837,7.3533442",
+      "google_place_id": "ChIJgStXX2JLsBERwsRtdiErG7c"
+    }
   },
   {
     "id": "95640",
@@ -77,7 +97,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.004381,
+      "longitude": 7.630283200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00561567989272,
+          "lng": 7.631570729892722
+        },
+        "southwest": {
+          "lat": 13.00291602010728,
+          "lng": 7.628871070107278
+        }
+      },
+      "formatted_address": "2J3J+Q43, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.004381,7.630283200000001",
+      "google_place_id": "ChIJo2RYKiMjsBERMv5RBbmezp8"
+    }
   },
   {
     "id": "95641",
@@ -93,7 +130,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.930671,
+      "longitude": 7.6024284,
+      "viewport": {
+        "northeast": {
+          "lat": 12.93189912989272,
+          "lng": 7.604015529892723
+        },
+        "southwest": {
+          "lat": 12.92919947010728,
+          "lng": 7.601315870107279
+        }
+      },
+      "formatted_address": "820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.930671,7.6024284",
+      "google_place_id": "ChIJhTnUzCg7sBERcyoDTXqG4gc"
+    }
   },
   {
     "id": "95642",
@@ -109,7 +163,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7578249,
+      "longitude": 7.2491189,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75922072989272,
+          "lng": 7.250422929892722
+        },
+        "southwest": {
+          "lat": 12.75652107010728,
+          "lng": 7.247723270107278
+        }
+      },
+      "formatted_address": "Q65X+4JQ, 820116, Batsari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7578249,7.2491189",
+      "google_place_id": "ChIJAQAAAGRSsBERrlIz8IZmtc4"
+    }
   },
   {
     "id": "95643",
@@ -125,7 +196,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9736159,
+      "longitude": 7.5810965,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97504327989272,
+          "lng": 7.582383229892721
+        },
+        "southwest": {
+          "lat": 12.97234362010728,
+          "lng": 7.579683570107277
+        }
+      },
+      "formatted_address": "XHFJ+CCX, Batsari Rd, 820252, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9736159,7.5810965",
+      "google_place_id": "ChIJx1T3KVs9sBERHj_-KC24Cps"
+    }
   },
   {
     "id": "95644",
@@ -141,7 +229,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.967111,
+      "longitude": 7.650070099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96848242989272,
+          "lng": 7.651439629892723
+        },
+        "southwest": {
+          "lat": 12.96578277010728,
+          "lng": 7.648739970107279
+        }
+      },
+      "formatted_address": "behind NYSC Camp, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.967111,7.650070099999999",
+      "google_place_id": "ChIJa7VRDyMlsBER0UFiENvlRvg"
+    }
   },
   {
     "id": "95645",
@@ -157,7 +262,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95646",
@@ -173,7 +279,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95647",
@@ -189,7 +296,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9736159,
+      "longitude": 7.5810965,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97504327989272,
+          "lng": 7.582383229892721
+        },
+        "southwest": {
+          "lat": 12.97234362010728,
+          "lng": 7.579683570107277
+        }
+      },
+      "formatted_address": "XHFJ+CCX, Batsari Rd, 820252, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9736159,7.5810965",
+      "google_place_id": "ChIJx1T3KVs9sBERHj_-KC24Cps"
+    }
   },
   {
     "id": "95648",
@@ -205,7 +329,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95649",
@@ -221,7 +346,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9704499,
+      "longitude": 7.637884199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97177747989272,
+          "lng": 7.639269279892722
+        },
+        "southwest": {
+          "lat": 12.96907782010728,
+          "lng": 7.636569620107278
+        }
+      },
+      "formatted_address": "XJCQ+55J, Murtala Muhammad Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9704499,7.637884199999999",
+      "google_place_id": "ChIJ1_4z2wEjsBER7_iayUp5B40"
+    }
   },
   {
     "id": "95650",
@@ -237,7 +379,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
   },
   {
     "id": "95651",
@@ -253,7 +412,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
   },
   {
     "id": "95652",
@@ -269,7 +445,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7578249,
+      "longitude": 7.2491189,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75922072989272,
+          "lng": 7.250422929892722
+        },
+        "southwest": {
+          "lat": 12.75652107010728,
+          "lng": 7.247723270107278
+        }
+      },
+      "formatted_address": "Q65X+4JQ, 820116, Batsari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7578249,7.2491189",
+      "google_place_id": "ChIJAQAAAGRSsBERrlIz8IZmtc4"
+    }
   },
   {
     "id": "95653",
@@ -285,7 +478,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.967111,
+      "longitude": 7.650070099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96848242989272,
+          "lng": 7.651439629892723
+        },
+        "southwest": {
+          "lat": 12.96578277010728,
+          "lng": 7.648739970107279
+        }
+      },
+      "formatted_address": "behind NYSC Camp, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.967111,7.650070099999999",
+      "google_place_id": "ChIJa7VRDyMlsBER0UFiENvlRvg"
+    }
   },
   {
     "id": "95654",
@@ -301,7 +511,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95655",
@@ -317,7 +528,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95656",
@@ -333,7 +545,24 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9815032,
+      "longitude": 7.628031699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98317767989272,
+          "lng": 7.629436829892722
+        },
+        "southwest": {
+          "lat": 12.98047802010728,
+          "lng": 7.626737170107278
+        }
+      },
+      "formatted_address": "No3 mani, Tsagero St, 820001, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9815032,7.628031699999999",
+      "google_place_id": "ChIJUX15CZYjsBERP_FF_n2gbcg"
+    }
   },
   {
     "id": "95657",
@@ -349,7 +578,8 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95658",
@@ -365,6 +595,7 @@
     "local_government_id": "416",
     "local_government_name": "BATSARI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]

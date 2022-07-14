@@ -13,7 +13,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101436",
@@ -29,7 +30,24 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.6764472,
+      "longitude": -79.74638809999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.67770747989272,
+          "lng": -79.74512842010728
+        },
+        "southwest": {
+          "lat": 43.67500782010728,
+          "lng": -79.74782807989273
+        }
+      },
+      "formatted_address": "186 Main St S, Brampton, ON L6W 2E2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.6764472,-79.74638809999999",
+      "google_place_id": "ChIJcb3KNugVK4gR0Ms1NvZstiE"
+    }
   },
   {
     "id": "101437",
@@ -45,7 +63,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101438",
@@ -61,7 +80,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101439",
@@ -77,7 +97,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101440",
@@ -93,7 +114,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101441",
@@ -109,7 +131,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101442",
@@ -125,7 +148,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101443",
@@ -141,7 +165,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101444",
@@ -157,7 +182,8 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101445",
@@ -173,6 +199,7 @@
     "local_government_id": "445",
     "local_government_name": "SAFANA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97983",
@@ -29,7 +30,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97984",
@@ -45,7 +47,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97985",
@@ -61,7 +64,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6410674,
+      "longitude": 8.0492785,
+      "viewport": {
+        "northeast": {
+          "lat": 12.64249782989272,
+          "lng": 8.05055957989272
+        },
+        "southwest": {
+          "lat": 12.63979817010728,
+          "lng": 8.047859920107276
+        }
+      },
+      "formatted_address": "J2RX+CPC, 823104, Ingawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6410674,8.0492785",
+      "google_place_id": "ChIJ1YZcwNQ1rhERrpR2zEAZLRY"
+    }
   },
   {
     "id": "97986",
@@ -77,7 +97,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97987",
@@ -93,7 +114,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97988",
@@ -109,7 +131,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7095003,
+      "longitude": 8.128394199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.7573933,
+          "lng": 8.153918299999999
+        },
+        "southwest": {
+          "lat": 12.6706179,
+          "lng": 8.098806399999999
+        }
+      },
+      "formatted_address": "Dara, 823104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7095003,8.128394199999999",
+      "google_place_id": "ChIJBTYqPZvKrxERlL4AYJkRyt8"
+    }
   },
   {
     "id": "97989",
@@ -125,6 +164,7 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]

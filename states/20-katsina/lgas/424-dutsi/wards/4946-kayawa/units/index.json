@@ -13,7 +13,8 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97067",
@@ -29,7 +30,8 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97068",
@@ -45,7 +47,8 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97069",
@@ -61,7 +64,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.539648,
+      "longitude": 7.3005616,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54095462989272,
+          "lng": 7.30195222989272
+        },
+        "southwest": {
+          "lat": 11.53825497010728,
+          "lng": 7.299252570107276
+        }
+      },
+      "formatted_address": "adjacent to makera juma'a masjid, 830101, Galadima, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.539648,7.3005616",
+      "google_place_id": "ChIJ979_XmFHshER7nMWgmXVEMQ"
+    }
   },
   {
     "id": "97070",
@@ -77,7 +97,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.006058,
+      "longitude": 7.6042719,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00736612989272,
+          "lng": 7.605477729892723
+        },
+        "southwest": {
+          "lat": 13.00466647010728,
+          "lng": 7.602778070107279
+        }
+      },
+      "formatted_address": "KCK, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.006058,7.6042719",
+      "google_place_id": "ChIJEYn_w9E8sBERRkkNYUzAQps"
+    }
   },
   {
     "id": "97071",
@@ -93,7 +130,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9658304,
+      "longitude": 7.635903399999998,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96726142989272,
+          "lng": 7.637231479892722
+        },
+        "southwest": {
+          "lat": 12.96456177010728,
+          "lng": 7.634531820107278
+        }
+      },
+      "formatted_address": "XJ8P+89J gidan dawa, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9658304,7.635903399999998",
+      "google_place_id": "ChIJDUOd-zUlsBERPPKQtSca3Y8"
+    }
   },
   {
     "id": "97072",
@@ -109,7 +163,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.930671,
+      "longitude": 7.6024284,
+      "viewport": {
+        "northeast": {
+          "lat": 12.93189912989272,
+          "lng": 7.604015529892723
+        },
+        "southwest": {
+          "lat": 12.92919947010728,
+          "lng": 7.601315870107279
+        }
+      },
+      "formatted_address": "820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.930671,7.6024284",
+      "google_place_id": "ChIJhTnUzCg7sBERcyoDTXqG4gc"
+    }
   },
   {
     "id": "97073",
@@ -125,7 +196,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9663904,
+      "longitude": 7.6504732,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96786472989272,
+          "lng": 7.651939029892721
+        },
+        "southwest": {
+          "lat": 12.96516507010728,
+          "lng": 7.649239370107277
+        }
+      },
+      "formatted_address": "Km 5 Mani Rd, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9663904,7.6504732",
+      "google_place_id": "ChIJ5WiThpQksBERxFSqPdEMnnQ"
+    }
   },
   {
     "id": "97074",
@@ -141,7 +229,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.5460786,
+      "longitude": -80.25199719999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.54740722989271,
+          "lng": -80.25079242010727
+        },
+        "southwest": {
+          "lat": 43.54470757010727,
+          "lng": -80.25349207989272
+        }
+      },
+      "formatted_address": "15 Yarmouth St, Guelph, ON N1H 4G2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5460786,-80.25199719999999",
+      "google_place_id": "ChIJb4BPw-qaK4gROSy32WG7sEI"
+    }
   },
   {
     "id": "97075",
@@ -157,7 +262,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.967111,
+      "longitude": 7.650070099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.96848242989272,
+          "lng": 7.651439629892723
+        },
+        "southwest": {
+          "lat": 12.96578277010728,
+          "lng": 7.648739970107279
+        }
+      },
+      "formatted_address": "behind NYSC Camp, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.967111,7.650070099999999",
+      "google_place_id": "ChIJa7VRDyMlsBER0UFiENvlRvg"
+    }
   },
   {
     "id": "97076",
@@ -173,7 +295,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9771627,
+      "longitude": 7.638197799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97805492989272,
+          "lng": 7.63987762989272
+        },
+        "southwest": {
+          "lat": 12.97535527010728,
+          "lng": 7.637177970107277
+        }
+      },
+      "formatted_address": "XJGQ+V78, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9771627,7.638197799999999",
+      "google_place_id": "ChIJEcs1mGYjsBERLlylGjIVr-M"
+    }
   },
   {
     "id": "97077",
@@ -189,7 +328,8 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97078",
@@ -205,7 +345,24 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0006988,
+      "longitude": 7.603950999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00213772989272,
+          "lng": 7.605636929892721
+        },
+        "southwest": {
+          "lat": 12.99943807010728,
+          "lng": 7.602937270107277
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0006988,7.603950999999999",
+      "google_place_id": "ChIJzStbls48sBERKebAP8_N74M"
+    }
   },
   {
     "id": "97079",
@@ -221,7 +378,8 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97080",
@@ -237,7 +395,8 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97081",
@@ -253,6 +412,23 @@
     "local_government_id": "424",
     "local_government_name": "DUTSI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9696035,
+      "longitude": 7.600324199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97107727989272,
+          "lng": 7.60161422989272
+        },
+        "southwest": {
+          "lat": 12.96837762010728,
+          "lng": 7.598914570107276
+        }
+      },
+      "formatted_address": "XJ92+R4W, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9696035,7.600324199999999",
+      "google_place_id": "ChIJZwLAHlg7sBERgMjhF7mXGa0"
+    }
   }
 ]

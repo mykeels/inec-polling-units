@@ -13,7 +13,8 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99618",
@@ -29,7 +30,8 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99619",
@@ -45,7 +47,8 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99620",
@@ -61,7 +64,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6685912,
+      "longitude": 7.484056999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.66994387989272,
+          "lng": 7.485406479892722
+        },
+        "southwest": {
+          "lat": 12.66724422010728,
+          "lng": 7.482706820107278
+        }
+      },
+      "formatted_address": "Unguwar Limamai, Kurfi Lga, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6685912,7.484056999999999",
+      "google_place_id": "ChIJgfmr9VrLsREROoGrsqIlIMo"
+    }
   },
   {
     "id": "99621",
@@ -77,7 +97,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6538237,
+      "longitude": 7.4894209,
+      "viewport": {
+        "northeast": {
+          "lat": 12.65489257989272,
+          "lng": 7.490885429892722
+        },
+        "southwest": {
+          "lat": 12.65219292010728,
+          "lng": 7.488185770107278
+        }
+      },
+      "formatted_address": "MF3Q+GQF, 821103, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6538237,7.4894209",
+      "google_place_id": "ChIJ-5eb1KnLsRERGSAnIQ2i7s0"
+    }
   },
   {
     "id": "99622",
@@ -93,7 +130,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6737028,
+      "longitude": 7.4900623,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67495237989272,
+          "lng": 7.491591029892723
+        },
+        "southwest": {
+          "lat": 12.67225272010728,
+          "lng": 7.488891370107279
+        }
+      },
+      "formatted_address": "MFFR+F2M, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6737028,7.4900623",
+      "google_place_id": "ChIJdZ98rhnLsRERQFkKmR4VJDM"
+    }
   },
   {
     "id": "99623",
@@ -109,7 +163,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6737028,
+      "longitude": 7.4900623,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67495237989272,
+          "lng": 7.491591029892723
+        },
+        "southwest": {
+          "lat": 12.67225272010728,
+          "lng": 7.488891370107279
+        }
+      },
+      "formatted_address": "MFFR+F2M, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6737028,7.4900623",
+      "google_place_id": "ChIJdZ98rhnLsRERQFkKmR4VJDM"
+    }
   },
   {
     "id": "99624",
@@ -125,7 +196,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.592589,
+      "longitude": 7.4990069,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5946484,
+          "lng": 7.5023639
+        },
+        "southwest": {
+          "lat": 12.588345,
+          "lng": 7.496795700000001
+        }
+      },
+      "formatted_address": "821103, Bichi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.592589,7.4990069",
+      "google_place_id": "ChIJKflR-WbJsRERO7cjx44UHkI"
+    }
   },
   {
     "id": "99625",
@@ -141,7 +229,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9961215,
+      "longitude": 7.5880122,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99747187989272,
+          "lng": 7.589359979892722
+        },
+        "southwest": {
+          "lat": 12.99477222010728,
+          "lng": 7.586660320107279
+        }
+      },
+      "formatted_address": "Kofar Guga, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9961215,7.5880122",
+      "google_place_id": "ChIJF7OAxi49sBER3GJ_EEmh_vI"
+    }
   },
   {
     "id": "99626",
@@ -157,7 +262,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6737028,
+      "longitude": 7.4900623,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67495237989272,
+          "lng": 7.491591029892723
+        },
+        "southwest": {
+          "lat": 12.67225272010728,
+          "lng": 7.488891370107279
+        }
+      },
+      "formatted_address": "MFFR+F2M, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6737028,7.4900623",
+      "google_place_id": "ChIJdZ98rhnLsRERQFkKmR4VJDM"
+    }
   },
   {
     "id": "99627",
@@ -173,7 +295,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6737028,
+      "longitude": 7.4900623,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67495237989272,
+          "lng": 7.491591029892723
+        },
+        "southwest": {
+          "lat": 12.67225272010728,
+          "lng": 7.488891370107279
+        }
+      },
+      "formatted_address": "MFFR+F2M, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6737028,7.4900623",
+      "google_place_id": "ChIJdZ98rhnLsRERQFkKmR4VJDM"
+    }
   },
   {
     "id": "99628",
@@ -189,7 +328,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6850411,
+      "longitude": 7.408798300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.68636867989272,
+          "lng": 7.410134379892723
+        },
+        "southwest": {
+          "lat": 12.68366902010728,
+          "lng": 7.407434720107279
+        }
+      },
+      "formatted_address": "MCP5+2G8, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6850411,7.408798300000001",
+      "google_place_id": "ChIJtaN2hju1sRER8t-V3imyr-8"
+    }
   },
   {
     "id": "99629",
@@ -205,7 +361,24 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6737028,
+      "longitude": 7.4900623,
+      "viewport": {
+        "northeast": {
+          "lat": 12.67495237989272,
+          "lng": 7.491591029892723
+        },
+        "southwest": {
+          "lat": 12.67225272010728,
+          "lng": 7.488891370107279
+        }
+      },
+      "formatted_address": "MFFR+F2M, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6737028,7.4900623",
+      "google_place_id": "ChIJdZ98rhnLsRERQFkKmR4VJDM"
+    }
   },
   {
     "id": "99630",
@@ -221,6 +394,23 @@
     "local_government_id": "435",
     "local_government_name": "KURFI",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6202406,
+      "longitude": 7.4646494,
+      "viewport": {
+        "northeast": {
+          "lat": 12.62155497989272,
+          "lng": 7.466001529892722
+        },
+        "southwest": {
+          "lat": 12.61885532010728,
+          "lng": 7.463301870107278
+        }
+      },
+      "formatted_address": "JFC7+3VR, 821103, Kurfi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6202406,7.4646494",
+      "google_place_id": "ChIJoYqEUSPKsRERh3kgCD8U_Vs"
+    }
   }
 ]

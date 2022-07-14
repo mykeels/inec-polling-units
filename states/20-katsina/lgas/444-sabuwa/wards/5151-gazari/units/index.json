@@ -13,7 +13,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7348837,
+      "longitude": 7.3533442,
+      "viewport": {
+        "northeast": {
+          "lat": 12.73612807989272,
+          "lng": 7.354798629892722
+        },
+        "southwest": {
+          "lat": 12.73342842010728,
+          "lng": 7.352098970107278
+        }
+      },
+      "formatted_address": "P9M3+X79, 820116, Zakka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7348837,7.3533442",
+      "google_place_id": "ChIJgStXX2JLsBERwsRtdiErG7c"
+    }
   },
   {
     "id": "101184",
@@ -29,7 +46,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0007071,
+      "longitude": 7.662260099999998,
+      "viewport": {
+        "northeast": {
+          "lat": 13.00203807989272,
+          "lng": 7.663590629892722
+        },
+        "southwest": {
+          "lat": 12.99933842010728,
+          "lng": 7.660890970107278
+        }
+      },
+      "formatted_address": "2M26+7WJ, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0007071,7.662260099999998",
+      "google_place_id": "ChIJg3d_5agjsBER1pC6eZRwcLM"
+    }
   },
   {
     "id": "101185",
@@ -45,7 +79,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 10.5836158,
+      "longitude": 7.461786200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.58496562989272,
+          "lng": 7.463136029892721
+        },
+        "southwest": {
+          "lat": 10.58226597010728,
+          "lng": 7.460436370107277
+        }
+      },
+      "formatted_address": "New Extension, No. 12 Musa Malle Rd, Kawo 800283, Birnin Gwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5836158,7.461786200000001",
+      "google_place_id": "ChIJ68PZaUW1shEREH-4xa35bXk"
+    }
   },
   {
     "id": "101186",
@@ -61,7 +112,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.2988746,
+      "longitude": 7.0652573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30022442989272,
+          "lng": 7.066607129892723
+        },
+        "southwest": {
+          "lat": 11.29752477010728,
+          "lng": 7.063907470107279
+        }
+      },
+      "formatted_address": "73X8+G4R, 830104, Banbawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2988746,7.0652573",
+      "google_place_id": "ChIJ4wNcEIersxERpGG2u6X3BoU"
+    }
   },
   {
     "id": "101187",
@@ -77,7 +145,8 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101188",
@@ -93,7 +162,8 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101189",
@@ -109,7 +179,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9980032,
+      "longitude": 7.5955385,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99935827989272,
+          "lng": 7.596646279892721
+        },
+        "southwest": {
+          "lat": 12.99665862010728,
+          "lng": 7.593946620107277
+        }
+      },
+      "formatted_address": "XHXW+663, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9980032,7.5955385",
+      "google_place_id": "ChIJwf3xycY8sBERuSOehDaBVsE"
+    }
   },
   {
     "id": "101190",
@@ -125,7 +212,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.2988746,
+      "longitude": 7.0652573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30022442989272,
+          "lng": 7.066607129892723
+        },
+        "southwest": {
+          "lat": 11.29752477010728,
+          "lng": 7.063907470107279
+        }
+      },
+      "formatted_address": "73X8+G4R, 830104, Banbawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2988746,7.0652573",
+      "google_place_id": "ChIJ4wNcEIersxERpGG2u6X3BoU"
+    }
   },
   {
     "id": "101191",
@@ -141,7 +245,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.2988746,
+      "longitude": 7.0652573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30022442989272,
+          "lng": 7.066607129892723
+        },
+        "southwest": {
+          "lat": 11.29752477010728,
+          "lng": 7.063907470107279
+        }
+      },
+      "formatted_address": "73X8+G4R, 830104, Banbawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2988746,7.0652573",
+      "google_place_id": "ChIJ4wNcEIersxERpGG2u6X3BoU"
+    }
   },
   {
     "id": "101192",
@@ -157,7 +278,8 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "101193",
@@ -173,7 +295,24 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 11.5305172,
+      "longitude": 7.3033101,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53180852989272,
+          "lng": 7.304559479892721
+        },
+        "southwest": {
+          "lat": 11.52910887010728,
+          "lng": 7.301859820107278
+        }
+      },
+      "formatted_address": "G8J3+683, 830101, Funtua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5305172,7.3033101",
+      "google_place_id": "ChIJ2xvcYXxGshER-rbI3g2WAA8"
+    }
   },
   {
     "id": "101194",
@@ -189,6 +328,23 @@
     "local_government_id": "444",
     "local_government_name": "SABUWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 13.0157691,
+      "longitude": 7.6255954,
+      "viewport": {
+        "northeast": {
+          "lat": 13.01726582989272,
+          "lng": 7.62683892989272
+        },
+        "southwest": {
+          "lat": 13.01456617010728,
+          "lng": 7.624139270107277
+        }
+      },
+      "formatted_address": "2J8G+865, Ring Riad, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0157691,7.6255954",
+      "google_place_id": "ChIJ9yZEgtgisBERjpBiqfY6jOI"
+    }
   }
 ]

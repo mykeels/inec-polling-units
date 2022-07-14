@@ -13,7 +13,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97896",
@@ -29,7 +30,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7581679,
+      "longitude": 7.180437299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75952472989272,
+          "lng": 7.181783629892722
+        },
+        "southwest": {
+          "lat": 12.75682507010728,
+          "lng": 7.179083970107278
+        }
+      },
+      "formatted_address": "Q55J+756, 820116, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7581679,7.180437299999999",
+      "google_place_id": "ChIJ-SC26oBTsBERFhlqgjT0VAM"
+    }
   },
   {
     "id": "97897",
@@ -45,7 +63,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6288034,
+      "longitude": 8.042715099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.63016692989272,
+          "lng": 8.044052129892721
+        },
+        "southwest": {
+          "lat": 12.62746727010728,
+          "lng": 8.041352470107277
+        }
+      },
+      "formatted_address": "local government, Kankia road ingawa local govt, Ingawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6288034,8.042715099999999",
+      "google_place_id": "ChIJU5VdtKszrhER6zd7kzXILqc"
+    }
   },
   {
     "id": "97898",
@@ -61,7 +96,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6455779,
+      "longitude": 8.0524689,
+      "viewport": {
+        "northeast": {
+          "lat": 12.64695897989272,
+          "lng": 8.053814529892723
+        },
+        "southwest": {
+          "lat": 12.64425932010728,
+          "lng": 8.051114870107279
+        }
+      },
+      "formatted_address": "GTC, Road, 823104, Ingawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6455779,8.0524689",
+      "google_place_id": "ChIJrT9_eoQ0rhER2gpl8-R9fUU"
+    }
   },
   {
     "id": "97899",
@@ -77,7 +129,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.0686354,
+      "longitude": 8.2999479,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0716769,
+          "lng": 8.305769
+        },
+        "southwest": {
+          "lat": 12.064369,
+          "lng": 8.297918899999999
+        }
+      },
+      "formatted_address": "701103, Walawal, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0686354,8.2999479",
+      "google_place_id": "ChIJiWWp35twrhERk_1XykG9CJQ"
+    }
   },
   {
     "id": "97900",
@@ -93,7 +162,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5740386,
+      "longitude": 8.004593,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5824241,
+          "lng": 8.007759
+        },
+        "southwest": {
+          "lat": 12.5710349,
+          "lng": 8.002158
+        }
+      },
+      "formatted_address": "823104, Jobe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5740386,8.004593",
+      "google_place_id": "ChIJBSfReXYxrhERWTFDvQBnuSg"
+    }
   },
   {
     "id": "97901",
@@ -109,7 +195,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97902",
@@ -125,7 +212,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97903",
@@ -141,7 +229,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.6410674,
+      "longitude": 8.0492785,
+      "viewport": {
+        "northeast": {
+          "lat": 12.64249782989272,
+          "lng": 8.05055957989272
+        },
+        "southwest": {
+          "lat": 12.63979817010728,
+          "lng": 8.047859920107276
+        }
+      },
+      "formatted_address": "J2RX+CPC, 823104, Ingawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.6410674,8.0492785",
+      "google_place_id": "ChIJ1YZcwNQ1rhERrpR2zEAZLRY"
+    }
   },
   {
     "id": "97904",
@@ -157,7 +262,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97905",
@@ -173,7 +279,8 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "97906",
@@ -189,7 +296,24 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.5794209,
+      "longitude": 7.920911599999998,
+      "viewport": {
+        "northeast": {
+          "lat": 12.58074387989272,
+          "lng": 7.922215679892723
+        },
+        "southwest": {
+          "lat": 12.57804422010728,
+          "lng": 7.919516020107279
+        }
+      },
+      "formatted_address": "HWHC+Q97, 822105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5794209,7.920911599999998",
+      "google_place_id": "ChIJGeJJ-WMurhER6DDtqCleYag"
+    }
   },
   {
     "id": "97907",
@@ -205,6 +329,7 @@
     "local_government_id": "428",
     "local_government_name": "INGAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]

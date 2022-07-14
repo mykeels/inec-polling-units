@@ -13,7 +13,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96060",
@@ -29,7 +30,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96061",
@@ -45,7 +47,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96062",
@@ -61,7 +64,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96063",
@@ -77,7 +81,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96064",
@@ -93,7 +98,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7716885,
+      "longitude": 7.8819114,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77315157989272,
+          "lng": 7.883234079892722
+        },
+        "southwest": {
+          "lat": 12.77045192010728,
+          "lng": 7.880534420107278
+        }
+      },
+      "formatted_address": "QVCJ+MQF, 822105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7716885,7.8819114",
+      "google_place_id": "ChIJ6ZIPI_vTrxER82Q-2pdwy1I"
+    }
   },
   {
     "id": "96065",
@@ -109,7 +131,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96066",
@@ -125,7 +148,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7716885,
+      "longitude": 7.8819114,
+      "viewport": {
+        "northeast": {
+          "lat": 12.77315157989272,
+          "lng": 7.883234079892722
+        },
+        "southwest": {
+          "lat": 12.77045192010728,
+          "lng": 7.880534420107278
+        }
+      },
+      "formatted_address": "QVCJ+MQF, 822105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7716885,7.8819114",
+      "google_place_id": "ChIJ6ZIPI_vTrxER82Q-2pdwy1I"
+    }
   },
   {
     "id": "96067",
@@ -141,7 +181,8 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96068",
@@ -157,7 +198,24 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.7892214,
+      "longitude": 7.887285599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.79057462989272,
+          "lng": 7.888614679892722
+        },
+        "southwest": {
+          "lat": 12.78787497010728,
+          "lng": 7.885915020107278
+        }
+      },
+      "formatted_address": "QVQP+MW, 822105, Baure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7892214,7.887285599999999",
+      "google_place_id": "ChIJ7fiw3dnRrxERVHZowlBP8OQ"
+    }
   },
   {
     "id": "96069",
@@ -173,6 +231,23 @@
     "local_government_id": "418",
     "local_government_name": "BINDAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
   }
 ]

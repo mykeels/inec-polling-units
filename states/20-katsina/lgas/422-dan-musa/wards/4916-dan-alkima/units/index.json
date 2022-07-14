@@ -13,7 +13,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9920871,
+      "longitude": 7.504650000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99339162989272,
+          "lng": 7.50602707989272
+        },
+        "southwest": {
+          "lat": 12.99069197010728,
+          "lng": 7.503327420107277
+        }
+      },
+      "formatted_address": "XGR3+RRQ, 820104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9920871,7.504650000000001",
+      "google_place_id": "ChIJ54kuPr8-sBERmb3UFT93A8E"
+    }
   },
   {
     "id": "96635",
@@ -29,7 +46,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9920871,
+      "longitude": 7.504650000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99339162989272,
+          "lng": 7.50602707989272
+        },
+        "southwest": {
+          "lat": 12.99069197010728,
+          "lng": 7.503327420107277
+        }
+      },
+      "formatted_address": "XGR3+RRQ, 820104, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9920871,7.504650000000001",
+      "google_place_id": "ChIJ54kuPr8-sBERmb3UFT93A8E"
+    }
   },
   {
     "id": "96636",
@@ -45,7 +79,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.2318,
+      "longitude": 7.3263,
+      "viewport": {
+        "northeast": {
+          "lat": 12.23316132989272,
+          "lng": 7.327615229892722
+        },
+        "southwest": {
+          "lat": 12.23046167010728,
+          "lng": 7.324915570107279
+        }
+      },
+      "formatted_address": "68JG+PG7, 821104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2318,7.3263",
+      "google_place_id": "ChIJBTZ7NDmRsRERkUgc3EM3S4Y"
+    }
   },
   {
     "id": "96637",
@@ -61,7 +112,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9801356,
+      "longitude": 7.613545100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98145922989272,
+          "lng": 7.614880229892723
+        },
+        "southwest": {
+          "lat": 12.97875957010728,
+          "lng": 7.612180570107279
+        }
+      },
+      "formatted_address": "Off Yahaya Madaki Way, near Kudu 2, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9801356,7.613545100000001",
+      "google_place_id": "ChIJr4D0SG4jsBERGUlN3ZKCuZs"
+    }
   },
   {
     "id": "96638",
@@ -77,7 +145,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 45.4503339,
+      "longitude": -75.6556698,
+      "viewport": {
+        "northeast": {
+          "lat": 45.45168982989272,
+          "lng": -75.65427457010728
+        },
+        "southwest": {
+          "lat": 45.44899017010728,
+          "lng": -75.65697422989273
+        }
+      },
+      "formatted_address": "100 Braemar St, Ottawa, ON K1K 3C9, Canada",
+      "google_map_url": "https://maps.google.com?q=45.4503339,-75.6556698",
+      "google_place_id": "ChIJkxNS-kkFzkwR8aWjA0RI_Mw"
+    }
   },
   {
     "id": "96639",
@@ -93,7 +178,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 43.75978629999999,
+      "longitude": -79.40016849999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.76118027989271,
+          "lng": -79.39885997010727
+        },
+        "southwest": {
+          "lat": 43.75848062010727,
+          "lng": -79.40155962989272
+        }
+      },
+      "formatted_address": "171 Avondale Ave, North York, ON M2N 2T5, Canada",
+      "google_map_url": "https://maps.google.com?q=43.75978629999999,-79.40016849999999",
+      "google_place_id": "ChIJoS6WMVwtK4gRwpU-N7NIIGA"
+    }
   },
   {
     "id": "96640",
@@ -109,7 +211,8 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96641",
@@ -125,7 +228,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9952917,
+      "longitude": 7.612957499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99659072989272,
+          "lng": 7.614303329892722
+        },
+        "southwest": {
+          "lat": 12.99389107010728,
+          "lng": 7.611603670107278
+        }
+      },
+      "formatted_address": "Kofar Durbi, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9952917,7.612957499999999",
+      "google_place_id": "ChIJYdYQrzsjsBERiSsGfk9yIKg"
+    }
   },
   {
     "id": "96642",
@@ -141,7 +261,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9919807,
+      "longitude": 7.5984096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.99326747989272,
+          "lng": 7.599764229892722
+        },
+        "southwest": {
+          "lat": 12.99056782010728,
+          "lng": 7.597064570107278
+        }
+      },
+      "formatted_address": "820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9919807,7.5984096",
+      "google_place_id": "ChIJxXBXXLg8sBEREHcdu6AGHBw"
+    }
   },
   {
     "id": "96643",
@@ -157,7 +294,8 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96644",
@@ -173,7 +311,8 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "96645",
@@ -189,7 +328,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.941627,
+      "longitude": 7.601255,
+      "viewport": {
+        "northeast": {
+          "lat": 12.94302352989272,
+          "lng": 7.60329005
+        },
+        "southwest": {
+          "lat": 12.94032387010728,
+          "lng": 7.60057665
+        }
+      },
+      "formatted_address": "Dutsinma Road, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.941627,7.601255",
+      "google_place_id": "ChIJCVnCoAQ7sBERTkwPwEqiY0k"
+    }
   },
   {
     "id": "96646",
@@ -205,7 +361,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9818024,
+      "longitude": 7.642236400000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98315282989272,
+          "lng": 7.643541579892721
+        },
+        "southwest": {
+          "lat": 12.98045317010728,
+          "lng": 7.640841920107277
+        }
+      },
+      "formatted_address": "near Masallacin Maiunguwa Kwado, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9818024,7.642236400000001",
+      "google_place_id": "ChIJ2yIUMX0jsBERXFzHb33XiDo"
+    }
   },
   {
     "id": "96647",
@@ -221,7 +394,24 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9416272,
+      "longitude": 7.601254599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.94302372989272,
+          "lng": 7.603290250000001
+        },
+        "southwest": {
+          "lat": 12.94032407010728,
+          "lng": 7.600576049999999
+        }
+      },
+      "formatted_address": "Dutsinma Road, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9416272,7.601254599999999",
+      "google_place_id": "ChIJu-hk2jAarhERYY-evtWQa-g"
+    }
   },
   {
     "id": "96648",
@@ -237,6 +427,23 @@
     "local_government_id": "422",
     "local_government_name": "DAN MUSA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9771627,
+      "longitude": 7.638197799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.97805492989272,
+          "lng": 7.63987762989272
+        },
+        "southwest": {
+          "lat": 12.97535527010728,
+          "lng": 7.637177970107277
+        }
+      },
+      "formatted_address": "XJGQ+V78, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9771627,7.638197799999999",
+      "google_place_id": "ChIJEcs1mGYjsBERLlylGjIVr-M"
+    }
   }
 ]

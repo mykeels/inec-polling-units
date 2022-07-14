@@ -13,7 +13,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8932408,
+      "longitude": 7.5138947,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9680745,
+          "lng": 7.5615828
+        },
+        "southwest": {
+          "lat": 12.862245,
+          "lng": 7.4668909
+        }
+      },
+      "formatted_address": "Barawa, 820102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8932408,7.5138947",
+      "google_place_id": "ChIJbRN45I85sBERQW7Es-dKBq0"
+    }
   },
   {
     "id": "95449",
@@ -29,7 +46,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.951865,
+      "longitude": 7.503984000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.95321482989272,
+          "lng": 7.505333829892721
+        },
+        "southwest": {
+          "lat": 12.95051517010728,
+          "lng": 7.502634170107277
+        }
+      },
+      "formatted_address": "XG23+PHX, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.951865,7.503984000000001",
+      "google_place_id": "ChIJPcy-E0A5sBER3E5LV2mKKZA"
+    }
   },
   {
     "id": "95450",
@@ -45,7 +79,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9024824,
+      "longitude": 7.589737200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 13.0481302,
+          "lng": 7.764082299999999
+        },
+        "southwest": {
+          "lat": 12.7031996,
+          "lng": 7.363327699999999
+        }
+      },
+      "formatted_address": "Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9024824,7.589737200000001",
+      "google_place_id": "ChIJEZW8RoEwsBERjBCScSa4SeY"
+    }
   },
   {
     "id": "95451",
@@ -61,7 +112,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9087413,
+      "longitude": 7.6098404,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91007722989272,
+          "lng": 7.61116122989272
+        },
+        "southwest": {
+          "lat": 12.90737757010728,
+          "lng": 7.608461570107276
+        }
+      },
+      "formatted_address": "WJ55+FXR, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9087413,7.6098404",
+      "google_place_id": "ChIJUbjUlcw6sBERb3-_FTsZink"
+    }
   },
   {
     "id": "95452",
@@ -77,7 +145,8 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95453",
@@ -93,7 +162,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9098759,
+      "longitude": 7.601119199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91098812989272,
+          "lng": 7.602379129892721
+        },
+        "southwest": {
+          "lat": 12.90828847010728,
+          "lng": 7.599679470107277
+        }
+      },
+      "formatted_address": "WJ52+XC5, Road, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9098759,7.601119199999999",
+      "google_place_id": "ChIJldzDE9E6sBERrXGJ5eVOMC8"
+    }
   },
   {
     "id": "95454",
@@ -109,7 +195,8 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "95455",
@@ -125,7 +212,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9087413,
+      "longitude": 7.6098404,
+      "viewport": {
+        "northeast": {
+          "lat": 12.91007722989272,
+          "lng": 7.61116122989272
+        },
+        "southwest": {
+          "lat": 12.90737757010728,
+          "lng": 7.608461570107276
+        }
+      },
+      "formatted_address": "WJ55+FXR, 820102, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9087413,7.6098404",
+      "google_place_id": "ChIJUbjUlcw6sBERb3-_FTsZink"
+    }
   },
   {
     "id": "95456",
@@ -141,7 +245,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9049462,
+      "longitude": 7.6032892,
+      "viewport": {
+        "northeast": {
+          "lat": 12.9134819,
+          "lng": 7.626045999999999
+        },
+        "southwest": {
+          "lat": 12.8981641,
+          "lng": 7.597001000000001
+        }
+      },
+      "formatted_address": "820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9049462,7.6032892",
+      "google_place_id": "ChIJc_LdIEolsBERLk33giyPwrY"
+    }
   },
   {
     "id": "95457",
@@ -157,7 +278,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.8858107,
+      "longitude": 7.573478299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.88716052989272,
+          "lng": 7.574828129892721
+        },
+        "southwest": {
+          "lat": 12.88446087010728,
+          "lng": 7.572128470107277
+        }
+      },
+      "formatted_address": "VHXR+MHM, 820102, Batagarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.8858107,7.573478299999999",
+      "google_place_id": "ChIJ7azaoYU6sBERvhyNTxP4GxQ"
+    }
   },
   {
     "id": "95458",
@@ -173,7 +311,24 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.941527,
+      "longitude": 7.604441,
+      "viewport": {
+        "northeast": {
+          "lat": 12.94287682989272,
+          "lng": 7.605790829892721
+        },
+        "southwest": {
+          "lat": 12.94017717010728,
+          "lng": 7.603091170107278
+        }
+      },
+      "formatted_address": "Amadi, Katsina-Kurfi Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.941527,7.604441",
+      "google_place_id": "ChIJFWGDZtA7sBERd6npPg730W0"
+    }
   },
   {
     "id": "95459",
@@ -189,6 +344,7 @@
     "local_government_id": "415",
     "local_government_name": "BATAGARAWA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]

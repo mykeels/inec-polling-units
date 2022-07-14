@@ -13,7 +13,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99693",
@@ -29,7 +30,24 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": {
+      "latitude": 12.9823052,
+      "longitude": 7.607147299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.98363282989272,
+          "lng": 7.608503029892722
+        },
+        "southwest": {
+          "lat": 12.98093317010728,
+          "lng": 7.605803370107278
+        }
+      },
+      "formatted_address": "XJJ4+WVC, Unnamed Road, 820101, Katsina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.9823052,7.607147299999999",
+      "google_place_id": "ChIJ53uiC7I8sBERu9jKnBQ4Zcs"
+    }
   },
   {
     "id": "99694",
@@ -45,7 +63,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99695",
@@ -61,7 +80,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99696",
@@ -77,7 +97,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99697",
@@ -93,7 +114,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99698",
@@ -109,7 +131,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99699",
@@ -125,7 +148,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99700",
@@ -141,7 +165,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99701",
@@ -157,7 +182,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99702",
@@ -173,7 +199,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99703",
@@ -189,7 +216,8 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   },
   {
     "id": "99704",
@@ -205,6 +233,7 @@
     "local_government_id": "436",
     "local_government_name": "KUSADA",
     "state_id": "20",
-    "state_name": "KATSINA"
+    "state_name": "KATSINA",
+    "location": null
   }
 ]
