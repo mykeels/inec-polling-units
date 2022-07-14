@@ -13,7 +13,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336983",
@@ -29,7 +30,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0304176,
+      "longitude": 5.9907031,
+      "viewport": {
+        "northeast": {
+          "lat": 9.03177717989272,
+          "lng": 5.992029529892722
+        },
+        "southwest": {
+          "lat": 9.029077520107275,
+          "lng": 5.989329870107278
+        }
+      },
+      "formatted_address": "2XJR+578, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0304176,5.9907031",
+      "google_place_id": "ChIJERjoeKJmSRAR4z9Cl-zLqQ8"
+    }
   },
   {
     "id": "336984",
@@ -45,7 +63,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9438838,
+      "longitude": 6.0106937,
+      "viewport": {
+        "northeast": {
+          "lat": 8.944924,
+          "lng": 6.0149349
+        },
+        "southwest": {
+          "lat": 8.9410349,
+          "lng": 6.0054909
+        }
+      },
+      "formatted_address": "912211, Kupafu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9438838,6.0106937",
+      "google_place_id": "ChIJ7x_3WpNoSRARCzEWJ8RKn_o"
+    }
   },
   {
     "id": "336985",
@@ -61,7 +96,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.8098209,
+      "longitude": 6.0467429,
+      "viewport": {
+        "northeast": {
+          "lat": 9.0677699,
+          "lng": 6.110193199999999
+        },
+        "southwest": {
+          "lat": 8.7787055,
+          "lng": 5.9390204
+        }
+      },
+      "formatted_address": "Busu/Kuchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8098209,6.0467429",
+      "google_place_id": "ChIJF8uDcf9oSRARTvekcZLkKQ8"
+    }
   },
   {
     "id": "336986",
@@ -77,7 +129,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.999073600000001,
+      "longitude": 5.9666746,
+      "viewport": {
+        "northeast": {
+          "lat": 9.000690529892722,
+          "lng": 5.967879129892721
+        },
+        "southwest": {
+          "lat": 8.997990870107278,
+          "lng": 5.965179470107278
+        }
+      },
+      "formatted_address": "6FW7XXX8+JPV Kuchi woro Busu, Motugi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.999073600000001,5.9666746",
+      "google_place_id": "ChIJ7UxsZoNlSRARjpwLcgpArRM"
+    }
   },
   {
     "id": "336987",
@@ -93,7 +162,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0012431,
+      "longitude": 5.969379099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.003535,
+          "lng": 5.971324
+        },
+        "southwest": {
+          "lat": 8.99798,
+          "lng": 5.964935000000001
+        }
+      },
+      "formatted_address": "912211, Kuchi Woro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0012431,5.969379099999999",
+      "google_place_id": "ChIJwQHL2c5lSRARr_i05ffOUrU"
+    }
   },
   {
     "id": "336988",
@@ -109,7 +195,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0493542,
+      "longitude": 6.0053798,
+      "viewport": {
+        "northeast": {
+          "lat": 9.050646179892722,
+          "lng": 6.006839479892721
+        },
+        "southwest": {
+          "lat": 9.047946520107278,
+          "lng": 6.004139820107278
+        }
+      },
+      "formatted_address": "Busu, Kuchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0493542,6.0053798",
+      "google_place_id": "ChIJN-4lYspmSRARxAkAy3ult7E"
+    }
   },
   {
     "id": "336989",
@@ -125,7 +228,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.8272116,
+      "longitude": 5.9829005,
+      "viewport": {
+        "northeast": {
+          "lat": 8.828624379892721,
+          "lng": 5.984292279892722
+        },
+        "southwest": {
+          "lat": 8.825924720107277,
+          "lng": 5.981592620107278
+        }
+      },
+      "formatted_address": "6FW7RXGM+V55 Kpanje Busu lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8272116,5.9829005",
+      "google_place_id": "ChIJ2W4UAIJsSRAROqRg3REVxt4"
+    }
   },
   {
     "id": "336990",
@@ -141,7 +261,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.849997,
+      "longitude": 6.031446,
+      "viewport": {
+        "northeast": {
+          "lat": 8.851303979892723,
+          "lng": 6.032974529892722
+        },
+        "southwest": {
+          "lat": 8.84860432010728,
+          "lng": 6.030274870107278
+        }
+      },
+      "formatted_address": "6FW8R2XJ+XHW jikanagi Busu lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.849997,6.031446",
+      "google_place_id": "ChIJDyhbaUlqSRAR95jiD9CHIis"
+    }
   },
   {
     "id": "336991",
@@ -157,7 +294,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.316699999999999,
+      "longitude": 5.45,
+      "viewport": {
+        "northeast": {
+          "lat": 9.318049829892722,
+          "lng": 5.451349829892722
+        },
+        "southwest": {
+          "lat": 9.315350170107278,
+          "lng": 5.448650170107278
+        }
+      },
+      "formatted_address": "8C8X+MXH, 913101, Muchiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.316699999999999,5.45",
+      "google_place_id": "ChIJz5Cj6DAjShAR270QqtEOfHk"
+    }
   },
   {
     "id": "336992",
@@ -173,7 +327,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.819763,
+      "longitude": 6.031403,
+      "viewport": {
+        "northeast": {
+          "lat": 8.821107229892721,
+          "lng": 6.032804779892722
+        },
+        "southwest": {
+          "lat": 8.818407570107277,
+          "lng": 6.030105120107278
+        }
+      },
+      "formatted_address": "6FW8R29J+WH2 Dokogi Busu lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.819763,6.031403",
+      "google_place_id": "ChIJPfMiveRqSRARRscJsk1BTuM"
+    }
   },
   {
     "id": "336993",
@@ -189,7 +360,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336994",
@@ -205,7 +377,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.8781336,
+      "longitude": 6.0773226,
+      "viewport": {
+        "northeast": {
+          "lat": 8.879483729892723,
+          "lng": 6.078675429892723
+        },
+        "southwest": {
+          "lat": 8.876784070107279,
+          "lng": 6.075975770107279
+        }
+      },
+      "formatted_address": "6FW8V3HG+7W3 Bomkagi Busu lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8781336,6.0773226",
+      "google_place_id": "ChIJ2RH8urBDSRARJV7kQjjHZ_A"
+    }
   },
   {
     "id": "336995",
@@ -221,7 +410,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.902275500000002,
+      "longitude": 6.035826699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.9043691,
+          "lng": 6.042158
+        },
+        "southwest": {
+          "lat": 8.900758,
+          "lng": 6.0338239
+        }
+      },
+      "formatted_address": "912211, Twaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.902275500000002,6.035826699999999",
+      "google_place_id": "ChIJr55-kLxpSRARzOzInzuQqVY"
+    }
   },
   {
     "id": "336996",
@@ -237,7 +443,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0493542,
+      "longitude": 6.0053798,
+      "viewport": {
+        "northeast": {
+          "lat": 9.050646179892722,
+          "lng": 6.006839479892721
+        },
+        "southwest": {
+          "lat": 9.047946520107278,
+          "lng": 6.004139820107278
+        }
+      },
+      "formatted_address": "Busu, Kuchi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0493542,6.0053798",
+      "google_place_id": "ChIJN-4lYspmSRARxAkAy3ult7E"
+    }
   },
   {
     "id": "336997",
@@ -253,7 +476,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.197875699999999,
+      "longitude": 5.8136294,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1999971,
+          "lng": 5.816766899999999
+        },
+        "southwest": {
+          "lat": 9.19693,
+          "lng": 5.811376
+        }
+      },
+      "formatted_address": "913102, Lavun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.197875699999999,5.8136294",
+      "google_place_id": "ChIJ0fzsACjUSxARSWQu01RqAto"
+    }
   },
   {
     "id": "336998",
@@ -269,7 +509,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336999",
@@ -285,7 +526,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.903426999999999,
+      "longitude": 6.060612,
+      "viewport": {
+        "northeast": {
+          "lat": 8.904806729892721,
+          "lng": 6.061977879892721
+        },
+        "southwest": {
+          "lat": 8.902107070107277,
+          "lng": 6.059278220107277
+        }
+      },
+      "formatted_address": "6FW8W336+96H Zakari Busa lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.903426999999999,6.060612",
+      "google_place_id": "ChIJhyIA1-lpSRAR9cyKAfctTUY"
+    }
   },
   {
     "id": "337000",
@@ -301,7 +559,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.551633299999999,
+      "longitude": 6.2416716,
+      "viewport": {
+        "northeast": {
+          "lat": 8.553164579892723,
+          "lng": 6.242681079892722
+        },
+        "southwest": {
+          "lat": 8.550464920107279,
+          "lng": 6.239981420107278
+        }
+      },
+      "formatted_address": "H62R+MM3, 260104, Ahuji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.551633299999999,6.2416716",
+      "google_place_id": "ChIJLaREiOYvSRARKZK49pqZBZ0"
+    }
   },
   {
     "id": "337001",
@@ -317,7 +592,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337002",
@@ -333,7 +609,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.058222899999999,
+      "longitude": 5.9903533,
+      "viewport": {
+        "northeast": {
+          "lat": 9.059564429892722,
+          "lng": 5.991702729892722
+        },
+        "southwest": {
+          "lat": 9.056864770107278,
+          "lng": 5.989003070107279
+        }
+      },
+      "formatted_address": "Heritage Schools way, GRA Extension, Kangi Layout, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.058222899999999,5.9903533",
+      "google_place_id": "ChIJJQHXZlxhSRARc2Qyfy-bG5A"
+    }
   },
   {
     "id": "337003",
@@ -349,7 +642,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.903378,
+      "longitude": 6.035007999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.904665879892722,
+          "lng": 6.036480979892723
+        },
+        "southwest": {
+          "lat": 8.901966220107278,
+          "lng": 6.033781320107278
+        }
+      },
+      "formatted_address": "6FW8W23P+922 Baba Busu lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.903378,6.035007999999999",
+      "google_place_id": "ChIJG9ERfsBpSRARrZW9SAGZL30"
+    }
   },
   {
     "id": "337004",
@@ -365,7 +675,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337005",
@@ -381,6 +692,23 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.903378,
+      "longitude": 6.035007999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.904665879892722,
+          "lng": 6.036480979892723
+        },
+        "southwest": {
+          "lat": 8.901966220107278,
+          "lng": 6.033781320107278
+        }
+      },
+      "formatted_address": "6FW8W23P+922 Baba Busu lavun Niger Gaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.903378,6.035007999999999",
+      "google_place_id": "ChIJG9ERfsBpSRARrZW9SAGZL30"
+    }
   }
 ]

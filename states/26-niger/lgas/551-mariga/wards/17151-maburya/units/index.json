@@ -13,7 +13,24 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.5804735,
+      "longitude": 9.3388701,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5829801,
+          "lng": 9.3418799
+        },
+        "southwest": {
+          "lat": 11.5782579,
+          "lng": 9.333404
+        }
+      },
+      "formatted_address": "720101, Malamawa Kofar Fada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5804735,9.3388701",
+      "google_place_id": "ChIJYZEepenyqxERje7lLuhuTmU"
+    }
   },
   {
     "id": "337596",
@@ -29,7 +46,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337597",
@@ -45,7 +63,24 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8984,
+      "longitude": 5.469695,
+      "viewport": {
+        "northeast": {
+          "lat": 10.89971272989272,
+          "lng": 5.471042529892721
+        },
+        "southwest": {
+          "lat": 10.89701307010728,
+          "lng": 5.468342870107278
+        }
+      },
+      "formatted_address": "7F27VFX9+9V4, Ragada, 922105, Kadago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8984,5.469695",
+      "google_place_id": "ChIJb4p9fnA-tRER1dzZrfikyaU"
+    }
   },
   {
     "id": "337598",
@@ -61,7 +96,24 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8860021,
+      "longitude": 5.5197394,
+      "viewport": {
+        "northeast": {
+          "lat": 11.0044062,
+          "lng": 5.6416261
+        },
+        "southwest": {
+          "lat": 10.7687913,
+          "lng": 5.381448799999999
+        }
+      },
+      "formatted_address": "Maburya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8860021,5.5197394",
+      "google_place_id": "ChIJsd_KLq09tRERAPv__D2MZLA"
+    }
   },
   {
     "id": "337599",
@@ -77,7 +129,24 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.9582665,
+      "longitude": 8.4772103,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95957437989272,
+          "lng": 8.478597179892724
+        },
+        "southwest": {
+          "lat": 11.95687472010728,
+          "lng": 8.47589752010728
+        }
+      },
+      "formatted_address": "Unnamed Rd, Kofar Dukayuwa 700282, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9582665,8.4772103",
+      "google_place_id": "ChIJy0lHRFd_rhER0JP6hKEp-p0"
+    }
   },
   {
     "id": "337600",
@@ -93,7 +162,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337601",
@@ -109,7 +179,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337602",
@@ -125,7 +196,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337603",
@@ -141,7 +213,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337604",
@@ -157,7 +230,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337605",
@@ -173,7 +247,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337606",
@@ -189,7 +264,8 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337607",
@@ -205,6 +281,23 @@
     "local_government_id": "551",
     "local_government_name": "MARIGA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7080929,
+      "longitude": 5.2307636,
+      "viewport": {
+        "northeast": {
+          "lat": 10.70941017989272,
+          "lng": 5.232113329892722
+        },
+        "southwest": {
+          "lat": 10.70671052010728,
+          "lng": 5.229413670107278
+        }
+      },
+      "formatted_address": "P65J+68J, 923105, Machifa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7080929,5.2307636",
+      "google_place_id": "ChIJ-ZHjnitOtRERDuVBRqoZf7o"
+    }
   }
 ]

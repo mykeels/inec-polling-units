@@ -13,7 +13,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338351",
@@ -29,7 +30,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "Kaduna-Birnin Gwari-Kagara Road, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJQ81u2XZnSxARAQJqpgo6U7Q"
+    }
   },
   {
     "id": "338352",
@@ -45,7 +63,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338353",
@@ -61,7 +96,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "No 6, Ansar-ud-deen Nursery/Primary and Secondary School, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJOdtMNDNnSxAR3AVpl8EVA4E"
+    }
   },
   {
     "id": "338354",
@@ -77,7 +129,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.18578,
+      "longitude": 6.2536916,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18719207989272,
+          "lng": 6.255035479892722
+        },
+        "southwest": {
+          "lat": 10.18449242010728,
+          "lng": 6.252335820107278
+        }
+      },
+      "formatted_address": "Karaya Primary School, A 125, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.18578,6.2536916",
+      "google_place_id": "ChIJibQvMOxnSxARn5b68ZSdfGc"
+    }
   },
   {
     "id": "338355",
@@ -93,7 +162,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338356",
@@ -109,7 +195,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338357",
@@ -125,7 +228,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338358",
@@ -141,7 +261,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338359",
@@ -157,7 +294,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338360",
@@ -173,7 +327,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338361",
@@ -189,7 +360,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1582406,
+      "longitude": 6.2198845,
+      "viewport": {
+        "northeast": {
+          "lat": 10.15955322989272,
+          "lng": 6.221199479892721
+        },
+        "southwest": {
+          "lat": 10.15685357010728,
+          "lng": 6.218499820107278
+        }
+      },
+      "formatted_address": "Yalwa Primary School, 922103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1582406,6.2198845",
+      "google_place_id": "ChIJZV2PumFoSxARWmWF27IByc8"
+    }
   },
   {
     "id": "338362",
@@ -205,7 +393,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1857143,
+      "longitude": 6.254747,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18710572989272,
+          "lng": 6.255987329892723
+        },
+        "southwest": {
+          "lat": 10.18440607010728,
+          "lng": 6.253287670107279
+        }
+      },
+      "formatted_address": "Gidan Sarkin Kofar Fada's Palace, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1857143,6.254747",
+      "google_place_id": "ChIJp2g-4_dnSxAR9kt_JbySraI"
+    }
   },
   {
     "id": "338363",
@@ -221,7 +426,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "Kaduna-Birnin Gwari-Kagara Road, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJQ81u2XZnSxARAQJqpgo6U7Q"
+    }
   },
   {
     "id": "338364",
@@ -237,7 +459,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2367274,
+      "longitude": 6.2226662,
+      "viewport": {
+        "northeast": {
+          "lat": 10.23807722989272,
+          "lng": 6.224016029892721
+        },
+        "southwest": {
+          "lat": 10.23537757010728,
+          "lng": 6.221316370107277
+        }
+      },
+      "formatted_address": "7F2866PF+M3V Karaya B, Chikin gari, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2367274,6.2226662",
+      "google_place_id": "ChIJv8PnX1ZDSxARJh5DkglqqGs"
+    }
   },
   {
     "id": "338365",
@@ -253,7 +492,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "Kagara Town, Main Market Town, Rafi LGA, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJSfD5985nSxARhZxnhLjKn_E"
+    }
   },
   {
     "id": "338366",
@@ -269,7 +525,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1916036,
+      "longitude": 6.2579221,
+      "viewport": {
+        "northeast": {
+          "lat": 10.19317942989272,
+          "lng": 6.258807629892722
+        },
+        "southwest": {
+          "lat": 10.19047977010728,
+          "lng": 6.256107970107278
+        }
+      },
+      "formatted_address": "57R5+J5V, Kaduna-Birnin Gwari-Kagara Road, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1916036,6.2579221",
+      "google_place_id": "ChIJNXbeJjpnSxARNmj7FlM7QIg"
+    }
   },
   {
     "id": "338367",
@@ -285,7 +558,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.19343,
+      "longitude": 6.249788,
+      "viewport": {
+        "northeast": {
+          "lat": 10.19452407989272,
+          "lng": 6.251059229892722
+        },
+        "southwest": {
+          "lat": 10.19182442010728,
+          "lng": 6.248359570107278
+        }
+      },
+      "formatted_address": "7F2856VX+9WF Tudun wada, Chikin gari, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.19343,6.249788",
+      "google_place_id": "ChIJXQU3LaFnSxARHDXdPpd7aOM"
+    }
   },
   {
     "id": "338368",
@@ -301,7 +591,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338369",
@@ -317,7 +608,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338370",
@@ -333,7 +641,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   },
   {
     "id": "338371",
@@ -349,7 +674,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.112955,
+      "longitude": 6.1526985,
+      "viewport": {
+        "northeast": {
+          "lat": 10.6143966,
+          "lng": 6.5588616
+        },
+        "southwest": {
+          "lat": 9.8154092,
+          "lng": 5.966439299999999
+        }
+      },
+      "formatted_address": "Rafi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.112955,6.1526985",
+      "google_place_id": "ChIJ82v_FmldSxARzfrgY8B8Njk"
+    }
   },
   {
     "id": "338372",
@@ -365,7 +707,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "No 6, Ansar-ud-deen Nursery/Primary and Secondary School, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJOdtMNDNnSxAR3AVpl8EVA4E"
+    }
   },
   {
     "id": "338373",
@@ -381,6 +740,23 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1895994,
+      "longitude": 6.2269763,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2790457,
+          "lng": 6.2905333
+        },
+        "southwest": {
+          "lat": 10.1154719,
+          "lng": 6.1633026
+        }
+      },
+      "formatted_address": "Kagara Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1895994,6.2269763",
+      "google_place_id": "ChIJtd5YzRxoSxARBveqagCDJHM"
+    }
   }
 ]

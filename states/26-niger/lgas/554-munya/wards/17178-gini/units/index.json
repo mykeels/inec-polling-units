@@ -13,7 +13,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
   },
   {
     "id": "338052",
@@ -29,7 +46,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338053",
@@ -45,7 +63,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.7577676,
+      "longitude": 6.8961828,
+      "viewport": {
+        "northeast": {
+          "lat": 9.759117429892722,
+          "lng": 6.897532629892722
+        },
+        "southwest": {
+          "lat": 9.756417770107278,
+          "lng": 6.894832970107278
+        }
+      },
+      "formatted_address": "6FX8QV5W+3FF tumbi gwadami gini munya Niger, Gidan Ganga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7577676,6.8961828",
+      "google_place_id": "ChIJO88Mxa1ZTBARkzOdOX9q_2s"
+    }
   },
   {
     "id": "338054",
@@ -61,7 +96,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338055",
@@ -77,7 +113,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338056",
@@ -93,7 +130,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338057",
@@ -109,7 +147,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338058",
@@ -125,7 +164,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338059",
@@ -141,7 +181,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.753091,
+      "longitude": 6.874008,
+      "viewport": {
+        "northeast": {
+          "lat": 9.754440829892724,
+          "lng": 6.875357829892722
+        },
+        "southwest": {
+          "lat": 9.75174117010728,
+          "lng": 6.872658170107278
+        }
+      },
+      "formatted_address": "6FX8QV3F+6JJ Jigbe Gini munya, Gwadnami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.753091,6.874008",
+      "google_place_id": "ChIJ_4QcuodZTBARML9m5Gg44dU"
+    }
   },
   {
     "id": "338060",
@@ -157,6 +214,7 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

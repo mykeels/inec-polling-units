@@ -13,7 +13,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.821302000000001,
+      "longitude": 5.976941999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.822401679892721,
+          "lng": 5.978314679892721
+        },
+        "southwest": {
+          "lat": 9.819702020107277,
+          "lng": 5.975615020107277
+        }
+      },
+      "formatted_address": "6FX7RXCG+GQG KUNDU WARD rafi Niger, 922102, Ajami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.821302000000001,5.976941999999999",
+      "google_place_id": "ChIJv6v1oYqnSxARsKZewPsYmx8"
+    }
   },
   {
     "id": "338473",
@@ -29,7 +46,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338474",
@@ -45,7 +63,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338475",
@@ -61,7 +80,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338476",
@@ -77,7 +97,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338477",
@@ -93,7 +114,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338478",
@@ -109,7 +131,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338479",
@@ -125,7 +148,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338480",
@@ -141,7 +165,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.826322,
+      "longitude": 5.919852,
+      "viewport": {
+        "northeast": {
+          "lat": 9.82770797989272,
+          "lng": 5.921260729892722
+        },
+        "southwest": {
+          "lat": 9.825008320107276,
+          "lng": 5.918561070107278
+        }
+      },
+      "formatted_address": "6FX7RWG9+GWH KUNDU WARD, JIWAWA, 922102, Gagari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.826322,5.919852",
+      "google_place_id": "ChIJQR9lApGnSxARG2sFG-w4c60"
+    }
   },
   {
     "id": "338481",
@@ -157,7 +198,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338482",
@@ -173,7 +215,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.7580914,
+      "longitude": 4.5546602,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75952077989272,
+          "lng": 4.556029529892721
+        },
+        "southwest": {
+          "lat": 12.75682112010728,
+          "lng": 4.553329870107278
+        }
+      },
+      "formatted_address": "QH53+5VM, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7580914,4.5546602",
+      "google_place_id": "ChIJlYa8Zc2tyRERs3aSRXNsrPk"
+    }
   },
   {
     "id": "338483",
@@ -189,6 +248,23 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
   }
 ]

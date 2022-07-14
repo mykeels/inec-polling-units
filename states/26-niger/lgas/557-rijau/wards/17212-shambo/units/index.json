@@ -13,7 +13,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338669",
@@ -29,7 +30,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338670",
@@ -45,7 +47,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338671",
@@ -61,7 +64,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338672",
@@ -77,7 +81,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338673",
@@ -93,7 +98,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338674",
@@ -109,7 +115,24 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 7.7123862,
+      "longitude": 9.8892469,
+      "viewport": {
+        "northeast": {
+          "lat": 7.718777999999999,
+          "lng": 9.8963241
+        },
+        "southwest": {
+          "lat": 7.7074239,
+          "lng": 9.882945
+        }
+      },
+      "formatted_address": "670104, Rafin Kada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7123862,9.8892469",
+      "google_place_id": "ChIJsxZ3qYR_VxARl9hIjGYPAiA"
+    }
   },
   {
     "id": "338675",
@@ -125,7 +148,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338676",
@@ -141,7 +165,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338677",
@@ -157,7 +182,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338678",
@@ -173,7 +199,8 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338679",
@@ -189,6 +216,7 @@
     "local_government_id": "557",
     "local_government_name": "RIJAU",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

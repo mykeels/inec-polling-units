@@ -13,7 +13,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338006",
@@ -29,7 +30,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338007",
@@ -45,7 +47,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.203411,
+      "longitude": 7.1128059,
+      "viewport": {
+        "northeast": {
+          "lat": 11.20482432989272,
+          "lng": 7.114112779892722
+        },
+        "southwest": {
+          "lat": 11.20212467010728,
+          "lng": 7.111413120107278
+        }
+      },
+      "formatted_address": "800115, Gidan Mai Ungwan, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.203411,7.1128059",
+      "google_place_id": "ChIJWxyuvjf-shER8c1KJRhamiM"
+    }
   },
   {
     "id": "338008",
@@ -61,7 +80,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338009",
@@ -77,7 +97,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6355758,
+      "longitude": 6.545088499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.636925629892723,
+          "lng": 6.546438329892721
+        },
+        "southwest": {
+          "lat": 9.634225970107279,
+          "lng": 6.543738670107277
+        }
+      },
+      "formatted_address": "F-Layout Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6355758,6.545088499999999",
+      "google_place_id": "ChIJZYgywFxwTBARb5ebZHls5wE"
+    }
   },
   {
     "id": "338010",
@@ -93,7 +130,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338011",
@@ -109,7 +147,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.7055891,
+      "longitude": 6.842983599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.707408079892723,
+          "lng": 6.844129329892723
+        },
+        "southwest": {
+          "lat": 9.704708420107279,
+          "lng": 6.841429670107279
+        }
+      },
+      "formatted_address": "6FX8PR4V+754 Mararaba Dandaudu munya Niger, Gwadnami, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7055891,6.842983599999999",
+      "google_place_id": "ChIJ68KeZu1bTBAR70GTXSOjl60"
+    }
   },
   {
     "id": "338012",
@@ -125,7 +180,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6355758,
+      "longitude": 6.545088499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.636925629892723,
+          "lng": 6.546438329892721
+        },
+        "southwest": {
+          "lat": 9.634225970107279,
+          "lng": 6.543738670107277
+        }
+      },
+      "formatted_address": "F-Layout Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6355758,6.545088499999999",
+      "google_place_id": "ChIJZYgywFxwTBARb5ebZHls5wE"
+    }
   },
   {
     "id": "338013",
@@ -141,7 +213,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 44.37976450000001,
+      "longitude": -79.7133102,
+      "viewport": {
+        "northeast": {
+          "lat": 44.38111982989273,
+          "lng": -79.71209892010728
+        },
+        "southwest": {
+          "lat": 44.37842017010728,
+          "lng": -79.71479857989272
+        }
+      },
+      "formatted_address": "15 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+      "google_map_url": "https://maps.google.com?q=44.37976450000001,-79.7133102",
+      "google_place_id": "ChIJ0SGQig29KogRzg4aXvKgWhA"
+    }
   },
   {
     "id": "338014",
@@ -157,6 +246,7 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

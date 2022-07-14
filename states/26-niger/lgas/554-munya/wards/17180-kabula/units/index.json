@@ -13,7 +13,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.833241,
+      "longitude": 7.190048,
+      "viewport": {
+        "northeast": {
+          "lat": 9.834590829892722,
+          "lng": 7.191397829892724
+        },
+        "southwest": {
+          "lat": 9.831891170107278,
+          "lng": 7.18869817010728
+        }
+      },
+      "formatted_address": "6FX9R5MR+72V luwi kabula munya, Kabula, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.833241,7.190048",
+      "google_place_id": "ChIJR1BgAOkHTRARkJIsKdtQ0i8"
+    }
   },
   {
     "id": "338075",
@@ -29,7 +46,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.018341,
+      "longitude": 7.1279325,
+      "viewport": {
+        "northeast": {
+          "lat": 10.01968662989272,
+          "lng": 7.129280329892722
+        },
+        "southwest": {
+          "lat": 10.01698697010728,
+          "lng": 7.126580670107278
+        }
+      },
+      "formatted_address": "249H+85M, 921103, Sarkin Pawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.018341,7.1279325",
+      "google_place_id": "ChIJ0Zp8YrsdTRARmOnxMLfRqsg"
+    }
   },
   {
     "id": "338076",
@@ -45,7 +79,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.5283452,
+      "longitude": 7.3017097,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5352084,
+          "lng": 7.310072700000001
+        },
+        "southwest": {
+          "lat": 11.5215583,
+          "lng": 7.2936358
+        }
+      },
+      "formatted_address": "Anguwan Musa, 830101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5283452,7.3017097",
+      "google_place_id": "ChIJx097QHlGshERMeuQhxZeKJg"
+    }
   },
   {
     "id": "338077",
@@ -61,7 +112,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.0189106,
+      "longitude": 7.129938,
+      "viewport": {
+        "northeast": {
+          "lat": 10.02018942989272,
+          "lng": 7.131494329892721
+        },
+        "southwest": {
+          "lat": 10.01748977010728,
+          "lng": 7.128794670107277
+        }
+      },
+      "formatted_address": "249H+HX8, 921103, Sarkin Pawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.0189106,7.129938",
+      "google_place_id": "ChIJZZsqgLIdTRAR70gN8JxpswE"
+    }
   },
   {
     "id": "338078",
@@ -77,7 +145,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.868973,
+      "longitude": 7.083816,
+      "viewport": {
+        "northeast": {
+          "lat": 9.870180429892722,
+          "lng": 7.085721729892722
+        },
+        "southwest": {
+          "lat": 9.867480770107278,
+          "lng": 7.083022070107278
+        }
+      },
+      "formatted_address": "6FX9V39M+HGP MANGOROTA KABULA munya, Katipe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.868973,7.083816",
+      "google_place_id": "ChIJ2zCPPT7_TBARpPAZP3NW_9k"
+    }
   },
   {
     "id": "338079",
@@ -93,7 +178,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.8859829,
+      "longitude": 7.0709388,
+      "viewport": {
+        "northeast": {
+          "lat": 9.887332729892721,
+          "lng": 7.072288629892721
+        },
+        "southwest": {
+          "lat": 9.884633070107277,
+          "lng": 7.069588970107277
+        }
+      },
+      "formatted_address": "6FX9V3PC+C98 KAHALA KABULA munya, Tepia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.8859829,7.0709388",
+      "google_place_id": "ChIJhSWNLtn_TBARutuSKZCCJmU"
+    }
   },
   {
     "id": "338080",
@@ -109,7 +211,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338081",
@@ -125,7 +228,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3992483,
+      "longitude": 12.0000843,
+      "viewport": {
+        "northeast": {
+          "lat": 10.404646,
+          "lng": 12.0121579
+        },
+        "southwest": {
+          "lat": 10.393535,
+          "lng": 11.995213
+        }
+      },
+      "formatted_address": "603103, Bakin Kasuwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3992483,12.0000843",
+      "google_place_id": "ChIJF9WuDiL-ARER8OR712ChcgI"
+    }
   },
   {
     "id": "338082",
@@ -141,7 +261,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338083",
@@ -157,6 +278,7 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

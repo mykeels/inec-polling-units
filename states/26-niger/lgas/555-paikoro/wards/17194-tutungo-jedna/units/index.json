@@ -13,7 +13,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338322",
@@ -29,7 +30,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4966069,
+      "longitude": 6.6133622,
+      "viewport": {
+        "northeast": {
+          "lat": 9.498148029892722,
+          "lng": 6.614597979892721
+        },
+        "southwest": {
+          "lat": 9.495448370107278,
+          "lng": 6.611898320107278
+        }
+      },
+      "formatted_address": "6FX8FJW7+J9H TUTUGO. WARD, PAGGO, 920103, Bali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4966069,6.6133622",
+      "google_place_id": "ChIJb4oX30FtTBARhT1X7tYVioA"
+    }
   },
   {
     "id": "338323",
@@ -45,7 +63,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.45885,
+      "longitude": 6.568943,
+      "viewport": {
+        "northeast": {
+          "lat": 9.46020942989272,
+          "lng": 6.570297279892721
+        },
+        "southwest": {
+          "lat": 9.457509770107276,
+          "lng": 6.567597620107278
+        }
+      },
+      "formatted_address": "FH59+GHP, 920103, Butu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.45885,6.568943",
+      "google_place_id": "ChIJE4ZiymcNTBARkCEKopZcQr4"
+    }
   },
   {
     "id": "338324",
@@ -61,7 +96,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5050213,
+      "longitude": 6.5860132,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5060351,
+          "lng": 6.587158
+        },
+        "southwest": {
+          "lat": 9.4943691,
+          "lng": 6.577991099999999
+        }
+      },
+      "formatted_address": "920103, Tutungo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5050213,6.5860132",
+      "google_place_id": "ChIJJ6U8tF5tTBAR-yop_65-xao"
+    }
   },
   {
     "id": "338325",
@@ -77,7 +129,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3172508,
+      "longitude": 6.586680599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.3240911,
+          "lng": 6.5877129
+        },
+        "southwest": {
+          "lat": 9.316590999999999,
+          "lng": 6.57688
+        }
+      },
+      "formatted_address": "920103, Jedna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3172508,6.586680599999999",
+      "google_place_id": "ChIJGzk49RwQTBARrHTv1_7DvJw"
+    }
   },
   {
     "id": "338326",
@@ -93,7 +162,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.37426,
+      "longitude": 6.507517,
+      "viewport": {
+        "northeast": {
+          "lat": 9.375610129892722,
+          "lng": 6.508868179892722
+        },
+        "southwest": {
+          "lat": 9.372910470107279,
+          "lng": 6.506168520107278
+        }
+      },
+      "formatted_address": "6FX89GF5+P22, JEDNA TUTUNGO, 920103, Anini, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.37426,6.507517",
+      "google_place_id": "ChIJbVQsNG4PTBAR9qb1tpZ61Yk"
+    }
   },
   {
     "id": "338327",
@@ -109,7 +195,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.367794199999999,
+      "longitude": 6.5481498,
+      "viewport": {
+        "northeast": {
+          "lat": 9.369051829892722,
+          "lng": 6.549658
+        },
+        "southwest": {
+          "lat": 9.366352170107278,
+          "lng": 6.546323999999999
+        }
+      },
+      "formatted_address": "920103, Fiche, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.367794199999999,6.5481498",
+      "google_place_id": "ChIJL64fnEQOTBARgn_13Z3wH7Y"
+    }
   },
   {
     "id": "338328",
@@ -125,7 +228,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3576277,
+      "longitude": 6.606433699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.358984829892723,
+          "lng": 6.607793629892722
+        },
+        "southwest": {
+          "lat": 9.35628517010728,
+          "lng": 6.605093970107278
+        }
+      },
+      "formatted_address": "6FX89J54+3H8, GABADNA TUTUNGO, 920103, Gabada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3576277,6.606433699999999",
+      "google_place_id": "ChIJhV83PQ8RTBAR4Wkgor-weJU"
+    }
   },
   {
     "id": "338329",
@@ -141,7 +261,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4229103,
+      "longitude": 6.5520438,
+      "viewport": {
+        "northeast": {
+          "lat": 9.424369,
+          "lng": 6.5552131
+        },
+        "southwest": {
+          "lat": 9.4193689,
+          "lng": 6.549379999999999
+        }
+      },
+      "formatted_address": "920103, Butu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4229103,6.5520438",
+      "google_place_id": "ChIJNzZKaccNTBARZ2UFqeXKcIw"
+    }
   },
   {
     "id": "338330",
@@ -157,7 +294,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 13.5250367,
+      "longitude": 2.0895933,
+      "viewport": {
+        "northeast": {
+          "lat": 13.52629657989272,
+          "lng": 2.090939829892723
+        },
+        "southwest": {
+          "lat": 13.52359692010728,
+          "lng": 2.088240170107278
+        }
+      },
+      "formatted_address": "Niamey, Niger",
+      "google_map_url": "https://maps.google.com?q=13.5250367,2.0895933",
+      "google_place_id": "ChIJjdJcvo110BERnZb_0n956OA"
+    }
   },
   {
     "id": "338331",
@@ -173,7 +327,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.472182,
+      "longitude": 6.521317,
+      "viewport": {
+        "northeast": {
+          "lat": 9.473531829892721,
+          "lng": 6.522666829892722
+        },
+        "southwest": {
+          "lat": 9.470832170107277,
+          "lng": 6.519967170107278
+        }
+      },
+      "formatted_address": "6FX8FGCC+VGG SURUYI JEDNA TUTUNGO, Guto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.472182,6.521317",
+      "google_place_id": "ChIJLaRG174NTBARV7zFXKjDSq8"
+    }
   },
   {
     "id": "338332",
@@ -189,7 +360,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.363864999999999,
+      "longitude": 6.594817,
+      "viewport": {
+        "northeast": {
+          "lat": 9.36467002989272,
+          "lng": 6.596802729892723
+        },
+        "southwest": {
+          "lat": 9.361970370107276,
+          "lng": 6.594103070107279
+        }
+      },
+      "formatted_address": "6FX89H7V+GWW GIRGODNA TUTUNGO, Gabada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.363864999999999,6.594817",
+      "google_place_id": "ChIJ98CEGFMRTBARkvgWI3vt-z0"
+    }
   },
   {
     "id": "338333",
@@ -205,7 +393,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5847372,
+      "longitude": 6.54608,
+      "viewport": {
+        "northeast": {
+          "lat": 9.58609162989272,
+          "lng": 6.547436029892722
+        },
+        "southwest": {
+          "lat": 9.583391970107277,
+          "lng": 6.544736370107278
+        }
+      },
+      "formatted_address": "HGMW+WC6, 142 Bawa Paiko Rd, 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5847372,6.54608",
+      "google_place_id": "ChIJH6tcB_JyTBAR5vVy0B2AFqA"
+    }
   },
   {
     "id": "338334",
@@ -221,7 +426,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338335",
@@ -237,7 +443,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3492,
+      "longitude": 6.5122,
+      "viewport": {
+        "northeast": {
+          "lat": 9.350549829892723,
+          "lng": 6.513549829892724
+        },
+        "southwest": {
+          "lat": 9.347850170107279,
+          "lng": 6.51085017010728
+        }
+      },
+      "formatted_address": "8GX6+MVG, 920103, Fiche, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3492,6.5122",
+      "google_place_id": "ChIJo0kRrSEPTBAROFqE8jXQV7I"
+    }
   },
   {
     "id": "338336",
@@ -253,7 +476,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.341286,
+      "longitude": 6.590354,
+      "viewport": {
+        "northeast": {
+          "lat": 9.342685529892721,
+          "lng": 6.591720129892721
+        },
+        "southwest": {
+          "lat": 9.339985870107277,
+          "lng": 6.589020470107277
+        }
+      },
+      "formatted_address": "6FX88HRR+G49 JITTA TUTUNGO, Gabada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.341286,6.590354",
+      "google_place_id": "ChIJQ014_W4RTBARPLhu_yaBPzA"
+    }
   },
   {
     "id": "338337",
@@ -269,7 +509,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338338",
@@ -285,7 +526,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
   },
   {
     "id": "338339",
@@ -301,7 +559,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.489333,
+      "longitude": 6.629623,
+      "viewport": {
+        "northeast": {
+          "lat": 9.492147,
+          "lng": 6.630306079892721
+        },
+        "southwest": {
+          "lat": 9.488395000000004,
+          "lng": 6.627606420107277
+        }
+      },
+      "formatted_address": "6FX8FJQH+PRQ Tungan maku, Bali, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.489333,6.629623",
+      "google_place_id": "ChIJ28jsA75tTBARI53ptNtCV9M"
+    }
   },
   {
     "id": "338340",
@@ -317,7 +592,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.473122,
+      "longitude": 6.570996999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.474545629892722,
+          "lng": 6.572707879892722
+        },
+        "southwest": {
+          "lat": 9.471845970107278,
+          "lng": 6.570008220107278
+        }
+      },
+      "formatted_address": "6FX8FHFC+69X DOWA JEDNA TUTUNGO, 920103, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.473122,6.570996999999999",
+      "google_place_id": "ChIJUX94kgkNTBAR3s-GDoq47C8"
+    }
   },
   {
     "id": "338341",
@@ -333,7 +625,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5918055,
+      "longitude": 6.554353499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.593243179892722,
+          "lng": 6.555792979892722
+        },
+        "southwest": {
+          "lat": 9.590543520107278,
+          "lng": 6.553093320107278
+        }
+      },
+      "formatted_address": "HHR3+PP3, new Tunga primary school Tunga, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5918055,6.554353499999999",
+      "google_place_id": "ChIJq6qqqpVxTBARQxeOBG6CcJo"
+    }
   },
   {
     "id": "338342",
@@ -349,7 +658,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5308801,
+      "longitude": 6.5765063,
+      "viewport": {
+        "northeast": {
+          "lat": 9.53232372989272,
+          "lng": 6.577796529892721
+        },
+        "southwest": {
+          "lat": 9.529624070107277,
+          "lng": 6.575096870107277
+        }
+      },
+      "formatted_address": "6FX8GHJG+9H2 KORPKPA TUTUGO, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5308801,6.5765063",
+      "google_place_id": "ChIJk58aBWVzTBARFw8mIVGOvuo"
+    }
   },
   {
     "id": "338343",
@@ -365,7 +691,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.374909299999999,
+      "longitude": 6.508309199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.3774241,
+          "lng": 6.5102131
+        },
+        "southwest": {
+          "lat": 9.370201999999999,
+          "lng": 6.505491000000001
+        }
+      },
+      "formatted_address": "Zaje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.374909299999999,6.508309199999999",
+      "google_place_id": "ChIJw-A5XMcOTBARAs2DTAMtyPs"
+    }
   },
   {
     "id": "338344",
@@ -381,7 +724,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.644313799999999,
+      "longitude": 6.524368,
+      "viewport": {
+        "northeast": {
+          "lat": 9.645679829892721,
+          "lng": 6.525765079892722
+        },
+        "southwest": {
+          "lat": 9.642980170107277,
+          "lng": 6.523065420107278
+        }
+      },
+      "formatted_address": "London St, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.644313799999999,6.524368",
+      "google_place_id": "ChIJSeZIIZJwTBAR4CT9W2Ok-T0"
+    }
   },
   {
     "id": "338345",
@@ -397,7 +757,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338346",
@@ -413,7 +774,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
   },
   {
     "id": "338347",
@@ -429,7 +807,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3512157,
+      "longitude": 6.577337699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.353258,
+          "lng": 6.581046
+        },
+        "southwest": {
+          "lat": 9.3499301,
+          "lng": 6.575491
+        }
+      },
+      "formatted_address": "920103, Gudna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3512157,6.577337699999999",
+      "google_place_id": "ChIJz-_opyoOTBARXR3qJx6MzxI"
+    }
   },
   {
     "id": "338348",
@@ -445,7 +840,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.423528,
+      "longitude": 6.512737,
+      "viewport": {
+        "northeast": {
+          "lat": 9.424877829892722,
+          "lng": 6.514086829892722
+        },
+        "southwest": {
+          "lat": 9.422178170107278,
+          "lng": 6.511387170107279
+        }
+      },
+      "formatted_address": "6FX8CGF7+C39 GBAITA PRIMARY JEDNA, 920103, Butu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.423528,6.512737",
+      "google_place_id": "ChIJRylF4SsNTBARAU-DYBpQdxo"
+    }
   },
   {
     "id": "338349",
@@ -461,6 +873,23 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.290883200000001,
+      "longitude": 6.5857268,
+      "viewport": {
+        "northeast": {
+          "lat": 9.292239779892723,
+          "lng": 6.587120479892722
+        },
+        "southwest": {
+          "lat": 9.28954012010728,
+          "lng": 6.584420820107278
+        }
+      },
+      "formatted_address": "7HRP+975, Lapai-Paiko Road, 920103, Takumpara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.290883200000001,6.5857268",
+      "google_place_id": "ChIJKQP9hLkbTBARunW0PJwwPOw"
+    }
   }
 ]

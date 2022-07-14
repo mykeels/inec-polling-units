@@ -13,7 +13,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336020",
@@ -29,7 +30,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336021",
@@ -45,7 +47,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336022",
@@ -61,7 +64,24 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1479615,
+      "longitude": 5.590940799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1506449,
+          "lng": 5.592665999999999
+        },
+        "southwest": {
+          "lat": 9.146179,
+          "lng": 5.5891399
+        }
+      },
+      "formatted_address": "913102, Gogata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1479615,5.590940799999999",
+      "google_place_id": "ChIJoeWNoScoShARNQGdofEI-_Y"
+    }
   },
   {
     "id": "336023",
@@ -77,7 +97,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336024",
@@ -93,7 +114,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336025",
@@ -109,7 +131,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336026",
@@ -125,6 +148,7 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

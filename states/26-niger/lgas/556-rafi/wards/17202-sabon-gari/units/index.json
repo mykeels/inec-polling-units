@@ -13,7 +13,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338485",
@@ -29,7 +30,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1876746,
+      "longitude": 6.2548534,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18895942989272,
+          "lng": 6.256380729892721
+        },
+        "southwest": {
+          "lat": 10.18625977010728,
+          "lng": 6.253681070107277
+        }
+      },
+      "formatted_address": "L2, Kagara/Kaduna Road, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1876746,6.2548534",
+      "google_place_id": "ChIJef1v9CRnSxAREmZ2ACqABfg"
+    }
   },
   {
     "id": "338486",
@@ -45,7 +63,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1857143,
+      "longitude": 6.254747,
+      "viewport": {
+        "northeast": {
+          "lat": 10.18710572989272,
+          "lng": 6.255987329892723
+        },
+        "southwest": {
+          "lat": 10.18440607010728,
+          "lng": 6.253287670107279
+        }
+      },
+      "formatted_address": "Gidan Sarkin Kofar Fada's Palace, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1857143,6.254747",
+      "google_place_id": "ChIJp2g-4_dnSxAR9kt_JbySraI"
+    }
   },
   {
     "id": "338487",
@@ -61,7 +96,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.1656666,
+      "longitude": 6.6602966,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16702372989272,
+          "lng": 6.661705079892721
+        },
+        "southwest": {
+          "lat": 12.16432407010728,
+          "lng": 6.659005420107277
+        }
+      },
+      "formatted_address": "Kanwuri Rd, 632101, Gusau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1656666,6.6602966",
+      "google_place_id": "ChIJJW9STUxbsRER6DcjF5nYOcM"
+    }
   },
   {
     "id": "338488",
@@ -77,7 +129,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1034638,
+      "longitude": 7.7185215,
+      "viewport": {
+        "northeast": {
+          "lat": 11.10481362989272,
+          "lng": 7.719871329892723
+        },
+        "southwest": {
+          "lat": 11.10211397010728,
+          "lng": 7.717171670107279
+        }
+      },
+      "formatted_address": "1 Manchester Rd, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1034638,7.7185215",
+      "google_place_id": "ChIJo58KSMmDshER0o71xrr331c"
+    }
   },
   {
     "id": "338489",
@@ -93,7 +162,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0152549,
+      "longitude": 8.537201999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01654282989272,
+          "lng": 8.53855417989272
+        },
+        "southwest": {
+          "lat": 12.01384317010728,
+          "lng": 8.535854520107277
+        }
+      },
+      "formatted_address": "Gidan Niger, 31 Niger Rd, Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0152549,8.537201999999999",
+      "google_place_id": "ChIJ-1BwYyOBrhERnMSIklPf1IQ"
+    }
   },
   {
     "id": "338490",
@@ -109,7 +195,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0156886,
+      "longitude": 8.5335974,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01709162989272,
+          "lng": 8.534946079892723
+        },
+        "southwest": {
+          "lat": 12.01439197010728,
+          "lng": 8.53224642010728
+        }
+      },
+      "formatted_address": "NEAR POLICE, Jakara Road, Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0156886,8.5335974",
+      "google_place_id": "ChIJQ0jnpUCBrhER-CGAKMyP2JA"
+    }
   },
   {
     "id": "338491",
@@ -125,7 +228,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 13.4,
+      "longitude": 7.566667,
+      "viewport": {
+        "northeast": {
+          "lat": 13.410854,
+          "lng": 7.582674399999999
+        },
+        "southwest": {
+          "lat": 13.3891455,
+          "lng": 7.5506596
+        }
+      },
+      "formatted_address": "Gidan Karma, Niger",
+      "google_map_url": "https://maps.google.com?q=13.4,7.566667",
+      "google_place_id": "ChIJUdyiarMJsBER2crKddVrvzM"
+    }
   },
   {
     "id": "338492",
@@ -141,7 +261,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.1656666,
+      "longitude": 6.6602966,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16702372989272,
+          "lng": 6.661705079892721
+        },
+        "southwest": {
+          "lat": 12.16432407010728,
+          "lng": 6.659005420107277
+        }
+      },
+      "formatted_address": "Kanwuri Rd, 632101, Gusau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1656666,6.6602966",
+      "google_place_id": "ChIJJW9STUxbsRER6DcjF5nYOcM"
+    }
   },
   {
     "id": "338493",
@@ -157,7 +294,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2266659,
+      "longitude": 6.401272899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.22801572989273,
+          "lng": 6.402622729892722
+        },
+        "southwest": {
+          "lat": 10.22531607010728,
+          "lng": 6.399923070107278
+        }
+      },
+      "formatted_address": "7F286CG2+MFH Farar Kasa Sabon Gari rafi Niger, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2266659,6.401272899999999",
+      "google_place_id": "ChIJqYJ7pdVfSxAREL0zxSPzUgU"
+    }
   },
   {
     "id": "338494",
@@ -173,7 +327,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.1916036,
+      "longitude": 6.2579221,
+      "viewport": {
+        "northeast": {
+          "lat": 10.19317942989272,
+          "lng": 6.258807629892722
+        },
+        "southwest": {
+          "lat": 10.19047977010728,
+          "lng": 6.256107970107278
+        }
+      },
+      "formatted_address": "57R5+J5V, Kaduna-Birnin Gwari-Kagara Road, 922103, Kagara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1916036,6.2579221",
+      "google_place_id": "ChIJNXbeJjpnSxARNmj7FlM7QIg"
+    }
   },
   {
     "id": "338495",
@@ -189,7 +360,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1765614,
+      "longitude": 7.6765157,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2669019,
+          "lng": 7.7824811
+        },
+        "southwest": {
+          "lat": 11.084595,
+          "lng": 7.5708845
+        }
+      },
+      "formatted_address": "Sabon Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1765614,7.6765157",
+      "google_place_id": "ChIJ5eXh4r-GshER9WA7OPiYic0"
+    }
   },
   {
     "id": "338496",
@@ -205,7 +393,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2417394,
+      "longitude": 6.2994984,
+      "viewport": {
+        "northeast": {
+          "lat": 10.24308922989272,
+          "lng": 6.300848229892722
+        },
+        "southwest": {
+          "lat": 10.24038957010728,
+          "lng": 6.298148570107278
+        }
+      },
+      "formatted_address": "7F2867RX+MQW Unguwan sarkin fulani, Sabon Gari 922103, Gidan Karauku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2417394,6.2994984",
+      "google_place_id": "ChIJPYsi4YRdSxARi94o2bmwBEo"
+    }
   },
   {
     "id": "338497",
@@ -221,7 +426,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0264044,
+      "longitude": 8.530985,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02782272989272,
+          "lng": 8.532336479892722
+        },
+        "southwest": {
+          "lat": 12.02512307010728,
+          "lng": 8.529636820107278
+        }
+      },
+      "formatted_address": "Sarkin Yaki Rd, Sabon Gari 700271, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0264044,8.530985",
+      "google_place_id": "ChIJjR8l_GGBrhERSoNK_14tr4M"
+    }
   },
   {
     "id": "338498",
@@ -237,7 +459,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338499",
@@ -253,7 +476,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338500",
@@ -269,7 +493,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.5785803,
+      "longitude": 6.5745395,
+      "viewport": {
+        "northeast": {
+          "lat": 12.57995542989272,
+          "lng": 6.575764179892722
+        },
+        "southwest": {
+          "lat": 12.57725577010728,
+          "lng": 6.573064520107279
+        }
+      },
+      "formatted_address": "HHHF+CRM, 631101, Kaura Namoda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5785803,6.5745395",
+      "google_place_id": "ChIJtbha9IYvsRERu4tSWpOuxpg"
+    }
   },
   {
     "id": "338501",
@@ -285,7 +526,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338502",
@@ -301,7 +543,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0145948,
+      "longitude": 8.5296189,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01594497989272,
+          "lng": 8.530916429892718
+        },
+        "southwest": {
+          "lat": 12.01324532010728,
+          "lng": 8.528216770107274
+        }
+      },
+      "formatted_address": "2G7H+RVM, France Road, Sabon Gari 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0145948,8.5296189",
+      "google_place_id": "ChIJv2g5wSCBrhERn8I6jnGi9zI"
+    }
   },
   {
     "id": "338503",
@@ -317,7 +576,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1225113,
+      "longitude": 7.7332556,
+      "viewport": {
+        "northeast": {
+          "lat": 11.12371532989272,
+          "lng": 7.734649629892722
+        },
+        "southwest": {
+          "lat": 11.12101567010728,
+          "lng": 7.731949970107278
+        }
+      },
+      "formatted_address": "4PFM+27H, Sabon Gari 810103, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1225113,7.7332556",
+      "google_place_id": "ChIJIfdy47CDshERni4p1Hv5mv8"
+    }
   },
   {
     "id": "338504",
@@ -333,7 +609,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 12.0152549,
+      "longitude": 8.537201999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01654282989272,
+          "lng": 8.53855417989272
+        },
+        "southwest": {
+          "lat": 12.01384317010728,
+          "lng": 8.535854520107277
+        }
+      },
+      "formatted_address": "7a, Niger Rd, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0152549,8.537201999999999",
+      "google_place_id": "ChIJj-9kYyOBrhERJMnPm0CGvkA"
+    }
   },
   {
     "id": "338505",
@@ -349,7 +642,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338506",
@@ -365,7 +659,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1231453,
+      "longitude": 7.732164800000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.1276918,
+          "lng": 7.7374971
+        },
+        "southwest": {
+          "lat": 11.1183015,
+          "lng": 7.7280879
+        }
+      },
+      "formatted_address": "Sabon Gari, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1231453,7.732164800000001",
+      "google_place_id": "ChIJU3xl6LCDshERAOxxz-ZO5rU"
+    }
   },
   {
     "id": "338507",
@@ -381,7 +692,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.722051,
+      "longitude": 6.1112886,
+      "viewport": {
+        "northeast": {
+          "lat": 9.72350047989272,
+          "lng": 6.112644829892721
+        },
+        "southwest": {
+          "lat": 9.720800820107277,
+          "lng": 6.109945170107277
+        }
+      },
+      "formatted_address": "R 10, Minna-Bida Rd, Wushishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.722051,6.1112886",
+      "google_place_id": "ChIJaWYxdg2ZSxARjdHE_UgE_Mo"
+    }
   },
   {
     "id": "338508",
@@ -397,7 +725,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338509",
@@ -413,7 +742,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338510",
@@ -429,7 +759,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.0885927,
+      "longitude": 7.7046746,
+      "viewport": {
+        "northeast": {
+          "lat": 11.08994252989272,
+          "lng": 7.706024429892722
+        },
+        "southwest": {
+          "lat": 11.08724287010728,
+          "lng": 7.703324770107278
+        }
+      },
+      "formatted_address": "No. 4 Madarkachi Road, Gaskiya Rd, Layout, Zaria, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.0885927,7.7046746",
+      "google_place_id": "ChIJgzTTIGeDshERbiS1xBNI6aY"
+    }
   },
   {
     "id": "338511",
@@ -445,6 +792,23 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 11.1173874,
+      "longitude": 7.7375963,
+      "viewport": {
+        "northeast": {
+          "lat": 11.124151,
+          "lng": 7.74368
+        },
+        "southwest": {
+          "lat": 11.110803,
+          "lng": 7.729982
+        }
+      },
+      "formatted_address": "810103, Sabon Gari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1173874,7.7375963",
+      "google_place_id": "ChIJTbGU562DshERWGC52WvKv1I"
+    }
   }
 ]

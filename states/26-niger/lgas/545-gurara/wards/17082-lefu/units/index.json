@@ -13,7 +13,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2918956,
+      "longitude": 6.781523699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.3449153,
+          "lng": 6.814250599999999
+        },
+        "southwest": {
+          "lat": 9.155335299999999,
+          "lng": 6.7436465
+        }
+      },
+      "formatted_address": "Lefu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2918956,6.781523699999999",
+      "google_place_id": "ChIJe4Wj_VoiTBARn-lgzchFyHw"
+    }
   },
   {
     "id": "336356",
@@ -29,7 +46,8 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336357",
@@ -45,7 +63,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.296868,
+      "longitude": 6.780520999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.298285379892723,
+          "lng": 6.781411829892721
+        },
+        "southwest": {
+          "lat": 9.29558572010728,
+          "lng": 6.778712170107277
+        }
+      },
+      "formatted_address": "6FX87QWJ+P6R, 911101, Jariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.296868,6.780520999999999",
+      "google_place_id": "ChIJDVBXLR4jTBARRYQFOO7bKhQ"
+    }
   },
   {
     "id": "336358",
@@ -61,7 +96,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3131801,
+      "longitude": 6.7541728,
+      "viewport": {
+        "northeast": {
+          "lat": 9.314532579892722,
+          "lng": 6.755513229892721
+        },
+        "southwest": {
+          "lat": 9.311832920107278,
+          "lng": 6.752813570107278
+        }
+      },
+      "formatted_address": "8Q73+7MF, 911101, Jariga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3131801,6.7541728",
+      "google_place_id": "ChIJg6vpN1c9TBARyz5CpNye5Pg"
+    }
   },
   {
     "id": "336359",
@@ -77,7 +129,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.264045,
+      "longitude": 6.997616000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.265387929892723,
+          "lng": 6.998943929892723
+        },
+        "southwest": {
+          "lat": 9.26268827010728,
+          "lng": 6.996244270107279
+        }
+      },
+      "formatted_address": "6FX87X7X+J29, PALIABATA, 905102, Izom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.264045,6.997616000000001",
+      "google_place_id": "ChIJrdkv0hwvTBARuP_JY2yRlP0"
+    }
   },
   {
     "id": "336360",
@@ -93,7 +162,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.129607,
+      "longitude": 7.0620311,
+      "viewport": {
+        "northeast": {
+          "lat": 9.13108442989272,
+          "lng": 7.063447729892722
+        },
+        "southwest": {
+          "lat": 9.128384770107276,
+          "lng": 7.060748070107278
+        }
+      },
+      "formatted_address": "43H6+VR2, 902101, Gurfata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.129607,7.0620311",
+      "google_place_id": "ChIJkUu2aq4rTBARDDFEGlbXiVI"
+    }
   },
   {
     "id": "336361",
@@ -109,7 +195,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3586905,
+      "longitude": 7.193799100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.360042429892722,
+          "lng": 7.195169179892723
+        },
+        "southwest": {
+          "lat": 9.357342770107278,
+          "lng": 7.192469520107279
+        }
+      },
+      "formatted_address": "955V+FGC, 910102, Chimbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3586905,7.193799100000001",
+      "google_place_id": "ChIJN5OUXZbOTRARunUblsLU708"
+    }
   },
   {
     "id": "336362",
@@ -125,7 +228,8 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336363",
@@ -141,7 +245,24 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5918055,
+      "longitude": 6.554353499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.593243179892722,
+          "lng": 6.555792979892722
+        },
+        "southwest": {
+          "lat": 9.590543520107278,
+          "lng": 6.553093320107278
+        }
+      },
+      "formatted_address": "HHR3+PP3, new Tunga primary school Tunga, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5918055,6.554353499999999",
+      "google_place_id": "ChIJq6qqqpVxTBARQxeOBG6CcJo"
+    }
   },
   {
     "id": "336364",
@@ -157,6 +278,23 @@
     "local_government_id": "545",
     "local_government_name": "GURARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3586905,
+      "longitude": 7.193799100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.360042429892722,
+          "lng": 7.195169179892723
+        },
+        "southwest": {
+          "lat": 9.357342770107278,
+          "lng": 7.192469520107279
+        }
+      },
+      "formatted_address": "955V+FGC, 910102, Chimbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3586905,7.193799100000001",
+      "google_place_id": "ChIJN5OUXZbOTRARunUblsLU708"
+    }
   }
 ]

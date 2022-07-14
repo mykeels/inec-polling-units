@@ -13,7 +13,8 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339462",
@@ -29,7 +30,8 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339463",
@@ -45,7 +47,24 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.7052578,
+      "longitude": 6.115339199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.706607629892723,
+          "lng": 6.116689029892721
+        },
+        "southwest": {
+          "lat": 9.703907970107279,
+          "lng": 6.113989370107277
+        }
+      },
+      "formatted_address": "L1 Madaki Road, 922107, Wushishi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.7052578,6.115339199999999",
+      "google_place_id": "ChIJo83ZbzWZSxAR3GqguxyjjaE"
+    }
   },
   {
     "id": "339464",
@@ -61,7 +80,8 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339465",
@@ -77,7 +97,8 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339466",
@@ -93,7 +114,24 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5352979,
+      "longitude": 6.4680458,
+      "viewport": {
+        "northeast": {
+          "lat": 9.536637229892722,
+          "lng": 6.469440479892722
+        },
+        "southwest": {
+          "lat": 9.533937570107279,
+          "lng": 6.466740820107278
+        }
+      },
+      "formatted_address": "GFP9+467, 920102, Niger",
+      "google_map_url": "https://maps.google.com?q=9.5352979,6.4680458",
+      "google_place_id": "ChIJdZQ9J1x0TBARwPyOH5Ny64w"
+    }
   },
   {
     "id": "339467",
@@ -109,7 +147,8 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339468",
@@ -125,7 +164,8 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339469",
@@ -141,6 +181,7 @@
     "local_government_id": "561",
     "local_government_name": "WUSHISHI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4111066,
+      "longitude": 5.6457951,
+      "viewport": {
+        "northeast": {
+          "lat": 9.412162979892722,
+          "lng": 5.647592679892721
+        },
+        "southwest": {
+          "lat": 9.409463320107278,
+          "lng": 5.644893020107277
+        }
+      },
+      "formatted_address": "Along Mokwa - Ilorin Road, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4111066,5.6457951",
+      "google_place_id": "ChIJPeoSZ6w1ShARlADChK0FIJo"
+    }
   },
   {
     "id": "337024",
@@ -29,7 +46,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4666351,
+      "longitude": 5.434870699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.469369,
+          "lng": 5.445213
+        },
+        "southwest": {
+          "lat": 9.4610349,
+          "lng": 5.432713000000001
+        }
+      },
+      "formatted_address": "913101, Charati, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4666351,5.434870699999999",
+      "google_place_id": "ChIJYQJulgI_ShAReAGXm_p6tQA"
+    }
   },
   {
     "id": "337025",
@@ -45,7 +79,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.283983400000002,
+      "longitude": 5.5162245,
+      "viewport": {
+        "northeast": {
+          "lat": 9.285333229892723,
+          "lng": 5.517574329892722
+        },
+        "southwest": {
+          "lat": 9.28263357010728,
+          "lng": 5.514874670107278
+        }
+      },
+      "formatted_address": "7GM8+HFX, 913101, Nabogi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.283983400000002,5.5162245",
+      "google_place_id": "ChIJOwBn7_4kShARmpbOVQG_dFQ"
+    }
   },
   {
     "id": "337026",
@@ -61,7 +112,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4246992,
+      "longitude": 5.412036200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.425996379892721,
+          "lng": 5.413368779892722
+        },
+        "southwest": {
+          "lat": 9.423296720107277,
+          "lng": 5.410669120107278
+        }
+      },
+      "formatted_address": "913101, Yeti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4246992,5.412036200000001",
+      "google_place_id": "ChIJIYncng0-ShAR_ZXFLxBQWaA"
+    }
   },
   {
     "id": "337027",
@@ -77,7 +145,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2354749,
+      "longitude": 5.5078822,
+      "viewport": {
+        "northeast": {
+          "lat": 9.236824729892723,
+          "lng": 5.509232029892723
+        },
+        "southwest": {
+          "lat": 9.234125070107279,
+          "lng": 5.506532370107279
+        }
+      },
+      "formatted_address": "6FX76GP5+55W Gbakota Dassu, Nabogi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2354749,5.5078822",
+      "google_place_id": "ChIJVXG9diQnShARgOl5sYIB1Hc"
+    }
   },
   {
     "id": "337028",
@@ -93,7 +178,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337029",
@@ -109,7 +195,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.330069900000002,
+      "longitude": 5.573832899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.331406829892721,
+          "lng": 5.575160929892721
+        },
+        "southwest": {
+          "lat": 9.328707170107277,
+          "lng": 5.572461270107278
+        }
+      },
+      "formatted_address": "8HJF+2GG, 913101, Jakudosu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.330069900000002,5.573832899999999",
+      "google_place_id": "ChIJh77HaBswShARJpCYWiHCCFY"
+    }
   },
   {
     "id": "337030",
@@ -125,7 +228,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3378294,
+      "longitude": 5.5652678,
+      "viewport": {
+        "northeast": {
+          "lat": 9.339161879892721,
+          "lng": 5.566611579892721
+        },
+        "southwest": {
+          "lat": 9.336462220107277,
+          "lng": 5.563911920107278
+        }
+      },
+      "formatted_address": "8HQ8+44J, 913101, Jakudosu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3378294,5.5652678",
+      "google_place_id": "ChIJJ3vqHQkwShARYSbPqcu8nqw"
+    }
   },
   {
     "id": "337031",
@@ -141,7 +261,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3470674,
+      "longitude": 5.4987565,
+      "viewport": {
+        "northeast": {
+          "lat": 9.5272201,
+          "lng": 5.643769199999999
+        },
+        "southwest": {
+          "lat": 9.2335956,
+          "lng": 5.3837689
+        }
+      },
+      "formatted_address": "Dassun, 913101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3470674,5.4987565",
+      "google_place_id": "ChIJXUS85LE7ShARrQr6le06pI0"
+    }
   },
   {
     "id": "337032",
@@ -157,7 +294,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.327116499999999,
+      "longitude": 5.473067599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.328446679892723,
+          "lng": 5.474418679892721
+        },
+        "southwest": {
+          "lat": 9.32574702010728,
+          "lng": 5.471719020107277
+        }
+      },
+      "formatted_address": "8FGF+R6W, 913101, Muchiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.327116499999999,5.473067599999999",
+      "google_place_id": "ChIJoY7eZas8ShARmfQRJ72YPXI"
+    }
   },
   {
     "id": "337033",
@@ -173,7 +327,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.358898,
+      "longitude": 5.507272,
+      "viewport": {
+        "northeast": {
+          "lat": 9.360244529892721,
+          "lng": 5.508511129892721
+        },
+        "southwest": {
+          "lat": 9.357544870107278,
+          "lng": 5.505811470107277
+        }
+      },
+      "formatted_address": "6FX79G54+HW2 Gbatamangi Dassu, Batamegi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.358898,5.507272",
+      "google_place_id": "ChIJlwg5bgQ7ShARCOKxPa8X5TM"
+    }
   },
   {
     "id": "337034",
@@ -189,7 +360,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3152741,
+      "longitude": 5.5025518,
+      "viewport": {
+        "northeast": {
+          "lat": 9.316623929892723,
+          "lng": 5.503901629892723
+        },
+        "southwest": {
+          "lat": 9.313924270107279,
+          "lng": 5.501201970107278
+        }
+      },
+      "formatted_address": "8G83+423, 913101, Muchiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3152741,5.5025518",
+      "google_place_id": "ChIJUb3Q6sgkShARq3CHCDQ6e7g"
+    }
   },
   {
     "id": "337035",
@@ -205,7 +393,24 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.4113505,
+      "longitude": 5.5207232,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4157581,
+          "lng": 5.523824100000001
+        },
+        "southwest": {
+          "lat": 9.408097999999999,
+          "lng": 5.5187519
+        }
+      },
+      "formatted_address": "913101, Kupe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.4113505,5.5207232",
+      "google_place_id": "ChIJpZxBlCo6ShARb4VnK0MY5VM"
+    }
   },
   {
     "id": "337036",
@@ -221,7 +426,8 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337037",
@@ -237,6 +443,7 @@
     "local_government_id": "549",
     "local_government_name": "LAVUN",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

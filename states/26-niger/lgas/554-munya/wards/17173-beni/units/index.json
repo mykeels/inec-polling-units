@@ -13,7 +13,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6375373,
+      "longitude": 7.2043281,
+      "viewport": {
+        "northeast": {
+          "lat": 9.638916329892721,
+          "lng": 7.205650429892722
+        },
+        "southwest": {
+          "lat": 9.636216670107277,
+          "lng": 7.202950770107278
+        }
+      },
+      "formatted_address": "920104, Beni, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6375373,7.2043281",
+      "google_place_id": "ChIJWbmryNyxTRARxFdUnKhEoq4"
+    }
   },
   {
     "id": "338001",
@@ -29,7 +46,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338002",
@@ -45,7 +63,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338003",
@@ -61,7 +80,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338004",
@@ -77,6 +97,7 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6425112,
+      "longitude": 6.527787699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.643909129892723,
+          "lng": 6.529196079892722
+        },
+        "southwest": {
+          "lat": 9.64120947010728,
+          "lng": 6.526496420107278
+        }
+      },
+      "formatted_address": "JGRH+X4R, Okada Road, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6425112,6.527787699999999",
+      "google_place_id": "ChIJs0xoU4xwTBARHh3z0yJi1GI"
+    }
   },
   {
     "id": "335425",
@@ -29,7 +46,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5576551,
+      "longitude": 6.5711157,
+      "viewport": {
+        "northeast": {
+          "lat": 9.559084229892722,
+          "lng": 6.572585429892722
+        },
+        "southwest": {
+          "lat": 9.556384570107278,
+          "lng": 6.569885770107279
+        }
+      },
+      "formatted_address": "HH5C+3C9, 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5576551,6.5711157",
+      "google_place_id": "ChIJUToe5Q5yTBARi6UqbWElCmI"
+    }
   },
   {
     "id": "335426",
@@ -45,7 +79,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.560444,
+      "longitude": 6.512354999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.561791079892721,
+          "lng": 6.513705129892722
+        },
+        "southwest": {
+          "lat": 9.559091420107277,
+          "lng": 6.511005470107278
+        }
+      },
+      "formatted_address": "6FX8HG66+5WH, Birgi, 920102, Baganakwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.560444,6.512354999999999",
+      "google_place_id": "ChIJ439rviRzTBARm3JNlQ9IOis"
+    }
   },
   {
     "id": "335427",
@@ -61,7 +112,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.627829799999999,
+      "longitude": 6.5463641,
+      "viewport": {
+        "northeast": {
+          "lat": 9.629182579892722,
+          "lng": 6.547704379892721
+        },
+        "southwest": {
+          "lat": 9.626482920107279,
+          "lng": 6.545004720107277
+        }
+      },
+      "formatted_address": "Opp. Chanchaga Primary School, Bosso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.627829799999999,6.5463641",
+      "google_place_id": "ChIJ2Tol0eVxTBARmFV4QqFPjMY"
+    }
   },
   {
     "id": "335428",
@@ -77,7 +145,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.627829799999999,
+      "longitude": 6.5463641,
+      "viewport": {
+        "northeast": {
+          "lat": 9.629182579892722,
+          "lng": 6.547704379892721
+        },
+        "southwest": {
+          "lat": 9.626482920107279,
+          "lng": 6.545004720107277
+        }
+      },
+      "formatted_address": "Opp. Chanchaga Primary School, Bosso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.627829799999999,6.5463641",
+      "google_place_id": "ChIJ2Tol0eVxTBARmFV4QqFPjMY"
+    }
   },
   {
     "id": "335429",
@@ -93,7 +178,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6522186,
+      "longitude": 6.5260598,
+      "viewport": {
+        "northeast": {
+          "lat": 9.6592753,
+          "lng": 6.5338186
+        },
+        "southwest": {
+          "lat": 9.6467695,
+          "lng": 6.519348
+        }
+      },
+      "formatted_address": "Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6522186,6.5260598",
+      "google_place_id": "ChIJ1S-oKZtwTBARkamqWYdEiL8"
+    }
   },
   {
     "id": "335430",
@@ -109,7 +211,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335431",
@@ -125,7 +228,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335432",
@@ -141,7 +245,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.574043,
+      "longitude": 6.572462499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.575390579892721,
+          "lng": 6.573798929892721
+        },
+        "southwest": {
+          "lat": 9.572690920107277,
+          "lng": 6.571099270107277
+        }
+      },
+      "formatted_address": "6FX8HHFC+JX7, Shango, 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.574043,6.572462499999999",
+      "google_place_id": "ChIJ43yeS0dxTBARq28lfF8Fs-o"
+    }
   },
   {
     "id": "335433",
@@ -157,7 +278,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335434",
@@ -173,7 +295,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.627829799999999,
+      "longitude": 6.5463641,
+      "viewport": {
+        "northeast": {
+          "lat": 9.629182579892722,
+          "lng": 6.547704379892721
+        },
+        "southwest": {
+          "lat": 9.626482920107279,
+          "lng": 6.545004720107277
+        }
+      },
+      "formatted_address": "Opp. Chanchaga Primary School, Bosso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.627829799999999,6.5463641",
+      "google_place_id": "ChIJ2Tol0eVxTBARmFV4QqFPjMY"
+    }
   },
   {
     "id": "335435",
@@ -189,7 +328,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335436",
@@ -205,7 +345,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777138,
+      "longitude": 6.5311354,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67873112989272,
+          "lng": 6.532140029892722
+        },
+        "southwest": {
+          "lat": 9.676031470107276,
+          "lng": 6.529440370107278
+        }
+      },
+      "formatted_address": "MGHJ+3FJ, 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777138,6.5311354",
+      "google_place_id": "ChIJD-KfQFJ7TBARaOztvWiU5Q4"
+    }
   },
   {
     "id": "335437",
@@ -221,7 +378,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.627829799999999,
+      "longitude": 6.5463641,
+      "viewport": {
+        "northeast": {
+          "lat": 9.629182579892722,
+          "lng": 6.547704379892721
+        },
+        "southwest": {
+          "lat": 9.626482920107279,
+          "lng": 6.545004720107277
+        }
+      },
+      "formatted_address": "Opp. Chanchaga Primary School, Bosso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.627829799999999,6.5463641",
+      "google_place_id": "ChIJ2Tol0eVxTBARmFV4QqFPjMY"
+    }
   },
   {
     "id": "335438",
@@ -237,7 +411,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 6.4491081,
+      "longitude": 3.415365,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450455879892721,
+          "lng": 3.416557879892723
+        },
+        "southwest": {
+          "lat": 6.447756220107277,
+          "lng": 3.413858220107278
+        }
+      },
+      "formatted_address": "Awolowo Rd, Ikoyi 106104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4491081,3.415365",
+      "google_place_id": "ChIJxQ_XGuOLOxARDdHLiRstIi4"
+    }
   },
   {
     "id": "335439",
@@ -253,7 +444,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.076392799999999,
+      "longitude": 7.521865999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.077742779892722,
+          "lng": 7.523218479892721
+        },
+        "southwest": {
+          "lat": 9.075043120107278,
+          "lng": 7.520518820107277
+        }
+      },
+      "formatted_address": "900103, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.076392799999999,7.521865999999999",
+      "google_place_id": "ChIJdfoamngLThARvRrPc6ZM634"
+    }
   },
   {
     "id": "335440",
@@ -269,7 +477,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5774996,
+      "longitude": 6.569102,
+      "viewport": {
+        "northeast": {
+          "lat": 9.57883062989272,
+          "lng": 6.570413179892722
+        },
+        "southwest": {
+          "lat": 9.576130970107275,
+          "lng": 6.567713520107278
+        }
+      },
+      "formatted_address": "HHH9+2M2, 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5774996,6.569102",
+      "google_place_id": "ChIJwQyTivlxTBARgQD_pgLsWmo"
+    }
   },
   {
     "id": "335441",
@@ -285,7 +510,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5891636,
+      "longitude": 6.5528113,
+      "viewport": {
+        "northeast": {
+          "lat": 9.590583779892722,
+          "lng": 6.554240629892722
+        },
+        "southwest": {
+          "lat": 9.587884120107278,
+          "lng": 6.551540970107278
+        }
+      },
+      "formatted_address": "HHQ3+M47, Tungagoro Along FGC road Minna Niger State COE, Bosso, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5891636,6.5528113",
+      "google_place_id": "ChIJEbNj5QByTBAReLswr9ROJV0"
+    }
   },
   {
     "id": "335442",
@@ -301,7 +543,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335443",
@@ -317,7 +560,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 6.4491081,
+      "longitude": 3.415365,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450455879892721,
+          "lng": 3.416557879892723
+        },
+        "southwest": {
+          "lat": 6.447756220107277,
+          "lng": 3.413858220107278
+        }
+      },
+      "formatted_address": "Awolowo Rd, Ikoyi 106104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4491081,3.415365",
+      "google_place_id": "ChIJxQ_XGuOLOxARDdHLiRstIi4"
+    }
   },
   {
     "id": "335444",
@@ -333,7 +593,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 6.4491081,
+      "longitude": 3.415365,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450455879892721,
+          "lng": 3.416557879892723
+        },
+        "southwest": {
+          "lat": 6.447756220107277,
+          "lng": 3.413858220107278
+        }
+      },
+      "formatted_address": "Awolowo Rd, Ikoyi 106104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4491081,3.415365",
+      "google_place_id": "ChIJxQ_XGuOLOxARDdHLiRstIi4"
+    }
   },
   {
     "id": "335445",
@@ -349,7 +626,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6555003,
+      "longitude": 6.5287681,
+      "viewport": {
+        "northeast": {
+          "lat": 9.656861979892723,
+          "lng": 6.530155029892722
+        },
+        "southwest": {
+          "lat": 9.654162320107279,
+          "lng": 6.527455370107278
+        }
+      },
+      "formatted_address": "MG4H+5FX, Okada Road, Dutsen Kura Gwari 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6555003,6.5287681",
+      "google_place_id": "ChIJQ6AuNnZxTBARwK6i3NSpvHo"
+    }
   },
   {
     "id": "335446",
@@ -365,7 +659,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.656946999999999,
+      "longitude": 6.5286444,
+      "viewport": {
+        "northeast": {
+          "lat": 9.658180529892721,
+          "lng": 6.529877529892723
+        },
+        "southwest": {
+          "lat": 9.655480870107278,
+          "lng": 6.527177870107279
+        }
+      },
+      "formatted_address": "6FX8MG4H+QFC, Bosso ii, Bosso 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.656946999999999,6.5286444",
+      "google_place_id": "ChIJaTdBDAdxTBARE9kK2oO-hQ0"
+    }
   },
   {
     "id": "335447",
@@ -381,7 +692,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.656273599999999,
+      "longitude": 6.522448,
+      "viewport": {
+        "northeast": {
+          "lat": 9.657681179892721,
+          "lng": 6.523735279892723
+        },
+        "southwest": {
+          "lat": 9.654981520107278,
+          "lng": 6.521035620107279
+        }
+      },
+      "formatted_address": "MG4C+GX4, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.656273599999999,6.522448",
+      "google_place_id": "ChIJP7HbgJxwTBARNOwNB4o7yDA"
+    }
   },
   {
     "id": "335448",
@@ -397,7 +725,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6284644,
+      "longitude": 6.544478499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.629744329892722,
+          "lng": 6.545762729892722
+        },
+        "southwest": {
+          "lat": 9.627044670107278,
+          "lng": 6.543063070107278
+        }
+      },
+      "formatted_address": "JGHV+9QQ, Bosso Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6284644,6.544478499999999",
+      "google_place_id": "ChIJCfnIwFpwTBARYJb6mUolUWU"
+    }
   },
   {
     "id": "335449",
@@ -413,7 +758,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335450",
@@ -429,7 +775,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6509971,
+      "longitude": 6.530345899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.652324829892722,
+          "lng": 6.531674929892722
+        },
+        "southwest": {
+          "lat": 9.649625170107278,
+          "lng": 6.528975270107278
+        }
+      },
+      "formatted_address": "MG2J+94R, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6509971,6.530345899999999",
+      "google_place_id": "ChIJtxtU61hxTBARA0-nZ8zlcKQ"
+    }
   },
   {
     "id": "335451",
@@ -445,7 +808,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.635766499999999,
+      "longitude": 6.5428285,
+      "viewport": {
+        "northeast": {
+          "lat": 9.63712397989272,
+          "lng": 6.544200579892722
+        },
+        "southwest": {
+          "lat": 9.634424320107277,
+          "lng": 6.541500920107278
+        }
+      },
+      "formatted_address": "JGPV+844, Bosso Road, Minna 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.635766499999999,6.5428285",
+      "google_place_id": "ChIJ-e1eTlxwTBARM-tbYcodkMI"
+    }
   },
   {
     "id": "335452",
@@ -461,7 +841,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6509971,
+      "longitude": 6.530345899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.652324829892722,
+          "lng": 6.531674929892722
+        },
+        "southwest": {
+          "lat": 9.649625170107278,
+          "lng": 6.528975270107278
+        }
+      },
+      "formatted_address": "MG2J+94R, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6509971,6.530345899999999",
+      "google_place_id": "ChIJtxtU61hxTBARA0-nZ8zlcKQ"
+    }
   },
   {
     "id": "335453",
@@ -477,7 +874,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.582457,
+      "longitude": 6.565536,
+      "viewport": {
+        "northeast": {
+          "lat": 9.58338117989272,
+          "lng": 6.567038029892721
+        },
+        "southwest": {
+          "lat": 9.580681520107277,
+          "lng": 6.564338370107277
+        }
+      },
+      "formatted_address": "Chanchaga Local Govt Secreteriat Complex Niger, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.582457,6.565536",
+      "google_place_id": "ChIJE5XbF35xTBARKq-lsanNjYY"
+    }
   },
   {
     "id": "335454",
@@ -493,7 +907,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6777138,
+      "longitude": 6.5311354,
+      "viewport": {
+        "northeast": {
+          "lat": 9.67873112989272,
+          "lng": 6.532140029892722
+        },
+        "southwest": {
+          "lat": 9.676031470107276,
+          "lng": 6.529440370107278
+        }
+      },
+      "formatted_address": "MGHJ+3FJ, 920102, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6777138,6.5311354",
+      "google_place_id": "ChIJD-KfQFJ7TBARaOztvWiU5Q4"
+    }
   },
   {
     "id": "335455",
@@ -509,7 +940,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335456",
@@ -525,7 +957,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335457",
@@ -541,7 +974,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335458",
@@ -557,7 +991,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335459",
@@ -573,7 +1008,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335460",
@@ -589,7 +1025,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6509971,
+      "longitude": 6.530345899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.652324829892722,
+          "lng": 6.531674929892722
+        },
+        "southwest": {
+          "lat": 9.649625170107278,
+          "lng": 6.528975270107278
+        }
+      },
+      "formatted_address": "MG2J+94R, Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6509971,6.530345899999999",
+      "google_place_id": "ChIJtxtU61hxTBARA0-nZ8zlcKQ"
+    }
   },
   {
     "id": "335461",
@@ -605,7 +1058,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.627829799999999,
+      "longitude": 6.5463641,
+      "viewport": {
+        "northeast": {
+          "lat": 9.629182579892722,
+          "lng": 6.547704379892721
+        },
+        "southwest": {
+          "lat": 9.626482920107279,
+          "lng": 6.545004720107277
+        }
+      },
+      "formatted_address": "Opp. Chanchaga Primary School, Bosso, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.627829799999999,6.5463641",
+      "google_place_id": "ChIJ2Tol0eVxTBARmFV4QqFPjMY"
+    }
   },
   {
     "id": "335462",
@@ -621,7 +1091,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6063543,
+      "longitude": 6.5296099,
+      "viewport": {
+        "northeast": {
+          "lat": 9.607732579892721,
+          "lng": 6.531124979892722
+        },
+        "southwest": {
+          "lat": 9.605032920107277,
+          "lng": 6.528425320107277
+        }
+      },
+      "formatted_address": "Minna GSM Village, Kpakungu, 920211, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6063543,6.5296099",
+      "google_place_id": "ChIJARjpPpNxTBAR2dhiUXj_dpY"
+    }
   },
   {
     "id": "335463",
@@ -637,7 +1124,8 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335464",
@@ -653,7 +1141,24 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6522186,
+      "longitude": 6.5260598,
+      "viewport": {
+        "northeast": {
+          "lat": 9.6592753,
+          "lng": 6.5338186
+        },
+        "southwest": {
+          "lat": 9.6467695,
+          "lng": 6.519348
+        }
+      },
+      "formatted_address": "Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6522186,6.5260598",
+      "google_place_id": "ChIJ1S-oKZtwTBARkamqWYdEiL8"
+    }
   },
   {
     "id": "335465",
@@ -669,6 +1174,23 @@
     "local_government_id": "541",
     "local_government_name": "BOSSO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.6522186,
+      "longitude": 6.5260598,
+      "viewport": {
+        "northeast": {
+          "lat": 9.6592753,
+          "lng": 6.5338186
+        },
+        "southwest": {
+          "lat": 9.6467695,
+          "lng": 6.519348
+        }
+      },
+      "formatted_address": "Bosso 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6522186,6.5260598",
+      "google_place_id": "ChIJ1S-oKZtwTBARkamqWYdEiL8"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2170174,
+      "longitude": 6.18879,
+      "viewport": {
+        "northeast": {
+          "lat": 9.218348929892723,
+          "lng": 6.190166329892723
+        },
+        "southwest": {
+          "lat": 9.21564927010728,
+          "lng": 6.187466670107279
+        }
+      },
+      "formatted_address": "Emigoyi Primary School, 912103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2170174,6.18879",
+      "google_place_id": "ChIJmWkpioTjSxAR4GZAGUcAw4U"
+    }
   },
   {
     "id": "336190",
@@ -29,7 +46,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1619836,
+      "longitude": 6.112340100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.163219629892723,
+          "lng": 6.113720579892722
+        },
+        "southwest": {
+          "lat": 9.160519970107279,
+          "lng": 6.111020920107278
+        }
+      },
+      "formatted_address": "6FX85466+QW8 Koton Komu, Anfani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1619836,6.112340100000001",
+      "google_place_id": "ChIJ8xej3snhSxAR5nM9ulbabMk"
+    }
   },
   {
     "id": "336191",
@@ -45,7 +79,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1595705,
+      "longitude": 6.1517044,
+      "viewport": {
+        "northeast": {
+          "lat": 9.174923999999999,
+          "lng": 6.152991
+        },
+        "southwest": {
+          "lat": 9.1579801,
+          "lng": 6.149935
+        }
+      },
+      "formatted_address": "912103, Gbanginigi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1595705,6.1517044",
+      "google_place_id": "ChIJy6Wf7InhSxAR2yticic1ByQ"
+    }
   },
   {
     "id": "336192",
@@ -61,7 +112,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1514198,
+      "longitude": 6.1144341,
+      "viewport": {
+        "northeast": {
+          "lat": 9.152980099999999,
+          "lng": 6.115407829892722
+        },
+        "southwest": {
+          "lat": 9.1496459,
+          "lng": 6.112708170107278
+        }
+      },
+      "formatted_address": "912103, Gogata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1514198,6.1144341",
+      "google_place_id": "ChIJkTg7uc3hSxARycwctkZcvaQ"
+    }
   },
   {
     "id": "336193",
@@ -77,7 +145,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336194",
@@ -93,7 +162,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336195",
@@ -109,7 +179,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336196",
@@ -125,6 +196,23 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.152636000000001,
+      "longitude": 6.113586,
+      "viewport": {
+        "northeast": {
+          "lat": 9.154028929892723,
+          "lng": 6.114973779892722
+        },
+        "southwest": {
+          "lat": 9.15132927010728,
+          "lng": 6.112274120107278
+        }
+      },
+      "formatted_address": "6FX85437+3C4, 912103, Anfani, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.152636000000001,6.113586",
+      "google_place_id": "ChIJZZKLnjzhSxAR5XgAu7FYW6A"
+    }
   }
 ]

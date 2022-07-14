@@ -13,7 +13,8 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336813",
@@ -29,7 +30,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.059386,
+      "longitude": 6.714335999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.060769129892721,
+          "lng": 6.715779079892722
+        },
+        "southwest": {
+          "lat": 9.058069470107277,
+          "lng": 6.713079420107278
+        }
+      },
+      "formatted_address": "6FX83P57+QP4, Birninmaza Birninmaza, 911101, Tashibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.059386,6.714335999999999",
+      "google_place_id": "ChIJlQKxDi-hThARbbn2qzMxyhk"
+    }
   },
   {
     "id": "336814",
@@ -45,7 +63,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.002362,
+      "longitude": 6.634641999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.003654179892722,
+          "lng": 6.636143429892722
+        },
+        "southwest": {
+          "lat": 9.000954520107278,
+          "lng": 6.633443770107278
+        }
+      },
+      "formatted_address": "6FX82J2M+WVR, Dangana, 911101, Takalafiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.002362,6.634641999999999",
+      "google_place_id": "ChIJUT-kwN2lThAR6QN3hIoPSwY"
+    }
   },
   {
     "id": "336815",
@@ -61,7 +96,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.995500999999999,
+      "longitude": 6.717346,
+      "viewport": {
+        "northeast": {
+          "lat": 8.996723279892723,
+          "lng": 6.718647029892723
+        },
+        "southwest": {
+          "lat": 8.99402362010728,
+          "lng": 6.715947370107279
+        }
+      },
+      "formatted_address": "6FW8XPW8+6W5 Tashibo Birninmaza, Tashibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.995500999999999,6.717346",
+      "google_place_id": "ChIJQY8ybnijThARZRCuhL-J83s"
+    }
   },
   {
     "id": "336816",
@@ -77,7 +129,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.041519400000002,
+      "longitude": 6.5685305,
+      "viewport": {
+        "northeast": {
+          "lat": 9.042882679892724,
+          "lng": 6.569889629892722
+        },
+        "southwest": {
+          "lat": 9.04018302010728,
+          "lng": 6.567189970107278
+        }
+      },
+      "formatted_address": "6FX82HR9+HC8, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.041519400000002,6.5685305",
+      "google_place_id": "ChIJRUxBolKvThAReDE_YWv2mV0"
+    }
   },
   {
     "id": "336817",
@@ -93,7 +162,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0891,
+      "longitude": 6.738954,
+      "viewport": {
+        "northeast": {
+          "lat": 9.09037602989272,
+          "lng": 6.740401879892723
+        },
+        "southwest": {
+          "lat": 9.087676370107276,
+          "lng": 6.737702220107279
+        }
+      },
+      "formatted_address": "6FX83PQQ+JHW Mawogi Birninmaza Tashibo, Saminaka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0891,6.738954",
+      "google_place_id": "ChIJoUdGnwyhThARhS6RdHq9paY"
+    }
   },
   {
     "id": "336818",
@@ -109,7 +195,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.994546999999999,
+      "longitude": 6.675149,
+      "viewport": {
+        "northeast": {
+          "lat": 8.99589577989272,
+          "lng": 6.676499229892721
+        },
+        "southwest": {
+          "lat": 8.993196120107276,
+          "lng": 6.673799570107278
+        }
+      },
+      "formatted_address": "6FW8XMVG+R36, Sonfada Birninmaza, 911101, Tashibo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.994546999999999,6.675149",
+      "google_place_id": "ChIJSSP9DlOjThARAc7vwZ7Qjqo"
+    }
   },
   {
     "id": "336819",
@@ -125,7 +228,8 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336820",
@@ -141,7 +245,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0803326,
+      "longitude": 7.4763674,
+      "viewport": {
+        "northeast": {
+          "lat": 9.081515079892723,
+          "lng": 7.477832579892721
+        },
+        "southwest": {
+          "lat": 9.07881542010728,
+          "lng": 7.475132920107277
+        }
+      },
+      "formatted_address": "Plot 163Aminu, Kano Crescent, Wuse 904101, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0803326,7.4763674",
+      "google_place_id": "ChIJcTpr_fkKThARCaOhAsv66d0"
+    }
   },
   {
     "id": "336821",
@@ -157,7 +278,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.041519400000002,
+      "longitude": 6.5685305,
+      "viewport": {
+        "northeast": {
+          "lat": 9.042882679892724,
+          "lng": 6.569889629892722
+        },
+        "southwest": {
+          "lat": 9.04018302010728,
+          "lng": 6.567189970107278
+        }
+      },
+      "formatted_address": "6FX82HR9+HC8, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.041519400000002,6.5685305",
+      "google_place_id": "ChIJRUxBolKvThAReDE_YWv2mV0"
+    }
   },
   {
     "id": "336822",
@@ -173,7 +311,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.999699699999999,
+      "longitude": 6.6541085,
+      "viewport": {
+        "northeast": {
+          "lat": 9.000982129892721,
+          "lng": 6.655364229892721
+        },
+        "southwest": {
+          "lat": 8.998282470107277,
+          "lng": 6.652664570107278
+        }
+      },
+      "formatted_address": "6FW8XMX3+VM7 Aliko Birninmaza Tashibo, Takalafiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.999699699999999,6.6541085",
+      "google_place_id": "ChIJxyAqYiylThARtq1ZlXOTQeQ"
+    }
   },
   {
     "id": "336823",
@@ -189,7 +344,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.042081999999999,
+      "longitude": 6.572632,
+      "viewport": {
+        "northeast": {
+          "lat": 9.043448679892723,
+          "lng": 6.573926029892721
+        },
+        "southwest": {
+          "lat": 9.04074902010728,
+          "lng": 6.571226370107278
+        }
+      },
+      "formatted_address": "6FX82HRF+R3J Anguwan shaba Gabaskudu, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.042081999999999,6.572632",
+      "google_place_id": "ChIJjUFw-kSvThARnN6gGzX0zyc"
+    }
   },
   {
     "id": "336824",
@@ -205,7 +377,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.952589,
+      "longitude": 6.6204984,
+      "viewport": {
+        "northeast": {
+          "lat": 8.953985829892721,
+          "lng": 6.621874179892721
+        },
+        "southwest": {
+          "lat": 8.951286170107277,
+          "lng": 6.619174520107277
+        }
+      },
+      "formatted_address": "6FW8XJ3C+26R Baban Gwari, 911101, Duma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.952589,6.6204984",
+      "google_place_id": "ChIJSbZebTq7ThARlpOlDosRo7I"
+    }
   },
   {
     "id": "336825",
@@ -221,7 +410,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.870618,
+      "longitude": 6.675314999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.871902279892723,
+          "lng": 6.676633429892722
+        },
+        "southwest": {
+          "lat": 8.869202620107279,
+          "lng": 6.673933770107278
+        }
+      },
+      "formatted_address": "6FW8VMCG+64W, Bwacha, 911101, Mayaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.870618,6.675314999999999",
+      "google_place_id": "ChIJH10wA929ThARQj0GQxHfY6I"
+    }
   },
   {
     "id": "336826",
@@ -237,6 +443,23 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0673817,
+      "longitude": 6.5697816,
+      "viewport": {
+        "northeast": {
+          "lat": 9.068630279892725,
+          "lng": 6.571015579892721
+        },
+        "southwest": {
+          "lat": 9.065930620107281,
+          "lng": 6.568315920107278
+        }
+      },
+      "formatted_address": "3H89+XW3, Minna Rd, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0673817,6.5697816",
+      "google_place_id": "ChIJmdy4kZioThARMkz-V_L1e80"
+    }
   }
 ]

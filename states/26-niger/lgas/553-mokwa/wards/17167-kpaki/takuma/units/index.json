@@ -13,7 +13,8 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337905",
@@ -29,7 +30,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3358993,
+      "longitude": 5.2305828,
+      "viewport": {
+        "northeast": {
+          "lat": 9.3394018,
+          "lng": 5.234213
+        },
+        "southwest": {
+          "lat": 9.332372099999999,
+          "lng": 5.2273464
+        }
+      },
+      "formatted_address": "913104, Takuma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3358993,5.2305828",
+      "google_place_id": "ChIJG8W0Q6kaShARhMdRYr6FCBk"
+    }
   },
   {
     "id": "337906",
@@ -45,7 +63,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3441286,
+      "longitude": 5.2113355,
+      "viewport": {
+        "northeast": {
+          "lat": 9.351989999999999,
+          "lng": 5.22438
+        },
+        "southwest": {
+          "lat": 9.3418689,
+          "lng": 5.207574999999999
+        }
+      },
+      "formatted_address": "913104, Ezhi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3441286,5.2113355",
+      "google_place_id": "ChIJQ2lroegPShARfffZHH-t0NU"
+    }
   },
   {
     "id": "337907",
@@ -61,7 +96,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.388870599999999,
+      "longitude": 5.2713823,
+      "viewport": {
+        "northeast": {
+          "lat": 9.3912341,
+          "lng": 5.273961
+        },
+        "southwest": {
+          "lat": 9.3876061,
+          "lng": 5.2685549
+        }
+      },
+      "formatted_address": "913104, Kpakogi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.388870599999999,5.2713823",
+      "google_place_id": "ChIJq9tR1AsRShARlJ4S70ghnew"
+    }
   },
   {
     "id": "337908",
@@ -77,7 +129,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3211526,
+      "longitude": 5.2230788,
+      "viewport": {
+        "northeast": {
+          "lat": 9.323468,
+          "lng": 5.224857
+        },
+        "southwest": {
+          "lat": 9.315940999999999,
+          "lng": 5.212973
+        }
+      },
+      "formatted_address": "913104, Edugi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3211526,5.2230788",
+      "google_place_id": "ChIJebfCtFEFShAR5CqQRjOFSFM"
+    }
   },
   {
     "id": "337909",
@@ -93,7 +162,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.350854600000002,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 9.352204429892723,
+          "lng": 5.248901629892723
+        },
+        "southwest": {
+          "lat": 9.349504770107279,
+          "lng": 5.246201970107279
+        }
+      },
+      "formatted_address": "962X+82V, 913104, Takuma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.350854600000002,5.2475518",
+      "google_place_id": "ChIJ0zRVUaYRShAR1ZoymKGDrkw"
+    }
   },
   {
     "id": "337910",
@@ -109,7 +195,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.350854600000002,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 9.436637000000001,
+          "lng": 5.377141099999999
+        },
+        "southwest": {
+          "lat": 9.196657799999999,
+          "lng": 5.135449400000001
+        }
+      },
+      "formatted_address": "Kpaki/Takuma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.350854600000002,5.2475518",
+      "google_place_id": "ChIJ23qSbpAaShAReTBYarvq_S4"
+    }
   },
   {
     "id": "337911",
@@ -125,7 +228,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2667633,
+      "longitude": 5.2583233,
+      "viewport": {
+        "northeast": {
+          "lat": 9.2691359,
+          "lng": 5.259919099999999
+        },
+        "southwest": {
+          "lat": 9.263511099999999,
+          "lng": 5.256158
+        }
+      },
+      "formatted_address": "913104, Kodan A, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2667633,5.2583233",
+      "google_place_id": "ChIJOXyXig0bShAR1xKxEUhBeMM"
+    }
   },
   {
     "id": "337912",
@@ -141,7 +261,24 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.350854600000002,
+      "longitude": 5.2475518,
+      "viewport": {
+        "northeast": {
+          "lat": 9.352204429892723,
+          "lng": 5.248901629892723
+        },
+        "southwest": {
+          "lat": 9.349504770107279,
+          "lng": 5.246201970107279
+        }
+      },
+      "formatted_address": "962X+82V, 913104, Takuma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.350854600000002,5.2475518",
+      "google_place_id": "ChIJ0zRVUaYRShAR1ZoymKGDrkw"
+    }
   },
   {
     "id": "337913",
@@ -157,6 +294,23 @@
     "local_government_id": "553",
     "local_government_name": "MOKWA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.286377200000002,
+      "longitude": 5.277381999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.287589179892722,
+          "lng": 5.278616329892722
+        },
+        "southwest": {
+          "lat": 9.284889520107278,
+          "lng": 5.275916670107278
+        }
+      },
+      "formatted_address": "Mokwa-Bida Rd, 913104, Gbaki, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.286377200000002,5.277381999999999",
+      "google_place_id": "ChIJcw2afP0bShAR-qpL47EAwX0"
+    }
   }
 ]

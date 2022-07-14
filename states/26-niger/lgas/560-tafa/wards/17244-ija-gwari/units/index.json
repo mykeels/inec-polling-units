@@ -13,7 +13,8 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339307",
@@ -29,7 +30,8 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339308",
@@ -45,7 +47,8 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339309",
@@ -61,7 +64,24 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1792605,
+      "longitude": 7.218319,
+      "viewport": {
+        "northeast": {
+          "lat": 9.180405629892721,
+          "lng": 7.219600179892722
+        },
+        "southwest": {
+          "lat": 9.177705970107278,
+          "lng": 7.216900520107278
+        }
+      },
+      "formatted_address": "56H9+P84, 910103, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1792605,7.218319",
+      "google_place_id": "ChIJH15sRyXXTRARHFyQHA4e0s8"
+    }
   },
   {
     "id": "339310",
@@ -77,7 +97,24 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2385778,
+      "longitude": 7.2544973,
+      "viewport": {
+        "northeast": {
+          "lat": 9.2825433,
+          "lng": 7.288954200000001
+        },
+        "southwest": {
+          "lat": 9.1998609,
+          "lng": 7.237909599999999
+        }
+      },
+      "formatted_address": "Ija Gwari, 910103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2385778,7.2544973",
+      "google_place_id": "ChIJOyqIWILQTRAR_-iKQblll6Q"
+    }
   },
   {
     "id": "339311",
@@ -93,7 +130,24 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.1792605,
+      "longitude": 7.218319,
+      "viewport": {
+        "northeast": {
+          "lat": 9.180405629892721,
+          "lng": 7.219600179892722
+        },
+        "southwest": {
+          "lat": 9.177705970107278,
+          "lng": 7.216900520107278
+        }
+      },
+      "formatted_address": "56H9+P84, 910103, Kwamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.1792605,7.218319",
+      "google_place_id": "ChIJH15sRyXXTRARHFyQHA4e0s8"
+    }
   },
   {
     "id": "339312",
@@ -109,7 +163,8 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339313",
@@ -125,7 +180,8 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "339314",
@@ -141,7 +197,24 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2766599,
+      "longitude": 7.3646486,
+      "viewport": {
+        "northeast": {
+          "lat": 9.278006529892723,
+          "lng": 7.366435579892722
+        },
+        "southwest": {
+          "lat": 9.27530687010728,
+          "lng": 7.363735920107279
+        }
+      },
+      "formatted_address": "79G7+MV6 Law School, Road, 901101, Bwari, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2766599,7.3646486",
+      "google_place_id": "ChIJq7lhDrvcTRAR5s4v-5Jds7Y"
+    }
   },
   {
     "id": "339315",
@@ -157,6 +230,23 @@
     "local_government_id": "560",
     "local_government_name": "TAFA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2417251,
+      "longitude": 7.280162399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.24312012989272,
+          "lng": 7.281464679892719
+        },
+        "southwest": {
+          "lat": 9.240420470107276,
+          "lng": 7.278765020107275
+        }
+      },
+      "formatted_address": "6FX967RJ+P25 Ijah Gwari Ijah Gbagyi, 910103, Tafa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2417251,7.280162399999999",
+      "google_place_id": "ChIJL434jXjbTRARkLbJlWZYLB4"
+    }
   }
 ]

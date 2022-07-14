@@ -13,7 +13,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338229",
@@ -29,7 +30,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.441500000000001,
+      "longitude": 6.9203,
+      "viewport": {
+        "northeast": {
+          "lat": 9.44284982989272,
+          "lng": 6.921649829892722
+        },
+        "southwest": {
+          "lat": 9.440150170107277,
+          "lng": 6.918950170107278
+        }
+      },
+      "formatted_address": "CWRC+J43, 920104, Geji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.441500000000001,6.9203",
+      "google_place_id": "ChIJn7XFLyg4TBARK5ZYZnf25rI"
+    }
   },
   {
     "id": "338230",
@@ -45,7 +63,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3961814,
+      "longitude": 6.9504378,
+      "viewport": {
+        "northeast": {
+          "lat": 9.412060600000002,
+          "lng": 6.9588089
+        },
+        "southwest": {
+          "lat": 9.381322299999999,
+          "lng": 6.9384669
+        }
+      },
+      "formatted_address": "920104, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3961814,6.9504378",
+      "google_place_id": "ChIJm-LXuTUxTBAR9uMo55sGan4"
+    }
   },
   {
     "id": "338231",
@@ -61,7 +96,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.396903,
+      "longitude": 6.836545,
+      "viewport": {
+        "northeast": {
+          "lat": 9.398213129892723,
+          "lng": 6.837661129892722
+        },
+        "southwest": {
+          "lat": 9.395513470107279,
+          "lng": 6.834961470107278
+        }
+      },
+      "formatted_address": "6FX89RWP+QJ7 Farin-doki, 920104, Baidna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.396903,6.836545",
+      "google_place_id": "ChIJCwskQag5TBAR4rOYmHa0Euo"
+    }
   },
   {
     "id": "338232",
@@ -77,7 +129,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.428377099999999,
+      "longitude": 6.7907165,
+      "viewport": {
+        "northeast": {
+          "lat": 9.430193379892723,
+          "lng": 6.792175829892721
+        },
+        "southwest": {
+          "lat": 9.427493720107279,
+          "lng": 6.789476170107277
+        }
+      },
+      "formatted_address": "R33, K/Koro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.428377099999999,6.7907165",
+      "google_place_id": "ChIJRTgrC6U_TBARRdRQNNaAMP0"
+    }
   },
   {
     "id": "338233",
@@ -93,7 +162,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3969053,
+      "longitude": 6.9166346,
+      "viewport": {
+        "northeast": {
+          "lat": 9.398446129892722,
+          "lng": 6.918064929892721
+        },
+        "southwest": {
+          "lat": 9.395746470107278,
+          "lng": 6.915365270107277
+        }
+      },
+      "formatted_address": "6FX89WW8+PJH, Ebbah 920104, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3969053,6.9166346",
+      "google_place_id": "ChIJnYR7hq05TBARyWJuyu76dDk"
+    }
   },
   {
     "id": "338234",
@@ -109,7 +195,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3961814,
+      "longitude": 6.9504378,
+      "viewport": {
+        "northeast": {
+          "lat": 9.412060600000002,
+          "lng": 6.9588089
+        },
+        "southwest": {
+          "lat": 9.381322299999999,
+          "lng": 6.9384669
+        }
+      },
+      "formatted_address": "920104, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3961814,6.9504378",
+      "google_place_id": "ChIJm-LXuTUxTBAR9uMo55sGan4"
+    }
   },
   {
     "id": "338235",
@@ -125,7 +228,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.427080499999999,
+      "longitude": 6.8962641,
+      "viewport": {
+        "northeast": {
+          "lat": 9.42835727989272,
+          "lng": 6.897548329892722
+        },
+        "southwest": {
+          "lat": 9.425657620107277,
+          "lng": 6.894848670107279
+        }
+      },
+      "formatted_address": "920104, Boku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.427080499999999,6.8962641",
+      "google_place_id": "ChIJU2MUhbY5TBARR0pXlSzrhec"
+    }
   },
   {
     "id": "338236",
@@ -141,7 +261,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3961814,
+      "longitude": 6.9504378,
+      "viewport": {
+        "northeast": {
+          "lat": 9.39753147989272,
+          "lng": 6.951787579892722
+        },
+        "southwest": {
+          "lat": 9.394831820107276,
+          "lng": 6.949087920107278
+        }
+      },
+      "formatted_address": "Kaflin K/Koro, L3, Along, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3961814,6.9504378",
+      "google_place_id": "ChIJlRy5mVc3TBARWQTuyhrblRY"
+    }
   },
   {
     "id": "338237",
@@ -157,7 +294,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5030318,
+      "longitude": 7.4029629,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50438162989272,
+          "lng": 7.404312729892723
+        },
+        "southwest": {
+          "lat": 10.50168197010728,
+          "lng": 7.401613070107279
+        }
+      },
+      "formatted_address": "1 Dr. Shehu Giwa Road Sabo G.R.A Kaduna Jaba Sabo, Kaduna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5030318,7.4029629",
+      "google_place_id": "ChIJfevePiI1TRARgWMCr8N0YTg"
+    }
   },
   {
     "id": "338238",
@@ -173,7 +327,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338239",
@@ -189,7 +344,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3961814,
+      "longitude": 6.9504378,
+      "viewport": {
+        "northeast": {
+          "lat": 9.39753147989272,
+          "lng": 6.951787579892722
+        },
+        "southwest": {
+          "lat": 9.394831820107276,
+          "lng": 6.949087920107278
+        }
+      },
+      "formatted_address": "Kaflin K/Koro, L3, Along, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3961814,6.9504378",
+      "google_place_id": "ChIJlRy5mVc3TBARWQTuyhrblRY"
+    }
   },
   {
     "id": "338240",
@@ -205,7 +377,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.397548,
+      "longitude": 6.9083773,
+      "viewport": {
+        "northeast": {
+          "lat": 9.40042905,
+          "lng": 6.909952929892721
+        },
+        "southwest": {
+          "lat": 9.396587650000003,
+          "lng": 6.907253270107277
+        }
+      },
+      "formatted_address": "6FX89WX5+29R, Shaudna, 920104, Baidna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.397548,6.9083773",
+      "google_place_id": "ChIJ2SRN8is5TBARyx_CEBSyBL4"
+    }
   },
   {
     "id": "338241",
@@ -221,7 +410,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.5934943,
+      "longitude": 6.5307204,
+      "viewport": {
+        "northeast": {
+          "lat": 9.594882079892722,
+          "lng": 6.532120479892722
+        },
+        "southwest": {
+          "lat": 9.592182420107278,
+          "lng": 6.529420820107278
+        }
+      },
+      "formatted_address": "Barikin Sale, Minna South 920101, Minna, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5934943,6.5307204",
+      "google_place_id": "ChIJW6Waw09xTBARH9Wm59Y91DI"
+    }
   },
   {
     "id": "338242",
@@ -237,7 +443,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.042081999999999,
+      "longitude": 6.572632,
+      "viewport": {
+        "northeast": {
+          "lat": 9.043448679892723,
+          "lng": 6.573926029892721
+        },
+        "southwest": {
+          "lat": 9.04074902010728,
+          "lng": 6.571226370107278
+        }
+      },
+      "formatted_address": "6FX82HRF+R3J Anguwan shaba Gabaskudu, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.042081999999999,6.572632",
+      "google_place_id": "ChIJjUFw-kSvThARnN6gGzX0zyc"
+    }
   },
   {
     "id": "338243",
@@ -253,7 +476,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0650459,
+      "longitude": 7.4258754,
+      "viewport": {
+        "northeast": {
+          "lat": 9.066302179892723,
+          "lng": 7.427273829892722
+        },
+        "southwest": {
+          "lat": 9.06360252010728,
+          "lng": 7.424574170107278
+        }
+      },
+      "formatted_address": "19 Ebitu Ukiwe St, Jabi 900103, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0650459,7.4258754",
+      "google_place_id": "ChIJm-OnVnQLThARGXs-KFq2y9g"
+    }
   },
   {
     "id": "338244",
@@ -269,7 +509,8 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338245",
@@ -285,7 +526,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.875254199999999,
+      "longitude": 7.2634703,
+      "viewport": {
+        "northeast": {
+          "lat": 8.87631852989272,
+          "lng": 7.26485352989272
+        },
+        "southwest": {
+          "lat": 8.873618870107276,
+          "lng": 7.262153870107277
+        }
+      },
+      "formatted_address": "Plot 1538 Kuchiyako III District Layout, Kuje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.875254199999999,7.2634703",
+      "google_place_id": "ChIJGeHGmfRlThARHGPY15NfEOI"
+    }
   },
   {
     "id": "338246",
@@ -301,7 +559,24 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.397376999999999,
+      "longitude": 6.953466,
+      "viewport": {
+        "northeast": {
+          "lat": 9.398868629892721,
+          "lng": 6.954827179892722
+        },
+        "southwest": {
+          "lat": 9.396168970107277,
+          "lng": 6.952127520107278
+        }
+      },
+      "formatted_address": "6FX89XW3+X94, 920104, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.397376999999999,6.953466",
+      "google_place_id": "ChIJ5UF14qI3TBARTcIa-gowXgQ"
+    }
   },
   {
     "id": "338247",
@@ -317,6 +592,23 @@
     "local_government_id": "555",
     "local_government_name": "PAIKORO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3961814,
+      "longitude": 6.9504378,
+      "viewport": {
+        "northeast": {
+          "lat": 9.39753147989272,
+          "lng": 6.951787579892722
+        },
+        "southwest": {
+          "lat": 9.394831820107276,
+          "lng": 6.949087920107278
+        }
+      },
+      "formatted_address": "Kaflin K/Koro, L3, Along, Kwakuti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3961814,6.9504378",
+      "google_place_id": "ChIJlRy5mVc3TBARWQTuyhrblRY"
+    }
   }
 ]

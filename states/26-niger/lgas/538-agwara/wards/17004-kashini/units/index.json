@@ -13,7 +13,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334820",
@@ -29,7 +30,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334821",
@@ -45,7 +47,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334822",
@@ -61,7 +64,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334823",
@@ -77,7 +81,24 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7184719,
+      "longitude": 4.5733158,
+      "viewport": {
+        "northeast": {
+          "lat": 10.71937972989272,
+          "lng": 4.574066729892722
+        },
+        "southwest": {
+          "lat": 10.71668007010728,
+          "lng": 4.571367070107279
+        }
+      },
+      "formatted_address": "7F26PH9F+988 AGWARA KASHINI, Agwarra, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7184719,4.5733158",
+      "google_place_id": "ChIJZSqpkWPPyhERYP_RArljwx0"
+    }
   },
   {
     "id": "334824",
@@ -93,7 +114,24 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.68463,
+      "longitude": 4.523131999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68583697989272,
+          "lng": 4.524525629892722
+        },
+        "southwest": {
+          "lat": 10.68313732010728,
+          "lng": 4.521825970107278
+        }
+      },
+      "formatted_address": "7F26MGMF+V72 TASHAN FULANI, 923107, Agwarra, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.68463,4.523131999999999",
+      "google_place_id": "ChIJRzCDT4LRyhERiKrYUd1SXN8"
+    }
   },
   {
     "id": "334825",
@@ -109,7 +147,24 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.72223,
+      "longitude": 4.516713999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.72357982989272,
+          "lng": 4.518063829892722
+        },
+        "southwest": {
+          "lat": 10.72088017010728,
+          "lng": 4.515364170107278
+        }
+      },
+      "formatted_address": "7F26PGC8+VMW, ANACHA, 923107, Gweze, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.72223,4.516713999999999",
+      "google_place_id": "ChIJF5G7Ay_RyhERsqi8tyYYIAM"
+    }
   },
   {
     "id": "334826",
@@ -125,7 +180,24 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7050143,
+      "longitude": 4.5807753,
+      "viewport": {
+        "northeast": {
+          "lat": 10.70637822989272,
+          "lng": 4.582081429892722
+        },
+        "southwest": {
+          "lat": 10.70367857010728,
+          "lng": 4.579381770107278
+        }
+      },
+      "formatted_address": "7F26PH4J+275 Agwara Kashini, Agwarra, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7050143,4.5807753",
+      "google_place_id": "ChIJ3Txq1HjPyhERIoXwCrPpxSc"
+    }
   },
   {
     "id": "334827",
@@ -141,6 +213,23 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7184719,
+      "longitude": 4.5733158,
+      "viewport": {
+        "northeast": {
+          "lat": 10.71937972989272,
+          "lng": 4.574066729892722
+        },
+        "southwest": {
+          "lat": 10.71668007010728,
+          "lng": 4.571367070107279
+        }
+      },
+      "formatted_address": "7F26PH9F+988 AGWARA KASHINI, Agwarra, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7184719,4.5733158",
+      "google_place_id": "ChIJZSqpkWPPyhERYP_RArljwx0"
+    }
   }
 ]

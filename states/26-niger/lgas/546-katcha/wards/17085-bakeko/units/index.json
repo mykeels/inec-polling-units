@@ -13,7 +13,8 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336393",
@@ -29,7 +30,8 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336394",
@@ -45,7 +47,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.913927,
+      "longitude": 6.161308,
+      "viewport": {
+        "northeast": {
+          "lat": 8.915307879892723,
+          "lng": 6.162657929892721
+        },
+        "southwest": {
+          "lat": 8.912608220107277,
+          "lng": 6.159958270107277
+        }
+      },
+      "formatted_address": "6FW8W576+HGF EKUGI YINTI, Denchita, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.913927,6.161308",
+      "google_place_id": "ChIJZwLd83xESRARcJVYPbY6Z-I"
+    }
   },
   {
     "id": "336395",
@@ -61,7 +80,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9321052,
+      "longitude": 6.2462235,
+      "viewport": {
+        "northeast": {
+          "lat": 8.935644,
+          "lng": 6.249021099999999
+        },
+        "southwest": {
+          "lat": 8.929196,
+          "lng": 6.2437719
+        }
+      },
+      "formatted_address": "912104, Dagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9321052,6.2462235",
+      "google_place_id": "ChIJ15YpcY5PSRARrr5lxeL-Dxg"
+    }
   },
   {
     "id": "336396",
@@ -77,7 +113,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9777341,
+      "longitude": 6.2485468,
+      "viewport": {
+        "northeast": {
+          "lat": 8.9799629,
+          "lng": 6.2497199
+        },
+        "southwest": {
+          "lat": 8.976023,
+          "lng": 6.2469321
+        }
+      },
+      "formatted_address": "912104, Lafiagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9777341,6.2485468",
+      "google_place_id": "ChIJx9rpChJQSRARMOENGfSAPPE"
+    }
   },
   {
     "id": "336397",
@@ -93,7 +146,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.8981751,
+      "longitude": 6.2280546,
+      "viewport": {
+        "northeast": {
+          "lat": 8.899496429892721,
+          "lng": 6.229406929892722
+        },
+        "southwest": {
+          "lat": 8.896796770107278,
+          "lng": 6.226707270107278
+        }
+      },
+      "formatted_address": "Gboyako Primary School, 912104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8981751,6.2280546",
+      "google_place_id": "ChIJS9tpl41FSRARBNRY6LniReI"
+    }
   },
   {
     "id": "336398",
@@ -109,7 +179,8 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336399",
@@ -125,7 +196,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.936285300000002,
+      "longitude": 6.257924,
+      "viewport": {
+        "northeast": {
+          "lat": 8.93763232989272,
+          "lng": 6.259198329892722
+        },
+        "southwest": {
+          "lat": 8.934932670107276,
+          "lng": 6.256498670107278
+        }
+      },
+      "formatted_address": "Majahidu Primary School, 912104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.936285300000002,6.257924",
+      "google_place_id": "ChIJjYO7bpVPSRARiIu0NpJ_d60"
+    }
   },
   {
     "id": "336400",
@@ -141,7 +229,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9623411,
+      "longitude": 6.2448959,
+      "viewport": {
+        "northeast": {
+          "lat": 8.963909429892722,
+          "lng": 6.2468621
+        },
+        "southwest": {
+          "lat": 8.961209770107278,
+          "lng": 6.243571999999999
+        }
+      },
+      "formatted_address": "912104, Dawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9623411,6.2448959",
+      "google_place_id": "ChIJbVYyUQJQSRARG01_WW-3OEA"
+    }
   },
   {
     "id": "336401",
@@ -157,7 +262,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.929604,
+      "longitude": 6.246970200000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.930984329892722,
+          "lng": 6.248241479892721
+        },
+        "southwest": {
+          "lat": 8.928284670107278,
+          "lng": 6.245541820107277
+        }
+      },
+      "formatted_address": "Dagba Aliyu Goyi Primary School, 912104, Dagba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.929604,6.246970200000001",
+      "google_place_id": "ChIJ8WjiyY9PSRARHPB5XndeyXI"
+    }
   },
   {
     "id": "336402",
@@ -173,7 +295,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.938072199999999,
+      "longitude": 6.258836899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.035990499999999,
+          "lng": 6.2902949
+        },
+        "southwest": {
+          "lat": 8.8756139,
+          "lng": 6.1898861
+        }
+      },
+      "formatted_address": "Bakeko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.938072199999999,6.258836899999999",
+      "google_place_id": "ChIJ3bMfJ_9PSRAR4PRLaOInvmk"
+    }
   },
   {
     "id": "336403",
@@ -189,7 +328,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.768108999999999,
+      "longitude": 6.310133,
+      "viewport": {
+        "northeast": {
+          "lat": 8.76935187989272,
+          "lng": 6.311478429892722
+        },
+        "southwest": {
+          "lat": 8.766652220107277,
+          "lng": 6.308778770107278
+        }
+      },
+      "formatted_address": "6FW8Q896+63R, Bangikpan, 912104, Katcha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.768108999999999,6.310133",
+      "google_place_id": "ChIJYxiHDa43SRARYvNmjfT5ATE"
+    }
   },
   {
     "id": "336404",
@@ -205,7 +361,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.938072199999999,
+      "longitude": 6.258836899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.035990499999999,
+          "lng": 6.2902949
+        },
+        "southwest": {
+          "lat": 8.8756139,
+          "lng": 6.1898861
+        }
+      },
+      "formatted_address": "Bakeko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.938072199999999,6.258836899999999",
+      "google_place_id": "ChIJ3bMfJ_9PSRAR4PRLaOInvmk"
+    }
   },
   {
     "id": "336405",
@@ -221,7 +394,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.7565849,
+      "longitude": 6.312143,
+      "viewport": {
+        "northeast": {
+          "lat": 8.757932379892722,
+          "lng": 6.313425429892722
+        },
+        "southwest": {
+          "lat": 8.755232720107278,
+          "lng": 6.310725770107278
+        }
+      },
+      "formatted_address": "912104, Katcha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7565849,6.312143",
+      "google_place_id": "ChIJf5r2BnI2SRAR04t04OCbe9E"
+    }
   },
   {
     "id": "336406",
@@ -237,7 +427,24 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0391016,
+      "longitude": 6.007923099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.040474329892723,
+          "lng": 6.009264179892722
+        },
+        "southwest": {
+          "lat": 9.037774670107279,
+          "lng": 6.006564520107278
+        }
+      },
+      "formatted_address": "KM 1.5 Doko Road, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0391016,6.007923099999999",
+      "google_place_id": "ChIJlbHp8rdmSRARfOP6osfuyBg"
+    }
   },
   {
     "id": "336407",
@@ -253,6 +460,23 @@
     "local_government_id": "546",
     "local_government_name": "KATCHA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.938072199999999,
+      "longitude": 6.258836899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.035990499999999,
+          "lng": 6.2902949
+        },
+        "southwest": {
+          "lat": 8.8756139,
+          "lng": 6.1898861
+        }
+      },
+      "formatted_address": "Bakeko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.938072199999999,6.258836899999999",
+      "google_place_id": "ChIJ3bMfJ_9PSRAR4PRLaOInvmk"
+    }
   }
 ]

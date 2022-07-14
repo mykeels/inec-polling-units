@@ -13,7 +13,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334806",
@@ -29,7 +30,24 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.7870773,
+      "longitude": 4.6387394,
+      "viewport": {
+        "northeast": {
+          "lat": 10.78850127989272,
+          "lng": 4.640040329892722
+        },
+        "southwest": {
+          "lat": 10.78580162010728,
+          "lng": 4.637340670107278
+        }
+      },
+      "formatted_address": "923107, Gandiga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7870773,4.6387394",
+      "google_place_id": "ChIJX-ToQufFyhERwVieEDIQG2E"
+    }
   },
   {
     "id": "334807",
@@ -45,7 +63,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334808",
@@ -61,7 +80,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334809",
@@ -77,6 +97,7 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

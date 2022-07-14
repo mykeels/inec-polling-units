@@ -13,7 +13,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338375",
@@ -29,7 +30,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338376",
@@ -45,7 +47,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338377",
@@ -61,7 +64,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3234433,
+      "longitude": 8.4811597,
+      "viewport": {
+        "northeast": {
+          "lat": 10.32548,
+          "lng": 8.487435
+        },
+        "southwest": {
+          "lat": 10.316591,
+          "lng": 8.479657999999999
+        }
+      },
+      "formatted_address": "811105, Gidan Sarkin Karigi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3234433,8.4811597",
+      "google_place_id": "ChIJ13bKQgfYUhARl_LjXe_w7ss"
+    }
   },
   {
     "id": "338378",
@@ -77,7 +97,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338379",
@@ -93,7 +114,24 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.2790115,
+      "longitude": 6.2920425,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2834203,
+          "lng": 6.295938599999999
+        },
+        "southwest": {
+          "lat": 10.2738771,
+          "lng": 6.2884711
+        }
+      },
+      "formatted_address": "922103, Gidan Karauku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2790115,6.2920425",
+      "google_place_id": "ChIJISy9gmBcSxARw4mmXZaH5yg"
+    }
   },
   {
     "id": "338380",
@@ -109,7 +147,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338381",
@@ -125,7 +164,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338382",
@@ -141,7 +181,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338383",
@@ -157,7 +198,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338384",
@@ -173,7 +215,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338385",
@@ -189,7 +232,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338386",
@@ -205,7 +249,8 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338387",
@@ -221,6 +266,7 @@
     "local_government_id": "556",
     "local_government_name": "RAFI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

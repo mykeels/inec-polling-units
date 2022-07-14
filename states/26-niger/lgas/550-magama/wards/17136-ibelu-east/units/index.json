@@ -13,7 +13,8 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337318",
@@ -29,7 +30,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3765863,
+      "longitude": 5.271524299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.37765972989272,
+          "lng": 5.272901179892722
+        },
+        "southwest": {
+          "lat": 10.37496007010728,
+          "lng": 5.270201520107278
+        }
+      },
+      "formatted_address": "7F2797GC+HJR Ashuwa Yangalu, Bolo Bolo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3765863,5.271524299999999",
+      "google_place_id": "ChIJOV61Vom7ShAR-xzAX_9PkDk"
+    }
   },
   {
     "id": "337319",
@@ -45,7 +63,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 13.5250367,
+      "longitude": 2.0895933,
+      "viewport": {
+        "northeast": {
+          "lat": 13.52629657989272,
+          "lng": 2.090939829892723
+        },
+        "southwest": {
+          "lat": 13.52359692010728,
+          "lng": 2.088240170107278
+        }
+      },
+      "formatted_address": "Niamey, Niger",
+      "google_map_url": "https://maps.google.com?q=13.5250367,2.0895933",
+      "google_place_id": "ChIJjdJcvo110BERnZb_0n956OA"
+    }
   },
   {
     "id": "337320",
@@ -61,7 +96,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4163723,
+      "longitude": 5.3057528,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41772812989272,
+          "lng": 5.307068429892722
+        },
+        "southwest": {
+          "lat": 10.41502847010728,
+          "lng": 5.304368770107279
+        }
+      },
+      "formatted_address": "C884+G8R, 923105, Masamagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4163723,5.3057528",
+      "google_place_id": "ChIJSY3fxLWwShAR5nw7MtOeP9E"
+    }
   },
   {
     "id": "337321",
@@ -77,7 +129,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3965,
+      "longitude": 5.3338,
+      "viewport": {
+        "northeast": {
+          "lat": 10.39791627989272,
+          "lng": 5.335203779892722
+        },
+        "southwest": {
+          "lat": 10.39521662010728,
+          "lng": 5.332504120107278
+        }
+      },
+      "formatted_address": "98WM+JG3, 923105, Utachu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3965,5.3338",
+      "google_place_id": "ChIJBdVVy2G3ShARwhvLODXfYto"
+    }
   },
   {
     "id": "337322",
@@ -93,7 +162,8 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337323",
@@ -109,7 +179,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3679,
+      "longitude": 5.1708999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.36924982989272,
+          "lng": 5.172249729892722
+        },
+        "southwest": {
+          "lat": 10.36655017010727,
+          "lng": 5.169550070107277
+        }
+      },
+      "formatted_address": "959C+592, 923105, Lagumo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3679,5.1708999",
+      "google_place_id": "ChIJw0Ezt7ulShARyQHTaDJNXa4"
+    }
   },
   {
     "id": "337324",
@@ -125,7 +212,8 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337325",
@@ -141,7 +229,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.3900376,
+      "longitude": 5.3898996,
+      "viewport": {
+        "northeast": {
+          "lat": 10.39151807989272,
+          "lng": 5.391263479892722
+        },
+        "southwest": {
+          "lat": 10.38881842010728,
+          "lng": 5.388563820107279
+        }
+      },
+      "formatted_address": "99RQ+2X6, 923101, Usubu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.3900376,5.3898996",
+      "google_place_id": "ChIJa_T6QAG4ShARh3_Y7CDEfFA"
+    }
   },
   {
     "id": "337326",
@@ -157,7 +262,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4492741,
+      "longitude": 5.2521213,
+      "viewport": {
+        "northeast": {
+          "lat": 10.453813,
+          "lng": 5.2566019
+        },
+        "southwest": {
+          "lat": 10.4457579,
+          "lng": 5.243545999999999
+        }
+      },
+      "formatted_address": "923105, Masamagu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4492741,5.2521213",
+      "google_place_id": "ChIJnSg1V7OxShAR2sX7kUOkJtw"
+    }
   },
   {
     "id": "337327",
@@ -173,7 +295,8 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337328",
@@ -189,7 +312,8 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337329",
@@ -205,7 +329,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.5062,
+      "longitude": 5.2714,
+      "viewport": {
+        "northeast": {
+          "lat": 10.50754982989272,
+          "lng": 5.272749829892722
+        },
+        "southwest": {
+          "lat": 10.50485017010728,
+          "lng": 5.270050170107278
+        }
+      },
+      "formatted_address": "G74C+FHJ, 923105, Billi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.5062,5.2714",
+      "google_place_id": "ChIJ_RcqUcqzShARrYxgGD73cfQ"
+    }
   },
   {
     "id": "337330",
@@ -221,7 +362,8 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "337331",
@@ -237,7 +379,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4172,
+      "longitude": 5.3047,
+      "viewport": {
+        "northeast": {
+          "lat": 10.41854172989272,
+          "lng": 5.306091579892722
+        },
+        "southwest": {
+          "lat": 10.41584207010728,
+          "lng": 5.303391920107278
+        }
+      },
+      "formatted_address": "C883+VVG, 923105, Tunga Raha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4172,5.3047",
+      "google_place_id": "ChIJYxH2C7awShAR8zAYxGIl760"
+    }
   },
   {
     "id": "337332",
@@ -253,7 +412,24 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.4015721,
+      "longitude": 5.4704465,
+      "viewport": {
+        "northeast": {
+          "lat": 10.40292037989272,
+          "lng": 5.471793829892722
+        },
+        "southwest": {
+          "lat": 10.40022072010728,
+          "lng": 5.469094170107278
+        }
+      },
+      "formatted_address": "Asibitin Gari, Kontagora, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.4015721,5.4704465",
+      "google_place_id": "ChIJCb7o5brJShARRRAEpj1yQNk"
+    }
   },
   {
     "id": "337333",
@@ -269,6 +445,23 @@
     "local_government_id": "550",
     "local_government_name": "MAGAMA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.54258,
+      "longitude": 5.321165,
+      "viewport": {
+        "northeast": {
+          "lat": 10.54392292989272,
+          "lng": 5.322548929892722
+        },
+        "southwest": {
+          "lat": 10.54122327010728,
+          "lng": 5.319849270107278
+        }
+      },
+      "formatted_address": "7F27G8VC+2FM, Atabo Yangalu, 923105, Machifa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.54258,5.321165",
+      "google_place_id": "ChIJ3Z1ZKzm1ShAR2tAuDcoPjzU"
+    }
   }
 ]

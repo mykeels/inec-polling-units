@@ -13,7 +13,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.090312899999999,
+      "longitude": 6.0118747,
+      "viewport": {
+        "northeast": {
+          "lat": 9.09165192989272,
+          "lng": 6.013216529892722
+        },
+        "southwest": {
+          "lat": 9.088952270107276,
+          "lng": 6.010516870107277
+        }
+      },
+      "formatted_address": "32R6+4PQ, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.090312899999999,6.0118747",
+      "google_place_id": "ChIJX3rR0w5hSRAREf8z1z7Lo_8"
+    }
   },
   {
     "id": "335016",
@@ -29,7 +46,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0974194,
+      "longitude": 6.018960000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1045896,
+          "lng": 6.0249939
+        },
+        "southwest": {
+          "lat": 9.0907714,
+          "lng": 6.0148019
+        }
+      },
+      "formatted_address": "Masaga I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0974194,6.018960000000001",
+      "google_place_id": "ChIJj88TjKlhSRARV-3ctomu1E0"
+    }
   },
   {
     "id": "335017",
@@ -45,7 +79,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.092870300000001,
+      "longitude": 6.015523399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.094256079892721,
+          "lng": 6.016698779892722
+        },
+        "southwest": {
+          "lat": 9.091556420107278,
+          "lng": 6.013999120107278
+        }
+      },
+      "formatted_address": "6FX832V8+46J, Iyaruwa, 912101, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.092870300000001,6.015523399999999",
+      "google_place_id": "ChIJmXmYLgZhSRARK5s4OB0wTJs"
+    }
   },
   {
     "id": "335018",
@@ -61,7 +112,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0771566,
+      "longitude": 6.0274185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.078683579892722,
+          "lng": 6.028643879892721
+        },
+        "southwest": {
+          "lat": 9.075983920107278,
+          "lng": 6.025944220107277
+        }
+      },
+      "formatted_address": "32GG+VX7, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0771566,6.0274185",
+      "google_place_id": "ChIJEcBf6YJhSRAR3s1Rqy1MhW0"
+    }
   },
   {
     "id": "335019",
@@ -77,7 +145,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0974194,
+      "longitude": 6.018960000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1045896,
+          "lng": 6.0249939
+        },
+        "southwest": {
+          "lat": 9.0907714,
+          "lng": 6.0148019
+        }
+      },
+      "formatted_address": "Masaga I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0974194,6.018960000000001",
+      "google_place_id": "ChIJj88TjKlhSRARV-3ctomu1E0"
+    }
   },
   {
     "id": "335020",
@@ -93,7 +178,8 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335021",
@@ -109,7 +195,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0771566,
+      "longitude": 6.0274185,
+      "viewport": {
+        "northeast": {
+          "lat": 9.078683579892722,
+          "lng": 6.028643879892721
+        },
+        "southwest": {
+          "lat": 9.075983920107278,
+          "lng": 6.025944220107277
+        }
+      },
+      "formatted_address": "32GG+VX7, 912211, Bida, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0771566,6.0274185",
+      "google_place_id": "ChIJEcBf6YJhSRAR3s1Rqy1MhW0"
+    }
   },
   {
     "id": "335022",
@@ -125,7 +228,8 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "335023",
@@ -141,7 +245,24 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0974194,
+      "longitude": 6.018960000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 9.1045896,
+          "lng": 6.0249939
+        },
+        "southwest": {
+          "lat": 9.0907714,
+          "lng": 6.0148019
+        }
+      },
+      "formatted_address": "Masaga I, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0974194,6.018960000000001",
+      "google_place_id": "ChIJj88TjKlhSRARV-3ctomu1E0"
+    }
   },
   {
     "id": "335024",
@@ -157,6 +278,7 @@
     "local_government_id": "539",
     "local_government_name": "BIDA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

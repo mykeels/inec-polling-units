@@ -13,7 +13,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336094",
@@ -29,7 +30,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336095",
@@ -45,7 +47,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.262572100000002,
+      "longitude": 6.6796839,
+      "viewport": {
+        "northeast": {
+          "lat": 8.2649241,
+          "lng": 6.680868329892722
+        },
+        "southwest": {
+          "lat": 8.2604799,
+          "lng": 6.678168670107278
+        }
+      },
+      "formatted_address": "911103, Batako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.262572100000002,6.6796839",
+      "google_place_id": "ChIJ6aziNU8jTxARcR_wqKcl1r4"
+    }
   },
   {
     "id": "336096",
@@ -61,7 +80,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.333857,
+      "longitude": 5.935781,
+      "viewport": {
+        "northeast": {
+          "lat": 9.335206829892721,
+          "lng": 5.937130829892721
+        },
+        "southwest": {
+          "lat": 9.332507170107277,
+          "lng": 5.934431170107277
+        }
+      },
+      "formatted_address": "8WMP+G8R, 912103, Sadokashi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.333857,5.935781",
+      "google_place_id": "ChIJH6QSqCbFSxARbO9U78skWRg"
+    }
   },
   {
     "id": "336097",
@@ -77,7 +113,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3205485,
+      "longitude": 6.0847931,
+      "viewport": {
+        "northeast": {
+          "lat": 9.321898329892718,
+          "lng": 6.086142929892722
+        },
+        "southwest": {
+          "lat": 9.319198670107275,
+          "lng": 6.083443270107278
+        }
+      },
+      "formatted_address": "6FX883CM+6W8, Mammagi, 912103, Manmagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3205485,6.0847931",
+      "google_place_id": "ChIJTdShtXXpSxARkjarQGcGp04"
+    }
   },
   {
     "id": "336098",
@@ -93,7 +146,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.2933104,
+      "longitude": 6.089103199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.471394,
+          "lng": 6.150795500000001
+        },
+        "southwest": {
+          "lat": 9.183503800000002,
+          "lng": 5.866030599999999
+        }
+      },
+      "formatted_address": "Batako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.2933104,6.089103199999999",
+      "google_place_id": "ChIJ52_9XTfDSxAR-s2_z5cUr9k"
+    }
   },
   {
     "id": "336099",
@@ -109,7 +179,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.288903,
+      "longitude": 6.066996,
+      "viewport": {
+        "northeast": {
+          "lat": 9.290248229892722,
+          "lng": 6.068349979892722
+        },
+        "southwest": {
+          "lat": 9.287548570107278,
+          "lng": 6.065650320107278
+        }
+      },
+      "formatted_address": "6FX873Q8+HQ9, TSADU KASHI, 912103, Manmagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.288903,6.066996",
+      "google_place_id": "ChIJQbaQ1KTdSxAR0-R8vCi9atA"
+    }
   },
   {
     "id": "336100",
@@ -125,7 +212,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336101",
@@ -141,7 +229,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0673817,
+      "longitude": 6.5697816,
+      "viewport": {
+        "northeast": {
+          "lat": 9.068630279892725,
+          "lng": 6.571015579892721
+        },
+        "southwest": {
+          "lat": 9.065930620107281,
+          "lng": 6.568315920107278
+        }
+      },
+      "formatted_address": "3H89+XW3, Minna Rd, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0673817,6.5697816",
+      "google_place_id": "ChIJmdy4kZioThARMkz-V_L1e80"
+    }
   },
   {
     "id": "336102",
@@ -157,7 +262,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.256014,
+      "longitude": 6.070215,
+      "viewport": {
+        "northeast": {
+          "lat": 9.257419879892721,
+          "lng": 6.071568579892721
+        },
+        "southwest": {
+          "lat": 9.254720220107277,
+          "lng": 6.068868920107278
+        }
+      },
+      "formatted_address": "6FX8734C+C34 KUYIZHI BATAKO, Gara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.256014,6.070215",
+      "google_place_id": "ChIJbXOmlY_nSxAR-j3En_8DEII"
+    }
   },
   {
     "id": "336103",
@@ -173,7 +295,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3236258,
+      "longitude": 6.073918,
+      "viewport": {
+        "northeast": {
+          "lat": 9.324987829892722,
+          "lng": 6.075225579892722
+        },
+        "southwest": {
+          "lat": 9.322288170107278,
+          "lng": 6.072525920107278
+        }
+      },
+      "formatted_address": "Emitsowa Primary School, 912103, Emitswaiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3236258,6.073918",
+      "google_place_id": "ChIJsyuzfAToSxARfg6TV9wfT_A"
+    }
   },
   {
     "id": "336104",
@@ -189,7 +328,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336105",
@@ -205,7 +345,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336106",
@@ -221,7 +362,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336107",
@@ -237,7 +379,8 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336108",
@@ -253,7 +396,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0673817,
+      "longitude": 6.5697816,
+      "viewport": {
+        "northeast": {
+          "lat": 9.068630279892725,
+          "lng": 6.571015579892721
+        },
+        "southwest": {
+          "lat": 9.065930620107281,
+          "lng": 6.568315920107278
+        }
+      },
+      "formatted_address": "3H89+XW3, Minna Rd, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0673817,6.5697816",
+      "google_place_id": "ChIJmdy4kZioThARMkz-V_L1e80"
+    }
   },
   {
     "id": "336109",
@@ -269,7 +429,24 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.263052,
+      "longitude": 6.096649999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.263747500000001,
+          "lng": 6.097838479892721
+        },
+        "southwest": {
+          "lat": 9.2609655,
+          "lng": 6.095138820107278
+        }
+      },
+      "formatted_address": "6FX8737W+6MC, MANGEVULLA, 912103, Gara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.263052,6.096649999999999",
+      "google_place_id": "ChIJV9npcb3nSxARW2YD8tRQshk"
+    }
   },
   {
     "id": "336110",
@@ -285,6 +462,7 @@
     "local_government_id": "544",
     "local_government_name": "GBAKO",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

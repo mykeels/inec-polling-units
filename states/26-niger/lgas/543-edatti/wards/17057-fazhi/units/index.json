@@ -13,7 +13,24 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.3002412,
+      "longitude": 5.6668306,
+      "viewport": {
+        "northeast": {
+          "lat": 9.4211032,
+          "lng": 5.7645599
+        },
+        "southwest": {
+          "lat": 9.192251599999999,
+          "lng": 5.5970302
+        }
+      },
+      "formatted_address": "Dabban, 913102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.3002412,5.6668306",
+      "google_place_id": "ChIJWwRfxpstShAR7r1PhXDUXVI"
+    }
   },
   {
     "id": "336001",
@@ -29,7 +46,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336002",
@@ -45,7 +63,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336003",
@@ -61,7 +80,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336004",
@@ -77,6 +97,7 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

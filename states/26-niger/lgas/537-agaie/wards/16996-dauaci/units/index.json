@@ -13,7 +13,8 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334733",
@@ -29,7 +30,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.994512499999999,
+      "longitude": 6.2809325,
+      "viewport": {
+        "northeast": {
+          "lat": 8.99582897989272,
+          "lng": 6.282286879892721
+        },
+        "southwest": {
+          "lat": 8.993129320107276,
+          "lng": 6.279587220107278
+        }
+      },
+      "formatted_address": "6FW8X7VJ+Q9W, Bororoko, 911104, Agaie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.994512499999999,6.2809325",
+      "google_place_id": "ChIJISyyL5lRSRAR2ETIGn8zD8Y"
+    }
   },
   {
     "id": "334734",
@@ -45,7 +63,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.899968,
+      "longitude": 6.326557999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.90133087989272,
+          "lng": 6.328040329892723
+        },
+        "southwest": {
+          "lat": 8.898631220107276,
+          "lng": 6.325340670107279
+        }
+      },
+      "formatted_address": "6FW8V8XG+XJM BATAKO EWUGI agaie, Bulofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.899968,6.326557999999999",
+      "google_place_id": "ChIJ-ReBO2BNSRARLEMtolBPx0E"
+    }
   },
   {
     "id": "334735",
@@ -61,7 +96,8 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334736",
@@ -77,7 +113,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0041937,
+      "longitude": 6.3900283,
+      "viewport": {
+        "northeast": {
+          "lat": 9.005201999999999,
+          "lng": 6.393980000000001
+        },
+        "southwest": {
+          "lat": 8.9892659,
+          "lng": 6.388824100000001
+        }
+      },
+      "formatted_address": "911104, Ekpagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0041937,6.3900283",
+      "google_place_id": "ChIJi_fHS9ZSSRARbgpWkPzrYOM"
+    }
   },
   {
     "id": "334737",
@@ -93,7 +146,8 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334738",
@@ -109,7 +163,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0146102,
+      "longitude": 6.221336,
+      "viewport": {
+        "northeast": {
+          "lat": 9.015758,
+          "lng": 6.222812829892722
+        },
+        "southwest": {
+          "lat": 9.012979999999999,
+          "lng": 6.220113170107278
+        }
+      },
+      "formatted_address": "912104, Eye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0146102,6.221336",
+      "google_place_id": "ChIJ-e8ZC2ZaSRARyELTKrErLjs"
+    }
   },
   {
     "id": "334739",
@@ -125,7 +196,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9545418,
+      "longitude": 6.2797543,
+      "viewport": {
+        "northeast": {
+          "lat": 8.9579801,
+          "lng": 6.2868799
+        },
+        "southwest": {
+          "lat": 8.951869,
+          "lng": 6.2779909
+        }
+      },
+      "formatted_address": "911104, Ewugi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9545418,6.2797543",
+      "google_place_id": "ChIJ7-NJdytOSRARxg9NbImHajw"
+    }
   },
   {
     "id": "334740",
@@ -141,7 +229,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.001625599999999,
+      "longitude": 6.3680977,
+      "viewport": {
+        "northeast": {
+          "lat": 9.002929829892722,
+          "lng": 6.369408329892722
+        },
+        "southwest": {
+          "lat": 9.000230170107278,
+          "lng": 6.366708670107278
+        }
+      },
+      "formatted_address": "2929+M65, 911104, Ndamaza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.001625599999999,6.3680977",
+      "google_place_id": "ChIJ-1zOLf5SSRARBEd8sO14Bb4"
+    }
   },
   {
     "id": "334741",
@@ -157,7 +262,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9930548,
+      "longitude": 6.392790199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.99378787989272,
+          "lng": 6.393654400000002
+        },
+        "southwest": {
+          "lat": 8.991088220107276,
+          "lng": 6.390232799999999
+        }
+      },
+      "formatted_address": "6FW8X9VV+638 Ewugi Ward, SANTALI, 911104, Ekpagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9930548,6.392790199999999",
+      "google_place_id": "ChIJkUz-XSJTSRARq3-6dxpeQ0Q"
+    }
   },
   {
     "id": "334742",
@@ -173,7 +295,8 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334743",
@@ -189,7 +312,24 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.005163,
+      "longitude": 6.415652,
+      "viewport": {
+        "northeast": {
+          "lat": 9.006412779892722,
+          "lng": 6.417035629892722
+        },
+        "southwest": {
+          "lat": 9.003713120107278,
+          "lng": 6.414335970107278
+        }
+      },
+      "formatted_address": "6FX82C48+376 Ewugi ward, Ebugi, 911104, Ekpagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.005163,6.415652",
+      "google_place_id": "ChIJez4pkPmtThARB2TlEC39Nqk"
+    }
   },
   {
     "id": "334744",
@@ -205,6 +345,23 @@
     "local_government_id": "537",
     "local_government_name": "AGAIE",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.010558999999999,
+      "longitude": 6.31875,
+      "viewport": {
+        "northeast": {
+          "lat": 9.011910929892721,
+          "lng": 6.320093579892721
+        },
+        "southwest": {
+          "lat": 9.009211270107278,
+          "lng": 6.317393920107278
+        }
+      },
+      "formatted_address": "2869+6FH, 911104, Agaie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.010558999999999,6.31875",
+      "google_place_id": "ChIJRQ_CZ3xRSRAREjW4RIYuFr4"
+    }
   }
 ]

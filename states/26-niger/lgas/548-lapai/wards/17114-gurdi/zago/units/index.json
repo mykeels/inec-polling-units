@@ -13,7 +13,8 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336907",
@@ -29,7 +30,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.814673599999999,
+      "longitude": 6.7642047,
+      "viewport": {
+        "northeast": {
+          "lat": 8.816047429892722,
+          "lng": 6.765604629892722
+        },
+        "southwest": {
+          "lat": 8.813347770107278,
+          "lng": 6.762904970107278
+        }
+      },
+      "formatted_address": "Kapako Primary School, 911101, Tungan Kaura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.814673599999999,6.7642047",
+      "google_place_id": "ChIJ-zCat3aVThARQrSXDtSKFz0"
+    }
   },
   {
     "id": "336908",
@@ -45,7 +63,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.7938714,
+      "longitude": 6.611451100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.79521322989272,
+          "lng": 6.612671079892722
+        },
+        "southwest": {
+          "lat": 8.792513570107277,
+          "lng": 6.609971420107278
+        }
+      },
+      "formatted_address": "6FW8QJV6+FHP Duma Zago lapai Niger, 911101, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7938714,6.611451100000001",
+      "google_place_id": "ChIJW4QksNm5ThARRYXYAA_RkwI"
+    }
   },
   {
     "id": "336909",
@@ -61,7 +96,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.7938714,
+      "longitude": 6.611451100000001,
+      "viewport": {
+        "northeast": {
+          "lat": 8.79521322989272,
+          "lng": 6.612671079892722
+        },
+        "southwest": {
+          "lat": 8.792513570107277,
+          "lng": 6.609971420107278
+        }
+      },
+      "formatted_address": "6FW8QJV6+FHP Duma Zago lapai Niger, 911101, Nasarawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7938714,6.611451100000001",
+      "google_place_id": "ChIJW4QksNm5ThARRYXYAA_RkwI"
+    }
   },
   {
     "id": "336910",
@@ -77,7 +129,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.9283205,
+      "longitude": 6.8136642,
+      "viewport": {
+        "northeast": {
+          "lat": 9.018412699999999,
+          "lng": 6.9021148
+        },
+        "southwest": {
+          "lat": 8.732382099999999,
+          "lng": 6.7818827
+        }
+      },
+      "formatted_address": "Gurdi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9283205,6.8136642",
+      "google_place_id": "ChIJRX-PXk6RThARl1ZDZBUJCLg"
+    }
   },
   {
     "id": "336911",
@@ -93,7 +162,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.8475785,
+      "longitude": 6.606741599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.848962679892722,
+          "lng": 6.607864529892721
+        },
+        "southwest": {
+          "lat": 8.846263020107278,
+          "lng": 6.605164870107277
+        }
+      },
+      "formatted_address": "6FW8RJX4+2MQ Teleyi Duma Zago, Duma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8475785,6.606741599999999",
+      "google_place_id": "ChIJjzvyx2a5ThARaCcfLgCdzb8"
+    }
   },
   {
     "id": "336912",
@@ -109,7 +195,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.7559797,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 8.9498603,
+          "lng": 6.783906399999999
+        },
+        "southwest": {
+          "lat": 8.6348677,
+          "lng": 6.5334612
+        }
+      },
+      "formatted_address": "Gurdi/Zago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7559797,6.642433",
+      "google_place_id": "ChIJ_5rP3rO4ThARvWW-e__6lvU"
+    }
   },
   {
     "id": "336913",
@@ -125,7 +228,24 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.0673817,
+      "longitude": 6.5697816,
+      "viewport": {
+        "northeast": {
+          "lat": 9.068630279892725,
+          "lng": 6.571015579892721
+        },
+        "southwest": {
+          "lat": 9.065930620107281,
+          "lng": 6.568315920107278
+        }
+      },
+      "formatted_address": "3H89+XW3, Minna Rd, 911101, Lapai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.0673817,6.5697816",
+      "google_place_id": "ChIJmdy4kZioThARMkz-V_L1e80"
+    }
   },
   {
     "id": "336914",
@@ -141,7 +261,8 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336915",
@@ -157,7 +278,8 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336916",
@@ -173,6 +295,23 @@
     "local_government_id": "548",
     "local_government_name": "LAPAI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 8.7559797,
+      "longitude": 6.642433,
+      "viewport": {
+        "northeast": {
+          "lat": 8.9498603,
+          "lng": 6.783906399999999
+        },
+        "southwest": {
+          "lat": 8.6348677,
+          "lng": 6.5334612
+        }
+      },
+      "formatted_address": "Gurdi/Zago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7559797,6.642433",
+      "google_place_id": "ChIJ_5rP3rO4ThARvWW-e__6lvU"
+    }
   }
 ]

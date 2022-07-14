@@ -13,7 +13,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336076",
@@ -29,7 +30,24 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 44.7992576,
+      "longitude": -93.52545429999999,
+      "viewport": {
+        "northeast": {
+          "lat": 44.80065212989273,
+          "lng": -93.52411647010726
+        },
+        "southwest": {
+          "lat": 44.79795247010728,
+          "lng": -93.52681612989271
+        }
+      },
+      "formatted_address": "Co Rd 69, Shakopee, MN 55379, United States",
+      "google_map_url": "https://maps.google.com?q=44.7992576,-93.52545429999999",
+      "google_place_id": "ChIJPw4zJnQa9ocRnjqyi984chs"
+    }
   },
   {
     "id": "336077",
@@ -45,7 +63,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336078",
@@ -61,7 +80,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336079",
@@ -77,7 +97,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336080",
@@ -93,7 +114,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336081",
@@ -109,7 +131,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336082",
@@ -125,7 +148,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336083",
@@ -141,7 +165,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336084",
@@ -157,7 +182,8 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "336085",
@@ -173,6 +199,7 @@
     "local_government_id": "543",
     "local_government_name": "EDATTI",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

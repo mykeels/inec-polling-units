@@ -13,7 +13,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338043",
@@ -29,7 +30,24 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 9.646659399999999,
+      "longitude": 6.938954499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.647860979892723,
+          "lng": 6.940015629892722
+        },
+        "southwest": {
+          "lat": 9.64516132010728,
+          "lng": 6.937315970107278
+        }
+      },
+      "formatted_address": "6FX8JWWQ+MJ2 ward munya Niger, 921103, Fuka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.646659399999999,6.938954499999999",
+      "google_place_id": "ChIJP3Aga_NPTBARAsILfMtBqsY"
+    }
   },
   {
     "id": "338044",
@@ -45,7 +63,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338045",
@@ -61,7 +80,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338046",
@@ -77,7 +97,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338047",
@@ -93,7 +114,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338048",
@@ -109,7 +131,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338049",
@@ -125,7 +148,8 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "338050",
@@ -141,6 +165,7 @@
     "local_government_id": "554",
     "local_government_name": "MUNYA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   }
 ]

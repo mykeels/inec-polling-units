@@ -13,7 +13,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334837",
@@ -29,7 +30,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334838",
@@ -45,7 +47,24 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8788396,
+      "longitude": 4.583078899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.9570148,
+          "lng": 4.6940688
+        },
+        "southwest": {
+          "lat": 10.7574401,
+          "lng": 4.3438416
+        }
+      },
+      "formatted_address": "Mago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8788396,4.583078899999999",
+      "google_place_id": "ChIJY8yteIDbyhERcPR456u_g0U"
+    }
   },
   {
     "id": "334839",
@@ -61,7 +80,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334840",
@@ -77,7 +97,8 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": null
   },
   {
     "id": "334841",
@@ -93,6 +114,23 @@
     "local_government_id": "538",
     "local_government_name": "AGWARA",
     "state_id": "26",
-    "state_name": "NIGER"
+    "state_name": "NIGER",
+    "location": {
+      "latitude": 10.8720567,
+      "longitude": 4.42668,
+      "viewport": {
+        "northeast": {
+          "lat": 10.87338152989272,
+          "lng": 4.428127629892722
+        },
+        "southwest": {
+          "lat": 10.87068187010728,
+          "lng": 4.425427970107278
+        }
+      },
+      "formatted_address": "VCCG+RMF, 913106, Tungar Noma, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.8720567,4.42668",
+      "google_place_id": "ChIJv3cP5TrfyhERWW7qrRDwhy8"
+    }
   }
 ]
