@@ -1,13 +1,14 @@
 /**
  * This script walks through the polling units data, and retrieves location data for
  * each polling unit, using Google Places API.
- * 
+ *
  * To run, you will need to provide a GOOGLE_PLACES_API_KEY env var in a .env file
  */
 
 const fs = require("fs");
 const path = require("path");
 const { default: axios } = require("axios");
+const walk = require('./walk')
 
 require("dotenv").config();
 
@@ -25,14 +26,6 @@ async function getAddressGeocode(...args) {
       console.error(error);
       return null;
     });
-}
-
-async function* walk(dir) {
-  for await (const d of await fs.promises.opendir(dir)) {
-    const entry = path.join(dir, d.name);
-    if (d.isDirectory()) yield* walk(entry);
-    else if (d.isFile()) yield entry;
-  }
 }
 
 const getUnitWithGeolocation = async (unit) => {

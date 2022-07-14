@@ -5,7 +5,8 @@
   "main": "scripts/generate-csv-file.script.js",
   "scripts": {
     "generate-csv-file": "node scripts/generate-csv-file.script.js",
-    "lookup-geocode": "node scripts/lookup-geocode.script.js"
+    "lookup-geocode": "node scripts/lookup-geocode.script.js",
+    "generate-unit-stats": "node scripts/generate-unit-stats.script.js"
   },
   "repository": {
     "type": "git",
