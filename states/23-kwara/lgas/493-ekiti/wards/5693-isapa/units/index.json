@@ -13,7 +13,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.131917999999999,
+      "longitude": 5.320706899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.173152199999999,
+          "lng": 5.376626799999999
+        },
+        "southwest": {
+          "lat": 8.102937299999999,
+          "lng": 5.279758999999999
+        }
+      },
+      "formatted_address": "Isapa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.131917999999999,5.320706899999999",
+      "google_place_id": "ChIJA4rcJWE-SBAROIZFtRUHAzA"
+    }
   },
   {
     "id": "109532",
@@ -29,7 +46,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.137698499999999,
+      "longitude": 5.329273,
+      "viewport": {
+        "northeast": {
+          "lat": 8.139075929892721,
+          "lng": 5.330689429892722
+        },
+        "southwest": {
+          "lat": 8.136376270107277,
+          "lng": 5.327989770107278
+        }
+      },
+      "formatted_address": "48QH+3PC, 252105, Araromi Opin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.137698499999999,5.329273",
+      "google_place_id": "ChIJF2r0z2A-SBAR-ZWUfNORnPM"
+    }
   },
   {
     "id": "109533",
@@ -45,7 +79,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109534",
@@ -61,7 +96,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.131917999999999,
+      "longitude": 5.320706899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.173152199999999,
+          "lng": 5.376626799999999
+        },
+        "southwest": {
+          "lat": 8.102937299999999,
+          "lng": 5.279758999999999
+        }
+      },
+      "formatted_address": "Isapa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.131917999999999,5.320706899999999",
+      "google_place_id": "ChIJA4rcJWE-SBAROIZFtRUHAzA"
+    }
   },
   {
     "id": "109535",
@@ -77,7 +129,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.131917999999999,
+      "longitude": 5.320706899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.173152199999999,
+          "lng": 5.376626799999999
+        },
+        "southwest": {
+          "lat": 8.102937299999999,
+          "lng": 5.279758999999999
+        }
+      },
+      "formatted_address": "Isapa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.131917999999999,5.320706899999999",
+      "google_place_id": "ChIJA4rcJWE-SBAROIZFtRUHAzA"
+    }
   },
   {
     "id": "109536",
@@ -93,7 +162,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109537",
@@ -109,7 +179,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 7.8026001,
+      "longitude": 5.52116,
+      "viewport": {
+        "northeast": {
+          "lat": 7.804111529892721,
+          "lng": 5.522505179892721
+        },
+        "southwest": {
+          "lat": 7.801411870107277,
+          "lng": 5.519805520107277
+        }
+      },
+      "formatted_address": "370105, Ikole, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.8026001,5.52116",
+      "google_place_id": "ChIJS98zxwJ3SBARaA1DcRE7G20"
+    }
   },
   {
     "id": "109538",
@@ -125,6 +212,7 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

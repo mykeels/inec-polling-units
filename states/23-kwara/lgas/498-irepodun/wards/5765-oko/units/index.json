@@ -13,7 +13,24 @@
     "local_government_id": "498",
     "local_government_name": "IREPODUN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.157983399999999,
+      "longitude": 5.1843556,
+      "viewport": {
+        "northeast": {
+          "lat": 8.159520979892722,
+          "lng": 5.185642279892722
+        },
+        "southwest": {
+          "lat": 8.156821320107278,
+          "lng": 5.182942620107278
+        }
+      },
+      "formatted_address": "555M+5PX, 252101, Oko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.157983399999999,5.1843556",
+      "google_place_id": "ChIJPUEfg6cjSBARPWies0zX8Q4"
+    }
   },
   {
     "id": "111048",
@@ -29,7 +46,24 @@
     "local_government_id": "498",
     "local_government_name": "IREPODUN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4748635,
+      "longitude": 4.537487899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.476222029892723,
+          "lng": 4.538842729892722
+        },
+        "southwest": {
+          "lat": 8.473522370107279,
+          "lng": 4.536143070107278
+        }
+      },
+      "formatted_address": "FGFP+WXQ, Oko-Erin Rd, 240281, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4748635,4.537487899999999",
+      "google_place_id": "ChIJuy0JTMFSNhARKWwz_Y6tBn4"
+    }
   },
   {
     "id": "111049",
@@ -45,7 +79,24 @@
     "local_government_id": "498",
     "local_government_name": "IREPODUN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1584617,
+      "longitude": 5.1614534,
+      "viewport": {
+        "northeast": {
+          "lat": 8.167105,
+          "lng": 5.172827
+        },
+        "southwest": {
+          "lat": 8.153255999999999,
+          "lng": 5.148016999999999
+        }
+      },
+      "formatted_address": "251103, Oko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1584617,5.1614534",
+      "google_place_id": "ChIJw-GEV8cjSBARZCwXJboSSfk"
+    }
   },
   {
     "id": "111050",
@@ -61,7 +112,24 @@
     "local_government_id": "498",
     "local_government_name": "IREPODUN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5247941,
+      "longitude": 4.4845206,
+      "viewport": {
+        "northeast": {
+          "lat": 8.52613787989272,
+          "lng": 4.485912579892722
+        },
+        "southwest": {
+          "lat": 8.523438220107277,
+          "lng": 4.483212920107278
+        }
+      },
+      "formatted_address": "GFFM+WRV, 240281, Oko Erin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5247941,4.4845206",
+      "google_place_id": "ChIJSRB7g8RTNhARMZgDrxrPEpI"
+    }
   },
   {
     "id": "111051",
@@ -77,7 +145,24 @@
     "local_government_id": "498",
     "local_government_name": "IREPODUN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4647448,
+      "longitude": 4.537801,
+      "viewport": {
+        "northeast": {
+          "lat": 8.466043779892722,
+          "lng": 4.539078629892722
+        },
+        "southwest": {
+          "lat": 8.463344120107278,
+          "lng": 4.536378970107278
+        }
+      },
+      "formatted_address": "FG7Q+V4V, 240281, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4647448,4.537801",
+      "google_place_id": "ChIJ1Zxt6khTNhARD6Tzo3UI2BY"
+    }
   },
   {
     "id": "111052",
@@ -93,6 +178,23 @@
     "local_government_id": "498",
     "local_government_name": "IREPODUN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1584617,
+      "longitude": 5.1614534,
+      "viewport": {
+        "northeast": {
+          "lat": 8.167105,
+          "lng": 5.172827
+        },
+        "southwest": {
+          "lat": 8.153255999999999,
+          "lng": 5.148016999999999
+        }
+      },
+      "formatted_address": "251103, Oko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1584617,5.1614534",
+      "google_place_id": "ChIJw-GEV8cjSBARZCwXJboSSfk"
+    }
   }
 ]

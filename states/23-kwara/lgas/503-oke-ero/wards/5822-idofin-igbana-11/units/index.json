@@ -13,7 +13,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.221913599999999,
+      "longitude": 4.9970169,
+      "viewport": {
+        "northeast": {
+          "lat": 8.223212979892722,
+          "lng": 4.998312879892723
+        },
+        "southwest": {
+          "lat": 8.220513320107278,
+          "lng": 4.995613220107279
+        }
+      },
+      "formatted_address": "6XCW+QR6, 251105, Oke Onigbin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.221913599999999,4.9970169",
+      "google_place_id": "ChIJ0e_oSW3ZNxARIRtOUm6MNYA"
+    }
   },
   {
     "id": "111619",
@@ -29,7 +46,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0933426,
+      "longitude": 5.1458658,
+      "viewport": {
+        "northeast": {
+          "lat": 8.094695729892722,
+          "lng": 5.147221329892722
+        },
+        "southwest": {
+          "lat": 8.091996070107278,
+          "lng": 5.144521670107278
+        }
+      },
+      "formatted_address": "34VW+88W, 252101, Ilofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0933426,5.1458658",
+      "google_place_id": "ChIJAQAAAK0YSBARSfLT9TVkbMA"
+    }
   },
   {
     "id": "111620",
@@ -45,7 +79,8 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111621",
@@ -61,7 +96,8 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111622",
@@ -77,6 +113,7 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

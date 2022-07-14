@@ -13,7 +13,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109046",
@@ -29,7 +30,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3938426,
+      "longitude": 4.6064472,
+      "viewport": {
+        "northeast": {
+          "lat": 8.395195729892723,
+          "lng": 4.607796379892722
+        },
+        "southwest": {
+          "lat": 8.39249607010728,
+          "lng": 4.605096720107278
+        }
+      },
+      "formatted_address": "9JV4+GHP, 240104, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3938426,4.6064472",
+      "google_place_id": "ChIJU2tfqLWzNxARN20PAdsGYe4"
+    }
   },
   {
     "id": "109047",
@@ -45,7 +63,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3591489,
+      "longitude": 4.613721,
+      "viewport": {
+        "northeast": {
+          "lat": 8.360498729892722,
+          "lng": 4.615070829892722
+        },
+        "southwest": {
+          "lat": 8.357799070107278,
+          "lng": 4.612371170107278
+        }
+      },
+      "formatted_address": "9J57+MF5, 240104, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3591489,4.613721",
+      "google_place_id": "ChIJs90cE_axNxARDhMU1MW7ch0"
+    }
   },
   {
     "id": "109048",
@@ -61,7 +96,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109049",
@@ -77,7 +113,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4924946,
+      "longitude": 4.5523889,
+      "viewport": {
+        "northeast": {
+          "lat": 8.493837279892722,
+          "lng": 4.553701379892722
+        },
+        "southwest": {
+          "lat": 8.491137620107278,
+          "lng": 4.551001720107278
+        }
+      },
+      "formatted_address": "209 Lagos Road, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4924946,4.5523889",
+      "google_place_id": "ChIJdWfIY4VSNhARHysnepa1_MQ"
+    }
   },
   {
     "id": "109050",
@@ -93,7 +146,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3591489,
+      "longitude": 4.613721,
+      "viewport": {
+        "northeast": {
+          "lat": 8.360498729892722,
+          "lng": 4.615070829892722
+        },
+        "southwest": {
+          "lat": 8.357799070107278,
+          "lng": 4.612371170107278
+        }
+      },
+      "formatted_address": "9J57+MF5, 240104, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3591489,4.613721",
+      "google_place_id": "ChIJs90cE_axNxARDhMU1MW7ch0"
+    }
   },
   {
     "id": "109051",
@@ -109,7 +179,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.358740599999999,
+      "longitude": 4.6140481,
+      "viewport": {
+        "northeast": {
+          "lat": 8.360090429892718,
+          "lng": 4.615397929892722
+        },
+        "southwest": {
+          "lat": 8.357390770107274,
+          "lng": 4.612698270107278
+        }
+      },
+      "formatted_address": "9J57+FJV, 240104, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.358740599999999,4.6140481",
+      "google_place_id": "ChIJq6qqqnqxNxARKcVm0j_mP54"
+    }
   },
   {
     "id": "109052",
@@ -125,6 +212,23 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5812511,
+      "longitude": 4.7172209,
+      "viewport": {
+        "northeast": {
+          "lat": 8.582718379892722,
+          "lng": 4.718503029892723
+        },
+        "southwest": {
+          "lat": 8.580018720107278,
+          "lng": 4.715803370107279
+        }
+      },
+      "formatted_address": "HPJ8+GV5, Igporin-Oke Oyi, 241102, Oke Oyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5812511,4.7172209",
+      "google_place_id": "ChIJ6SYZA85JNhAR0M49FTcVQVc"
+    }
   }
 ]

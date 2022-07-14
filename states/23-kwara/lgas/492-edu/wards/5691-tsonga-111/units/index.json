@@ -13,7 +13,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.535458499999999,
+      "longitude": 4.6169458,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536815929892724,
+          "lng": 4.618311429892722
+        },
+        "southwest": {
+          "lat": 8.534116270107278,
+          "lng": 4.615611770107278
+        }
+      },
+      "formatted_address": "GJP8+5QM, Share-Oja Oba Road, 241102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.535458499999999,4.6169458",
+      "google_place_id": "ChIJbdkwUSxNNhARtOGw9S4tT5o"
+    }
   },
   {
     "id": "109512",
@@ -29,7 +46,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.9010269,
+      "longitude": 5.1206164,
+      "viewport": {
+        "northeast": {
+          "lat": 8.901869329892723,
+          "lng": 5.121939329892722
+        },
+        "southwest": {
+          "lat": 8.899169670107279,
+          "lng": 5.119239670107278
+        }
+      },
+      "formatted_address": "W42C+C69, 243102, Ndatsadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9010269,5.1206164",
+      "google_place_id": "ChIJb64uz8LjSRARm5_aqnQ5-5g"
+    }
   },
   {
     "id": "109513",
@@ -45,7 +79,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.9007041,
+      "longitude": 5.121307499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.901768729892723,
+          "lng": 5.122903179892722
+        },
+        "southwest": {
+          "lat": 8.899069070107279,
+          "lng": 5.120203520107278
+        }
+      },
+      "formatted_address": "W42C+7GM, 243102, Ndatsadu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9007041,5.121307499999999",
+      "google_place_id": "ChIJbdiIs8LjSRAR7k2nmqEDktI"
+    }
   },
   {
     "id": "109514",
@@ -61,7 +112,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.535458499999999,
+      "longitude": 4.6169458,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536815929892724,
+          "lng": 4.618311429892722
+        },
+        "southwest": {
+          "lat": 8.534116270107278,
+          "lng": 4.615611770107278
+        }
+      },
+      "formatted_address": "GJP8+5QM, Share-Oja Oba Road, 241102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.535458499999999,4.6169458",
+      "google_place_id": "ChIJbdkwUSxNNhARtOGw9S4tT5o"
+    }
   },
   {
     "id": "109515",
@@ -77,7 +145,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7831865,
+      "longitude": 5.1778992,
+      "viewport": {
+        "northeast": {
+          "lat": 8.784532479892723,
+          "lng": 5.179248379892721
+        },
+        "southwest": {
+          "lat": 8.78183282010728,
+          "lng": 5.176548720107277
+        }
+      },
+      "formatted_address": "Q5MH+75C, 243101, Zambufu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7831865,5.1778992",
+      "google_place_id": "ChIJ7Y5GbJndSRARhHDZo4bcOsE"
+    }
   },
   {
     "id": "109516",
@@ -93,7 +178,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.8368199,
+      "longitude": 5.3985362,
+      "viewport": {
+        "northeast": {
+          "lat": 8.838309979892722,
+          "lng": 5.400000029892722
+        },
+        "southwest": {
+          "lat": 8.835610320107278,
+          "lng": 5.397300370107278
+        }
+      },
+      "formatted_address": "R9PX+PCF, Gbugbu-Lafiagi Rd, 243101, Lafiagi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.8368199,5.3985362",
+      "google_place_id": "ChIJG3ki-yuVSRAREx_tNDugCOg"
+    }
   },
   {
     "id": "109517",
@@ -109,7 +211,8 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109518",
@@ -125,7 +228,8 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109519",
@@ -141,7 +245,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.535458499999999,
+      "longitude": 4.6169458,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536815929892724,
+          "lng": 4.618311429892722
+        },
+        "southwest": {
+          "lat": 8.534116270107278,
+          "lng": 4.615611770107278
+        }
+      },
+      "formatted_address": "GJP8+5QM, Share-Oja Oba Road, 241102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.535458499999999,4.6169458",
+      "google_place_id": "ChIJbdkwUSxNNhARtOGw9S4tT5o"
+    }
   },
   {
     "id": "109520",
@@ -157,7 +278,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.821379499999999,
+      "longitude": 4.978016999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.822352679892722,
+          "lng": 4.979180329892722
+        },
+        "southwest": {
+          "lat": 8.819653020107278,
+          "lng": 4.976480670107278
+        }
+      },
+      "formatted_address": "RXCH+H62, LGA, 241107, Share, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.821379499999999,4.978016999999999",
+      "google_place_id": "ChIJn49GFUsfNhAR17KyWUc1u6c"
+    }
   },
   {
     "id": "109521",
@@ -173,7 +311,8 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109522",
@@ -189,7 +328,24 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7831865,
+      "longitude": 5.1778992,
+      "viewport": {
+        "northeast": {
+          "lat": 8.784532479892723,
+          "lng": 5.179248379892721
+        },
+        "southwest": {
+          "lat": 8.78183282010728,
+          "lng": 5.176548720107277
+        }
+      },
+      "formatted_address": "Q5MH+75C, 243101, Zambufu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7831865,5.1778992",
+      "google_place_id": "ChIJ7Y5GbJndSRARhHDZo4bcOsE"
+    }
   },
   {
     "id": "109523",
@@ -205,6 +361,7 @@
     "local_government_id": "492",
     "local_government_name": "EDU",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7791138,
+      "longitude": 4.4952589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.780487379892723,
+          "lng": 4.496504879892721
+        },
+        "southwest": {
+          "lat": 8.777787720107279,
+          "lng": 4.493805220107277
+        }
+      },
+      "formatted_address": "Kondoro Alagbede-Akbuyo, 241103, Obaninsa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7791138,4.4952589",
+      "google_place_id": "ChIJHQZV1MVdNhAR_2cI5wNpPzc"
+    }
   },
   {
     "id": "111371",
@@ -29,7 +46,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.888051899999999,
+      "longitude": 4.3947432,
+      "viewport": {
+        "northeast": {
+          "lat": 8.8893691,
+          "lng": 4.396324
+        },
+        "southwest": {
+          "lat": 8.886591,
+          "lng": 4.393269
+        }
+      },
+      "formatted_address": "241104, Karibuje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.888051899999999,4.3947432",
+      "google_place_id": "ChIJ1RDpKwaKNhARbgsLApgLHjk"
+    }
   },
   {
     "id": "111372",
@@ -45,7 +79,8 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111373",
@@ -61,6 +96,23 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7319003,
+      "longitude": 4.3848217,
+      "viewport": {
+        "northeast": {
+          "lat": 8.73328172989272,
+          "lng": 4.386182479892723
+        },
+        "southwest": {
+          "lat": 8.730582070107276,
+          "lng": 4.383482820107279
+        }
+      },
+      "formatted_address": "P9JM+QW8, 241104, Alateko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7319003,4.3848217",
+      "google_place_id": "ChIJ0WEXCOX1NhARKzPTfWc9QwA"
+    }
   }
 ]

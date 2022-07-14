@@ -13,7 +13,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1451449,
+      "longitude": 5.512039199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.150746,
+          "lng": 5.515179
+        },
+        "southwest": {
+          "lat": 8.139727,
+          "lng": 5.506284
+        }
+      },
+      "formatted_address": "252105, Koro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1451449,5.512039199999999",
+      "google_place_id": "ChIJzww6jKhDSBAR6J8jWbZRjF4"
+    }
   },
   {
     "id": "109540",
@@ -29,7 +46,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109541",
@@ -45,7 +63,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109542",
@@ -61,7 +80,24 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 7.7439304,
+      "longitude": 5.639907699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.745256579892722,
+          "lng": 5.641051179892722
+        },
+        "southwest": {
+          "lat": 7.742556920107278,
+          "lng": 5.638351520107278
+        }
+      },
+      "formatted_address": "Eda-Ile, 362221, Eda Ile Ekiti, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.7439304,5.639907699999999",
+      "google_place_id": "ChIJO8-r_GPXRxARSX0PZHLN0n0"
+    }
   },
   {
     "id": "109543",
@@ -77,6 +113,23 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 7.263800000000001,
+      "longitude": 5.3479,
+      "viewport": {
+        "northeast": {
+          "lat": 7.264837329892722,
+          "lng": 5.349108179892722
+        },
+        "southwest": {
+          "lat": 7.262137670107278,
+          "lng": 5.346408520107278
+        }
+      },
+      "formatted_address": "787X+G5C, 340284, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.263800000000001,5.3479",
+      "google_place_id": "ChIJbanA3giXRxARqD3VkP5rJiU"
+    }
   }
 ]

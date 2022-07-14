@@ -13,7 +13,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.5788508,
+      "longitude": 3.9595481,
+      "viewport": {
+        "northeast": {
+          "lat": 9.580217279892722,
+          "lng": 3.960905829892722
+        },
+        "southwest": {
+          "lat": 9.577517620107278,
+          "lng": 3.958206170107278
+        }
+      },
+      "formatted_address": "Gwattekuta Klgea Primary School, 242101, Gwenegbata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.5788508,3.9595481",
+      "google_place_id": "ChIJT8iVKEVsNBAR-bDZmPDlsVk"
+    }
   },
   {
     "id": "111183",
@@ -29,7 +46,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111184",
@@ -45,7 +63,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6007585,
+      "longitude": 3.9390973,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60212212989272,
+          "lng": 3.940454779892721
+        },
+        "southwest": {
+          "lat": 9.599422470107276,
+          "lng": 3.937755120107278
+        }
+      },
+      "formatted_address": "School, A7, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6007585,3.9390973",
+      "google_place_id": "ChIJUU5Ly6dtNBARdtz_ip41ViY"
+    }
   },
   {
     "id": "111185",
@@ -61,7 +96,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111186",
@@ -77,7 +113,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111187",
@@ -93,7 +130,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111188",
@@ -109,7 +147,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111189",
@@ -125,7 +164,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111190",
@@ -141,7 +181,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111191",
@@ -157,7 +198,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6061824,
+      "longitude": 3.9419851,
+      "viewport": {
+        "northeast": {
+          "lat": 9.607460479892723,
+          "lng": 3.943267979892722
+        },
+        "southwest": {
+          "lat": 9.604760820107279,
+          "lng": 3.940568320107278
+        }
+      },
+      "formatted_address": "1 Baade Kompound Kaiam, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6061824,3.9419851",
+      "google_place_id": "ChIJQzXG3-ptNBARH5Y_ZPj04FM"
+    }
   },
   {
     "id": "111192",
@@ -173,7 +231,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6007585,
+      "longitude": 3.9390973,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60212212989272,
+          "lng": 3.940454779892721
+        },
+        "southwest": {
+          "lat": 9.599422470107276,
+          "lng": 3.937755120107278
+        }
+      },
+      "formatted_address": "School, A7, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6007585,3.9390973",
+      "google_place_id": "ChIJUU5Ly6dtNBARdtz_ip41ViY"
+    }
   },
   {
     "id": "111193",
@@ -189,6 +264,7 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

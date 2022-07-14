@@ -13,7 +13,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6095591,
+      "longitude": 3.9379861,
+      "viewport": {
+        "northeast": {
+          "lat": 9.610856029892723,
+          "lng": 3.939323529892722
+        },
+        "southwest": {
+          "lat": 9.60815637010728,
+          "lng": 3.936623870107278
+        }
+      },
+      "formatted_address": "JW5Q+R5H, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6095591,3.9379861",
+      "google_place_id": "ChIJr_TeQC5tNBAR9B65yrMo3R0"
+    }
   },
   {
     "id": "111210",
@@ -29,7 +46,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6061824,
+      "longitude": 3.9419851,
+      "viewport": {
+        "northeast": {
+          "lat": 9.607460479892723,
+          "lng": 3.943267979892722
+        },
+        "southwest": {
+          "lat": 9.604760820107279,
+          "lng": 3.940568320107278
+        }
+      },
+      "formatted_address": "JW4R+FQQ, Along, gbenagiziri road, 319617, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6061824,3.9419851",
+      "google_place_id": "ChIJizzU_extNBARl-gQSovSNeU"
+    }
   },
   {
     "id": "111211",
@@ -45,7 +79,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111212",
@@ -61,7 +96,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111213",
@@ -77,7 +113,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111214",
@@ -93,7 +130,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6597673,
+      "longitude": 3.962275099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.66112437989272,
+          "lng": 3.963608679892721
+        },
+        "southwest": {
+          "lat": 9.658424720107277,
+          "lng": 3.960909020107278
+        }
+      },
+      "formatted_address": "Road, 242101, Tenebo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6597673,3.962275099999999",
+      "google_place_id": "ChIJeVCAhqJvNBARgXMIocDz2dE"
+    }
   },
   {
     "id": "111215",
@@ -109,6 +163,7 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

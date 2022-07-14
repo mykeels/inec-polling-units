@@ -13,7 +13,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109107",
@@ -29,7 +30,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4835873,
+      "longitude": 4.5472616,
+      "viewport": {
+        "northeast": {
+          "lat": 8.48491957989272,
+          "lng": 4.548622129892721
+        },
+        "southwest": {
+          "lat": 8.482219920107276,
+          "lng": 4.545922470107278
+        }
+      },
+      "formatted_address": "FGMW+CWJ, Mejindadi St, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4835873,4.5472616",
+      "google_place_id": "ChIJ81OonpZSNhARn8wy4ffRnTQ"
+    }
   },
   {
     "id": "109108",
@@ -45,7 +63,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5812511,
+      "longitude": 4.7172209,
+      "viewport": {
+        "northeast": {
+          "lat": 8.582718379892722,
+          "lng": 4.718503029892723
+        },
+        "southwest": {
+          "lat": 8.580018720107278,
+          "lng": 4.715803370107279
+        }
+      },
+      "formatted_address": "HPJ8+GV5, Igporin-Oke Oyi, 241102, Oke Oyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5812511,4.7172209",
+      "google_place_id": "ChIJ6SYZA85JNhAR0M49FTcVQVc"
+    }
   },
   {
     "id": "109109",
@@ -61,6 +96,23 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.409834,
+      "longitude": 4.588199299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.410826729892724,
+          "lng": 4.589533779892722
+        },
+        "southwest": {
+          "lat": 8.40812707010728,
+          "lng": 4.586834120107278
+        }
+      },
+      "formatted_address": "CH5Q+W7J, 240104, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.409834,4.588199299999999",
+      "google_place_id": "ChIJke8Ty16yNxAR4oK94ithxmY"
+    }
   }
 ]

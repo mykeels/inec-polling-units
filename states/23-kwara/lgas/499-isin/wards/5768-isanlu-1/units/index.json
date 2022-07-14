@@ -13,7 +13,8 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111064",
@@ -29,7 +30,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2289073,
+      "longitude": 5.0828142,
+      "viewport": {
+        "northeast": {
+          "lat": 8.230265429892722,
+          "lng": 5.084176529892722
+        },
+        "southwest": {
+          "lat": 8.227565770107278,
+          "lng": 5.081476870107278
+        }
+      },
+      "formatted_address": "63HM+H3H, 251106, Isanlu Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2289073,5.0828142",
+      "google_place_id": "ChIJHQULDQsnSBARkuVRm_Tj6lw"
+    }
   },
   {
     "id": "111065",
@@ -45,7 +63,8 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111066",
@@ -61,7 +80,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2298031,
+      "longitude": 5.0842261,
+      "viewport": {
+        "northeast": {
+          "lat": 8.23116047989272,
+          "lng": 5.085569829892721
+        },
+        "southwest": {
+          "lat": 8.228460820107276,
+          "lng": 5.082870170107277
+        }
+      },
+      "formatted_address": "63HM+WMH, 251106, Isanlu Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2298031,5.0842261",
+      "google_place_id": "ChIJk12LswsnSBARTHkac3RxTNw"
+    }
   },
   {
     "id": "111067",
@@ -77,7 +113,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.452906800000001,
+      "longitude": 4.581114599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.454248079892723,
+          "lng": 4.582477029892722
+        },
+        "southwest": {
+          "lat": 8.45154842010728,
+          "lng": 4.579777370107278
+        }
+      },
+      "formatted_address": "FH3J+5C9, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.452906800000001,4.581114599999999",
+      "google_place_id": "ChIJTwZ8z7WyNxARgMVwrzfpdUs"
+    }
   },
   {
     "id": "111068",
@@ -93,7 +146,8 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111069",
@@ -109,7 +163,8 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111070",
@@ -125,6 +180,23 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2289073,
+      "longitude": 5.0828142,
+      "viewport": {
+        "northeast": {
+          "lat": 8.230265429892722,
+          "lng": 5.084176529892722
+        },
+        "southwest": {
+          "lat": 8.227565770107278,
+          "lng": 5.081476870107278
+        }
+      },
+      "formatted_address": "63HM+H3H, 251106, Isanlu Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2289073,5.0828142",
+      "google_place_id": "ChIJHQULDQsnSBARkuVRm_Tj6lw"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111835",
@@ -29,7 +30,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111836",
@@ -45,7 +47,24 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7582152,
+      "longitude": 5.6161807,
+      "viewport": {
+        "northeast": {
+          "lat": 8.759569479892724,
+          "lng": 5.617527929892721
+        },
+        "southwest": {
+          "lat": 8.75686982010728,
+          "lng": 5.614828270107277
+        }
+      },
+      "formatted_address": "QJ58+7FM, 243104, Lade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7582152,5.6161807",
+      "google_place_id": "ChIJcy4YTk6iSRARKoVxKtjlzXw"
+    }
   },
   {
     "id": "111837",
@@ -61,7 +80,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111838",
@@ -77,7 +97,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111839",
@@ -93,7 +114,24 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7540555,
+      "longitude": 5.6168266,
+      "viewport": {
+        "northeast": {
+          "lat": 8.755438979892721,
+          "lng": 5.618175379892722
+        },
+        "southwest": {
+          "lat": 8.752739320107278,
+          "lng": 5.615475720107278
+        }
+      },
+      "formatted_address": "QJ38+JPG, 243104, Lade, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7540555,5.6168266",
+      "google_place_id": "ChIJk9XMTEyiSRARysZSr0odU0s"
+    }
   },
   {
     "id": "111840",
@@ -109,7 +147,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111841",
@@ -125,7 +164,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111842",
@@ -141,7 +181,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111843",
@@ -157,7 +198,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111844",
@@ -173,7 +215,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111845",
@@ -189,7 +232,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111846",
@@ -205,6 +249,7 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

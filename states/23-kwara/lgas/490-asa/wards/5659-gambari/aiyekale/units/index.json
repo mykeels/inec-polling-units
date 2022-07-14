@@ -13,7 +13,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5459975,
+      "longitude": 4.425258599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.54734732989272,
+          "lng": 4.426608429892721
+        },
+        "southwest": {
+          "lat": 8.544647670107276,
+          "lng": 4.423908770107277
+        }
+      },
+      "formatted_address": "GCWG+94R, 240106, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5459975,4.425258599999999",
+      "google_place_id": "ChIJaznckdhVNhARhrgux7at_68"
+    }
   },
   {
     "id": "109013",
@@ -29,7 +46,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.382959699999999,
+      "longitude": 4.571858499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.384290529892722,
+          "lng": 4.573264829892723
+        },
+        "southwest": {
+          "lat": 8.381590870107278,
+          "lng": 4.570565170107279
+        }
+      },
+      "formatted_address": "9HMC+5PQ, 240104, Ago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.382959699999999,4.571858499999999",
+      "google_place_id": "ChIJUZU0xA-yNxARhvrn1fIcSbo"
+    }
   },
   {
     "id": "109014",
@@ -45,6 +79,23 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5459975,
+      "longitude": 4.425258599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.54734732989272,
+          "lng": 4.426608429892721
+        },
+        "southwest": {
+          "lat": 8.544647670107276,
+          "lng": 4.423908770107277
+        }
+      },
+      "formatted_address": "GCWG+94R, 240106, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5459975,4.425258599999999",
+      "google_place_id": "ChIJaznckdhVNhARhrgux7at_68"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5812511,
+      "longitude": 4.7172209,
+      "viewport": {
+        "northeast": {
+          "lat": 8.582718379892722,
+          "lng": 4.718503029892723
+        },
+        "southwest": {
+          "lat": 8.580018720107278,
+          "lng": 4.715803370107279
+        }
+      },
+      "formatted_address": "HPJ8+GV5, Igporin-Oke Oyi, 241102, Oke Oyi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5812511,4.7172209",
+      "google_place_id": "ChIJ6SYZA85JNhAR0M49FTcVQVc"
+    }
   },
   {
     "id": "109972",
@@ -29,7 +46,24 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.535458499999999,
+      "longitude": 4.6169458,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536815929892724,
+          "lng": 4.618311429892722
+        },
+        "southwest": {
+          "lat": 8.534116270107278,
+          "lng": 4.615611770107278
+        }
+      },
+      "formatted_address": "GJP8+5QM, Share-Oja Oba Road, 241102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.535458499999999,4.6169458",
+      "google_place_id": "ChIJbdkwUSxNNhARtOGw9S4tT5o"
+    }
   },
   {
     "id": "109973",
@@ -45,7 +79,8 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109974",
@@ -61,7 +96,24 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0194359,
+      "longitude": 4.6127574,
+      "viewport": {
+        "northeast": {
+          "lat": 8.020748779892722,
+          "lng": 4.614135129892722
+        },
+        "southwest": {
+          "lat": 8.018049120107278,
+          "lng": 4.611435470107278
+        }
+      },
+      "formatted_address": "Bales Odes Compound, 231104, Okua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0194359,4.6127574",
+      "google_place_id": "ChIJPaIi5LKRNxARB1ttU1nUXlk"
+    }
   },
   {
     "id": "109975",
@@ -77,7 +129,24 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.502761500000002,
+      "longitude": 4.606821099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.504079629892724,
+          "lng": 4.607976579892721
+        },
+        "southwest": {
+          "lat": 8.50137997010728,
+          "lng": 4.605276920107277
+        }
+      },
+      "formatted_address": "school, No. 17,Taoheed, Basin Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.502761500000002,4.606821099999999",
+      "google_place_id": "ChIJ66JNI7hNNhAR7Y8R5pFVr4o"
+    }
   },
   {
     "id": "109976",
@@ -93,7 +162,24 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5356351,
+      "longitude": 4.5394919,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536987329892723,
+          "lng": 4.540757779892721
+        },
+        "southwest": {
+          "lat": 8.534287670107279,
+          "lng": 4.538058120107277
+        }
+      },
+      "formatted_address": "GGPQ+7Q5, Alagbado Road, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5356351,4.5394919",
+      "google_place_id": "ChIJ_z3HtxlSNhARvAxuWEOGnpE"
+    }
   },
   {
     "id": "109977",
@@ -109,7 +195,24 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.6408475,
+      "longitude": 4.8209596,
+      "viewport": {
+        "northeast": {
+          "lat": 8.6991642,
+          "lng": 4.8713476
+        },
+        "southwest": {
+          "lat": 8.6079438,
+          "lng": 4.7674406
+        }
+      },
+      "formatted_address": "Iponrin, 241102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.6408475,4.8209596",
+      "google_place_id": "ChIJ6-5Y6SI6NhARKX2HYGi5F-U"
+    }
   },
   {
     "id": "109978",
@@ -125,6 +228,23 @@
     "local_government_id": "495",
     "local_government_name": "ILORIN EAST",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.535458499999999,
+      "longitude": 4.6169458,
+      "viewport": {
+        "northeast": {
+          "lat": 8.536815929892724,
+          "lng": 4.618311429892722
+        },
+        "southwest": {
+          "lat": 8.534116270107278,
+          "lng": 4.615611770107278
+        }
+      },
+      "formatted_address": "GJP8+5QM, Share-Oja Oba Road, 241102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.535458499999999,4.6169458",
+      "google_place_id": "ChIJbdkwUSxNNhARtOGw9S4tT5o"
+    }
   }
 ]

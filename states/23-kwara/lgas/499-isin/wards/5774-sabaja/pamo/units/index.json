@@ -13,7 +13,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3092518,
+      "longitude": 5.0911062,
+      "viewport": {
+        "northeast": {
+          "lat": 8.3419192,
+          "lng": 5.162871099999999
+        },
+        "southwest": {
+          "lat": 8.2588935,
+          "lng": 5.0137696
+        }
+      },
+      "formatted_address": "Sabaja/Pamo, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3092518,5.0911062",
+      "google_place_id": "ChIJvSbUWUIoSBARFI4uTeh02KI"
+    }
   },
   {
     "id": "111113",
@@ -29,7 +46,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2926225,
+      "longitude": 5.0579171,
+      "viewport": {
+        "northeast": {
+          "lat": 8.2952429,
+          "lng": 5.0622082
+        },
+        "southwest": {
+          "lat": 8.2905077,
+          "lng": 5.0540543
+        }
+      },
+      "formatted_address": "251105, Oba -Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2926225,5.0579171",
+      "google_place_id": "ChIJKdlGL-LXNxAR-dq1dFr7leY"
+    }
   },
   {
     "id": "111114",
@@ -45,7 +79,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2829114,
+      "longitude": 5.020129799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.284176929892723,
+          "lng": 5.021528279892721
+        },
+        "southwest": {
+          "lat": 8.28147727010728,
+          "lng": 5.018828620107278
+        }
+      },
+      "formatted_address": "72MC+536, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2829114,5.020129799999999",
+      "google_place_id": "ChIJ3cEDiIHXNxARLDUitirMsxU"
+    }
   },
   {
     "id": "111115",
@@ -61,7 +112,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2920666,
+      "longitude": 5.0377135,
+      "viewport": {
+        "northeast": {
+          "lat": 8.29337307989272,
+          "lng": 5.039092979892722
+        },
+        "southwest": {
+          "lat": 8.290673420107277,
+          "lng": 5.036393320107278
+        }
+      },
+      "formatted_address": "72RQ+R3W, 251105, Pamo Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2920666,5.0377135",
+      "google_place_id": "ChIJCTNDFZPXNxAR8Os-SvkPLm8"
+    }
   },
   {
     "id": "111116",
@@ -77,7 +145,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2364596,
+      "longitude": 5.0865078,
+      "viewport": {
+        "northeast": {
+          "lat": 8.237783079892722,
+          "lng": 5.087827579892721
+        },
+        "southwest": {
+          "lat": 8.235083420107278,
+          "lng": 5.085127920107277
+        }
+      },
+      "formatted_address": "63PP+HHV, Opposite Alaa's Compound, Oke-Epa, Isanlu Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2364596,5.0865078",
+      "google_place_id": "ChIJ9ZFFnXInSBARagFnAQJ4qOY"
+    }
   },
   {
     "id": "111117",
@@ -93,6 +178,23 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0833,
+      "longitude": 5.25,
+      "viewport": {
+        "northeast": {
+          "lat": 8.083988929892723,
+          "lng": 5.250699099999999
+        },
+        "southwest": {
+          "lat": 8.081289270107279,
+          "lng": 5.2479027
+        }
+      },
+      "formatted_address": "37M2+829, 252104, Araromi Osi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0833,5.25",
+      "google_place_id": "ChIJ8wnigsEXSBARG9v-k6pqoOQ"
+    }
   }
 ]

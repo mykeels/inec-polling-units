@@ -13,7 +13,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110167",
@@ -29,7 +30,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.431526100000001,
+      "longitude": 4.6239983,
+      "viewport": {
+        "northeast": {
+          "lat": 8.432857279892723,
+          "lng": 4.625373779892722
+        },
+        "southwest": {
+          "lat": 8.430157620107279,
+          "lng": 4.622674120107278
+        }
+      },
+      "formatted_address": "CJJF+JH9, Okunle, town Road, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.431526100000001,4.6239983",
+      "google_place_id": "ChIJGXUobMGzNxARIMJlHybkL5k"
+    }
   },
   {
     "id": "110168",
@@ -45,7 +63,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110169",
@@ -61,7 +80,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110170",
@@ -77,7 +97,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110171",
@@ -93,7 +114,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110172",
@@ -109,7 +131,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110173",
@@ -125,6 +148,7 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

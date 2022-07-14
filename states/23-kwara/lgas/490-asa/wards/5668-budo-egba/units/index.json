@@ -13,7 +13,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109098",
@@ -29,7 +30,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109099",
@@ -45,7 +47,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 10.1119606,
+      "longitude": 8.485052900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 10.11341032989272,
+          "lng": 8.486408379892723
+        },
+        "southwest": {
+          "lat": 10.11071067010728,
+          "lng": 8.483708720107279
+        }
+      },
+      "formatted_address": "4F6P+Q2M, 800105, Binawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.1119606,8.485052900000001",
+      "google_place_id": "ChIJE66UMwwfUxARMM63REhutQk"
+    }
   },
   {
     "id": "109100",
@@ -61,7 +80,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3591489,
+      "longitude": 4.613721,
+      "viewport": {
+        "northeast": {
+          "lat": 8.360498729892722,
+          "lng": 4.615070829892722
+        },
+        "southwest": {
+          "lat": 8.357799070107278,
+          "lng": 4.612371170107278
+        }
+      },
+      "formatted_address": "9J57+MF5, 240104, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3591489,4.613721",
+      "google_place_id": "ChIJs90cE_axNxARDhMU1MW7ch0"
+    }
   },
   {
     "id": "109101",
@@ -77,7 +113,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 7.774978,
+      "longitude": 8.073744,
+      "viewport": {
+        "northeast": {
+          "lat": 7.776323579892721,
+          "lng": 8.074950579892722
+        },
+        "southwest": {
+          "lat": 7.773623920107277,
+          "lng": 8.072250920107278
+        }
+      },
+      "formatted_address": "6FVCQ3FF+XFX Tswarev Igboji, Odeji, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.774978,8.073744",
+      "google_place_id": "ChIJ573Ik9wLUBAR4fI3P9DEBik"
+    }
   },
   {
     "id": "109102",
@@ -93,7 +146,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109103",
@@ -109,7 +163,8 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109104",
@@ -125,7 +180,24 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.316699999999999,
+      "longitude": 4.399999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.317597300000003,
+          "lng": 4.401591829892722
+        },
+        "southwest": {
+          "lat": 8.314008099999999,
+          "lng": 4.398892170107279
+        }
+      },
+      "formatted_address": "8C82+M2C, 240105, Budo Egba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.316699999999999,4.399999999999999",
+      "google_place_id": "ChIJS6OXzSeoNxARznRQ3WkqhZw"
+    }
   },
   {
     "id": "109105",
@@ -141,6 +213,23 @@
     "local_government_id": "490",
     "local_government_name": "ASA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3146243,
+      "longitude": 4.5273838,
+      "viewport": {
+        "northeast": {
+          "lat": 8.315965629892721,
+          "lng": 4.528738929892722
+        },
+        "southwest": {
+          "lat": 8.313265970107278,
+          "lng": 4.526039270107278
+        }
+      },
+      "formatted_address": "240104, Afon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3146243,4.5273838",
+      "google_place_id": "ChIJnbz7waWvNxAR_P4Pb6NFD2o"
+    }
   }
 ]

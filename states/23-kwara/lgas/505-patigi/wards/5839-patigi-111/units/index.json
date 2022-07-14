@@ -13,7 +13,24 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0589959,
+      "longitude": 5.7534778,
+      "viewport": {
+        "northeast": {
+          "lat": 8.06038617989272,
+          "lng": 5.754776729892721
+        },
+        "southwest": {
+          "lat": 8.057686520107277,
+          "lng": 5.752077070107277
+        }
+      },
+      "formatted_address": "3Q53+H9X, 262102, Ejuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0589959,5.7534778",
+      "google_place_id": "ChIJze5e9vKKSBARQhVEwXKFwgs"
+    }
   },
   {
     "id": "111773",
@@ -29,7 +46,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111774",
@@ -45,7 +63,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111775",
@@ -61,7 +80,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111776",
@@ -77,7 +97,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111777",
@@ -93,7 +114,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111778",
@@ -109,7 +131,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111779",
@@ -125,6 +148,7 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

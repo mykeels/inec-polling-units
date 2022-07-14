@@ -13,7 +13,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2198805,
+      "longitude": 4.9407555,
+      "viewport": {
+        "northeast": {
+          "lat": 8.221230329892723,
+          "lng": 4.942105329892722
+        },
+        "southwest": {
+          "lat": 8.21853067010728,
+          "lng": 4.939405670107278
+        }
+      },
+      "formatted_address": "6W9R+X82 St Andrews Anglican church, 251105, Edidi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2198805,4.9407555",
+      "google_place_id": "ChIJA5O49zLbNxARH6Zf4VQkYh8"
+    }
   },
   {
     "id": "111059",
@@ -29,7 +46,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
   },
   {
     "id": "111060",
@@ -45,7 +79,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2755486,
+      "longitude": 5.015527,
+      "viewport": {
+        "northeast": {
+          "lat": 8.276834829892724,
+          "lng": 5.016980979892721
+        },
+        "southwest": {
+          "lat": 8.27413517010728,
+          "lng": 5.014281320107277
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2755486,5.015527",
+      "google_place_id": "ChIJDyCtp9XZNxARZY0O46iHBus"
+    }
   },
   {
     "id": "111061",
@@ -61,7 +112,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1963748,
+      "longitude": 4.8881228,
+      "viewport": {
+        "northeast": {
+          "lat": 8.197959429892721,
+          "lng": 4.889501229892721
+        },
+        "southwest": {
+          "lat": 8.195259770107278,
+          "lng": 4.886801570107277
+        }
+      },
+      "formatted_address": "5VWQ+G6X, 251104, Esie, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1963748,4.8881228",
+      "google_place_id": "ChIJB8ohGqzENxAR1Nk5ygCaRpY"
+    }
   },
   {
     "id": "111062",
@@ -77,6 +145,23 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1607864,
+      "longitude": 4.7487558,
+      "viewport": {
+        "northeast": {
+          "lat": 8.162136229892722,
+          "lng": 4.750050129892721
+        },
+        "southwest": {
+          "lat": 8.159436570107278,
+          "lng": 4.747350470107278
+        }
+      },
+      "formatted_address": "5P6X+CPC, 250103, Ipee, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1607864,4.7487558",
+      "google_place_id": "ChIJfw5IBMHBNxARhYEyToj0Bl4"
+    }
   }
 ]

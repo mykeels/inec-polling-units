@@ -13,7 +13,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110320",
@@ -29,7 +30,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4812616,
+      "longitude": 4.6727151,
+      "viewport": {
+        "northeast": {
+          "lat": 8.482605429892722,
+          "lng": 4.673987729892723
+        },
+        "southwest": {
+          "lat": 8.479905770107278,
+          "lng": 4.671288070107279
+        }
+      },
+      "formatted_address": "FMJF+G34, 240102, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4812616,4.6727151",
+      "google_place_id": "ChIJ0a-h9xZLNhARk_ktf1_BRJA"
+    }
   },
   {
     "id": "110321",
@@ -45,7 +63,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110322",
@@ -61,7 +80,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4582172,
+      "longitude": 4.5291769,
+      "viewport": {
+        "northeast": {
+          "lat": 8.45949952989272,
+          "lng": 4.530606579892721
+        },
+        "southwest": {
+          "lat": 8.456799870107275,
+          "lng": 4.527906920107277
+        }
+      },
+      "formatted_address": "FG5H+8J6, 240281, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4582172,4.5291769",
+      "google_place_id": "ChIJYYMr1NJSNhARYckH-Dk668g"
+    }
   },
   {
     "id": "110323",
@@ -77,7 +113,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.499283199999999,
+      "longitude": 4.554109,
+      "viewport": {
+        "northeast": {
+          "lat": 8.500621429892721,
+          "lng": 4.555494879892723
+        },
+        "southwest": {
+          "lat": 8.497921770107277,
+          "lng": 4.552795220107279
+        }
+      },
+      "formatted_address": "FHX3+MJX, Balogun Fulani Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.499283199999999,4.554109",
+      "google_place_id": "ChIJ0bd5ioZSNhARqtHA0Lrl7hQ"
+    }
   },
   {
     "id": "110324",
@@ -93,7 +146,8 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "110325",
@@ -109,7 +163,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110326",
@@ -125,7 +196,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4953004,
+      "longitude": 4.5518111,
+      "viewport": {
+        "northeast": {
+          "lat": 8.496678529892721,
+          "lng": 4.553185379892721
+        },
+        "southwest": {
+          "lat": 8.493978870107277,
+          "lng": 4.550485720107277
+        }
+      },
+      "formatted_address": "98 Emirs Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4953004,4.5518111",
+      "google_place_id": "ChIJ0Q0TWYRSNhARLJ5YvwNTc4E"
+    }
   },
   {
     "id": "110327",
@@ -141,7 +229,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.499283199999999,
+      "longitude": 4.554109,
+      "viewport": {
+        "northeast": {
+          "lat": 8.500621429892721,
+          "lng": 4.555494879892723
+        },
+        "southwest": {
+          "lat": 8.497921770107277,
+          "lng": 4.552795220107279
+        }
+      },
+      "formatted_address": "FHX3+MJX, Balogun Fulani Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.499283199999999,4.554109",
+      "google_place_id": "ChIJ0bd5ioZSNhARqtHA0Lrl7hQ"
+    }
   },
   {
     "id": "110328",
@@ -157,7 +262,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110329",
@@ -173,7 +295,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110330",
@@ -189,7 +328,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110331",
@@ -205,7 +361,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4970276,
+      "longitude": 4.539231399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.498357179892722,
+          "lng": 4.540618829892721
+        },
+        "southwest": {
+          "lat": 8.495657520107278,
+          "lng": 4.537919170107277
+        }
+      },
+      "formatted_address": "FGWQ+RM7, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4970276,4.539231399999999",
+      "google_place_id": "ChIJSaEjj_RSNhARiFrVpzQc1IM"
+    }
   },
   {
     "id": "110332",
@@ -221,7 +394,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110333",
@@ -237,7 +427,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110334",
@@ -253,7 +460,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4947472,
+      "longitude": 4.5540124,
+      "viewport": {
+        "northeast": {
+          "lat": 8.49613082989272,
+          "lng": 4.555339479892721
+        },
+        "southwest": {
+          "lat": 8.493431170107277,
+          "lng": 4.552639820107277
+        }
+      },
+      "formatted_address": "FHV3+WJC, Erubu lane, Balogun Fulani Rd, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4947472,4.5540124",
+      "google_place_id": "ChIJTbXVnmhTNhARkrliP43R1qw"
+    }
   },
   {
     "id": "110335",
@@ -269,7 +493,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4979447,
+      "longitude": 4.5390087,
+      "viewport": {
+        "northeast": {
+          "lat": 8.499349779892723,
+          "lng": 4.540379729892722
+        },
+        "southwest": {
+          "lat": 8.49665012010728,
+          "lng": 4.537680070107278
+        }
+      },
+      "formatted_address": "FGXQ+5JC, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4979447,4.5390087",
+      "google_place_id": "ChIJtf6kXvRSNhAReiPmxM_F3dw"
+    }
   },
   {
     "id": "110336",
@@ -285,7 +526,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.499283199999999,
+      "longitude": 4.554109,
+      "viewport": {
+        "northeast": {
+          "lat": 8.500621429892721,
+          "lng": 4.555494879892723
+        },
+        "southwest": {
+          "lat": 8.497921770107277,
+          "lng": 4.552795220107279
+        }
+      },
+      "formatted_address": "FHX3+MJX, Balogun Fulani Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.499283199999999,4.554109",
+      "google_place_id": "ChIJ0bd5ioZSNhARqtHA0Lrl7hQ"
+    }
   },
   {
     "id": "110337",
@@ -301,7 +559,24 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4959749,
+      "longitude": 4.5564806,
+      "viewport": {
+        "northeast": {
+          "lat": 8.497376979892723,
+          "lng": 4.557831929892721
+        },
+        "southwest": {
+          "lat": 8.494677320107279,
+          "lng": 4.555132270107277
+        }
+      },
+      "formatted_address": "FHW4+9HX, Balogun Fulani Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4959749,4.5564806",
+      "google_place_id": "ChIJBTvxRFtTNhARO-4ikQDuKnY"
+    }
   },
   {
     "id": "110338",
@@ -317,6 +592,23 @@
     "local_government_id": "496",
     "local_government_name": "ILORIN-SOUTH",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.499283199999999,
+      "longitude": 4.554109,
+      "viewport": {
+        "northeast": {
+          "lat": 8.500621429892721,
+          "lng": 4.555494879892723
+        },
+        "southwest": {
+          "lat": 8.497921770107277,
+          "lng": 4.552795220107279
+        }
+      },
+      "formatted_address": "FHX3+MJX, Balogun Fulani Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.499283199999999,4.554109",
+      "google_place_id": "ChIJ0bd5ioZSNhARqtHA0Lrl7hQ"
+    }
   }
 ]

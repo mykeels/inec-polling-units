@@ -13,7 +13,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1341315,
+      "longitude": 4.7152812,
+      "viewport": {
+        "northeast": {
+          "lat": 8.135503179892721,
+          "lng": 4.716577779892721
+        },
+        "southwest": {
+          "lat": 8.132803520107277,
+          "lng": 4.713878120107277
+        }
+      },
+      "formatted_address": "4PM8+M42, Wale Clinic Street, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1341315,4.7152812",
+      "google_place_id": "ChIJ9aka1EG_NxARqO5o3ycQVmw"
+    }
   },
   {
     "id": "111566",
@@ -29,7 +46,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2138119,
+      "longitude": 4.6910649,
+      "viewport": {
+        "northeast": {
+          "lat": 8.215191279892721,
+          "lng": 4.692407179892722
+        },
+        "southwest": {
+          "lat": 8.212491620107278,
+          "lng": 4.689707520107278
+        }
+      },
+      "formatted_address": "Offa - Ojoku Rd, 250101, Adeleke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2138119,4.6910649",
+      "google_place_id": "ChIJVxtget64NxARxQjyJldAGK0"
+    }
   },
   {
     "id": "111567",
@@ -45,7 +79,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111568",
@@ -61,7 +96,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1854217,
+      "longitude": 4.6153536,
+      "viewport": {
+        "northeast": {
+          "lat": 8.18610837989272,
+          "lng": 4.616300229892722
+        },
+        "southwest": {
+          "lat": 8.183408720107277,
+          "lng": 4.613600570107279
+        }
+      },
+      "formatted_address": "KM 10 Igbonna Rd, 250102, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1854217,4.6153536",
+      "google_place_id": "ChIJPVUoKxO9NxARIGKYkMUMSeQ"
+    }
   },
   {
     "id": "111569",
@@ -77,7 +129,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.150813399999999,
+      "longitude": 4.7043537,
+      "viewport": {
+        "northeast": {
+          "lat": 8.152190529892723,
+          "lng": 4.705829729892722
+        },
+        "southwest": {
+          "lat": 8.149490870107279,
+          "lng": 4.703130070107278
+        }
+      },
+      "formatted_address": "5P23+8PH, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.150813399999999,4.7043537",
+      "google_place_id": "ChIJTQJWZwq_NxARsP647oZuy0w"
+    }
   },
   {
     "id": "111570",
@@ -93,6 +162,23 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1341315,
+      "longitude": 4.7152812,
+      "viewport": {
+        "northeast": {
+          "lat": 8.135503179892721,
+          "lng": 4.716577779892721
+        },
+        "southwest": {
+          "lat": 8.132803520107277,
+          "lng": 4.713878120107277
+        }
+      },
+      "formatted_address": "4PM8+M42, Wale Clinic Street, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1341315,4.7152812",
+      "google_place_id": "ChIJ9aka1EG_NxARqO5o3ycQVmw"
+    }
   }
 ]

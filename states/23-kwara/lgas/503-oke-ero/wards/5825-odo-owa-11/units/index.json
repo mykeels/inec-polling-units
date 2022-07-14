@@ -13,7 +13,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1282899,
+      "longitude": 5.1797058,
+      "viewport": {
+        "northeast": {
+          "lat": 8.169134699999999,
+          "lng": 5.2196073
+        },
+        "southwest": {
+          "lat": 8.0843981,
+          "lng": 5.1505506
+        }
+      },
+      "formatted_address": "Odo-Owa 11, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1282899,5.1797058",
+      "google_place_id": "ChIJxUvgivUiSBARdcFR5mZfB8w"
+    }
   },
   {
     "id": "111642",
@@ -29,7 +46,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0945076,
+      "longitude": 5.1657362,
+      "viewport": {
+        "northeast": {
+          "lat": 8.095833929892722,
+          "lng": 5.167113529892721
+        },
+        "southwest": {
+          "lat": 8.093134270107278,
+          "lng": 5.164413870107277
+        }
+      },
+      "formatted_address": "sebotimo, Ọmu aran Igbinlo compounds, Araromi Street, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0945076,5.1657362",
+      "google_place_id": "ChIJVa6VghsZSBARLGn6rWvdpOs"
+    }
   },
   {
     "id": "111643",
@@ -45,7 +79,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1282899,
+      "longitude": 5.1797058,
+      "viewport": {
+        "northeast": {
+          "lat": 8.169134699999999,
+          "lng": 5.2196073
+        },
+        "southwest": {
+          "lat": 8.0843981,
+          "lng": 5.1505506
+        }
+      },
+      "formatted_address": "Odo-Owa 11, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1282899,5.1797058",
+      "google_place_id": "ChIJxUvgivUiSBARdcFR5mZfB8w"
+    }
   },
   {
     "id": "111644",
@@ -61,7 +112,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0916673,
+      "longitude": 5.152488099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.093117829892723,
+          "lng": 5.153835929892723
+        },
+        "southwest": {
+          "lat": 8.090418170107279,
+          "lng": 5.151136270107279
+        }
+      },
+      "formatted_address": "35R2+MX5, Ilemo compound, Kajola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0916673,5.152488099999999",
+      "google_place_id": "ChIJcZo26q8YSBAROKPxRY-O1hE"
+    }
   },
   {
     "id": "111645",
@@ -77,7 +145,8 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111646",
@@ -93,7 +162,24 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1129698,
+      "longitude": 4.2257077,
+      "viewport": {
+        "northeast": {
+          "lat": 8.114221329892722,
+          "lng": 4.227107129892721
+        },
+        "southwest": {
+          "lat": 8.111521670107278,
+          "lng": 4.224407470107277
+        }
+      },
+      "formatted_address": "467G+57P, Alapa Rd, 210101, Ogbomosho, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1129698,4.2257077",
+      "google_place_id": "ChIJVeeV2KwSNxARyRSHQjE7bmM"
+    }
   },
   {
     "id": "111647",
@@ -109,6 +195,23 @@
     "local_government_id": "503",
     "local_government_name": "OKE - ERO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0932672,
+      "longitude": 5.161487699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.094569579892722,
+          "lng": 5.162878979892723
+        },
+        "southwest": {
+          "lat": 8.091869920107278,
+          "lng": 5.160179320107279
+        }
+      },
+      "formatted_address": "35V6+8H5, 252101, Kajola, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0932672,5.161487699999999",
+      "google_place_id": "ChIJsyenh7cZSBARBtcagQZskbk"
+    }
   }
 ]

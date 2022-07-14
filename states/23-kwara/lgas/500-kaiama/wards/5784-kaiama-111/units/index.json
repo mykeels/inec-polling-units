@@ -13,7 +13,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111230",
@@ -29,7 +30,24 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 9.6083546,
+      "longitude": 3.938062199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 9.60967927989272,
+          "lng": 3.939442129892722
+        },
+        "southwest": {
+          "lat": 9.606979620107277,
+          "lng": 3.936742470107279
+        }
+      },
+      "formatted_address": "JW5Q+86R, 242101, Kaiama, Nigeria",
+      "google_map_url": "https://maps.google.com?q=9.6083546,3.938062199999999",
+      "google_place_id": "ChIJd82WctdtNBARPHsRXbbhfRE"
+    }
   },
   {
     "id": "111231",
@@ -45,7 +63,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111232",
@@ -61,7 +80,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111233",
@@ -77,7 +97,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111234",
@@ -93,7 +114,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111235",
@@ -109,7 +131,8 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111236",
@@ -125,6 +148,7 @@
     "local_government_id": "500",
     "local_government_name": "KAIAMA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

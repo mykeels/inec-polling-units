@@ -13,7 +13,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111818",
@@ -29,7 +30,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111819",
@@ -45,7 +47,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111820",
@@ -61,7 +64,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111821",
@@ -77,7 +81,24 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7279763,
+      "longitude": 5.7642583,
+      "viewport": {
+        "northeast": {
+          "lat": 8.729318779892724,
+          "lng": 5.765646029892721
+        },
+        "southwest": {
+          "lat": 8.72661912010728,
+          "lng": 5.762946370107278
+        }
+      },
+      "formatted_address": "PQH7+5PR, Patigi Kpada road, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7279763,5.7642583",
+      "google_place_id": "ChIJh53qb2QLSRAREgssXK9eKCU"
+    }
   },
   {
     "id": "111822",
@@ -93,7 +114,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111823",
@@ -109,6 +131,23 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 41.2193971,
+      "longitude": -81.6400245,
+      "viewport": {
+        "northeast": {
+          "lat": 41.22076232989271,
+          "lng": -81.63867487010728
+        },
+        "southwest": {
+          "lat": 41.21806267010727,
+          "lng": -81.64137452989273
+        }
+      },
+      "formatted_address": "4055 Highlander Pkwy, Richfield, OH 44286, United States",
+      "google_map_url": "https://maps.google.com?q=41.2193971,-81.6400245",
+      "google_place_id": "ChIJa1LC5HjcMIgR3Linqb2Xt0s"
+    }
   }
 ]

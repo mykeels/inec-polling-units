@@ -13,7 +13,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4993122,
+      "longitude": 4.5616125,
+      "viewport": {
+        "northeast": {
+          "lat": 8.50071267989272,
+          "lng": 4.563000379892722
+        },
+        "southwest": {
+          "lat": 8.498013020107276,
+          "lng": 4.560300720107278
+        }
+      },
+      "formatted_address": "28 Amilegbe Rd, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4993122,4.5616125",
+      "google_place_id": "ChIJ77ApM0pTNhARJXQt_3xEGZk"
+    }
   },
   {
     "id": "111054",
@@ -29,7 +46,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.271384,
+      "longitude": 5.012095,
+      "viewport": {
+        "northeast": {
+          "lat": 8.272730879892723,
+          "lng": 5.013666429892722
+        },
+        "southwest": {
+          "lat": 8.27003122010728,
+          "lng": 5.010966770107278
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.271384,5.012095",
+      "google_place_id": "ChIJDW1VT9HZNxARB19_nZiow8U"
+    }
   },
   {
     "id": "111055",
@@ -45,7 +79,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.34032,
+      "longitude": 5.142196,
+      "viewport": {
+        "northeast": {
+          "lat": 8.341440729892723,
+          "lng": 5.144252500000001
+        },
+        "southwest": {
+          "lat": 8.338741070107279,
+          "lng": 5.141510499999999
+        }
+      },
+      "formatted_address": "84RR+4VG, 251105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.34032,5.142196",
+      "google_place_id": "ChIJozxzsP8pSBARw3b504904cM"
+    }
   },
   {
     "id": "111056",
@@ -61,7 +112,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2744279,
+      "longitude": 4.9538975,
+      "viewport": {
+        "northeast": {
+          "lat": 8.275792779892722,
+          "lng": 4.955220229892721
+        },
+        "southwest": {
+          "lat": 8.273093120107278,
+          "lng": 4.952520570107278
+        }
+      },
+      "formatted_address": "7XF3+QHH, Alla, Kwara State, Obala, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2744279,4.9538975",
+      "google_place_id": "ChIJx6Lp7XTaNxARoDuJ7lxt0pc"
+    }
   },
   {
     "id": "111057",
@@ -77,6 +145,23 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.271336699999999,
+      "longitude": 4.952809999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.272663679892721,
+          "lng": 4.95436282989272
+        },
+        "southwest": {
+          "lat": 8.269964020107277,
+          "lng": 4.951663170107277
+        }
+      },
+      "formatted_address": "7XC3+G4R, 251105, Kwara, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.271336699999999,4.952809999999999",
+      "google_place_id": "ChIJXy2MonPaNxARwFZW1UqUw0s"
+    }
   }
 ]

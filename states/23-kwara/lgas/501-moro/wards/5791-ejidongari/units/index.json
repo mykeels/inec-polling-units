@@ -13,7 +13,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.9036856,
+      "longitude": 4.6505181,
+      "viewport": {
+        "northeast": {
+          "lat": 8.905048229892722,
+          "lng": 4.651863929892722
+        },
+        "southwest": {
+          "lat": 8.902348570107279,
+          "lng": 4.649164270107278
+        }
+      },
+      "formatted_address": "WM32+F6C, 241105, Lagbaja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9036856,4.6505181",
+      "google_place_id": "ChIJWXAIfQRsNhARjWhzSVIt2xE"
+    }
   },
   {
     "id": "111303",
@@ -29,7 +46,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5919437,
+      "longitude": 4.5598636,
+      "viewport": {
+        "northeast": {
+          "lat": 8.59326182989272,
+          "lng": 4.561200979892723
+        },
+        "southwest": {
+          "lat": 8.590562170107276,
+          "lng": 4.558501320107279
+        }
+      },
+      "formatted_address": "HHR5+QWH, 241103, Shao, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5919437,4.5598636",
+      "google_place_id": "ChIJ_Tv6oBlRNhARzlSLnyFOhSg"
+    }
   },
   {
     "id": "111304",
@@ -45,7 +79,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5919437,
+      "longitude": 4.5598636,
+      "viewport": {
+        "northeast": {
+          "lat": 8.59326182989272,
+          "lng": 4.561200979892723
+        },
+        "southwest": {
+          "lat": 8.590562170107276,
+          "lng": 4.558501320107279
+        }
+      },
+      "formatted_address": "HHR5+QWH, 241103, Shao, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5919437,4.5598636",
+      "google_place_id": "ChIJ_Tv6oBlRNhARzlSLnyFOhSg"
+    }
   },
   {
     "id": "111305",
@@ -61,7 +112,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5919437,
+      "longitude": 4.5598636,
+      "viewport": {
+        "northeast": {
+          "lat": 8.59326182989272,
+          "lng": 4.561200979892723
+        },
+        "southwest": {
+          "lat": 8.590562170107276,
+          "lng": 4.558501320107279
+        }
+      },
+      "formatted_address": "HHR5+QWH, 241103, Shao, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5919437,4.5598636",
+      "google_place_id": "ChIJ_Tv6oBlRNhARzlSLnyFOhSg"
+    }
   },
   {
     "id": "111306",
@@ -77,6 +145,23 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.9414866,
+      "longitude": 4.7782072,
+      "viewport": {
+        "northeast": {
+          "lat": 8.942813879892721,
+          "lng": 4.779575379892722
+        },
+        "southwest": {
+          "lat": 8.940114220107278,
+          "lng": 4.776875720107278
+        }
+      },
+      "formatted_address": "WQRH+H7W, Sabo Moro, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9414866,4.7782072",
+      "google_place_id": "ChIJHYF7-cwTNhAR07xkO7pJToo"
+    }
   }
 ]

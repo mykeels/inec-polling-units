@@ -13,7 +13,8 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111337",
@@ -29,7 +30,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.697312199999999,
+      "longitude": 4.5358595,
+      "viewport": {
+        "northeast": {
+          "lat": 8.69872072989272,
+          "lng": 4.537195879892722
+        },
+        "southwest": {
+          "lat": 8.696021070107276,
+          "lng": 4.534496220107278
+        }
+      },
+      "formatted_address": "MGWP+W8H, 241103, Malete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.697312199999999,4.5358595",
+      "google_place_id": "ChIJ0ZYBbxNbNhAR80d986Jm5tc"
+    }
   },
   {
     "id": "111338",
@@ -45,7 +63,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7791138,
+      "longitude": 4.4952589,
+      "viewport": {
+        "northeast": {
+          "lat": 8.780487379892723,
+          "lng": 4.496504879892721
+        },
+        "southwest": {
+          "lat": 8.777787720107279,
+          "lng": 4.493805220107277
+        }
+      },
+      "formatted_address": "Kondoro Alagbede-Akbuyo, 241103, Obaninsa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7791138,4.4952589",
+      "google_place_id": "ChIJHQZV1MVdNhAR_2cI5wNpPzc"
+    }
   },
   {
     "id": "111339",
@@ -61,7 +96,8 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111340",
@@ -77,7 +113,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7099782,
+      "longitude": 4.4665529,
+      "viewport": {
+        "northeast": {
+          "lat": 8.711309179892723,
+          "lng": 4.467928229892721
+        },
+        "southwest": {
+          "lat": 8.708609520107279,
+          "lng": 4.465228570107278
+        }
+      },
+      "formatted_address": "Kwara State University Rd, 241103, Malete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7099782,4.4665529",
+      "google_place_id": "ChIJZ4XvVUVZNhAR1COy1xSUoPU"
+    }
   },
   {
     "id": "111341",
@@ -93,7 +146,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3139437,
+      "longitude": 4.5270125,
+      "viewport": {
+        "northeast": {
+          "lat": 8.315272029892721,
+          "lng": 4.528397479892722
+        },
+        "southwest": {
+          "lat": 8.312572370107278,
+          "lng": 4.525697820107278
+        }
+      },
+      "formatted_address": "Block 6 Makerspace, G.R.A Asa Afon Kwara NG, 240104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3139437,4.5270125",
+      "google_place_id": "ChIJO0wrQQ2vNxARtDE67YBsROo"
+    }
   },
   {
     "id": "111342",
@@ -109,7 +179,8 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111343",
@@ -125,7 +196,24 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.493102799999999,
+      "longitude": 4.5532039,
+      "viewport": {
+        "northeast": {
+          "lat": 8.494418729892724,
+          "lng": 4.554547029892722
+        },
+        "southwest": {
+          "lat": 8.49171907010728,
+          "lng": 4.551847370107278
+        }
+      },
+      "formatted_address": "FHV3+66H, 240101, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.493102799999999,4.5532039",
+      "google_place_id": "ChIJB1BZcYVSNhARGibEIoR0DbM"
+    }
   },
   {
     "id": "111344",
@@ -141,6 +229,23 @@
     "local_government_id": "501",
     "local_government_name": "MORO",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7099782,
+      "longitude": 4.4665529,
+      "viewport": {
+        "northeast": {
+          "lat": 8.711309179892723,
+          "lng": 4.467928229892721
+        },
+        "southwest": {
+          "lat": 8.708609520107279,
+          "lng": 4.465228570107278
+        }
+      },
+      "formatted_address": "Kwara State University Rd, 241103, Malete, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7099782,4.4665529",
+      "google_place_id": "ChIJZ4XvVUVZNhAR1COy1xSUoPU"
+    }
   }
 ]

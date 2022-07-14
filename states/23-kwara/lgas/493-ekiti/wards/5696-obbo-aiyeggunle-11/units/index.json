@@ -13,7 +13,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109551",
@@ -29,7 +30,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109552",
@@ -45,7 +47,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109553",
@@ -61,7 +64,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109554",
@@ -77,7 +81,8 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "109555",
@@ -93,6 +98,23 @@
     "local_government_id": "493",
     "local_government_name": "EKITI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.0816166,
+      "longitude": 5.3193997,
+      "viewport": {
+        "northeast": {
+          "lat": 8.08308537989272,
+          "lng": 5.320691929892722
+        },
+        "southwest": {
+          "lat": 8.080385720107277,
+          "lng": 5.317992270107278
+        }
+      },
+      "formatted_address": "A123, Obo Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0816166,5.3193997",
+      "google_place_id": "ChIJq6qqauYVSBARCOwZkkA3Brw"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111848",
@@ -29,7 +30,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111849",
@@ -45,7 +47,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111850",
@@ -61,7 +64,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111851",
@@ -77,7 +81,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111852",
@@ -93,7 +98,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111853",
@@ -109,7 +115,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111854",
@@ -125,7 +132,24 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.594381799999999,
+      "longitude": 5.531564899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.595715579892723,
+          "lng": 5.532918979892721
+        },
+        "southwest": {
+          "lat": 8.593015920107279,
+          "lng": 5.530219320107277
+        }
+      },
+      "formatted_address": "Pategi-Egbe, 243106, Danikun, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.594381799999999,5.531564899999999",
+      "google_place_id": "ChIJ6yqRFUOwSRARZjC6ltcqMxE"
+    }
   },
   {
     "id": "111855",
@@ -141,7 +165,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111856",
@@ -157,7 +182,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111857",
@@ -173,7 +199,8 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111858",
@@ -189,7 +216,24 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7235774,
+      "longitude": 5.7558925,
+      "viewport": {
+        "northeast": {
+          "lat": 8.724924729892722,
+          "lng": 5.757208579892723
+        },
+        "southwest": {
+          "lat": 8.722225070107278,
+          "lng": 5.754508920107279
+        }
+      },
+      "formatted_address": "PQF4+C9J, 243105, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7235774,5.7558925",
+      "google_place_id": "ChIJU0rG1j4KSRARl2rpyq-ZNXs"
+    }
   },
   {
     "id": "111859",
@@ -205,6 +249,23 @@
     "local_government_id": "505",
     "local_government_name": "PATIGI",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.7235774,
+      "longitude": 5.7558925,
+      "viewport": {
+        "northeast": {
+          "lat": 8.724924729892722,
+          "lng": 5.757208579892723
+        },
+        "southwest": {
+          "lat": 8.722225070107278,
+          "lng": 5.754508920107279
+        }
+      },
+      "formatted_address": "PQF4+C9J, 243105, Pategi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.7235774,5.7558925",
+      "google_place_id": "ChIJU0rG1j4KSRARl2rpyq-ZNXs"
+    }
   }
 ]

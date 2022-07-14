@@ -13,7 +13,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111538",
@@ -29,7 +30,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111539",
@@ -45,7 +47,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111540",
@@ -61,7 +64,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111541",
@@ -77,7 +81,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1568046,
+      "longitude": 4.7233876,
+      "viewport": {
+        "northeast": {
+          "lat": 8.158041779892724,
+          "lng": 4.724816479892722
+        },
+        "southwest": {
+          "lat": 8.15534212010728,
+          "lng": 4.722116820107278
+        }
+      },
+      "formatted_address": "Thomas LGEA Primary School, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1568046,4.7233876",
+      "google_place_id": "ChIJgaYkI3y_NxARGcQDhZimhLo"
+    }
   },
   {
     "id": "111542",
@@ -93,7 +114,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111543",
@@ -109,7 +131,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111544",
@@ -125,7 +148,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111545",
@@ -141,7 +165,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111546",
@@ -157,7 +182,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1568046,
+      "longitude": 4.7233876,
+      "viewport": {
+        "northeast": {
+          "lat": 8.158041779892724,
+          "lng": 4.724816479892722
+        },
+        "southwest": {
+          "lat": 8.15534212010728,
+          "lng": 4.722116820107278
+        }
+      },
+      "formatted_address": "Thomas LGEA Primary School, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1568046,4.7233876",
+      "google_place_id": "ChIJgaYkI3y_NxARGcQDhZimhLo"
+    }
   },
   {
     "id": "111547",
@@ -173,6 +215,23 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1341315,
+      "longitude": 4.7152812,
+      "viewport": {
+        "northeast": {
+          "lat": 8.135503179892721,
+          "lng": 4.716577779892721
+        },
+        "southwest": {
+          "lat": 8.132803520107277,
+          "lng": 4.713878120107277
+        }
+      },
+      "formatted_address": "4PM8+M42, Wale Clinic Street, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1341315,4.7152812",
+      "google_place_id": "ChIJ9aka1EG_NxARqO5o3ycQVmw"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.307281399999999,
+      "longitude": 5.031249799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.310127050000002,
+          "lng": 5.03521895
+        },
+        "southwest": {
+          "lat": 8.306332849999997,
+          "lng": 5.02992675
+        }
+      },
+      "formatted_address": "Ile Oye Compound, Iwo Isin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.307281399999999,5.031249799999999",
+      "google_place_id": "ChIJUYoRt2nXNxAReg6c9eaUXz8"
+    }
   },
   {
     "id": "111090",
@@ -29,7 +46,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3135348,
+      "longitude": 5.037446,
+      "viewport": {
+        "northeast": {
+          "lat": 8.314270829892722,
+          "lng": 5.038712329892721
+        },
+        "southwest": {
+          "lat": 8.311571170107278,
+          "lng": 5.036012670107278
+        }
+      },
+      "formatted_address": "827P+CX8, Iwo-Isin, Oke Onigbin-Odo Ore, Oke Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3135348,5.037446",
+      "google_place_id": "ChIJDf2DRrbXNxARGCc2o_liT3I"
+    }
   },
   {
     "id": "111091",
@@ -45,7 +79,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2829114,
+      "longitude": 5.020129799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 8.284176929892723,
+          "lng": 5.021528279892721
+        },
+        "southwest": {
+          "lat": 8.28147727010728,
+          "lng": 5.018828620107278
+        }
+      },
+      "formatted_address": "72MC+536, 251105, OWU-ISIN, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2829114,5.020129799999999",
+      "google_place_id": "ChIJ3cEDiIHXNxARLDUitirMsxU"
+    }
   },
   {
     "id": "111092",
@@ -61,7 +112,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.3135348,
+      "longitude": 5.037446,
+      "viewport": {
+        "northeast": {
+          "lat": 8.314270829892722,
+          "lng": 5.038712329892721
+        },
+        "southwest": {
+          "lat": 8.311571170107278,
+          "lng": 5.036012670107278
+        }
+      },
+      "formatted_address": "827P+CX8, Iwo-Isin, Oke Onigbin-Odo Ore, Oke Aba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.3135348,5.037446",
+      "google_place_id": "ChIJDf2DRrbXNxARGCc2o_liT3I"
+    }
   },
   {
     "id": "111093",
@@ -77,7 +145,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5083956,
+      "longitude": 4.5235375,
+      "viewport": {
+        "northeast": {
+          "lat": 8.509861779892722,
+          "lng": 4.524900329892721
+        },
+        "southwest": {
+          "lat": 8.507162120107278,
+          "lng": 4.522200670107277
+        }
+      },
+      "formatted_address": "163B Alimi Rd, 240281, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5083956,4.5235375",
+      "google_place_id": "ChIJOdlXdlNSNhAR79NjuilweLQ"
+    }
   },
   {
     "id": "111094",
@@ -93,6 +178,23 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.5083956,
+      "longitude": 4.5235375,
+      "viewport": {
+        "northeast": {
+          "lat": 8.509861779892722,
+          "lng": 4.524900329892721
+        },
+        "southwest": {
+          "lat": 8.507162120107278,
+          "lng": 4.522200670107277
+        }
+      },
+      "formatted_address": "163B Alimi Rd, 240281, Ilorin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.5083956,4.5235375",
+      "google_place_id": "ChIJOdlXdlNSNhAR79NjuilweLQ"
+    }
   }
 ]

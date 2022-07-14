@@ -13,7 +13,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111400",
@@ -29,7 +30,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 6.4576061,
+      "longitude": 3.384492,
+      "viewport": {
+        "northeast": {
+          "lat": 6.458950779892722,
+          "lng": 3.385853479892722
+        },
+        "southwest": {
+          "lat": 6.456251120107278,
+          "lng": 3.383153820107277
+        }
+      },
+      "formatted_address": "Shop 58 west local government, 59 Balogun W St, Lagos Island 101227, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4576061,3.384492",
+      "google_place_id": "ChIJvcd7cAyLOxARyapDTCBdSMk"
+    }
   },
   {
     "id": "111401",
@@ -45,7 +63,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1410799,
+      "longitude": 4.7392978,
+      "viewport": {
+        "northeast": {
+          "lat": 8.142412679892722,
+          "lng": 4.740635729892722
+        },
+        "southwest": {
+          "lat": 8.139713020107278,
+          "lng": 4.737936070107279
+        }
+      },
+      "formatted_address": "4PRQ+CPM, Igosun Road, 250102, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1410799,4.7392978",
+      "google_place_id": "ChIJU95-oGXANxARJKpAqNPJTm8"
+    }
   },
   {
     "id": "111402",
@@ -61,7 +96,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1410799,
+      "longitude": 4.7392978,
+      "viewport": {
+        "northeast": {
+          "lat": 8.142412679892722,
+          "lng": 4.740635729892722
+        },
+        "southwest": {
+          "lat": 8.139713020107278,
+          "lng": 4.737936070107279
+        }
+      },
+      "formatted_address": "4PRQ+CPM, Igosun Road, 250102, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1410799,4.7392978",
+      "google_place_id": "ChIJU95-oGXANxARJKpAqNPJTm8"
+    }
   },
   {
     "id": "111403",
@@ -77,7 +129,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1656617,
+      "longitude": 4.7294081,
+      "viewport": {
+        "northeast": {
+          "lat": 8.16703007989272,
+          "lng": 4.730728779892721
+        },
+        "southwest": {
+          "lat": 8.164330420107277,
+          "lng": 4.728029120107277
+        }
+      },
+      "formatted_address": "5P8H+7Q7, Ajasse Road, 250103, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1656617,4.7294081",
+      "google_place_id": "ChIJ12QSIHLBNxARS4gtoHp7lW8"
+    }
   },
   {
     "id": "111404",
@@ -93,7 +162,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1504353,
+      "longitude": 4.7204331,
+      "viewport": {
+        "northeast": {
+          "lat": 8.151767479892722,
+          "lng": 4.721778479892722
+        },
+        "southwest": {
+          "lat": 8.149067820107279,
+          "lng": 4.719078820107279
+        }
+      },
+      "formatted_address": "5P2C+55F, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1504353,4.7204331",
+      "google_place_id": "ChIJwaO8g3i_NxAReVXEP9aBwKo"
+    }
   },
   {
     "id": "111405",
@@ -109,7 +195,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1512254,
+      "longitude": 4.7155128,
+      "viewport": {
+        "northeast": {
+          "lat": 8.15258967989272,
+          "lng": 4.716841079892723
+        },
+        "southwest": {
+          "lat": 8.149890020107277,
+          "lng": 4.714141420107278
+        }
+      },
+      "formatted_address": "5P28+F6R, Ibrahim Taiwo Rd, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1512254,4.7155128",
+      "google_place_id": "ChIJUbAA5e-_NxAR9L1fRZwrxfo"
+    }
   },
   {
     "id": "111406",
@@ -125,7 +228,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.147549099999999,
+      "longitude": 4.7423198,
+      "viewport": {
+        "northeast": {
+          "lat": 8.14887502989272,
+          "lng": 4.743644479892722
+        },
+        "southwest": {
+          "lat": 8.146175370107276,
+          "lng": 4.740944820107278
+        }
+      },
+      "formatted_address": "4PXR+2W8, Adesoye College Road, 250103, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.147549099999999,4.7423198",
+      "google_place_id": "ChIJxWlZsTTBNxAROa5T_6xfYGk"
+    }
   },
   {
     "id": "111407",
@@ -141,7 +261,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1496207,
+      "longitude": 4.7087543,
+      "viewport": {
+        "northeast": {
+          "lat": 8.150968279892721,
+          "lng": 4.710115179892722
+        },
+        "southwest": {
+          "lat": 8.148268620107277,
+          "lng": 4.707415520107278
+        }
+      },
+      "formatted_address": "4PX5+VG, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1496207,4.7087543",
+      "google_place_id": "ChIJtUFzbP2_NxARvkdMiBBXKcY"
+    }
   },
   {
     "id": "111408",
@@ -157,7 +294,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1504353,
+      "longitude": 4.7204331,
+      "viewport": {
+        "northeast": {
+          "lat": 8.151767479892722,
+          "lng": 4.721778479892722
+        },
+        "southwest": {
+          "lat": 8.149067820107279,
+          "lng": 4.719078820107279
+        }
+      },
+      "formatted_address": "5P2C+55F, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1504353,4.7204331",
+      "google_place_id": "ChIJwaO8g3i_NxAReVXEP9aBwKo"
+    }
   },
   {
     "id": "111409",
@@ -173,7 +327,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1405357,
+      "longitude": 4.7172208,
+      "viewport": {
+        "northeast": {
+          "lat": 8.141889429892723,
+          "lng": 4.718564929892722
+        },
+        "southwest": {
+          "lat": 8.13918977010728,
+          "lng": 4.715865270107278
+        }
+      },
+      "formatted_address": "54 Ibrahim Taiwo Rd, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1405357,4.7172208",
+      "google_place_id": "ChIJKTPcK8S8NxARxk12J9GTNws"
+    }
   },
   {
     "id": "111410",
@@ -189,7 +360,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 7.972647599999999,
+      "longitude": 4.3183102,
+      "viewport": {
+        "northeast": {
+          "lat": 7.973486829892721,
+          "lng": 4.319879
+        },
+        "southwest": {
+          "lat": 7.970787170107277,
+          "lng": 4.316214899999999
+        }
+      },
+      "formatted_address": "210101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.972647599999999,4.3183102",
+      "google_place_id": "ChIJCxpiqi13NxARQQoRKJBtm5c"
+    }
   },
   {
     "id": "111411",
@@ -205,7 +393,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1504353,
+      "longitude": 4.7204331,
+      "viewport": {
+        "northeast": {
+          "lat": 8.151767479892722,
+          "lng": 4.721778479892722
+        },
+        "southwest": {
+          "lat": 8.149067820107279,
+          "lng": 4.719078820107279
+        }
+      },
+      "formatted_address": "5P2C+55F, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1504353,4.7204331",
+      "google_place_id": "ChIJwaO8g3i_NxAReVXEP9aBwKo"
+    }
   },
   {
     "id": "111412",
@@ -221,7 +426,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1504353,
+      "longitude": 4.7204331,
+      "viewport": {
+        "northeast": {
+          "lat": 8.151767479892722,
+          "lng": 4.721778479892722
+        },
+        "southwest": {
+          "lat": 8.149067820107279,
+          "lng": 4.719078820107279
+        }
+      },
+      "formatted_address": "5P2C+55F, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1504353,4.7204331",
+      "google_place_id": "ChIJwaO8g3i_NxAReVXEP9aBwKo"
+    }
   },
   {
     "id": "111413",
@@ -237,7 +459,24 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.1504353,
+      "longitude": 4.7204331,
+      "viewport": {
+        "northeast": {
+          "lat": 8.151767479892722,
+          "lng": 4.721778479892722
+        },
+        "southwest": {
+          "lat": 8.149067820107279,
+          "lng": 4.719078820107279
+        }
+      },
+      "formatted_address": "5P2C+55F, 250101, Offa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.1504353,4.7204331",
+      "google_place_id": "ChIJwaO8g3i_NxAReVXEP9aBwKo"
+    }
   },
   {
     "id": "111414",
@@ -253,7 +492,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111415",
@@ -269,7 +509,8 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111416",
@@ -285,6 +526,7 @@
     "local_government_id": "502",
     "local_government_name": "OFFA",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   }
 ]

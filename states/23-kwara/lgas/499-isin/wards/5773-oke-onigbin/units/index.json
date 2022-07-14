@@ -13,7 +13,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 43.4296662,
+      "longitude": -80.4664081,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43103202989272,
+          "lng": -80.46501962010728
+        },
+        "southwest": {
+          "lat": 43.42833237010728,
+          "lng": -80.46771927989272
+        }
+      },
+      "formatted_address": "37 Vanier Dr #601, Kitchener, ON N2C 2P6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4296662,-80.4664081",
+      "google_place_id": "ChIJZ5Bl2Sf1K4gRVMRfQKNOplc"
+    }
   },
   {
     "id": "111105",
@@ -29,7 +46,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2238873,
+      "longitude": 4.9939527,
+      "viewport": {
+        "northeast": {
+          "lat": 8.22547912989272,
+          "lng": 4.995607029892722
+        },
+        "southwest": {
+          "lat": 8.222779470107277,
+          "lng": 4.992907370107278
+        }
+      },
+      "formatted_address": "6XFV+HH4, 251105, Oke Onigbin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2238873,4.9939527",
+      "google_place_id": "ChIJ69Fot0fZNxARsd3UKpunOYM"
+    }
   },
   {
     "id": "111106",
@@ -45,7 +79,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.210799999999999,
+      "longitude": 4.9673,
+      "viewport": {
+        "northeast": {
+          "lat": 8.21223652989272,
+          "lng": 4.968665379892721
+        },
+        "southwest": {
+          "lat": 8.209536870107277,
+          "lng": 4.965965720107278
+        }
+      },
+      "formatted_address": "6X68+8WF, 251105, Oke Onigbin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.210799999999999,4.9673",
+      "google_place_id": "ChIJEcaNxufbNxARcePl7RRmnzY"
+    }
   },
   {
     "id": "111107",
@@ -61,7 +112,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.4814138,
+      "longitude": 4.5730881,
+      "viewport": {
+        "northeast": {
+          "lat": 8.482999529892721,
+          "lng": 4.574470479892721
+        },
+        "southwest": {
+          "lat": 8.480299870107277,
+          "lng": 4.571770820107277
+        }
+      },
+      "formatted_address": "Opposite Governor's Office, Ahmadu Bello Way, 240101, Ilorin, Kwara State, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.4814138,4.5730881",
+      "google_place_id": "ChIJlfgRcWhNNhARUPYZLKTptm4"
+    }
   },
   {
     "id": "111108",
@@ -77,7 +145,8 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": null
   },
   {
     "id": "111109",
@@ -93,7 +162,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2755486,
+      "longitude": 5.015527,
+      "viewport": {
+        "northeast": {
+          "lat": 8.276834829892724,
+          "lng": 5.016980979892721
+        },
+        "southwest": {
+          "lat": 8.27413517010728,
+          "lng": 5.014281320107277
+        }
+      },
+      "formatted_address": "Oke Onigbin-Odo Ore, 251105, Owu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2755486,5.015527",
+      "google_place_id": "ChIJDyCtp9XZNxARZY0O46iHBus"
+    }
   },
   {
     "id": "111110",
@@ -109,7 +195,24 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.2238873,
+      "longitude": 4.9939527,
+      "viewport": {
+        "northeast": {
+          "lat": 8.22547912989272,
+          "lng": 4.995607029892722
+        },
+        "southwest": {
+          "lat": 8.222779470107277,
+          "lng": 4.992907370107278
+        }
+      },
+      "formatted_address": "6XFV+HH4, 251105, Oke Onigbin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.2238873,4.9939527",
+      "google_place_id": "ChIJ69Fot0fZNxARsd3UKpunOYM"
+    }
   },
   {
     "id": "111111",
@@ -125,6 +228,23 @@
     "local_government_id": "499",
     "local_government_name": "ISIN",
     "state_id": "23",
-    "state_name": "KWARA"
+    "state_name": "KWARA",
+    "location": {
+      "latitude": 8.224214,
+      "longitude": 4.993752,
+      "viewport": {
+        "northeast": {
+          "lat": 8.225790279892722,
+          "lng": 4.995386729892722
+        },
+        "southwest": {
+          "lat": 8.223090620107278,
+          "lng": 4.992687070107278
+        }
+      },
+      "formatted_address": "6XFV+MGJ, 251105, Oke Onigbin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.224214,4.993752",
+      "google_place_id": "ChIJ7auJa3LZNxARVUcjcROtuA4"
+    }
   }
 ]
