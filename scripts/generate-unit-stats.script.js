@@ -22,19 +22,17 @@ const walk = require('./walk')
      if (!unitsMap[unit.state_name]) {
        unitsMap[unit.state_name] = {}
        unitsMap[unit.state_name]['pollingUnits'] = 0
+       unitsMap[unit.state_name]['wards'] = 0
+       unitsMap[unit.state_name]['lgas'] = 0
      }
 
      if (!unitsMap[unit.state_name][unit.local_government_id]) {
-       unitsMap[unit.state_name]['lgas'] = 1
        unitsMap[unit.state_name][unit.local_government_id] = {}
-     } else {
        unitsMap[unit.state_name]['lgas']++
      }
 
      if (!unitsMap[unit.state_name][unit.local_government_id][unit.ward_id]) {
-       unitsMap[unit.state_name]['wards'] = 1
        unitsMap[unit.state_name][unit.local_government_id][unit.ward_id] = {}
-     } else {
        unitsMap[unit.state_name]['wards']++
      }
 
