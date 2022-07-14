@@ -15,8 +15,66 @@ async function* walk(dir) {
   }
 }
 
+// create csv file
+try {
+  fs.writeFileSync(
+    `inec-polling-units.csv`,
+    `name, ward_name, local_government_name, state_name, latitude, longitude \n`,
+    { encoding: "utf8" }
+  );
+} catch (error) {
+  console.log(error);
+}
+
 (async () => {
   for await (const file of walk(`./states/`)) {
     // @TODO Write code here
+    // append values to file created before
+    let parseData;
+    if (!file.includes(".csv")) {
+      const fileData = fs.readFileSync(file, { encoding: "utf8" });
+      parseData = JSON.parse(fileData);
+    }
+
+    if (parseData && Array.isArray(parseData)) {
+      for await (const {
+        name,
+        ward_name,
+        local_government_name,
+        state_name,
+        location,
+      } of parseData) {
+        try {
+          fs.appendFileSync(
+            `inec-polling-units.csv`,
+            `${name || ""}, ${ward_name || ""}, ${
+              local_government_name || ""
+            }, ${state_name || ""}, ${location ? location.latitude : ""}, ${
+              location ? location.longitude : ""
+            }\n`,
+            { encoding: "utf8" }
+          );
+        } catch (error) {
+          console.log(error);
+        }
+      }
+    } else if (parseData && !Array.isArray(parseData)) {
+      const { name, ward_name, local_government_name, state_name, location } =
+        parseData;
+
+      try {
+        fs.appendFileSync(
+          `inec-polling-units.csv`,
+          `${name || ""}, ${ward_name || ""}, ${local_government_name || ""}, ${
+            state_name || ""
+          }, ${location ? location.latitude : ""}, ${
+            location ? location.longitude : ""
+          }\n`,
+          { encoding: "utf8" }
+        );
+      } catch (error) {
+        console.log(error);
+      }
+    }
   }
 })();
