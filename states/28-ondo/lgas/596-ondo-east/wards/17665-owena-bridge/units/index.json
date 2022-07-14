@@ -13,7 +13,8 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347755",
@@ -29,7 +30,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.089303699999999,
+      "longitude": 4.8356655,
+      "viewport": {
+        "northeast": {
+          "lat": 7.090687229892721,
+          "lng": 4.837068329892722
+        },
+        "southwest": {
+          "lat": 7.087987570107277,
+          "lng": 4.834368670107278
+        }
+      },
+      "formatted_address": "3RQP+P7F, Ore - Ondo Road, 351103, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.089303699999999,4.8356655",
+      "google_place_id": "ChIJobTPCWpiOBAR4-CeiH1bRwQ"
+    }
   },
   {
     "id": "347756",
@@ -45,7 +63,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2110354,
+      "longitude": 5.0026454,
+      "viewport": {
+        "northeast": {
+          "lat": 7.212385229892722,
+          "lng": 5.003995229892721
+        },
+        "southwest": {
+          "lat": 7.209685570107278,
+          "lng": 5.001295570107277
+        }
+      },
+      "formatted_address": "6263+C36, 351111, Owena, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2110354,5.0026454",
+      "google_place_id": "ChIJK5GlP_J5OBAR3mqN2n1UiDM"
+    }
   },
   {
     "id": "347757",
@@ -61,7 +96,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.262081,
+      "longitude": 5.2558129,
+      "viewport": {
+        "northeast": {
+          "lat": 7.263432279892721,
+          "lng": 5.257157029892721
+        },
+        "southwest": {
+          "lat": 7.260732620107277,
+          "lng": 5.254457370107278
+        }
+      },
+      "formatted_address": "7764+R7W, 340106, Oba Ile, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.262081,5.2558129",
+      "google_place_id": "ChIJkVvVg0SQRxAR3yBimwWZn1Q"
+    }
   },
   {
     "id": "347758",
@@ -77,7 +129,8 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347759",
@@ -93,7 +146,8 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347760",
@@ -109,7 +163,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.196520599999999,
+      "longitude": 5.0192177,
+      "viewport": {
+        "northeast": {
+          "lat": 7.198040529892722,
+          "lng": 5.020491779892723
+        },
+        "southwest": {
+          "lat": 7.195340870107279,
+          "lng": 5.017792120107279
+        }
+      },
+      "formatted_address": "Akure-Ondo Rd, 351105, Owena, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.196520599999999,5.0192177",
+      "google_place_id": "ChIJuRuKO1V4OBARqu6XIXkdaWk"
+    }
   },
   {
     "id": "347761",
@@ -125,6 +196,23 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.208199999999999,
+      "longitude": 4.9699,
+      "viewport": {
+        "northeast": {
+          "lat": 7.209573779892722,
+          "lng": 4.971129129892722
+        },
+        "southwest": {
+          "lat": 7.206874120107278,
+          "lng": 4.968429470107278
+        }
+      },
+      "formatted_address": "6X59+7XJ, 351111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.208199999999999,4.9699",
+      "google_place_id": "ChIJ0Z4gtyV6OBARo2xrTeV03_s"
+    }
   }
 ]

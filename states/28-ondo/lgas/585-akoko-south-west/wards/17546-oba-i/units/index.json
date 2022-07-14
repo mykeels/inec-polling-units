@@ -13,7 +13,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345203",
@@ -29,7 +30,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345204",
@@ -45,7 +47,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3741082,
+      "longitude": 5.7231052,
+      "viewport": {
+        "northeast": {
+          "lat": 7.375438629892722,
+          "lng": 5.724623079892722
+        },
+        "southwest": {
+          "lat": 7.372738970107278,
+          "lng": 5.721923420107278
+        }
+      },
+      "formatted_address": "9PFF+M69, 342106, Oba Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3741082,5.7231052",
+      "google_place_id": "ChIJgzuTAk21RxARhsOy8-bnbJM"
+    }
   },
   {
     "id": "345205",
@@ -61,7 +80,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.374841699999999,
+      "longitude": 5.7342566,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376547879892721,
+          "lng": 5.735482929892722
+        },
+        "southwest": {
+          "lat": 7.373848220107277,
+          "lng": 5.732783270107278
+        }
+      },
+      "formatted_address": "Idoani-Ikun Oba Rd, 342106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374841699999999,5.7342566",
+      "google_place_id": "ChIJh_zP4ctLRhARRVBYgq8Ckyw"
+    }
   },
   {
     "id": "345206",
@@ -77,7 +113,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
   },
   {
     "id": "345207",
@@ -93,7 +146,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.369882800000001,
+      "longitude": 5.723046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371219529892723,
+          "lng": 5.724400979892722
+        },
+        "southwest": {
+          "lat": 7.368519870107279,
+          "lng": 5.721701320107277
+        }
+      },
+      "formatted_address": "9P9F+X63, Owo - Oba Rd, 342106, Oba Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369882800000001,5.723046699999999",
+      "google_place_id": "ChIJ-7yuxDG1RxARrxZI6WNpHJM"
+    }
   },
   {
     "id": "345208",
@@ -109,7 +179,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.369882800000001,
+      "longitude": 5.723046699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.371219529892723,
+          "lng": 5.724400979892722
+        },
+        "southwest": {
+          "lat": 7.368519870107279,
+          "lng": 5.721701320107277
+        }
+      },
+      "formatted_address": "9P9F+X63, Owo - Oba Rd, 342106, Oba Akoko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369882800000001,5.723046699999999",
+      "google_place_id": "ChIJ-7yuxDG1RxARrxZI6WNpHJM"
+    }
   },
   {
     "id": "345209",
@@ -125,7 +212,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.386110999999999,
+      "longitude": 5.917777999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.387227079892721,
+          "lng": 5.919234379892722
+        },
+        "southwest": {
+          "lat": 7.384527420107277,
+          "lng": 5.916534720107278
+        }
+      },
+      "formatted_address": "9WP9+C4R, 342117, Shosan Isale, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.386110999999999,5.917777999999999",
+      "google_place_id": "ChIJ-X-FEtJHRhARYaXNe0j1Nuo"
+    }
   },
   {
     "id": "345210",
@@ -141,7 +245,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
   },
   {
     "id": "345211",
@@ -157,7 +278,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
   },
   {
     "id": "345212",
@@ -173,7 +311,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.374841699999999,
+      "longitude": 5.7342566,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376547879892721,
+          "lng": 5.735482929892722
+        },
+        "southwest": {
+          "lat": 7.373848220107277,
+          "lng": 5.732783270107278
+        }
+      },
+      "formatted_address": "Idoani-Ikun Oba Rd, 342106, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.374841699999999,5.7342566",
+      "google_place_id": "ChIJh_zP4ctLRhARRVBYgq8Ckyw"
+    }
   },
   {
     "id": "345213",
@@ -189,7 +344,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.519419699999999,
+      "longitude": 5.734981599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.520763129892721,
+          "lng": 5.736330429892721
+        },
+        "southwest": {
+          "lat": 7.518063470107277,
+          "lng": 5.733630770107277
+        }
+      },
+      "formatted_address": "GP9P+Q2F, 342110, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.519419699999999,5.734981599999999",
+      "google_place_id": "ChIJ3xoTNIozRhARCrwUgIv_O34"
+    }
   },
   {
     "id": "345214",
@@ -205,7 +377,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.3754,
+      "longitude": 5.734999999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.376986479892722,
+          "lng": 5.736247379892721
+        },
+        "southwest": {
+          "lat": 7.374286820107278,
+          "lng": 5.733547720107278
+        }
+      },
+      "formatted_address": "9PGP+522, 342106, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.3754,5.734999999999999",
+      "google_place_id": "ChIJIVTn48tKRhARJtqI0F6-6b4"
+    }
   },
   {
     "id": "345215",
@@ -221,6 +410,7 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

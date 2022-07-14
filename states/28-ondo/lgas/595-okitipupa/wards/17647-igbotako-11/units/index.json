@@ -13,7 +13,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347462",
@@ -29,7 +30,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347463",
@@ -45,7 +47,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347464",
@@ -61,7 +64,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347465",
@@ -77,7 +81,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347466",
@@ -93,7 +98,24 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5772635,
+      "longitude": 4.6425975,
+      "viewport": {
+        "northeast": {
+          "lat": 6.578655879892723,
+          "lng": 4.643744479892721
+        },
+        "southwest": {
+          "lat": 6.575956220107279,
+          "lng": 4.641044820107277
+        }
+      },
+      "formatted_address": "HJGV+W25, Kilometre Zero, Iju-Oke - Omotosho Road, Igbotako, Ilado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5772635,4.6425975",
+      "google_place_id": "ChIJCbeM-6PFOBARwE7hx4zUf-8"
+    }
   },
   {
     "id": "347467",
@@ -109,7 +131,24 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.505440399999999,
+      "longitude": 4.7777688,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506680179892722,
+          "lng": 4.779138129892723
+        },
+        "southwest": {
+          "lat": 6.503980520107278,
+          "lng": 4.776438470107279
+        }
+      },
+      "formatted_address": "GQ4H+54C, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.505440399999999,4.7777688",
+      "google_place_id": "ChIJXbBHu7K3OBARyk5hW-6LrhI"
+    }
   },
   {
     "id": "347468",
@@ -125,7 +164,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347469",
@@ -141,7 +181,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347470",
@@ -157,7 +198,24 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5050735,
+      "longitude": 4.7742133,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506198729892722,
+          "lng": 4.775595679892722
+        },
+        "southwest": {
+          "lat": 6.503499070107278,
+          "lng": 4.772896020107278
+        }
+      },
+      "formatted_address": "GQ4F+2MP, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5050735,4.7742133",
+      "google_place_id": "ChIJQXBEgPm2OBARKGwH85l9rAU"
+    }
   },
   {
     "id": "347471",
@@ -173,7 +231,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347472",
@@ -189,7 +248,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347473",
@@ -205,7 +265,8 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347474",
@@ -221,6 +282,7 @@
     "local_government_id": "595",
     "local_government_name": "OKITIPUPA",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

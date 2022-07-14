@@ -13,7 +13,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.369578199999999,
+      "longitude": 5.828280899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.370893279892723,
+          "lng": 5.829598379892722
+        },
+        "southwest": {
+          "lat": 7.368193620107279,
+          "lng": 5.826898720107278
+        }
+      },
+      "formatted_address": "9R9H+R8J, Idoani-Ikun Oba Rd, 341117, Afo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.369578199999999,5.828280899999999",
+      "google_place_id": "ChIJg2dh7pBJRhARHmDeNdYDKeU"
+    }
   },
   {
     "id": "347681",
@@ -29,7 +46,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.106006499999999,
+      "longitude": 4.810423699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.107384379892721,
+          "lng": 4.811790279892723
+        },
+        "southwest": {
+          "lat": 7.104684720107278,
+          "lng": 4.809090620107279
+        }
+      },
+      "formatted_address": "4R46+C53, Funbi Fagun, 351110, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.106006499999999,4.810423699999999",
+      "google_place_id": "ChIJe4OaqYBhOBARlOcA0Llhtwg"
+    }
   },
   {
     "id": "347682",
@@ -45,7 +79,8 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "347683",
@@ -61,7 +96,24 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.0841536,
+      "longitude": 4.8318751,
+      "viewport": {
+        "northeast": {
+          "lat": 7.085527729892722,
+          "lng": 4.833237929892722
+        },
+        "southwest": {
+          "lat": 7.082828070107278,
+          "lng": 4.830538270107279
+        }
+      },
+      "formatted_address": "3RMJ+MP5, Ayeyemi St, 351103, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0841536,4.8318751",
+      "google_place_id": "ChIJQfSlV2tiOBARQiRMskHUcRM"
+    }
   },
   {
     "id": "347684",
@@ -77,6 +129,7 @@
     "local_government_id": "596",
     "local_government_name": "ONDO EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

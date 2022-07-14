@@ -13,7 +13,24 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.256989799999999,
+      "longitude": 4.9350929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.4570915,
+          "lng": 5.1369133
+        },
+        "southwest": {
+          "lat": 6.0056224,
+          "lng": 4.8319234
+        }
+      },
+      "formatted_address": "Ese Odo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.256989799999999,4.9350929",
+      "google_place_id": "ChIJ2_sEIElXPxARQxXankZG_qs"
+    }
   },
   {
     "id": "346027",
@@ -29,7 +46,8 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346028",
@@ -45,7 +63,24 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5072616,
+      "longitude": 4.7786021,
+      "viewport": {
+        "northeast": {
+          "lat": 6.508604379892722,
+          "lng": 4.779931979892722
+        },
+        "southwest": {
+          "lat": 6.505904720107278,
+          "lng": 4.777232320107278
+        }
+      },
+      "formatted_address": "GQ4H+WC5, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5072616,4.7786021",
+      "google_place_id": "ChIJfw1uW_u2OBARU5AUYbHuOkU"
+    }
   },
   {
     "id": "346029",
@@ -61,7 +96,24 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.339483,
+      "longitude": 5.632587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.340792829892721,
+          "lng": 5.633894979892722
+        },
+        "southwest": {
+          "lat": 6.338093170107277,
+          "lng": 5.631195320107278
+        }
+      },
+      "formatted_address": "15b Eguadase St, Avbiama 300102, Benin City, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.339483,5.632587",
+      "google_place_id": "ChIJNc5UMjfTQBARfmuAN2d_0yo"
+    }
   },
   {
     "id": "346030",
@@ -77,7 +129,24 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5072616,
+      "longitude": 4.7786021,
+      "viewport": {
+        "northeast": {
+          "lat": 6.508604379892722,
+          "lng": 4.779931979892722
+        },
+        "southwest": {
+          "lat": 6.505904720107278,
+          "lng": 4.777232320107278
+        }
+      },
+      "formatted_address": "GQ4H+WC5, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5072616,4.7786021",
+      "google_place_id": "ChIJfw1uW_u2OBARU5AUYbHuOkU"
+    }
   },
   {
     "id": "346031",
@@ -93,7 +162,24 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.5072616,
+      "longitude": 4.7786021,
+      "viewport": {
+        "northeast": {
+          "lat": 6.508604379892722,
+          "lng": 4.779931979892722
+        },
+        "southwest": {
+          "lat": 6.505904720107278,
+          "lng": 4.777232320107278
+        }
+      },
+      "formatted_address": "GQ4H+WC5, 350108, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5072616,4.7786021",
+      "google_place_id": "ChIJfw1uW_u2OBARU5AUYbHuOkU"
+    }
   },
   {
     "id": "346032",
@@ -109,6 +195,23 @@
     "local_government_id": "588",
     "local_government_name": "ESE-ODO",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.426519,
+      "longitude": 4.9240069,
+      "viewport": {
+        "northeast": {
+          "lat": 6.428017379892722,
+          "lng": 4.925352629892721
+        },
+        "southwest": {
+          "lat": 6.425317720107278,
+          "lng": 4.922652970107277
+        }
+      },
+      "formatted_address": "CWGF+JJ2, 352104, Igbotu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.426519,4.9240069",
+      "google_place_id": "ChIJvxrFHAitOBARqFPwCS7lUqc"
+    }
   }
 ]

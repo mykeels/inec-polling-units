@@ -13,7 +13,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348177",
@@ -29,7 +30,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348178",
@@ -45,7 +47,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348179",
@@ -61,7 +64,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348180",
@@ -77,7 +81,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348181",
@@ -93,7 +98,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348182",
@@ -109,7 +115,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348183",
@@ -125,7 +132,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348184",
@@ -141,7 +149,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348185",
@@ -157,7 +166,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348186",
@@ -173,7 +183,24 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.9234293,
+      "longitude": 5.7774543,
+      "viewport": {
+        "northeast": {
+          "lat": 6.924768079892722,
+          "lng": 5.778804529892722
+        },
+        "southwest": {
+          "lat": 6.922068420107278,
+          "lng": 5.776104870107278
+        }
+      },
+      "formatted_address": "WQFG+9XW, 341111, Ifon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9234293,5.7774543",
+      "google_place_id": "ChIJF0AUOtj9RhARaUw4Ej0jgiI"
+    }
   },
   {
     "id": "348187",
@@ -189,7 +216,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348188",
@@ -205,7 +233,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348189",
@@ -221,7 +250,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348190",
@@ -237,6 +267,7 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344628",
@@ -29,7 +30,24 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.524806300000001,
+      "longitude": 5.7668515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.526400429892723,
+          "lng": 5.768157279892722
+        },
+        "southwest": {
+          "lat": 7.523700770107279,
+          "lng": 5.765457620107278
+        }
+      },
+      "formatted_address": "CJ 19 AA UHAMI PLAZA IKARE AKOKO Akoko North East Ikare-Akoko Ondo NG, 234034, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.524806300000001,5.7668515",
+      "google_place_id": "ChIJU1lW9xQzRhARSRhGZDuoA5s"
+    }
   },
   {
     "id": "344629",
@@ -45,7 +63,24 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.5214307,
+      "longitude": 5.7361246,
+      "viewport": {
+        "northeast": {
+          "lat": 7.522587479892722,
+          "lng": 5.737504079892722
+        },
+        "southwest": {
+          "lat": 7.519887820107278,
+          "lng": 5.734804420107278
+        }
+      },
+      "formatted_address": "GPCP+HCH, Okegbe,, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.5214307,5.7361246",
+      "google_place_id": "ChIJKRA5bC4zRhARGJXaNUUS_Yc"
+    }
   },
   {
     "id": "344630",
@@ -61,7 +96,24 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.526345399999999,
+      "longitude": 5.757804,
+      "viewport": {
+        "northeast": {
+          "lat": 7.527706529892721,
+          "lng": 5.759114279892722
+        },
+        "southwest": {
+          "lat": 7.525006870107277,
+          "lng": 5.756414620107278
+        }
+      },
+      "formatted_address": "GQG5+G4P, Addo Road, 342110, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.526345399999999,5.757804",
+      "google_place_id": "ChIJKUa-PL8zRhARfogSjnnMJPY"
+    }
   },
   {
     "id": "344631",
@@ -77,7 +129,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344632",
@@ -93,7 +146,24 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 8.0372735,
+      "longitude": 5.0979097,
+      "viewport": {
+        "northeast": {
+          "lat": 8.03866192989272,
+          "lng": 5.099254529892723
+        },
+        "southwest": {
+          "lat": 8.035962270107277,
+          "lng": 5.096554870107279
+        }
+      },
+      "formatted_address": "23PX+W53, Ekan 372107, Ekan Meje, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.0372735,5.0979097",
+      "google_place_id": "ChIJCSSNI14eSBARFMsZIDV_af8"
+    }
   },
   {
     "id": "344633",
@@ -109,6 +179,23 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.460507700000001,
+      "longitude": 5.8913097,
+      "viewport": {
+        "northeast": {
+          "lat": 7.461852529892722,
+          "lng": 5.892657829892721
+        },
+        "southwest": {
+          "lat": 7.459152870107278,
+          "lng": 5.889958170107277
+        }
+      },
+      "formatted_address": "No 19 oyara, Oyara-Isua, Isua, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.460507700000001,5.8913097",
+      "google_place_id": "ChIJAQAA8GY3RhARghl4ngGCvCQ"
+    }
   }
 ]

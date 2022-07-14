@@ -13,7 +13,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348211",
@@ -29,7 +30,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348212",
@@ -45,7 +47,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348213",
@@ -61,7 +64,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348214",
@@ -77,7 +81,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348215",
@@ -93,7 +98,24 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.9119129,
+      "longitude": 5.7758585,
+      "viewport": {
+        "northeast": {
+          "lat": 6.913682379892722,
+          "lng": 5.778107599999999
+        },
+        "southwest": {
+          "lat": 6.910982720107278,
+          "lng": 5.775108800000001
+        }
+      },
+      "formatted_address": "WQ6G+Q89, 341111, Ifon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.9119129,5.7758585",
+      "google_place_id": "ChIJXSw7Fdf9RhARpumaX8xz4IY"
+    }
   },
   {
     "id": "348216",
@@ -109,7 +131,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348217",
@@ -125,7 +148,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348218",
@@ -141,7 +165,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348219",
@@ -157,7 +182,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348220",
@@ -173,7 +199,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348221",
@@ -189,7 +216,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348222",
@@ -205,7 +233,8 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "348223",
@@ -221,7 +250,24 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.0107469,
+      "longitude": 5.7149335,
+      "viewport": {
+        "northeast": {
+          "lat": 7.012151179892722,
+          "lng": 5.716372779892722
+        },
+        "southwest": {
+          "lat": 7.009451520107278,
+          "lng": 5.713673120107278
+        }
+      },
+      "formatted_address": "2P67+7XV, 341111, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.0107469,5.7149335",
+      "google_place_id": "ChIJWwt0ma4BRxARYcOa321_fbA"
+    }
   },
   {
     "id": "348224",
@@ -237,6 +283,7 @@
     "local_government_id": "598",
     "local_government_name": "OSE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

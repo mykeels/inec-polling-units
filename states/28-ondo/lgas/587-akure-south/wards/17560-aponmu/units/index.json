@@ -13,7 +13,8 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345381",
@@ -29,7 +30,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.228620200000001,
+      "longitude": 5.1992169,
+      "viewport": {
+        "northeast": {
+          "lat": 7.229970029892723,
+          "lng": 5.200566729892722
+        },
+        "southwest": {
+          "lat": 7.227270370107279,
+          "lng": 5.197867070107278
+        }
+      },
+      "formatted_address": "65HX+CMW, Oke obere Aduralere Ajose, Ijoka Rd, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.228620200000001,5.1992169",
+      "google_place_id": "ChIJfSr5ZzOFRxARiZKQnzaBsLM"
+    }
   },
   {
     "id": "345382",
@@ -45,7 +63,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.287408199999999,
+      "longitude": 5.2050385,
+      "viewport": {
+        "northeast": {
+          "lat": 7.288755879892721,
+          "lng": 5.206350779892722
+        },
+        "southwest": {
+          "lat": 7.286056220107278,
+          "lng": 5.203651120107279
+        }
+      },
+      "formatted_address": "76P4+X28, Akure Ilesha Rd, 340110, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.287408199999999,5.2050385",
+      "google_place_id": "ChIJgXmkOkiORxAR3ZJPI8ILsvE"
+    }
   },
   {
     "id": "345383",
@@ -61,7 +96,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.247103300000001,
+      "longitude": 5.2142848,
+      "viewport": {
+        "northeast": {
+          "lat": 7.24845647989272,
+          "lng": 5.215646629892722
+        },
+        "southwest": {
+          "lat": 7.245756820107276,
+          "lng": 5.212946970107279
+        }
+      },
+      "formatted_address": "66W7+RMQ, Alagbaka 340283, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.247103300000001,5.2142848",
+      "google_place_id": "ChIJfZdFCDiPRxARw37WQV24Tq8"
+    }
   },
   {
     "id": "345384",
@@ -77,7 +129,8 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345385",
@@ -93,7 +146,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.250219899999999,
+      "longitude": 5.1688312,
+      "viewport": {
+        "northeast": {
+          "lat": 7.251626479892722,
+          "lng": 5.170140329892722
+        },
+        "southwest": {
+          "lat": 7.248926820107278,
+          "lng": 5.167440670107278
+        }
+      },
+      "formatted_address": "13 Ondo Road, By Custom Junction, 340110, Akure, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.250219899999999,5.1688312",
+      "google_place_id": "ChIJE93VMWmPRxARbFNQjQbTShU"
+    }
   },
   {
     "id": "345386",
@@ -109,7 +179,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.262550199999999,
+      "longitude": 5.1833102,
+      "viewport": {
+        "northeast": {
+          "lat": 7.26398392989272,
+          "lng": 5.184672779892722
+        },
+        "southwest": {
+          "lat": 7.261284270107276,
+          "lng": 5.181973120107278
+        }
+      },
+      "formatted_address": "757M+28F, Ayedun Street, 340110, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.262550199999999,5.1833102",
+      "google_place_id": "ChIJNRoyIQqPRxARCwSaesXy1I4"
+    }
   },
   {
     "id": "345387",
@@ -125,7 +212,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2595999,
+      "longitude": 5.1765117,
+      "viewport": {
+        "northeast": {
+          "lat": 7.26097707989272,
+          "lng": 5.177877279892721
+        },
+        "southwest": {
+          "lat": 7.258277420107275,
+          "lng": 5.175177620107277
+        }
+      },
+      "formatted_address": "220 Oyemekun Rd, 340110, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2595999,5.1765117",
+      "google_place_id": "ChIJ88Oe9PSPRxAR2LEGJPMamx4"
+    }
   },
   {
     "id": "345388",
@@ -141,7 +245,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.125475,
+      "longitude": 4.87971,
+      "viewport": {
+        "northeast": {
+          "lat": 7.126852529892721,
+          "lng": 4.881057979892722
+        },
+        "southwest": {
+          "lat": 7.124152870107277,
+          "lng": 4.878358320107278
+        }
+      },
+      "formatted_address": "1 Odosida St, 340101, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.125475,4.87971",
+      "google_place_id": "ChIJu_A8xDtjOBARe1hIdlV8JMM"
+    }
   },
   {
     "id": "345389",
@@ -157,7 +278,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2380823,
+      "longitude": 5.0649877,
+      "viewport": {
+        "northeast": {
+          "lat": 7.239344029892721,
+          "lng": 5.066320079892722
+        },
+        "southwest": {
+          "lat": 7.236644370107277,
+          "lng": 5.063620420107278
+        }
+      },
+      "formatted_address": "63Q8+42M, 351105, Apom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2380823,5.0649877",
+      "google_place_id": "ChIJORZMrQCIRxAR4kkC_8HDkHk"
+    }
   },
   {
     "id": "345390",
@@ -173,7 +311,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2380823,
+      "longitude": 5.0649877,
+      "viewport": {
+        "northeast": {
+          "lat": 7.239344029892721,
+          "lng": 5.066320079892722
+        },
+        "southwest": {
+          "lat": 7.236644370107277,
+          "lng": 5.063620420107278
+        }
+      },
+      "formatted_address": "63Q8+42M, 351105, Apom, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2380823,5.0649877",
+      "google_place_id": "ChIJORZMrQCIRxAR4kkC_8HDkHk"
+    }
   },
   {
     "id": "345391",
@@ -189,7 +344,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 43.5766967,
+      "longitude": -80.25782,
+      "viewport": {
+        "northeast": {
+          "lat": 43.57802162989272,
+          "lng": -80.25673157010728
+        },
+        "southwest": {
+          "lat": 43.57532197010728,
+          "lng": -80.25943122989271
+        }
+      },
+      "formatted_address": "391 Victoria Rd N, Guelph, ON N1E 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.5766967,-80.25782",
+      "google_place_id": "ChIJR4ybi2iaK4gRAvIq2IOtRco"
+    }
   },
   {
     "id": "345392",
@@ -205,7 +377,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2296887,
+      "longitude": 5.1963386,
+      "viewport": {
+        "northeast": {
+          "lat": 7.231032979892722,
+          "lng": 5.197635129892721
+        },
+        "southwest": {
+          "lat": 7.228333320107278,
+          "lng": 5.194935470107278
+        }
+      },
+      "formatted_address": "65HW+VC9, Oshinle Quarters 340283, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2296887,5.1963386",
+      "google_place_id": "ChIJPyNTvnyFRxARd4NYWcMVq6U"
+    }
   },
   {
     "id": "345393",
@@ -221,7 +410,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2850427,
+      "longitude": 5.1673139,
+      "viewport": {
+        "northeast": {
+          "lat": 7.286397479892722,
+          "lng": 5.168657879892721
+        },
+        "southwest": {
+          "lat": 7.283697820107278,
+          "lng": 5.165958220107277
+        }
+      },
+      "formatted_address": "75P8+3W3, Industrial Estate off Ilesha, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2850427,5.1673139",
+      "google_place_id": "ChIJN-UAaH-PRxARbmZ1syzInqE"
+    }
   },
   {
     "id": "345394",
@@ -237,7 +443,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 43.2594617,
+      "longitude": -79.84763439999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.26073422989272,
+          "lng": -79.8461992201073
+        },
+        "southwest": {
+          "lat": 43.25803457010728,
+          "lng": -79.84889887989273
+        }
+      },
+      "formatted_address": "414 Barton St E, Hamilton, ON L8L 2Y3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.2594617,-79.84763439999999",
+      "google_place_id": "ChIJH6rLPvSbLIgRGBxkUyibNFY"
+    }
   },
   {
     "id": "345395",
@@ -253,7 +476,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.250219899999999,
+      "longitude": 5.1688312,
+      "viewport": {
+        "northeast": {
+          "lat": 7.251626479892722,
+          "lng": 5.170140329892722
+        },
+        "southwest": {
+          "lat": 7.248926820107278,
+          "lng": 5.167440670107278
+        }
+      },
+      "formatted_address": "13 Ondo Road, By Custom Junction, 340110, Akure, Ondo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.250219899999999,5.1688312",
+      "google_place_id": "ChIJE93VMWmPRxARbFNQjQbTShU"
+    }
   },
   {
     "id": "345396",
@@ -269,7 +509,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2362354,
+      "longitude": 5.2135139,
+      "viewport": {
+        "northeast": {
+          "lat": 7.237572879892722,
+          "lng": 5.214865779892722
+        },
+        "southwest": {
+          "lat": 7.234873220107279,
+          "lng": 5.212166120107278
+        }
+      },
+      "formatted_address": "Plot 'M' Awosika Avenue,by Okhun Road Ikeja, Industrial Estate Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2362354,5.2135139",
+      "google_place_id": "ChIJlVUIIliPRxARZoWzFhG51RU"
+    }
   },
   {
     "id": "345397",
@@ -285,7 +542,24 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.2554108,
+      "longitude": 5.2501847,
+      "viewport": {
+        "northeast": {
+          "lat": 7.25675252989272,
+          "lng": 5.251497529892722
+        },
+        "southwest": {
+          "lat": 7.254052870107277,
+          "lng": 5.248797870107278
+        }
+      },
+      "formatted_address": "No 14, Road M2, Oba-Ile Estate, 340214, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.2554108,5.2501847",
+      "google_place_id": "ChIJlRb2KUWRRxARiJcygzP_INI"
+    }
   },
   {
     "id": "345398",
@@ -301,6 +575,23 @@
     "local_government_id": "587",
     "local_government_name": "AKURE SOUTH",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.225692699999999,
+      "longitude": 5.1756587,
+      "viewport": {
+        "northeast": {
+          "lat": 7.227063829892721,
+          "lng": 5.177036679892722
+        },
+        "southwest": {
+          "lat": 7.224364170107277,
+          "lng": 5.174337020107278
+        }
+      },
+      "formatted_address": "65GG+77F, Unnamed Road, 340283, Akure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.225692699999999,5.1756587",
+      "google_place_id": "ChIJEUKp-i-FRxAR7_4HD8OK1LQ"
+    }
   }
 ]

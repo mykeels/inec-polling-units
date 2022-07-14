@@ -13,7 +13,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344616",
@@ -29,7 +30,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344617",
@@ -45,7 +47,24 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.628715899999999,
+      "longitude": 5.9398634,
+      "viewport": {
+        "northeast": {
+          "lat": 7.630092329892721,
+          "lng": 5.941157479892722
+        },
+        "southwest": {
+          "lat": 7.627392670107278,
+          "lng": 5.938457820107277
+        }
+      },
+      "formatted_address": "JWHQ+FWQ, Akunu Akoko, along Ipele road, Kabba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.628715899999999,5.9398634",
+      "google_place_id": "ChIJY13sPrMlRhARJbfR7XKdMVg"
+    }
   },
   {
     "id": "344618",
@@ -61,7 +80,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344619",
@@ -77,7 +97,24 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.518028899999999,
+      "longitude": 5.741874,
+      "viewport": {
+        "northeast": {
+          "lat": 7.519452279892722,
+          "lng": 5.743235829892722
+        },
+        "southwest": {
+          "lat": 7.516752620107278,
+          "lng": 5.740536170107278
+        }
+      },
+      "formatted_address": "GP9R+6P9, 342110, Ikare, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.518028899999999,5.741874",
+      "google_place_id": "ChIJCY6l7DozRhARjRaKGBldRys"
+    }
   },
   {
     "id": "344620",
@@ -93,7 +130,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344621",
@@ -109,7 +147,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344622",
@@ -125,7 +164,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344623",
@@ -141,7 +181,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344624",
@@ -157,7 +198,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344625",
@@ -173,7 +215,8 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "344626",
@@ -189,6 +232,23 @@
     "local_government_id": "582",
     "local_government_name": "AKOKO NORTH EAST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.524806300000001,
+      "longitude": 5.7668515,
+      "viewport": {
+        "northeast": {
+          "lat": 7.526400429892723,
+          "lng": 5.768157279892722
+        },
+        "southwest": {
+          "lat": 7.523700770107279,
+          "lng": 5.765457620107278
+        }
+      },
+      "formatted_address": "CJ 19 AA UHAMI PLAZA IKARE AKOKO Akoko North East Ikare-Akoko Ondo NG, 234034, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.524806300000001,5.7668515",
+      "google_place_id": "ChIJU1lW9xQzRhARSRhGZDuoA5s"
+    }
   }
 ]

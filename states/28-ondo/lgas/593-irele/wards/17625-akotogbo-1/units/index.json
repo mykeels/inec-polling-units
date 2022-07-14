@@ -13,7 +13,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346963",
@@ -29,7 +30,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346964",
@@ -45,7 +47,24 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.386012,
+      "longitude": 5.039498,
+      "viewport": {
+        "northeast": {
+          "lat": 6.387326629892721,
+          "lng": 5.040826779892723
+        },
+        "southwest": {
+          "lat": 6.384626970107277,
+          "lng": 5.038127120107279
+        }
+      },
+      "formatted_address": "37 Apata New Site, 352103, Okitipupa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.386012,5.039498",
+      "google_place_id": "ChIJu0Cug7WqOBARKN5S1GJtoEc"
+    }
   },
   {
     "id": "346965",
@@ -61,7 +80,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346966",
@@ -77,7 +97,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346967",
@@ -93,7 +114,24 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.3811868,
+      "longitude": 5.0449646,
+      "viewport": {
+        "northeast": {
+          "lat": 6.382604879892721,
+          "lng": 5.046472979892722
+        },
+        "southwest": {
+          "lat": 6.379905220107277,
+          "lng": 5.043773320107278
+        }
+      },
+      "formatted_address": "92JV+FXG, 352103, Akotogbo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.3811868,5.0449646",
+      "google_place_id": "ChIJIUQRkExVPxARFhb7lHW0nv0"
+    }
   },
   {
     "id": "346968",
@@ -109,7 +147,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346969",
@@ -125,7 +164,24 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.4941055,
+      "longitude": 4.869273199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.495450029892722,
+          "lng": 4.870643629892722
+        },
+        "southwest": {
+          "lat": 6.492750370107278,
+          "lng": 4.867943970107278
+        }
+      },
+      "formatted_address": "FVV9+JQC, 352101, Irele, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4941055,4.869273199999999",
+      "google_place_id": "ChIJkSke8b6xOBARF81NUHBQ7_o"
+    }
   },
   {
     "id": "346970",
@@ -141,6 +197,7 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

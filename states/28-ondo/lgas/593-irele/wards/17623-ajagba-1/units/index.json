@@ -13,7 +13,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346937",
@@ -29,7 +30,24 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.4516766,
+      "longitude": 4.987374,
+      "viewport": {
+        "northeast": {
+          "lat": 6.4531591,
+          "lng": 4.9898189
+        },
+        "southwest": {
+          "lat": 6.4502239,
+          "lng": 4.9859749
+        }
+      },
+      "formatted_address": "352111, Gbogbolowo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4516766,4.987374",
+      "google_place_id": "ChIJMV6D7u2rOBARTiZOB_Lspvw"
+    }
   },
   {
     "id": "346938",
@@ -45,7 +63,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346939",
@@ -61,7 +80,24 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 6.4237341,
+      "longitude": 4.924885499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.425143729892722,
+          "lng": 4.925968929892722
+        },
+        "southwest": {
+          "lat": 6.422444070107278,
+          "lng": 4.923269270107278
+        }
+      },
+      "formatted_address": "CWFF+FXR, 352104, Igbotu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4237341,4.924885499999999",
+      "google_place_id": "ChIJHeKQZSitOBARGP99ji8Z4RY"
+    }
   },
   {
     "id": "346940",
@@ -77,7 +113,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346941",
@@ -93,7 +130,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346942",
@@ -109,7 +147,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346943",
@@ -125,7 +164,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346944",
@@ -141,7 +181,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346945",
@@ -157,7 +198,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346946",
@@ -173,7 +215,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346947",
@@ -189,7 +232,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346948",
@@ -205,7 +249,8 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "346949",
@@ -221,6 +266,7 @@
     "local_government_id": "593",
     "local_government_name": "IRELE",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]

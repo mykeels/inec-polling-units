@@ -13,7 +13,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345039",
@@ -29,7 +30,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345040",
@@ -45,7 +47,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345041",
@@ -61,7 +64,24 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": {
+      "latitude": 7.438931,
+      "longitude": 5.771211699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 7.440323579892723,
+          "lng": 5.772583879892721
+        },
+        "southwest": {
+          "lat": 7.437623920107279,
+          "lng": 5.769884220107278
+        }
+      },
+      "formatted_address": "CQQC+HFG, 342106, Iwaro-Oka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=7.438931,5.771211699999999",
+      "google_place_id": "ChIJm11ssQA1RhARtORrhi85oJ4"
+    }
   },
   {
     "id": "345042",
@@ -77,7 +97,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345043",
@@ -93,7 +114,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345044",
@@ -109,7 +131,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345045",
@@ -125,7 +148,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345046",
@@ -141,7 +165,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345047",
@@ -157,7 +182,8 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   },
   {
     "id": "345048",
@@ -173,6 +199,7 @@
     "local_government_id": "585",
     "local_government_name": "AKOKO SOUTH WEST",
     "state_id": "28",
-    "state_name": "ONDO"
+    "state_name": "ONDO",
+    "location": null
   }
 ]
