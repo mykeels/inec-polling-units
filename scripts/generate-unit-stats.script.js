@@ -51,7 +51,7 @@ const walk = require('./walk')
  | State | LGAs | Wards | Polling Units |
  | ----- | ---- | ----- | ------- |`;
 
-   for (const state of Object.keys(unitsMap)) {
+   for (const state of [...Object.keys(unitsMap).sort()]) {
      tableInfo += `
  | ${state} | ${unitsMap[state]['lgas']} | ${unitsMap[state]['wards']} | ${unitsMap[state]['pollingUnits']} |`
    }
