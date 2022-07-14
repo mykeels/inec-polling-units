@@ -13,7 +13,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118712",
@@ -29,7 +30,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118713",
@@ -45,7 +47,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6125739,
+      "longitude": 3.3458594,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613950729892721,
+          "lng": 3.347121679892722
+        },
+        "southwest": {
+          "lat": 6.611251070107278,
+          "lng": 3.344422020107277
+        }
+      },
+      "formatted_address": "54b Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6125739,3.3458594",
+      "google_place_id": "ChIJGQyb6OqTOxARlo7XaOWa_7U"
+    }
   },
   {
     "id": "118714",
@@ -61,7 +80,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118715",
@@ -77,7 +113,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.61119,
+      "longitude": 3.35318,
+      "viewport": {
+        "northeast": {
+          "lat": 6.612474529892721,
+          "lng": 3.354658679892723
+        },
+        "southwest": {
+          "lat": 6.609774870107278,
+          "lng": 3.351959020107278
+        }
+      },
+      "formatted_address": "2, Makinde Street, Alan Oki's Place, By Coca Cola Junction, Alausa, Ikeja, Lagos, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.61119,3.35318",
+      "google_place_id": "ChIJMX8vlsyTOxARtD5iSfxzfpE"
+    }
   },
   {
     "id": "118716",
@@ -93,7 +146,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6125739,
+      "longitude": 3.3458594,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613950729892721,
+          "lng": 3.347121679892722
+        },
+        "southwest": {
+          "lat": 6.611251070107278,
+          "lng": 3.344422020107277
+        }
+      },
+      "formatted_address": "54b Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6125739,3.3458594",
+      "google_place_id": "ChIJGQyb6OqTOxARlo7XaOWa_7U"
+    }
   },
   {
     "id": "118717",
@@ -109,7 +179,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6178713,
+      "longitude": 3.346448,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635639899999999,
+          "lng": 3.3533646
+        },
+        "southwest": {
+          "lat": 6.608698299999999,
+          "lng": 3.3352503
+        }
+      },
+      "formatted_address": "Adekunle Vill./Adeniyi Jones/Ogba, 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6178713,3.346448",
+      "google_place_id": "ChIJvcntI9qTOxARAGiKjujPPwI"
+    }
   },
   {
     "id": "118718",
@@ -125,7 +212,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6132921,
+      "longitude": 3.3545898,
+      "viewport": {
+        "northeast": {
+          "lat": 6.614609229892721,
+          "lng": 3.355990529892722
+        },
+        "southwest": {
+          "lat": 6.611909570107278,
+          "lng": 3.353290870107278
+        }
+      },
+      "formatted_address": "The Philippi Centre, Oluwalogbon House, Plot A Obafemi Awolowo Way, Alausa, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6132921,3.3545898",
+      "google_place_id": "ChIJj0LmQUaTOxARoGYSzXu1MSE"
+    }
   },
   {
     "id": "118719",
@@ -141,7 +245,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.614402300000001,
+      "longitude": 3.3475641,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615752129892723,
+          "lng": 3.348913929892723
+        },
+        "southwest": {
+          "lat": 6.613052470107279,
+          "lng": 3.346214270107278
+        }
+      },
+      "formatted_address": "Badagry St & Alh. Jimoh St, Ogba 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.614402300000001,3.3475641",
+      "google_place_id": "EjdCYWRhZ3J5IFN0ICYgQWxoLiBKaW1vaCBTdCwgT2diYSAxMDEyMzMsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJ-3KWOtKTOxAR3gMfyLTNt8ISFAoSCftyljrSkzsQEd4DH8i0zbfCGhQKEgnNuadJ0pM7EBE3XImu74_rlRoUChIJ-63s0dOTOxARs00LNMnLqCsiCg0XR_EDFTnM_gE"
+    }
   },
   {
     "id": "118720",
@@ -157,7 +278,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6042583,
+      "longitude": 3.3375619,
+      "viewport": {
+        "northeast": {
+          "lat": 6.605546179892721,
+          "lng": 3.338763529892722
+        },
+        "southwest": {
+          "lat": 6.602846520107277,
+          "lng": 3.336063870107278
+        }
+      },
+      "formatted_address": "J83Q+M2R, Oba Akran Ave, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6042583,3.3375619",
+      "google_place_id": "ChIJDbQNM4eROxARTwHLC3pkW8U"
+    }
   },
   {
     "id": "118721",
@@ -173,7 +311,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6170046,
+      "longitude": 3.3489767,
+      "viewport": {
+        "northeast": {
+          "lat": 6.618354429892721,
+          "lng": 3.350326529892722
+        },
+        "southwest": {
+          "lat": 6.615654770107278,
+          "lng": 3.347626870107277
+        }
+      },
+      "formatted_address": "Odegbami St & Efunleye St, Ogba 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6170046,3.3489767",
+      "google_place_id": "EjZPZGVnYmFtaSBTdCAmIEVmdW5sZXllIFN0LCBPZ2JhIDEwMTIzMywgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgmrZzDa0ZM7EBEZ-A2ia-H4WBIUChIJq2cw2tGTOxARGfgNomvh-FgaFAoSCXXw2CfOkzsQEU_p_Ew6JqsoGhQKEgm3DZu30ZM7EBGhO_m6bNOo2yIKDb6s8QMVZwP_AQ"
+    }
   },
   {
     "id": "118722",
@@ -189,7 +344,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6203144,
+      "longitude": 3.3466395,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621630679892721,
+          "lng": 3.348007179892722
+        },
+        "southwest": {
+          "lat": 6.618931020107278,
+          "lng": 3.345307520107277
+        }
+      },
+      "formatted_address": "5A Akin Laguda Dr. Street, Ogba 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6203144,3.3466395",
+      "google_place_id": "ChIJZVET_LiTOxARgSRy_AK8mkM"
+    }
   },
   {
     "id": "118723",
@@ -205,7 +377,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.615397499999999,
+      "longitude": 3.3502149,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616747329892722,
+          "lng": 3.351564729892722
+        },
+        "southwest": {
+          "lat": 6.614047670107278,
+          "lng": 3.348865070107278
+        }
+      },
+      "formatted_address": "Oyero St, Ogba 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.615397499999999,3.3502149",
+      "google_place_id": "ChIJ_cghCs6TOxARNB-VhZZKGu0"
+    }
   },
   {
     "id": "118724",
@@ -221,7 +410,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118725",
@@ -237,7 +443,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118726",
@@ -253,7 +476,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118727",
@@ -269,7 +509,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118728",
@@ -285,7 +526,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118729",
@@ -301,7 +543,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6205008,
+      "longitude": 3.3300369,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621850629892722,
+          "lng": 3.331386729892722
+        },
+        "southwest": {
+          "lat": 6.619150970107278,
+          "lng": 3.328687070107278
+        }
+      },
+      "formatted_address": "Ogba Rd, Ijaiye 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6205008,3.3300369",
+      "google_place_id": "ChIJhaSxEmWROxAR6xWsBuPA_ag"
+    }
   },
   {
     "id": "118730",
@@ -317,7 +576,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.631048499999999,
+      "longitude": 3.3406011,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632480079892721,
+          "lng": 3.341895779892722
+        },
+        "southwest": {
+          "lat": 6.629780420107277,
+          "lng": 3.339196120107277
+        }
+      },
+      "formatted_address": "J8JR+C69, Iman Saro Drive Ogba House Estate, Ogba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.631048499999999,3.3406011",
+      "google_place_id": "ChIJEUj9owaTOxAR8i0iWHYC-xc"
+    }
   },
   {
     "id": "118731",
@@ -333,7 +609,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6340126,
+      "longitude": 3.3426482,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635354329892722,
+          "lng": 3.343993129892722
+        },
+        "southwest": {
+          "lat": 6.632654670107278,
+          "lng": 3.341293470107278
+        }
+      },
+      "formatted_address": "J8MV+H2P, Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6340126,3.3426482",
+      "google_place_id": "ChIJh2bEH-GTOxARw-IMLfMlw3Q"
+    }
   },
   {
     "id": "118732",
@@ -349,7 +642,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6340126,
+      "longitude": 3.3426482,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635354329892722,
+          "lng": 3.343993129892722
+        },
+        "southwest": {
+          "lat": 6.632654670107278,
+          "lng": 3.341293470107278
+        }
+      },
+      "formatted_address": "J8MV+H2P, Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6340126,3.3426482",
+      "google_place_id": "ChIJh2bEH-GTOxARw-IMLfMlw3Q"
+    }
   },
   {
     "id": "118733",
@@ -365,7 +675,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6340126,
+      "longitude": 3.3426482,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635354329892722,
+          "lng": 3.343993129892722
+        },
+        "southwest": {
+          "lat": 6.632654670107278,
+          "lng": 3.341293470107278
+        }
+      },
+      "formatted_address": "J8MV+H2P, Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6340126,3.3426482",
+      "google_place_id": "ChIJh2bEH-GTOxARw-IMLfMlw3Q"
+    }
   },
   {
     "id": "118734",
@@ -381,7 +708,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6125739,
+      "longitude": 3.3458594,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613950729892721,
+          "lng": 3.347121679892722
+        },
+        "southwest": {
+          "lat": 6.611251070107278,
+          "lng": 3.344422020107277
+        }
+      },
+      "formatted_address": "54b Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6125739,3.3458594",
+      "google_place_id": "ChIJGQyb6OqTOxARlo7XaOWa_7U"
+    }
   },
   {
     "id": "118735",
@@ -397,7 +741,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6152643,
+      "longitude": 3.3462963,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616602629892721,
+          "lng": 3.347577529892723
+        },
+        "southwest": {
+          "lat": 6.613902970107278,
+          "lng": 3.344877870107278
+        }
+      },
+      "formatted_address": "74 Adeniyi Jones, Ogba 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6152643,3.3462963",
+      "google_place_id": "ChIJ9eHEf9GTOxARYGeZSgsfYtA"
+    }
   },
   {
     "id": "118736",
@@ -413,7 +774,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6175873,
+      "longitude": 3.3477631,
+      "viewport": {
+        "northeast": {
+          "lat": 6.619087329892722,
+          "lng": 3.348649849999999
+        },
+        "southwest": {
+          "lat": 6.616387670107279,
+          "lng": 3.34510285
+        }
+      },
+      "formatted_address": "off Adeniyi Jones, Ikeja 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6175873,3.3477631",
+      "google_place_id": "ChIJZRntrBaTOxARCmHe5Gty1pg"
+    }
   },
   {
     "id": "118737",
@@ -429,7 +807,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6200136,
+      "longitude": 3.3467015,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621437379892722,
+          "lng": 3.348012079892722
+        },
+        "southwest": {
+          "lat": 6.618737720107278,
+          "lng": 3.345312420107277
+        }
+      },
+      "formatted_address": "merit residence estate, 2b fatai doherty, Adeniyi Jones, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6200136,3.3467015",
+      "google_place_id": "ChIJOao4AeCTOxARbqjHT-iaXbE"
+    }
   },
   {
     "id": "118738",
@@ -445,7 +840,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.617938499999999,
+      "longitude": 3.3484262,
+      "viewport": {
+        "northeast": {
+          "lat": 6.619272879892722,
+          "lng": 3.349753179892722
+        },
+        "southwest": {
+          "lat": 6.616573220107278,
+          "lng": 3.347053520107278
+        }
+      },
+      "formatted_address": "4-6 Odegbami St, Ogba 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.617938499999999,3.3484262",
+      "google_place_id": "ChIJgyt3LdCTOxAR5PiayRGY4XE"
+    }
   },
   {
     "id": "118739",
@@ -461,7 +873,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118740",
@@ -477,7 +906,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118741",
@@ -493,7 +939,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6123732,
+      "longitude": 3.3486685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.613785329892723,
+          "lng": 3.350065679892722
+        },
+        "southwest": {
+          "lat": 6.611085670107279,
+          "lng": 3.347366020107278
+        }
+      },
+      "formatted_address": "59 Adeniyi Jones, Oba Akran 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6123732,3.3486685",
+      "google_place_id": "ChIJG25gl9KTOxAR7GhlKF5ciB0"
+    }
   },
   {
     "id": "118742",
@@ -509,7 +972,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118743",
@@ -525,7 +989,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.631048499999999,
+      "longitude": 3.3406011,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632480079892721,
+          "lng": 3.341895779892722
+        },
+        "southwest": {
+          "lat": 6.629780420107277,
+          "lng": 3.339196120107277
+        }
+      },
+      "formatted_address": "J8JR+C69, Iman Saro Drive Ogba House Estate, Ogba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.631048499999999,3.3406011",
+      "google_place_id": "ChIJEUj9owaTOxAR8i0iWHYC-xc"
+    }
   },
   {
     "id": "118744",
@@ -541,7 +1022,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629221299999999,
+      "longitude": 3.3392735,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630585779892723,
+          "lng": 3.340572129892723
+        },
+        "southwest": {
+          "lat": 6.627886120107278,
+          "lng": 3.337872470107278
+        }
+      },
+      "formatted_address": "2 Sogunro Est, Aguda 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629221299999999,3.3392735",
+      "google_place_id": "ChIJ816UQv6TOxARKdeHsROiwo0"
+    }
   },
   {
     "id": "118745",
@@ -557,7 +1055,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6340126,
+      "longitude": 3.3426482,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635354329892722,
+          "lng": 3.343993129892722
+        },
+        "southwest": {
+          "lat": 6.632654670107278,
+          "lng": 3.341293470107278
+        }
+      },
+      "formatted_address": "J8MV+H2P, Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6340126,3.3426482",
+      "google_place_id": "ChIJh2bEH-GTOxARw-IMLfMlw3Q"
+    }
   },
   {
     "id": "118746",
@@ -573,7 +1088,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6340126,
+      "longitude": 3.3426482,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635354329892722,
+          "lng": 3.343993129892722
+        },
+        "southwest": {
+          "lat": 6.632654670107278,
+          "lng": 3.341293470107278
+        }
+      },
+      "formatted_address": "J8MV+H2P, Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6340126,3.3426482",
+      "google_place_id": "ChIJh2bEH-GTOxARw-IMLfMlw3Q"
+    }
   },
   {
     "id": "118747",
@@ -589,7 +1121,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6327392,
+      "longitude": 3.3518912,
+      "viewport": {
+        "northeast": {
+          "lat": 6.634049229892721,
+          "lng": 3.353247029892723
+        },
+        "southwest": {
+          "lat": 6.631349570107277,
+          "lng": 3.350547370107278
+        }
+      },
+      "formatted_address": "Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6327392,3.3518912",
+      "google_place_id": "ChIJMfsFtumTOxAR5ATtMYCdKfY"
+    }
   },
   {
     "id": "118748",
@@ -605,6 +1154,23 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6327392,
+      "longitude": 3.3518912,
+      "viewport": {
+        "northeast": {
+          "lat": 6.634049229892721,
+          "lng": 3.353247029892723
+        },
+        "southwest": {
+          "lat": 6.631349570107277,
+          "lng": 3.350547370107278
+        }
+      },
+      "formatted_address": "Aguda 101233, Ojodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6327392,3.3518912",
+      "google_place_id": "ChIJMfsFtumTOxAR5ATtMYCdKfY"
+    }
   }
 ]

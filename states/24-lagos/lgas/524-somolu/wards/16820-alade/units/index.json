@@ -13,7 +13,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330083",
@@ -29,7 +30,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330084",
@@ -45,7 +47,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 42.963047,
+      "longitude": -78.74917219999999,
+      "viewport": {
+        "northeast": {
+          "lat": 42.96432717989272,
+          "lng": -78.74798032010727
+        },
+        "southwest": {
+          "lat": 42.96162752010728,
+          "lng": -78.75067997989271
+        }
+      },
+      "formatted_address": "5480 Main St, Williamsville, NY 14221, United States",
+      "google_map_url": "https://maps.google.com?q=42.963047,-78.74917219999999",
+      "google_place_id": "ChIJc0Xe3X1z04kR1ET49FQ-KTA"
+    }
   },
   {
     "id": "330085",
@@ -61,7 +80,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330086",
@@ -77,7 +97,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330087",
@@ -93,7 +114,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531714699999999,
+      "longitude": 3.3743025,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533074429892721,
+          "lng": 3.375722479892722
+        },
+        "southwest": {
+          "lat": 6.530374770107278,
+          "lng": 3.373022820107277
+        }
+      },
+      "formatted_address": "13 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531714699999999,3.3743025",
+      "google_place_id": "ChIJPXWEMqmNOxAREZFhHCT3L4o"
+    }
   },
   {
     "id": "330088",
@@ -109,7 +147,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531209,
+      "longitude": 3.3745049,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532558829892722,
+          "lng": 3.375854729892722
+        },
+        "southwest": {
+          "lat": 6.529859170107279,
+          "lng": 3.373155070107277
+        }
+      },
+      "formatted_address": "15 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531209,3.3745049",
+      "google_place_id": "EioxNSBBbGFkZSBTdCwgSWdib2JpIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgkN4oJLqY07EBFIxRuudz1iLxAPKhQKEglFB2g0qY07EBHQ-YjvxsXB8Q"
+    }
   },
   {
     "id": "330089",
@@ -125,7 +180,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5312891,
+      "longitude": 3.3743245,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532643629892722,
+          "lng": 3.375762129892722
+        },
+        "southwest": {
+          "lat": 6.529943970107278,
+          "lng": 3.373062470107277
+        }
+      },
+      "formatted_address": "6 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5312891,3.3743245",
+      "google_place_id": "ChIJ8SHILKmNOxARf86iU9gHYHM"
+    }
   },
   {
     "id": "330090",
@@ -141,7 +213,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5316079,
+      "longitude": 3.3742404,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532972979892723,
+          "lng": 3.375698279892722
+        },
+        "southwest": {
+          "lat": 6.530273320107279,
+          "lng": 3.372998620107278
+        }
+      },
+      "formatted_address": "9 Alade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5316079,3.3742404",
+      "google_place_id": "ChIJAUXdMqmNOxAR9OuBJoz0szk"
+    }
   },
   {
     "id": "330091",
@@ -157,7 +246,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330092",
@@ -173,7 +263,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5319541,
+      "longitude": 3.3742927,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533312129892723,
+          "lng": 3.375700679892722
+        },
+        "southwest": {
+          "lat": 6.530612470107278,
+          "lng": 3.373001020107277
+        }
+      },
+      "formatted_address": "8 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5319541,3.3742927",
+      "google_place_id": "ChIJp83xLKmNOxARNxKoQPdWQpo"
+    }
   },
   {
     "id": "330093",
@@ -189,7 +296,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5360416,
+      "longitude": 3.3754307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537369729892722,
+          "lng": 3.376846229892723
+        },
+        "southwest": {
+          "lat": 6.534670070107278,
+          "lng": 3.374146570107278
+        }
+      },
+      "formatted_address": "Odunlade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5360416,3.3754307",
+      "google_place_id": "ChIJ53tyJaaNOxARqKHEuiefDLQ"
+    }
   },
   {
     "id": "330094",
@@ -205,7 +329,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5360416,
+      "longitude": 3.3754307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537369729892722,
+          "lng": 3.376846229892723
+        },
+        "southwest": {
+          "lat": 6.534670070107278,
+          "lng": 3.374146570107278
+        }
+      },
+      "formatted_address": "Odunlade St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5360416,3.3754307",
+      "google_place_id": "ChIJ53tyJaaNOxARqKHEuiefDLQ"
+    }
   },
   {
     "id": "330095",
@@ -221,7 +362,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330096",
@@ -237,7 +379,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6556967,
+      "longitude": 3.3235478,
+      "viewport": {
+        "northeast": {
+          "lat": 6.657046979892722,
+          "lng": 3.324838029892723
+        },
+        "southwest": {
+          "lat": 6.654347320107278,
+          "lng": 3.322138370107278
+        }
+      },
+      "formatted_address": "Shop No. 10, Broadway Plaza, 138 Iju Rd, Fagba 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6556967,3.3235478",
+      "google_place_id": "ChIJ94oqf7SWOxARS-gXV2zETXw"
+    }
   },
   {
     "id": "330097",
@@ -253,7 +412,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6556967,
+      "longitude": 3.3235478,
+      "viewport": {
+        "northeast": {
+          "lat": 6.657046979892722,
+          "lng": 3.324838029892723
+        },
+        "southwest": {
+          "lat": 6.654347320107278,
+          "lng": 3.322138370107278
+        }
+      },
+      "formatted_address": "Shop No. 10, Broadway Plaza, 138 Iju Rd, Fagba 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6556967,3.3235478",
+      "google_place_id": "ChIJ94oqf7SWOxARS-gXV2zETXw"
+    }
   },
   {
     "id": "330098",
@@ -269,7 +445,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330099",
@@ -285,7 +462,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330100",
@@ -301,7 +479,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5312891,
+      "longitude": 3.3743245,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532643629892722,
+          "lng": 3.375762129892722
+        },
+        "southwest": {
+          "lat": 6.529943970107278,
+          "lng": 3.373062470107277
+        }
+      },
+      "formatted_address": "6 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5312891,3.3743245",
+      "google_place_id": "ChIJ8SHILKmNOxARf86iU9gHYHM"
+    }
   },
   {
     "id": "330101",
@@ -317,7 +512,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5369514,
+      "longitude": 3.3770715,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538320379892721,
+          "lng": 3.378381279892722
+        },
+        "southwest": {
+          "lat": 6.535620720107278,
+          "lng": 3.375681620107278
+        }
+      },
+      "formatted_address": "40, Anifowose Street, Off Oja Alade B/stop, Shomolu, Somolu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5369514,3.3770715",
+      "google_place_id": "ChIJh6qQFC6NOxARQzPRO9MmPlE"
+    }
   },
   {
     "id": "330102",
@@ -333,7 +545,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330103",
@@ -349,7 +562,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5329524,
+      "longitude": 3.3758391,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534302129892722,
+          "lng": 3.377189729892723
+        },
+        "southwest": {
+          "lat": 6.531602470107278,
+          "lng": 3.374490070107278
+        }
+      },
+      "formatted_address": "7 Adebiyi St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5329524,3.3758391",
+      "google_place_id": "ChIJ2W_K_9uNOxARaB5RzGu8fgA"
+    }
   },
   {
     "id": "330104",
@@ -365,7 +595,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532296,
+      "longitude": 3.3744994,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533636379892722,
+          "lng": 3.375782179892722
+        },
+        "southwest": {
+          "lat": 6.530936720107278,
+          "lng": 3.373082520107277
+        }
+      },
+      "formatted_address": "3 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532296,3.3744994",
+      "google_place_id": "ChIJ9ZaSKamNOxARf4N0lEkd8Yk"
+    }
   },
   {
     "id": "330105",
@@ -381,7 +628,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330106",
@@ -397,7 +645,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330107",
@@ -413,7 +662,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330108",
@@ -429,7 +679,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5310905,
+      "longitude": 3.3743025,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532445879892722,
+          "lng": 3.375756429892722
+        },
+        "southwest": {
+          "lat": 6.529746220107278,
+          "lng": 3.373056770107278
+        }
+      },
+      "formatted_address": "20 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5310905,3.3743025",
+      "google_place_id": "ChIJ-0d_NamNOxARFurIniZ_k2g"
+    }
   },
   {
     "id": "330109",
@@ -445,7 +712,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5331641,
+      "longitude": 3.3736,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534505579892721,
+          "lng": 3.374898779892723
+        },
+        "southwest": {
+          "lat": 6.531805920107277,
+          "lng": 3.372199120107278
+        }
+      },
+      "formatted_address": "Morocco Rd, Ifako-Ijaiye 100242, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5331641,3.3736",
+      "google_place_id": "ChIJc_bOJfeTOxAR-G-62bse5Ik"
+    }
   },
   {
     "id": "330110",
@@ -461,7 +745,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5331641,
+      "longitude": 3.3736,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534505579892721,
+          "lng": 3.374898779892723
+        },
+        "southwest": {
+          "lat": 6.531805920107277,
+          "lng": 3.372199120107278
+        }
+      },
+      "formatted_address": "Morocco Rd, Ifako-Ijaiye 100242, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5331641,3.3736",
+      "google_place_id": "ChIJc_bOJfeTOxAR-G-62bse5Ik"
+    }
   },
   {
     "id": "330111",
@@ -477,7 +778,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5316081,
+      "longitude": 3.3889241,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53295792989272,
+          "lng": 3.390273929892722
+        },
+        "southwest": {
+          "lat": 6.530258270107276,
+          "lng": 3.387574270107277
+        }
+      },
+      "formatted_address": "Abayomi St, Akoka 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5316081,3.3889241",
+      "google_place_id": "ChIJ80Sy2RqNOxAR9vV3v8-xqtA"
+    }
   },
   {
     "id": "330112",
@@ -493,7 +811,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.533716099999999,
+      "longitude": 3.3766105,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535027679892722,
+          "lng": 3.377958879892723
+        },
+        "southwest": {
+          "lat": 6.532328020107278,
+          "lng": 3.375259220107278
+        }
+      },
+      "formatted_address": "G9MG+FJQ, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.533716099999999,3.3766105",
+      "google_place_id": "ChIJy2SRiqiNOxARuhlW5OmH0ic"
+    }
   },
   {
     "id": "330113",
@@ -509,7 +844,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5321709,
+      "longitude": 3.3745388,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533509779892722,
+          "lng": 3.375811029892722
+        },
+        "southwest": {
+          "lat": 6.530810120107278,
+          "lng": 3.373111370107277
+        }
+      },
+      "formatted_address": "5 Alade St, Igbobi 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5321709,3.3745388",
+      "google_place_id": "ChIJL15rKamNOxARZjuA6cAUNSQ"
+    }
   },
   {
     "id": "330114",
@@ -525,6 +877,7 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   }
 ]

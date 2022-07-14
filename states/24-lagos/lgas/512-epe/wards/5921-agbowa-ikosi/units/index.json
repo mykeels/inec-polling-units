@@ -13,7 +13,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116482",
@@ -29,7 +30,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116483",
@@ -45,7 +47,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6575013,
+      "longitude": 4.0091352,
+      "viewport": {
+        "northeast": {
+          "lat": 6.658854729892722,
+          "lng": 4.010453329892722
+        },
+        "southwest": {
+          "lat": 6.656155070107278,
+          "lng": 4.007753670107278
+        }
+      },
+      "formatted_address": "kilometre 56, Epe-Ijebu Ode Road Lagos NG, 106103, Eredo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6575013,4.0091352",
+      "google_place_id": "ChIJJSr4u31BORARA7DNzDbmqls"
+    }
   },
   {
     "id": "116484",
@@ -61,7 +80,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.623319,
+      "longitude": 3.7079745,
+      "viewport": {
+        "northeast": {
+          "lat": 6.6659918,
+          "lng": 3.7293345
+        },
+        "southwest": {
+          "lat": 6.5688387,
+          "lng": 3.6717301
+        }
+      },
+      "formatted_address": "Agbowa Ikosi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.623319,3.7079745",
+      "google_place_id": "ChIJyX3Sea3jOxARVJJPuxVJwmI"
+    }
   },
   {
     "id": "116485",
@@ -77,7 +113,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6342867,
+      "longitude": 3.7085208,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635609929892722,
+          "lng": 3.709969179892722
+        },
+        "southwest": {
+          "lat": 6.632910270107278,
+          "lng": 3.707269520107278
+        }
+      },
+      "formatted_address": "JPM5+PC6, 106103, Agbowa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6342867,3.7085208",
+      "google_place_id": "ChIJ_____y7iOxARw0uOKVxgnDw"
+    }
   },
   {
     "id": "116486",
@@ -93,7 +146,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6129775,
+      "longitude": 3.7061634,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615067,
+          "lng": 3.709047
+        },
+        "southwest": {
+          "lat": 6.612134999999999,
+          "lng": 3.7049691
+        }
+      },
+      "formatted_address": "106103, Ikosi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6129775,3.7061634",
+      "google_place_id": "ChIJW1g_P1XiOxARPuJaM1pLDq8"
+    }
   },
   {
     "id": "116487",
@@ -109,7 +179,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116488",
@@ -125,7 +196,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116489",
@@ -141,7 +213,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116490",
@@ -157,7 +230,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.645053799999999,
+      "longitude": 3.720436,
+      "viewport": {
+        "northeast": {
+          "lat": 6.646199379892722,
+          "lng": 3.7211728
+        },
+        "southwest": {
+          "lat": 6.643499720107277,
+          "lng": 3.718225599999999
+        }
+      },
+      "formatted_address": "JPWC+25F, 106103, Agbowa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.645053799999999,3.720436",
+      "google_place_id": "ChIJc8c8tTnjOxARN3ORdA9FNUM"
+    }
   },
   {
     "id": "116491",
@@ -173,6 +263,7 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   }
 ]

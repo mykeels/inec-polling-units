@@ -13,7 +13,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.498285399999999,
+      "longitude": 3.3756488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499642029892722,
+          "lng": 3.377014829892723
+        },
+        "southwest": {
+          "lat": 6.496942370107278,
+          "lng": 3.374315170107278
+        }
+      },
+      "formatted_address": "F9XG+877, AP Club Bus Stop, Murtala Muhammed Way, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.498285399999999,3.3756488",
+      "google_place_id": "ChIJs1qIDHeNOxAReyMi6R2qx9E"
+    }
   },
   {
     "id": "121098",
@@ -29,7 +46,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4889839,
+      "longitude": 3.3782691,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490360979892722,
+          "lng": 3.379475329892722
+        },
+        "southwest": {
+          "lat": 6.487661320107279,
+          "lng": 3.376775670107278
+        }
+      },
+      "formatted_address": "17 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4889839,3.3782691",
+      "google_place_id": "ChIJVY_SkH2MOxARdoFbd3wBYuQ"
+    }
   },
   {
     "id": "121099",
@@ -45,7 +79,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5009504,
+      "longitude": 3.3852074,
+      "viewport": {
+        "northeast": {
+          "lat": 6.502300229892722,
+          "lng": 3.386557229892722
+        },
+        "southwest": {
+          "lat": 6.499600570107278,
+          "lng": 3.383857570107277
+        }
+      },
+      "formatted_address": "Sariyu St & Alh. Imam Raimi St, Makoko 101245, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5009504,3.3852074",
+      "google_place_id": "Ej1TYXJpeXUgU3QgJiBBbGguIEltYW0gUmFpbWkgU3QsIE1ha29rbyAxMDEyNDUsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJlwGxj4yMOxARIFaG2fvWEXwSFAoSCZcBsY-MjDsQESBWhtn71hF8GhQKEgkJhG6LjIw7EBG2On93_QLy0BoUChIJCUcFcIyMOxARTxvqmPcqcKciCg1g998DFaqKBAI"
+    }
   },
   {
     "id": "121100",
@@ -61,7 +112,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.48405,
+      "longitude": 3.3807073,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485374329892721,
+          "lng": 3.381975779892722
+        },
+        "southwest": {
+          "lat": 6.482674670107277,
+          "lng": 3.379276120107277
+        }
+      },
+      "formatted_address": "F9MJ+J7G, Savage St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.48405,3.3807073",
+      "google_place_id": "ChIJ5aKdFYCMOxAR57ZJ4SSm324"
+    }
   },
   {
     "id": "121101",
@@ -77,7 +145,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4901719,
+      "longitude": 3.3843432,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491456179892722,
+          "lng": 3.385620879892723
+        },
+        "southwest": {
+          "lat": 6.488756520107278,
+          "lng": 3.382921220107278
+        }
+      },
+      "formatted_address": "49 Moloney St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4901719,3.3843432",
+      "google_place_id": "ChIJO05E3CSLOxARKr2xOgBYXkg"
+    }
   },
   {
     "id": "121102",
@@ -93,7 +178,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121103",
@@ -109,7 +195,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4898196,
+      "longitude": 3.3893307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491151629892722,
+          "lng": 3.390640379892722
+        },
+        "southwest": {
+          "lat": 6.488451970107278,
+          "lng": 3.387940720107277
+        }
+      },
+      "formatted_address": "F9QQ+WPG, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4898196,3.3893307",
+      "google_place_id": "ChIJPT05SkeNOxARh2HsejGQXLI"
+    }
   },
   {
     "id": "121104",
@@ -125,7 +228,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4871665,
+      "longitude": 3.3850341,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488523129892721,
+          "lng": 3.386393179892722
+        },
+        "southwest": {
+          "lat": 6.485823470107277,
+          "lng": 3.383693520107278
+        }
+      },
+      "formatted_address": "beside health centre, 98 Cemetery St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4871665,3.3850341",
+      "google_place_id": "ChIJa9g4CISMOxARL3ihuf5jYpc"
+    }
   },
   {
     "id": "121105",
@@ -141,7 +261,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.498285399999999,
+      "longitude": 3.3756488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499642029892722,
+          "lng": 3.377014829892723
+        },
+        "southwest": {
+          "lat": 6.496942370107278,
+          "lng": 3.374315170107278
+        }
+      },
+      "formatted_address": "F9XG+877, AP Club Bus Stop, Murtala Muhammed Way, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.498285399999999,3.3756488",
+      "google_place_id": "ChIJs1qIDHeNOxAReyMi6R2qx9E"
+    }
   },
   {
     "id": "121106",
@@ -157,7 +294,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.498285399999999,
+      "longitude": 3.3756488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499642029892722,
+          "lng": 3.377014829892723
+        },
+        "southwest": {
+          "lat": 6.496942370107278,
+          "lng": 3.374315170107278
+        }
+      },
+      "formatted_address": "F9XG+877, AP Club Bus Stop, Murtala Muhammed Way, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.498285399999999,3.3756488",
+      "google_place_id": "ChIJs1qIDHeNOxAReyMi6R2qx9E"
+    }
   },
   {
     "id": "121107",
@@ -173,7 +327,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4846144,
+      "longitude": 3.382238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485915529892722,
+          "lng": 3.383467579892721
+        },
+        "southwest": {
+          "lat": 6.483215870107278,
+          "lng": 3.380767920107277
+        }
+      },
+      "formatted_address": "88 Murtala Muhammed Way, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4846144,3.382238",
+      "google_place_id": "ChIJhTXJPU6MOxARxG0nqBW984I"
+    }
   },
   {
     "id": "121108",
@@ -189,7 +360,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4846144,
+      "longitude": 3.382238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485915529892722,
+          "lng": 3.383467579892721
+        },
+        "southwest": {
+          "lat": 6.483215870107278,
+          "lng": 3.380767920107277
+        }
+      },
+      "formatted_address": "88 Murtala Muhammed Way, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4846144,3.382238",
+      "google_place_id": "ChIJhTXJPU6MOxARxG0nqBW984I"
+    }
   },
   {
     "id": "121109",
@@ -205,7 +393,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.498285399999999,
+      "longitude": 3.3756488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499642029892722,
+          "lng": 3.377014829892723
+        },
+        "southwest": {
+          "lat": 6.496942370107278,
+          "lng": 3.374315170107278
+        }
+      },
+      "formatted_address": "F9XG+877, AP Club Bus Stop, Murtala Muhammed Way, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.498285399999999,3.3756488",
+      "google_place_id": "ChIJs1qIDHeNOxAReyMi6R2qx9E"
+    }
   },
   {
     "id": "121110",
@@ -221,7 +426,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.498285399999999,
+      "longitude": 3.3756488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499642029892722,
+          "lng": 3.377014829892723
+        },
+        "southwest": {
+          "lat": 6.496942370107278,
+          "lng": 3.374315170107278
+        }
+      },
+      "formatted_address": "F9XG+877, AP Club Bus Stop, Murtala Muhammed Way, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.498285399999999,3.3756488",
+      "google_place_id": "ChIJs1qIDHeNOxAReyMi6R2qx9E"
+    }
   },
   {
     "id": "121111",
@@ -237,7 +459,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.498285399999999,
+      "longitude": 3.3756488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499642029892722,
+          "lng": 3.377014829892723
+        },
+        "southwest": {
+          "lat": 6.496942370107278,
+          "lng": 3.374315170107278
+        }
+      },
+      "formatted_address": "F9XG+877, AP Club Bus Stop, Murtala Muhammed Way, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.498285399999999,3.3756488",
+      "google_place_id": "ChIJs1qIDHeNOxAReyMi6R2qx9E"
+    }
   },
   {
     "id": "121112",
@@ -253,7 +492,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.48405,
+      "longitude": 3.3807073,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485374329892721,
+          "lng": 3.381975779892722
+        },
+        "southwest": {
+          "lat": 6.482674670107277,
+          "lng": 3.379276120107277
+        }
+      },
+      "formatted_address": "F9MJ+J7G, Savage St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.48405,3.3807073",
+      "google_place_id": "ChIJ5aKdFYCMOxAR57ZJ4SSm324"
+    }
   },
   {
     "id": "121113",
@@ -269,7 +525,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.48405,
+      "longitude": 3.3807073,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485374329892721,
+          "lng": 3.381975779892722
+        },
+        "southwest": {
+          "lat": 6.482674670107277,
+          "lng": 3.379276120107277
+        }
+      },
+      "formatted_address": "F9MJ+J7G, Savage St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.48405,3.3807073",
+      "google_place_id": "ChIJ5aKdFYCMOxAR57ZJ4SSm324"
+    }
   },
   {
     "id": "121114",
@@ -285,7 +558,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4882431,
+      "longitude": 3.384918,
+      "viewport": {
+        "northeast": {
+          "lat": 6.489312979892722,
+          "lng": 3.386114929892722
+        },
+        "southwest": {
+          "lat": 6.486613320107278,
+          "lng": 3.383415270107278
+        }
+      },
+      "formatted_address": "102/116 Cemetery St, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4882431,3.384918",
+      "google_place_id": "ChIJj40KwDSNOxARK3wIcgB_10I"
+    }
   },
   {
     "id": "121115",
@@ -301,7 +591,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4903477,
+      "longitude": 3.3753145,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491667079892722,
+          "lng": 3.376816229892722
+        },
+        "southwest": {
+          "lat": 6.488967420107278,
+          "lng": 3.374116570107278
+        }
+      },
+      "formatted_address": "Oke Ira Road, Railway Compound, Ebute Metta, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4903477,3.3753145",
+      "google_place_id": "ChIJL53CX3yMOxAR3kY8MtU2wVc"
+    }
   },
   {
     "id": "121116",
@@ -317,7 +624,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4934419,
+      "longitude": 3.3820895,
+      "viewport": {
+        "northeast": {
+          "lat": 6.49488577989272,
+          "lng": 3.383407979892721
+        },
+        "southwest": {
+          "lat": 6.492186120107276,
+          "lng": 3.380708320107277
+        }
+      },
+      "formatted_address": "2 Makoko Road, Adekunle, Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4934419,3.3820895",
+      "google_place_id": "ChIJq5JzplmNOxARJRawY68ae_c"
+    }
   },
   {
     "id": "121117",
@@ -333,7 +657,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.495269299999999,
+      "longitude": 3.384959,
+      "viewport": {
+        "northeast": {
+          "lat": 6.496656279892722,
+          "lng": 3.386295129892722
+        },
+        "southwest": {
+          "lat": 6.493956620107278,
+          "lng": 3.383595470107278
+        }
+      },
+      "formatted_address": "80 Makoko Rd, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.495269299999999,3.384959",
+      "google_place_id": "ChIJyZeoM4mMOxARarVX17wO_h4"
+    }
   },
   {
     "id": "121118",
@@ -349,7 +690,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121119",
@@ -365,7 +707,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4957913,
+      "longitude": 3.3859893,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497096029892721,
+          "lng": 3.387355429892722
+        },
+        "southwest": {
+          "lat": 6.494396370107277,
+          "lng": 3.384655770107278
+        }
+      },
+      "formatted_address": "8 Makoko Rd, Makoko 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4957913,3.3859893",
+      "google_place_id": "ChIJ1xlnHquNOxARFyKPyJUQi9M"
+    }
   },
   {
     "id": "121120",
@@ -381,7 +740,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4957913,
+      "longitude": 3.3859893,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497096029892721,
+          "lng": 3.387355429892722
+        },
+        "southwest": {
+          "lat": 6.494396370107277,
+          "lng": 3.384655770107278
+        }
+      },
+      "formatted_address": "8 Makoko Rd, Makoko 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4957913,3.3859893",
+      "google_place_id": "ChIJ1xlnHquNOxARFyKPyJUQi9M"
+    }
   },
   {
     "id": "121121",
@@ -397,7 +773,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4957913,
+      "longitude": 3.3859893,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497096029892721,
+          "lng": 3.387355429892722
+        },
+        "southwest": {
+          "lat": 6.494396370107277,
+          "lng": 3.384655770107278
+        }
+      },
+      "formatted_address": "8 Makoko Rd, Makoko 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4957913,3.3859893",
+      "google_place_id": "ChIJ1xlnHquNOxARFyKPyJUQi9M"
+    }
   },
   {
     "id": "121122",
@@ -413,7 +806,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.497681,
+      "longitude": 3.3884892,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499011429892721,
+          "lng": 3.389869379892722
+        },
+        "southwest": {
+          "lat": 6.496311770107277,
+          "lng": 3.387169720107277
+        }
+      },
+      "formatted_address": "F9XQ+39H, Ramotu St, Makoko 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.497681,3.3884892",
+      "google_place_id": "ChIJJZDZCY6MOxARpyi0GIHKEHU"
+    }
   },
   {
     "id": "121123",
@@ -429,7 +839,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121124",
@@ -445,7 +856,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4927692,
+      "longitude": 3.3809936,
+      "viewport": {
+        "northeast": {
+          "lat": 6.494119029892722,
+          "lng": 3.382343429892722
+        },
+        "southwest": {
+          "lat": 6.491419370107278,
+          "lng": 3.379643770107278
+        }
+      },
+      "formatted_address": "Old Yaba Rd & Ayodele St, Adekunle 101245, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4927692,3.3809936",
+      "google_place_id": "EjlPbGQgWWFiYSBSZCAmIEF5b2RlbGUgU3QsIEFkZWt1bmxlIDEwMDAwMSwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgnVvDRxiIw7EBHyy6o82WbSxhIUChIJ1bw0cYiMOxAR8suqPNlm0sYaFAoSCR1Ri9eHjDsQER9uIMSUtwXSGhQKEgmRpovih4w7EBHqUxANwIKSkCIKDcy33gMVEOYDAg"
+    }
   },
   {
     "id": "121125",
@@ -461,7 +889,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.494589599999999,
+      "longitude": 3.3788145,
+      "viewport": {
+        "northeast": {
+          "lat": 6.495928379892723,
+          "lng": 3.380134779892722
+        },
+        "southwest": {
+          "lat": 6.493228720107279,
+          "lng": 3.377435120107277
+        }
+      },
+      "formatted_address": "270 Borno Way, Adekunle 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.494589599999999,3.3788145",
+      "google_place_id": "ChIJmxhYlnGNOxARLugsWGDGbJ4"
+    }
   },
   {
     "id": "121126",
@@ -477,7 +922,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.500949899999999,
+      "longitude": 3.3764379,
+      "viewport": {
+        "northeast": {
+          "lat": 6.502271979892721,
+          "lng": 3.377718079892722
+        },
+        "southwest": {
+          "lat": 6.499572320107277,
+          "lng": 3.375018420107277
+        }
+      },
+      "formatted_address": "350 Borno Way, Alagomeji-Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.500949899999999,3.3764379",
+      "google_place_id": "ChIJ8c6j-WCMOxARZV9xVbmGVEk"
+    }
   },
   {
     "id": "121127",
@@ -493,7 +955,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.493695199999999,
+      "longitude": 3.3792038,
+      "viewport": {
+        "northeast": {
+          "lat": 6.495020279892721,
+          "lng": 3.380490879892723
+        },
+        "southwest": {
+          "lat": 6.492320620107277,
+          "lng": 3.377791220107278
+        }
+      },
+      "formatted_address": "254 BORNO WAY, EBUTE_METTA, Yaba, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.493695199999999,3.3792038",
+      "google_place_id": "ChIJQZKR6aeNOxARBpkEhH1nLzc"
+    }
   },
   {
     "id": "121128",
@@ -509,7 +988,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4515614,
+      "longitude": 3.4110285,
+      "viewport": {
+        "northeast": {
+          "lat": 6.452712329892723,
+          "lng": 3.412534029892722
+        },
+        "southwest": {
+          "lat": 6.450012670107279,
+          "lng": 3.409834370107278
+        }
+      },
+      "formatted_address": "27 Obalende Rd, Obalende 106104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4515614,3.4110285",
+      "google_place_id": "ChIJwbjFPWyLOxARlgNLztp_-9E"
+    }
   },
   {
     "id": "121129",
@@ -525,7 +1021,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.48405,
+      "longitude": 3.3807073,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485374329892721,
+          "lng": 3.381975779892722
+        },
+        "southwest": {
+          "lat": 6.482674670107277,
+          "lng": 3.379276120107277
+        }
+      },
+      "formatted_address": "F9MJ+J7G, Savage St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.48405,3.3807073",
+      "google_place_id": "ChIJ5aKdFYCMOxAR57ZJ4SSm324"
+    }
   },
   {
     "id": "121130",
@@ -541,7 +1054,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4901129,
+      "longitude": 3.3816275,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491631979892722,
+          "lng": 3.382906779892722
+        },
+        "southwest": {
+          "lat": 6.488932320107278,
+          "lng": 3.380207120107278
+        }
+      },
+      "formatted_address": "9 Carter St, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4901129,3.3816275",
+      "google_place_id": "ChIJwX9maAmNOxAR_ZaXEz_9YZQ"
+    }
   },
   {
     "id": "121131",
@@ -557,7 +1087,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4901842,
+      "longitude": 3.3865329,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491588329892722,
+          "lng": 3.387856679892722
+        },
+        "southwest": {
+          "lat": 6.488888670107278,
+          "lng": 3.385157020107278
+        }
+      },
+      "formatted_address": "72 glover street,by odunfa opp lsdpc estate,ebute metta, Lagos Mainland, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4901842,3.3865329",
+      "google_place_id": "ChIJVfNPrXSNOxAR_ORmKUrl-tI"
+    }
   },
   {
     "id": "121132",
@@ -573,7 +1120,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4912347,
+      "longitude": 3.3826072,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492569479892721,
+          "lng": 3.383912079892722
+        },
+        "southwest": {
+          "lat": 6.489869820107277,
+          "lng": 3.381212420107278
+        }
+      },
+      "formatted_address": "168 Herbert Macaulay Street, Adenkule 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4912347,3.3826072",
+      "google_place_id": "ChIJA9kNJIaMOxARMHPR-JyYzrI"
+    }
   },
   {
     "id": "121133",
@@ -589,7 +1153,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4912347,
+      "longitude": 3.3826072,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492569479892721,
+          "lng": 3.383912079892722
+        },
+        "southwest": {
+          "lat": 6.489869820107277,
+          "lng": 3.381212420107278
+        }
+      },
+      "formatted_address": "168 Herbert Macaulay Street, Adenkule 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4912347,3.3826072",
+      "google_place_id": "ChIJA9kNJIaMOxARMHPR-JyYzrI"
+    }
   },
   {
     "id": "121134",
@@ -605,7 +1186,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.489931599999999,
+      "longitude": 3.3821113,
+      "viewport": {
+        "northeast": {
+          "lat": 6.49128142989272,
+          "lng": 3.383461129892722
+        },
+        "southwest": {
+          "lat": 6.488581770107277,
+          "lng": 3.380761470107278
+        }
+      },
+      "formatted_address": "McCullum St, 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.489931599999999,3.3821113",
+      "google_place_id": "ChIJCZ0qVIaMOxARCmpfWSlAv9o"
+    }
   },
   {
     "id": "121135",
@@ -621,7 +1219,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.489931599999999,
+      "longitude": 3.3821113,
+      "viewport": {
+        "northeast": {
+          "lat": 6.49128142989272,
+          "lng": 3.383461129892722
+        },
+        "southwest": {
+          "lat": 6.488581770107277,
+          "lng": 3.380761470107278
+        }
+      },
+      "formatted_address": "McCullum St, 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.489931599999999,3.3821113",
+      "google_place_id": "ChIJCZ0qVIaMOxARCmpfWSlAv9o"
+    }
   },
   {
     "id": "121136",
@@ -637,7 +1252,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4830929,
+      "longitude": 3.3828303,
+      "viewport": {
+        "northeast": {
+          "lat": 6.484411879892723,
+          "lng": 3.384112279892723
+        },
+        "southwest": {
+          "lat": 6.481712220107279,
+          "lng": 3.381412620107278
+        }
+      },
+      "formatted_address": "No 52, 54 Murtala Muhammed Way, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4830929,3.3828303",
+      "google_place_id": "ChIJpbliWpyNOxARZte6C7BOHxw"
+    }
   },
   {
     "id": "121137",
@@ -653,7 +1285,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4954489,
+      "longitude": 3.380106,
+      "viewport": {
+        "northeast": {
+          "lat": 6.496785079892722,
+          "lng": 3.381418279892722
+        },
+        "southwest": {
+          "lat": 6.494085420107277,
+          "lng": 3.378718620107278
+        }
+      },
+      "formatted_address": "66 Old Yaba Rd, Alagomeji-Yaba 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4954489,3.380106",
+      "google_place_id": "ChIJbaOyzomMOxARfOT9bsnI0_s"
+    }
   },
   {
     "id": "121138",
@@ -669,7 +1318,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.489256999999999,
+      "longitude": 3.3844924,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490659579892722,
+          "lng": 3.385820179892722
+        },
+        "southwest": {
+          "lat": 6.487959920107278,
+          "lng": 3.383120520107278
+        }
+      },
+      "formatted_address": "34 Glover Street, By Cemetery Street, Old Yaba Road, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.489256999999999,3.3844924",
+      "google_place_id": "ChIJb71vKYSMOxARM2d2ABUeg8Q"
+    }
   },
   {
     "id": "121139",
@@ -685,7 +1351,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121140",
@@ -701,7 +1368,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5267504,
+      "longitude": 3.3766032,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528156579892722,
+          "lng": 3.377929379892722
+        },
+        "southwest": {
+          "lat": 6.525456920107279,
+          "lng": 3.375229720107277
+        }
+      },
+      "formatted_address": "47, Oluwadare St, Off Fola Agoro St, Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5267504,3.3766032",
+      "google_place_id": "ChIJKTWyBquNOxARX-zOCXg-a9g"
+    }
   },
   {
     "id": "121141",
@@ -717,7 +1401,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4885103,
+      "longitude": 3.3821386,
+      "viewport": {
+        "northeast": {
+          "lat": 6.489860129892722,
+          "lng": 3.383488429892722
+        },
+        "southwest": {
+          "lat": 6.487160470107278,
+          "lng": 3.380788770107277
+        }
+      },
+      "formatted_address": "Glover St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4885103,3.3821386",
+      "google_place_id": "ChIJ20lMMEiNOxARPyRys1gg1NA"
+    }
   },
   {
     "id": "121142",
@@ -733,7 +1434,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121143",
@@ -749,7 +1451,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121144",
@@ -765,7 +1468,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4910657,
+      "longitude": 3.3859221,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492292379892723,
+          "lng": 3.38860875
+        },
+        "southwest": {
+          "lat": 6.489592720107279,
+          "lng": 3.38502655
+        }
+      },
+      "formatted_address": "12 Camelia Wy, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4910657,3.3859221",
+      "google_place_id": "ChIJv4f1BhKNOxARHwKicmvniO4"
+    }
   },
   {
     "id": "121145",
@@ -781,7 +1501,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4892482,
+      "longitude": 3.3777967,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490577029892722,
+          "lng": 3.379255529892723
+        },
+        "southwest": {
+          "lat": 6.487877370107278,
+          "lng": 3.376555870107278
+        }
+      },
+      "formatted_address": "Railway Compound, Quarter 21 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4892482,3.3777967",
+      "google_place_id": "ChIJbXlr4iiNOxARi6E3bQPQJyY"
+    }
   },
   {
     "id": "121146",
@@ -797,7 +1534,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4892482,
+      "longitude": 3.3777967,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490577029892722,
+          "lng": 3.379255529892723
+        },
+        "southwest": {
+          "lat": 6.487877370107278,
+          "lng": 3.376555870107278
+        }
+      },
+      "formatted_address": "Railway Compound, Quarter 21 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4892482,3.3777967",
+      "google_place_id": "ChIJbXlr4iiNOxARi6E3bQPQJyY"
+    }
   },
   {
     "id": "121147",
@@ -813,7 +1567,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.484848599999999,
+      "longitude": 3.3718989,
+      "viewport": {
+        "northeast": {
+          "lat": 6.486361529892722,
+          "lng": 3.373041129892723
+        },
+        "southwest": {
+          "lat": 6.483661870107278,
+          "lng": 3.370341470107278
+        }
+      },
+      "formatted_address": "20 Desalu St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.484848599999999,3.3718989",
+      "google_place_id": "ChIJ9_KcA3mMOxAR5eiQgoMOa90"
+    }
   },
   {
     "id": "121148",
@@ -829,7 +1600,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4892482,
+      "longitude": 3.3777967,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490577029892722,
+          "lng": 3.379255529892723
+        },
+        "southwest": {
+          "lat": 6.487877370107278,
+          "lng": 3.376555870107278
+        }
+      },
+      "formatted_address": "Railway Compound, Quarter 21 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4892482,3.3777967",
+      "google_place_id": "ChIJbXlr4iiNOxARi6E3bQPQJyY"
+    }
   },
   {
     "id": "121149",
@@ -845,7 +1633,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4889839,
+      "longitude": 3.3782691,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490360979892722,
+          "lng": 3.379475329892722
+        },
+        "southwest": {
+          "lat": 6.487661320107279,
+          "lng": 3.376775670107278
+        }
+      },
+      "formatted_address": "17 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4889839,3.3782691",
+      "google_place_id": "ChIJVY_SkH2MOxARdoFbd3wBYuQ"
+    }
   },
   {
     "id": "121150",
@@ -861,7 +1666,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4898196,
+      "longitude": 3.3893307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491151629892722,
+          "lng": 3.390640379892722
+        },
+        "southwest": {
+          "lat": 6.488451970107278,
+          "lng": 3.387940720107277
+        }
+      },
+      "formatted_address": "F9QQ+WPG, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4898196,3.3893307",
+      "google_place_id": "ChIJPT05SkeNOxARh2HsejGQXLI"
+    }
   },
   {
     "id": "121151",
@@ -877,7 +1699,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4898196,
+      "longitude": 3.3893307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491151629892722,
+          "lng": 3.390640379892722
+        },
+        "southwest": {
+          "lat": 6.488451970107278,
+          "lng": 3.387940720107277
+        }
+      },
+      "formatted_address": "F9QQ+WPG, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4898196,3.3893307",
+      "google_place_id": "ChIJPT05SkeNOxARh2HsejGQXLI"
+    }
   },
   {
     "id": "121152",
@@ -893,7 +1732,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121153",
@@ -909,7 +1749,8 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121154",
@@ -925,7 +1766,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.499018,
+      "longitude": 3.3868325,
+      "viewport": {
+        "northeast": {
+          "lat": 6.50424230000005,
+          "lng": 3.388251379892723
+        },
+        "southwest": {
+          "lat": 6.493270299999948,
+          "lng": 3.385551720107278
+        }
+      },
+      "formatted_address": "Church St, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.499018,3.3868325",
+      "google_place_id": "EhJDaHVyY2ggU3QsIE5pZ2VyaWEiLiosChQKEgm7dIIgCYE7EBHrMkKtU8jqCxIUChIJmUWe1o6MOxAROlTTDNu56yw"
+    }
   },
   {
     "id": "121155",
@@ -941,7 +1799,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4846144,
+      "longitude": 3.382238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485915529892722,
+          "lng": 3.383467579892721
+        },
+        "southwest": {
+          "lat": 6.483215870107278,
+          "lng": 3.380767920107277
+        }
+      },
+      "formatted_address": "88 Murtala Muhammed Way, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4846144,3.382238",
+      "google_place_id": "ChIJhTXJPU6MOxARxG0nqBW984I"
+    }
   },
   {
     "id": "121156",
@@ -957,7 +1832,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4979261,
+      "longitude": 3.3887198,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499275929892723,
+          "lng": 3.390069629892722
+        },
+        "southwest": {
+          "lat": 6.496576270107279,
+          "lng": 3.387369970107278
+        }
+      },
+      "formatted_address": "Ramotu St, Makoko 101245, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4979261,3.3887198",
+      "google_place_id": "ChIJcSKx4Y2MOxARzNQF08-2quQ"
+    }
   },
   {
     "id": "121157",
@@ -973,7 +1865,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4882431,
+      "longitude": 3.384918,
+      "viewport": {
+        "northeast": {
+          "lat": 6.489312979892722,
+          "lng": 3.386114929892722
+        },
+        "southwest": {
+          "lat": 6.486613320107278,
+          "lng": 3.383415270107278
+        }
+      },
+      "formatted_address": "102/116 Cemetery St, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4882431,3.384918",
+      "google_place_id": "ChIJj40KwDSNOxARK3wIcgB_10I"
+    }
   },
   {
     "id": "121158",
@@ -989,7 +1898,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4903477,
+      "longitude": 3.3753145,
+      "viewport": {
+        "northeast": {
+          "lat": 6.491667079892722,
+          "lng": 3.376816229892722
+        },
+        "southwest": {
+          "lat": 6.488967420107278,
+          "lng": 3.374116570107278
+        }
+      },
+      "formatted_address": "Oke Ira Road, Railway Compound, Ebute Metta, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4903477,3.3753145",
+      "google_place_id": "ChIJL53CX3yMOxAR3kY8MtU2wVc"
+    }
   },
   {
     "id": "121159",
@@ -1005,7 +1931,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.495269299999999,
+      "longitude": 3.384959,
+      "viewport": {
+        "northeast": {
+          "lat": 6.496656279892722,
+          "lng": 3.386295129892722
+        },
+        "southwest": {
+          "lat": 6.493956620107278,
+          "lng": 3.383595470107278
+        }
+      },
+      "formatted_address": "80 Makoko Rd, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.495269299999999,3.384959",
+      "google_place_id": "ChIJyZeoM4mMOxARarVX17wO_h4"
+    }
   },
   {
     "id": "121160",
@@ -1021,7 +1964,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.497218999999999,
+      "longitude": 3.3854023,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498568829892721,
+          "lng": 3.386752129892722
+        },
+        "southwest": {
+          "lat": 6.495869170107277,
+          "lng": 3.384052470107278
+        }
+      },
+      "formatted_address": "Ajoke St, Makoko 101245, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.497218999999999,3.3854023",
+      "google_place_id": "ChIJv6618o6MOxARhFFNsDTUc_I"
+    }
   },
   {
     "id": "121161",
@@ -1037,7 +1997,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4957913,
+      "longitude": 3.3859893,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497096029892721,
+          "lng": 3.387355429892722
+        },
+        "southwest": {
+          "lat": 6.494396370107277,
+          "lng": 3.384655770107278
+        }
+      },
+      "formatted_address": "8 Makoko Rd, Makoko 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4957913,3.3859893",
+      "google_place_id": "ChIJ1xlnHquNOxARFyKPyJUQi9M"
+    }
   },
   {
     "id": "121162",
@@ -1053,7 +2030,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.48405,
+      "longitude": 3.3807073,
+      "viewport": {
+        "northeast": {
+          "lat": 6.485374329892721,
+          "lng": 3.381975779892722
+        },
+        "southwest": {
+          "lat": 6.482674670107277,
+          "lng": 3.379276120107277
+        }
+      },
+      "formatted_address": "F9MJ+J7G, Savage St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.48405,3.3807073",
+      "google_place_id": "ChIJ5aKdFYCMOxAR57ZJ4SSm324"
+    }
   },
   {
     "id": "121163",
@@ -1069,7 +2063,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4889839,
+      "longitude": 3.3782691,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490360979892722,
+          "lng": 3.379475329892722
+        },
+        "southwest": {
+          "lat": 6.487661320107279,
+          "lng": 3.376775670107278
+        }
+      },
+      "formatted_address": "17 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4889839,3.3782691",
+      "google_place_id": "ChIJVY_SkH2MOxARdoFbd3wBYuQ"
+    }
   },
   {
     "id": "121164",
@@ -1085,7 +2096,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4889839,
+      "longitude": 3.3782691,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490360979892722,
+          "lng": 3.379475329892722
+        },
+        "southwest": {
+          "lat": 6.487661320107279,
+          "lng": 3.376775670107278
+        }
+      },
+      "formatted_address": "17 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4889839,3.3782691",
+      "google_place_id": "ChIJVY_SkH2MOxARdoFbd3wBYuQ"
+    }
   },
   {
     "id": "121165",
@@ -1101,7 +2129,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4892482,
+      "longitude": 3.3777967,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490577029892722,
+          "lng": 3.379255529892723
+        },
+        "southwest": {
+          "lat": 6.487877370107278,
+          "lng": 3.376555870107278
+        }
+      },
+      "formatted_address": "Railway Compound, Quarter 21 Federal Rd, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4892482,3.3777967",
+      "google_place_id": "ChIJbXlr4iiNOxARi6E3bQPQJyY"
+    }
   },
   {
     "id": "121166",
@@ -1117,7 +2162,24 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4885103,
+      "longitude": 3.3821386,
+      "viewport": {
+        "northeast": {
+          "lat": 6.489860129892722,
+          "lng": 3.383488429892722
+        },
+        "southwest": {
+          "lat": 6.487160470107278,
+          "lng": 3.380788770107277
+        }
+      },
+      "formatted_address": "Glover St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4885103,3.3821386",
+      "google_place_id": "ChIJ20lMMEiNOxARPyRys1gg1NA"
+    }
   },
   {
     "id": "121167",
@@ -1133,6 +2195,23 @@
     "local_government_id": "520",
     "local_government_name": "LAGOS MAINLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4910657,
+      "longitude": 3.3859221,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492292379892723,
+          "lng": 3.38860875
+        },
+        "southwest": {
+          "lat": 6.489592720107279,
+          "lng": 3.38502655
+        }
+      },
+      "formatted_address": "12 Camelia Wy, Adekunle 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4910657,3.3859221",
+      "google_place_id": "ChIJv4f1BhKNOxARHwKicmvniO4"
+    }
   }
 ]

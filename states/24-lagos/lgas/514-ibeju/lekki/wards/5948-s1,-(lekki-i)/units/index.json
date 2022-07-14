@@ -13,7 +13,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117533",
@@ -29,7 +30,24 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4452482,
+      "longitude": 3.5523892,
+      "viewport": {
+        "northeast": {
+          "lat": 6.446604379892722,
+          "lng": 3.553752229892722
+        },
+        "southwest": {
+          "lat": 6.443904720107278,
+          "lng": 3.551052570107278
+        }
+      },
+      "formatted_address": "House 19, road 11 Ikota Villa Estate Behind Mega Chicken Lekki, 000000, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4452482,3.5523892",
+      "google_place_id": "ChIJCRO2YiL5OxAR_o2n3AuMNIs"
+    }
   },
   {
     "id": "117534",
@@ -45,7 +63,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117535",
@@ -61,7 +80,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117536",
@@ -77,7 +97,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117537",
@@ -93,7 +114,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117538",
@@ -109,7 +131,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117539",
@@ -125,7 +148,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117540",
@@ -141,7 +165,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117541",
@@ -157,7 +182,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117542",
@@ -173,7 +199,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117543",
@@ -189,6 +216,7 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   }
 ]

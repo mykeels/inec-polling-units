@@ -13,7 +13,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114079",
@@ -29,7 +46,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.536514299999999,
+      "longitude": 3.2234491,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537967279892722,
+          "lng": 3.224617429892723
+        },
+        "southwest": {
+          "lat": 6.535267620107278,
+          "lng": 3.221917770107278
+        }
+      },
+      "formatted_address": "G6PF+J94, Old Badore Rd, Akesan 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536514299999999,3.2234491",
+      "google_place_id": "ChIJNXrQVhuFOxARJbexR2gIwZo"
+    }
   },
   {
     "id": "114080",
@@ -45,7 +79,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.557597899999999,
+      "longitude": 3.237595,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558954879892722,
+          "lng": 3.239070329892722
+        },
+        "southwest": {
+          "lat": 6.556255220107278,
+          "lng": 3.236370670107278
+        }
+      },
+      "formatted_address": "33-20 Dosu Ekunnrin Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.557597899999999,3.237595",
+      "google_place_id": "ChIJ6QhzzZqFOxARHpEnIuwdh1s"
+    }
   },
   {
     "id": "114081",
@@ -61,7 +112,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5521433,
+      "longitude": 3.2504196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553614329892722,
+          "lng": 3.251708429892723
+        },
+        "southwest": {
+          "lat": 6.550914670107278,
+          "lng": 3.249008770107278
+        }
+      },
+      "formatted_address": "192/194, Ikotun - Igando Road, Off Lasu Isheri, by College Bus stop, Igando Alimosho, Ikotun 100275, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5521433,3.2504196",
+      "google_place_id": "ChIJ5-9sA1OFOxARw-OYWOEm8hE"
+    }
   },
   {
     "id": "114082",
@@ -77,7 +145,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114083",
@@ -93,7 +162,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114084",
@@ -109,7 +179,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114085",
@@ -125,7 +196,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.550192699999999,
+      "longitude": 3.2370964,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551679429892721,
+          "lng": 3.238414379892723
+        },
+        "southwest": {
+          "lat": 6.548979770107277,
+          "lng": 3.235714720107278
+        }
+      },
+      "formatted_address": "H62P+3RH, Egan Ajana Town, Akesan Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.550192699999999,3.2370964",
+      "google_place_id": "ChIJlb7sbD-FOxARoSjM0mI7C0A"
+    }
   },
   {
     "id": "114086",
@@ -141,7 +229,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114087",
@@ -157,7 +246,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5502959,
+      "longitude": 3.2368238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551691029892722,
+          "lng": 3.238163079892722
+        },
+        "southwest": {
+          "lat": 6.548991370107278,
+          "lng": 3.235463420107277
+        }
+      },
+      "formatted_address": "H62P+4P4, Old, Akesan Rd, Egan, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5502959,3.2368238",
+      "google_place_id": "ChIJ2TzhK6WaOxARorjgI7lNA9Y"
+    }
   },
   {
     "id": "114088",
@@ -173,7 +279,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5502959,
+      "longitude": 3.2368238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551691029892722,
+          "lng": 3.238163079892722
+        },
+        "southwest": {
+          "lat": 6.548991370107278,
+          "lng": 3.235463420107277
+        }
+      },
+      "formatted_address": "H62P+4P4, Old, Akesan Rd, Egan, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5502959,3.2368238",
+      "google_place_id": "ChIJ2TzhK6WaOxARorjgI7lNA9Y"
+    }
   },
   {
     "id": "114089",
@@ -189,7 +312,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5528629,
+      "longitude": 3.249249,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553937779892722,
+          "lng": 3.250615679892722
+        },
+        "southwest": {
+          "lat": 6.551238120107278,
+          "lng": 3.247916020107278
+        }
+      },
+      "formatted_address": "165 Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5528629,3.249249",
+      "google_place_id": "ChIJ73xPQVuFOxARO-SyJdDC3mo"
+    }
   },
   {
     "id": "114090",
@@ -205,7 +345,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114091",
@@ -221,7 +362,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5505229,
+      "longitude": 3.2419867,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551868979892721,
+          "lng": 3.243324479892722
+        },
+        "southwest": {
+          "lat": 6.549169320107278,
+          "lng": 3.240624820107278
+        }
+      },
+      "formatted_address": "Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5505229,3.2419867",
+      "google_place_id": "ChIJ4z9uE7uFOxARNDsS1wkAIHo"
+    }
   },
   {
     "id": "114092",
@@ -237,7 +395,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.550192699999999,
+      "longitude": 3.2370964,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551679429892721,
+          "lng": 3.238414379892723
+        },
+        "southwest": {
+          "lat": 6.548979770107277,
+          "lng": 3.235714720107278
+        }
+      },
+      "formatted_address": "H62P+3RH, Egan Ajana Town, Akesan Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.550192699999999,3.2370964",
+      "google_place_id": "ChIJlb7sbD-FOxARoSjM0mI7C0A"
+    }
   },
   {
     "id": "114093",
@@ -253,7 +428,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5505645,
+      "longitude": 3.2474049,
+      "viewport": {
+        "northeast": {
+          "lat": 6.552076779892722,
+          "lng": 3.248619329892722
+        },
+        "southwest": {
+          "lat": 6.549377120107279,
+          "lng": 3.245919670107277
+        }
+      },
+      "formatted_address": "By Church Bus Stop, Ikotun - Igando Road, Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5505645,3.2474049",
+      "google_place_id": "ChIJCyUHakOFOxARL0_40R2qYbs"
+    }
   },
   {
     "id": "114094",
@@ -269,7 +461,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5546792,
+      "longitude": 3.2256335,
+      "viewport": {
+        "northeast": {
+          "lat": 6.556021479892722,
+          "lng": 3.226852829892722
+        },
+        "southwest": {
+          "lat": 6.553321820107278,
+          "lng": 3.224153170107277
+        }
+      },
+      "formatted_address": "no 2 akinsanya street fatoki by second poutry egan igando, Alimosho, Lagos State Alimosho Egan, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5546792,3.2256335",
+      "google_place_id": "ChIJI8FqjKGFOxARmVmfhULOrsc"
+    }
   },
   {
     "id": "114095",
@@ -285,7 +494,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5468914,
+      "longitude": 3.264825,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548191629892722,
+          "lng": 3.266146029892722
+        },
+        "southwest": {
+          "lat": 6.545491970107278,
+          "lng": 3.263446370107277
+        }
+      },
+      "formatted_address": "Shop L, Multi Purpose Market, 12 Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5468914,3.264825",
+      "google_place_id": "ChIJtxbDpE2POxARgCLyI7SR8_4"
+    }
   },
   {
     "id": "114096",
@@ -301,7 +527,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5511561,
+      "longitude": 3.2408357,
+      "viewport": {
+        "northeast": {
+          "lat": 6.55255587989272,
+          "lng": 3.242162179892722
+        },
+        "southwest": {
+          "lat": 6.549856220107277,
+          "lng": 3.239462520107278
+        }
+      },
+      "formatted_address": "Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5511561,3.2408357",
+      "google_place_id": "ChIJPdyv20CFOxARNaDo5I76Ybk"
+    }
   },
   {
     "id": "114097",
@@ -317,7 +560,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5511561,
+      "longitude": 3.2408357,
+      "viewport": {
+        "northeast": {
+          "lat": 6.55255587989272,
+          "lng": 3.242162179892722
+        },
+        "southwest": {
+          "lat": 6.549856220107277,
+          "lng": 3.239462520107278
+        }
+      },
+      "formatted_address": "Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5511561,3.2408357",
+      "google_place_id": "ChIJPdyv20CFOxARNaDo5I76Ybk"
+    }
   },
   {
     "id": "114098",
@@ -333,7 +593,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114099",
@@ -349,7 +610,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114100",
@@ -365,7 +643,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5578381,
+      "longitude": 3.2337434,
+      "viewport": {
+        "northeast": {
+          "lat": 6.559187929892721,
+          "lng": 3.235093229892722
+        },
+        "southwest": {
+          "lat": 6.556488270107277,
+          "lng": 3.232393570107277
+        }
+      },
+      "formatted_address": "Modina Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5578381,3.2337434",
+      "google_place_id": "ChIJ5STiyziFOxARSPJ-NbJBjPY"
+    }
   },
   {
     "id": "114101",
@@ -381,7 +676,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.551933099999999,
+      "longitude": 3.2265884,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553263979892722,
+          "lng": 3.227926179892722
+        },
+        "southwest": {
+          "lat": 6.550564320107278,
+          "lng": 3.225226520107277
+        }
+      },
+      "formatted_address": "Oladapo by stop, 6, Oyeniyi Crescent, Isuti Rd, Egan-Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.551933099999999,3.2265884",
+      "google_place_id": "ChIJVytDYiOFOxARByjDGro_n98"
+    }
   },
   {
     "id": "114102",
@@ -397,7 +709,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114103",
@@ -413,7 +742,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5384882,
+      "longitude": 3.225671,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539907029892722,
+          "lng": 3.227106479892722
+        },
+        "southwest": {
+          "lat": 6.537207370107278,
+          "lng": 3.224406820107277
+        }
+      },
+      "formatted_address": "5 Adegboyega St, Ijegun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5384882,3.225671",
+      "google_place_id": "ChIJU09WOgyFOxARmpHAwvYcAS0"
+    }
   },
   {
     "id": "114104",
@@ -429,7 +775,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.527135599999999,
+      "longitude": 3.2211116,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528768229892723,
+          "lng": 3.222394779892722
+        },
+        "southwest": {
+          "lat": 6.526068570107278,
+          "lng": 3.219695120107278
+        }
+      },
+      "formatted_address": "50 Abisogun Ave, Akesan 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.527135599999999,3.2211116",
+      "google_place_id": "ChIJL5Zz8QCFOxARVovuyKEsBTE"
+    }
   },
   {
     "id": "114105",
@@ -445,7 +808,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114106",
@@ -461,7 +825,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5394198,
+      "longitude": 3.2135502,
+      "viewport": {
+        "northeast": {
+          "lat": 6.540769629892723,
+          "lng": 3.214900029892723
+        },
+        "southwest": {
+          "lat": 6.538069970107279,
+          "lng": 3.212200370107278
+        }
+      },
+      "formatted_address": "Kehinde Abass Ave & Taiwo Abass St, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5394198,3.2135502",
+      "google_place_id": "EkFLZWhpbmRlIEFiYXNzIEF2ZSAmIFRhaXdvIEFiYXNzIFN0LCBJa290dW4gMTAyMjEzLCBBZ2VnZSwgTmlnZXJpYSJmImQKFAoSCRtngY_jhDsQEaEc_6bRBlY2EhQKEgkbZ4GP44Q7EBGhHP-m0QZWNhoUChIJje0DfuaEOxARIukhA6ZYcsMaFAoSCaVKOwvkhDsQEWxHHueHsXLcIgoNFtblAxVOWeoB"
+    }
   },
   {
     "id": "114107",
@@ -477,7 +858,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5364999,
+      "longitude": 3.2239339,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537872629892721,
+          "lng": 3.225302629892723
+        },
+        "southwest": {
+          "lat": 6.535172970107277,
+          "lng": 3.222602970107278
+        }
+      },
+      "formatted_address": "Akesan, Obadore Rd, Ijegun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5364999,3.2239339",
+      "google_place_id": "ChIJJ6AhUBuFOxARXY7u0OcQ_Y8"
+    }
   },
   {
     "id": "114108",
@@ -493,7 +891,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5364999,
+      "longitude": 3.2239339,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537872629892721,
+          "lng": 3.225302629892723
+        },
+        "southwest": {
+          "lat": 6.535172970107277,
+          "lng": 3.222602970107278
+        }
+      },
+      "formatted_address": "Akesan, Obadore Rd, Ijegun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5364999,3.2239339",
+      "google_place_id": "ChIJJ6AhUBuFOxARXY7u0OcQ_Y8"
+    }
   },
   {
     "id": "114109",
@@ -509,7 +924,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114110",
@@ -525,7 +941,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114111",
@@ -541,7 +958,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114112",
@@ -557,7 +975,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.550192699999999,
+      "longitude": 3.2370964,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551679429892721,
+          "lng": 3.238414379892723
+        },
+        "southwest": {
+          "lat": 6.548979770107277,
+          "lng": 3.235714720107278
+        }
+      },
+      "formatted_address": "H62P+3RH, Egan Ajana Town, Akesan Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.550192699999999,3.2370964",
+      "google_place_id": "ChIJlb7sbD-FOxARoSjM0mI7C0A"
+    }
   },
   {
     "id": "114113",
@@ -573,7 +1008,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.557597899999999,
+      "longitude": 3.237595,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558954879892722,
+          "lng": 3.239070329892722
+        },
+        "southwest": {
+          "lat": 6.556255220107278,
+          "lng": 3.236370670107278
+        }
+      },
+      "formatted_address": "33-20 Dosu Ekunnrin Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.557597899999999,3.237595",
+      "google_place_id": "ChIJ6QhzzZqFOxARHpEnIuwdh1s"
+    }
   },
   {
     "id": "114114",
@@ -589,7 +1041,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6006699,
+      "longitude": 3.2530238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.602033629892722,
+          "lng": 3.254392079892723
+        },
+        "southwest": {
+          "lat": 6.599333970107279,
+          "lng": 3.251692420107278
+        }
+      },
+      "formatted_address": "13 Ambassadors Street, Off Agric Road, By Ara Junction, Egan, Igando, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6006699,3.2530238",
+      "google_place_id": "ChIJUT_UpYSaOxARWjPBfyMXpSw"
+    }
   },
   {
     "id": "114115",
@@ -605,7 +1074,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.557597899999999,
+      "longitude": 3.237595,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558954879892722,
+          "lng": 3.239070329892722
+        },
+        "southwest": {
+          "lat": 6.556255220107278,
+          "lng": 3.236370670107278
+        }
+      },
+      "formatted_address": "33-20 Dosu Ekunnrin Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.557597899999999,3.237595",
+      "google_place_id": "ChIJ6QhzzZqFOxARHpEnIuwdh1s"
+    }
   },
   {
     "id": "114116",
@@ -621,7 +1107,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544046,
+      "longitude": 3.2291701,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545380629892722,
+          "lng": 3.230507129892723
+        },
+        "southwest": {
+          "lat": 6.542680970107278,
+          "lng": 3.227807470107278
+        }
+      },
+      "formatted_address": "Akeson off LASU, 86 Akeson/ Egan road, Igando road, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544046,3.2291701",
+      "google_place_id": "ChIJX38PnheFOxAR7PYIL3PdaOo"
+    }
   },
   {
     "id": "114117",
@@ -637,7 +1140,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.570373,
+      "longitude": 3.2375934,
+      "viewport": {
+        "northeast": {
+          "lat": 6.571757829892722,
+          "lng": 3.238928829892722
+        },
+        "southwest": {
+          "lat": 6.569058170107278,
+          "lng": 3.236229170107277
+        }
+      },
+      "formatted_address": "1 dauda oyeniran street, off Agric road, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.570373,3.2375934",
+      "google_place_id": "ChIJRwIIpo-bOxARTcmO9w_7-bQ"
+    }
   },
   {
     "id": "114118",
@@ -653,7 +1173,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544046,
+      "longitude": 3.2291701,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545380629892722,
+          "lng": 3.230507129892723
+        },
+        "southwest": {
+          "lat": 6.542680970107278,
+          "lng": 3.227807470107278
+        }
+      },
+      "formatted_address": "Akeson off LASU, 86 Akeson/ Egan road, Igando road, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544046,3.2291701",
+      "google_place_id": "ChIJX38PnheFOxAR7PYIL3PdaOo"
+    }
   },
   {
     "id": "114119",
@@ -669,7 +1206,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114120",
@@ -685,7 +1223,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5476221,
+      "longitude": 3.2376367,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548929079892721,
+          "lng": 3.238946529892722
+        },
+        "southwest": {
+          "lat": 6.546229420107277,
+          "lng": 3.236246870107277
+        }
+      },
+      "formatted_address": "11 Mufutau Olorunfemi St, Ijegun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5476221,3.2376367",
+      "google_place_id": "ChIJC9QlH5OFOxARUEFio8ORtyA"
+    }
   },
   {
     "id": "114121",
@@ -701,7 +1256,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4961256,
+      "longitude": 3.2803716,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497459729892722,
+          "lng": 3.281773179892722
+        },
+        "southwest": {
+          "lat": 6.494760070107279,
+          "lng": 3.279073520107278
+        }
+      },
+      "formatted_address": "27 Uche Ewuru St, Ikotun 100266, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4961256,3.2803716",
+      "google_place_id": "ChIJYwYGYxqPOxAR02lEweu1W8U"
+    }
   },
   {
     "id": "114122",
@@ -717,7 +1289,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5502959,
+      "longitude": 3.2368238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551691029892722,
+          "lng": 3.238163079892722
+        },
+        "southwest": {
+          "lat": 6.548991370107278,
+          "lng": 3.235463420107277
+        }
+      },
+      "formatted_address": "H62P+4P4, Old, Akesan Rd, Egan, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5502959,3.2368238",
+      "google_place_id": "ChIJ2TzhK6WaOxARorjgI7lNA9Y"
+    }
   },
   {
     "id": "114123",
@@ -733,7 +1322,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.536599499999999,
+      "longitude": 3.2250769,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538012529892722,
+          "lng": 3.226492379892723
+        },
+        "southwest": {
+          "lat": 6.535312870107278,
+          "lng": 3.223792720107278
+        }
+      },
+      "formatted_address": "7 Fatai Abogun St, Ijegun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536599499999999,3.2250769",
+      "google_place_id": "ChIJ3TkfMBuFOxARqrYToQcrSGo"
+    }
   },
   {
     "id": "114124",
@@ -749,7 +1355,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5475096,
+      "longitude": 3.2325646,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548863679892721,
+          "lng": 3.233907879892722
+        },
+        "southwest": {
+          "lat": 6.546164020107277,
+          "lng": 3.231208220107277
+        }
+      },
+      "formatted_address": "3, Old Akesan Road, Egan Alimosho, 100267, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5475096,3.2325646",
+      "google_place_id": "ChIJ4alLk5-FOxARmZr0NX178vo"
+    }
   },
   {
     "id": "114125",
@@ -765,7 +1388,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556006399999999,
+      "longitude": 3.2323185,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557351879892722,
+          "lng": 3.233678679892722
+        },
+        "southwest": {
+          "lat": 6.554652220107278,
+          "lng": 3.230979020107278
+        }
+      },
+      "formatted_address": "H64J+9XP, Egan-Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556006399999999,3.2323185",
+      "google_place_id": "ChIJAeKBPTqFOxARSnRM9eVTC1E"
+    }
   },
   {
     "id": "114126",
@@ -781,7 +1421,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5566342,
+      "longitude": 3.227375,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558018379892721,
+          "lng": 3.228745629892722
+        },
+        "southwest": {
+          "lat": 6.555318720107278,
+          "lng": 3.226045970107278
+        }
+      },
+      "formatted_address": "96 Moshalashi Rd, Egan Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5566342,3.227375",
+      "google_place_id": "ChIJg2pvu3mFOxARLpGnBHkEiiI"
+    }
   },
   {
     "id": "114127",
@@ -797,7 +1454,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5566342,
+      "longitude": 3.227375,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558018379892721,
+          "lng": 3.228745629892722
+        },
+        "southwest": {
+          "lat": 6.555318720107278,
+          "lng": 3.226045970107278
+        }
+      },
+      "formatted_address": "96 Moshalashi Rd, Egan Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5566342,3.227375",
+      "google_place_id": "ChIJg2pvu3mFOxARLpGnBHkEiiI"
+    }
   },
   {
     "id": "114128",
@@ -813,7 +1487,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114129",
@@ -829,7 +1520,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114130",
@@ -845,7 +1537,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544046,
+      "longitude": 3.2291701,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545380629892722,
+          "lng": 3.230507129892723
+        },
+        "southwest": {
+          "lat": 6.542680970107278,
+          "lng": 3.227807470107278
+        }
+      },
+      "formatted_address": "Akeson off LASU, 86 Akeson/ Egan road, Igando road, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544046,3.2291701",
+      "google_place_id": "ChIJX38PnheFOxAR7PYIL3PdaOo"
+    }
   },
   {
     "id": "114131",
@@ -861,7 +1570,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5932989,
+      "longitude": 3.2888464,
+      "viewport": {
+        "northeast": {
+          "lat": 6.594613429892723,
+          "lng": 3.290285329892722
+        },
+        "southwest": {
+          "lat": 6.591913770107279,
+          "lng": 3.287585670107278
+        }
+      },
+      "formatted_address": "Off Olugbede Market, Egbeda, 1 Olaniyi St, Alimosho, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5932989,3.2888464",
+      "google_place_id": "ChIJH1cQpUiQOxARIz5uF9QWYQM"
+    }
   },
   {
     "id": "114132",
@@ -877,7 +1603,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5517445,
+      "longitude": 3.2188689,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553099529892721,
+          "lng": 3.220256679892722
+        },
+        "southwest": {
+          "lat": 6.550399870107277,
+          "lng": 3.217557020107277
+        }
+      },
+      "formatted_address": "16 Steve Igbasan, off Isuti Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5517445,3.2188689",
+      "google_place_id": "ChIJp44Wd8uFOxARlzffX11VifY"
+    }
   },
   {
     "id": "114133",
@@ -893,7 +1636,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114134",
@@ -909,7 +1653,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5467663,
+      "longitude": 3.2196268,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548137329892722,
+          "lng": 3.220945929892722
+        },
+        "southwest": {
+          "lat": 6.545437670107278,
+          "lng": 3.218246270107278
+        }
+      },
+      "formatted_address": "5 Benson Adu Avenue, Fatoki St, igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5467663,3.2196268",
+      "google_place_id": "ChIJvSB9w2OFOxARqi9L9v3rUy4"
+    }
   },
   {
     "id": "114135",
@@ -925,7 +1686,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.553423599999999,
+      "longitude": 3.211431,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554773429892721,
+          "lng": 3.212780829892722
+        },
+        "southwest": {
+          "lat": 6.552073770107278,
+          "lng": 3.210081170107277
+        }
+      },
+      "formatted_address": "Isuti Rd & One Day Ave, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.553423599999999,3.211431",
+      "google_place_id": "EjVJc3V0aSBSZCAmIE9uZSBEYXkgQXZlLCBJa290dW4gMTAyMjEzLCBBZ2VnZSwgTmlnZXJpYSJmImQKFAoSCQsp873bhDsQEU1kgOI0Opb-EhQKEgkLKfO924Q7EBFNZIDiNDqW_hoUChIJNRPC1z2FOxARqf0ZV4b7PREaFAoSCd0JpU_chDsQEXvkUwYUGiFbIgoNHPnnAxWGBuoB"
+    }
   },
   {
     "id": "114136",
@@ -941,7 +1719,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5595481,
+      "longitude": 3.2183567,
+      "viewport": {
+        "northeast": {
+          "lat": 6.560839529892722,
+          "lng": 3.219758179892722
+        },
+        "southwest": {
+          "lat": 6.558139870107278,
+          "lng": 3.217058520107277
+        }
+      },
+      "formatted_address": "12 Gani Lawal St, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5595481,3.2183567",
+      "google_place_id": "Ei8xMiBHYW5pIExhd2FsIFN0LCBJa290dW4gMTAyMjEzLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCav8ES8ohTsQEXBmeCmgNbk5EAwqFAoSCb0klzQohTsQEbJ4CN8UjFgj"
+    }
   },
   {
     "id": "114137",
@@ -957,7 +1752,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114138",
@@ -973,7 +1769,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5558659,
+      "longitude": 3.2189692,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557244429892721,
+          "lng": 3.220377779892722
+        },
+        "southwest": {
+          "lat": 6.554544770107277,
+          "lng": 3.217678120107278
+        }
+      },
+      "formatted_address": "27 Abiodun Delegun St, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5558659,3.2189692",
+      "google_place_id": "EjQyNyBBYmlvZHVuIERlbGVndW4gU3QsIElrb3R1biAxMDIyMTMsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJ__ZOkyeFOxARQfAUvugaM-EQGyoUChIJL_hx1yaFOxARUBqCUW0ZZt0"
+    }
   },
   {
     "id": "114139",
@@ -989,7 +1802,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556537500000001,
+      "longitude": 3.2347669,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557856079892721,
+          "lng": 3.236127079892722
+        },
+        "southwest": {
+          "lat": 6.555156420107277,
+          "lng": 3.233427420107278
+        }
+      },
+      "formatted_address": "Alhaji ashafa, Egan Igando Alimosho, 100267, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556537500000001,3.2347669",
+      "google_place_id": "ChIJiftFxn2FOxARRaSIvAi4H7s"
+    }
   },
   {
     "id": "114140",
@@ -1005,7 +1835,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5536739,
+      "longitude": 3.2122749,
+      "viewport": {
+        "northeast": {
+          "lat": 6.555023729892722,
+          "lng": 3.213624729892722
+        },
+        "southwest": {
+          "lat": 6.552324070107278,
+          "lng": 3.210925070107277
+        }
+      },
+      "formatted_address": "Ija Rd & Isuti Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5536739,3.2122749",
+      "google_place_id": "EjBJamEgUmQgJiBJc3V0aSBSZCwgSWtvdHVuIDEwMjIxMywgQWdlZ2UsIE5pZ2VyaWEiZiJkChQKEgmhzpDD24Q7EBFW6R1o2WnUqRIUChIJoc6Qw9uEOxARVukdaNlp1KkaFAoSCf38rxbchDsQEWcUvLxWAONfGhQKEgk1E8LXPYU7EBGp_RlXhvs9ESIKDeMC6AMVfSfqAQ"
+    }
   },
   {
     "id": "114141",
@@ -1021,7 +1868,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114142",
@@ -1037,7 +1901,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5529405,
+      "longitude": 3.2438609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554151979892722,
+          "lng": 3.245264629892722
+        },
+        "southwest": {
+          "lat": 6.551452320107278,
+          "lng": 3.242564970107277
+        }
+      },
+      "formatted_address": "H63V+5GH, Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5529405,3.2438609",
+      "google_place_id": "ChIJGUZvGkSFOxARHpQfQzVI2y8"
+    }
   },
   {
     "id": "114143",
@@ -1053,7 +1934,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.550192699999999,
+      "longitude": 3.2370964,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551679429892721,
+          "lng": 3.238414379892723
+        },
+        "southwest": {
+          "lat": 6.548979770107277,
+          "lng": 3.235714720107278
+        }
+      },
+      "formatted_address": "H62P+3RH, Egan Ajana Town, Akesan Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.550192699999999,3.2370964",
+      "google_place_id": "ChIJlb7sbD-FOxARoSjM0mI7C0A"
+    }
   },
   {
     "id": "114144",
@@ -1069,7 +1967,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5513242,
+      "longitude": 3.2402439,
+      "viewport": {
+        "northeast": {
+          "lat": 6.552658029892721,
+          "lng": 3.241528479892723
+        },
+        "southwest": {
+          "lat": 6.549958370107277,
+          "lng": 3.238828820107278
+        }
+      },
+      "formatted_address": "Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5513242,3.2402439",
+      "google_place_id": "ChIJCShp0ECFOxARqBOSsoKoRUo"
+    }
   },
   {
     "id": "114145",
@@ -1085,7 +2000,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5502959,
+      "longitude": 3.2368238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551691029892722,
+          "lng": 3.238163079892722
+        },
+        "southwest": {
+          "lat": 6.548991370107278,
+          "lng": 3.235463420107277
+        }
+      },
+      "formatted_address": "H62P+4P4, Old, Akesan Rd, Egan, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5502959,3.2368238",
+      "google_place_id": "ChIJ2TzhK6WaOxARorjgI7lNA9Y"
+    }
   },
   {
     "id": "114146",
@@ -1101,7 +2033,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5458354,
+      "longitude": 3.2315655,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547242179892721,
+          "lng": 3.232979129892723
+        },
+        "southwest": {
+          "lat": 6.544542520107277,
+          "lng": 3.230279470107278
+        }
+      },
+      "formatted_address": "New Olorunfemi Estate, 11 Memud Ajani Cres, Egan Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5458354,3.2315655",
+      "google_place_id": "ChIJZWfdPhaFOxAReGUZP2_Y_pU"
+    }
   },
   {
     "id": "114147",
@@ -1117,7 +2066,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544046,
+      "longitude": 3.2291701,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545380629892722,
+          "lng": 3.230507129892723
+        },
+        "southwest": {
+          "lat": 6.542680970107278,
+          "lng": 3.227807470107278
+        }
+      },
+      "formatted_address": "Akeson off LASU, 86 Akeson/ Egan road, Igando road, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544046,3.2291701",
+      "google_place_id": "ChIJX38PnheFOxAR7PYIL3PdaOo"
+    }
   },
   {
     "id": "114148",
@@ -1133,7 +2099,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5513242,
+      "longitude": 3.2402439,
+      "viewport": {
+        "northeast": {
+          "lat": 6.552658029892721,
+          "lng": 3.241528479892723
+        },
+        "southwest": {
+          "lat": 6.549958370107277,
+          "lng": 3.238828820107278
+        }
+      },
+      "formatted_address": "Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5513242,3.2402439",
+      "google_place_id": "ChIJCShp0ECFOxARqBOSsoKoRUo"
+    }
   },
   {
     "id": "114149",
@@ -1149,7 +2132,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5528629,
+      "longitude": 3.249249,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553937779892722,
+          "lng": 3.250615679892722
+        },
+        "southwest": {
+          "lat": 6.551238120107278,
+          "lng": 3.247916020107278
+        }
+      },
+      "formatted_address": "165 Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5528629,3.249249",
+      "google_place_id": "ChIJ73xPQVuFOxARO-SyJdDC3mo"
+    }
   },
   {
     "id": "114150",
@@ -1165,7 +2165,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5528629,
+      "longitude": 3.249249,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553937779892722,
+          "lng": 3.250615679892722
+        },
+        "southwest": {
+          "lat": 6.551238120107278,
+          "lng": 3.247916020107278
+        }
+      },
+      "formatted_address": "165 Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5528629,3.249249",
+      "google_place_id": "ChIJ73xPQVuFOxARO-SyJdDC3mo"
+    }
   },
   {
     "id": "114151",
@@ -1181,7 +2198,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5521433,
+      "longitude": 3.2504196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553614329892722,
+          "lng": 3.251708429892723
+        },
+        "southwest": {
+          "lat": 6.550914670107278,
+          "lng": 3.249008770107278
+        }
+      },
+      "formatted_address": "192/194, Ikotun - Igando Road, Off Lasu Isheri, by College Bus stop, Igando Alimosho, Ikotun 100275, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5521433,3.2504196",
+      "google_place_id": "ChIJ5-9sA1OFOxARw-OYWOEm8hE"
+    }
   },
   {
     "id": "114152",
@@ -1197,7 +2231,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114153",
@@ -1213,7 +2248,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5529405,
+      "longitude": 3.2438609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554151979892722,
+          "lng": 3.245264629892722
+        },
+        "southwest": {
+          "lat": 6.551452320107278,
+          "lng": 3.242564970107277
+        }
+      },
+      "formatted_address": "H63V+5GH, Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5529405,3.2438609",
+      "google_place_id": "ChIJGUZvGkSFOxARHpQfQzVI2y8"
+    }
   },
   {
     "id": "114154",
@@ -1229,7 +2281,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.555981999999999,
+      "longitude": 3.2499591,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557076829892721,
+          "lng": 3.251139529892721
+        },
+        "southwest": {
+          "lat": 6.554377170107277,
+          "lng": 3.248439870107277
+        }
+      },
+      "formatted_address": "H64X+9XW, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.555981999999999,3.2499591",
+      "google_place_id": "ChIJrVzAUeyFOxAR1wJuPU90Cdw"
+    }
   },
   {
     "id": "114155",
@@ -1245,7 +2314,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114156",
@@ -1261,7 +2331,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.541433500000001,
+      "longitude": 3.2231587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542760379892722,
+          "lng": 3.224513429892722
+        },
+        "southwest": {
+          "lat": 6.540060720107278,
+          "lng": 3.221813770107278
+        }
+      },
+      "formatted_address": "G6RF+H7F, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.541433500000001,3.2231587",
+      "google_place_id": "ChIJU-6zzKuFOxARUDCfQkT4Di0"
+    }
   },
   {
     "id": "114157",
@@ -1277,7 +2364,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5529405,
+      "longitude": 3.2438609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554151979892722,
+          "lng": 3.245264629892722
+        },
+        "southwest": {
+          "lat": 6.551452320107278,
+          "lng": 3.242564970107277
+        }
+      },
+      "formatted_address": "H63V+5GH, Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5529405,3.2438609",
+      "google_place_id": "ChIJGUZvGkSFOxARHpQfQzVI2y8"
+    }
   },
   {
     "id": "114158",
@@ -1293,7 +2397,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5505229,
+      "longitude": 3.2419867,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551868979892721,
+          "lng": 3.243324479892722
+        },
+        "southwest": {
+          "lat": 6.549169320107278,
+          "lng": 3.240624820107278
+        }
+      },
+      "formatted_address": "Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5505229,3.2419867",
+      "google_place_id": "ChIJ4z9uE7uFOxARNDsS1wkAIHo"
+    }
   },
   {
     "id": "114159",
@@ -1309,7 +2430,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114160",
@@ -1325,7 +2447,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114161",
@@ -1341,7 +2464,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5521433,
+      "longitude": 3.2504196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553614329892722,
+          "lng": 3.251708429892723
+        },
+        "southwest": {
+          "lat": 6.550914670107278,
+          "lng": 3.249008770107278
+        }
+      },
+      "formatted_address": "192/194, Ikotun - Igando Road, Off Lasu Isheri, by College Bus stop, Igando Alimosho, Ikotun 100275, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5521433,3.2504196",
+      "google_place_id": "ChIJ5-9sA1OFOxARw-OYWOEm8hE"
+    }
   },
   {
     "id": "114162",
@@ -1357,7 +2497,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5468914,
+      "longitude": 3.264825,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548191629892722,
+          "lng": 3.266146029892722
+        },
+        "southwest": {
+          "lat": 6.545491970107278,
+          "lng": 3.263446370107277
+        }
+      },
+      "formatted_address": "Shop L, Multi Purpose Market, 12 Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5468914,3.264825",
+      "google_place_id": "ChIJtxbDpE2POxARgCLyI7SR8_4"
+    }
   },
   {
     "id": "114163",
@@ -1373,7 +2530,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5542338,
+      "longitude": 3.2483878,
+      "viewport": {
+        "northeast": {
+          "lat": 6.555578879892721,
+          "lng": 3.249719379892722
+        },
+        "southwest": {
+          "lat": 6.552879220107277,
+          "lng": 3.247019720107278
+        }
+      },
+      "formatted_address": "88 College St, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5542338,3.2483878",
+      "google_place_id": "ChIJCWbauSyFOxARcBtA9vIOH1Y"
+    }
   },
   {
     "id": "114164",
@@ -1389,7 +2563,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114165",
@@ -1405,7 +2580,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.541433500000001,
+      "longitude": 3.2231587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542760379892722,
+          "lng": 3.224513429892722
+        },
+        "southwest": {
+          "lat": 6.540060720107278,
+          "lng": 3.221813770107278
+        }
+      },
+      "formatted_address": "G6RF+H7F, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.541433500000001,3.2231587",
+      "google_place_id": "ChIJU-6zzKuFOxARUDCfQkT4Di0"
+    }
   },
   {
     "id": "114166",
@@ -1421,7 +2613,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5613452,
+      "longitude": 3.2513195,
+      "viewport": {
+        "northeast": {
+          "lat": 6.562885979892722,
+          "lng": 3.252168529892722
+        },
+        "southwest": {
+          "lat": 6.560186320107278,
+          "lng": 3.249468870107278
+        }
+      },
+      "formatted_address": "H762+GGP, Ikotun 100265, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5613452,3.2513195",
+      "google_place_id": "ChIJO7wkxSyOOxAR2VZA9fWsDr8"
+    }
   },
   {
     "id": "114167",
@@ -1437,7 +2646,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114168",
@@ -1453,7 +2679,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114169",
@@ -1469,7 +2696,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114170",
@@ -1485,7 +2729,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114171",
@@ -1501,7 +2762,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   },
   {
     "id": "114172",
@@ -1517,7 +2795,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5739531,
+      "longitude": 3.2375926,
+      "viewport": {
+        "northeast": {
+          "lat": 6.574737029892721,
+          "lng": 3.239168779892722
+        },
+        "southwest": {
+          "lat": 6.572037370107277,
+          "lng": 3.236469120107277
+        }
+      },
+      "formatted_address": "29A, ARIKOSERERE STREET, EGAN, LAGOS 7MM4tp ALIMOSHO LOCAL GOVERNMENT AREA, 100268, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5739531,3.2375926",
+      "google_place_id": "ChIJXxVKdRibOxARoaV8uV9DVgg"
+    }
   },
   {
     "id": "114173",
@@ -1533,7 +2828,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.569362,
+      "longitude": 3.253978,
+      "viewport": {
+        "northeast": {
+          "lat": 6.570794079892721,
+          "lng": 3.255327829892722
+        },
+        "southwest": {
+          "lat": 6.568094420107277,
+          "lng": 3.252628170107278
+        }
+      },
+      "formatted_address": "6 Samson Dada St, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.569362,3.253978",
+      "google_place_id": "ChIJO0GDaKuaOxARvm3lzk0Ag_k"
+    }
   },
   {
     "id": "114174",
@@ -1549,7 +2861,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556006399999999,
+      "longitude": 3.2323185,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557351879892722,
+          "lng": 3.233678679892722
+        },
+        "southwest": {
+          "lat": 6.554652220107278,
+          "lng": 3.230979020107278
+        }
+      },
+      "formatted_address": "H64J+9XP, Egan-Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556006399999999,3.2323185",
+      "google_place_id": "ChIJAeKBPTqFOxARSnRM9eVTC1E"
+    }
   },
   {
     "id": "114175",
@@ -1565,7 +2894,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.577513199999999,
+      "longitude": 3.2641771,
+      "viewport": {
+        "northeast": {
+          "lat": 6.578863529892722,
+          "lng": 3.265568279892722
+        },
+        "southwest": {
+          "lat": 6.576163870107278,
+          "lng": 3.262868620107278
+        }
+      },
+      "formatted_address": "H7H7+2M3, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.577513199999999,3.2641771",
+      "google_place_id": "ChIJb8DPXtqROxAR40gB5gsMc7w"
+    }
   },
   {
     "id": "114176",
@@ -1581,7 +2927,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5529405,
+      "longitude": 3.2438609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554151979892722,
+          "lng": 3.245264629892722
+        },
+        "southwest": {
+          "lat": 6.551452320107278,
+          "lng": 3.242564970107277
+        }
+      },
+      "formatted_address": "H63V+5GH, Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5529405,3.2438609",
+      "google_place_id": "ChIJGUZvGkSFOxARHpQfQzVI2y8"
+    }
   },
   {
     "id": "114177",
@@ -1597,7 +2960,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.541433500000001,
+      "longitude": 3.2231587,
+      "viewport": {
+        "northeast": {
+          "lat": 6.542760379892722,
+          "lng": 3.224513429892722
+        },
+        "southwest": {
+          "lat": 6.540060720107278,
+          "lng": 3.221813770107278
+        }
+      },
+      "formatted_address": "G6RF+H7F, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.541433500000001,3.2231587",
+      "google_place_id": "ChIJU-6zzKuFOxARUDCfQkT4Di0"
+    }
   },
   {
     "id": "114178",
@@ -1613,7 +2993,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5529405,
+      "longitude": 3.2438609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554151979892722,
+          "lng": 3.245264629892722
+        },
+        "southwest": {
+          "lat": 6.551452320107278,
+          "lng": 3.242564970107277
+        }
+      },
+      "formatted_address": "H63V+5GH, Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5529405,3.2438609",
+      "google_place_id": "ChIJGUZvGkSFOxARHpQfQzVI2y8"
+    }
   },
   {
     "id": "114179",
@@ -1629,7 +3026,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114180",
@@ -1645,7 +3043,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544046,
+      "longitude": 3.2291701,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545380629892722,
+          "lng": 3.230507129892723
+        },
+        "southwest": {
+          "lat": 6.542680970107278,
+          "lng": 3.227807470107278
+        }
+      },
+      "formatted_address": "Akeson off LASU, 86 Akeson/ Egan road, Igando road, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544046,3.2291701",
+      "google_place_id": "ChIJX38PnheFOxAR7PYIL3PdaOo"
+    }
   },
   {
     "id": "114181",
@@ -1661,7 +3076,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5511561,
+      "longitude": 3.2408357,
+      "viewport": {
+        "northeast": {
+          "lat": 6.55255587989272,
+          "lng": 3.242162179892722
+        },
+        "southwest": {
+          "lat": 6.549856220107277,
+          "lng": 3.239462520107278
+        }
+      },
+      "formatted_address": "Igando Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5511561,3.2408357",
+      "google_place_id": "ChIJPdyv20CFOxARNaDo5I76Ybk"
+    }
   },
   {
     "id": "114182",
@@ -1677,7 +3109,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544046,
+      "longitude": 3.2291701,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545380629892722,
+          "lng": 3.230507129892723
+        },
+        "southwest": {
+          "lat": 6.542680970107278,
+          "lng": 3.227807470107278
+        }
+      },
+      "formatted_address": "Akeson off LASU, 86 Akeson/ Egan road, Igando road, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544046,3.2291701",
+      "google_place_id": "ChIJX38PnheFOxAR7PYIL3PdaOo"
+    }
   },
   {
     "id": "114183",
@@ -1693,7 +3142,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5475096,
+      "longitude": 3.2325646,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548863679892721,
+          "lng": 3.233907879892722
+        },
+        "southwest": {
+          "lat": 6.546164020107277,
+          "lng": 3.231208220107277
+        }
+      },
+      "formatted_address": "3, Old Akesan Road, Egan Alimosho, 100267, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5475096,3.2325646",
+      "google_place_id": "ChIJ4alLk5-FOxARmZr0NX178vo"
+    }
   },
   {
     "id": "114184",
@@ -1709,7 +3175,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114185",
@@ -1725,7 +3192,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.510043899999999,
+      "longitude": 3.2001181,
+      "viewport": {
+        "northeast": {
+          "lat": 6.511487729892722,
+          "lng": 3.201471529892722
+        },
+        "southwest": {
+          "lat": 6.508788070107278,
+          "lng": 3.198771870107278
+        }
+      },
+      "formatted_address": "G662+229, Oba Ayoka St, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.510043899999999,3.2001181",
+      "google_place_id": "ChIJxWf5LkKEOxAR8OVqsNuQl-0"
+    }
   },
   {
     "id": "114186",
@@ -1741,7 +3225,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.549801100000001,
+      "longitude": 3.2351845,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551173629892722,
+          "lng": 3.236558429892722
+        },
+        "southwest": {
+          "lat": 6.548473970107278,
+          "lng": 3.233858770107277
+        }
+      },
+      "formatted_address": "Junction Old, 11 Opposite Oyisa, Akesan Rd, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.549801100000001,3.2351845",
+      "google_place_id": "ChIJCTvynHeFOxARsazBsNSpD5Y"
+    }
   },
   {
     "id": "114187",
@@ -1757,7 +3258,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5245514,
+      "longitude": 3.2151839,
+      "viewport": {
+        "northeast": {
+          "lat": 6.525985679892722,
+          "lng": 3.216432429892722
+        },
+        "southwest": {
+          "lat": 6.523286020107278,
+          "lng": 3.213732770107278
+        }
+      },
+      "formatted_address": "6 John Omolaja St, Ijegun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5245514,3.2151839",
+      "google_place_id": "ChIJMYPKm1WEOxARjOPFD1Dlb98"
+    }
   },
   {
     "id": "114188",
@@ -1773,7 +3291,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5255621,
+      "longitude": 3.2153896,
+      "viewport": {
+        "northeast": {
+          "lat": 6.526879629892721,
+          "lng": 3.216668979892722
+        },
+        "southwest": {
+          "lat": 6.524179970107277,
+          "lng": 3.213969320107278
+        }
+      },
+      "formatted_address": "G6G8+65C, Onilu Village 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5255621,3.2153896",
+      "google_place_id": "ChIJkfdofv-EOxAR1jEHyY2Q1Kg"
+    }
   },
   {
     "id": "114189",
@@ -1789,7 +3324,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.541964500000001,
+      "longitude": 3.2814333,
+      "viewport": {
+        "northeast": {
+          "lat": 6.543339579892722,
+          "lng": 3.282805329892723
+        },
+        "southwest": {
+          "lat": 6.540639920107278,
+          "lng": 3.280105670107278
+        }
+      },
+      "formatted_address": "21 Community Road,,Off Agbesi Str,Kudaki Road Hostel Bus Stop, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.541964500000001,3.2814333",
+      "google_place_id": "ChIJ32l1F8GPOxAR1wYx5QS7VB8"
+    }
   },
   {
     "id": "114190",
@@ -1805,7 +3357,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.536733099999999,
+      "longitude": 3.2241891,
+      "viewport": {
+        "northeast": {
+          "lat": 6.538062179892721,
+          "lng": 3.225572879892722
+        },
+        "southwest": {
+          "lat": 6.535362520107277,
+          "lng": 3.222873220107278
+        }
+      },
+      "formatted_address": "Igando, Obadore Rd, Ikotun 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.536733099999999,3.2241891",
+      "google_place_id": "ChIJ161IKD6FOxARluroiqGxIm4"
+    }
   },
   {
     "id": "114191",
@@ -1821,7 +3390,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556006399999999,
+      "longitude": 3.2323185,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557351879892722,
+          "lng": 3.233678679892722
+        },
+        "southwest": {
+          "lat": 6.554652220107278,
+          "lng": 3.230979020107278
+        }
+      },
+      "formatted_address": "H64J+9XP, Egan-Igando 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556006399999999,3.2323185",
+      "google_place_id": "ChIJAeKBPTqFOxARSnRM9eVTC1E"
+    }
   },
   {
     "id": "114192",
@@ -1837,7 +3423,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5513242,
+      "longitude": 3.2402439,
+      "viewport": {
+        "northeast": {
+          "lat": 6.552658029892721,
+          "lng": 3.241528479892723
+        },
+        "southwest": {
+          "lat": 6.549958370107277,
+          "lng": 3.238828820107278
+        }
+      },
+      "formatted_address": "Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5513242,3.2402439",
+      "google_place_id": "ChIJCShp0ECFOxARqBOSsoKoRUo"
+    }
   },
   {
     "id": "114193",
@@ -1853,7 +3456,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5502959,
+      "longitude": 3.2368238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.551691029892722,
+          "lng": 3.238163079892722
+        },
+        "southwest": {
+          "lat": 6.548991370107278,
+          "lng": 3.235463420107277
+        }
+      },
+      "formatted_address": "H62P+4P4, Old, Akesan Rd, Egan, Igando, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5502959,3.2368238",
+      "google_place_id": "ChIJ2TzhK6WaOxARorjgI7lNA9Y"
+    }
   },
   {
     "id": "114194",
@@ -1869,7 +3489,24 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556174,
+      "longitude": 3.2281485,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557527579892721,
+          "lng": 3.229501229892722
+        },
+        "southwest": {
+          "lat": 6.554827920107277,
+          "lng": 3.226801570107277
+        }
+      },
+      "formatted_address": "Egan/Igando, 63/65 Moshalashi Rd, Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556174,3.2281485",
+      "google_place_id": "ChIJe0gJTiWFOxARlMbPJ19RSEg"
+    }
   },
   {
     "id": "114195",
@@ -1885,7 +3522,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114196",
@@ -1901,7 +3539,8 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "114197",
@@ -1917,6 +3556,23 @@
     "local_government_id": "508",
     "local_government_name": "ALIMOSHO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.564754499999999,
+      "longitude": 3.2393521,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566138229892722,
+          "lng": 3.240651529892722
+        },
+        "southwest": {
+          "lat": 6.563438570107278,
+          "lng": 3.237951870107278
+        }
+      },
+      "formatted_address": "4,Dosu ekunrin road,Ara junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.564754499999999,3.2393521",
+      "google_place_id": "ChIJ4yKe17eFOxAR4QkurtZe-FU"
+    }
   }
 ]

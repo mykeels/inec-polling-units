@@ -13,7 +13,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116493",
@@ -29,7 +30,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6739307,
+      "longitude": 3.9867316,
+      "viewport": {
+        "northeast": {
+          "lat": 6.675238279892722,
+          "lng": 3.988016829892722
+        },
+        "southwest": {
+          "lat": 6.672538620107278,
+          "lng": 3.985317170107278
+        }
+      },
+      "formatted_address": "Epe Ijebu Ode Road, 106103, Mojoda, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6739307,3.9867316",
+      "google_place_id": "ChIJHXx2E85DORAR96gOuwQ4GIA"
+    }
   },
   {
     "id": "116494",
@@ -45,7 +63,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116495",
@@ -61,7 +80,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.623576,
+      "longitude": 3.5231111,
+      "viewport": {
+        "northeast": {
+          "lat": 6.624879529892721,
+          "lng": 3.524481329892723
+        },
+        "southwest": {
+          "lat": 6.622179870107277,
+          "lng": 3.521781670107278
+        }
+      },
+      "formatted_address": "JGFF+C6H, oke-ota ona, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.623576,3.5231111",
+      "google_place_id": "ChIJh0t4MrPvOxARJD73JOHUoeI"
+    }
   },
   {
     "id": "116496",
@@ -77,7 +113,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.619410999999999,
+      "longitude": 3.5104388,
+      "viewport": {
+        "northeast": {
+          "lat": 6.620822329892722,
+          "lng": 3.511875479892722
+        },
+        "southwest": {
+          "lat": 6.618122670107278,
+          "lng": 3.509175820107278
+        }
+      },
+      "formatted_address": "1-7 Joke-Toye Sutton St, Ikorodu 104101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.619410999999999,3.5104388",
+      "google_place_id": "ChIJQ_tFCafvOxARZifCM4Bt-p8"
+    }
   },
   {
     "id": "116497",
@@ -93,7 +146,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6214276,
+      "longitude": 3.9798884,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622782129892722,
+          "lng": 3.981247079892722
+        },
+        "southwest": {
+          "lat": 6.620082470107278,
+          "lng": 3.978547420107278
+        }
+      },
+      "formatted_address": "106103, Poka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6214276,3.9798884",
+      "google_place_id": "ChIJha_zfiNEORARjntCdh_CWhw"
+    }
   },
   {
     "id": "116498",
@@ -109,7 +179,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.602469,
+      "longitude": 3.9991907,
+      "viewport": {
+        "northeast": {
+          "lat": 6.603402679892722,
+          "lng": 4.000753879892722
+        },
+        "southwest": {
+          "lat": 6.600703020107278,
+          "lng": 3.998054220107278
+        }
+      },
+      "formatted_address": "33 Adedeji Rd, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.602469,3.9991907",
+      "google_place_id": "ChIJoZLSlA1HORARcG7R2LL22CA"
+    }
   },
   {
     "id": "116499",
@@ -125,7 +212,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6214276,
+      "longitude": 3.9798884,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622782129892722,
+          "lng": 3.981247079892722
+        },
+        "southwest": {
+          "lat": 6.620082470107278,
+          "lng": 3.978547420107278
+        }
+      },
+      "formatted_address": "106103, Poka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6214276,3.9798884",
+      "google_place_id": "ChIJha_zfiNEORARjntCdh_CWhw"
+    }
   },
   {
     "id": "116500",
@@ -141,7 +245,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116501",
@@ -157,7 +262,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4515721,
+      "longitude": 3.4290647,
+      "viewport": {
+        "northeast": {
+          "lat": 6.453222329892721,
+          "lng": 3.430384979892722
+        },
+        "southwest": {
+          "lat": 6.450522670107278,
+          "lng": 3.427685320107277
+        }
+      },
+      "formatted_address": "39 Alfred Rewane Rd, Ikoyi 106104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4515721,3.4290647",
+      "google_place_id": "ChIJ6-ZEhc_0OxAR2DmeX46FF0Q"
+    }
   },
   {
     "id": "116502",
@@ -173,7 +295,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6214276,
+      "longitude": 3.9798884,
+      "viewport": {
+        "northeast": {
+          "lat": 6.622782129892722,
+          "lng": 3.981247079892722
+        },
+        "southwest": {
+          "lat": 6.620082470107278,
+          "lng": 3.978547420107278
+        }
+      },
+      "formatted_address": "106103, Poka, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6214276,3.9798884",
+      "google_place_id": "ChIJha_zfiNEORARjntCdh_CWhw"
+    }
   },
   {
     "id": "116503",
@@ -189,6 +328,23 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.623576,
+      "longitude": 3.5231111,
+      "viewport": {
+        "northeast": {
+          "lat": 6.624879529892721,
+          "lng": 3.524481329892723
+        },
+        "southwest": {
+          "lat": 6.622179870107277,
+          "lng": 3.521781670107278
+        }
+      },
+      "formatted_address": "JGFF+C6H, oke-ota ona, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.623576,3.5231111",
+      "google_place_id": "ChIJh0t4MrPvOxARJD73JOHUoeI"
+    }
   }
 ]

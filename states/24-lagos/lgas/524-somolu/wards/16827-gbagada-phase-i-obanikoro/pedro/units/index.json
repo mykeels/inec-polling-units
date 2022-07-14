@@ -13,7 +13,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5517733,
+      "longitude": 3.3785116,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553098329892721,
+          "lng": 3.379897379892723
+        },
+        "southwest": {
+          "lat": 6.550398670107278,
+          "lng": 3.377197720107278
+        }
+      },
+      "formatted_address": "Industrial Estate, No 5 Redemption Cres, Gbagada 105102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5517733,3.3785116",
+      "google_place_id": "ChIJR6FwIo6NOxARiMTREiJz-UY"
+    }
   },
   {
     "id": "330424",
@@ -29,7 +46,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5462921,
+      "longitude": 3.3703351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547646379892723,
+          "lng": 3.371623679892722
+        },
+        "southwest": {
+          "lat": 6.544946720107279,
+          "lng": 3.368924020107277
+        }
+      },
+      "formatted_address": "G9WC+G48, OBANIKORO St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5462921,3.3703351",
+      "google_place_id": "ChIJB-A6DZiNOxARVNS6LhbxP8c"
+    }
   },
   {
     "id": "330425",
@@ -45,7 +79,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5492915,
+      "longitude": 3.3687437,
+      "viewport": {
+        "northeast": {
+          "lat": 6.550641329892722,
+          "lng": 3.370093529892722
+        },
+        "southwest": {
+          "lat": 6.547941670107278,
+          "lng": 3.367393870107278
+        }
+      },
+      "formatted_address": "Adebambo St & Jolaosho St, Obanikoro 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5492915,3.3687437",
+      "google_place_id": "EjtBZGViYW1ibyBTdCAmIEpvbGFvc2hvIFN0LCBPYmFuaWtvcm8gMTAyMjE2LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCX1mhGWXjTsQEV4Sw-D949-GEhQKEgl9ZoRll407EBFeEsPg_ePfhhoUChIJ-56pb5eNOxARoQ5rdc8vAe8aFAoSCRupeV2XjTsQEZtXaThAwt0nIgoNs1fnAxWNBwIC"
+    }
   },
   {
     "id": "330426",
@@ -61,7 +112,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330427",
@@ -77,7 +129,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330428",
@@ -93,7 +146,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5479287,
+      "longitude": 3.3696602,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549278529892722,
+          "lng": 3.371010029892723
+        },
+        "southwest": {
+          "lat": 6.546578870107278,
+          "lng": 3.368310370107278
+        }
+      },
+      "formatted_address": "Obanikoro St, Pedro 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5479287,3.3696602",
+      "google_place_id": "ChIJp040NpiNOxARanN4aLXunSU"
+    }
   },
   {
     "id": "330429",
@@ -109,7 +179,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5492371,
+      "longitude": 3.3706647,
+      "viewport": {
+        "northeast": {
+          "lat": 6.550586929892723,
+          "lng": 3.372014529892722
+        },
+        "southwest": {
+          "lat": 6.547887270107279,
+          "lng": 3.369314870107277
+        }
+      },
+      "formatted_address": "Bola Adewunmi St & Ebinpejo St, Pedro 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5492371,3.3706647",
+      "google_place_id": "EjxCb2xhIEFkZXd1bm1pIFN0ICYgRWJpbnBlam8gU3QsIFBlZHJvIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgmLY164mY07EBEHBk94nwbd7BIUChIJi2NeuJmNOxARBwZPeJ8G3ewaFAoSCTEqPMWZjTsQEW-gNwif2UPqGhQKEgldvYK5mY07EBG7yBePTep45yIKDZNV5wMVl1ICAg"
+    }
   },
   {
     "id": "330430",
@@ -125,7 +212,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5476816,
+      "longitude": 3.3723427,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549060779892722,
+          "lng": 3.373740279892723
+        },
+        "southwest": {
+          "lat": 6.546361120107278,
+          "lng": 3.371040620107278
+        }
+      },
+      "formatted_address": "G9XC+3WG, Obanikoro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5476816,3.3723427",
+      "google_place_id": "ChIJ_9cy65iNOxARWpo1nZ4DkAE"
+    }
   },
   {
     "id": "330431",
@@ -141,7 +245,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5497245,
+      "longitude": 3.3729045,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5571779,
+          "lng": 3.3808165
+        },
+        "southwest": {
+          "lat": 6.5411933,
+          "lng": 3.3677182
+        }
+      },
+      "formatted_address": "Gbagada Phase I Obanikoro/Pedro, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5497245,3.3729045",
+      "google_place_id": "ChIJtcsbzZ6NOxAR_FZIJM11iOc"
+    }
   },
   {
     "id": "330432",
@@ -157,7 +278,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5497245,
+      "longitude": 3.3729045,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5571779,
+          "lng": 3.3808165
+        },
+        "southwest": {
+          "lat": 6.5411933,
+          "lng": 3.3677182
+        }
+      },
+      "formatted_address": "Gbagada Phase I Obanikoro/Pedro, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5497245,3.3729045",
+      "google_place_id": "ChIJtcsbzZ6NOxAR_FZIJM11iOc"
+    }
   },
   {
     "id": "330433",
@@ -173,7 +311,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330434",
@@ -189,7 +328,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330435",
@@ -205,7 +345,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5482312,
+      "longitude": 3.3882451,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549571429892722,
+          "lng": 3.389515479892722
+        },
+        "southwest": {
+          "lat": 6.546871770107278,
+          "lng": 3.386815820107278
+        }
+      },
+      "formatted_address": "G9XQ+77X, Chief Sunday Ogunyane Street, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5482312,3.3882451",
+      "google_place_id": "ChIJIwflYXKNOxARfEZsI5YF8lE"
+    }
   },
   {
     "id": "330436",
@@ -221,7 +378,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.542966,
+      "longitude": 3.3710252,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544315829892722,
+          "lng": 3.372375029892722
+        },
+        "southwest": {
+          "lat": 6.541616170107278,
+          "lng": 3.369675370107278
+        }
+      },
+      "formatted_address": "Bolaji Omupo St & Layi Otegbade St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.542966,3.3710252",
+      "google_place_id": "EkFCb2xhamkgT211cG8gU3QgJiBMYXlpIE90ZWdiYWRlIFN0LCBTb21vbHUgMTAyMjE2LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCY-ypB2jjTsQEcuK_GnYvVYLEhQKEgmPsqQdo407EBHLivxp2L1WCxoUChIJO64G76KNOxARQDSui4wV5QEaFAoSCc1IhaqjjTsQEbUINxzdcJSAIgoNnGDmAxWsYAIC"
+    }
   },
   {
     "id": "330437",
@@ -237,7 +411,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330438",
@@ -253,7 +428,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330439",
@@ -269,7 +445,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330440",
@@ -285,7 +462,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.543641399999999,
+      "longitude": 3.3752799,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544991229892722,
+          "lng": 3.376629729892722
+        },
+        "southwest": {
+          "lat": 6.542291570107278,
+          "lng": 3.373930070107277
+        }
+      },
+      "formatted_address": "Adebayo St & Adaranijo St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.543641399999999,3.3752799",
+      "google_place_id": "EjhBZGViYXlvIFN0ICYgQWRhcmFuaWpvIFN0LCBTb21vbHUgMTAyMjE2LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCdUXTJihjTsQEesgITzqoRzkEhQKEgnVF0yYoY07EBHrICE86qEc5BoUChIJRRlfdqGNOxARUnWt1EFhfYUaFAoSCfXK9o-hjTsQERWTLfJlRyJWIgoN_nrmAxXfBgMC"
+    }
   },
   {
     "id": "330441",
@@ -301,7 +495,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5444413,
+      "longitude": 3.3748065,
+      "viewport": {
+        "northeast": {
+          "lat": 6.545791129892723,
+          "lng": 3.376156329892722
+        },
+        "southwest": {
+          "lat": 6.543091470107279,
+          "lng": 3.373456670107278
+        }
+      },
+      "formatted_address": "Feyisara St, Pedro 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5444413,3.3748065",
+      "google_place_id": "ChIJya7WjKGNOxARvX2h8MLDXio"
+    }
   },
   {
     "id": "330442",
@@ -317,7 +528,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544903199999999,
+      "longitude": 3.3765573,
+      "viewport": {
+        "northeast": {
+          "lat": 6.546319079892722,
+          "lng": 3.377908729892723
+        },
+        "southwest": {
+          "lat": 6.543619420107278,
+          "lng": 3.375209070107278
+        }
+      },
+      "formatted_address": "301 Bawala St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544903199999999,3.3765573",
+      "google_place_id": "ChIJw4X5xKGNOxARKNbLXUywzXY"
+    }
   },
   {
     "id": "330443",
@@ -333,7 +561,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544903199999999,
+      "longitude": 3.3765573,
+      "viewport": {
+        "northeast": {
+          "lat": 6.546319079892722,
+          "lng": 3.377908729892723
+        },
+        "southwest": {
+          "lat": 6.543619420107278,
+          "lng": 3.375209070107278
+        }
+      },
+      "formatted_address": "301 Bawala St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544903199999999,3.3765573",
+      "google_place_id": "ChIJw4X5xKGNOxARKNbLXUywzXY"
+    }
   },
   {
     "id": "330444",
@@ -349,7 +594,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330445",
@@ -365,7 +611,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556409299999999,
+      "longitude": 3.3692035,
+      "viewport": {
+        "northeast": {
+          "lat": 6.557872579892722,
+          "lng": 3.370657329892722
+        },
+        "southwest": {
+          "lat": 6.555172920107278,
+          "lng": 3.367957670107277
+        }
+      },
+      "formatted_address": "2/10, Olujobi Cresent, off Olatunde Ayoola, Anthony, Somolu 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556409299999999,3.3692035",
+      "google_place_id": "ChIJl2ueivmNOxARqKzV-on_6W8"
+    }
   },
   {
     "id": "330446",
@@ -381,7 +644,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5465262,
+      "longitude": 3.3750114,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547784129892722,
+          "lng": 3.376362179892722
+        },
+        "southwest": {
+          "lat": 6.545084470107278,
+          "lng": 3.373662520107278
+        }
+      },
+      "formatted_address": "14 Ogunmefun St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5465262,3.3750114",
+      "google_place_id": "ChIJ1av0RJ-NOxAR7xlYCrTiHF0"
+    }
   },
   {
     "id": "330447",
@@ -397,7 +677,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330448",
@@ -413,7 +694,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330449",
@@ -429,7 +711,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5472437,
+      "longitude": 3.3770871,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548581679892722,
+          "lng": 3.378455029892722
+        },
+        "southwest": {
+          "lat": 6.545882020107278,
+          "lng": 3.375755370107278
+        }
+      },
+      "formatted_address": "Lanre Awolokun St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5472437,3.3770871",
+      "google_place_id": "ChIJAwRC1p-NOxARnrWVZCzr5oc"
+    }
   },
   {
     "id": "330450",
@@ -445,7 +744,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330451",
@@ -461,7 +761,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5472437,
+      "longitude": 3.3770871,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548581679892722,
+          "lng": 3.378455029892722
+        },
+        "southwest": {
+          "lat": 6.545882020107278,
+          "lng": 3.375755370107278
+        }
+      },
+      "formatted_address": "Lanre Awolokun St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5472437,3.3770871",
+      "google_place_id": "ChIJAwRC1p-NOxARnrWVZCzr5oc"
+    }
   },
   {
     "id": "330452",
@@ -477,7 +794,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330453",
@@ -493,7 +811,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5471236,
+      "longitude": 3.3831866,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548564629892721,
+          "lng": 3.384543029892722
+        },
+        "southwest": {
+          "lat": 6.545864970107277,
+          "lng": 3.381843370107277
+        }
+      },
+      "formatted_address": "14 Lanre Awolokun St, Bariga 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5471236,3.3831866",
+      "google_place_id": "ChIJw7piG3WNOxARwLGqIuJSjI4"
+    }
   },
   {
     "id": "330454",
@@ -509,7 +844,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5482312,
+      "longitude": 3.3882451,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549571429892722,
+          "lng": 3.389515479892722
+        },
+        "southwest": {
+          "lat": 6.546871770107278,
+          "lng": 3.386815820107278
+        }
+      },
+      "formatted_address": "G9XQ+77X, Chief Sunday Ogunyane Street, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5482312,3.3882451",
+      "google_place_id": "ChIJIwflYXKNOxARfEZsI5YF8lE"
+    }
   },
   {
     "id": "330455",
@@ -525,7 +877,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5482312,
+      "longitude": 3.3882451,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549571429892722,
+          "lng": 3.389515479892722
+        },
+        "southwest": {
+          "lat": 6.546871770107278,
+          "lng": 3.386815820107278
+        }
+      },
+      "formatted_address": "G9XQ+77X, Chief Sunday Ogunyane Street, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5482312,3.3882451",
+      "google_place_id": "ChIJIwflYXKNOxARfEZsI5YF8lE"
+    }
   },
   {
     "id": "330456",
@@ -541,7 +910,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5472437,
+      "longitude": 3.3770871,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548581679892722,
+          "lng": 3.378455029892722
+        },
+        "southwest": {
+          "lat": 6.545882020107278,
+          "lng": 3.375755370107278
+        }
+      },
+      "formatted_address": "Lanre Awolokun St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5472437,3.3770871",
+      "google_place_id": "ChIJAwRC1p-NOxARnrWVZCzr5oc"
+    }
   },
   {
     "id": "330457",
@@ -557,7 +943,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.545405799999999,
+      "longitude": 3.3978527,
+      "viewport": {
+        "northeast": {
+          "lat": 6.546761779892721,
+          "lng": 3.399215879892722
+        },
+        "southwest": {
+          "lat": 6.544062120107277,
+          "lng": 3.396516220107277
+        }
+      },
+      "formatted_address": "5, Ekimogun street, Ashimowu St, Gbagada 234001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.545405799999999,3.3978527",
+      "google_place_id": "ChIJ33uD-ziNOxARaPccGlVOu_o"
+    }
   },
   {
     "id": "330458",
@@ -573,7 +976,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5436366,
+      "longitude": 3.3762328,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544929679892721,
+          "lng": 3.377574929892722
+        },
+        "southwest": {
+          "lat": 6.542230020107278,
+          "lng": 3.374875270107277
+        }
+      },
+      "formatted_address": "5 Bankole St, Somolu 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5436366,3.3762328",
+      "google_place_id": "ChIJ4U6jrqGNOxARIqWmzeTE7qk"
+    }
   },
   {
     "id": "330459",
@@ -589,7 +1009,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330460",
@@ -605,7 +1026,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5469073,
+      "longitude": 3.3857639,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548402579892721,
+          "lng": 3.387128629892722
+        },
+        "southwest": {
+          "lat": 6.545702920107277,
+          "lng": 3.384428970107277
+        }
+      },
+      "formatted_address": "36 Lanre Awolokun Street, by Charley Boy Bustop, Gbagada, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5469073,3.3857639",
+      "google_place_id": "ChIJxwGpnY2NOxARGJIWwq5oO7Y"
+    }
   },
   {
     "id": "330461",
@@ -621,7 +1059,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330462",
@@ -637,7 +1076,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330463",
@@ -653,7 +1093,8 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330464",
@@ -669,7 +1110,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5497245,
+      "longitude": 3.3729045,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5571779,
+          "lng": 3.3808165
+        },
+        "southwest": {
+          "lat": 6.5411933,
+          "lng": 3.3677182
+        }
+      },
+      "formatted_address": "Gbagada Phase I Obanikoro/Pedro, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5497245,3.3729045",
+      "google_place_id": "ChIJtcsbzZ6NOxAR_FZIJM11iOc"
+    }
   },
   {
     "id": "330465",
@@ -685,7 +1143,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5481853,
+      "longitude": 3.3721612,
+      "viewport": {
+        "northeast": {
+          "lat": 6.549535129892722,
+          "lng": 3.373511029892723
+        },
+        "southwest": {
+          "lat": 6.546835470107278,
+          "lng": 3.370811370107278
+        }
+      },
+      "formatted_address": "Ebinpejo St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5481853,3.3721612",
+      "google_place_id": "ChIJXb2CuZmNOxARu8gXj03qeOc"
+    }
   },
   {
     "id": "330466",
@@ -701,7 +1176,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.550494899999999,
+      "longitude": 3.3755255,
+      "viewport": {
+        "northeast": {
+          "lat": 6.55184472989272,
+          "lng": 3.376875329892722
+        },
+        "southwest": {
+          "lat": 6.549145070107277,
+          "lng": 3.374175670107277
+        }
+      },
+      "formatted_address": "Fola Jinadu Cres & Oguntona Cresent, Obanikoro 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.550494899999999,3.3755255",
+      "google_place_id": "EkVGb2xhIEppbmFkdSBDcmVzICYgT2d1bnRvbmEgQ3Jlc2VudCwgT2Jhbmlrb3JvIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgmPAo2ino07EBFrZGoHIvkz4xIUChIJjwKNop6NOxARa2RqByL5M-MaFAoSCcdvv_eejTsQEfWpUdcHbSLgGhQKEgljItv6no07EBEjR-93wWBajyIKDbWG5wMVdxADAg"
+    }
   },
   {
     "id": "330467",
@@ -717,7 +1209,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.547174399999999,
+      "longitude": 3.374234,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548643079892721,
+          "lng": 3.375488229892722
+        },
+        "southwest": {
+          "lat": 6.545943420107277,
+          "lng": 3.372788570107277
+        }
+      },
+      "formatted_address": "L46, Adaranijo Market, Bariga, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.547174399999999,3.374234",
+      "google_place_id": "ChIJi5HaMJ-NOxARmv6a5cUHJv8"
+    }
   },
   {
     "id": "330468",
@@ -733,7 +1242,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5422291,
+      "longitude": 3.3750217,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544905050000052,
+          "lng": 3.376370229892722
+        },
+        "southwest": {
+          "lat": 6.539850449999947,
+          "lng": 3.373670570107278
+        }
+      },
+      "formatted_address": "Adebayo St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5422291,3.3750217",
+      "google_place_id": "EilBZGViYXlvIFN0LCBTb21vbHUgMTAyMjE2LCBMYWdvcywgTmlnZXJpYSIuKiwKFAoSCUUZX3ahjTsQEVJ1rdRBYX2FEhQKEgm1yxvNno07EBH8VkgkzXWI5w"
+    }
   },
   {
     "id": "330469",
@@ -749,7 +1275,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5475365,
+      "longitude": 3.3786392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548974579892722,
+          "lng": 3.379849229892722
+        },
+        "southwest": {
+          "lat": 6.546274920107277,
+          "lng": 3.377149570107278
+        }
+      },
+      "formatted_address": "G9XH+2F6, Ajidagan St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5475365,3.3786392",
+      "google_place_id": "ChIJt8He2p-NOxARtUUvLrPIzZc"
+    }
   },
   {
     "id": "330470",
@@ -765,7 +1308,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.544820499999999,
+      "longitude": 3.3784677,
+      "viewport": {
+        "northeast": {
+          "lat": 6.546170329892721,
+          "lng": 3.379817529892723
+        },
+        "southwest": {
+          "lat": 6.543470670107277,
+          "lng": 3.377117870107278
+        }
+      },
+      "formatted_address": "Alfa Sanni St, Pedro 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.544820499999999,3.3784677",
+      "google_place_id": "ChIJI5cmEaCNOxAR9iwZRr7KEwI"
+    }
   },
   {
     "id": "330471",
@@ -781,7 +1341,24 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5497245,
+      "longitude": 3.3729045,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5571779,
+          "lng": 3.3808165
+        },
+        "southwest": {
+          "lat": 6.5411933,
+          "lng": 3.3677182
+        }
+      },
+      "formatted_address": "Gbagada Phase I Obanikoro/Pedro, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5497245,3.3729045",
+      "google_place_id": "ChIJtcsbzZ6NOxAR_FZIJM11iOc"
+    }
   },
   {
     "id": "330472",
@@ -797,6 +1374,23 @@
     "local_government_id": "524",
     "local_government_name": "SOMOLU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5428036,
+      "longitude": 3.3766828,
+      "viewport": {
+        "northeast": {
+          "lat": 6.544153429892722,
+          "lng": 3.378032629892722
+        },
+        "southwest": {
+          "lat": 6.541453770107278,
+          "lng": 3.375332970107278
+        }
+      },
+      "formatted_address": "Mutairu St & Soji Oshodi St, Somolu 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5428036,3.3766828",
+      "google_place_id": "EjpNdXRhaXJ1IFN0ICYgU29qaSBPc2hvZGkgU3QsIFNvbW9sdSAxMDIyMTYsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJ-wBtAaGNOxARFrmGg2KJIH4SFAoSCfsAbQGhjTsQERa5hoNiiSB-GhQKEglHkNX9oI07EBECnxkmcWnDaxoUChIJQV-4AaGNOxARvCwXilIUl_0iCg1EWuYDFaw9AwI"
+    }
   }
 ]

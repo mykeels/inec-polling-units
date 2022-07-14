@@ -13,7 +13,8 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "122520",
@@ -29,7 +30,8 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "122521",
@@ -45,7 +47,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.557566500000001,
+      "longitude": 3.3653446,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558840779892721,
+          "lng": 3.366777879892723
+        },
+        "southwest": {
+          "lat": 6.556141120107277,
+          "lng": 3.364078220107278
+        }
+      },
+      "formatted_address": "2 Town Planning Way, Ilupeju 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.557566500000001,3.3653446",
+      "google_place_id": "ChIJaRUohkiNOxARzLjhzq58K0I"
+    }
   },
   {
     "id": "122522",
@@ -61,7 +80,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4973714,
+      "longitude": 3.1255267,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498686829892721,
+          "lng": 3.126878079892722
+        },
+        "southwest": {
+          "lat": 6.495987170107277,
+          "lng": 3.124178420107277
+        }
+      },
+      "formatted_address": "STATION BUS STOP, 9 Owoseni St, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4973714,3.1255267",
+      "google_place_id": "ChIJdTy40u6DOxARP0rHg0MjWt4"
+    }
   },
   {
     "id": "122523",
@@ -77,7 +113,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5074972,
+      "longitude": 3.2028126,
+      "viewport": {
+        "northeast": {
+          "lat": 6.508850279892722,
+          "lng": 3.204163879892723
+        },
+        "southwest": {
+          "lat": 6.506150620107278,
+          "lng": 3.201464220107278
+        }
+      },
+      "formatted_address": "NO 5 OLOKUN CLOSE PROGRESS ESTATE OFF IBA JUNCTION ALONG LASU, Isheri Rd, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5074972,3.2028126",
+      "google_place_id": "ChIJVzYKGfyHOxAROfH3_TDjNVk"
+    }
   },
   {
     "id": "122524",
@@ -93,7 +146,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122525",
@@ -109,7 +179,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.471296499999999,
+      "longitude": 3.3125564,
+      "viewport": {
+        "northeast": {
+          "lat": 6.472668129892722,
+          "lng": 3.313904479892722
+        },
+        "southwest": {
+          "lat": 6.469968470107278,
+          "lng": 3.311204820107278
+        }
+      },
+      "formatted_address": "Apple, GoldMoore Plaza, Apple Junction, Junction 102102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.471296499999999,3.3125564",
+      "google_place_id": "ChIJkxL5NfeJOxARzVbdNJK_V8E"
+    }
   },
   {
     "id": "122526",
@@ -125,7 +212,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4952301,
+      "longitude": 3.133315,
+      "viewport": {
+        "northeast": {
+          "lat": 6.496558829892722,
+          "lng": 3.134548279892722
+        },
+        "southwest": {
+          "lat": 6.493859170107278,
+          "lng": 3.131848620107278
+        }
+      },
+      "formatted_address": "Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4952301,3.133315",
+      "google_place_id": "ChIJvaFEGDKCOxAR-bXXDlaVmY8"
+    }
   },
   {
     "id": "122527",
@@ -141,7 +245,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122528",
@@ -157,7 +278,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.497570199999999,
+      "longitude": 3.118559,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498918479892722,
+          "lng": 3.119843929892722
+        },
+        "southwest": {
+          "lat": 6.496218820107278,
+          "lng": 3.117144270107278
+        }
+      },
+      "formatted_address": "111 Lagos - Badagry Expy, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.497570199999999,3.118559",
+      "google_place_id": "ChIJcWXVkD2COxARL609TohANwo"
+    }
   },
   {
     "id": "122529",
@@ -173,7 +311,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "F4QV+C4W, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJdRQrK_6DOxARTTHU4Y8qppk"
+    }
   },
   {
     "id": "122530",
@@ -189,7 +344,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "F4QV+C4W, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJdRQrK_6DOxARTTHU4Y8qppk"
+    }
   },
   {
     "id": "122531",
@@ -205,7 +377,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5396036,
+      "longitude": 3.2843757,
+      "viewport": {
+        "northeast": {
+          "lat": 6.540959029892722,
+          "lng": 3.285719279892722
+        },
+        "southwest": {
+          "lat": 6.538259370107278,
+          "lng": 3.283019620107278
+        }
+      },
+      "formatted_address": "Ikotun - Idimu Rd, Oshodi-Isolo 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5396036,3.2843757",
+      "google_place_id": "ChIJc244k7uPOxARNjUUlL5jZrc"
+    }
   },
   {
     "id": "122532",
@@ -221,7 +410,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5396036,
+      "longitude": 3.2843757,
+      "viewport": {
+        "northeast": {
+          "lat": 6.540959029892722,
+          "lng": 3.285719279892722
+        },
+        "southwest": {
+          "lat": 6.538259370107278,
+          "lng": 3.283019620107278
+        }
+      },
+      "formatted_address": "Ikotun - Idimu Rd, Oshodi-Isolo 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5396036,3.2843757",
+      "google_place_id": "ChIJc244k7uPOxARNjUUlL5jZrc"
+    }
   },
   {
     "id": "122533",
@@ -237,7 +443,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5001319,
+      "longitude": 3.1108612,
+      "viewport": {
+        "northeast": {
+          "lat": 6.501383629892723,
+          "lng": 3.112124729892722
+        },
+        "southwest": {
+          "lat": 6.498683970107279,
+          "lng": 3.109425070107278
+        }
+      },
+      "formatted_address": "Staff Club Mami Market,AOCOED,Oto/Ijanikin,Lagos, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5001319,3.1108612",
+      "google_place_id": "ChIJeytV5xOCOxARviqrSoRyuHk"
+    }
   },
   {
     "id": "122534",
@@ -253,7 +476,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "F4QV+C4W, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJdRQrK_6DOxARTTHU4Y8qppk"
+    }
   },
   {
     "id": "122535",
@@ -269,7 +509,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.488620999999999,
+      "longitude": 3.1428341,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5073298,
+          "lng": 3.1707955
+        },
+        "southwest": {
+          "lat": 6.4699798,
+          "lng": 3.1039462
+        }
+      },
+      "formatted_address": "Ijanikin, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.488620999999999,3.1428341",
+      "google_place_id": "ChIJJx7WqSyCOxAR5_8FjGzkg2Q"
+    }
   },
   {
     "id": "122536",
@@ -285,7 +542,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4973714,
+      "longitude": 3.1255267,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498686829892721,
+          "lng": 3.126878079892722
+        },
+        "southwest": {
+          "lat": 6.495987170107277,
+          "lng": 3.124178420107277
+        }
+      },
+      "formatted_address": "STATION BUS STOP, 9 Owoseni St, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4973714,3.1255267",
+      "google_place_id": "ChIJdTy40u6DOxARP0rHg0MjWt4"
+    }
   },
   {
     "id": "122537",
@@ -301,7 +575,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.497955,
+      "longitude": 3.1327452,
+      "viewport": {
+        "northeast": {
+          "lat": 6.499403879892722,
+          "lng": 3.134090829892722
+        },
+        "southwest": {
+          "lat": 6.496704220107278,
+          "lng": 3.131391170107277
+        }
+      },
+      "formatted_address": "4 Folajimi Blessing St, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.497955,3.1327452",
+      "google_place_id": "EjI0IEZvbGFqaW1pIEJsZXNzaW5nIFN0LCBPam8gMTAyMTAxLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCVFd9kIxgjsQEds7z0VjiSj3EAQqFAoSCWkbKuEzgjsQEZ1E-OujFXqP"
+    }
   },
   {
     "id": "122538",
@@ -317,7 +608,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.490799699999999,
+      "longitude": 3.1571835,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492108529892722,
+          "lng": 3.158601079892723
+        },
+        "southwest": {
+          "lat": 6.489408870107278,
+          "lng": 3.155901420107278
+        }
+      },
+      "formatted_address": "F5R4+8V8, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.490799699999999,3.1571835",
+      "google_place_id": "ChIJE75em92DOxARJdTeXDou1wM"
+    }
   },
   {
     "id": "122539",
@@ -333,7 +641,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4895252,
+      "longitude": 3.1408667,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490880579892723,
+          "lng": 3.142248879892722
+        },
+        "southwest": {
+          "lat": 6.488180920107279,
+          "lng": 3.139549220107278
+        }
+      },
+      "formatted_address": "F4QR+R89, Iyana Era Rd, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4895252,3.1408667",
+      "google_place_id": "ChIJFWP0QoWDOxARxWO3Z_FTrN4"
+    }
   },
   {
     "id": "122540",
@@ -349,7 +674,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.497176,
+      "longitude": 3.1247975,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498542679892722,
+          "lng": 3.126145229892722
+        },
+        "southwest": {
+          "lat": 6.495843020107278,
+          "lng": 3.123445570107278
+        }
+      },
+      "formatted_address": "2 Araromi St, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.497176,3.1247975",
+      "google_place_id": "ChIJlc0DrzuCOxARUmVgqtCPOWk"
+    }
   },
   {
     "id": "122541",
@@ -365,7 +707,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "F4QV+C4W, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJdRQrK_6DOxARTTHU4Y8qppk"
+    }
   },
   {
     "id": "122542",
@@ -381,7 +740,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "4 Gbagidi close, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJW6QrOVKDOxARNTaBLmNF2kc"
+    }
   },
   {
     "id": "122543",
@@ -397,7 +773,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "4 Gbagidi close, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJW6QrOVKDOxARNTaBLmNF2kc"
+    }
   },
   {
     "id": "122544",
@@ -413,7 +806,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122545",
@@ -429,7 +839,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4974341,
+      "longitude": 3.1654161,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498783879892722,
+          "lng": 3.166767329892722
+        },
+        "southwest": {
+          "lat": 6.496084220107278,
+          "lng": 3.164067670107278
+        }
+      },
+      "formatted_address": "10 Ayajo Tayo St, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4974341,3.1654161",
+      "google_place_id": "ChIJs-_95bGDOxARv0XJHAFXrUA"
+    }
   },
   {
     "id": "122546",
@@ -445,7 +872,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4586178,
+      "longitude": 3.2198196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.459925729892722,
+          "lng": 3.221174929892722
+        },
+        "southwest": {
+          "lat": 6.457226070107278,
+          "lng": 3.218475270107278
+        }
+      },
+      "formatted_address": "No 2 olugbemi street Ojo agric by agric bus stop Lagos state, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4586178,3.2198196",
+      "google_place_id": "ChIJjYAmRD-HOxARjzXVBZEvSxw"
+    }
   },
   {
     "id": "122547",
@@ -461,7 +905,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122548",
@@ -477,7 +938,8 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "122549",
@@ -493,7 +955,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4967706,
+      "longitude": 3.1229002,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498120429892722,
+          "lng": 3.124250029892722
+        },
+        "southwest": {
+          "lat": 6.495420770107278,
+          "lng": 3.121550370107278
+        }
+      },
+      "formatted_address": "Owode St, Ojo 102101, Alasia, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4967706,3.1229002",
+      "google_place_id": "ChIJg9fsnDuCOxAR3o14uLnV2vY"
+    }
   },
   {
     "id": "122550",
@@ -509,7 +988,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.497264899999999,
+      "longitude": 3.1225185,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498616229892721,
+          "lng": 3.123846029892722
+        },
+        "southwest": {
+          "lat": 6.495916570107277,
+          "lng": 3.121146370107278
+        }
+      },
+      "formatted_address": "F4WF+W23, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.497264899999999,3.1225185",
+      "google_place_id": "ChIJjyD6xsSDOxARTWGxZd4bNXI"
+    }
   },
   {
     "id": "122551",
@@ -525,7 +1021,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122552",
@@ -541,7 +1054,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4970982,
+      "longitude": 3.1202018,
+      "viewport": {
+        "northeast": {
+          "lat": 6.498427179892722,
+          "lng": 3.121560579892722
+        },
+        "southwest": {
+          "lat": 6.495727520107278,
+          "lng": 3.118860920107278
+        }
+      },
+      "formatted_address": "Palace Road, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4970982,3.1202018",
+      "google_place_id": "ChIJz0lRO-mDOxARmSpnZndmXQo"
+    }
   },
   {
     "id": "122553",
@@ -557,7 +1087,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4932902,
+      "longitude": 3.1511577,
+      "viewport": {
+        "northeast": {
+          "lat": 6.494663779892722,
+          "lng": 3.152512829892723
+        },
+        "southwest": {
+          "lat": 6.491964120107278,
+          "lng": 3.149813170107278
+        }
+      },
+      "formatted_address": "Lagos - Badagry Expy, Along 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4932902,3.1511577",
+      "google_place_id": "ChIJKSQntNqDOxARowpxJPhlYu8"
+    }
   },
   {
     "id": "122554",
@@ -573,7 +1120,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5001319,
+      "longitude": 3.1108612,
+      "viewport": {
+        "northeast": {
+          "lat": 6.501383629892723,
+          "lng": 3.112124729892722
+        },
+        "southwest": {
+          "lat": 6.498683970107279,
+          "lng": 3.109425070107278
+        }
+      },
+      "formatted_address": "Staff Club Mami Market,AOCOED,Oto/Ijanikin,Lagos, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5001319,3.1108612",
+      "google_place_id": "ChIJeytV5xOCOxARviqrSoRyuHk"
+    }
   },
   {
     "id": "122555",
@@ -589,7 +1153,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5001319,
+      "longitude": 3.1108612,
+      "viewport": {
+        "northeast": {
+          "lat": 6.501383629892723,
+          "lng": 3.112124729892722
+        },
+        "southwest": {
+          "lat": 6.498683970107279,
+          "lng": 3.109425070107278
+        }
+      },
+      "formatted_address": "Staff Club Mami Market,AOCOED,Oto/Ijanikin,Lagos, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5001319,3.1108612",
+      "google_place_id": "ChIJeytV5xOCOxARviqrSoRyuHk"
+    }
   },
   {
     "id": "122556",
@@ -605,7 +1186,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122557",
@@ -621,7 +1219,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.487717000000001,
+      "longitude": 3.126307,
+      "viewport": {
+        "northeast": {
+          "lat": 6.488803879892721,
+          "lng": 3.127656829892722
+        },
+        "southwest": {
+          "lat": 6.486104220107277,
+          "lng": 3.124957170107277
+        }
+      },
+      "formatted_address": "Era 102004, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.487717000000001,3.126307",
+      "google_place_id": "ChIJ7dxfVl-BOxARHLGKre7u3Qo"
+    }
   },
   {
     "id": "122558",
@@ -637,7 +1252,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4932902,
+      "longitude": 3.1511577,
+      "viewport": {
+        "northeast": {
+          "lat": 6.494663779892722,
+          "lng": 3.152512829892723
+        },
+        "southwest": {
+          "lat": 6.491964120107278,
+          "lng": 3.149813170107278
+        }
+      },
+      "formatted_address": "Lagos - Badagry Expy, Along 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4932902,3.1511577",
+      "google_place_id": "ChIJKSQntNqDOxARowpxJPhlYu8"
+    }
   },
   {
     "id": "122559",
@@ -653,7 +1285,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4886972,
+      "longitude": 3.1428392,
+      "viewport": {
+        "northeast": {
+          "lat": 6.490101629892722,
+          "lng": 3.144149729892722
+        },
+        "southwest": {
+          "lat": 6.487401970107278,
+          "lng": 3.141450070107278
+        }
+      },
+      "formatted_address": "4 Gbagidi close, Ojo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4886972,3.1428392",
+      "google_place_id": "ChIJW6QrOVKDOxARNTaBLmNF2kc"
+    }
   },
   {
     "id": "122560",
@@ -669,7 +1318,24 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.490799699999999,
+      "longitude": 3.1571835,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492108529892722,
+          "lng": 3.158601079892723
+        },
+        "southwest": {
+          "lat": 6.489408870107278,
+          "lng": 3.155901420107278
+        }
+      },
+      "formatted_address": "F5R4+8V8, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.490799699999999,3.1571835",
+      "google_place_id": "ChIJE75em92DOxARJdTeXDou1wM"
+    }
   },
   {
     "id": "122561",
@@ -685,6 +1351,23 @@
     "local_government_id": "522",
     "local_government_name": "OJO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.490799699999999,
+      "longitude": 3.1571835,
+      "viewport": {
+        "northeast": {
+          "lat": 6.492108529892722,
+          "lng": 3.158601079892723
+        },
+        "southwest": {
+          "lat": 6.489408870107278,
+          "lng": 3.155901420107278
+        }
+      },
+      "formatted_address": "F5R4+8V8, Ojo 102101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.490799699999999,3.1571835",
+      "google_place_id": "ChIJE75em92DOxARJdTeXDou1wM"
+    }
   }
 ]

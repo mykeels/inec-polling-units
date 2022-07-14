@@ -13,7 +13,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5328059,
+      "longitude": 3.3652494,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534210929892723,
+          "lng": 3.366620229892722
+        },
+        "southwest": {
+          "lat": 6.531511270107279,
+          "lng": 3.363920570107278
+        }
+      },
+      "formatted_address": "23 Kayode St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5328059,3.3652494",
+      "google_place_id": "ChIJvZrA3bCNOxARRHkifqsYdvw"
+    }
   },
   {
     "id": "121703",
@@ -29,7 +46,8 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121704",
@@ -45,7 +63,8 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121705",
@@ -61,7 +80,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5288144,
+      "longitude": 3.3638109,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530057379892722,
+          "lng": 3.365200879892722
+        },
+        "southwest": {
+          "lat": 6.527357720107278,
+          "lng": 3.362501220107277
+        }
+      },
+      "formatted_address": "1 Adesina St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5288144,3.3638109",
+      "google_place_id": "EisxIEFkZXNpbmEgU3QsIEZhZGV5aSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJxd7oDLSNOxARX_PmJgc69MYQASoUChIJTX0S8bONOxARdBA1PsBygqk"
+    }
   },
   {
     "id": "121706",
@@ -77,7 +113,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5314124,
+      "longitude": 3.3634019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532739329892721,
+          "lng": 3.364714779892723
+        },
+        "southwest": {
+          "lat": 6.530039670107278,
+          "lng": 3.362015120107278
+        }
+      },
+      "formatted_address": "G9J7+H96, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5314124,3.3634019",
+      "google_place_id": "ChIJx-tlxraNOxARbZaebDvdfjU"
+    }
   },
   {
     "id": "121707",
@@ -93,7 +146,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5314124,
+      "longitude": 3.3634019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532739329892721,
+          "lng": 3.364714779892723
+        },
+        "southwest": {
+          "lat": 6.530039670107278,
+          "lng": 3.362015120107278
+        }
+      },
+      "formatted_address": "G9J7+H96, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5314124,3.3634019",
+      "google_place_id": "ChIJx-tlxraNOxARbZaebDvdfjU"
+    }
   },
   {
     "id": "121708",
@@ -109,7 +179,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.526677599999999,
+      "longitude": 3.3658547,
+      "viewport": {
+        "northeast": {
+          "lat": 6.528077279892722,
+          "lng": 3.367335079892722
+        },
+        "southwest": {
+          "lat": 6.525377620107278,
+          "lng": 3.364635420107277
+        }
+      },
+      "formatted_address": "G9G8+M8H, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.526677599999999,3.3658547",
+      "google_place_id": "ChIJBTNLo7ONOxAR1Ffxuv72gXI"
+    }
   },
   {
     "id": "121709",
@@ -125,7 +212,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.529853399999999,
+      "longitude": 3.3658153,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531222329892723,
+          "lng": 3.367154079892722
+        },
+        "southwest": {
+          "lat": 6.528522670107279,
+          "lng": 3.364454420107277
+        }
+      },
+      "formatted_address": "20 Cole St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.529853399999999,3.3658153",
+      "google_place_id": "ChIJNQliYrGNOxARgGsmXwLLXlY"
+    }
   },
   {
     "id": "121710",
@@ -141,7 +245,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5296598,
+      "longitude": 3.3657476,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531084429892721,
+          "lng": 3.367053229892722
+        },
+        "southwest": {
+          "lat": 6.528384770107277,
+          "lng": 3.364353570107277
+        }
+      },
+      "formatted_address": "16 Cole St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5296598,3.3657476",
+      "google_place_id": "ChIJs4Hn2LONOxARwFyKnlD4bIE"
+    }
   },
   {
     "id": "121711",
@@ -157,7 +278,8 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121712",
@@ -173,7 +295,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.530534599999999,
+      "longitude": 3.3642738,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531844329892722,
+          "lng": 3.365624679892723
+        },
+        "southwest": {
+          "lat": 6.529144670107278,
+          "lng": 3.362925020107278
+        }
+      },
+      "formatted_address": "24 Giwa St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.530534599999999,3.3642738",
+      "google_place_id": "ChIJ8cSaTbGNOxARm9Z8-EyNgpI"
+    }
   },
   {
     "id": "121713",
@@ -189,7 +328,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5305908,
+      "longitude": 3.3645714,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531874329892722,
+          "lng": 3.365921329892723
+        },
+        "southwest": {
+          "lat": 6.529174670107278,
+          "lng": 3.363221670107278
+        }
+      },
+      "formatted_address": "20 Giwa St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5305908,3.3645714",
+      "google_place_id": "EikyMCBHaXdhIFN0LCBGYWRleWkgMTAyMjE1LCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCVG9rVKxjTsQEQ8kHXx2fH89EBQqFAoSCfERN5i2jTsQEYZDQSk1ygK8"
+    }
   },
   {
     "id": "121714",
@@ -205,7 +361,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.530376899999999,
+      "longitude": 3.3637756,
+      "viewport": {
+        "northeast": {
+          "lat": 6.531757229892722,
+          "lng": 3.365124529892722
+        },
+        "southwest": {
+          "lat": 6.529057570107278,
+          "lng": 3.362424870107278
+        }
+      },
+      "formatted_address": "43 Giwa St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.530376899999999,3.3637756",
+      "google_place_id": "ChIJURviq7aNOxAR6Q-KqoOzqOI"
+    }
   },
   {
     "id": "121715",
@@ -221,7 +394,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5318362,
+      "longitude": 3.3648364,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533182979892722,
+          "lng": 3.366277029892722
+        },
+        "southwest": {
+          "lat": 6.530483320107277,
+          "lng": 3.363577370107278
+        }
+      },
+      "formatted_address": "19 Matanmi St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5318362,3.3648364",
+      "google_place_id": "ChIJf-wvJbGNOxAR8gOGe40VEdk"
+    }
   },
   {
     "id": "121716",
@@ -237,7 +427,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5318573,
+      "longitude": 3.3648926,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533206229892722,
+          "lng": 3.366269479892722
+        },
+        "southwest": {
+          "lat": 6.530506570107278,
+          "lng": 3.363569820107278
+        }
+      },
+      "formatted_address": "19 Matanmi St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5318573,3.3648926",
+      "google_place_id": "ChIJ-6kXJLGNOxARrDZTbBhC41Q"
+    }
   },
   {
     "id": "121717",
@@ -253,7 +460,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.528798999999999,
+      "longitude": 3.3638167,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530049679892721,
+          "lng": 3.365203779892722
+        },
+        "southwest": {
+          "lat": 6.527350020107277,
+          "lng": 3.362504120107277
+        }
+      },
+      "formatted_address": "5 Adesina St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.528798999999999,3.3638167",
+      "google_place_id": "ChIJkf3iC7SNOxARC0wrE2n_ZuA"
+    }
   },
   {
     "id": "121718",
@@ -269,7 +493,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5314124,
+      "longitude": 3.3634019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532739329892721,
+          "lng": 3.364714779892723
+        },
+        "southwest": {
+          "lat": 6.530039670107278,
+          "lng": 3.362015120107278
+        }
+      },
+      "formatted_address": "G9J7+H96, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5314124,3.3634019",
+      "google_place_id": "ChIJx-tlxraNOxARbZaebDvdfjU"
+    }
   },
   {
     "id": "121719",
@@ -285,7 +526,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5314124,
+      "longitude": 3.3634019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532739329892721,
+          "lng": 3.364714779892723
+        },
+        "southwest": {
+          "lat": 6.530039670107278,
+          "lng": 3.362015120107278
+        }
+      },
+      "formatted_address": "G9J7+H96, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5314124,3.3634019",
+      "google_place_id": "ChIJx-tlxraNOxARbZaebDvdfjU"
+    }
   },
   {
     "id": "121720",
@@ -301,7 +559,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5314124,
+      "longitude": 3.3634019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532739329892721,
+          "lng": 3.364714779892723
+        },
+        "southwest": {
+          "lat": 6.530039670107278,
+          "lng": 3.362015120107278
+        }
+      },
+      "formatted_address": "G9J7+H96, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5314124,3.3634019",
+      "google_place_id": "ChIJx-tlxraNOxARbZaebDvdfjU"
+    }
   },
   {
     "id": "121721",
@@ -317,7 +592,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5315711,
+      "longitude": 3.3632714,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532920929892722,
+          "lng": 3.364621229892722
+        },
+        "southwest": {
+          "lat": 6.530221270107278,
+          "lng": 3.361921570107278
+        }
+      },
+      "formatted_address": "23 Soetan St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5315711,3.3632714",
+      "google_place_id": "EisyMyBTb2V0YW4gU3QsIEZhZGV5aSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJe_xC0baNOxARxewGuoAg_d4QFyoUChIJQfye7LaNOxART9NWxj8GCH8"
+    }
   },
   {
     "id": "121722",
@@ -333,7 +625,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5319414,
+      "longitude": 3.3630239,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533361529892722,
+          "lng": 3.364327179892722
+        },
+        "southwest": {
+          "lat": 6.530661870107278,
+          "lng": 3.361627520107278
+        }
+      },
+      "formatted_address": "16 Aralowun St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5319414,3.3630239",
+      "google_place_id": "Ei0xNiBBcmFsb3d1biBTdCwgTXVzaGluIDEwMjIxNSwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgm3IRfYto07EBFnmugWBvyaPxAQKhQKEglJc-3Xto07EBHV2RLwptHxSw"
+    }
   },
   {
     "id": "121723",
@@ -349,7 +658,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5322138,
+      "longitude": 3.3634049,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533625829892722,
+          "lng": 3.364713479892723
+        },
+        "southwest": {
+          "lat": 6.530926170107278,
+          "lng": 3.362013820107278
+        }
+      },
+      "formatted_address": "26 Aralowun St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5322138,3.3634049",
+      "google_place_id": "ChIJxU_62baNOxARVkmpANcamPg"
+    }
   },
   {
     "id": "121724",
@@ -365,7 +691,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.533182099999999,
+      "longitude": 3.3643127,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534437629892722,
+          "lng": 3.365697529892722
+        },
+        "southwest": {
+          "lat": 6.531737970107278,
+          "lng": 3.362997870107277
+        }
+      },
+      "formatted_address": "44 Aralowun St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.533182099999999,3.3643127",
+      "google_place_id": "Ei00NCBBcmFsb3d1biBTdCwgTXVzaGluIDEwMjIxNSwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgnFwC3SsI07EBE8kYw0-novzRAsKhQKEglJc-3Xto07EBHV2RLwptHxSw"
+    }
   },
   {
     "id": "121725",
@@ -381,7 +724,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.53206,
+      "longitude": 3.3641,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533385779892722,
+          "lng": 3.365485379892722
+        },
+        "southwest": {
+          "lat": 6.530686120107278,
+          "lng": 3.362785720107277
+        }
+      },
+      "formatted_address": "B/stop, 22 Kayode St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.53206,3.3641",
+      "google_place_id": "ChIJmca1LLGNOxAR-b6Qa4PDdfs"
+    }
   },
   {
     "id": "121726",
@@ -397,7 +757,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.53206,
+      "longitude": 3.3641,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533385779892722,
+          "lng": 3.365485379892722
+        },
+        "southwest": {
+          "lat": 6.530686120107278,
+          "lng": 3.362785720107277
+        }
+      },
+      "formatted_address": "B/stop, 22 Kayode St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.53206,3.3641",
+      "google_place_id": "ChIJmca1LLGNOxAR-b6Qa4PDdfs"
+    }
   },
   {
     "id": "121727",
@@ -413,7 +790,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.530853599999999,
+      "longitude": 3.3659721,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532177079892722,
+          "lng": 3.367270329892722
+        },
+        "southwest": {
+          "lat": 6.529477420107278,
+          "lng": 3.364570670107277
+        }
+      },
+      "formatted_address": "G9J8+89X, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.530853599999999,3.3659721",
+      "google_place_id": "ChIJezgubLGNOxARFvo_hoWPHDQ"
+    }
   },
   {
     "id": "121728",
@@ -429,7 +823,8 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121729",
@@ -445,7 +840,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5333149,
+      "longitude": 3.3625732,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534664729892722,
+          "lng": 3.363923029892722
+        },
+        "southwest": {
+          "lat": 6.531965070107278,
+          "lng": 3.361223370107278
+        }
+      },
+      "formatted_address": "9 Church St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5333149,3.3625732",
+      "google_place_id": "Eis5IENodXJjaCBTdCwgT25pcGFudSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJY63GFreNOxARLwBErOHbCZYQCSoUChIJIxMvE7eNOxARmEMiCb1Fr-s"
+    }
   },
   {
     "id": "121730",
@@ -461,7 +873,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.530945699999999,
+      "longitude": 3.3626623,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532246679892722,
+          "lng": 3.364052529892723
+        },
+        "southwest": {
+          "lat": 6.529547020107278,
+          "lng": 3.361352870107278
+        }
+      },
+      "formatted_address": "38 Kayode St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.530945699999999,3.3626623",
+      "google_place_id": "ChIJMULSlbaNOxAR1i1-Ao4Ro9Q"
+    }
   },
   {
     "id": "121731",
@@ -477,7 +906,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.530945699999999,
+      "longitude": 3.3626623,
+      "viewport": {
+        "northeast": {
+          "lat": 6.532246679892722,
+          "lng": 3.364052529892723
+        },
+        "southwest": {
+          "lat": 6.529547020107278,
+          "lng": 3.361352870107278
+        }
+      },
+      "formatted_address": "38 Kayode St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.530945699999999,3.3626623",
+      "google_place_id": "ChIJMULSlbaNOxAR1i1-Ao4Ro9Q"
+    }
   },
   {
     "id": "121732",
@@ -493,7 +939,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5335613,
+      "longitude": 3.363042,
+      "viewport": {
+        "northeast": {
+          "lat": 6.534911129892722,
+          "lng": 3.364391829892722
+        },
+        "southwest": {
+          "lat": 6.532211470107278,
+          "lng": 3.361692170107277
+        }
+      },
+      "formatted_address": "2 Ajegunle St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5335613,3.363042",
+      "google_place_id": "Ei0yIEFqZWd1bmxlIFN0LCBPbmlwYW51IDEwMjIxNSwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEglfXdI_t407EBGlp-pTJIXMaBACKhQKEgndwfNbt407EBHMBwwIYNt7fg"
+    }
   },
   {
     "id": "121733",
@@ -509,7 +972,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5338058,
+      "longitude": 3.3631351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535155629892722,
+          "lng": 3.364484929892723
+        },
+        "southwest": {
+          "lat": 6.532455970107279,
+          "lng": 3.361785270107279
+        }
+      },
+      "formatted_address": "10 Ajegunle St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5338058,3.3631351",
+      "google_place_id": "Ei4xMCBBamVndW5sZSBTdCwgT25pcGFudSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJX13SP7eNOxARpafqUySFzGgQCioUChIJ3cHzW7eNOxARzAcMCGDbe34"
+    }
   },
   {
     "id": "121734",
@@ -525,7 +1005,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5721012,
+      "longitude": 3.3646304,
+      "viewport": {
+        "northeast": {
+          "lat": 6.573367679892722,
+          "lng": 3.365924879892722
+        },
+        "southwest": {
+          "lat": 6.570668020107278,
+          "lng": 3.363225220107277
+        }
+      },
+      "formatted_address": "10 Ajegunle St, Ilupeju 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5721012,3.3646304",
+      "google_place_id": "ChIJGa1m5kCNOxARIaKL_JCDXs4"
+    }
   },
   {
     "id": "121735",
@@ -541,7 +1038,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5344102,
+      "longitude": 3.3619632,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535760029892722,
+          "lng": 3.363313029892722
+        },
+        "southwest": {
+          "lat": 6.533060370107278,
+          "lng": 3.360613370107278
+        }
+      },
+      "formatted_address": "12 Sosanya St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5344102,3.3619632",
+      "google_place_id": "Ei0xMiBTb3NhbnlhIFN0LCBPbmlwYW51IDEwMjIxNSwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgkByDN0t407EBGzA761VuzZzBAMKhQKEglzDvcLt407EBGHQ8WcbcZnvQ"
+    }
   },
   {
     "id": "121736",
@@ -557,7 +1071,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5343295,
+      "longitude": 3.3619639,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535679329892723,
+          "lng": 3.363313729892722
+        },
+        "southwest": {
+          "lat": 6.532979670107279,
+          "lng": 3.360614070107277
+        }
+      },
+      "formatted_address": "8 Sosanya St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5343295,3.3619639",
+      "google_place_id": "Eiw4IFNvc2FueWEgU3QsIE9uaXBhbnUgMTAyMjE1LCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCQHIM3S3jTsQEbMDvrVW7NnMEAgqFAoSCXMO9wu3jTsQEYdDxZxtxme9"
+    }
   },
   {
     "id": "121737",
@@ -573,7 +1104,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.53412,
+      "longitude": 3.3637233,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535462479892722,
+          "lng": 3.365111379892722
+        },
+        "southwest": {
+          "lat": 6.532762820107278,
+          "lng": 3.362411720107278
+        }
+      },
+      "formatted_address": "10 Karimu St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.53412,3.3637233",
+      "google_place_id": "ChIJKdKnTreNOxARisM_OYLOMY0"
+    }
   },
   {
     "id": "121738",
@@ -589,7 +1137,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5342749,
+      "longitude": 3.3643815,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535624729892723,
+          "lng": 3.365731329892722
+        },
+        "southwest": {
+          "lat": 6.532925070107278,
+          "lng": 3.363031670107278
+        }
+      },
+      "formatted_address": "4 Arikewuyo St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5342749,3.3643815",
+      "google_place_id": "Ei40IEFyaWtld3V5byBTdCwgT25pcGFudSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJ8Ss6S7eNOxARJHT_YKFieeAQBCoUChIJs7BgMreNOxARF2TWPgmqI3c"
+    }
   },
   {
     "id": "121739",
@@ -605,7 +1170,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5342749,
+      "longitude": 3.3643815,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535624729892723,
+          "lng": 3.365731329892722
+        },
+        "southwest": {
+          "lat": 6.532925070107278,
+          "lng": 3.363031670107278
+        }
+      },
+      "formatted_address": "4 Arikewuyo St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5342749,3.3643815",
+      "google_place_id": "Ei40IEFyaWtld3V5byBTdCwgT25pcGFudSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJ8Ss6S7eNOxARJHT_YKFieeAQBCoUChIJs7BgMreNOxARF2TWPgmqI3c"
+    }
   },
   {
     "id": "121740",
@@ -621,7 +1203,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5337144,
+      "longitude": 3.3647383,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535071079892723,
+          "lng": 3.366146179892722
+        },
+        "southwest": {
+          "lat": 6.532371420107279,
+          "lng": 3.363446520107277
+        }
+      },
+      "formatted_address": "13 Majolate St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5337144,3.3647383",
+      "google_place_id": "ChIJQV7nx7CNOxARs3eP3-JSrLI"
+    }
   },
   {
     "id": "121741",
@@ -637,7 +1236,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5361816,
+      "longitude": 3.3658863,
+      "viewport": {
+        "northeast": {
+          "lat": 6.53763102989272,
+          "lng": 3.367231979892722
+        },
+        "southwest": {
+          "lat": 6.534931370107277,
+          "lng": 3.364532320107277
+        }
+      },
+      "formatted_address": "7 Awoyokun St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5361816,3.3658863",
+      "google_place_id": "ChIJf5vEaLqNOxARDzYOJT5Y-_Q"
+    }
   },
   {
     "id": "121742",
@@ -653,7 +1269,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.535043,
+      "longitude": 3.3652355,
+      "viewport": {
+        "northeast": {
+          "lat": 6.536392829892721,
+          "lng": 3.366585329892722
+        },
+        "southwest": {
+          "lat": 6.533693170107277,
+          "lng": 3.363885670107277
+        }
+      },
+      "formatted_address": "15 Owodunni St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.535043,3.3652355",
+      "google_place_id": "Ei4xNSBPd29kdW5uaSBTdCwgT25pcGFudSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJAWDqo7CNOxARP7os6xvDxh0QDyoUChIJJ8r_orCNOxARsR5NWjlDA4w"
+    }
   },
   {
     "id": "121743",
@@ -669,7 +1302,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5056818,
+      "longitude": 3.390009,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506990729892722,
+          "lng": 3.391364579892723
+        },
+        "southwest": {
+          "lat": 6.504291070107278,
+          "lng": 3.388664920107278
+        }
+      },
+      "formatted_address": "15 Owodunni St, Yaba 101212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5056818,3.390009",
+      "google_place_id": "ChIJ246oGuyMOxARmcA8YLw4_mM"
+    }
   },
   {
     "id": "121744",
@@ -685,7 +1335,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.534499299999999,
+      "longitude": 3.3666523,
+      "viewport": {
+        "northeast": {
+          "lat": 6.535849129892721,
+          "lng": 3.368002129892723
+        },
+        "southwest": {
+          "lat": 6.533149470107277,
+          "lng": 3.365302470107278
+        }
+      },
+      "formatted_address": "Bode Thomas Rd & Abe St, Onipanu 102215, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.534499299999999,3.3666523",
+      "google_place_id": "EjdCb2RlIFRob21hcyBSZCAmIEFiZSBTdCwgT25pcGFudSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJ18VliLCNOxARl5E46eig1vMSFAoSCdfFZYiwjTsQEZeROOnooNbzGhQKEgk9ahmru407EBHK3iSHoWTOthoUChIJ6zD6urCNOxARQV86yKt44s8iCg3hFeUDFdu1AQI"
+    }
   },
   {
     "id": "121745",
@@ -701,7 +1368,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.531966,
+      "longitude": 3.365735,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533324729892723,
+          "lng": 3.367098979892723
+        },
+        "southwest": {
+          "lat": 6.530625070107279,
+          "lng": 3.364399320107278
+        }
+      },
+      "formatted_address": "28 Oluwakemi St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.531966,3.365735",
+      "google_place_id": "ChIJEXfKG7GNOxARWzFAPy5iX_0"
+    }
   },
   {
     "id": "121746",
@@ -717,7 +1401,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.532421299999999,
+      "longitude": 3.3651731,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533819979892722,
+          "lng": 3.366580429892722
+        },
+        "southwest": {
+          "lat": 6.531120320107278,
+          "lng": 3.363880770107277
+        }
+      },
+      "formatted_address": "48 Oluwakemi St, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.532421299999999,3.3651731",
+      "google_place_id": "Ei40OCBPbHV3YWtlbWkgU3QsIEZhZGV5aSAxMDIyMTUsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJvW7QEbGNOxARq0BugeGfvSoQMCoUChIJV7UXEbGNOxAROPA-vAdOpXE"
+    }
   },
   {
     "id": "121747",
@@ -733,7 +1434,8 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121748",
@@ -749,7 +1451,8 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "121749",
@@ -765,7 +1468,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5319734,
+      "longitude": 3.3667025,
+      "viewport": {
+        "northeast": {
+          "lat": 6.533275829892721,
+          "lng": 3.367914179892722
+        },
+        "southwest": {
+          "lat": 6.530576170107278,
+          "lng": 3.365214520107277
+        }
+      },
+      "formatted_address": "12 Oyegbola Street, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5319734,3.3667025",
+      "google_place_id": "ChIJz1WzqbGNOxARG34ZTH6Yt5g"
+    }
   },
   {
     "id": "121750",
@@ -781,7 +1501,24 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.529230099999999,
+      "longitude": 3.3672196,
+      "viewport": {
+        "northeast": {
+          "lat": 6.530584129892723,
+          "lng": 3.368595029892723
+        },
+        "southwest": {
+          "lat": 6.527884470107279,
+          "lng": 3.365895370107278
+        }
+      },
+      "formatted_address": "Ikorodu-Ososun Rd, Fadeyi 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.529230099999999,3.3672196",
+      "google_place_id": "ChIJ6ZaFr7GNOxARPTKEDyUv3ko"
+    }
   },
   {
     "id": "121751",
@@ -797,6 +1534,23 @@
     "local_government_id": "521",
     "local_government_name": "MUSHIN",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.53625,
+      "longitude": 3.3648,
+      "viewport": {
+        "northeast": {
+          "lat": 6.537576979892722,
+          "lng": 3.366154579892723
+        },
+        "southwest": {
+          "lat": 6.534877320107278,
+          "lng": 3.363454920107278
+        }
+      },
+      "formatted_address": "21 Awoyokun St, Onipanu 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.53625,3.3648",
+      "google_place_id": "ChIJR5sSF7qNOxARsDCqAmSvYR0"
+    }
   }
 ]

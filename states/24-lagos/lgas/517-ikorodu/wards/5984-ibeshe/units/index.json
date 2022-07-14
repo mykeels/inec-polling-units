@@ -13,7 +13,8 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "119446",
@@ -29,7 +30,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.579305499999999,
+      "longitude": 3.4878433,
+      "viewport": {
+        "northeast": {
+          "lat": 6.580597279892721,
+          "lng": 3.489169579892723
+        },
+        "southwest": {
+          "lat": 6.577897620107278,
+          "lng": 3.486469920107278
+        }
+      },
+      "formatted_address": "9a Dayo street benson estate off owode ibeshe road ebute Ikorodu Ikorodu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.579305499999999,3.4878433",
+      "google_place_id": "ChIJ18wD8CjtOxARoGG23diyACI"
+    }
   },
   {
     "id": "119447",
@@ -45,7 +63,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.556866299999999,
+      "longitude": 3.4810679,
+      "viewport": {
+        "northeast": {
+          "lat": 6.558244479892721,
+          "lng": 3.482419379892722
+        },
+        "southwest": {
+          "lat": 6.555544820107277,
+          "lng": 3.479719720107278
+        }
+      },
+      "formatted_address": "5 Adegboyega Street, Titun 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.556866299999999,3.4810679",
+      "google_place_id": "ChIJ6YIQMyDzOxARWv1GUP31Yjg"
+    }
   },
   {
     "id": "119448",
@@ -61,7 +96,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6217213,
+      "longitude": 3.4981482,
+      "viewport": {
+        "northeast": {
+          "lat": 6.623039329892722,
+          "lng": 3.499572229892722
+        },
+        "southwest": {
+          "lat": 6.620339670107279,
+          "lng": 3.496872570107278
+        }
+      },
+      "formatted_address": "3/5 Adeyeri Owuyo St, Off Lagos road, Ikorodu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6217213,3.4981482",
+      "google_place_id": "ChIJX_pYrifsOxAR4jcPmMF-E6A"
+    }
   },
   {
     "id": "119449",
@@ -77,7 +129,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5941074,
+      "longitude": 3.4924509,
+      "viewport": {
+        "northeast": {
+          "lat": 6.595344929892722,
+          "lng": 3.493844979892722
+        },
+        "southwest": {
+          "lat": 6.592645270107278,
+          "lng": 3.491145320107277
+        }
+      },
+      "formatted_address": ", Alogba Estate Road,, off Ibeshe Road, 5 Alh. M. Alogba St, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5941074,3.4924509",
+      "google_place_id": "ChIJ07ZTdNvtOxARwxlHYxwBJMg"
+    }
   },
   {
     "id": "119450",
@@ -93,7 +162,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5711303,
+      "longitude": 3.4828863,
+      "viewport": {
+        "northeast": {
+          "lat": 6.572400629892721,
+          "lng": 3.484305329892722
+        },
+        "southwest": {
+          "lat": 6.569700970107277,
+          "lng": 3.481605670107277
+        }
+      },
+      "formatted_address": "Owode Ibese Rd, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5711303,3.4828863",
+      "google_place_id": "ChIJh8OdWiHtOxARvj9XoRe4qAU"
+    }
   },
   {
     "id": "119451",
@@ -109,7 +195,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.552334999999999,
+      "longitude": 3.4728371,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553831879892722,
+          "lng": 3.474287429892722
+        },
+        "southwest": {
+          "lat": 6.551132220107278,
+          "lng": 3.471587770107277
+        }
+      },
+      "formatted_address": "3 Idiope Ave, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.552334999999999,3.4728371",
+      "google_place_id": "ChIJfxfV_uvzOxARHbYYalA9bJc"
+    }
   },
   {
     "id": "119452",
@@ -125,7 +228,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4827492,
+      "longitude": 3.380517,
+      "viewport": {
+        "northeast": {
+          "lat": 6.484102679892722,
+          "lng": 3.381874829892722
+        },
+        "southwest": {
+          "lat": 6.481403020107278,
+          "lng": 3.379175170107278
+        }
+      },
+      "formatted_address": "9 Savage St, Ebute Metta 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4827492,3.380517",
+      "google_place_id": "ChIJxdTgmrGNOxARj7vN_XgIiH4"
+    }
   },
   {
     "id": "119453",
@@ -141,7 +261,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5711303,
+      "longitude": 3.4828863,
+      "viewport": {
+        "northeast": {
+          "lat": 6.572400629892721,
+          "lng": 3.484305329892722
+        },
+        "southwest": {
+          "lat": 6.569700970107277,
+          "lng": 3.481605670107277
+        }
+      },
+      "formatted_address": "Owode Ibese Rd, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5711303,3.4828863",
+      "google_place_id": "ChIJh8OdWiHtOxARvj9XoRe4qAU"
+    }
   },
   {
     "id": "119454",
@@ -157,7 +294,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.554562799999999,
+      "longitude": 3.4783128,
+      "viewport": {
+        "northeast": {
+          "lat": 6.555900129892723,
+          "lng": 3.479613229892722
+        },
+        "southwest": {
+          "lat": 6.553200470107279,
+          "lng": 3.476913570107278
+        }
+      },
+      "formatted_address": "19 Abule Oshorun Rd, Ikorodu, Ibeshe, Ikorodu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.554562799999999,3.4783128",
+      "google_place_id": "ChIJs4JHOSTzOxARQa7Ph4lPhkI"
+    }
   },
   {
     "id": "119455",
@@ -173,7 +327,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5711303,
+      "longitude": 3.4828863,
+      "viewport": {
+        "northeast": {
+          "lat": 6.572400629892721,
+          "lng": 3.484305329892722
+        },
+        "southwest": {
+          "lat": 6.569700970107277,
+          "lng": 3.481605670107277
+        }
+      },
+      "formatted_address": "Owode Ibese Rd, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5711303,3.4828863",
+      "google_place_id": "ChIJh8OdWiHtOxARvj9XoRe4qAU"
+    }
   },
   {
     "id": "119456",
@@ -189,7 +360,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5599829,
+      "longitude": 3.4736517,
+      "viewport": {
+        "northeast": {
+          "lat": 6.561335279892722,
+          "lng": 3.474994729892722
+        },
+        "southwest": {
+          "lat": 6.558635620107278,
+          "lng": 3.472295070107278
+        }
+      },
+      "formatted_address": "4 Mabel Ayodele St, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5599829,3.4736517",
+      "google_place_id": "ChIJIVJSHOnzOxARKCpuVMkgPx8"
+    }
   },
   {
     "id": "119457",
@@ -205,7 +393,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5736985,
+      "longitude": 3.4964755,
+      "viewport": {
+        "northeast": {
+          "lat": 6.575079929892721,
+          "lng": 3.497829479892722
+        },
+        "southwest": {
+          "lat": 6.572380270107277,
+          "lng": 3.495129820107278
+        }
+      },
+      "formatted_address": "HFFW+FHH, Chief K. Adaraloye St, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5736985,3.4964755",
+      "google_place_id": "ChIJbfB9_IHtOxARMqO7SdLeaTE"
+    }
   },
   {
     "id": "119458",
@@ -221,7 +426,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5669322,
+      "longitude": 3.4802927,
+      "viewport": {
+        "northeast": {
+          "lat": 6.568158829892721,
+          "lng": 3.481611529892723
+        },
+        "southwest": {
+          "lat": 6.565459170107277,
+          "lng": 3.478911870107278
+        }
+      },
+      "formatted_address": "HF8J+Q42, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5669322,3.4802927",
+      "google_place_id": "ChIJOUnzUvXtOxARm5gARt8KgrM"
+    }
   },
   {
     "id": "119459",
@@ -237,7 +459,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5634023,
+      "longitude": 3.4771601,
+      "viewport": {
+        "northeast": {
+          "lat": 6.564746679892722,
+          "lng": 3.478544079892723
+        },
+        "southwest": {
+          "lat": 6.562047020107278,
+          "lng": 3.475844420107278
+        }
+      },
+      "formatted_address": "HF7G+9V7, Ibeshe Rd, Owode Bale Street, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5634023,3.4771601",
+      "google_place_id": "ChIJm0fJU3TyOxARM3Xaas4GCIo"
+    }
   },
   {
     "id": "119460",
@@ -253,7 +492,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6355686,
+      "longitude": 3.4879255,
+      "viewport": {
+        "northeast": {
+          "lat": 6.636886929892723,
+          "lng": 3.489261179892722
+        },
+        "southwest": {
+          "lat": 6.634187270107279,
+          "lng": 3.486561520107278
+        }
+      },
+      "formatted_address": "1 Jamiu Oyebajo Street(Four Square Junction) Eyita-Ojokoro road Ikorodu, 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6355686,3.4879255",
+      "google_place_id": "ChIJJa3pCujtOxAR5p3ZsUkYxiI"
+    }
   },
   {
     "id": "119461",
@@ -269,7 +525,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5650787,
+      "longitude": 3.4774897,
+      "viewport": {
+        "northeast": {
+          "lat": 6.566437079892721,
+          "lng": 3.478808379892722
+        },
+        "southwest": {
+          "lat": 6.563737420107278,
+          "lng": 3.476108720107277
+        }
+      },
+      "formatted_address": "Owode Ibese Rd, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5650787,3.4774897",
+      "google_place_id": "ChIJyR6Yn3XyOxARZ61S26JY6U8"
+    }
   },
   {
     "id": "119462",
@@ -285,7 +558,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.569914799999999,
+      "longitude": 3.48167,
+      "viewport": {
+        "northeast": {
+          "lat": 6.571268979892722,
+          "lng": 3.483024929892722
+        },
+        "southwest": {
+          "lat": 6.568569320107279,
+          "lng": 3.480325270107278
+        }
+      },
+      "formatted_address": "7/11, KAOLI OLUSANYA STREET, OFF IBESHE ROAD, Owode Bale Street, Ikorodu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.569914799999999,3.48167",
+      "google_place_id": "ChIJ0zBjL-jvOxARu1ZQ_HKonu0"
+    }
   },
   {
     "id": "119463",
@@ -301,7 +591,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.56095,
+      "longitude": 3.4851867,
+      "viewport": {
+        "northeast": {
+          "lat": 6.562036329892722,
+          "lng": 3.486350879892723
+        },
+        "southwest": {
+          "lat": 6.559336670107278,
+          "lng": 3.483651220107278
+        }
+      },
+      "formatted_address": "HF6P+93M, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.56095,3.4851867",
+      "google_place_id": "ChIJUYzV3SPzOxARNbrqoHIyay0"
+    }
   },
   {
     "id": "119464",
@@ -317,7 +624,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.56095,
+      "longitude": 3.4851867,
+      "viewport": {
+        "northeast": {
+          "lat": 6.562036329892722,
+          "lng": 3.486350879892723
+        },
+        "southwest": {
+          "lat": 6.559336670107278,
+          "lng": 3.483651220107278
+        }
+      },
+      "formatted_address": "HF6P+93M, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.56095,3.4851867",
+      "google_place_id": "ChIJUYzV3SPzOxARNbrqoHIyay0"
+    }
   },
   {
     "id": "119465",
@@ -333,7 +657,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.552334999999999,
+      "longitude": 3.4728371,
+      "viewport": {
+        "northeast": {
+          "lat": 6.553831879892722,
+          "lng": 3.474287429892722
+        },
+        "southwest": {
+          "lat": 6.551132220107278,
+          "lng": 3.471587770107277
+        }
+      },
+      "formatted_address": "3 Idiope Ave, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.552334999999999,3.4728371",
+      "google_place_id": "ChIJfxfV_uvzOxARHbYYalA9bJc"
+    }
   },
   {
     "id": "119466",
@@ -349,7 +690,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5711303,
+      "longitude": 3.4828863,
+      "viewport": {
+        "northeast": {
+          "lat": 6.572400629892721,
+          "lng": 3.484305329892722
+        },
+        "southwest": {
+          "lat": 6.569700970107277,
+          "lng": 3.481605670107277
+        }
+      },
+      "formatted_address": "Owode Ibese Rd, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5711303,3.4828863",
+      "google_place_id": "ChIJh8OdWiHtOxARvj9XoRe4qAU"
+    }
   },
   {
     "id": "119467",
@@ -365,7 +723,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5711303,
+      "longitude": 3.4828863,
+      "viewport": {
+        "northeast": {
+          "lat": 6.572400629892721,
+          "lng": 3.484305329892722
+        },
+        "southwest": {
+          "lat": 6.569700970107277,
+          "lng": 3.481605670107277
+        }
+      },
+      "formatted_address": "Owode Ibese Rd, Ikorodu 104101, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5711303,3.4828863",
+      "google_place_id": "ChIJh8OdWiHtOxARvj9XoRe4qAU"
+    }
   },
   {
     "id": "119468",
@@ -381,7 +756,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.557930199999999,
+      "longitude": 3.4755406,
+      "viewport": {
+        "northeast": {
+          "lat": 6.559295779892722,
+          "lng": 3.476976329892722
+        },
+        "southwest": {
+          "lat": 6.556596120107278,
+          "lng": 3.474276670107277
+        }
+      },
+      "formatted_address": "HF5G+56C, Owode Ibese Rd, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.557930199999999,3.4755406",
+      "google_place_id": "ChIJU0O-eRDzOxAR1bRw-AZPSnU"
+    }
   },
   {
     "id": "119469",
@@ -397,7 +789,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5536279,
+      "longitude": 3.4746847,
+      "viewport": {
+        "northeast": {
+          "lat": 6.554923679892723,
+          "lng": 3.476124679892723
+        },
+        "southwest": {
+          "lat": 6.552224020107279,
+          "lng": 3.473425020107278
+        }
+      },
+      "formatted_address": "HF3F+FVF, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5536279,3.4746847",
+      "google_place_id": "ChIJd9R9em7yOxARCv44-eXLDCE"
+    }
   },
   {
     "id": "119470",
@@ -413,7 +822,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.558340299999999,
+      "longitude": 3.4754041,
+      "viewport": {
+        "northeast": {
+          "lat": 6.559615279892722,
+          "lng": 3.476759029892722
+        },
+        "southwest": {
+          "lat": 6.556915620107278,
+          "lng": 3.474059370107278
+        }
+      },
+      "formatted_address": "Ibeshe Tuntun Road, Ikorodu 104102, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.558340299999999,3.4754041",
+      "google_place_id": "ChIJvXaPEIvzOxARhBLfV1i4TE8"
+    }
   },
   {
     "id": "119471",
@@ -429,7 +855,8 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "119472",
@@ -445,7 +872,24 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.546897599999999,
+      "longitude": 3.4865522,
+      "viewport": {
+        "northeast": {
+          "lat": 6.548244379892721,
+          "lng": 3.487890629892723
+        },
+        "southwest": {
+          "lat": 6.545544720107277,
+          "lng": 3.485190970107278
+        }
+      },
+      "formatted_address": "27, Salami street, upper salami junction Oshorun Ibeshe ikorodu Owode Ibeshe ikorodu Ikorodu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.546897599999999,3.4865522",
+      "google_place_id": "ChIJxwwbGk6NOxARI67tEtzP1mQ"
+    }
   },
   {
     "id": "119473",
@@ -461,6 +905,23 @@
     "local_government_id": "517",
     "local_government_name": "IKORODU",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.620692999999999,
+      "longitude": 3.5041752,
+      "viewport": {
+        "northeast": {
+          "lat": 6.621905529892722,
+          "lng": 3.505482629892722
+        },
+        "southwest": {
+          "lat": 6.619205870107278,
+          "lng": 3.502782970107277
+        }
+      },
+      "formatted_address": "JGC3+7MF, Lagos Road & Garrage Road Round About, Ikorodu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.620692999999999,3.5041752",
+      "google_place_id": "ChIJJbZHx5zuOxAR7ajXd9TZHjg"
+    }
   }
 ]

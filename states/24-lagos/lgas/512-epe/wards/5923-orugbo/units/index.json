@@ -13,7 +13,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.594595099999999,
+      "longitude": 3.9776389,
+      "viewport": {
+        "northeast": {
+          "lat": 6.595803629892723,
+          "lng": 3.978818279892721
+        },
+        "southwest": {
+          "lat": 6.593103970107279,
+          "lng": 3.976118620107278
+        }
+      },
+      "formatted_address": "HXVH+R3J, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.594595099999999,3.9776389",
+      "google_place_id": "ChIJVVVVVcVFORAR3FdXx3F-FVM"
+    }
   },
   {
     "id": "116505",
@@ -29,7 +46,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6609938,
+      "longitude": 3.7945266,
+      "viewport": {
+        "northeast": {
+          "lat": 6.662343979892721,
+          "lng": 3.795827029892722
+        },
+        "southwest": {
+          "lat": 6.659644320107277,
+          "lng": 3.793127370107278
+        }
+      },
+      "formatted_address": "MQ6V+9RR, Olofin Ajaye Road, Itokin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6609938,3.7945266",
+      "google_place_id": "ChIJX90ZsLhfORAR7FZac5VdOo0"
+    }
   },
   {
     "id": "116506",
@@ -45,7 +79,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6609938,
+      "longitude": 3.7945266,
+      "viewport": {
+        "northeast": {
+          "lat": 6.662343979892721,
+          "lng": 3.795827029892722
+        },
+        "southwest": {
+          "lat": 6.659644320107277,
+          "lng": 3.793127370107278
+        }
+      },
+      "formatted_address": "MQ6V+9RR, Olofin Ajaye Road, Itokin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6609938,3.7945266",
+      "google_place_id": "ChIJX90ZsLhfORAR7FZac5VdOo0"
+    }
   },
   {
     "id": "116507",
@@ -61,7 +112,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6446161,
+      "longitude": 3.771925199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 6.645952379892723,
+          "lng": 3.773164079892722
+        },
+        "southwest": {
+          "lat": 6.643252720107279,
+          "lng": 3.770464420107278
+        }
+      },
+      "formatted_address": "Ikorodu-Epe Rd, 106103, Oke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6446161,3.771925199999999",
+      "google_place_id": "ChIJIUtqoe5ZORARAUGpkwmvc6A"
+    }
   },
   {
     "id": "116508",
@@ -77,6 +145,23 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6609938,
+      "longitude": 3.7945266,
+      "viewport": {
+        "northeast": {
+          "lat": 6.662343979892721,
+          "lng": 3.795827029892722
+        },
+        "southwest": {
+          "lat": 6.659644320107277,
+          "lng": 3.793127370107278
+        }
+      },
+      "formatted_address": "MQ6V+9RR, Olofin Ajaye Road, Itokin, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6609938,3.7945266",
+      "google_place_id": "ChIJX90ZsLhfORAR7FZac5VdOo0"
+    }
   }
 ]

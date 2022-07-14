@@ -13,7 +13,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5885382,
+      "longitude": 3.9810665,
+      "viewport": {
+        "northeast": {
+          "lat": 6.589897579892721,
+          "lng": 3.982397729892722
+        },
+        "southwest": {
+          "lat": 6.587197920107277,
+          "lng": 3.979698070107278
+        }
+      },
+      "formatted_address": "HXQJ+FF2, Yemco shopping complex, old ijebu ode garage Beside Epe primary health center, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5885382,3.9810665",
+      "google_place_id": "ChIJF016Wy9FORARqKDX8FD5xuA"
+    }
   },
   {
     "id": "116257",
@@ -29,7 +46,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.587729299999999,
+      "longitude": 3.9803857,
+      "viewport": {
+        "northeast": {
+          "lat": 6.589079129892721,
+          "lng": 3.981735529892723
+        },
+        "southwest": {
+          "lat": 6.586379470107278,
+          "lng": 3.979035870107279
+        }
+      },
+      "formatted_address": "Iberikodo St, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.587729299999999,3.9803857",
+      "google_place_id": "ChIJ83cCb9xFORAR_2qJlAyFi6E"
+    }
   },
   {
     "id": "116258",
@@ -45,7 +79,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.587335299999999,
+      "longitude": 3.9845411,
+      "viewport": {
+        "northeast": {
+          "lat": 6.588651879892722,
+          "lng": 3.986027429892721
+        },
+        "southwest": {
+          "lat": 6.585952220107278,
+          "lng": 3.983327770107277
+        }
+      },
+      "formatted_address": "HXPM+WRM, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.587335299999999,3.9845411",
+      "google_place_id": "ChIJ64lB6d5FORARu8AnYHFJmK0"
+    }
   },
   {
     "id": "116259",
@@ -61,7 +112,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5857043,
+      "longitude": 3.9849136,
+      "viewport": {
+        "northeast": {
+          "lat": 6.586984779892723,
+          "lng": 3.986255879892722
+        },
+        "southwest": {
+          "lat": 6.584285120107279,
+          "lng": 3.983556220107278
+        }
+      },
+      "formatted_address": "HXPM+8X7, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5857043,3.9849136",
+      "google_place_id": "ChIJF6Izs99FORARb2WXhi5XKX4"
+    }
   },
   {
     "id": "116260",
@@ -77,7 +145,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.583203800000001,
+      "longitude": 3.9599555,
+      "viewport": {
+        "northeast": {
+          "lat": 6.584466329892722,
+          "lng": 3.961459679892722
+        },
+        "southwest": {
+          "lat": 6.581766670107278,
+          "lng": 3.958760020107278
+        }
+      },
+      "formatted_address": "Lagos Road, opposite Alrisku junction, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.583203800000001,3.9599555",
+      "google_place_id": "ChIJCaMzLRFFORARE7t7kNexgWc"
+    }
   },
   {
     "id": "116261",
@@ -93,7 +178,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116262",
@@ -109,7 +195,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5870022,
+      "longitude": 3.9840028,
+      "viewport": {
+        "northeast": {
+          "lat": 6.588352029892723,
+          "lng": 3.985352629892723
+        },
+        "southwest": {
+          "lat": 6.585652370107279,
+          "lng": 3.982652970107279
+        }
+      },
+      "formatted_address": "Owolabi Giwa St, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5870022,3.9840028",
+      "google_place_id": "ChIJY7kBj95FORAROOBaLgv2LNI"
+    }
   },
   {
     "id": "116263",
@@ -125,7 +228,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116264",
@@ -141,7 +245,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116265",
@@ -157,7 +262,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116266",
@@ -173,7 +279,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5872433,
+      "longitude": 3.9808274,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5941402,
+          "lng": 3.9831036
+        },
+        "southwest": {
+          "lat": 6.5833548,
+          "lng": 3.977877299999999
+        }
+      },
+      "formatted_address": "Etita/Ebode, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5872433,3.9808274",
+      "google_place_id": "ChIJpw9-fNxFORARzVIPWVI6wnI"
+    }
   },
   {
     "id": "116267",
@@ -189,7 +312,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5864894,
+      "longitude": 3.9514578,
+      "viewport": {
+        "northeast": {
+          "lat": 6.587815529892722,
+          "lng": 3.952798529892722
+        },
+        "southwest": {
+          "lat": 6.585115870107278,
+          "lng": 3.950098870107278
+        }
+      },
+      "formatted_address": "HXP2+HHW, Lekki - Epe Express Way, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5864894,3.9514578",
+      "google_place_id": "ChIJ73gleJ9FORARzr6G6Yk_gSU"
+    }
   },
   {
     "id": "116268",
@@ -205,7 +345,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116269",
@@ -221,7 +362,8 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "116270",
@@ -237,7 +379,24 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5931418,
+      "longitude": 3.9829406,
+      "viewport": {
+        "northeast": {
+          "lat": 6.594178879892722,
+          "lng": 3.984528229892722
+        },
+        "southwest": {
+          "lat": 6.591479220107278,
+          "lng": 3.981828570107278
+        }
+      },
+      "formatted_address": "2, payinegba avenue, behind local government, old palace Epe local government, 101224, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5931418,3.9829406",
+      "google_place_id": "ChIJL57fn9tFORAR1vbcKB6BlT0"
+    }
   },
   {
     "id": "116271",
@@ -253,6 +412,23 @@
     "local_government_id": "512",
     "local_government_name": "EPE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5894194,
+      "longitude": 3.9803375,
+      "viewport": {
+        "northeast": {
+          "lat": 6.590754429892722,
+          "lng": 3.981701279892721
+        },
+        "southwest": {
+          "lat": 6.588054770107278,
+          "lng": 3.979001620107277
+        }
+      },
+      "formatted_address": "Maternity, 106101, Epe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5894194,3.9803375",
+      "google_place_id": "ChIJ7ylygdtFORARqctIExBssFs"
+    }
   }
 ]

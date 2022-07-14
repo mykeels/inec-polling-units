@@ -13,7 +13,8 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117621",
@@ -29,7 +30,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.645611499999999,
+      "longitude": 3.3274609,
+      "viewport": {
+        "northeast": {
+          "lat": 6.646959129892721,
+          "lng": 3.328733329892722
+        },
+        "southwest": {
+          "lat": 6.644259470107277,
+          "lng": 3.326033670107277
+        }
+      },
+      "formatted_address": "4 Adewale Adegun St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.645611499999999,3.3274609",
+      "google_place_id": "ChIJeYJIR06ROxARlIA3k3-R4dI"
+    }
   },
   {
     "id": "117622",
@@ -45,7 +63,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6536956,
+      "longitude": 3.326214,
+      "viewport": {
+        "northeast": {
+          "lat": 6.654928679892723,
+          "lng": 3.327557529892722
+        },
+        "southwest": {
+          "lat": 6.652229020107279,
+          "lng": 3.324857870107278
+        }
+      },
+      "formatted_address": "19 Pa Alao Ojo St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6536956,3.326214",
+      "google_place_id": "ChIJk_rKILOWOxAR_xoBhZGn1MA"
+    }
   },
   {
     "id": "117623",
@@ -61,7 +96,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6505559,
+      "longitude": 3.3253329,
+      "viewport": {
+        "northeast": {
+          "lat": 6.651778029892721,
+          "lng": 3.326710129892722
+        },
+        "southwest": {
+          "lat": 6.649078370107278,
+          "lng": 3.324010470107277
+        }
+      },
+      "formatted_address": "12 NELSON COLE AVE, OFF IJU, Mushin, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6505559,3.3253329",
+      "google_place_id": "ChIJ73EF6RKROxARYEs4RRw7qfI"
+    }
   },
   {
     "id": "117624",
@@ -77,7 +129,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6453672,
+      "longitude": 3.32673,
+      "viewport": {
+        "northeast": {
+          "lat": 6.646537879892721,
+          "lng": 3.327929879892722
+        },
+        "southwest": {
+          "lat": 6.643838220107277,
+          "lng": 3.325230220107278
+        }
+      },
+      "formatted_address": "J8WG+4MX, Agege, College Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6453672,3.32673",
+      "google_place_id": "ChIJwTqGW06ROxARt_oUYiIwHEE"
+    }
   },
   {
     "id": "117625",
@@ -93,7 +162,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6394141,
+      "longitude": 3.3322259,
+      "viewport": {
+        "northeast": {
+          "lat": 6.640766579892722,
+          "lng": 3.333584129892722
+        },
+        "southwest": {
+          "lat": 6.638066920107278,
+          "lng": 3.330884470107278
+        }
+      },
+      "formatted_address": "29, College Road, Alhaji Haruna Bus-Stop(Beside Mr. Biggs), Ogba,, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6394141,3.3322259",
+      "google_place_id": "ChIJJYa4X-CTOxARUAojNmWgrXA"
+    }
   },
   {
     "id": "117626",
@@ -109,7 +195,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6425735,
+      "longitude": 3.3318174,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643923329892722,
+          "lng": 3.333167229892723
+        },
+        "southwest": {
+          "lat": 6.641223670107278,
+          "lng": 3.330467570107278
+        }
+      },
+      "formatted_address": "1 Orimolade St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6425735,3.3318174",
+      "google_place_id": "EiwxIE9yaW1vbGFkZSBTdCwgT2pvZHUgMTAxMjMyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCVNudYVQkTsQEcfiLJjOSj81EAEqFAoSCRF0K35QkTsQERN2uJBmUCL6"
+    }
   },
   {
     "id": "117627",
@@ -125,7 +228,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.642200600000001,
+      "longitude": 3.331471000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643550429892723,
+          "lng": 3.332820829892723
+        },
+        "southwest": {
+          "lat": 6.640850770107279,
+          "lng": 3.330121170107278
+        }
+      },
+      "formatted_address": "Fashina Cl & Orimolade St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.642200600000001,3.331471000000001",
+      "google_place_id": "EjdGYXNoaW5hIENsICYgT3JpbW9sYWRlIFN0LCBPam9kdSAxMDEyMzIsIEFnZWdlLCBOaWdlcmlhImYiZAoUChIJJwCegFCROxARDALrgnDpTDoSFAoSCScAnoBQkTsQEQwC64Jw6Uw6GhQKEgn5ep96UJE7EBHjcyywge0fkRoUChIJEXQrflCROxARE3a4kGZQIvoiCg32hPUDFZZX_AE"
+    }
   },
   {
     "id": "117628",
@@ -141,7 +261,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.661703399999999,
+      "longitude": 3.3276302,
+      "viewport": {
+        "northeast": {
+          "lat": 6.663053229892721,
+          "lng": 3.328980029892722
+        },
+        "southwest": {
+          "lat": 6.660353570107278,
+          "lng": 3.326280370107277
+        }
+      },
+      "formatted_address": "Alh. Ronke Shonowo St, Iju 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.661703399999999,3.3276302",
+      "google_place_id": "ChIJzShKP7CWOxARfCdOeEDf2pw"
+    }
   },
   {
     "id": "117629",
@@ -157,7 +294,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6481965,
+      "longitude": 3.3346815,
+      "viewport": {
+        "northeast": {
+          "lat": 6.649639229892721,
+          "lng": 3.336047529892722
+        },
+        "southwest": {
+          "lat": 6.646939570107278,
+          "lng": 3.333347870107278
+        }
+      },
+      "formatted_address": "20 Idowu Shogbade St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6481965,3.3346815",
+      "google_place_id": "EjIyMCBJZG93dSBTaG9nYmFkZSBTdCwgT2pvZHUgMTAxMjMyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCetTjg1UkTsQEYqnZhQcGq6TEBQqFAoSCevrUPVTkTsQES30Ng43CR-w"
+    }
   },
   {
     "id": "117630",
@@ -173,7 +327,8 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117631",
@@ -189,7 +344,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6474072,
+      "longitude": 3.3373993,
+      "viewport": {
+        "northeast": {
+          "lat": 6.648757029892721,
+          "lng": 3.338749129892723
+        },
+        "southwest": {
+          "lat": 6.646057370107277,
+          "lng": 3.336049470107278
+        }
+      },
+      "formatted_address": "Delly Street & Oladire Street, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6474072,3.3373993",
+      "google_place_id": "EjtEZWxseSBTdHJlZXQgJiBPbGFkaXJlIFN0cmVldCwgT2pvZHUgMTAxMjMyLCBBZ2VnZSwgTmlnZXJpYSJmImQKFAoSCf0_2thVkTsQEeT-QnDcOMqcEhQKEgn9P9rYVZE7EBHk_kJw3DjKnBoUChIJWzxGBlaROxAR98bbnlESL0IaFAoSCYUC2WlVkTsQERn9nzRH2cD0IgoNWFD2AxUpP_0B"
+    }
   },
   {
     "id": "117632",
@@ -205,7 +377,8 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117633",
@@ -221,7 +394,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6413561,
+      "longitude": 3.3303882,
+      "viewport": {
+        "northeast": {
+          "lat": 6.642717229892722,
+          "lng": 3.331759629892722
+        },
+        "southwest": {
+          "lat": 6.640017570107278,
+          "lng": 3.329059970107278
+        }
+      },
+      "formatted_address": "Coker St, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6413561,3.3303882",
+      "google_place_id": "ChIJ7z6gkFqROxARQ5ixOmQ0UHk"
+    }
   },
   {
     "id": "117634",
@@ -237,7 +427,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.658205199999999,
+      "longitude": 3.3135949,
+      "viewport": {
+        "northeast": {
+          "lat": 6.659562379892722,
+          "lng": 3.314929929892722
+        },
+        "southwest": {
+          "lat": 6.656862720107278,
+          "lng": 3.312230270107277
+        }
+      },
+      "formatted_address": "Amala junction Bus stop, 29 Dayo Adeniji St, Ifako-Ijaiye, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.658205199999999,3.3135949",
+      "google_place_id": "ChIJn_PhJLSWOxARfWJVmUKuDgc"
+    }
   },
   {
     "id": "117635",
@@ -253,7 +460,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.641686099999999,
+      "longitude": 3.3344766,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643035929892722,
+          "lng": 3.335826429892722
+        },
+        "southwest": {
+          "lat": 6.640336270107278,
+          "lng": 3.333126770107278
+        }
+      },
+      "formatted_address": "Ebun-Oluwa St & Alh.Haruna St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.641686099999999,3.3344766",
+      "google_place_id": "EjtFYnVuLU9sdXdhIFN0ICYgQWxoLkhhcnVuYSBTdCwgT2pvZHUgMTAxMjMyLCBBZ2VnZSwgTmlnZXJpYSJmImQKFAoSCVmrcPxZkTsQERpCL7Cl28eLEhQKEglZq3D8WZE7EBEaQi-wpdvHixoUChIJFcAvrFCROxARmYxxF0rR5aIaFAoSCZPNyNlZkTsQEVQ3Wmrv4C_RIgoN3XD1AxX-zPwB"
+    }
   },
   {
     "id": "117636",
@@ -269,7 +493,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6437762,
+      "longitude": 3.3346177,
+      "viewport": {
+        "northeast": {
+          "lat": 6.645126029892721,
+          "lng": 3.335967529892722
+        },
+        "southwest": {
+          "lat": 6.642426370107278,
+          "lng": 3.333267870107278
+        }
+      },
+      "formatted_address": "9 Abanikanda Street, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6437762,3.3346177",
+      "google_place_id": "EjE5IEFiYW5pa2FuZGEgU3RyZWV0LCBPam9kdSAxMDEyMzIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJr1P4LleROxARCYrLJZdwoW4QCSoUChIJdbQPOleROxAROkbI2rb2F28"
+    }
   },
   {
     "id": "117637",
@@ -285,7 +526,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.645590800000001,
+      "longitude": 3.3361018,
+      "viewport": {
+        "northeast": {
+          "lat": 6.646940629892721,
+          "lng": 3.337451629892722
+        },
+        "southwest": {
+          "lat": 6.644240970107277,
+          "lng": 3.334751970107277
+        }
+      },
+      "formatted_address": "Gospel Crusader St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.645590800000001,3.3361018",
+      "google_place_id": "ChIJZ47z_laROxARhBIyNNYnXOs"
+    }
   },
   {
     "id": "117638",
@@ -301,7 +559,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6426002,
+      "longitude": 3.3226764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643964579892722,
+          "lng": 3.324387079892722
+        },
+        "southwest": {
+          "lat": 6.641264920107278,
+          "lng": 3.321687420107278
+        }
+      },
+      "formatted_address": "99, Majekodunmi Compound, 101 Iju Rd, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6426002,3.3226764",
+      "google_place_id": "ChIJY0bhokiROxAR0M4vmUUCyh0"
+    }
   },
   {
     "id": "117639",
@@ -317,7 +592,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6431881,
+      "longitude": 3.3235867,
+      "viewport": {
+        "northeast": {
+          "lat": 6.644527479892722,
+          "lng": 3.324846629892722
+        },
+        "southwest": {
+          "lat": 6.641827820107278,
+          "lng": 3.322146970107278
+        }
+      },
+      "formatted_address": "PLOT 28 IJU ROAD AJUWON JUNCTION AJUWON LAGOS STATE NG, Ajuwon Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6431881,3.3235867",
+      "google_place_id": "ChIJk-4iymeROxAR1oZjOoSMmes"
+    }
   },
   {
     "id": "117640",
@@ -333,7 +625,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6428468,
+      "longitude": 3.3286858,
+      "viewport": {
+        "northeast": {
+          "lat": 6.644211379892722,
+          "lng": 3.330052229892722
+        },
+        "southwest": {
+          "lat": 6.641511720107278,
+          "lng": 3.327352570107278
+        }
+      },
+      "formatted_address": "College Rd, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6428468,3.3286858",
+      "google_place_id": "ChIJGcBW4k-ROxARhtScq2Dx0kM"
+    }
   },
   {
     "id": "117641",
@@ -349,7 +658,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.657807999999999,
+      "longitude": 3.3212808,
+      "viewport": {
+        "northeast": {
+          "lat": 6.65923797989272,
+          "lng": 3.322790629892722
+        },
+        "southwest": {
+          "lat": 6.656538320107276,
+          "lng": 3.320090970107278
+        }
+      },
+      "formatted_address": "Suite No. C2, Adedoja Complex, Fagba Junction, 1 Jonathan Coker St, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.657807999999999,3.3212808",
+      "google_place_id": "ChIJTTs0K7SWOxARmd-zTw-NYRk"
+    }
   },
   {
     "id": "117642",
@@ -365,7 +691,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6499634,
+      "longitude": 3.3243019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.651313229892722,
+          "lng": 3.325651729892722
+        },
+        "southwest": {
+          "lat": 6.648613570107278,
+          "lng": 3.322952070107278
+        }
+      },
+      "formatted_address": "Nelson Cole Ave & Alafia St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6499634,3.3243019",
+      "google_place_id": "EjlOZWxzb24gQ29sZSBBdmUgJiBBbGFmaWEgU3QsIE9qb2R1IDEwMTIzMiwgQWdlZ2UsIE5pZ2VyaWEiZiJkChQKEgkRP5t9TJE7EBGiSIurbqRjuBIUChIJET-bfUyROxARokiLq26kY7gaFAoSCW8HhPZMkTsQEabSQQ396CPJGhQKEgkxthmZTJE7EBHdhHVnltsNVCIKDTK09gMViz_7AQ"
+    }
   },
   {
     "id": "117643",
@@ -381,7 +724,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6415332,
+      "longitude": 3.3305224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.642830929892722,
+          "lng": 3.331838429892722
+        },
+        "southwest": {
+          "lat": 6.640131270107277,
+          "lng": 3.329138770107277
+        }
+      },
+      "formatted_address": "Orimolade B/Stop, 54 College Rd, Ifako-Ijaiye, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6415332,3.3305224",
+      "google_place_id": "ChIJxxgMW1qROxARJXhI6QH5m4w"
+    }
   },
   {
     "id": "117644",
@@ -397,7 +757,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6422554,
+      "longitude": 3.3288903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643653179892723,
+          "lng": 3.330294079892723
+        },
+        "southwest": {
+          "lat": 6.640953520107279,
+          "lng": 3.327594420107278
+        }
+      },
+      "formatted_address": "J8RH+WH2, Idiagbon Bus-Stop, College Rd, Ifako-Ijaiye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6422554,3.3288903",
+      "google_place_id": "ChIJz-kQZ-KTOxAR-KAKSGAixIk"
+    }
   },
   {
     "id": "117645",
@@ -413,7 +790,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.645041099999999,
+      "longitude": 3.3280222,
+      "viewport": {
+        "northeast": {
+          "lat": 6.646333379892722,
+          "lng": 3.329320429892722
+        },
+        "southwest": {
+          "lat": 6.643633720107278,
+          "lng": 3.326620770107278
+        }
+      },
+      "formatted_address": "3 Ola Street Karaole Estate, College Road Ogba, Ifako-Ijaiye, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.645041099999999,3.3280222",
+      "google_place_id": "ChIJZ3NBVE6ROxARO6ncKaQuJ58"
+    }
   },
   {
     "id": "117646",
@@ -429,7 +823,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6480244,
+      "longitude": 3.3317258,
+      "viewport": {
+        "northeast": {
+          "lat": 6.649374229892721,
+          "lng": 3.333075629892722
+        },
+        "southwest": {
+          "lat": 6.646674570107277,
+          "lng": 3.330375970107278
+        }
+      },
+      "formatted_address": "52 Adewale Adegun St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6480244,3.3317258",
+      "google_place_id": "EjI1MiBBZGV3YWxlIEFkZWd1biBTdCwgT2pvZHUgMTAxMjMyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCRcn-81TkTsQEUlj9_Dv0FMlEDQqFAoSCb-FZwNOkTsQEf2Z1Qqqc0Vn"
+    }
   },
   {
     "id": "117647",
@@ -445,7 +856,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6740702,
+      "longitude": 3.3170588,
+      "viewport": {
+        "northeast": {
+          "lat": 6.675397829892721,
+          "lng": 3.318480729892722
+        },
+        "southwest": {
+          "lat": 6.672698170107277,
+          "lng": 3.315781070107278
+        }
+      },
+      "formatted_address": "M8F8+JRF, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6740702,3.3170588",
+      "google_place_id": "ChIJkYOqn-qWOxAR_zNQVb1nugc"
+    }
   },
   {
     "id": "117648",
@@ -461,7 +889,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6462815,
+      "longitude": 3.3253035,
+      "viewport": {
+        "northeast": {
+          "lat": 6.647550029892722,
+          "lng": 3.326740679892723
+        },
+        "southwest": {
+          "lat": 6.644850370107278,
+          "lng": 3.324041020107278
+        }
+      },
+      "formatted_address": "J8WG+G47, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6462815,3.3253035",
+      "google_place_id": "ChIJRwkTlE6ROxARiqpvgyAsOsI"
+    }
   },
   {
     "id": "117649",
@@ -477,7 +922,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6400654,
+      "longitude": 3.3328908,
+      "viewport": {
+        "northeast": {
+          "lat": 6.641380229892722,
+          "lng": 3.334276929892723
+        },
+        "southwest": {
+          "lat": 6.638680570107278,
+          "lng": 3.331577270107278
+        }
+      },
+      "formatted_address": "1 Alh.Haruna St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6400654,3.3328908",
+      "google_place_id": "ChIJ0YmLOVqROxARFgqfvVRCKLo"
+    }
   },
   {
     "id": "117650",
@@ -493,7 +955,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6412764,
+      "longitude": 3.331972,
+      "viewport": {
+        "northeast": {
+          "lat": 6.642662729892722,
+          "lng": 3.333354829892722
+        },
+        "southwest": {
+          "lat": 6.639963070107278,
+          "lng": 3.330655170107278
+        }
+      },
+      "formatted_address": "17 Awoni Murphy St, Ifako-Ijaiye 100211, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6412764,3.331972",
+      "google_place_id": "ChIJdUpZcFqROxARLmiN12I0L5Y"
+    }
   },
   {
     "id": "117651",
@@ -509,7 +988,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.643137400000001,
+      "longitude": 3.3312579,
+      "viewport": {
+        "northeast": {
+          "lat": 6.644487229892722,
+          "lng": 3.332607729892723
+        },
+        "southwest": {
+          "lat": 6.641787570107279,
+          "lng": 3.329908070107278
+        }
+      },
+      "formatted_address": "1 Opakunle Cl, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.643137400000001,3.3312579",
+      "google_place_id": "EisxIE9wYWt1bmxlIENsLCBPam9kdSAxMDEyMzIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJa6nvYVCROxARebsm-V0XiMQQASoUChIJx_ZTYVCROxARFSWRTYgauNI"
+    }
   },
   {
     "id": "117652",
@@ -525,7 +1021,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6465117,
+      "longitude": 3.3333684,
+      "viewport": {
+        "northeast": {
+          "lat": 6.647861529892722,
+          "lng": 3.334718229892723
+        },
+        "southwest": {
+          "lat": 6.645161870107279,
+          "lng": 3.332018570107278
+        }
+      },
+      "formatted_address": "Segun Asenuga Ln, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6465117,3.3333684",
+      "google_place_id": "ChIJU7JWTlGROxARcvRRCNncY6Y"
+    }
   },
   {
     "id": "117653",
@@ -541,7 +1054,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6487786,
+      "longitude": 3.3339138,
+      "viewport": {
+        "northeast": {
+          "lat": 6.650035379892722,
+          "lng": 3.335256679892723
+        },
+        "southwest": {
+          "lat": 6.647335720107278,
+          "lng": 3.332557020107278
+        }
+      },
+      "formatted_address": "1 Idowu Shogbade St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6487786,3.3339138",
+      "google_place_id": "ChIJ4d5zdVSROxARD41Mz0jzwAY"
+    }
   },
   {
     "id": "117654",
@@ -557,7 +1087,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6422554,
+      "longitude": 3.3288903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643653179892723,
+          "lng": 3.330294079892723
+        },
+        "southwest": {
+          "lat": 6.640953520107279,
+          "lng": 3.327594420107278
+        }
+      },
+      "formatted_address": "J8RH+WH2, Idiagbon Bus-Stop, College Rd, Ifako-Ijaiye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6422554,3.3288903",
+      "google_place_id": "ChIJz-kQZ-KTOxAR-KAKSGAixIk"
+    }
   },
   {
     "id": "117655",
@@ -573,7 +1120,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6724963,
+      "longitude": 3.2946281,
+      "viewport": {
+        "northeast": {
+          "lat": 6.673774879892721,
+          "lng": 3.295902029892722
+        },
+        "southwest": {
+          "lat": 6.671075220107277,
+          "lng": 3.293202370107277
+        }
+      },
+      "formatted_address": "30 Adigun St, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6724963,3.2946281",
+      "google_place_id": "ChIJdZTipUeXOxARr4TJAYfqdL0"
+    }
   },
   {
     "id": "117656",
@@ -589,7 +1153,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.657335499999999,
+      "longitude": 3.3439272,
+      "viewport": {
+        "northeast": {
+          "lat": 6.658681279892722,
+          "lng": 3.345281229892722
+        },
+        "southwest": {
+          "lat": 6.655981620107278,
+          "lng": 3.342581570107277
+        }
+      },
+      "formatted_address": "Kay Farms, 24 T.E. Williams Street, Chief Rotimi Williams Estate, Off Bola Ahmed Tinubu Rd, Ifako-Ijaiye 100215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.657335499999999,3.3439272",
+      "google_place_id": "ChIJeQuNrHaVOxARdyjGdMrev5g"
+    }
   },
   {
     "id": "117657",
@@ -605,7 +1186,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.644232199999999,
+      "longitude": 3.3279562,
+      "viewport": {
+        "northeast": {
+          "lat": 6.645573579892721,
+          "lng": 3.329314279892722
+        },
+        "southwest": {
+          "lat": 6.642873920107277,
+          "lng": 3.326614620107277
+        }
+      },
+      "formatted_address": "Ajibodu St, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.644232199999999,3.3279562",
+      "google_place_id": "ChIJE_bpzk-ROxARJWI13kdwhlo"
+    }
   },
   {
     "id": "117658",
@@ -621,7 +1219,8 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117659",
@@ -637,7 +1236,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.658205199999999,
+      "longitude": 3.3135949,
+      "viewport": {
+        "northeast": {
+          "lat": 6.659562379892722,
+          "lng": 3.314929929892722
+        },
+        "southwest": {
+          "lat": 6.656862720107278,
+          "lng": 3.312230270107277
+        }
+      },
+      "formatted_address": "Amala junction Bus stop, 29 Dayo Adeniji St, Ifako-Ijaiye, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.658205199999999,3.3135949",
+      "google_place_id": "ChIJn_PhJLSWOxARfWJVmUKuDgc"
+    }
   },
   {
     "id": "117660",
@@ -653,7 +1269,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6900659,
+      "longitude": 3.281599,
+      "viewport": {
+        "northeast": {
+          "lat": 6.691389129892722,
+          "lng": 3.282900379892722
+        },
+        "southwest": {
+          "lat": 6.688689470107279,
+          "lng": 3.280200720107278
+        }
+      },
+      "formatted_address": "Ifako-Ijaiye 112104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6900659,3.281599",
+      "google_place_id": "ChIJgYXkeQyXOxARwh-HpMOpuSU"
+    }
   },
   {
     "id": "117661",
@@ -669,7 +1302,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6456724,
+      "longitude": 3.3370618,
+      "viewport": {
+        "northeast": {
+          "lat": 6.647002329892722,
+          "lng": 3.338412179892722
+        },
+        "southwest": {
+          "lat": 6.644302670107278,
+          "lng": 3.335712520107278
+        }
+      },
+      "formatted_address": "38 Gospel Crusader St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6456724,3.3370618",
+      "google_place_id": "ChIJdVUVQ1aROxARj1fj9Av56n4"
+    }
   },
   {
     "id": "117662",
@@ -685,7 +1335,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6422623,
+      "longitude": 3.3349303,
+      "viewport": {
+        "northeast": {
+          "lat": 6.646392600000051,
+          "lng": 3.342593050000001
+        },
+        "southwest": {
+          "lat": 6.637079799999949,
+          "lng": 3.32882965
+        }
+      },
+      "formatted_address": "Alh.Haruna St, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6422623,3.3349303",
+      "google_place_id": "EjJBbGguSGFydW5hIFN0LCBJZmFrby1JamFpeWUgMTAxMjMyLCBBZ2VnZSwgTmlnZXJpYSIuKiwKFAoSCZPNyNlZkTsQEVQ3Wmrv4C_REhQKEgmB27EuUpE7EBHVI8fWfWettw"
+    }
   },
   {
     "id": "117663",
@@ -701,7 +1368,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6422554,
+      "longitude": 3.3288903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643653179892723,
+          "lng": 3.330294079892723
+        },
+        "southwest": {
+          "lat": 6.640953520107279,
+          "lng": 3.327594420107278
+        }
+      },
+      "formatted_address": "J8RH+WH2, Idiagbon Bus-Stop, College Rd, Ifako-Ijaiye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6422554,3.3288903",
+      "google_place_id": "ChIJz-kQZ-KTOxAR-KAKSGAixIk"
+    }
   },
   {
     "id": "117664",
@@ -717,7 +1401,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6428468,
+      "longitude": 3.3286858,
+      "viewport": {
+        "northeast": {
+          "lat": 6.644211379892722,
+          "lng": 3.330052229892722
+        },
+        "southwest": {
+          "lat": 6.641511720107278,
+          "lng": 3.327352570107278
+        }
+      },
+      "formatted_address": "College Rd, Ifako-Ijaiye 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6428468,3.3286858",
+      "google_place_id": "ChIJGcBW4k-ROxARhtScq2Dx0kM"
+    }
   },
   {
     "id": "117665",
@@ -733,7 +1434,24 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.645687,
+      "longitude": 3.3311309,
+      "viewport": {
+        "northeast": {
+          "lat": 6.647036829892721,
+          "lng": 3.332480729892722
+        },
+        "southwest": {
+          "lat": 6.644337170107277,
+          "lng": 3.329781070107277
+        }
+      },
+      "formatted_address": "Alh. Quadri St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.645687,3.3311309",
+      "google_place_id": "ChIJKXcepFGROxAR467w4mpiCwA"
+    }
   },
   {
     "id": "117666",
@@ -749,6 +1467,23 @@
     "local_government_id": "515",
     "local_government_name": "IFAKO-IJAYE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6420846,
+      "longitude": 3.3305503,
+      "viewport": {
+        "northeast": {
+          "lat": 6.643428379892722,
+          "lng": 3.331886329892723
+        },
+        "southwest": {
+          "lat": 6.640728720107278,
+          "lng": 3.329186670107278
+        }
+      },
+      "formatted_address": "Baoku St, Ojodu 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6420846,3.3305503",
+      "google_place_id": "EiZCYW9rdSBTdCwgT2pvZHUgMTAxMjMyLCBBZ2VnZSwgTmlnZXJpYSIuKiwKFAoSCSldvnVQkTsQESkY-vIirOW4EhQKEgmB27EuUpE7EBHVI8fWfWettw"
+    }
   }
 ]

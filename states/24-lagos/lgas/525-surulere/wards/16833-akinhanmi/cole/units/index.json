@@ -13,7 +13,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330907",
@@ -29,7 +30,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330908",
@@ -45,7 +47,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5122092,
+      "longitude": 3.3591859,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513548079892722,
+          "lng": 3.360458029892723
+        },
+        "southwest": {
+          "lat": 6.510848420107278,
+          "lng": 3.357758370107278
+        }
+      },
+      "formatted_address": "6 Ishaga Rd, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5122092,3.3591859",
+      "google_place_id": "ChIJVWkY1BGNOxARXdqOhVgl4xE"
+    }
   },
   {
     "id": "330909",
@@ -61,7 +80,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5161522,
+      "longitude": 3.3634184,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517583829892722,
+          "lng": 3.364796579892723
+        },
+        "southwest": {
+          "lat": 6.514884170107278,
+          "lng": 3.362096920107278
+        }
+      },
+      "formatted_address": "15 Akinhanmi St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5161522,3.3634184",
+      "google_place_id": "Ei8xNSBBa2luaGFubWkgU3QsIElkaSBPcm8gMTAxMjQxLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCXFfV9hIjDsQEbCVdTXwOHLQEA8qFAoSCfUX4dhIjDsQESEIHuSdReWQ"
+    }
   },
   {
     "id": "330910",
@@ -77,7 +113,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5122092,
+      "longitude": 3.3591859,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513548079892722,
+          "lng": 3.360458029892723
+        },
+        "southwest": {
+          "lat": 6.510848420107278,
+          "lng": 3.357758370107278
+        }
+      },
+      "formatted_address": "6 Ishaga Rd, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5122092,3.3591859",
+      "google_place_id": "ChIJVWkY1BGNOxARXdqOhVgl4xE"
+    }
   },
   {
     "id": "330911",
@@ -93,7 +146,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5139906,
+      "longitude": 3.3600667,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515340429892721,
+          "lng": 3.361416529892722
+        },
+        "southwest": {
+          "lat": 6.512640770107277,
+          "lng": 3.358716870107277
+        }
+      },
+      "formatted_address": "Mabo St, Surulere 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5139906,3.3600667",
+      "google_place_id": "ChIJD_Ed-UeMOxARqipMSqv18lU"
+    }
   },
   {
     "id": "330912",
@@ -109,7 +179,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513439,
+      "longitude": 3.360395,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514756929892721,
+          "lng": 3.361813679892722
+        },
+        "southwest": {
+          "lat": 6.512057270107277,
+          "lng": 3.359114020107278
+        }
+      },
+      "formatted_address": "No 30 Banire St, Surulere 300001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513439,3.360395",
+      "google_place_id": "ChIJ74TA3UeMOxARFHljKrcyP2g"
+    }
   },
   {
     "id": "330913",
@@ -125,7 +212,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513439,
+      "longitude": 3.360395,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514756929892721,
+          "lng": 3.361813679892722
+        },
+        "southwest": {
+          "lat": 6.512057270107277,
+          "lng": 3.359114020107278
+        }
+      },
+      "formatted_address": "No 30 Banire St, Surulere 300001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513439,3.360395",
+      "google_place_id": "ChIJ74TA3UeMOxARFHljKrcyP2g"
+    }
   },
   {
     "id": "330914",
@@ -141,7 +245,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330915",
@@ -157,7 +262,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.512256,
+      "longitude": 3.367777,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513645779892721,
+          "lng": 3.369086429892722
+        },
+        "southwest": {
+          "lat": 6.510946120107278,
+          "lng": 3.366386770107277
+        }
+      },
+      "formatted_address": "38E Nathan St, Yaba 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.512256,3.367777",
+      "google_place_id": "ChIJIwa9FUWMOxARr9WN3CpN7Ms"
+    }
   },
   {
     "id": "330916",
@@ -173,7 +295,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.512256,
+      "longitude": 3.367777,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513645779892721,
+          "lng": 3.369086429892722
+        },
+        "southwest": {
+          "lat": 6.510946120107278,
+          "lng": 3.366386770107277
+        }
+      },
+      "formatted_address": "38E Nathan St, Yaba 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.512256,3.367777",
+      "google_place_id": "ChIJIwa9FUWMOxARr9WN3CpN7Ms"
+    }
   },
   {
     "id": "330917",
@@ -189,7 +328,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5122469,
+      "longitude": 3.3605747,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513607679892722,
+          "lng": 3.361944529892722
+        },
+        "southwest": {
+          "lat": 6.510908020107278,
+          "lng": 3.359244870107277
+        }
+      },
+      "formatted_address": "17 Karimu St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5122469,3.3605747",
+      "google_place_id": "ChIJDZd_ARSNOxARQC-gqx-r6_8"
+    }
   },
   {
     "id": "330918",
@@ -205,7 +361,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5122469,
+      "longitude": 3.3605747,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513607679892722,
+          "lng": 3.361944529892722
+        },
+        "southwest": {
+          "lat": 6.510908020107278,
+          "lng": 3.359244870107277
+        }
+      },
+      "formatted_address": "17 Karimu St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5122469,3.3605747",
+      "google_place_id": "ChIJDZd_ARSNOxARQC-gqx-r6_8"
+    }
   },
   {
     "id": "330919",
@@ -221,7 +394,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5106027,
+      "longitude": 3.3606218,
+      "viewport": {
+        "northeast": {
+          "lat": 6.511952529892721,
+          "lng": 3.361971629892722
+        },
+        "southwest": {
+          "lat": 6.509252870107277,
+          "lng": 3.359271970107278
+        }
+      },
+      "formatted_address": "Ojuelegba Rd & Ibidun St, Surulere 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5106027,3.3606218",
+      "google_place_id": "EjlPanVlbGVnYmEgUmQgJiBJYmlkdW4gU3QsIFN1cnVsZXJlIDEwMTI0MSwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEglVwgwNR4w7EBEbsIo2TxzTsxIUChIJVcIMDUeMOxARG7CKNk8c07MaFAoSCc1buo9EjDsQEQuSl_44UIyVGhQKEgk7Ye4aR4w7EBFiwwtT9PTU_CIKDWtw4QMVSsoAAg"
+    }
   },
   {
     "id": "330920",
@@ -237,7 +427,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.511911899999999,
+      "longitude": 3.3609715,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513234979892721,
+          "lng": 3.362382429892722
+        },
+        "southwest": {
+          "lat": 6.510535320107278,
+          "lng": 3.359682770107277
+        }
+      },
+      "formatted_address": "64 Ibidun St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.511911899999999,3.3609715",
+      "google_place_id": "ChIJkxoOsEeMOxARZLE5trtXjTc"
+    }
   },
   {
     "id": "330921",
@@ -253,7 +460,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5121768,
+      "longitude": 3.3611327,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513496629892722,
+          "lng": 3.362552729892723
+        },
+        "southwest": {
+          "lat": 6.510796970107278,
+          "lng": 3.359853070107278
+        }
+      },
+      "formatted_address": "75 Ibidun St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5121768,3.3611327",
+      "google_place_id": "ChIJFZsysUeMOxARig17QDhFEKY"
+    }
   },
   {
     "id": "330922",
@@ -269,7 +493,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.516191099999999,
+      "longitude": 3.3634318,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517603279892722,
+          "lng": 3.364803229892722
+        },
+        "southwest": {
+          "lat": 6.514903620107278,
+          "lng": 3.362103570107277
+        }
+      },
+      "formatted_address": "15c Akinhanmi St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.516191099999999,3.3634318",
+      "google_place_id": "ChIJJeZD30iMOxARlXRpauu0jj4"
+    }
   },
   {
     "id": "330923",
@@ -285,7 +526,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330924",
@@ -301,7 +543,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330925",
@@ -317,7 +560,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5107352,
+      "longitude": 3.3545497,
+      "viewport": {
+        "northeast": {
+          "lat": 6.511940479892722,
+          "lng": 3.355897629892722
+        },
+        "southwest": {
+          "lat": 6.509240820107278,
+          "lng": 3.353197970107277
+        }
+      },
+      "formatted_address": "G963+7RV, Ojuelegba, Surulere, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5107352,3.3545497",
+      "google_place_id": "ChIJ6xUV9B6NOxAR4dF2w75N9fw"
+    }
   },
   {
     "id": "330926",
@@ -333,7 +593,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330927",
@@ -349,7 +610,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.516515699999999,
+      "longitude": 3.3632601,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517808579892721,
+          "lng": 3.364591779892722
+        },
+        "southwest": {
+          "lat": 6.515108920107277,
+          "lng": 3.361892120107277
+        }
+      },
+      "formatted_address": "24 Akinhanmi St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.516515699999999,3.3632601",
+      "google_place_id": "ChIJE8vuJ0mMOxAROWxFndSzsPI"
+    }
   },
   {
     "id": "330928",
@@ -365,7 +643,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5150194,
+      "longitude": 3.3632288,
+      "viewport": {
+        "northeast": {
+          "lat": 6.51636922989272,
+          "lng": 3.364578629892722
+        },
+        "southwest": {
+          "lat": 6.513669570107276,
+          "lng": 3.361878970107277
+        }
+      },
+      "formatted_address": "Ibidun St & Omololu Street, Idi Oro 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5150194,3.3632288",
+      "google_place_id": "EjpJYmlkdW4gU3QgJiBPbW9sb2x1IFN0cmVldCwgSWRpIE9ybyAxMDEyNDEsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJmyvhuEiMOxARk_EfQdu4C8wSFAoSCZsr4bhIjDsQEZPxH0HbuAvMGhQKEgk7Ye4aR4w7EBFiwwtT9PTU_BoUChIJZRicukiMOxAR6VWebwHEh40iCg3yHOIDFSAwAQI"
+    }
   },
   {
     "id": "330929",
@@ -381,7 +676,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5164617,
+      "longitude": 3.3630486,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517811529892722,
+          "lng": 3.364398429892722
+        },
+        "southwest": {
+          "lat": 6.515111870107278,
+          "lng": 3.361698770107277
+        }
+      },
+      "formatted_address": "Akinwande St & Akinhanmi St, Idi Oro 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5164617,3.3630486",
+      "google_place_id": "EjtBa2lud2FuZGUgU3QgJiBBa2luaGFubWkgU3QsIElkaSBPcm8gMTAxMjQxLCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCT9e4d9IjDsQEaCYemb8evSOEhQKEgk_XuHfSIw7EBGgmHpm_Hr0jhoUChIJmZpUO0mMOxARBJCLUS3A9sYaFAoSCfUX4dhIjDsQESEIHuSdReWQIgoNSVXiAxUWKQEC"
+    }
   },
   {
     "id": "330930",
@@ -397,7 +709,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.516362699999999,
+      "longitude": 3.3630562,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517757029892723,
+          "lng": 3.364421479892722
+        },
+        "southwest": {
+          "lat": 6.515057370107279,
+          "lng": 3.361721820107277
+        }
+      },
+      "formatted_address": "3, Silver Crescent, off Akinhanmi St, Surulere, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.516362699999999,3.3630562",
+      "google_place_id": "ChIJzzdm30iMOxARVQluFcSETYc"
+    }
   },
   {
     "id": "330931",
@@ -413,7 +742,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.517425999999999,
+      "longitude": 3.3652969,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518775829892721,
+          "lng": 3.366646729892722
+        },
+        "southwest": {
+          "lat": 6.516076170107278,
+          "lng": 3.363947070107278
+        }
+      },
+      "formatted_address": "Ramos St & Agege Motor Rd, Idi Oro 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.517425999999999,3.3652969",
+      "google_place_id": "EjlSYW1vcyBTdCAmIEFnZWdlIE1vdG9yIFJkLCBJZGkgT3JvIDEwMTI0MSwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgm9tMvDTow7EBE1Romwpe3VEhIUChIJvbTLw06MOxARNUaJsKXt1RIaFAoSCRF9Bc9OjDsQEVSeEXmneIN4GhQKEgkbsiryQJE7EBFI0HXMuR8_yCIKDfR64gMV6YABAg"
+    }
   },
   {
     "id": "330932",
@@ -429,7 +775,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5165696,
+      "longitude": 3.3629946,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517878279892722,
+          "lng": 3.364330379892722
+        },
+        "southwest": {
+          "lat": 6.515178620107278,
+          "lng": 3.361630720107277
+        }
+      },
+      "formatted_address": "19 Akinhanmi St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5165696,3.3629946",
+      "google_place_id": "ChIJBX5730iMOxARO-pITu0EfDQ"
+    }
   },
   {
     "id": "330933",
@@ -445,7 +808,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5179016,
+      "longitude": 3.3637225,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519222529892721,
+          "lng": 3.365057229892722
+        },
+        "southwest": {
+          "lat": 6.516522870107277,
+          "lng": 3.362357570107278
+        }
+      },
+      "formatted_address": "18 Akinwande St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5179016,3.3637225",
+      "google_place_id": "ChIJ997osHeNOxARFMojj1IG-4g"
+    }
   },
   {
     "id": "330934",
@@ -461,7 +841,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5179016,
+      "longitude": 3.3637225,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519222529892721,
+          "lng": 3.365057229892722
+        },
+        "southwest": {
+          "lat": 6.516522870107277,
+          "lng": 3.362357570107278
+        }
+      },
+      "formatted_address": "18 Akinwande St, Idi Oro 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5179016,3.3637225",
+      "google_place_id": "ChIJ997osHeNOxARFMojj1IG-4g"
+    }
   },
   {
     "id": "330935",
@@ -477,7 +874,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.51052,
+      "longitude": 3.3607,
+      "viewport": {
+        "northeast": {
+          "lat": 6.511899429892721,
+          "lng": 3.362057029892722
+        },
+        "southwest": {
+          "lat": 6.509199770107277,
+          "lng": 3.359357370107278
+        }
+      },
+      "formatted_address": "Ibidun Junction, 135 Ojuelegba Rd, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.51052,3.3607",
+      "google_place_id": "ChIJA-XfEUeMOxARyDm3BLHQAVc"
+    }
   },
   {
     "id": "330936",
@@ -493,7 +907,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5165696,
+      "longitude": 3.3629946,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517878279892722,
+          "lng": 3.364330379892722
+        },
+        "southwest": {
+          "lat": 6.515178620107278,
+          "lng": 3.361630720107277
+        }
+      },
+      "formatted_address": "19 Akinhanmi St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5165696,3.3629946",
+      "google_place_id": "ChIJBX5730iMOxARO-pITu0EfDQ"
+    }
   },
   {
     "id": "330937",
@@ -509,7 +940,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5165696,
+      "longitude": 3.3629946,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517878279892722,
+          "lng": 3.364330379892722
+        },
+        "southwest": {
+          "lat": 6.515178620107278,
+          "lng": 3.361630720107277
+        }
+      },
+      "formatted_address": "19 Akinhanmi St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5165696,3.3629946",
+      "google_place_id": "ChIJBX5730iMOxARO-pITu0EfDQ"
+    }
   },
   {
     "id": "330938",
@@ -525,7 +973,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5140489,
+      "longitude": 3.3493671,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515483979892723,
+          "lng": 3.350867679892722
+        },
+        "southwest": {
+          "lat": 6.512784320107278,
+          "lng": 3.348168020107277
+        }
+      },
+      "formatted_address": "18 Obafemi Ajayi St, Idi-Araba 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5140489,3.3493671",
+      "google_place_id": "ChIJtwY4BzCMOxAR4CHHE4pjtdI"
+    }
   },
   {
     "id": "330939",
@@ -541,7 +1006,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5140489,
+      "longitude": 3.3493671,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515483979892723,
+          "lng": 3.350867679892722
+        },
+        "southwest": {
+          "lat": 6.512784320107278,
+          "lng": 3.348168020107277
+        }
+      },
+      "formatted_address": "18 Obafemi Ajayi St, Idi-Araba 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5140489,3.3493671",
+      "google_place_id": "ChIJtwY4BzCMOxAR4CHHE4pjtdI"
+    }
   },
   {
     "id": "330940",
@@ -557,7 +1039,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5115009,
+      "longitude": 3.3463336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.51284917989272,
+          "lng": 3.347761179892722
+        },
+        "southwest": {
+          "lat": 6.510149520107277,
+          "lng": 3.345061520107278
+        }
+      },
+      "formatted_address": "G86W+JG4, Anjorin St, Ikate 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5115009,3.3463336",
+      "google_place_id": "ChIJp3ZFqiWMOxARX6h6n_Q56n0"
+    }
   },
   {
     "id": "330941",
@@ -573,7 +1072,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5115009,
+      "longitude": 3.3463336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.51284917989272,
+          "lng": 3.347761179892722
+        },
+        "southwest": {
+          "lat": 6.510149520107277,
+          "lng": 3.345061520107278
+        }
+      },
+      "formatted_address": "G86W+JG4, Anjorin St, Ikate 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5115009,3.3463336",
+      "google_place_id": "ChIJp3ZFqiWMOxARX6h6n_Q56n0"
+    }
   },
   {
     "id": "330942",
@@ -589,7 +1105,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5115009,
+      "longitude": 3.3463336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.51284917989272,
+          "lng": 3.347761179892722
+        },
+        "southwest": {
+          "lat": 6.510149520107277,
+          "lng": 3.345061520107278
+        }
+      },
+      "formatted_address": "G86W+JG4, Anjorin St, Ikate 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5115009,3.3463336",
+      "google_place_id": "ChIJp3ZFqiWMOxARX6h6n_Q56n0"
+    }
   },
   {
     "id": "330943",
@@ -605,7 +1138,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513332,
+      "longitude": 3.3514862,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514851829892722,
+          "lng": 3.352754329892722
+        },
+        "southwest": {
+          "lat": 6.512152170107278,
+          "lng": 3.350054670107277
+        }
+      },
+      "formatted_address": "G972+8HQ, Oju Elegba Rd, Ikate 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513332,3.3514862",
+      "google_place_id": "ChIJ51HbXjqMOxARPlTkgli00UY"
+    }
   },
   {
     "id": "330944",
@@ -621,7 +1171,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5132732,
+      "longitude": 3.3536768,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514623029892722,
+          "lng": 3.355026629892722
+        },
+        "southwest": {
+          "lat": 6.511923370107279,
+          "lng": 3.352326970107277
+        }
+      },
+      "formatted_address": "Taju Thompson Dr & Durojaiye St, Idi-Araba 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5132732,3.3536768",
+      "google_place_id": "EkFUYWp1IFRob21wc29uIERyICYgRHVyb2phaXllIFN0LCBJZGktQXJhYmEgMTAxMjQxLCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCcFxMwU6jDsQEWURGFq-ti7oEhQKEgnBcTMFOow7EBFlERhavrYu6BoUChIJJ067oDCMOxARuE0c4AKXM1QaFAoSCYk0Zm46jDsQEebv30WYdrllIgoNvNjhAxUAu_8B"
+    }
   },
   {
     "id": "330945",
@@ -637,7 +1204,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5118528,
+      "longitude": 3.3609343,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5194237,
+          "lng": 3.3662617
+        },
+        "southwest": {
+          "lat": 6.5083726,
+          "lng": 3.3487164
+        }
+      },
+      "formatted_address": "Akinhanmi/Cole, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5118528,3.3609343",
+      "google_place_id": "ChIJF_UDijeMOxARTY0PK1AutKo"
+    }
   },
   {
     "id": "330946",
@@ -653,7 +1237,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5118528,
+      "longitude": 3.3609343,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5194237,
+          "lng": 3.3662617
+        },
+        "southwest": {
+          "lat": 6.5083726,
+          "lng": 3.3487164
+        }
+      },
+      "formatted_address": "Akinhanmi/Cole, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5118528,3.3609343",
+      "google_place_id": "ChIJF_UDijeMOxARTY0PK1AutKo"
+    }
   },
   {
     "id": "330947",
@@ -669,7 +1270,8 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "330948",
@@ -685,7 +1287,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5139906,
+      "longitude": 3.3600667,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515340429892721,
+          "lng": 3.361416529892722
+        },
+        "southwest": {
+          "lat": 6.512640770107277,
+          "lng": 3.358716870107277
+        }
+      },
+      "formatted_address": "Mabo St, Surulere 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5139906,3.3600667",
+      "google_place_id": "ChIJD_Ed-UeMOxARqipMSqv18lU"
+    }
   },
   {
     "id": "330949",
@@ -701,7 +1320,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.512527899999999,
+      "longitude": 3.3623206,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513877729892721,
+          "lng": 3.363670429892722
+        },
+        "southwest": {
+          "lat": 6.511178070107277,
+          "lng": 3.360970770107278
+        }
+      },
+      "formatted_address": "Ayilara St & Cole St, Idi Oro 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.512527899999999,3.3623206",
+      "google_place_id": "EjRBeWlsYXJhIFN0ICYgQ29sZSBTdCwgSWRpIE9ybyAxMDEyNDEsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJvVr_N0aMOxARrIfGnYvEOHYSFAoSCb1a_zdGjDsQEayHxp2LxDh2GhQKEgltR2_6Row7EBGPcOxjF1o1xxoUChIJjzUlxkeMOxAR_cwyToLRK88iCg2fu-EDFaYMAQI"
+    }
   },
   {
     "id": "330950",
@@ -717,7 +1353,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5171028,
+      "longitude": 3.3632407,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518452629892723,
+          "lng": 3.364590529892722
+        },
+        "southwest": {
+          "lat": 6.515752970107279,
+          "lng": 3.361890870107278
+        }
+      },
+      "formatted_address": "Akinwande St & Odejayi Cres, Idi Oro 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5171028,3.3632407",
+      "google_place_id": "EjtBa2lud2FuZGUgU3QgJiBPZGVqYXlpIENyZXMsIElkaSBPcm8gMTAxMjQxLCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCQe4FSNJjDsQEexoL2pGeKnFEhQKEgkHuBUjSYw7EBHsaC9qRnipxRoUChIJmZpUO0mMOxARBJCLUS3A9sYaFAoSCfWD8zlJjDsQESf4FkT2GHF0IgoNVG7iAxWXMAEC"
+    }
   },
   {
     "id": "330951",
@@ -733,7 +1386,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.516254,
+      "longitude": 3.3638183,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517583929892721,
+          "lng": 3.365161229892722
+        },
+        "southwest": {
+          "lat": 6.514884270107277,
+          "lng": 3.362461570107278
+        }
+      },
+      "formatted_address": "14 Akinhanmi St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.516254,3.3638183",
+      "google_place_id": "ChIJz6I91EiMOxARMHqJNDvmnR8"
+    }
   },
   {
     "id": "330952",
@@ -749,7 +1419,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5164617,
+      "longitude": 3.3630486,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517811529892722,
+          "lng": 3.364398429892722
+        },
+        "southwest": {
+          "lat": 6.515111870107278,
+          "lng": 3.361698770107277
+        }
+      },
+      "formatted_address": "Akinwande St & Akinhanmi St, Idi Oro 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5164617,3.3630486",
+      "google_place_id": "EjtBa2lud2FuZGUgU3QgJiBBa2luaGFubWkgU3QsIElkaSBPcm8gMTAxMjQxLCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCT9e4d9IjDsQEaCYemb8evSOEhQKEgk_XuHfSIw7EBGgmHpm_Hr0jhoUChIJmZpUO0mMOxARBJCLUS3A9sYaFAoSCfUX4dhIjDsQESEIHuSdReWQIgoNSVXiAxUWKQEC"
+    }
   },
   {
     "id": "330953",
@@ -765,7 +1452,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5151001,
+      "longitude": 3.3631856,
+      "viewport": {
+        "northeast": {
+          "lat": 6.516418229892721,
+          "lng": 3.364566079892723
+        },
+        "southwest": {
+          "lat": 6.513718570107277,
+          "lng": 3.361866420107278
+        }
+      },
+      "formatted_address": "Off AP Filling Station, Oju Elegba, 98 Ibidun St, Surulere, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5151001,3.3631856",
+      "google_place_id": "ChIJSwKywEiMOxARagQWQg0xtXY"
+    }
   },
   {
     "id": "330954",
@@ -781,7 +1485,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5134425,
+      "longitude": 3.3506336,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514792329892722,
+          "lng": 3.351983429892722
+        },
+        "southwest": {
+          "lat": 6.512092670107278,
+          "lng": 3.349283770107277
+        }
+      },
+      "formatted_address": "Adedoyin Rd & Fashina St, Idi-Araba 101241, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5134425,3.3506336",
+      "google_place_id": "EjpBZGVkb3lpbiBSZCAmIEZhc2hpbmEgU3QsIElkaS1BcmFiYSAxMDEyNDEsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJn_j-mDqMOxAR-EKJRN3H-J0SFAoSCZ_4_pg6jDsQEfhCiUTdx_idGhQKEgnRgQecOow7EBEATJ9fOw5hLxoUChIJ8SlVdTCMOxARLTDwbv6mPJoiCg1Z3-EDFSBE_wE"
+    }
   },
   {
     "id": "330955",
@@ -797,7 +1518,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5006881,
+      "longitude": 3.3517047,
+      "viewport": {
+        "northeast": {
+          "lat": 6.502064579892721,
+          "lng": 3.353066529892723
+        },
+        "southwest": {
+          "lat": 6.499364920107277,
+          "lng": 3.350366870107278
+        }
+      },
+      "formatted_address": "7 Moronu Maduagwu St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5006881,3.3517047",
+      "google_place_id": "ChIJgWCQVRaMOxARoi1NL22KTAs"
+    }
   },
   {
     "id": "330956",
@@ -813,7 +1551,24 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4854229,
+      "longitude": 3.3575203,
+      "viewport": {
+        "northeast": {
+          "lat": 6.486661479892723,
+          "lng": 3.358842079892722
+        },
+        "southwest": {
+          "lat": 6.483961820107279,
+          "lng": 3.356142420107277
+        }
+      },
+      "formatted_address": "17 Akinsemoyin St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4854229,3.3575203",
+      "google_place_id": "ChIJC7jpFwuMOxARMCtiIA13-Mk"
+    }
   },
   {
     "id": "330957",
@@ -829,6 +1584,23 @@
     "local_government_id": "525",
     "local_government_name": "SURULERE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5118528,
+      "longitude": 3.3609343,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5194237,
+          "lng": 3.3662617
+        },
+        "southwest": {
+          "lat": 6.5083726,
+          "lng": 3.3487164
+        }
+      },
+      "formatted_address": "Akinhanmi/Cole, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5118528,3.3609343",
+      "google_place_id": "ChIJF_UDijeMOxARTY0PK1AutKo"
+    }
   }
 ]

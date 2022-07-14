@@ -13,7 +13,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5059211,
+      "longitude": 3.3155903,
+      "viewport": {
+        "northeast": {
+          "lat": 6.507284229892722,
+          "lng": 3.316928679892722
+        },
+        "southwest": {
+          "lat": 6.504584570107278,
+          "lng": 3.314229020107278
+        }
+      },
+      "formatted_address": "5 Ayodele Akinyemi St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5059211,3.3155903",
+      "google_place_id": "ChIJyzeLTeqOOxARK7MJAOy6Fi8"
+    }
   },
   {
     "id": "123246",
@@ -29,7 +46,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.523498,
+      "longitude": 3.3339086,
+      "viewport": {
+        "northeast": {
+          "lat": 6.524847829892723,
+          "lng": 3.335258429892722
+        },
+        "southwest": {
+          "lat": 6.522148170107279,
+          "lng": 3.332558770107278
+        }
+      },
+      "formatted_address": "Anuoluwapo Street & Ajani Street, Isaga Tedo 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.523498,3.3339086",
+      "google_place_id": "EkNBbnVvbHV3YXBvIFN0cmVldCAmIEFqYW5pIFN0cmVldCwgSXNhZ2EgVGVkbyAxMDIyMTQsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJ_ZH7SoeOOxARK7HOLLaZ4HYSFAoSCf2R-0qHjjsQESuxziy2meB2GhQKEgmfcHe3gI47EBF2M_QpNKbzhBoUChIJlcYIMIeOOxARJyxzCddubZ0iCg0kaOMDFc62_AE"
+    }
   },
   {
     "id": "123247",
@@ -45,7 +79,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5230489,
+      "longitude": 3.3348698,
+      "viewport": {
+        "northeast": {
+          "lat": 6.524358729892723,
+          "lng": 3.336228129892723
+        },
+        "southwest": {
+          "lat": 6.521659070107279,
+          "lng": 3.333528470107278
+        }
+      },
+      "formatted_address": "13 Hassan St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5230489,3.3348698",
+      "google_place_id": "ChIJBQpgwYCOOxARLYu79QQ67uM"
+    }
   },
   {
     "id": "123248",
@@ -61,7 +112,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.526233299999999,
+      "longitude": 3.3359751,
+      "viewport": {
+        "northeast": {
+          "lat": 6.527554179892722,
+          "lng": 3.337321929892723
+        },
+        "southwest": {
+          "lat": 6.524854520107279,
+          "lng": 3.334622270107278
+        }
+      },
+      "formatted_address": "Block H, Plot 7 Oshodi Industrial Estate Lagos, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.526233299999999,3.3359751",
+      "google_place_id": "ChIJc4mOs3yPOxARhPwZxKVgvZs"
+    }
   },
   {
     "id": "123249",
@@ -77,7 +145,8 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "123250",
@@ -93,7 +162,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5043261,
+      "longitude": 3.306797,
+      "viewport": {
+        "northeast": {
+          "lat": 6.505629579892722,
+          "lng": 3.308192179892722
+        },
+        "southwest": {
+          "lat": 6.502929920107278,
+          "lng": 3.305492520107277
+        }
+      },
+      "formatted_address": "108 Ago Palace Way, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5043261,3.306797",
+      "google_place_id": "ChIJmxej8i-POxARJOXkAx_c6jg"
+    }
   },
   {
     "id": "123251",
@@ -109,7 +195,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5065637,
+      "longitude": 3.3086624,
+      "viewport": {
+        "northeast": {
+          "lat": 6.507913529892722,
+          "lng": 3.310012229892723
+        },
+        "southwest": {
+          "lat": 6.505213870107278,
+          "lng": 3.307312570107278
+        }
+      },
+      "formatted_address": "5 Abioye Gbadamosi St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5065637,3.3086624",
+      "google_place_id": "Ejc1IEFiaW95ZSBHYmFkYW1vc2kgU3QsIElsYXNhbWFqYSAxMDIyMTQsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJuQzkJeaOOxARk6kj6Pm2aQ8QBSoUChIJe6eqgOiOOxAR0hUov6m-Khc"
+    }
   },
   {
     "id": "123252",
@@ -125,7 +228,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.522274,
+      "longitude": 3.3347147,
+      "viewport": {
+        "northeast": {
+          "lat": 6.523623829892722,
+          "lng": 3.336064529892722
+        },
+        "southwest": {
+          "lat": 6.520924170107278,
+          "lng": 3.333364870107277
+        }
+      },
+      "formatted_address": "Durowoju St & Alh.Yaya St, Isaga Tedo 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.522274,3.3347147",
+      "google_place_id": "EjxEdXJvd29qdSBTdCAmIEFsaC5ZYXlhIFN0LCBJc2FnYSBUZWRvIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgkrpdzZgI47EBH_M1SZbQbnXBIUChIJK6Xc2YCOOxAR_zNUmW0G51waFAoSCaNM3iaBjjsQEeEEGLdB4JWaGhQKEgl3xt_dgI47EBFQfU0zUNi7JCIKDVQ44wMVS9b8AQ"
+    }
   },
   {
     "id": "123253",
@@ -141,7 +261,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.520511099999999,
+      "longitude": 3.3349182,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521860929892721,
+          "lng": 3.336268029892722
+        },
+        "southwest": {
+          "lat": 6.519161270107277,
+          "lng": 3.333568370107277
+        }
+      },
+      "formatted_address": "Ijaiye Cl & Apapa-Oshodi Express Way, Isaga Tedo 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.520511099999999,3.3349182",
+      "google_place_id": "EkdJamFpeWUgQ2wgJiBBcGFwYS1Pc2hvZGkgRXhwcmVzcyBXYXksIElzYWdhIFRlZG8gMTAyMjE0LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCYNBskGBjjsQEWYQtV2V6zwYEhQKEgmDQbJBgY47EBFmELVdles8GBoUChIJ5zyONYGOOxARULWIWwazFm4aFAoSCZlwI1sTiTsQEV7Yo8IcHvmsIgoNd_PiAxU-3vwB"
+    }
   },
   {
     "id": "123254",
@@ -157,7 +294,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538281800000001,
+      "longitude": 3.3319929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539626529892722,
+          "lng": 3.333342179892723
+        },
+        "southwest": {
+          "lat": 6.536926870107278,
+          "lng": 3.330642520107278
+        }
+      },
+      "formatted_address": "Bola Ademuyiwa St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538281800000001,3.3319929",
+      "google_place_id": "ChIJpzqxHHGOOxAR6s26TMdooWM"
+    }
   },
   {
     "id": "123255",
@@ -173,7 +327,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.546196,
+      "longitude": 3.3771221,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547635029892723,
+          "lng": 3.378493129892722
+        },
+        "southwest": {
+          "lat": 6.544935370107279,
+          "lng": 3.375793470107278
+        }
+      },
+      "formatted_address": "12 Adijat St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.546196,3.3771221",
+      "google_place_id": "EioxMiBBZGlqYXQgU3QsIFBlZHJvIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEglZFC6bn407EBELZcKw5dO52hAMKhQKEglji6qan407EBEnE6gWrz6S8Q"
+    }
   },
   {
     "id": "123256",
@@ -189,7 +360,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5459878,
+      "longitude": 3.3332818,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547439529892721,
+          "lng": 3.334557879892722
+        },
+        "southwest": {
+          "lat": 6.544739870107278,
+          "lng": 3.331858220107278
+        }
+      },
+      "formatted_address": "98 Agbor St, Ajao Estate 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5459878,3.3332818",
+      "google_place_id": "ChIJQW1SrQyOOxARGd2PAw1cKZ4"
+    }
   },
   {
     "id": "123257",
@@ -205,7 +393,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.520140100000001,
+      "longitude": 3.3434243,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521534229892722,
+          "lng": 3.344773729892722
+        },
+        "southwest": {
+          "lat": 6.518834570107278,
+          "lng": 3.342074070107277
+        }
+      },
+      "formatted_address": "31 Tanimola St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.520140100000001,3.3434243",
+      "google_place_id": "ChIJPczq8SuMOxARidJoKRP8tVM"
+    }
   },
   {
     "id": "123258",
@@ -221,7 +426,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5210092,
+      "longitude": 3.3400908,
+      "viewport": {
+        "northeast": {
+          "lat": 6.522360729892722,
+          "lng": 3.341498529892723
+        },
+        "southwest": {
+          "lat": 6.519661070107278,
+          "lng": 3.338798870107278
+        }
+      },
+      "formatted_address": "G8CR+C24, Off Akanro Street, Mushin, Ilasa, Anifowoshe St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5210092,3.3400908",
+      "google_place_id": "ChIJ9SvyaSqMOxARGGeYQUL1ihg"
+    }
   },
   {
     "id": "123259",
@@ -237,7 +459,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.520661,
+      "longitude": 3.3326799,
+      "viewport": {
+        "northeast": {
+          "lat": 6.522004479892723,
+          "lng": 3.334071979892722
+        },
+        "southwest": {
+          "lat": 6.519304820107278,
+          "lng": 3.331372320107278
+        }
+      },
+      "formatted_address": "Ilasamaja, Isolo, 15 Tanimola Street, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.520661,3.3326799",
+      "google_place_id": "ChIJeYTkv4aOOxARYfiMZThxgB8"
+    }
   },
   {
     "id": "123260",
@@ -253,7 +492,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4917455,
+      "longitude": 3.3578384,
+      "viewport": {
+        "northeast": {
+          "lat": 6.493047029892721,
+          "lng": 3.359184479892722
+        },
+        "southwest": {
+          "lat": 6.490347370107277,
+          "lng": 3.356484820107277
+        }
+      },
+      "formatted_address": "Adeniran Ogunsanya Street, 17 Modupe Johnson Cresent, Surulere 101283, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4917455,3.3578384",
+      "google_place_id": "ChIJQVtDTSiNOxARnbHQacj1pus"
+    }
   },
   {
     "id": "123261",
@@ -269,7 +525,8 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "123262",
@@ -285,7 +542,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5202917,
+      "longitude": 3.3299552,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521630479892722,
+          "lng": 3.331325579892722
+        },
+        "southwest": {
+          "lat": 6.518930820107278,
+          "lng": 3.328625920107277
+        }
+      },
+      "formatted_address": "Iyana Itire, 9 Adegbola St, Ilasamaja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5202917,3.3299552",
+      "google_place_id": "ChIJbS8OE4aOOxAR79OPrXAygb0"
+    }
   },
   {
     "id": "123263",
@@ -301,7 +575,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.518381199999999,
+      "longitude": 3.3330481,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519811729892722,
+          "lng": 3.334410779892722
+        },
+        "southwest": {
+          "lat": 6.517112070107277,
+          "lng": 3.331711120107278
+        }
+      },
+      "formatted_address": "26 Salamotu St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.518381199999999,3.3330481",
+      "google_place_id": "ChIJPSuIEYSOOxARpdsQo34Di9o"
+    }
   },
   {
     "id": "123264",
@@ -317,7 +608,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.518401900000001,
+      "longitude": 3.3323366,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519826729892722,
+          "lng": 3.333666329892722
+        },
+        "southwest": {
+          "lat": 6.517127070107279,
+          "lng": 3.330966670107277
+        }
+      },
+      "formatted_address": "14 Salamotu St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.518401900000001,3.3323366",
+      "google_place_id": "EjMxNCBTYWxhbW90dSBTdCwgT3Nob2RpLUlzb2xvIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgnLRJ0whI47EBFy1PcG0bztxhAOKhQKEgnTLuYThI47EBH2lXwYWHH-IQ"
+    }
   },
   {
     "id": "123265",
@@ -333,7 +641,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.518011700000001,
+      "longitude": 3.3327783,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519361529892723,
+          "lng": 3.334128129892722
+        },
+        "southwest": {
+          "lat": 6.516661870107279,
+          "lng": 3.331428470107277
+        }
+      },
+      "formatted_address": "Sofuye St & Ajiga Cl, Ilasamaja 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.518011700000001,3.3327783",
+      "google_place_id": "EjZTb2Z1eWUgU3QgJiBBamlnYSBDbCwgSWxhc2FtYWphIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgmxph9AhI47EBEWqOoEm0cleBIUChIJsaYfQISOOxARFqjqBJtHJXgaFAoSCSX_nnaEjjsQEUMUYqM6miK3GhQKEgkLrptAhI47EBFVzifvLNM6YCIKDdWR4gMVp4r8AQ"
+    }
   },
   {
     "id": "123266",
@@ -349,7 +674,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513914499999999,
+      "longitude": 3.3275615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515264329892721,
+          "lng": 3.328911329892722
+        },
+        "southwest": {
+          "lat": 6.512564670107277,
+          "lng": 3.326211670107277
+        }
+      },
+      "formatted_address": "Ajose St & Olufemi Samson St, Ilasamaja 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513914499999999,3.3275615",
+      "google_place_id": "Ej5Bam9zZSBTdCAmIE9sdWZlbWkgU2Ftc29uIFN0LCBJbGFzYW1hamEgMTAyMjE0LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCRWGgB-QjjsQEf4DAtzEVsviEhQKEgkVhoAfkI47EBH-AwLcxFbL4hoUChIJ3-LlAZCOOxARTN0mOAFvXxcaFAoSCVcO_t6PjjsQETczlVqPxuD1IgoNyfHhAxXfvvsB"
+    }
   },
   {
     "id": "123267",
@@ -365,7 +707,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5126317,
+      "longitude": 3.325566,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514028229892721,
+          "lng": 3.326903379892723
+        },
+        "southwest": {
+          "lat": 6.511328570107278,
+          "lng": 3.324203720107278
+        }
+      },
+      "formatted_address": "5 Igbesi Street, Okomala, Ilasamaja, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5126317,3.325566",
+      "google_place_id": "ChIJ86Z-t5GOOxARwWCYONAn8r0"
+    }
   },
   {
     "id": "123268",
@@ -381,7 +740,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5131479,
+      "longitude": 3.3253148,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514486629892723,
+          "lng": 3.326617029892722
+        },
+        "southwest": {
+          "lat": 6.511786970107279,
+          "lng": 3.323917370107278
+        }
+      },
+      "formatted_address": "10 Oseni Agoro St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5131479,3.3253148",
+      "google_place_id": "ChIJKyjuw5GOOxARDnXVXiu4wRA"
+    }
   },
   {
     "id": "123269",
@@ -397,7 +773,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.515687499999999,
+      "longitude": 3.327865,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517037329892721,
+          "lng": 3.329214829892722
+        },
+        "southwest": {
+          "lat": 6.514337670107277,
+          "lng": 3.326515170107278
+        }
+      },
+      "formatted_address": "Mabinuori St & Oguntoyinbo St, Ilasamaja 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.515687499999999,3.327865",
+      "google_place_id": "Ej9NYWJpbnVvcmkgU3QgJiBPZ3VudG95aW5ibyBTdCwgSWxhc2FtYWphIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgmx7MCVj447EBH6BAbD9vN3BxIUChIJsezAlY-OOxAR-gQGw_bzdwcaFAoSCaF20piPjjsQEYKoUrUn3vYwGhQKEgl93SF3j447EBFUaIeLMlNBeCIKDQs34gMVusr7AQ"
+    }
   },
   {
     "id": "123270",
@@ -413,7 +806,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5146977,
+      "longitude": 3.3300705,
+      "viewport": {
+        "northeast": {
+          "lat": 6.516101329892722,
+          "lng": 3.331412979892722
+        },
+        "southwest": {
+          "lat": 6.513401670107278,
+          "lng": 3.328713320107278
+        }
+      },
+      "formatted_address": "20 Temitope St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5146977,3.3300705",
+      "google_place_id": "ChIJmycCSIWOOxARJ_M-iB9zgxc"
+    }
   },
   {
     "id": "123271",
@@ -429,7 +839,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.562539399999999,
+      "longitude": 3.3445192,
+      "viewport": {
+        "northeast": {
+          "lat": 6.563849079892721,
+          "lng": 3.345881729892722
+        },
+        "southwest": {
+          "lat": 6.561149420107277,
+          "lng": 3.343182070107277
+        }
+      },
+      "formatted_address": "72 Oyetayo St, Mafoluku Oshodi 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.562539399999999,3.3445192",
+      "google_place_id": "ChIJp6_4TPmNOxARXRQFU9OFu9c"
+    }
   },
   {
     "id": "123272",
@@ -445,7 +872,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5162863,
+      "longitude": 3.3320073,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517674729892721,
+          "lng": 3.333350329892722
+        },
+        "southwest": {
+          "lat": 6.514975070107277,
+          "lng": 3.330650670107278
+        }
+      },
+      "formatted_address": "Off Baale, Iyana Itire, Oshodi, 1 Ibadan St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5162863,3.3320073",
+      "google_place_id": "ChIJ_fyX8ISOOxAR0vnUboaYvfc"
+    }
   },
   {
     "id": "123273",
@@ -461,7 +905,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.527898899999999,
+      "longitude": 3.3485397,
+      "viewport": {
+        "northeast": {
+          "lat": 6.529209929892723,
+          "lng": 3.349878129892722
+        },
+        "southwest": {
+          "lat": 6.526510270107279,
+          "lng": 3.347178470107278
+        }
+      },
+      "formatted_address": "9 Omowunmi St, Mushin 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.527898899999999,3.3485397",
+      "google_place_id": "ChIJzTDOfdKNOxARHqX1N5_d_M8"
+    }
   },
   {
     "id": "123274",
@@ -477,7 +938,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5175136,
+      "longitude": 3.3313079,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518863429892723,
+          "lng": 3.332657729892722
+        },
+        "southwest": {
+          "lat": 6.516163770107278,
+          "lng": 3.329958070107277
+        }
+      },
+      "formatted_address": "Adeyiga St & Oyeleru St, Ilasamaja 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5175136,3.3313079",
+      "google_place_id": "EjlBZGV5aWdhIFN0ICYgT3llbGVydSBTdCwgSWxhc2FtYWphIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgmJWUKyhY47EBGCVcCD4vCgSxIUChIJiVlCsoWOOxARglXAg-LwoEsaFAoSCcXjMLWFjjsQEYdbkZMaU0iSGhQKEglFJxCyhY47EBFxVojefZK9wSIKDWB-4gMVN1H8AQ"
+    }
   },
   {
     "id": "123275",
@@ -493,7 +971,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538281800000001,
+      "longitude": 3.3319929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539626529892722,
+          "lng": 3.333342179892723
+        },
+        "southwest": {
+          "lat": 6.536926870107278,
+          "lng": 3.330642520107278
+        }
+      },
+      "formatted_address": "Bola Ademuyiwa St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538281800000001,3.3319929",
+      "google_place_id": "ChIJpzqxHHGOOxAR6s26TMdooWM"
+    }
   },
   {
     "id": "123276",
@@ -509,7 +1004,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.508268900000001,
+      "longitude": 3.32172,
+      "viewport": {
+        "northeast": {
+          "lat": 6.509642129892721,
+          "lng": 3.323113179892722
+        },
+        "southwest": {
+          "lat": 6.506942470107277,
+          "lng": 3.320413520107278
+        }
+      },
+      "formatted_address": "Itire, Isolo, Off Salako Street Taiwo Junction, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.508268900000001,3.32172",
+      "google_place_id": "ChIJmQwCe5SOOxARJ9hyoqnBBjc"
+    }
   },
   {
     "id": "123277",
@@ -525,7 +1037,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.517352499999999,
+      "longitude": 3.3286486,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518672079892721,
+          "lng": 3.330051229892722
+        },
+        "southwest": {
+          "lat": 6.515972420107278,
+          "lng": 3.327351570107278
+        }
+      },
+      "formatted_address": "32 Ogunbowale St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.517352499999999,3.3286486",
+      "google_place_id": "ChIJPfXfn1qPOxAREbH0_oqB9FM"
+    }
   },
   {
     "id": "123278",
@@ -541,7 +1070,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.517352499999999,
+      "longitude": 3.3286486,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518672079892721,
+          "lng": 3.330051229892722
+        },
+        "southwest": {
+          "lat": 6.515972420107278,
+          "lng": 3.327351570107278
+        }
+      },
+      "formatted_address": "32 Ogunbowale St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.517352499999999,3.3286486",
+      "google_place_id": "ChIJPfXfn1qPOxAREbH0_oqB9FM"
+    }
   },
   {
     "id": "123279",
@@ -557,7 +1103,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5182737,
+      "longitude": 3.3315773,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519693229892722,
+          "lng": 3.332910729892722
+        },
+        "southwest": {
+          "lat": 6.516993570107278,
+          "lng": 3.330211070107278
+        }
+      },
+      "formatted_address": "Off Salamotu Street, Isolo, Salamotu Junction, 14 Adeyiga St, Ilasa, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5182737,3.3315773",
+      "google_place_id": "ChIJNxwMNISOOxARtfynz_GZVe8"
+    }
   },
   {
     "id": "123280",
@@ -573,7 +1136,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.538281800000001,
+      "longitude": 3.3319929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.539626529892722,
+          "lng": 3.333342179892723
+        },
+        "southwest": {
+          "lat": 6.536926870107278,
+          "lng": 3.330642520107278
+        }
+      },
+      "formatted_address": "Bola Ademuyiwa St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.538281800000001,3.3319929",
+      "google_place_id": "ChIJpzqxHHGOOxAR6s26TMdooWM"
+    }
   },
   {
     "id": "123281",
@@ -589,7 +1169,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.518502499999999,
+      "longitude": 3.321943,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519755429892721,
+          "lng": 3.323246679892722
+        },
+        "southwest": {
+          "lat": 6.517055770107278,
+          "lng": 3.320547020107278
+        }
+      },
+      "formatted_address": "1 off Ibeh street, Dibor St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.518502499999999,3.321943",
+      "google_place_id": "ChIJlwYHZoyOOxARDuBWMKMr5Js"
+    }
   },
   {
     "id": "123282",
@@ -605,7 +1202,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5208591,
+      "longitude": 3.3293777,
+      "viewport": {
+        "northeast": {
+          "lat": 6.522189229892722,
+          "lng": 3.330779979892722
+        },
+        "southwest": {
+          "lat": 6.519489570107278,
+          "lng": 3.328080320107277
+        }
+      },
+      "formatted_address": "8 Bello St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5208591,3.3293777",
+      "google_place_id": "Ei04IEJlbGxvIFN0LCBJc2FnYSBUZWRvIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgmzSeMYho47EBGtxLV9EVPSWxAIKhQKEgk5XT8Yho47EBFLE3wuR6X1Ww"
+    }
   },
   {
     "id": "123283",
@@ -621,7 +1235,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5194104,
+      "longitude": 3.3282573,
+      "viewport": {
+        "northeast": {
+          "lat": 6.520760229892722,
+          "lng": 3.329607129892722
+        },
+        "southwest": {
+          "lat": 6.518060570107278,
+          "lng": 3.326907470107278
+        }
+      },
+      "formatted_address": "Bankole St & Taoheed Banks St, Ilasamaja 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5194104,3.3282573",
+      "google_place_id": "Ej9CYW5rb2xlIFN0ICYgVGFvaGVlZCBCYW5rcyBTdCwgSWxhc2FtYWphIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiZiJkChQKEgnp1EutiI47EBF0OlUydwzLmBIUChIJ6dRLrYiOOxARdDpVMncMy5gaFAoSCT2hg0WPjjsQEUd3teYfWU_4GhQKEgkH_prKiI47EBEK-Q7rpftpQyIKDXjI4gMVDdr7AQ"
+    }
   },
   {
     "id": "123284",
@@ -637,7 +1268,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5138424,
+      "longitude": 3.3208943,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515226079892721,
+          "lng": 3.322304529892722
+        },
+        "southwest": {
+          "lat": 6.512526420107277,
+          "lng": 3.319604870107277
+        }
+      },
+      "formatted_address": "G87C+G9V, Isolo, Okota Rd, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5138424,3.3208943",
+      "google_place_id": "ChIJ0xJFm5KOOxARs0OKrPCzQL8"
+    }
   },
   {
     "id": "123285",
@@ -653,7 +1301,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.520161900000001,
+      "longitude": 3.3256369,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521594729892721,
+          "lng": 3.326982729892722
+        },
+        "southwest": {
+          "lat": 6.518895070107277,
+          "lng": 3.324283070107278
+        }
+      },
+      "formatted_address": "G8CG+376, Ire Akari, Ilasamaja, Godwin Omonua St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.520161900000001,3.3256369",
+      "google_place_id": "ChIJHygs2YiOOxARPb2VHoIjD-A"
+    }
   },
   {
     "id": "123286",
@@ -669,7 +1334,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.520102100000001,
+      "longitude": 3.3228839,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521467579892721,
+          "lng": 3.324233679892723
+        },
+        "southwest": {
+          "lat": 6.518767920107277,
+          "lng": 3.321534020107278
+        }
+      },
+      "formatted_address": "G8CF+252, Godwin Omonua St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.520102100000001,3.3228839",
+      "google_place_id": "ChIJLZvHWYmOOxAROfrcmm5Wglk"
+    }
   },
   {
     "id": "123287",
@@ -685,7 +1367,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513213200000001,
+      "longitude": 3.3217416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514479029892724,
+          "lng": 3.323109129892723
+        },
+        "southwest": {
+          "lat": 6.51177937010728,
+          "lng": 3.320409470107278
+        }
+      },
+      "formatted_address": "G87C+7MQ, Eddy Onugha Dr, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513213200000001,3.3217416",
+      "google_place_id": "ChIJy6lsZpKOOxARJ3Be9t0gh1Q"
+    }
   },
   {
     "id": "123288",
@@ -701,7 +1400,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513213200000001,
+      "longitude": 3.3217416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514479029892724,
+          "lng": 3.323109129892723
+        },
+        "southwest": {
+          "lat": 6.51177937010728,
+          "lng": 3.320409470107278
+        }
+      },
+      "formatted_address": "G87C+7MQ, Eddy Onugha Dr, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513213200000001,3.3217416",
+      "google_place_id": "ChIJy6lsZpKOOxARJ3Be9t0gh1Q"
+    }
   },
   {
     "id": "123289",
@@ -717,7 +1433,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5054526,
+      "longitude": 3.3152312,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506856529892722,
+          "lng": 3.316527829892722
+        },
+        "southwest": {
+          "lat": 6.504156870107278,
+          "lng": 3.313828170107277
+        }
+      },
+      "formatted_address": "11 Ayodele Akinyemi St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5054526,3.3152312",
+      "google_place_id": "EjgxMSBBeW9kZWxlIEFraW55ZW1pIFN0LCBJbGFzYW1hamEgMTAyMjE0LCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCSEFFkjqjjsQEXnLvyyYqBXvEAsqFAoSCeshG0zqjjsQEQFgBLn9nesa"
+    }
   },
   {
     "id": "123290",
@@ -733,7 +1466,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5230257,
+      "longitude": 3.3340039,
+      "viewport": {
+        "northeast": {
+          "lat": 6.524332179892722,
+          "lng": 3.335339529892722
+        },
+        "southwest": {
+          "lat": 6.521632520107278,
+          "lng": 3.332639870107278
+        }
+      },
+      "formatted_address": "18 Hassan St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5230257,3.3340039",
+      "google_place_id": "ChIJBQpgwYCOOxARxwFA_74sFy8"
+    }
   },
   {
     "id": "123291",
@@ -749,7 +1499,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.495803899999999,
+      "longitude": 3.3408987,
+      "viewport": {
+        "northeast": {
+          "lat": 6.497050279892722,
+          "lng": 3.342278779892723
+        },
+        "southwest": {
+          "lat": 6.494350620107278,
+          "lng": 3.339579120107278
+        }
+      },
+      "formatted_address": "4 Adefowope St, Surulere 101241, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.495803899999999,3.3408987",
+      "google_place_id": "ChIJ7bkZrx2MOxARZ56QiwoMmnw"
+    }
   },
   {
     "id": "123292",
@@ -765,7 +1532,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5043098,
+      "longitude": 3.2986448,
+      "viewport": {
+        "northeast": {
+          "lat": 6.505593829892722,
+          "lng": 3.299921779892722
+        },
+        "southwest": {
+          "lat": 6.502894170107278,
+          "lng": 3.297222120107278
+        }
+      },
+      "formatted_address": "No 44 community road, Off Ago Palace Way, Oshodi-Isolo, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5043098,3.2986448",
+      "google_place_id": "ChIJO05Jl9-POxARINSfncQ1fzg"
+    }
   },
   {
     "id": "123293",
@@ -781,7 +1565,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5226397,
+      "longitude": 3.3326976,
+      "viewport": {
+        "northeast": {
+          "lat": 6.523995029892722,
+          "lng": 3.334022579892722
+        },
+        "southwest": {
+          "lat": 6.521295370107278,
+          "lng": 3.331322920107278
+        }
+      },
+      "formatted_address": "Ilasamaja, Isolo, 1 Gbadamosi Commercial, Mushin, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5226397,3.3326976",
+      "google_place_id": "ChIJId38PIeOOxARtuuMHKUBvbo"
+    }
   },
   {
     "id": "123294",
@@ -797,7 +1598,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5120558,
+      "longitude": 3.3338531,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513405629892723,
+          "lng": 3.335202929892722
+        },
+        "southwest": {
+          "lat": 6.510705970107279,
+          "lng": 3.332503270107277
+        }
+      },
+      "formatted_address": "8 Ijaiye St, Itire 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5120558,3.3338531",
+      "google_place_id": "Eik4IElqYWl5ZSBTdCwgSXRpcmUgMTAyMjE1LCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCVHfN52cjjsQEfZI09CX5VfBEAgqFAoSCXMJPAmbjjsQEeQLLvC3WJxH"
+    }
   },
   {
     "id": "123295",
@@ -813,7 +1631,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5203706,
+      "longitude": 3.333104,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521779479892721,
+          "lng": 3.334464529892722
+        },
+        "southwest": {
+          "lat": 6.519079820107277,
+          "lng": 3.331764870107278
+        }
+      },
+      "formatted_address": "2 Bale St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5203706,3.333104",
+      "google_place_id": "ChIJWTqGuYaOOxARWV7qxyMDD0s"
+    }
   },
   {
     "id": "123296",
@@ -829,7 +1664,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.546196,
+      "longitude": 3.3771221,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547635029892723,
+          "lng": 3.378493129892722
+        },
+        "southwest": {
+          "lat": 6.544935370107279,
+          "lng": 3.375793470107278
+        }
+      },
+      "formatted_address": "16 Adijat St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.546196,3.3771221",
+      "google_place_id": "EioxNiBBZGlqYXQgU3QsIFBlZHJvIDEwMjIxNiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEglZFC6bn407EBELZcKw5dO52hAQKhQKEglji6qan407EBEnE6gWrz6S8Q"
+    }
   },
   {
     "id": "123297",
@@ -845,7 +1697,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5464058,
+      "longitude": 3.3770305,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547755629892722,
+          "lng": 3.378380329892722
+        },
+        "southwest": {
+          "lat": 6.545055970107278,
+          "lng": 3.375680670107277
+        }
+      },
+      "formatted_address": "3 Adijat St, Pedro 102216, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5464058,3.3770305",
+      "google_place_id": "EikzIEFkaWphdCBTdCwgUGVkcm8gMTAyMjE2LCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCVkULpufjTsQEXukYdxkSyA6EAMqFAoSCWOLqpqfjTsQEScTqBavPpLx"
+    }
   },
   {
     "id": "123298",
@@ -861,7 +1730,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.521488199999999,
+      "longitude": 3.3348153,
+      "viewport": {
+        "northeast": {
+          "lat": 6.522838029892721,
+          "lng": 3.336165129892722
+        },
+        "southwest": {
+          "lat": 6.520138370107277,
+          "lng": 3.333465470107278
+        }
+      },
+      "formatted_address": "2 Ifelodun St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.521488199999999,3.3348153",
+      "google_place_id": "EjAyIElmZWxvZHVuIFN0LCBJc2FnYSBUZWRvIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgk7GYkkgY47EBGhWJVrxa0h-xACKhQKEglnnzLRho47EBFStAJWnQyxrw"
+    }
   },
   {
     "id": "123299",
@@ -877,7 +1763,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5218018,
+      "longitude": 3.3317103,
+      "viewport": {
+        "northeast": {
+          "lat": 6.523127629892723,
+          "lng": 3.333128579892723
+        },
+        "southwest": {
+          "lat": 6.520427970107279,
+          "lng": 3.330428920107278
+        }
+      },
+      "formatted_address": "3 Fabiyi St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5218018,3.3317103",
+      "google_place_id": "ChIJt-E__IaOOxARgCG83RsRhzk"
+    }
   },
   {
     "id": "123300",
@@ -893,7 +1796,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5186606,
+      "longitude": 3.3333512,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519922279892722,
+          "lng": 3.334670529892723
+        },
+        "southwest": {
+          "lat": 6.517222620107278,
+          "lng": 3.331970870107278
+        }
+      },
+      "formatted_address": "23 Salamotu St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5186606,3.3333512",
+      "google_place_id": "ChIJramFD4SOOxAR4yuQPnT_wfo"
+    }
   },
   {
     "id": "123301",
@@ -909,7 +1829,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5184164,
+      "longitude": 3.332448,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519848829892722,
+          "lng": 3.333787979892722
+        },
+        "southwest": {
+          "lat": 6.517149170107278,
+          "lng": 3.331088320107277
+        }
+      },
+      "formatted_address": "18 Salamotu St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5184164,3.332448",
+      "google_place_id": "ChIJxZfMPYSOOxARyqyXlQw9VV0"
+    }
   },
   {
     "id": "123302",
@@ -925,7 +1862,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5180042,
+      "longitude": 3.3334416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519217179892721,
+          "lng": 3.334770079892722
+        },
+        "southwest": {
+          "lat": 6.516517520107277,
+          "lng": 3.332070420107278
+        }
+      },
+      "formatted_address": "5 Sofuye St, Mushin 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5180042,3.3334416",
+      "google_place_id": "ChIJO_cxc4SOOxARdcQtdXoC4HM"
+    }
   },
   {
     "id": "123303",
@@ -941,7 +1895,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513914499999999,
+      "longitude": 3.3275615,
+      "viewport": {
+        "northeast": {
+          "lat": 6.515264329892721,
+          "lng": 3.328911329892722
+        },
+        "southwest": {
+          "lat": 6.512564670107277,
+          "lng": 3.326211670107277
+        }
+      },
+      "formatted_address": "Ajose St & Olufemi Samson St, Ilasamaja 102214, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513914499999999,3.3275615",
+      "google_place_id": "Ej5Bam9zZSBTdCAmIE9sdWZlbWkgU2Ftc29uIFN0LCBJbGFzYW1hamEgMTAyMjE0LCBMYWdvcywgTmlnZXJpYSJmImQKFAoSCRWGgB-QjjsQEf4DAtzEVsviEhQKEgkVhoAfkI47EBH-AwLcxFbL4hoUChIJ3-LlAZCOOxARTN0mOAFvXxcaFAoSCVcO_t6PjjsQETczlVqPxuD1IgoNyfHhAxXfvvsB"
+    }
   },
   {
     "id": "123304",
@@ -957,7 +1928,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5126317,
+      "longitude": 3.325566,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514028229892721,
+          "lng": 3.326903379892723
+        },
+        "southwest": {
+          "lat": 6.511328570107278,
+          "lng": 3.324203720107278
+        }
+      },
+      "formatted_address": "5 Igbesi Street, Okomala, Ilasamaja, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5126317,3.325566",
+      "google_place_id": "ChIJ86Z-t5GOOxARwWCYONAn8r0"
+    }
   },
   {
     "id": "123305",
@@ -973,7 +1961,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5123,
+      "longitude": 3.3251221,
+      "viewport": {
+        "northeast": {
+          "lat": 6.513684129892722,
+          "lng": 3.326596379892722
+        },
+        "southwest": {
+          "lat": 6.510984470107278,
+          "lng": 3.323896720107277
+        }
+      },
+      "formatted_address": "7 Oseni Agoro St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5123,3.3251221",
+      "google_place_id": "EjI3IE9zZW5pIEFnb3JvIFN0LCBJbGFzYW1hamEgMTAyMjE0LCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCfVjxbyRjjsQEVYnreX3uDxPEAcqFAoSCZ8lDMCRjjsQEeyc9EuahIY6"
+    }
   },
   {
     "id": "123306",
@@ -989,7 +1994,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.515409399999999,
+      "longitude": 3.3275086,
+      "viewport": {
+        "northeast": {
+          "lat": 6.516903779892721,
+          "lng": 3.328866079892721
+        },
+        "southwest": {
+          "lat": 6.514204120107277,
+          "lng": 3.326166420107277
+        }
+      },
+      "formatted_address": "2 Oguntoyinbo St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.515409399999999,3.3275086",
+      "google_place_id": "ChIJG633v4-OOxARsVkKHQrbVXE"
+    }
   },
   {
     "id": "123307",
@@ -1005,7 +2027,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.514699299999999,
+      "longitude": 3.3300179,
+      "viewport": {
+        "northeast": {
+          "lat": 6.516098679892721,
+          "lng": 3.331360929892722
+        },
+        "southwest": {
+          "lat": 6.513399020107277,
+          "lng": 3.328661270107278
+        }
+      },
+      "formatted_address": "21 Temitope St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.514699299999999,3.3300179",
+      "google_place_id": "ChIJ-c7wR4WOOxARwsPHEtDBT24"
+    }
   },
   {
     "id": "123308",
@@ -1021,7 +2060,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5159502,
+      "longitude": 3.331488,
+      "viewport": {
+        "northeast": {
+          "lat": 6.517451679892721,
+          "lng": 3.332809879892722
+        },
+        "southwest": {
+          "lat": 6.514752020107277,
+          "lng": 3.330110220107278
+        }
+      },
+      "formatted_address": "Ilasa, Isolo, 11 Cecelia Odutuga Street, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5159502,3.331488",
+      "google_place_id": "ChIJ2ZbqdIWOOxARzUVb0KMzejI"
+    }
   },
   {
     "id": "123309",
@@ -1037,7 +2093,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5177222,
+      "longitude": 3.3315044,
+      "viewport": {
+        "northeast": {
+          "lat": 6.519082829892722,
+          "lng": 3.332774629892723
+        },
+        "southwest": {
+          "lat": 6.516383170107278,
+          "lng": 3.330074970107278
+        }
+      },
+      "formatted_address": "6 Adeyiga St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5177222,3.3315044",
+      "google_place_id": "ChIJfzZbS4SOOxARjXXtngZ8mBE"
+    }
   },
   {
     "id": "123310",
@@ -1053,7 +2126,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5170372,
+      "longitude": 3.3312229,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518320779892722,
+          "lng": 3.332561629892722
+        },
+        "southwest": {
+          "lat": 6.515621120107278,
+          "lng": 3.329861970107277
+        }
+      },
+      "formatted_address": "11 Olorunwa St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5170372,3.3312229",
+      "google_place_id": "EjAxMSBPbG9ydW53YSBTdCwgSWxhc2FtYWphIDEwMjIxNCwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgnloWyphY47EBGXKmmcoOIeehALKhQKEglXzD-khY47EBHS4jneZ2v6pg"
+    }
   },
   {
     "id": "123311",
@@ -1069,7 +2159,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.517220699999999,
+      "longitude": 3.3287616,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518575779892721,
+          "lng": 3.330102279892722
+        },
+        "southwest": {
+          "lat": 6.515876120107277,
+          "lng": 3.327402620107278
+        }
+      },
+      "formatted_address": "33 Ogunbowale St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.517220699999999,3.3287616",
+      "google_place_id": "ChIJW-WdfY-OOxARrj9fRc_n-Zw"
+    }
   },
   {
     "id": "123312",
@@ -1085,7 +2192,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5175423,
+      "longitude": 3.3287285,
+      "viewport": {
+        "northeast": {
+          "lat": 6.518855979892721,
+          "lng": 3.330142329892722
+        },
+        "southwest": {
+          "lat": 6.516156320107277,
+          "lng": 3.327442670107277
+        }
+      },
+      "formatted_address": "30 Ogunbowale St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5175423,3.3287285",
+      "google_place_id": "ChIJX_TzYo-OOxARSvdDo3JOjEw"
+    }
   },
   {
     "id": "123313",
@@ -1101,7 +2225,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.561943899999999,
+      "longitude": 3.3414694,
+      "viewport": {
+        "northeast": {
+          "lat": 6.56319712989272,
+          "lng": 3.342821929892722
+        },
+        "southwest": {
+          "lat": 6.560497470107276,
+          "lng": 3.340122270107277
+        }
+      },
+      "formatted_address": "4 Salawu St, Mafoluku Oshodi 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.561943899999999,3.3414694",
+      "google_place_id": "ChIJrY8fgP6NOxAR1kbtcI66k44"
+    }
   },
   {
     "id": "123314",
@@ -1117,7 +2258,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5191425,
+      "longitude": 3.329659,
+      "viewport": {
+        "northeast": {
+          "lat": 6.520494679892721,
+          "lng": 3.331001679892722
+        },
+        "southwest": {
+          "lat": 6.517795020107277,
+          "lng": 3.328302020107277
+        }
+      },
+      "formatted_address": "1 Ogunbowale St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5191425,3.329659",
+      "google_place_id": "ChIJi0q844WOOxARRc1_l6XV09U"
+    }
   },
   {
     "id": "123315",
@@ -1133,7 +2291,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5203595,
+      "longitude": 3.3295855,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521775729892722,
+          "lng": 3.330816429892722
+        },
+        "southwest": {
+          "lat": 6.519076070107278,
+          "lng": 3.328116770107278
+        }
+      },
+      "formatted_address": "11 Bello St, Isaga Tedo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5203595,3.3295855",
+      "google_place_id": "ChIJJ_rOFoaOOxARdYfgBuW0e4o"
+    }
   },
   {
     "id": "123316",
@@ -1149,7 +2324,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.519786499999999,
+      "longitude": 3.3281298,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521106429892722,
+          "lng": 3.329587679892723
+        },
+        "southwest": {
+          "lat": 6.518406770107278,
+          "lng": 3.326888020107278
+        }
+      },
+      "formatted_address": "6 Bankole St, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.519786499999999,3.3281298",
+      "google_place_id": "ChIJL7YiroiOOxARyMCZkJNdT6Y"
+    }
   },
   {
     "id": "123317",
@@ -1165,7 +2357,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.505666,
+      "longitude": 3.297183,
+      "viewport": {
+        "northeast": {
+          "lat": 6.506988029892723,
+          "lng": 3.298506129892722
+        },
+        "southwest": {
+          "lat": 6.504288370107279,
+          "lng": 3.295806470107277
+        }
+      },
+      "formatted_address": "No. 56, Felly Akurunwa Street, Ago Palace Way, Okota, Isolo Road, Nigeria, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.505666,3.297183",
+      "google_place_id": "ChIJayrMth-POxAREZBN24rhGtg"
+    }
   },
   {
     "id": "123318",
@@ -1181,7 +2390,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.520102100000001,
+      "longitude": 3.3228839,
+      "viewport": {
+        "northeast": {
+          "lat": 6.521467579892721,
+          "lng": 3.324233679892723
+        },
+        "southwest": {
+          "lat": 6.518767920107277,
+          "lng": 3.321534020107278
+        }
+      },
+      "formatted_address": "G8CF+252, Godwin Omonua St, Oshodi-Isolo 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.520102100000001,3.3228839",
+      "google_place_id": "ChIJLZvHWYmOOxAROfrcmm5Wglk"
+    }
   },
   {
     "id": "123319",
@@ -1197,7 +2423,24 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513213200000001,
+      "longitude": 3.3217416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514479029892724,
+          "lng": 3.323109129892723
+        },
+        "southwest": {
+          "lat": 6.51177937010728,
+          "lng": 3.320409470107278
+        }
+      },
+      "formatted_address": "G87C+7MQ, Eddy Onugha Dr, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513213200000001,3.3217416",
+      "google_place_id": "ChIJy6lsZpKOOxARJ3Be9t0gh1Q"
+    }
   },
   {
     "id": "123320",
@@ -1213,6 +2456,23 @@
     "local_government_id": "523",
     "local_government_name": "OSHODI/ISOLO",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.513213200000001,
+      "longitude": 3.3217416,
+      "viewport": {
+        "northeast": {
+          "lat": 6.514479029892724,
+          "lng": 3.323109129892723
+        },
+        "southwest": {
+          "lat": 6.51177937010728,
+          "lng": 3.320409470107278
+        }
+      },
+      "formatted_address": "G87C+7MQ, Eddy Onugha Dr, Ilasamaja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.513213200000001,3.3217416",
+      "google_place_id": "ChIJy6lsZpKOOxARJ3Be9t0gh1Q"
+    }
   }
 ]

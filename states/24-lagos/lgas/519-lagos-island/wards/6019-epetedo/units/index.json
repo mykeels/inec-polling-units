@@ -13,7 +13,8 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "120915",
@@ -29,7 +30,8 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "120916",
@@ -45,7 +47,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.454619999999999,
+      "longitude": 3.3973676,
+      "viewport": {
+        "northeast": {
+          "lat": 6.455966079892722,
+          "lng": 3.398762479892722
+        },
+        "southwest": {
+          "lat": 6.453266420107278,
+          "lng": 3.396062820107277
+        }
+      },
+      "formatted_address": "Block No. 28, Suite No. 5, LSDPC Estate, Ebute - Metta, 54 Glover St, Lagos Island 234101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.454619999999999,3.3973676",
+      "google_place_id": "ChIJt6z6exaLOxARnJu3Ab2uXEw"
+    }
   },
   {
     "id": "120917",
@@ -61,7 +80,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4504738,
+      "longitude": 3.403865,
+      "viewport": {
+        "northeast": {
+          "lat": 6.451887279892722,
+          "lng": 3.405238229892722
+        },
+        "southwest": {
+          "lat": 6.449187620107278,
+          "lng": 3.402538570107277
+        }
+      },
+      "formatted_address": "92 Lewis Street, Okesuna St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4504738,3.403865",
+      "google_place_id": "ChIJsXoepTyLOxARC31eET0UAXM"
+    }
   },
   {
     "id": "120918",
@@ -77,7 +113,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.444893899999999,
+      "longitude": 3.4044384,
+      "viewport": {
+        "northeast": {
+          "lat": 6.446172579892722,
+          "lng": 3.405791229892722
+        },
+        "southwest": {
+          "lat": 6.443472920107278,
+          "lng": 3.403091570107278
+        }
+      },
+      "formatted_address": "19B Military St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.444893899999999,3.4044384",
+      "google_place_id": "ChIJrz_jyg2LOxARayG__FsZWaM"
+    }
   },
   {
     "id": "120919",
@@ -93,7 +146,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.444893899999999,
+      "longitude": 3.4044384,
+      "viewport": {
+        "northeast": {
+          "lat": 6.446172579892722,
+          "lng": 3.405791229892722
+        },
+        "southwest": {
+          "lat": 6.443472920107278,
+          "lng": 3.403091570107278
+        }
+      },
+      "formatted_address": "19B Military St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.444893899999999,3.4044384",
+      "google_place_id": "ChIJrz_jyg2LOxARayG__FsZWaM"
+    }
   },
   {
     "id": "120920",
@@ -109,7 +179,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4520023,
+      "longitude": 3.4005435,
+      "viewport": {
+        "northeast": {
+          "lat": 6.453352129892722,
+          "lng": 3.401893329892722
+        },
+        "southwest": {
+          "lat": 6.450652470107278,
+          "lng": 3.399193670107278
+        }
+      },
+      "formatted_address": "Gambari St & Beecroft St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4520023,3.4005435",
+      "google_place_id": "Ej1HYW1iYXJpIFN0ICYgQmVlY3JvZnQgU3QsIExhZ29zIElzbGFuZCAxMDIyNzMsIExhZ29zLCBOaWdlcmlhImYiZAoUChIJ7_SIcz2LOxARLwm8UqL8IP0SFAoSCe_0iHM9izsQES8JvFKi_CD9GhQKEgnTOLp4PYs7EBFtqQKSGpLqtxoUChIJaQC0cz2LOxARxfIK3u262kkiCg1Xf9gDFbvhBgI"
+    }
   },
   {
     "id": "120921",
@@ -125,7 +212,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4493812,
+      "longitude": 3.4045662,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450674129892722,
+          "lng": 3.405964029892723
+        },
+        "southwest": {
+          "lat": 6.447974470107278,
+          "lng": 3.403264370107278
+        }
+      },
+      "formatted_address": "Lapal House, 235 Igbosere Road, Lagos Island 101223, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4493812,3.4045662",
+      "google_place_id": "ChIJm7ODpySLOxARvnD4R1sSZbQ"
+    }
   },
   {
     "id": "120922",
@@ -141,7 +245,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.450176700000001,
+      "longitude": 3.4010813,
+      "viewport": {
+        "northeast": {
+          "lat": 6.451526529892723,
+          "lng": 3.402431129892722
+        },
+        "southwest": {
+          "lat": 6.448826870107279,
+          "lng": 3.399731470107277
+        }
+      },
+      "formatted_address": "144 Igbosere Rd, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.450176700000001,3.4010813",
+      "google_place_id": "EjQxNDQgSWdib3NlcmUgUmQsIExhZ29zIElzbGFuZCAxMDIyNzMsIExhZ29zLCBOaWdlcmlhIjESLwoUChIJ92MXLj2LOxARc9E0kwMaNMQQkAEqFAoSCRcJYkojizsQEbnNLyuF6MpD"
+    }
   },
   {
     "id": "120923",
@@ -157,7 +278,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4488993,
+      "longitude": 3.3965146,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450354679892722,
+          "lng": 3.397830979892722
+        },
+        "southwest": {
+          "lat": 6.447655020107278,
+          "lng": 3.395131320107277
+        }
+      },
+      "formatted_address": "C9XW+HJ2, Old Prison Ground, Broad St, Lagos Island, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4488993,3.3965146",
+      "google_place_id": "ChIJaaKZyRmLOxARR-nEcxQBEQ4"
+    }
   },
   {
     "id": "120924",
@@ -173,7 +311,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4488993,
+      "longitude": 3.3965146,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450354679892722,
+          "lng": 3.397830979892722
+        },
+        "southwest": {
+          "lat": 6.447655020107278,
+          "lng": 3.395131320107277
+        }
+      },
+      "formatted_address": "C9XW+HJ2, Old Prison Ground, Broad St, Lagos Island, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4488993,3.3965146",
+      "google_place_id": "ChIJaaKZyRmLOxARR-nEcxQBEQ4"
+    }
   },
   {
     "id": "120925",
@@ -189,7 +344,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4541458,
+      "longitude": 3.4006549,
+      "viewport": {
+        "northeast": {
+          "lat": 6.45547892989272,
+          "lng": 3.401994179892722
+        },
+        "southwest": {
+          "lat": 6.452779270107277,
+          "lng": 3.399294520107278
+        }
+      },
+      "formatted_address": "29 Patey St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4541458,3.4006549",
+      "google_place_id": "ChIJgX3E6T2LOxARMJySy6_VZec"
+    }
   },
   {
     "id": "120926",
@@ -205,7 +377,8 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "120927",
@@ -221,7 +394,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.451587399999999,
+      "longitude": 3.3985438,
+      "viewport": {
+        "northeast": {
+          "lat": 6.452937029892721,
+          "lng": 3.399894129892722
+        },
+        "southwest": {
+          "lat": 6.450237370107277,
+          "lng": 3.397194470107277
+        }
+      },
+      "formatted_address": "183 Massey Bamgboshe St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.451587399999999,3.3985438",
+      "google_place_id": "ChIJMWMxxzyLOxARW4S-o4HGw2c"
+    }
   },
   {
     "id": "120928",
@@ -237,7 +427,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4541458,
+      "longitude": 3.4006549,
+      "viewport": {
+        "northeast": {
+          "lat": 6.45547892989272,
+          "lng": 3.401994179892722
+        },
+        "southwest": {
+          "lat": 6.452779270107277,
+          "lng": 3.399294520107278
+        }
+      },
+      "formatted_address": "29 Patey St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4541458,3.4006549",
+      "google_place_id": "ChIJgX3E6T2LOxARMJySy6_VZec"
+    }
   },
   {
     "id": "120929",
@@ -253,7 +460,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4529685,
+      "longitude": 3.3964266,
+      "viewport": {
+        "northeast": {
+          "lat": 6.454318329892722,
+          "lng": 3.397776429892723
+        },
+        "southwest": {
+          "lat": 6.451618670107278,
+          "lng": 3.395076770107278
+        }
+      },
+      "formatted_address": "Tokunboh St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4529685,3.3964266",
+      "google_place_id": "ChIJqyaxTRaLOxAR3OYO_bCBYhU"
+    }
   },
   {
     "id": "120930",
@@ -269,7 +493,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.551067199999999,
+      "longitude": 3.3401388,
+      "viewport": {
+        "northeast": {
+          "lat": 6.552389179892722,
+          "lng": 3.341504329892722
+        },
+        "southwest": {
+          "lat": 6.549689520107278,
+          "lng": 3.338804670107277
+        }
+      },
+      "formatted_address": "Orile Oshodi 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.551067199999999,3.3401388",
+      "google_place_id": "ChIJednT9OGNOxARpeZfG31hdB8"
+    }
   },
   {
     "id": "120931",
@@ -285,7 +526,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4497881,
+      "longitude": 3.3932519,
+      "viewport": {
+        "northeast": {
+          "lat": 6.451189379892723,
+          "lng": 3.394494279892722
+        },
+        "southwest": {
+          "lat": 6.448489720107279,
+          "lng": 3.391794620107278
+        }
+      },
+      "formatted_address": "1 Campos St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4497881,3.3932519",
+      "google_place_id": "ChIJq5j7nRCLOxARP_GZtdhhfw0"
+    }
   },
   {
     "id": "120932",
@@ -301,7 +559,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.45181,
+      "longitude": 3.4357904,
+      "viewport": {
+        "northeast": {
+          "lat": 6.453300229892722,
+          "lng": 3.437062279892722
+        },
+        "southwest": {
+          "lat": 6.450600570107278,
+          "lng": 3.434362620107278
+        }
+      },
+      "formatted_address": "37 Glover Rd, Ikoyi 106104, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.45181,3.4357904",
+      "google_place_id": "ChIJvzSWVcH0OxARFxioei_QN-w"
+    }
   },
   {
     "id": "120933",
@@ -317,7 +592,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4541458,
+      "longitude": 3.4006549,
+      "viewport": {
+        "northeast": {
+          "lat": 6.45547892989272,
+          "lng": 3.401994179892722
+        },
+        "southwest": {
+          "lat": 6.452779270107277,
+          "lng": 3.399294520107278
+        }
+      },
+      "formatted_address": "29 Patey St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4541458,3.4006549",
+      "google_place_id": "ChIJgX3E6T2LOxARMJySy6_VZec"
+    }
   },
   {
     "id": "120934",
@@ -333,7 +625,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4556588,
+      "longitude": 3.3977193,
+      "viewport": {
+        "northeast": {
+          "lat": 6.457008629892722,
+          "lng": 3.399069129892723
+        },
+        "southwest": {
+          "lat": 6.454308970107278,
+          "lng": 3.396369470107278
+        }
+      },
+      "formatted_address": "78 Glover St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4556588,3.3977193",
+      "google_place_id": "EjE3OCBHbG92ZXIgU3QsIExhZ29zIElzbGFuZCAxMDIyNzMsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJo5cb2hWLOxARsuVz9CeU9cgQTioUChIJb_Br2BWLOxARH0sCgPSSJBQ"
+    }
   },
   {
     "id": "120935",
@@ -349,7 +658,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4541458,
+      "longitude": 3.4006549,
+      "viewport": {
+        "northeast": {
+          "lat": 6.45547892989272,
+          "lng": 3.401994179892722
+        },
+        "southwest": {
+          "lat": 6.452779270107277,
+          "lng": 3.399294520107278
+        }
+      },
+      "formatted_address": "29 Patey St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4541458,3.4006549",
+      "google_place_id": "ChIJgX3E6T2LOxARMJySy6_VZec"
+    }
   },
   {
     "id": "120936",
@@ -365,7 +691,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4494186,
+      "longitude": 3.4016453,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450736349999999,
+          "lng": 3.40330875
+        },
+        "southwest": {
+          "lat": 6.44802175,
+          "lng": 3.40014735
+        }
+      },
+      "formatted_address": "CCX2+QM6, Igbosere Rd, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4494186,3.4016453",
+      "google_place_id": "ChIJHedYNSOLOxAREYY9oKrh5T0"
+    }
   },
   {
     "id": "120937",
@@ -381,7 +724,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.454619999999999,
+      "longitude": 3.3973676,
+      "viewport": {
+        "northeast": {
+          "lat": 6.455966079892722,
+          "lng": 3.398762479892722
+        },
+        "southwest": {
+          "lat": 6.453266420107278,
+          "lng": 3.396062820107277
+        }
+      },
+      "formatted_address": "Block No. 28, Suite No. 5, LSDPC Estate, Ebute - Metta, 54 Glover St, Lagos Island 234101, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.454619999999999,3.3973676",
+      "google_place_id": "ChIJt6z6exaLOxARnJu3Ab2uXEw"
+    }
   },
   {
     "id": "120938",
@@ -397,7 +757,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4594463,
+      "longitude": 3.3701487,
+      "viewport": {
+        "northeast": {
+          "lat": 6.460810729892722,
+          "lng": 3.371477929892722
+        },
+        "southwest": {
+          "lat": 6.458111070107278,
+          "lng": 3.368778270107277
+        }
+      },
+      "formatted_address": "F95C+Q3C, Harbour Road, Ijora 102272, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4594463,3.3701487",
+      "google_place_id": "ChIJQSn0LbuLOxARE2FD60s2rzI"
+    }
   },
   {
     "id": "120939",
@@ -413,7 +790,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4494186,
+      "longitude": 3.4016453,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450736349999999,
+          "lng": 3.40330875
+        },
+        "southwest": {
+          "lat": 6.44802175,
+          "lng": 3.40014735
+        }
+      },
+      "formatted_address": "CCX2+QM6, Igbosere Rd, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4494186,3.4016453",
+      "google_place_id": "ChIJHedYNSOLOxAREYY9oKrh5T0"
+    }
   },
   {
     "id": "120940",
@@ -429,7 +823,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4520576,
+      "longitude": 3.3963175,
+      "viewport": {
+        "northeast": {
+          "lat": 6.453392779892722,
+          "lng": 3.397655829892722
+        },
+        "southwest": {
+          "lat": 6.450693120107278,
+          "lng": 3.394956170107278
+        }
+      },
+      "formatted_address": "142 Bamgbose St, Lagos Island 102273, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4520576,3.3963175",
+      "google_place_id": "ChIJIeneBBeLOxARdm1-VMQ-cwI"
+    }
   },
   {
     "id": "120941",
@@ -445,7 +856,24 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.551067199999999,
+      "longitude": 3.3401388,
+      "viewport": {
+        "northeast": {
+          "lat": 6.552389179892722,
+          "lng": 3.341504329892722
+        },
+        "southwest": {
+          "lat": 6.549689520107278,
+          "lng": 3.338804670107277
+        }
+      },
+      "formatted_address": "Orile Oshodi 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.551067199999999,3.3401388",
+      "google_place_id": "ChIJednT9OGNOxARpeZfG31hdB8"
+    }
   },
   {
     "id": "120942",
@@ -461,6 +889,23 @@
     "local_government_id": "519",
     "local_government_name": "LAGOS ISLAND",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4488993,
+      "longitude": 3.3965146,
+      "viewport": {
+        "northeast": {
+          "lat": 6.450354679892722,
+          "lng": 3.397830979892722
+        },
+        "southwest": {
+          "lat": 6.447655020107278,
+          "lng": 3.395131320107277
+        }
+      },
+      "formatted_address": "C9XW+HJ2, Old Prison Ground, Broad St, Lagos Island, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4488993,3.3965146",
+      "google_place_id": "ChIJaaKZyRmLOxARR-nEcxQBEQ4"
+    }
   }
 ]

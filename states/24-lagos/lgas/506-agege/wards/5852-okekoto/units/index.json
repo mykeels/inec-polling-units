@@ -13,7 +13,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.604638500000001,
+      "longitude": 3.331469,
+      "viewport": {
+        "northeast": {
+          "lat": 6.60623015000005,
+          "lng": 3.333066
+        },
+        "southwest": {
+          "lat": 6.602589949999949,
+          "lng": 3.3296516
+        }
+      },
+      "formatted_address": "Abeokuta Motor Way, Agege, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.604638500000001,3.331469",
+      "google_place_id": "EilBYmVva3V0YSBNb3RvciBXYXksIEFnZWdlLCBMYWdvcywgTmlnZXJpYSIuKiwKFAoSCUeOAXmEkTsQEUw_IGS2X2NlEhQKEgmB9h3mc5E7EBFuoN2FOj9Qig"
+    }
   },
   {
     "id": "112187",
@@ -29,7 +46,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.624749,
+      "longitude": 3.3226731,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626097779892723,
+          "lng": 3.324071979892723
+        },
+        "southwest": {
+          "lat": 6.623398120107279,
+          "lng": 3.321372320107278
+        }
+      },
+      "formatted_address": "13 Awoyinfa St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.624749,3.3226731",
+      "google_place_id": "EjIxMyBBd295aW5mYSBTdCwgUGFwYSBBc2hhZmEgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCUuMVj5skTsQETM0eL2MXTLdEA0qFAoSCctQEThskTsQESB0ZjFojxA8"
+    }
   },
   {
     "id": "112188",
@@ -45,7 +79,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6241119,
+      "longitude": 3.3212517,
+      "viewport": {
+        "northeast": {
+          "lat": 6.62554140000005,
+          "lng": 3.322658979892722
+        },
+        "southwest": {
+          "lat": 6.62257499999995,
+          "lng": 3.319959320107277
+        }
+      },
+      "formatted_address": "Odeku St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6241119,3.3212517",
+      "google_place_id": "EixPZGVrdSBTdCwgUGFwYSBBc2hhZmEgMTAyMjEyLCBBZ2VnZSwgTmlnZXJpYSIuKiwKFAoSCaHlwVdskTsQEQL-cA2PHDm6EhQKEgldMm_rFJE7EBFYGHXfSuUDZw"
+    }
   },
   {
     "id": "112189",
@@ -61,7 +112,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5897461,
+      "longitude": 3.282551,
+      "viewport": {
+        "northeast": {
+          "lat": 6.591170729892722,
+          "lng": 3.283963279892722
+        },
+        "southwest": {
+          "lat": 6.588471070107278,
+          "lng": 3.281263620107278
+        }
+      },
+      "formatted_address": "3 Moshalashi Street, Idimu 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5897461,3.282551",
+      "google_place_id": "ChIJP4KcvECQOxARB8sJilzpqKU"
+    }
   },
   {
     "id": "112190",
@@ -77,7 +145,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.589901999999999,
+      "longitude": 3.2823541,
+      "viewport": {
+        "northeast": {
+          "lat": 6.591328829892722,
+          "lng": 3.283773379892722
+        },
+        "southwest": {
+          "lat": 6.588629170107278,
+          "lng": 3.281073720107277
+        }
+      },
+      "formatted_address": "5 Moshalashi Street, Idimu 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.589901999999999,3.2823541",
+      "google_place_id": "ChIJM6nFvUCQOxARY4TFV4Q3Np0"
+    }
   },
   {
     "id": "112191",
@@ -93,7 +178,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6236854,
+      "longitude": 3.3226693,
+      "viewport": {
+        "northeast": {
+          "lat": 6.625035229892722,
+          "lng": 3.324019129892723
+        },
+        "southwest": {
+          "lat": 6.622335570107278,
+          "lng": 3.321319470107278
+        }
+      },
+      "formatted_address": "10 Onilude St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6236854,3.3226693",
+      "google_place_id": "EjExMCBPbmlsdWRlIFN0LCBQYXBhIEFzaGFmYSAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJOSq-NGyROxARZVA7WxzTHlIQCioUChIJOSq-NGyROxARWKeBaO6GHKs"
+    }
   },
   {
     "id": "112192",
@@ -109,7 +211,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6241381,
+      "longitude": 3.3222285,
+      "viewport": {
+        "northeast": {
+          "lat": 6.625542429892722,
+          "lng": 3.323617179892723
+        },
+        "southwest": {
+          "lat": 6.622842770107278,
+          "lng": 3.320917520107278
+        }
+      },
+      "formatted_address": "13 Adebari St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6241381,3.3222285",
+      "google_place_id": "ChIJ55J2RmyROxARsDvOTp5gbok"
+    }
   },
   {
     "id": "112193",
@@ -125,7 +244,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6246363,
+      "longitude": 3.3226706,
+      "viewport": {
+        "northeast": {
+          "lat": 6.625985079892722,
+          "lng": 3.324069479892722
+        },
+        "southwest": {
+          "lat": 6.623285420107278,
+          "lng": 3.321369820107278
+        }
+      },
+      "formatted_address": "1 Awoyinfa St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6246363,3.3226706",
+      "google_place_id": "EjExIEF3b3lpbmZhIFN0LCBQYXBhIEFzaGFmYSAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJS4xWPmyROxARMzR4vYxdMt0QASoUChIJy1AROGyROxARIHRmMWiPEDw"
+    }
   },
   {
     "id": "112194",
@@ -141,7 +277,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6267745,
+      "longitude": 3.3220788,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628047679892722,
+          "lng": 3.323440179892723
+        },
+        "southwest": {
+          "lat": 6.625348020107278,
+          "lng": 3.320740520107278
+        }
+      },
+      "formatted_address": "2 Olubanke St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6267745,3.3220788",
+      "google_place_id": "ChIJtQfJkWuROxARp8GmtFg9fcY"
+    }
   },
   {
     "id": "112195",
@@ -157,7 +310,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625907799999999,
+      "longitude": 3.3205408,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627238329892722,
+          "lng": 3.321884629892722
+        },
+        "southwest": {
+          "lat": 6.624538670107278,
+          "lng": 3.319184970107278
+        }
+      },
+      "formatted_address": "20 Kasumu St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625907799999999,3.3205408",
+      "google_place_id": "ChIJVzL8e2yROxAR_z1DhN5N3Q0"
+    }
   },
   {
     "id": "112196",
@@ -173,7 +343,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625232599999999,
+      "longitude": 3.3205762,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626565079892721,
+          "lng": 3.321974979892722
+        },
+        "southwest": {
+          "lat": 6.623865420107277,
+          "lng": 3.319275320107277
+        }
+      },
+      "formatted_address": "4 Oduntan St, Papa Ashafa 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625232599999999,3.3205762",
+      "google_place_id": "ChIJRx80kGyROxARNCmUgTxBbZ0"
+    }
   },
   {
     "id": "112197",
@@ -189,7 +376,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6257054,
+      "longitude": 3.3178412,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627055579892722,
+          "lng": 3.319178829892723
+        },
+        "southwest": {
+          "lat": 6.624355920107278,
+          "lng": 3.316479170107278
+        }
+      },
+      "formatted_address": "Oke - Koto, 16 / 22 Ibido St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6257054,3.3178412",
+      "google_place_id": "ChIJ46Yey2yROxAR9Prc1f_0PuQ"
+    }
   },
   {
     "id": "112198",
@@ -205,7 +409,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6257054,
+      "longitude": 3.3178412,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627055579892722,
+          "lng": 3.319178829892723
+        },
+        "southwest": {
+          "lat": 6.624355920107278,
+          "lng": 3.316479170107278
+        }
+      },
+      "formatted_address": "Oke - Koto, 16 / 22 Ibido St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6257054,3.3178412",
+      "google_place_id": "ChIJ46Yey2yROxAR9Prc1f_0PuQ"
+    }
   },
   {
     "id": "112199",
@@ -221,7 +442,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.626494999999999,
+      "longitude": 3.3208929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627804879892722,
+          "lng": 3.322275779892722
+        },
+        "southwest": {
+          "lat": 6.625105220107279,
+          "lng": 3.319576120107278
+        }
+      },
+      "formatted_address": "J8GC+H9R, Orile Agege Branch, Agunbiade Unit, Agunbiade St, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.626494999999999,3.3208929",
+      "google_place_id": "ChIJcdvFe2uROxARpRuhos1efgM"
+    }
   },
   {
     "id": "112200",
@@ -237,7 +475,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6309014,
+      "longitude": 3.3142431,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632195729892722,
+          "lng": 3.315547279892722
+        },
+        "southwest": {
+          "lat": 6.629496070107278,
+          "lng": 3.312847620107278
+        }
+      },
+      "formatted_address": "2 Lasisi Ayanwale St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6309014,3.3142431",
+      "google_place_id": "ChIJHx34-hWROxARbuLmjcxSbZs"
+    }
   },
   {
     "id": "112201",
@@ -253,7 +508,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6309855,
+      "longitude": 3.3141251,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632283279892722,
+          "lng": 3.315432179892722
+        },
+        "southwest": {
+          "lat": 6.629583620107279,
+          "lng": 3.312732520107277
+        }
+      },
+      "formatted_address": "4 Lasisi Ayanwale St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6309855,3.3141251",
+      "google_place_id": "ChIJ7cS8-xWROxARsVTK1jxW4IE"
+    }
   },
   {
     "id": "112202",
@@ -269,7 +541,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.61748,
+      "longitude": 3.2981579,
+      "viewport": {
+        "northeast": {
+          "lat": 6.618808079892721,
+          "lng": 3.299535679892722
+        },
+        "southwest": {
+          "lat": 6.616108420107278,
+          "lng": 3.296836020107277
+        }
+      },
+      "formatted_address": "34 Ipaja Rd, Ipaja 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.61748,3.2981579",
+      "google_place_id": "ChIJhUx3j_2QOxARP34ad-SE-nk"
+    }
   },
   {
     "id": "112203",
@@ -285,7 +574,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625958499999999,
+      "longitude": 3.317858,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627260429892722,
+          "lng": 3.319199129892722
+        },
+        "southwest": {
+          "lat": 6.624560770107278,
+          "lng": 3.316499470107277
+        }
+      },
+      "formatted_address": "21 Adalemo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625958499999999,3.317858",
+      "google_place_id": "ChIJT60077KROxARvalRMqPQgEE"
+    }
   },
   {
     "id": "112204",
@@ -301,7 +607,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6305554,
+      "longitude": 3.3244948,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631901579892722,
+          "lng": 3.325808179892722
+        },
+        "southwest": {
+          "lat": 6.629201920107278,
+          "lng": 3.323108520107277
+        }
+      },
+      "formatted_address": "J8JF+6QH, Iju Rd, Ifako Agege 101232, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6305554,3.3244948",
+      "google_place_id": "ChIJ4ca372mROxARop3nB7uS0Nc"
+    }
   },
   {
     "id": "112205",
@@ -317,7 +640,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.500567299999999,
+      "longitude": 3.3855898,
+      "viewport": {
+        "northeast": {
+          "lat": 6.501822479892722,
+          "lng": 3.386920029892722
+        },
+        "southwest": {
+          "lat": 6.499122820107278,
+          "lng": 3.384220370107278
+        }
+      },
+      "formatted_address": "local government, 17 sariyu street. New makoko, Yaba 100001, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.500567299999999,3.3855898",
+      "google_place_id": "ChIJBV-OIRKNOxAR16JlfRo1q64"
+    }
   },
   {
     "id": "112206",
@@ -333,7 +673,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6150188,
+      "longitude": 3.3274216,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616496579892721,
+          "lng": 3.328776629892722
+        },
+        "southwest": {
+          "lat": 6.613796920107277,
+          "lng": 3.326076970107278
+        }
+      },
+      "formatted_address": "1 Salimonu St, beside Zenith Bank, Agege 102212, Agege, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6150188,3.3274216",
+      "google_place_id": "ChIJIXTTNXeROxARku8EaL_t3PY"
+    }
   },
   {
     "id": "112207",
@@ -349,7 +706,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6285919,
+      "longitude": 3.3147449,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629987079892722,
+          "lng": 3.316133379892722
+        },
+        "southwest": {
+          "lat": 6.627287420107278,
+          "lng": 3.313433720107278
+        }
+      },
+      "formatted_address": "63 Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6285919,3.3147449",
+      "google_place_id": "ChIJXTL0NBSROxARr6VYps6AMZY"
+    }
   },
   {
     "id": "112208",
@@ -365,7 +739,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6286011,
+      "longitude": 3.3152154,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629880129892722,
+          "lng": 3.316507679892723
+        },
+        "southwest": {
+          "lat": 6.627180470107279,
+          "lng": 3.313808020107278
+        }
+      },
+      "formatted_address": "66 Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6286011,3.3152154",
+      "google_place_id": "Eig2NiBBbW9vIFN0LCBBZ2VnZSAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJV-7RSxSROxAR_RE_vu6k6pEQQioUChIJzxMZ-BSROxARnlS_m9dXEhk"
+    }
   },
   {
     "id": "112209",
@@ -381,7 +772,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6292124,
+      "longitude": 3.3129161,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630611779892724,
+          "lng": 3.314308329892722
+        },
+        "southwest": {
+          "lat": 6.62791212010728,
+          "lng": 3.311608670107277
+        }
+      },
+      "formatted_address": "15 Olurinde St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6292124,3.3129161",
+      "google_place_id": "ChIJ41RYZBaROxARe2gwiURpqUw"
+    }
   },
   {
     "id": "112210",
@@ -397,7 +805,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629332799999999,
+      "longitude": 3.3129143,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630688729892722,
+          "lng": 3.314269329892722
+        },
+        "southwest": {
+          "lat": 6.627989070107279,
+          "lng": 3.311569670107277
+        }
+      },
+      "formatted_address": "13 Olurinde St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629332799999999,3.3129143",
+      "google_place_id": "ChIJVxmhZRaROxARDdhLLjbZL_s"
+    }
   },
   {
     "id": "112211",
@@ -413,7 +838,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6288455,
+      "longitude": 3.3162885,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630128379892723,
+          "lng": 3.317717429892722
+        },
+        "southwest": {
+          "lat": 6.627428720107279,
+          "lng": 3.315017770107278
+        }
+      },
+      "formatted_address": "13 Olukosi St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6288455,3.3162885",
+      "google_place_id": "ChIJaV1vABWROxARawTmnzNZRro"
+    }
   },
   {
     "id": "112212",
@@ -429,7 +871,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625799799999999,
+      "longitude": 3.31998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.62714962989272,
+          "lng": 3.321329829892722
+        },
+        "southwest": {
+          "lat": 6.624449970107277,
+          "lng": 3.318630170107277
+        }
+      },
+      "formatted_address": "Agunbiade St & Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625799799999999,3.31998",
+      "google_place_id": "EjRBZ3VuYmlhZGUgU3QgJiBBbW9vIFN0LCBBZ2VnZSAxMDIyMTIsIEFnZWdlLCBOaWdlcmlhImYiZAoUChIJR_gomWyROxARFptiCSPptS4SFAoSCUf4KJlskTsQERabYgkj6bUuGhQKEgnblBmGbJE7EBHV7OUnlTCJLBoUChIJzxMZ-BSROxARnlS_m9dXEhkiCg1OBPMDFbiW-gE"
+    }
   },
   {
     "id": "112213",
@@ -445,7 +904,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625799799999999,
+      "longitude": 3.31998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.62714962989272,
+          "lng": 3.321329829892722
+        },
+        "southwest": {
+          "lat": 6.624449970107277,
+          "lng": 3.318630170107277
+        }
+      },
+      "formatted_address": "Agunbiade St & Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625799799999999,3.31998",
+      "google_place_id": "EjRBZ3VuYmlhZGUgU3QgJiBBbW9vIFN0LCBBZ2VnZSAxMDIyMTIsIEFnZWdlLCBOaWdlcmlhImYiZAoUChIJR_gomWyROxARFptiCSPptS4SFAoSCUf4KJlskTsQERabYgkj6bUuGhQKEgnblBmGbJE7EBHV7OUnlTCJLBoUChIJzxMZ-BSROxARnlS_m9dXEhkiCg1OBPMDFbiW-gE"
+    }
   },
   {
     "id": "112214",
@@ -461,7 +937,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6108956,
+      "longitude": 3.295642,
+      "viewport": {
+        "northeast": {
+          "lat": 6.612317079892722,
+          "lng": 3.296945729892722
+        },
+        "southwest": {
+          "lat": 6.609617420107278,
+          "lng": 3.294246070107278
+        }
+      },
+      "formatted_address": "122 Ipaja Rd, Alimosho 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6108956,3.295642",
+      "google_place_id": "ChIJR-KHcP-QOxAR4Yg2W5lxu_4"
+    }
   },
   {
     "id": "112215",
@@ -477,7 +970,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6252656,
+      "longitude": 3.3160911,
+      "viewport": {
+        "northeast": {
+          "lat": 6.626484979892722,
+          "lng": 3.317431279892723
+        },
+        "southwest": {
+          "lat": 6.623785320107278,
+          "lng": 3.314731620107278
+        }
+      },
+      "formatted_address": "120 Ipaja Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6252656,3.3160911",
+      "google_place_id": "ChIJBfcDnROROxARvL4YlG9Lb1Y"
+    }
   },
   {
     "id": "112216",
@@ -493,7 +1003,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6146311,
+      "longitude": 3.2981487,
+      "viewport": {
+        "northeast": {
+          "lat": 6.615982079892722,
+          "lng": 3.299420279892722
+        },
+        "southwest": {
+          "lat": 6.613282420107279,
+          "lng": 3.296720620107278
+        }
+      },
+      "formatted_address": "72 Ipaja Rd, Alagba 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6146311,3.2981487",
+      "google_place_id": "Eio3MiBJcGFqYSBSZCwgQWxhZ2JhIDEwMjIxMywgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEglbCnoQ_pA7EBGesg3zD4GvmRBIKhQKEglju3Y3-JA7EBF0RY68ouRylA"
+    }
   },
   {
     "id": "112217",
@@ -509,7 +1036,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6148367,
+      "longitude": 3.2981405,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616179179892722,
+          "lng": 3.299412379892722
+        },
+        "southwest": {
+          "lat": 6.613479520107278,
+          "lng": 3.296712720107278
+        }
+      },
+      "formatted_address": "70 Ipaja Rd, Alagba 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6148367,3.2981405",
+      "google_place_id": "Eio3MCBJcGFqYSBSZCwgQWxhZ2JhIDEwMjIxMywgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEglbCnoQ_pA7EBGesg3zD4GvmRBGKhQKEglju3Y3-JA7EBF0RY68ouRylA"
+    }
   },
   {
     "id": "112218",
@@ -525,7 +1069,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6263616,
+      "longitude": 3.3150244,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627772079892723,
+          "lng": 3.316306179892722
+        },
+        "southwest": {
+          "lat": 6.625072420107279,
+          "lng": 3.313606520107278
+        }
+      },
+      "formatted_address": "25 Anuoluwapo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6263616,3.3150244",
+      "google_place_id": "ChIJx0hLcxSROxARzN05lQI-meM"
+    }
   },
   {
     "id": "112219",
@@ -541,7 +1102,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.628804499999999,
+      "longitude": 3.3107976,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630154179892721,
+          "lng": 3.312147229892722
+        },
+        "southwest": {
+          "lat": 6.627454520107277,
+          "lng": 3.309447570107278
+        }
+      },
+      "formatted_address": "J8H6+G9R, Omotoye Estate, Orile Agege, 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.628804499999999,3.3107976",
+      "google_place_id": "ChIJ7RHswwCROxARrTcHt1XmxC8"
+    }
   },
   {
     "id": "112220",
@@ -557,7 +1135,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6293992,
+      "longitude": 3.3118922,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630749029892723,
+          "lng": 3.313242029892722
+        },
+        "southwest": {
+          "lat": 6.628049370107279,
+          "lng": 3.310542370107278
+        }
+      },
+      "formatted_address": "22 Abeokuta Street, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6293992,3.3118922",
+      "google_place_id": "EjAyMiBBYmVva3V0YSBTdHJlZXQsIEFnZWdlIDEwMjIxMiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgmzvLRFFpE7EBEHF98j_QpCexAWKhQKEgk9c41bFpE7EBFYSWGtwZaVWA"
+    }
   },
   {
     "id": "112221",
@@ -573,7 +1168,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6279507,
+      "longitude": 3.3129452,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629205779892722,
+          "lng": 3.314253329892722
+        },
+        "southwest": {
+          "lat": 6.626506120107278,
+          "lng": 3.311553670107278
+        }
+      },
+      "formatted_address": "4 Oremeta St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6279507,3.3129452",
+      "google_place_id": "ChIJY4NVkBaROxARYRxxNn2kZxA"
+    }
   },
   {
     "id": "112222",
@@ -589,7 +1201,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.627491699999999,
+      "longitude": 3.3130238,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628796479892721,
+          "lng": 3.314416679892722
+        },
+        "southwest": {
+          "lat": 6.626096820107278,
+          "lng": 3.311717020107277
+        }
+      },
+      "formatted_address": "10 Ashipa St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.627491699999999,3.3130238",
+      "google_place_id": "ChIJH6fdlxaROxARQf_o9IWzncs"
+    }
   },
   {
     "id": "112223",
@@ -605,7 +1234,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6283287,
+      "longitude": 3.3132405,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629678529892723,
+          "lng": 3.314590329892723
+        },
+        "southwest": {
+          "lat": 6.626978870107279,
+          "lng": 3.311890670107278
+        }
+      },
+      "formatted_address": "24 Dosumu St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6283287,3.3132405",
+      "google_place_id": "EioyNCBEb3N1bXUgU3QsIEFnZWdlIDEwMjIxMiwgTGFnb3MsIE5pZ2VyaWEiMBIuChQKEgkBjZ-EFpE7EBFHM_ZBFhVwnxAYKhQKEgnJkoqJFpE7EBHRyn5SB93ZUg"
+    }
   },
   {
     "id": "112224",
@@ -621,7 +1267,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6273177,
+      "longitude": 3.3143669,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628739379892722,
+          "lng": 3.315648979892722
+        },
+        "southwest": {
+          "lat": 6.626039720107278,
+          "lng": 3.312949320107278
+        }
+      },
+      "formatted_address": "3 Anikulapo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6273177,3.3143669",
+      "google_place_id": "EiwzIEFuaWt1bGFwbyBTdCwgQWdlZ2UgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCS8fhiIUkTsQEQXRl8DBTNBPEAMqFAoSCSOsmzkUkTsQEa8Mq986VVwu"
+    }
   },
   {
     "id": "112225",
@@ -637,7 +1300,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6270931,
+      "longitude": 3.3184742,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628473729892721,
+          "lng": 3.319831329892722
+        },
+        "southwest": {
+          "lat": 6.625774070107277,
+          "lng": 3.317131670107277
+        }
+      },
+      "formatted_address": "Along Amoo Street, In Oke Koto Area, Orile, 1 Amoo St, Agege, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6270931,3.3184742",
+      "google_place_id": "ChIJyZoPtBSROxARakuZWYl8bfk"
+    }
   },
   {
     "id": "112226",
@@ -653,7 +1333,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6258949,
+      "longitude": 3.3149905,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627152929892722,
+          "lng": 3.316399129892722
+        },
+        "southwest": {
+          "lat": 6.624453270107278,
+          "lng": 3.313699470107277
+        }
+      },
+      "formatted_address": "46 Ojekunle St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6258949,3.3149905",
+      "google_place_id": "ChIJweArixOROxARB20lTquGD6Q"
+    }
   },
   {
     "id": "112227",
@@ -669,7 +1366,8 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "112228",
@@ -685,7 +1383,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629950399999999,
+      "longitude": 3.314591,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631300229892721,
+          "lng": 3.315940829892722
+        },
+        "southwest": {
+          "lat": 6.628600570107277,
+          "lng": 3.313241170107278
+        }
+      },
+      "formatted_address": "25 Adeyinka St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629950399999999,3.314591",
+      "google_place_id": "EiwyNSBBZGV5aW5rYSBTdCwgQWdlZ2UgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCWPWqcMVkTsQEUgbegib-gs4EBkqFAoSCZlecJMVkTsQEQ_gcjxsWN9U"
+    }
   },
   {
     "id": "112229",
@@ -701,7 +1416,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6299521,
+      "longitude": 3.3145929,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631301929892722,
+          "lng": 3.315942729892722
+        },
+        "southwest": {
+          "lat": 6.628602270107278,
+          "lng": 3.313243070107278
+        }
+      },
+      "formatted_address": "23 Adeyinka St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6299521,3.3145929",
+      "google_place_id": "EiwyMyBBZGV5aW5rYSBTdCwgQWdlZ2UgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCWPWqcMVkTsQEUgbegib-gs4EBcqFAoSCZlecJMVkTsQEQ_gcjxsWN9U"
+    }
   },
   {
     "id": "112230",
@@ -717,7 +1449,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.630134699999999,
+      "longitude": 3.3167212,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631553179892721,
+          "lng": 3.318067829892722
+        },
+        "southwest": {
+          "lat": 6.628853520107278,
+          "lng": 3.315368170107277
+        }
+      },
+      "formatted_address": "24 Imashai St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.630134699999999,3.3167212",
+      "google_place_id": "ChIJM43cchWROxARfBjFX7zMBhM"
+    }
   },
   {
     "id": "112231",
@@ -733,7 +1482,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6301475,
+      "longitude": 3.3159462,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631557129892721,
+          "lng": 3.317296279892723
+        },
+        "southwest": {
+          "lat": 6.628857470107278,
+          "lng": 3.314596620107278
+        }
+      },
+      "formatted_address": "22 Imashai St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6301475,3.3159462",
+      "google_place_id": "ChIJKeVInxWROxAR0nKhU4vuI_I"
+    }
   },
   {
     "id": "112232",
@@ -749,7 +1515,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629677699999999,
+      "longitude": 3.3164852,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630966829892722,
+          "lng": 3.317877229892722
+        },
+        "southwest": {
+          "lat": 6.628267170107278,
+          "lng": 3.315177570107278
+        }
+      },
+      "formatted_address": "16 Babayemi St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629677699999999,3.3164852",
+      "google_place_id": "ChIJdQJECRWROxAR-EkaQIMYwRo"
+    }
   },
   {
     "id": "112233",
@@ -765,7 +1548,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629802,
+      "longitude": 3.3166032,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631076479892721,
+          "lng": 3.318005429892722
+        },
+        "southwest": {
+          "lat": 6.628376820107277,
+          "lng": 3.315305770107277
+        }
+      },
+      "formatted_address": "14 Babayemi St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629802,3.3166032",
+      "google_place_id": "ChIJMdgTDBWROxAR-CAmY35OI98"
+    }
   },
   {
     "id": "112234",
@@ -781,7 +1581,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.630410599999999,
+      "longitude": 3.3139719,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631684829892722,
+          "lng": 3.315259429892722
+        },
+        "southwest": {
+          "lat": 6.628985170107279,
+          "lng": 3.312559770107277
+        }
+      },
+      "formatted_address": "12 Bade Abiona St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.630410599999999,3.3139719",
+      "google_place_id": "Ei8xMiBCYWRlIEFiaW9uYSBTdCwgQWdlZ2UgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCZ9PZgkWkTsQEVUrSXHsgEoFEAwqFAoSCZ9PZgkWkTsQEVrEJNN8zXtX"
+    }
   },
   {
     "id": "112235",
@@ -797,7 +1614,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6309368,
+      "longitude": 3.3151871,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632377829892723,
+          "lng": 3.316560679892722
+        },
+        "southwest": {
+          "lat": 6.629678170107279,
+          "lng": 3.313861020107277
+        }
+      },
+      "formatted_address": "61 Orile Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6309368,3.3151871",
+      "google_place_id": "ChIJJedIjBWROxARO-9QlZZYrW0"
+    }
   },
   {
     "id": "112236",
@@ -813,7 +1647,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629852899999999,
+      "longitude": 3.3182251,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631147629892721,
+          "lng": 3.319550479892722
+        },
+        "southwest": {
+          "lat": 6.628447970107278,
+          "lng": 3.316850820107278
+        }
+      },
+      "formatted_address": "15 Oshobu St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629852899999999,3.3182251",
+      "google_place_id": "ChIJM7LXNhWROxARnS9IkUMJvOI"
+    }
   },
   {
     "id": "112237",
@@ -829,7 +1680,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.631069399999999,
+      "longitude": 3.3140465,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632359929892722,
+          "lng": 3.315349729892723
+        },
+        "southwest": {
+          "lat": 6.629660270107278,
+          "lng": 3.312650070107278
+        }
+      },
+      "formatted_address": "8 Lasisi Ayanwale St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.631069399999999,3.3140465",
+      "google_place_id": "ChIJddP_-xWROxARjIJcg4zbhtA"
+    }
   },
   {
     "id": "112238",
@@ -845,7 +1713,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6286404,
+      "longitude": 3.317685,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629838229892721,
+          "lng": 3.318908479892722
+        },
+        "southwest": {
+          "lat": 6.627138570107277,
+          "lng": 3.316208820107278
+        }
+      },
+      "formatted_address": "1 Ojekunle St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6286404,3.317685",
+      "google_place_id": "ChIJh8YepxuROxAR7PmTfXHgmlE"
+    }
   },
   {
     "id": "112239",
@@ -861,7 +1746,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.627025199999999,
+      "longitude": 3.3203237,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628387479892721,
+          "lng": 3.321638229892722
+        },
+        "southwest": {
+          "lat": 6.625687820107277,
+          "lng": 3.318938570107278
+        }
+      },
+      "formatted_address": "9 Adalemo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.627025199999999,3.3203237",
+      "google_place_id": "ChIJS5JWaWuROxARpGxQZ2nL3No"
+    }
   },
   {
     "id": "112240",
@@ -877,7 +1779,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6266669,
+      "longitude": 3.3208365,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627994279892722,
+          "lng": 3.322201679892722
+        },
+        "southwest": {
+          "lat": 6.625294620107278,
+          "lng": 3.319502020107278
+        }
+      },
+      "formatted_address": "Tabon Tabon, Pen Cinema, 235 Renner St, Agege, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6266669,3.3208365",
+      "google_place_id": "ChIJmTU8emuROxARomXYCe5HEb0"
+    }
   },
   {
     "id": "112241",
@@ -893,7 +1812,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.628804499999999,
+      "longitude": 3.3107976,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630154179892721,
+          "lng": 3.312147229892722
+        },
+        "southwest": {
+          "lat": 6.627454520107277,
+          "lng": 3.309447570107278
+        }
+      },
+      "formatted_address": "J8H6+G9R, Omotoye Estate, Orile Agege, 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.628804499999999,3.3107976",
+      "google_place_id": "ChIJ7RHswwCROxARrTcHt1XmxC8"
+    }
   },
   {
     "id": "112242",
@@ -909,7 +1845,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.662925599999999,
+      "longitude": 3.2843285,
+      "viewport": {
+        "northeast": {
+          "lat": 6.664308729892721,
+          "lng": 3.285673029892722
+        },
+        "southwest": {
+          "lat": 6.661609070107278,
+          "lng": 3.282973370107277
+        }
+      },
+      "formatted_address": "M77M+4PW, Abule Egba 102213, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.662925599999999,3.2843285",
+      "google_place_id": "ChIJQebapDCXOxARS0Av_Hbxlfk"
+    }
   },
   {
     "id": "112243",
@@ -925,7 +1878,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.545053999999999,
+      "longitude": 3.3203251,
+      "viewport": {
+        "northeast": {
+          "lat": 6.546269179892723,
+          "lng": 3.321716629892722
+        },
+        "southwest": {
+          "lat": 6.543569520107279,
+          "lng": 3.319016970107277
+        }
+      },
+      "formatted_address": "28 Jay Momoh St, Ajao Estate 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.545053999999999,3.3203251",
+      "google_place_id": "ChIJ4zz8w2qOOxAR-irEO07-cj8"
+    }
   },
   {
     "id": "112244",
@@ -941,7 +1911,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625958499999999,
+      "longitude": 3.317858,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627260429892722,
+          "lng": 3.319199129892722
+        },
+        "southwest": {
+          "lat": 6.624560770107278,
+          "lng": 3.316499470107277
+        }
+      },
+      "formatted_address": "21 Adalemo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625958499999999,3.317858",
+      "google_place_id": "ChIJT60077KROxARvalRMqPQgEE"
+    }
   },
   {
     "id": "112245",
@@ -957,7 +1944,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5445914,
+      "longitude": 3.3219533,
+      "viewport": {
+        "northeast": {
+          "lat": 6.546057729892722,
+          "lng": 3.323302429892723
+        },
+        "southwest": {
+          "lat": 6.543358070107279,
+          "lng": 3.320602770107278
+        }
+      },
+      "formatted_address": "7 Jay Momoh St, Ajao Estate 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5445914,3.3219533",
+      "google_place_id": "ChIJ83WiF2uOOxAR1BHT5tupCoc"
+    }
   },
   {
     "id": "112246",
@@ -973,7 +1977,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625958499999999,
+      "longitude": 3.317858,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627260429892722,
+          "lng": 3.319199129892722
+        },
+        "southwest": {
+          "lat": 6.624560770107278,
+          "lng": 3.316499470107277
+        }
+      },
+      "formatted_address": "21 Adalemo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625958499999999,3.317858",
+      "google_place_id": "ChIJT60077KROxARvalRMqPQgEE"
+    }
   },
   {
     "id": "112247",
@@ -989,7 +2010,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625958499999999,
+      "longitude": 3.317858,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627260429892722,
+          "lng": 3.319199129892722
+        },
+        "southwest": {
+          "lat": 6.624560770107278,
+          "lng": 3.316499470107277
+        }
+      },
+      "formatted_address": "21 Adalemo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625958499999999,3.317858",
+      "google_place_id": "ChIJT60077KROxARvalRMqPQgEE"
+    }
   },
   {
     "id": "112248",
@@ -1005,7 +2043,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.630751900000001,
+      "longitude": 3.3171844,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632226779892722,
+          "lng": 3.318524529892722
+        },
+        "southwest": {
+          "lat": 6.629527120107278,
+          "lng": 3.315824870107277
+        }
+      },
+      "formatted_address": "33 Orile Rd, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.630751900000001,3.3171844",
+      "google_place_id": "ChIJeQcHK-OROxARA7V-JSspevA"
+    }
   },
   {
     "id": "112249",
@@ -1021,7 +2076,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6256359,
+      "longitude": 3.3210384,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627068979892722,
+          "lng": 3.322404179892722
+        },
+        "southwest": {
+          "lat": 6.624369320107278,
+          "lng": 3.319704520107277
+        }
+      },
+      "formatted_address": "16 Kasumu St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6256359,3.3210384",
+      "google_place_id": "ChIJs9nAhmyROxARV7cZoQDRuAM"
+    }
   },
   {
     "id": "112250",
@@ -1037,7 +2109,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6286315,
+      "longitude": 3.314591,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630052929892722,
+          "lng": 3.315998979892723
+        },
+        "southwest": {
+          "lat": 6.627353270107278,
+          "lng": 3.313299320107278
+        }
+      },
+      "formatted_address": "65 Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6286315,3.314591",
+      "google_place_id": "Eig2NSBBbW9vIFN0LCBBZ2VnZSAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJV-7RSxSROxAR_BE_vu6k6pEQQSoUChIJzxMZ-BSROxARnlS_m9dXEhk"
+    }
   },
   {
     "id": "112251",
@@ -1053,7 +2142,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6285051,
+      "longitude": 3.3153351,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629784129892721,
+          "lng": 3.316627379892723
+        },
+        "southwest": {
+          "lat": 6.627084470107278,
+          "lng": 3.313927720107278
+        }
+      },
+      "formatted_address": "64 Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6285051,3.3153351",
+      "google_place_id": "Eig2NCBBbW9vIFN0LCBBZ2VnZSAxMDIyMTIsIExhZ29zLCBOaWdlcmlhIjASLgoUChIJV-7RSxSROxAR_RE_vu6k6pEQQCoUChIJzxMZ-BSROxARnlS_m9dXEhk"
+    }
   },
   {
     "id": "112252",
@@ -1069,7 +2175,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.629158299999999,
+      "longitude": 3.3129446,
+      "viewport": {
+        "northeast": {
+          "lat": 6.630566429892721,
+          "lng": 3.314344279892723
+        },
+        "southwest": {
+          "lat": 6.627866770107278,
+          "lng": 3.311644620107278
+        }
+      },
+      "formatted_address": "17 Olurinde St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.629158299999999,3.3129446",
+      "google_place_id": "EiwxNyBPbHVyaW5kZSBTdCwgQWdlZ2UgMTAyMjEyLCBMYWdvcywgTmlnZXJpYSIwEi4KFAoSCY-zansWkTsQEXmFgnBVBFh4EBEqFAoSCQtAwioUkTsQEaAyeh3mACBL"
+    }
   },
   {
     "id": "112253",
@@ -1085,7 +2208,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6286571,
+      "longitude": 3.3161224,
+      "viewport": {
+        "northeast": {
+          "lat": 6.629938879892722,
+          "lng": 3.317552629892722
+        },
+        "southwest": {
+          "lat": 6.627239220107279,
+          "lng": 3.314852970107277
+        }
+      },
+      "formatted_address": "9 Olukosi St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6286571,3.3161224",
+      "google_place_id": "ChIJMywWVRSROxAR6tfi2eEMeiI"
+    }
   },
   {
     "id": "112254",
@@ -1101,7 +2241,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.625799799999999,
+      "longitude": 3.31998,
+      "viewport": {
+        "northeast": {
+          "lat": 6.62714962989272,
+          "lng": 3.321329829892722
+        },
+        "southwest": {
+          "lat": 6.624449970107277,
+          "lng": 3.318630170107277
+        }
+      },
+      "formatted_address": "Agunbiade St & Amoo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.625799799999999,3.31998",
+      "google_place_id": "EjRBZ3VuYmlhZGUgU3QgJiBBbW9vIFN0LCBBZ2VnZSAxMDIyMTIsIEFnZWdlLCBOaWdlcmlhImYiZAoUChIJR_gomWyROxARFptiCSPptS4SFAoSCUf4KJlskTsQERabYgkj6bUuGhQKEgnblBmGbJE7EBHV7OUnlTCJLBoUChIJzxMZ-BSROxARnlS_m9dXEhkiCg1OBPMDFbiW-gE"
+    }
   },
   {
     "id": "112255",
@@ -1117,7 +2274,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6261872,
+      "longitude": 3.3148019,
+      "viewport": {
+        "northeast": {
+          "lat": 6.627581079892721,
+          "lng": 3.316101829892723
+        },
+        "southwest": {
+          "lat": 6.624881420107277,
+          "lng": 3.313402170107278
+        }
+      },
+      "formatted_address": "29 Anuoluwapo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6261872,3.3148019",
+      "google_place_id": "ChIJRXVaChSROxARfQkDKTP3A-U"
+    }
   },
   {
     "id": "112256",
@@ -1133,7 +2307,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.627572,
+      "longitude": 3.3134958,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628972879892722,
+          "lng": 3.314796329892722
+        },
+        "southwest": {
+          "lat": 6.626273220107278,
+          "lng": 3.312096670107278
+        }
+      },
+      "formatted_address": "18 Ashipa St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.627572,3.3134958",
+      "google_place_id": "ChIJKWcQnxaROxARImmhAe_au2Q"
+    }
   },
   {
     "id": "112257",
@@ -1149,7 +2340,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6313277,
+      "longitude": 3.3201194,
+      "viewport": {
+        "northeast": {
+          "lat": 6.632722129892721,
+          "lng": 3.321443129892722
+        },
+        "southwest": {
+          "lat": 6.630022470107277,
+          "lng": 3.318743470107278
+        }
+      },
+      "formatted_address": "Karies Plaza, 9 Orile Rd, Agege 100242, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6313277,3.3201194",
+      "google_place_id": "ChIJqRynZcyROxARxABX2OMu6eA"
+    }
   },
   {
     "id": "112258",
@@ -1165,7 +2373,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6298209,
+      "longitude": 3.3184618,
+      "viewport": {
+        "northeast": {
+          "lat": 6.631084779892721,
+          "lng": 3.319769079892723
+        },
+        "southwest": {
+          "lat": 6.628385120107278,
+          "lng": 3.317069420107278
+        }
+      },
+      "formatted_address": "19 Oshobu St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6298209,3.3184618",
+      "google_place_id": "ChIJ130iNBWROxARIg2W0LMn51o"
+    }
   },
   {
     "id": "112259",
@@ -1181,7 +2406,24 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.626982399999999,
+      "longitude": 3.3203529,
+      "viewport": {
+        "northeast": {
+          "lat": 6.628352429892722,
+          "lng": 3.321647679892722
+        },
+        "southwest": {
+          "lat": 6.625652770107278,
+          "lng": 3.318948020107277
+        }
+      },
+      "formatted_address": "5 Adalemo St, Agege 102212, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.626982399999999,3.3203529",
+      "google_place_id": "ChIJa_uzbmuROxARwcYDaEhyu4M"
+    }
   },
   {
     "id": "112260",
@@ -1197,6 +2439,23 @@
     "local_government_id": "506",
     "local_government_name": "AGEGE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.634521200000001,
+      "longitude": 3.3197431,
+      "viewport": {
+        "northeast": {
+          "lat": 6.635853479892723,
+          "lng": 3.321117829892723
+        },
+        "southwest": {
+          "lat": 6.633153820107279,
+          "lng": 3.318418170107278
+        }
+      },
+      "formatted_address": "Pen Cinema, 291 Old Abeokuta Motor Road, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.634521200000001,3.3197431",
+      "google_place_id": "ChIJRWmKi0CROxAR2sozPoe-kLs"
+    }
   }
 ]

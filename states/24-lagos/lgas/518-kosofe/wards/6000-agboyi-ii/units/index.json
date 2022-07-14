@@ -13,7 +13,24 @@
     "local_government_id": "518",
     "local_government_name": "KOSOFE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.546584999999999,
+      "longitude": 3.394346,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547924979892723,
+          "lng": 3.395735029892722
+        },
+        "southwest": {
+          "lat": 6.545225320107279,
+          "lng": 3.393035370107278
+        }
+      },
+      "formatted_address": "Abule Okuta 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.546584999999999,3.394346",
+      "google_place_id": "ChIJyctUX2uNOxAR2H0zQGOv0q0"
+    }
   },
   {
     "id": "120527",
@@ -29,7 +46,24 @@
     "local_government_id": "518",
     "local_government_name": "KOSOFE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5869526,
+      "longitude": 3.4008617,
+      "viewport": {
+        "northeast": {
+          "lat": 6.588186629892722,
+          "lng": 3.402170329892722
+        },
+        "southwest": {
+          "lat": 6.585486970107278,
+          "lng": 3.399470670107277
+        }
+      },
+      "formatted_address": "30Agboyi Road Alapere, Ketu, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5869526,3.4008617",
+      "google_place_id": "ChIJk1Ifoe2TOxAR2TuegRS6fIM"
+    }
   },
   {
     "id": "120528",
@@ -45,7 +79,24 @@
     "local_government_id": "518",
     "local_government_name": "KOSOFE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.546584999999999,
+      "longitude": 3.394346,
+      "viewport": {
+        "northeast": {
+          "lat": 6.547924979892723,
+          "lng": 3.395735029892722
+        },
+        "southwest": {
+          "lat": 6.545225320107279,
+          "lng": 3.393035370107278
+        }
+      },
+      "formatted_address": "Abule Okuta 102216, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.546584999999999,3.394346",
+      "google_place_id": "ChIJyctUX2uNOxAR2H0zQGOv0q0"
+    }
   },
   {
     "id": "120529",
@@ -61,7 +112,24 @@
     "local_government_id": "518",
     "local_government_name": "KOSOFE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5867479,
+      "longitude": 3.4018846,
+      "viewport": {
+        "northeast": {
+          "lat": 6.588088529892722,
+          "lng": 3.403271379892722
+        },
+        "southwest": {
+          "lat": 6.585388870107278,
+          "lng": 3.400571720107278
+        }
+      },
+      "formatted_address": "27 Agboyi Road, Ketu 105102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5867479,3.4018846",
+      "google_place_id": "ChIJhQeKdb-SOxARbFsjyYEQ09w"
+    }
   },
   {
     "id": "120530",
@@ -77,6 +145,23 @@
     "local_government_id": "518",
     "local_government_name": "KOSOFE",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5800221,
+      "longitude": 3.4067602,
+      "viewport": {
+        "northeast": {
+          "lat": 6.581352629892723,
+          "lng": 3.408068829892722
+        },
+        "southwest": {
+          "lat": 6.578652970107279,
+          "lng": 3.405369170107277
+        }
+      },
+      "formatted_address": "33 Alhaji Usman Avenue, Agboyi Estate Alapere Ketu Kosofe, 100243, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5800221,3.4067602",
+      "google_place_id": "ChIJ-ZZBd7uTOxARMXmwbDHwPEc"
+    }
   }
 ]

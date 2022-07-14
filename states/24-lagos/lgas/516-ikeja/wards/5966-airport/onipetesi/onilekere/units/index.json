@@ -13,7 +13,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118597",
@@ -29,7 +30,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118598",
@@ -45,7 +47,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118599",
@@ -61,7 +64,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6024167,
+      "longitude": 3.3227854,
+      "viewport": {
+        "northeast": {
+          "lat": 6.603740729892722,
+          "lng": 3.324185779892722
+        },
+        "southwest": {
+          "lat": 6.601041070107279,
+          "lng": 3.321486120107278
+        }
+      },
+      "formatted_address": "12 Michael Akinola St, Idi Mangoro 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6024167,3.3227854",
+      "google_place_id": "ChIJna1mcZmROxARcBgY5e6erJY"
+    }
   },
   {
     "id": "118600",
@@ -77,7 +97,8 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "118601",
@@ -93,7 +114,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6072288,
+      "longitude": 3.3255557,
+      "viewport": {
+        "northeast": {
+          "lat": 6.608578629892722,
+          "lng": 3.326905529892722
+        },
+        "southwest": {
+          "lat": 6.605878970107278,
+          "lng": 3.324205870107277
+        }
+      },
+      "formatted_address": "Adepeju St, Idi Mangoro 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6072288,3.3255557",
+      "google_place_id": "ChIJgRzvSpyROxAR8itcBJNx5_0"
+    }
   },
   {
     "id": "118602",
@@ -109,7 +147,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6035211,
+      "longitude": 3.3236596,
+      "viewport": {
+        "northeast": {
+          "lat": 6.604837229892722,
+          "lng": 3.324990329892722
+        },
+        "southwest": {
+          "lat": 6.602137570107278,
+          "lng": 3.322290670107278
+        }
+      },
+      "formatted_address": "1, Adepeju Street, Onipetesi Estate Ikeja, 100264, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6035211,3.3236596",
+      "google_place_id": "ChIJS0XKVSOROxARbTeIAYJYPAM"
+    }
   },
   {
     "id": "118603",
@@ -125,7 +180,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5662834,
+      "longitude": 3.3371707,
+      "viewport": {
+        "northeast": {
+          "lat": 6.567626679892721,
+          "lng": 3.338307679892722
+        },
+        "southwest": {
+          "lat": 6.564927020107277,
+          "lng": 3.335608020107278
+        }
+      },
+      "formatted_address": "Bode Onifade Ave, Mafoluku Oshodi 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5662834,3.3371707",
+      "google_place_id": "ChIJ9WZ9OQCOOxARCZe3r_NOxGk"
+    }
   },
   {
     "id": "118604",
@@ -141,7 +213,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6058799,
+      "longitude": 3.3183284,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607228429892722,
+          "lng": 3.319652879892723
+        },
+        "southwest": {
+          "lat": 6.604528770107279,
+          "lng": 3.316953220107278
+        }
+      },
+      "formatted_address": "J849+984, Idi Mangoro 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6058799,3.3183284",
+      "google_place_id": "ChIJ_8XKgmKROxAR5ziwN369ZJY"
+    }
   },
   {
     "id": "118605",
@@ -157,7 +246,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6151813,
+      "longitude": 3.3639417,
+      "viewport": {
+        "northeast": {
+          "lat": 6.616661979892722,
+          "lng": 3.365370679892723
+        },
+        "southwest": {
+          "lat": 6.613962320107278,
+          "lng": 3.362671020107278
+        }
+      },
+      "formatted_address": "by House of Assembly beside Lagos State Secretariat Alausa, 100001, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6151813,3.3639417",
+      "google_place_id": "ChIJM1t4mLWTOxARINF1cGhbTKM"
+    }
   },
   {
     "id": "118606",
@@ -173,7 +279,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6057579,
+      "longitude": 3.3197034,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607061579892722,
+          "lng": 3.320980579892722
+        },
+        "southwest": {
+          "lat": 6.604361920107278,
+          "lng": 3.318280920107277
+        }
+      },
+      "formatted_address": "10 Egba St, Idi Mangoro 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6057579,3.3197034",
+      "google_place_id": "ChIJi9dZQZ-ROxARsC_lVUYoZFM"
+    }
   },
   {
     "id": "118607",
@@ -189,7 +312,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6062932,
+      "longitude": 3.3467292,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607357929892722,
+          "lng": 3.348135429892722
+        },
+        "southwest": {
+          "lat": 6.604658270107278,
+          "lng": 3.345435770107278
+        }
+      },
+      "formatted_address": "111 Obafemi Awolowo Way, Ikeja 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6062932,3.3467292",
+      "google_place_id": "ChIJWWsvki2SOxARcb9DkW9U7-E"
+    }
   },
   {
     "id": "118608",
@@ -205,7 +345,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6058799,
+      "longitude": 3.3183284,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607228429892722,
+          "lng": 3.319652879892723
+        },
+        "southwest": {
+          "lat": 6.604528770107279,
+          "lng": 3.316953220107278
+        }
+      },
+      "formatted_address": "J849+984, Idi Mangoro 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6058799,3.3183284",
+      "google_place_id": "ChIJ_8XKgmKROxAR5ziwN369ZJY"
+    }
   },
   {
     "id": "118609",
@@ -221,7 +378,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5818185,
+      "longitude": 3.3211348,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5849279,
+          "lng": 3.3242296
+        },
+        "southwest": {
+          "lat": 6.572490299999999,
+          "lng": 3.3201032
+        }
+      },
+      "formatted_address": "Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5818185,3.3211348",
+      "google_place_id": "ChIJhRTXUeeROxARmk_Rp3PtIvI"
+    }
   },
   {
     "id": "118610",
@@ -237,7 +411,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.584636199999999,
+      "longitude": 3.333078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.585988779892721,
+          "lng": 3.334528279892722
+        },
+        "southwest": {
+          "lat": 6.583289120107278,
+          "lng": 3.331828620107277
+        }
+      },
+      "formatted_address": "Murtala Muhammed Airport 2, Ikeja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.584636199999999,3.333078",
+      "google_place_id": "ChIJtSmMcx6OOxARA56XQ3yq4nY"
+    }
   },
   {
     "id": "118611",
@@ -253,7 +444,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.584636199999999,
+      "longitude": 3.333078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.585988779892721,
+          "lng": 3.334528279892722
+        },
+        "southwest": {
+          "lat": 6.583289120107278,
+          "lng": 3.331828620107277
+        }
+      },
+      "formatted_address": "Murtala Muhammed Airport 2, Ikeja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.584636199999999,3.333078",
+      "google_place_id": "ChIJtSmMcx6OOxARA56XQ3yq4nY"
+    }
   },
   {
     "id": "118612",
@@ -269,7 +477,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.584636199999999,
+      "longitude": 3.333078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.585988779892721,
+          "lng": 3.334528279892722
+        },
+        "southwest": {
+          "lat": 6.583289120107278,
+          "lng": 3.331828620107277
+        }
+      },
+      "formatted_address": "Murtala Muhammed Airport 2, Ikeja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.584636199999999,3.333078",
+      "google_place_id": "ChIJtSmMcx6OOxARA56XQ3yq4nY"
+    }
   },
   {
     "id": "118613",
@@ -285,7 +510,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.568415799999999,
+      "longitude": 3.3197764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.569771879892722,
+          "lng": 3.321357779892722
+        },
+        "southwest": {
+          "lat": 6.567072220107278,
+          "lng": 3.318658120107278
+        }
+      },
+      "formatted_address": "109 Murtala Muhammed Airport Rd, Ikeja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.568415799999999,3.3197764",
+      "google_place_id": "ChIJ32m1GuCROxARN0MOOkURfBY"
+    }
   },
   {
     "id": "118614",
@@ -301,7 +543,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.584636199999999,
+      "longitude": 3.333078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.585988779892721,
+          "lng": 3.334528279892722
+        },
+        "southwest": {
+          "lat": 6.583289120107278,
+          "lng": 3.331828620107277
+        }
+      },
+      "formatted_address": "Murtala Muhammed Airport 2, Ikeja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.584636199999999,3.333078",
+      "google_place_id": "ChIJtSmMcx6OOxARA56XQ3yq4nY"
+    }
   },
   {
     "id": "118615",
@@ -317,7 +576,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.584636199999999,
+      "longitude": 3.333078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.585988779892721,
+          "lng": 3.334528279892722
+        },
+        "southwest": {
+          "lat": 6.583289120107278,
+          "lng": 3.331828620107277
+        }
+      },
+      "formatted_address": "Murtala Muhammed Airport 2, Ikeja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.584636199999999,3.333078",
+      "google_place_id": "ChIJtSmMcx6OOxARA56XQ3yq4nY"
+    }
   },
   {
     "id": "118616",
@@ -333,7 +609,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5818185,
+      "longitude": 3.3211348,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5849279,
+          "lng": 3.3242296
+        },
+        "southwest": {
+          "lat": 6.572490299999999,
+          "lng": 3.3201032
+        }
+      },
+      "formatted_address": "Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5818185,3.3211348",
+      "google_place_id": "ChIJhRTXUeeROxARmk_Rp3PtIvI"
+    }
   },
   {
     "id": "118617",
@@ -349,7 +642,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6030319,
+      "longitude": 3.3166319,
+      "viewport": {
+        "northeast": {
+          "lat": 6.604378429892722,
+          "lng": 3.317942529892722
+        },
+        "southwest": {
+          "lat": 6.601678770107278,
+          "lng": 3.315242870107277
+        }
+      },
+      "formatted_address": "J838+6M6, Idi Mangoro 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6030319,3.3166319",
+      "google_place_id": "ChIJ0c6WVKKROxARWGj84xPpx3Q"
+    }
   },
   {
     "id": "118618",
@@ -365,7 +675,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5946237,
+      "longitude": 3.3357856,
+      "viewport": {
+        "northeast": {
+          "lat": 6.595979579892724,
+          "lng": 3.337165579892722
+        },
+        "southwest": {
+          "lat": 6.59327992010728,
+          "lng": 3.334465920107278
+        }
+      },
+      "formatted_address": "Oshodi-Isolo 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5946237,3.3357856",
+      "google_place_id": "ChIJuQQZb4mROxARq-K4RMdUzLM"
+    }
   },
   {
     "id": "118619",
@@ -381,7 +708,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5065357,
+      "longitude": 3.3874077,
+      "viewport": {
+        "northeast": {
+          "lat": 6.507881479892721,
+          "lng": 3.388846679892723
+        },
+        "southwest": {
+          "lat": 6.505181820107278,
+          "lng": 3.386147020107278
+        }
+      },
+      "formatted_address": "Iwaya Rd, Onike 101245, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5065357,3.3874077",
+      "google_place_id": "ChIJH_bNOfKMOxARIpeBf63jDGA"
+    }
   },
   {
     "id": "118620",
@@ -397,7 +741,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.584636199999999,
+      "longitude": 3.333078,
+      "viewport": {
+        "northeast": {
+          "lat": 6.585988779892721,
+          "lng": 3.334528279892722
+        },
+        "southwest": {
+          "lat": 6.583289120107278,
+          "lng": 3.331828620107277
+        }
+      },
+      "formatted_address": "Murtala Muhammed Airport 2, Ikeja, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.584636199999999,3.333078",
+      "google_place_id": "ChIJtSmMcx6OOxARA56XQ3yq4nY"
+    }
   },
   {
     "id": "118621",
@@ -413,7 +774,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6038795,
+      "longitude": 3.32333,
+      "viewport": {
+        "northeast": {
+          "lat": 6.605133479892722,
+          "lng": 3.324608629892722
+        },
+        "southwest": {
+          "lat": 6.602433820107279,
+          "lng": 3.321908970107278
+        }
+      },
+      "formatted_address": "5 Olawale Adegboyega St, Idi Mangoro 101233, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6038795,3.32333",
+      "google_place_id": "ChIJS-lSWpmROxAR4_SpESlUQkQ"
+    }
   },
   {
     "id": "118622",
@@ -429,7 +807,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.568415799999999,
+      "longitude": 3.3197764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.569771879892722,
+          "lng": 3.321357779892722
+        },
+        "southwest": {
+          "lat": 6.567072220107278,
+          "lng": 3.318658120107278
+        }
+      },
+      "formatted_address": "109 Murtala Muhammed Airport Rd, Ikeja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.568415799999999,3.3197764",
+      "google_place_id": "ChIJ32m1GuCROxARN0MOOkURfBY"
+    }
   },
   {
     "id": "118623",
@@ -445,7 +840,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5818185,
+      "longitude": 3.3211348,
+      "viewport": {
+        "northeast": {
+          "lat": 6.5849279,
+          "lng": 3.3242296
+        },
+        "southwest": {
+          "lat": 6.572490299999999,
+          "lng": 3.3201032
+        }
+      },
+      "formatted_address": "Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5818185,3.3211348",
+      "google_place_id": "ChIJhRTXUeeROxARmk_Rp3PtIvI"
+    }
   },
   {
     "id": "118624",
@@ -461,7 +873,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.5825111,
+      "longitude": 3.3583605,
+      "viewport": {
+        "northeast": {
+          "lat": 6.583997979892722,
+          "lng": 3.359479179892722
+        },
+        "southwest": {
+          "lat": 6.581298320107278,
+          "lng": 3.356779520107278
+        }
+      },
+      "formatted_address": "42/44 Isaac John St, Ikeja GRA 102215, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.5825111,3.3583605",
+      "google_place_id": "ChIJLXfW1RKSOxARLqGyH2MjB2c"
+    }
   },
   {
     "id": "118625",
@@ -477,7 +906,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.568415799999999,
+      "longitude": 3.3197764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.569771879892722,
+          "lng": 3.321357779892722
+        },
+        "southwest": {
+          "lat": 6.567072220107278,
+          "lng": 3.318658120107278
+        }
+      },
+      "formatted_address": "109 Murtala Muhammed Airport Rd, Ikeja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.568415799999999,3.3197764",
+      "google_place_id": "ChIJ32m1GuCROxARN0MOOkURfBY"
+    }
   },
   {
     "id": "118626",
@@ -493,7 +939,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.568415799999999,
+      "longitude": 3.3197764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.569771879892722,
+          "lng": 3.321357779892722
+        },
+        "southwest": {
+          "lat": 6.567072220107278,
+          "lng": 3.318658120107278
+        }
+      },
+      "formatted_address": "109 Murtala Muhammed Airport Rd, Ikeja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.568415799999999,3.3197764",
+      "google_place_id": "ChIJ32m1GuCROxARN0MOOkURfBY"
+    }
   },
   {
     "id": "118627",
@@ -509,7 +972,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.603013,
+      "longitude": 3.3193465,
+      "viewport": {
+        "northeast": {
+          "lat": 6.604280479892722,
+          "lng": 3.320731579892722
+        },
+        "southwest": {
+          "lat": 6.601580820107278,
+          "lng": 3.318031920107277
+        }
+      },
+      "formatted_address": "21 Ado Odo St, Idi Mangoro 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.603013,3.3193465",
+      "google_place_id": "EjEyMSBBZG8gT2RvIFN0LCBJZGkgTWFuZ29ybyAxMDEyMzMsIElrZWphLCBOaWdlcmlhIjASLgoUChIJ_VHhk5iROxARnx44UNSvo-8QFSoUChIJ_VHhk5iROxARmU6O1cndnhU"
+    }
   },
   {
     "id": "118628",
@@ -525,7 +1005,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.568415799999999,
+      "longitude": 3.3197764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.569771879892722,
+          "lng": 3.321357779892722
+        },
+        "southwest": {
+          "lat": 6.567072220107278,
+          "lng": 3.318658120107278
+        }
+      },
+      "formatted_address": "109 Murtala Muhammed Airport Rd, Ikeja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.568415799999999,3.3197764",
+      "google_place_id": "ChIJ32m1GuCROxARN0MOOkURfBY"
+    }
   },
   {
     "id": "118629",
@@ -541,7 +1038,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6062932,
+      "longitude": 3.3467292,
+      "viewport": {
+        "northeast": {
+          "lat": 6.607357929892722,
+          "lng": 3.348135429892722
+        },
+        "southwest": {
+          "lat": 6.604658270107278,
+          "lng": 3.345435770107278
+        }
+      },
+      "formatted_address": "111 Obafemi Awolowo Way, Ikeja 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6062932,3.3467292",
+      "google_place_id": "ChIJWWsvki2SOxARcb9DkW9U7-E"
+    }
   },
   {
     "id": "118630",
@@ -557,7 +1071,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.596394699999999,
+      "longitude": 3.3516847,
+      "viewport": {
+        "northeast": {
+          "lat": 6.59757617989272,
+          "lng": 3.352857929892722
+        },
+        "southwest": {
+          "lat": 6.594876520107277,
+          "lng": 3.350158270107277
+        }
+      },
+      "formatted_address": "23 Toyin Street Ikeja, 100282, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.596394699999999,3.3516847",
+      "google_place_id": "ChIJn8-2ujuSOxARyfgxWVlbA6M"
+    }
   },
   {
     "id": "118631",
@@ -573,7 +1104,24 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.568415799999999,
+      "longitude": 3.3197764,
+      "viewport": {
+        "northeast": {
+          "lat": 6.569771879892722,
+          "lng": 3.321357779892722
+        },
+        "southwest": {
+          "lat": 6.567072220107278,
+          "lng": 3.318658120107278
+        }
+      },
+      "formatted_address": "109 Murtala Muhammed Airport Rd, Ikeja 102214, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.568415799999999,3.3197764",
+      "google_place_id": "ChIJ32m1GuCROxARN0MOOkURfBY"
+    }
   },
   {
     "id": "118632",
@@ -589,6 +1137,23 @@
     "local_government_id": "516",
     "local_government_name": "IKEJA",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.6010466,
+      "longitude": 3.3184484,
+      "viewport": {
+        "northeast": {
+          "lat": 6.602396429892722,
+          "lng": 3.319798229892722
+        },
+        "southwest": {
+          "lat": 6.599696770107278,
+          "lng": 3.317098570107277
+        }
+      },
+      "formatted_address": "8 Valley View Close, 101233, Ikeja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.6010466,3.3184484",
+      "google_place_id": "Eis4IFZhbGxleSBWaWV3IENsb3NlLCAxMDEyMzMsIElrZWphLCBOaWdlcmlhIjASLgoUChIJyTpumKKROxARlq3eRzFawYgQCCoUChIJl0Sc76KROxAR4e09thE5N6g"
+    }
   }
 ]

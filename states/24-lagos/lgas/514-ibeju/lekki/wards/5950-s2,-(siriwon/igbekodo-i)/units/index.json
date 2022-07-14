@@ -13,7 +13,24 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": {
+      "latitude": 6.4220033,
+      "longitude": 4.1115667,
+      "viewport": {
+        "northeast": {
+          "lat": 6.422972229892721,
+          "lng": 4.112944079892721
+        },
+        "southwest": {
+          "lat": 6.420272570107278,
+          "lng": 4.110244420107278
+        }
+      },
+      "formatted_address": "C4C6+RJ4, Siriwon Road, Siriwon, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4220033,4.1115667",
+      "google_place_id": "ChIJtSHgXBk1ORAR-hs6u5GRRio"
+    }
   },
   {
     "id": "117558",
@@ -29,7 +46,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117559",
@@ -45,7 +63,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117560",
@@ -61,7 +80,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117561",
@@ -77,7 +97,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117562",
@@ -93,7 +114,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117563",
@@ -109,7 +131,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117564",
@@ -125,7 +148,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117565",
@@ -141,7 +165,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117566",
@@ -157,7 +182,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117567",
@@ -173,7 +199,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117568",
@@ -189,7 +216,8 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   },
   {
     "id": "117569",
@@ -205,6 +233,7 @@
     "local_government_id": "514",
     "local_government_name": "IBEJU/LEKKI",
     "state_id": "24",
-    "state_name": "LAGOS"
+    "state_name": "LAGOS",
+    "location": null
   }
 ]
