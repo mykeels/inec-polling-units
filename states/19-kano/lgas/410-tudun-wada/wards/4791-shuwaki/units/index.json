@@ -13,7 +13,8 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94285",
@@ -29,7 +30,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3318701,
+      "longitude": 8.3800516,
+      "viewport": {
+        "northeast": {
+          "lat": 11.3767951,
+          "lng": 8.4182089
+        },
+        "southwest": {
+          "lat": 11.2615819,
+          "lng": 8.3439321
+        }
+      },
+      "formatted_address": "Shuwaki, 801136, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3318701,8.3800516",
+      "google_place_id": "ChIJ1S1Vk7OurRERGFpwqXSomOw"
+    }
   },
   {
     "id": "94286",
@@ -45,7 +63,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2792121,
+      "longitude": 8.414914399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28059652989272,
+          "lng": 8.41587907989272
+        },
+        "southwest": {
+          "lat": 11.27789687010728,
+          "lng": 8.413179420107276
+        }
+      },
+      "formatted_address": "7F3C7CH7+MW9 Kakar kakar Sabon Gari Kano, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2792121,8.414914399999999",
+      "google_place_id": "ChIJMXSVAc-rrRERdlITaAaQ1Hk"
+    }
   },
   {
     "id": "94287",
@@ -61,7 +96,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2967311,
+      "longitude": 8.3536299,
+      "viewport": {
+        "northeast": {
+          "lat": 11.29808397989272,
+          "lng": 8.35502942989272
+        },
+        "southwest": {
+          "lat": 11.29538432010728,
+          "lng": 8.352329770107277
+        }
+      },
+      "formatted_address": "79W3+MFR, 801136, Ruwan Tabo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2967311,8.3536299",
+      "google_place_id": "ChIJgTtkhSCprRER0Lv-DQcUYTo"
+    }
   },
   {
     "id": "94288",
@@ -77,7 +129,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2931628,
+      "longitude": 8.4106743,
+      "viewport": {
+        "northeast": {
+          "lat": 11.29456572989272,
+          "lng": 8.412081229892722
+        },
+        "southwest": {
+          "lat": 11.29186607010728,
+          "lng": 8.409381570107278
+        }
+      },
+      "formatted_address": "7F3C7CV6+777 Shuwaki Cikin Gari, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2931628,8.4106743",
+      "google_place_id": "ChIJtURi0QirrRERBZyTJ2SJtm8"
+    }
   },
   {
     "id": "94289",
@@ -93,7 +162,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2434157,
+      "longitude": 8.4054126,
+      "viewport": {
+        "northeast": {
+          "lat": 11.24475452989272,
+          "lng": 8.406739479892723
+        },
+        "southwest": {
+          "lat": 11.24205487010728,
+          "lng": 8.404039820107279
+        }
+      },
+      "formatted_address": "7F3C6CV4+948 A Kano, 801136, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2434157,8.4054126",
+      "google_place_id": "ChIJT7wUYiurrRERJhkDlPmQDpE"
+    }
   },
   {
     "id": "94290",
@@ -109,7 +195,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2496719,
+      "longitude": 8.4047163,
+      "viewport": {
+        "northeast": {
+          "lat": 11.2589819,
+          "lng": 8.411363
+        },
+        "southwest": {
+          "lat": 11.2365909,
+          "lng": 8.3751549
+        }
+      },
+      "formatted_address": "801136, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2496719,8.4047163",
+      "google_place_id": "ChIJE2ofjBmqrRERXnjAQQSFCBI"
+    }
   },
   {
     "id": "94291",
@@ -125,7 +228,8 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94292",
@@ -141,7 +245,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3063814,
+      "longitude": 8.4065564,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30770517989272,
+          "lng": 8.407869079892722
+        },
+        "southwest": {
+          "lat": 11.30500552010728,
+          "lng": 8.405169420107278
+        }
+      },
+      "formatted_address": "7F3C8C44+GJW Ungwan Galadima Shuwaki Kano, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3063814,8.4065564",
+      "google_place_id": "ChIJmeEyRACrrRERpgE2shR-2Mg"
+    }
   },
   {
     "id": "94293",
@@ -157,7 +278,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3063814,
+      "longitude": 8.4065564,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30770517989272,
+          "lng": 8.407869079892722
+        },
+        "southwest": {
+          "lat": 11.30500552010728,
+          "lng": 8.405169420107278
+        }
+      },
+      "formatted_address": "7F3C8C44+GJW Ungwan Galadima Shuwaki Kano, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3063814,8.4065564",
+      "google_place_id": "ChIJmeEyRACrrRERpgE2shR-2Mg"
+    }
   },
   {
     "id": "94294",
@@ -173,7 +311,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2792121,
+      "longitude": 8.414914399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28059652989272,
+          "lng": 8.41587907989272
+        },
+        "southwest": {
+          "lat": 11.27789687010728,
+          "lng": 8.413179420107276
+        }
+      },
+      "formatted_address": "7F3C7CH7+MW9 Kakar kakar Sabon Gari Kano, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2792121,8.414914399999999",
+      "google_place_id": "ChIJMXSVAc-rrRERdlITaAaQ1Hk"
+    }
   },
   {
     "id": "94295",
@@ -189,7 +344,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2434157,
+      "longitude": 8.4054126,
+      "viewport": {
+        "northeast": {
+          "lat": 11.24475452989272,
+          "lng": 8.406739479892723
+        },
+        "southwest": {
+          "lat": 11.24205487010728,
+          "lng": 8.404039820107279
+        }
+      },
+      "formatted_address": "7F3C6CV4+948 A Kano, 801136, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2434157,8.4054126",
+      "google_place_id": "ChIJT7wUYiurrRERJhkDlPmQDpE"
+    }
   },
   {
     "id": "94296",
@@ -205,7 +377,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4604339,
+      "longitude": 8.1934323,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46178372989272,
+          "lng": 8.194782129892722
+        },
+        "southwest": {
+          "lat": 11.45908407010728,
+          "lng": 8.192082470107279
+        }
+      },
+      "formatted_address": "BA BELLO NIGERIA LTD ZARIA ROAD UNGUWA UJU# UNGUWA UKU, NORTH WEST, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4604339,8.1934323",
+      "google_place_id": "ChIJN8Vm5pO9rRER7qm45JPRCr0"
+    }
   },
   {
     "id": "94297",
@@ -221,7 +410,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4604339,
+      "longitude": 8.1934323,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46178372989272,
+          "lng": 8.194782129892722
+        },
+        "southwest": {
+          "lat": 11.45908407010728,
+          "lng": 8.192082470107279
+        }
+      },
+      "formatted_address": "BA BELLO NIGERIA LTD ZARIA ROAD UNGUWA UJU# UNGUWA UKU, NORTH WEST, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4604339,8.1934323",
+      "google_place_id": "ChIJN8Vm5pO9rRER7qm45JPRCr0"
+    }
   },
   {
     "id": "94298",
@@ -237,7 +443,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0237937,
+      "longitude": 8.556228899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02514582989272,
+          "lng": 8.557493029892722
+        },
+        "southwest": {
+          "lat": 12.02244617010728,
+          "lng": 8.554793370107278
+        }
+      },
+      "formatted_address": "2HF4+GG6, Tudun Wada 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0237937,8.556228899999999",
+      "google_place_id": "ChIJRTc0xOyBrhERvw38-WKmf5g"
+    }
   },
   {
     "id": "94299",
@@ -253,7 +476,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3063814,
+      "longitude": 8.4065564,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30770517989272,
+          "lng": 8.407869079892722
+        },
+        "southwest": {
+          "lat": 11.30500552010728,
+          "lng": 8.405169420107278
+        }
+      },
+      "formatted_address": "7F3C8C44+GJW Ungwan Galadima Shuwaki Kano, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3063814,8.4065564",
+      "google_place_id": "ChIJmeEyRACrrRERpgE2shR-2Mg"
+    }
   },
   {
     "id": "94300",
@@ -269,7 +509,24 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3511002,
+      "longitude": 8.3811578,
+      "viewport": {
+        "northeast": {
+          "lat": 11.35245382989272,
+          "lng": 8.382344279892722
+        },
+        "southwest": {
+          "lat": 11.34975417010728,
+          "lng": 8.379644620107278
+        }
+      },
+      "formatted_address": "992J+CFV, 801136, Gishirya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3511002,8.3811578",
+      "google_place_id": "ChIJK-rZZI6urRERANpFA1LaO2c"
+    }
   },
   {
     "id": "94301",
@@ -285,6 +542,23 @@
     "local_government_id": "410",
     "local_government_name": "TUDUN WADA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.2792121,
+      "longitude": 8.414914399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.28059652989272,
+          "lng": 8.41587907989272
+        },
+        "southwest": {
+          "lat": 11.27789687010728,
+          "lng": 8.413179420107276
+        }
+      },
+      "formatted_address": "7F3C7CH7+MW9 Kakar kakar Sabon Gari Kano, Tudun Wada, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2792121,8.414914399999999",
+      "google_place_id": "ChIJMXSVAc-rrRERdlITaAaQ1Hk"
+    }
   }
 ]

@@ -13,7 +13,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5344751,
+      "longitude": 8.9575803,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53582222989272,
+          "lng": 8.95893067989272
+        },
+        "southwest": {
+          "lat": 11.53312257010728,
+          "lng": 8.956231020107277
+        }
+      },
+      "formatted_address": "7F3CGXM5+Q2W SUMAILA GABAS, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5344751,8.9575803",
+      "google_place_id": "ChIJm8MgBtdtrBERHQvu0gQ5u5U"
+    }
   },
   {
     "id": "92928",
@@ -29,7 +46,8 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92929",
@@ -45,7 +63,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3923465,
+      "longitude": 9.047901999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.39368187989272,
+          "lng": 9.049267179892722
+        },
+        "southwest": {
+          "lat": 11.39098222010728,
+          "lng": 9.046567520107278
+        }
+      },
+      "formatted_address": "7F3F92RX+W5J, Dingamu, 712102, Farin Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3923465,9.047901999999999",
+      "google_place_id": "ChIJHa8gQHpwrBERWjGNNQZpQOU"
+    }
   },
   {
     "id": "92930",
@@ -61,7 +96,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3923465,
+      "longitude": 9.047901999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.39368187989272,
+          "lng": 9.049267179892722
+        },
+        "southwest": {
+          "lat": 11.39098222010728,
+          "lng": 9.046567520107278
+        }
+      },
+      "formatted_address": "7F3F92RX+W5J, Dingamu, 712102, Farin Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3923465,9.047901999999999",
+      "google_place_id": "ChIJHa8gQHpwrBERWjGNNQZpQOU"
+    }
   },
   {
     "id": "92931",
@@ -77,7 +129,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3661032,
+      "longitude": 9.061539999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.36744032989272,
+          "lng": 9.062891879892721
+        },
+        "southwest": {
+          "lat": 11.36474067010728,
+          "lng": 9.060192220107277
+        }
+      },
+      "formatted_address": "7F3F9386+CJV, Jali, 712102, Farin Dutse, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3661032,9.061539999999999",
+      "google_place_id": "ChIJuUh8fC57rBERKIMeoBw8B9w"
+    }
   },
   {
     "id": "92932",
@@ -93,7 +162,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3964663,
+      "longitude": 9.0460525,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4550167,
+          "lng": 9.1157656
+        },
+        "southwest": {
+          "lat": 11.3360423,
+          "lng": 9.00567
+        }
+      },
+      "formatted_address": "Kanawa, 712102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3964663,9.0460525",
+      "google_place_id": "ChIJi_mtJYZwrBERN-iZgKYh0ys"
+    }
   },
   {
     "id": "92933",
@@ -109,7 +195,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9819913,
+      "longitude": 8.571852500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98353912989272,
+          "lng": 8.573177079892721
+        },
+        "southwest": {
+          "lat": 11.98083947010728,
+          "lng": 8.570477420107277
+        }
+      },
+      "formatted_address": "Kawo Cikin Gari Primary School, Hotoro GRA 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9819913,8.571852500000002",
+      "google_place_id": "ChIJo2UWn4CBrhEReiGELRlY-2A"
+    }
   },
   {
     "id": "92934",
@@ -125,7 +228,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9819913,
+      "longitude": 8.571852500000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98353912989272,
+          "lng": 8.573177079892721
+        },
+        "southwest": {
+          "lat": 11.98083947010728,
+          "lng": 8.570477420107277
+        }
+      },
+      "formatted_address": "Kawo Cikin Gari Primary School, Hotoro GRA 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9819913,8.571852500000002",
+      "google_place_id": "ChIJo2UWn4CBrhEReiGELRlY-2A"
+    }
   },
   {
     "id": "92935",
@@ -141,7 +261,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.3964663,
+      "longitude": 9.0460525,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4550167,
+          "lng": 9.1157656
+        },
+        "southwest": {
+          "lat": 11.3360423,
+          "lng": 9.00567
+        }
+      },
+      "formatted_address": "Kanawa, 712102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3964663,9.0460525",
+      "google_place_id": "ChIJi_mtJYZwrBERN-iZgKYh0ys"
+    }
   },
   {
     "id": "92936",
@@ -157,7 +294,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0051539,
+      "longitude": 8.596829300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0147859,
+          "lng": 8.6254755
+        },
+        "southwest": {
+          "lat": 11.9974075,
+          "lng": 8.560967200000002
+        }
+      },
+      "formatted_address": "Kawo, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0051539,8.596829300000001",
+      "google_place_id": "ChIJcyYIb8CDrhERF9KO2eKk_s8"
+    }
   },
   {
     "id": "92937",
@@ -173,7 +327,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5315574,
+      "longitude": 8.955510300000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53286007989272,
+          "lng": 8.956822979892722
+        },
+        "southwest": {
+          "lat": 11.53016042010728,
+          "lng": 8.954123320107279
+        }
+      },
+      "formatted_address": "Nura Dan Sumaila Street, Yandi Quarters, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5315574,8.955510300000002",
+      "google_place_id": "ChIJ26s04IdtrBER7rUuXQ5YaYw"
+    }
   },
   {
     "id": "92938",
@@ -189,7 +360,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5847,
+      "longitude": 8.9222,
+      "viewport": {
+        "northeast": {
+          "lat": 11.58597217989272,
+          "lng": 8.923573979892721
+        },
+        "southwest": {
+          "lat": 11.58327252010728,
+          "lng": 8.920874320107277
+        }
+      },
+      "formatted_address": "HWMC+VVG, 712101, Sarina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5847,8.9222",
+      "google_place_id": "ChIJBY3JI6cUrBERSf4k0ByMwOY"
+    }
   },
   {
     "id": "92939",
@@ -205,7 +393,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5344751,
+      "longitude": 8.9575803,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53582222989272,
+          "lng": 8.95893067989272
+        },
+        "southwest": {
+          "lat": 11.53312257010728,
+          "lng": 8.956231020107277
+        }
+      },
+      "formatted_address": "7F3CGXM5+Q2W SUMAILA GABAS, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5344751,8.9575803",
+      "google_place_id": "ChIJm8MgBtdtrBERHQvu0gQ5u5U"
+    }
   },
   {
     "id": "92940",
@@ -221,7 +426,24 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5344751,
+      "longitude": 8.9575803,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53582222989272,
+          "lng": 8.95893067989272
+        },
+        "southwest": {
+          "lat": 11.53312257010728,
+          "lng": 8.956231020107277
+        }
+      },
+      "formatted_address": "7F3CGXM5+Q2W SUMAILA GABAS, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5344751,8.9575803",
+      "google_place_id": "ChIJm8MgBtdtrBERHQvu0gQ5u5U"
+    }
   },
   {
     "id": "92941",
@@ -237,6 +459,23 @@
     "local_government_id": "405",
     "local_government_name": "SUMAILA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5344751,
+      "longitude": 8.9575803,
+      "viewport": {
+        "northeast": {
+          "lat": 11.53582222989272,
+          "lng": 8.95893067989272
+        },
+        "southwest": {
+          "lat": 11.53312257010728,
+          "lng": 8.956231020107277
+        }
+      },
+      "formatted_address": "7F3CGXM5+Q2W SUMAILA GABAS, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5344751,8.9575803",
+      "google_place_id": "ChIJm8MgBtdtrBERHQvu0gQ5u5U"
+    }
   }
 ]

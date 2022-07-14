@@ -13,7 +13,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93090",
@@ -29,7 +30,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93091",
@@ -45,7 +47,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93092",
@@ -61,7 +64,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93093",
@@ -77,7 +81,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93094",
@@ -93,7 +98,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93095",
@@ -109,7 +115,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93096",
@@ -125,7 +132,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93097",
@@ -141,7 +149,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93098",
@@ -157,7 +166,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.503338,
+      "longitude": 9.2231387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5646878,
+          "lng": 9.290793599999999
+        },
+        "southwest": {
+          "lat": 11.4660688,
+          "lng": 9.1516254
+        }
+      },
+      "formatted_address": "Durbunde, 712103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.503338,9.2231387",
+      "google_place_id": "ChIJ69ouxfeKqxERmFdfKtRi3qM"
+    }
   },
   {
     "id": "93099",
@@ -173,7 +199,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5495635,
+      "longitude": 9.2428007,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55096332989272,
+          "lng": 9.244159029892721
+        },
+        "southwest": {
+          "lat": 11.54826367010728,
+          "lng": 9.241459370107277
+        }
+      },
+      "formatted_address": "7F3FG6XV+R4F, TAGAHU, 712103, Kachako, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5495635,9.2428007",
+      "google_place_id": "ChIJC--0gGyLqxERykcwTQGU_Zw"
+    }
   },
   {
     "id": "93100",
@@ -189,7 +232,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93101",
@@ -205,7 +249,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9878715,
+      "longitude": 8.5284251,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98922317989272,
+          "lng": 8.52977207989272
+        },
+        "southwest": {
+          "lat": 11.98652352010728,
+          "lng": 8.527072420107276
+        }
+      },
+      "formatted_address": "XGQH+49V, Kano Metropolitan Area, Kofar Dan Agudi, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9878715,8.5284251",
+      "google_place_id": "ChIJX71cLEaBrhERvaR-xWzy9Cs"
+    }
   },
   {
     "id": "93102",
@@ -221,7 +282,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.485473,
+      "longitude": 9.1924077,
+      "viewport": {
+        "northeast": {
+          "lat": 11.48684602989272,
+          "lng": 9.193730179892723
+        },
+        "southwest": {
+          "lat": 11.48414637010728,
+          "lng": 9.19103052010728
+        }
+      },
+      "formatted_address": "F5PR+5XM, 712103, Lafiya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.485473,9.1924077",
+      "google_place_id": "ChIJTfUiqxeLqxERx4cyTzxesJA"
+    }
   },
   {
     "id": "93103",
@@ -237,7 +315,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93104",
@@ -253,7 +332,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93105",
@@ -269,7 +349,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93106",
@@ -285,7 +366,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93107",
@@ -301,7 +383,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93108",
@@ -317,7 +400,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6843374,
+      "longitude": 9.2480057,
+      "viewport": {
+        "northeast": {
+          "lat": 11.695362,
+          "lng": 9.267434999999999
+        },
+        "southwest": {
+          "lat": 11.676035,
+          "lng": 9.236602
+        }
+      },
+      "formatted_address": "Sakwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6843374,9.2480057",
+      "google_place_id": "ChIJ3YDJ7-X2qxERt4NqCfp3aWg"
+    }
   },
   {
     "id": "93109",
@@ -333,7 +433,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6843374,
+      "longitude": 9.2480057,
+      "viewport": {
+        "northeast": {
+          "lat": 11.695362,
+          "lng": 9.267434999999999
+        },
+        "southwest": {
+          "lat": 11.676035,
+          "lng": 9.236602
+        }
+      },
+      "formatted_address": "Sakwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6843374,9.2480057",
+      "google_place_id": "ChIJ3YDJ7-X2qxERt4NqCfp3aWg"
+    }
   },
   {
     "id": "93110",
@@ -349,7 +466,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93111",
@@ -365,7 +483,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.507078,
+      "longitude": 9.160498600000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.50840657989272,
+          "lng": 9.161893729892723
+        },
+        "southwest": {
+          "lat": 11.50570692010728,
+          "lng": 9.15919407010728
+        }
+      },
+      "formatted_address": "7F3FG546+R5Q Durbinde Kano, Yardado, 712103, Zuga, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.507078,9.160498600000002",
+      "google_place_id": "ChIJ6yKaaKl1rBERQX24brKMXwI"
+    }
   },
   {
     "id": "93112",
@@ -381,7 +516,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5337165,
+      "longitude": 9.1739857,
+      "viewport": {
+        "northeast": {
+          "lat": 11.540202,
+          "lng": 9.182158099999999
+        },
+        "southwest": {
+          "lat": 11.5249239,
+          "lng": 9.153823899999999
+        }
+      },
+      "formatted_address": "712103, Sakwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5337165,9.1739857",
+      "google_place_id": "ChIJB0aRrWx1rBERf93P9RHemS8"
+    }
   },
   {
     "id": "93113",
@@ -397,7 +549,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93114",
@@ -413,7 +566,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0780276,
+      "longitude": 8.6773499,
+      "viewport": {
+        "northeast": {
+          "lat": 12.07937342989272,
+          "lng": 8.678700729892723
+        },
+        "southwest": {
+          "lat": 12.07667377010728,
+          "lng": 8.67600107010728
+        }
+      },
+      "formatted_address": "7F4C3MHG+5XR, Dambal, 702101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0780276,8.6773499",
+      "google_place_id": "ChIJWeN-L4SbrhERAruI_Xhms5U"
+    }
   },
   {
     "id": "93115",
@@ -429,7 +599,8 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93116",
@@ -445,7 +616,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.97613,
+      "longitude": 8.56368,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97749032989272,
+          "lng": 8.565058179892722
+        },
+        "southwest": {
+          "lat": 11.97479067010728,
+          "lng": 8.562358520107278
+        }
+      },
+      "formatted_address": "Suite 2 Dan Amarya Plaza, Maiduguri Road, Hotoro, Kano, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.97613,8.56368",
+      "google_place_id": "ChIJOwQrdIWBrhERbWu8TgSgszc"
+    }
   },
   {
     "id": "93117",
@@ -461,7 +649,24 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5604562,
+      "longitude": 9.3183784,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56181407989272,
+          "lng": 9.319727679892722
+        },
+        "southwest": {
+          "lat": 11.55911442010728,
+          "lng": 9.317028020107278
+        }
+      },
+      "formatted_address": "7F3FH869+59R kacako Kano, WRECA, 712103, Malamawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5604562,9.3183784",
+      "google_place_id": "ChIJ2X9L6srzqxEROd2KVdlFenE"
+    }
   },
   {
     "id": "93118",
@@ -477,6 +682,23 @@
     "local_government_id": "406",
     "local_government_name": "TAKAI",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.6626377,
+      "longitude": 8.9212043,
+      "viewport": {
+        "northeast": {
+          "lat": 11.66401342989272,
+          "lng": 8.922542029892723
+        },
+        "southwest": {
+          "lat": 11.66131377010728,
+          "lng": 8.919842370107279
+        }
+      },
+      "formatted_address": "7F3CMW7C+3F4 KOFAR FADA, Kafin Malamai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6626377,8.9212043",
+      "google_place_id": "ChIJu76m5cQXrBERqA2zZ2X3Ces"
+    }
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93777",
@@ -29,7 +30,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93778",
@@ -45,7 +47,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9742168,
+      "longitude": 8.5563389,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97557292989272,
+          "lng": 8.557527879892719
+        },
+        "southwest": {
+          "lat": 11.97287327010728,
+          "lng": 8.554828220107275
+        }
+      },
+      "formatted_address": "XHF4+MGX, Tarauni 700102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9742168,8.5563389",
+      "google_place_id": "ChIJDTMDupCBrhER1wJVnplb6mk"
+    }
   },
   {
     "id": "93779",
@@ -61,7 +80,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93780",
@@ -77,7 +97,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9620541,
+      "longitude": 8.558799,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96334642989272,
+          "lng": 8.560174979892722
+        },
+        "southwest": {
+          "lat": 11.96064677010728,
+          "lng": 8.557475320107278
+        }
+      },
+      "formatted_address": "kundila zaria road phase 3 block M, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9620541,8.558799",
+      "google_place_id": "ChIJOY9iobOBrhERMf1YGZMNO-0"
+    }
   },
   {
     "id": "93781",
@@ -93,7 +130,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0081083,
+      "longitude": 8.3538321,
+      "viewport": {
+        "northeast": {
+          "lat": 12.00952317989272,
+          "lng": 8.35492407989272
+        },
+        "southwest": {
+          "lat": 12.00682352010728,
+          "lng": 8.352224420107277
+        }
+      },
+      "formatted_address": "2953+6GW, 701103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0081083,8.3538321",
+      "google_place_id": "ChIJcdQJwQl5rhER9NceC74vN8E"
+    }
   },
   {
     "id": "93782",
@@ -109,6 +163,23 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0279713,
+      "longitude": 8.333746,
+      "viewport": {
+        "northeast": {
+          "lat": 12.02930617989272,
+          "lng": 8.33510127989272
+        },
+        "southwest": {
+          "lat": 12.02660652010728,
+          "lng": 8.332401620107277
+        }
+      },
+      "formatted_address": "7F4C28HM+5FF, Larabawa, 701103, Lambu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0279713,8.333746",
+      "google_place_id": "ChIJgY17GiR5rhERX__i3g4Cawg"
+    }
   }
 ]

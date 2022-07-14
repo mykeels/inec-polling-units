@@ -13,7 +13,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8483041,
+      "longitude": 8.055296,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84961417989272,
+          "lng": 8.056701929892721
+        },
+        "southwest": {
+          "lat": 11.84691452010728,
+          "lng": 8.054002270107278
+        }
+      },
+      "formatted_address": "7F3CR3X4+84H Unguwan Dabai, Dederi St, 700281, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8483041,8.055296",
+      "google_place_id": "ChIJ_fHeIZ_nrRERmZS8BWmJPRE"
+    }
   },
   {
     "id": "94024",
@@ -29,7 +46,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8161834,
+      "longitude": 8.0021198,
+      "viewport": {
+        "northeast": {
+          "lat": 11.81753857989272,
+          "lng": 8.003482779892723
+        },
+        "southwest": {
+          "lat": 11.81483892010728,
+          "lng": 8.000783120107279
+        }
+      },
+      "formatted_address": "R282+FR8, 704104, Karaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8161834,8.0021198",
+      "google_place_id": "ChIJ8dkoTQflrRERJKeaZyrmIDY"
+    }
   },
   {
     "id": "94025",
@@ -45,7 +79,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.1090894,
+      "longitude": 8.7507968,
+      "viewport": {
+        "northeast": {
+          "lat": 12.11042257989272,
+          "lng": 8.752150179892723
+        },
+        "southwest": {
+          "lat": 12.10772292010728,
+          "lng": 8.74945052010728
+        }
+      },
+      "formatted_address": "Ward Kano, 7F4C4Q52+M8G Kofar Arewa Community, Gezawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1090894,8.7507968",
+      "google_place_id": "ChIJ-VPw5BuZrhERpuCzEiBtVYA"
+    }
   },
   {
     "id": "94026",
@@ -61,7 +112,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0128137,
+      "longitude": 8.5657812,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01416292989272,
+          "lng": 8.567098879892724
+        },
+        "southwest": {
+          "lat": 12.01146327010728,
+          "lng": 8.56439922010728
+        }
+      },
+      "formatted_address": "1 Gumel Road, LGA 700213, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0128137,8.5657812",
+      "google_place_id": "ChIJDVZ8O1yBrhERVIfsMmIZqek"
+    }
   },
   {
     "id": "94027",
@@ -77,7 +145,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94028",
@@ -93,7 +162,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2954782,
+      "longitude": 7.989260499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29706257989272,
+          "lng": 7.990559129892722
+        },
+        "southwest": {
+          "lat": 12.29436292010728,
+          "lng": 7.987859470107278
+        }
+      },
+      "formatted_address": "Yankamaye Village Tsanyawa Lga Kano, Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2954782,7.989260499999999",
+      "google_place_id": "ChIJPxHb-E4XrhER73A1G8V-EYw"
+    }
   },
   {
     "id": "94029",
@@ -109,7 +195,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2954782,
+      "longitude": 7.989260499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29706257989272,
+          "lng": 7.990559129892722
+        },
+        "southwest": {
+          "lat": 12.29436292010728,
+          "lng": 7.987859470107278
+        }
+      },
+      "formatted_address": "Yankamaye Village Tsanyawa Lga Kano, Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2954782,7.989260499999999",
+      "google_place_id": "ChIJPxHb-E4XrhER73A1G8V-EYw"
+    }
   },
   {
     "id": "94030",
@@ -125,7 +228,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3027082,
+      "longitude": 7.964262799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30404902989272,
+          "lng": 7.965612829892722
+        },
+        "southwest": {
+          "lat": 12.30134937010728,
+          "lng": 7.962913170107278
+        }
+      },
+      "formatted_address": "7F498X37+3PJ, Madaurari, 703102, Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3027082,7.964262799999999",
+      "google_place_id": "ChIJGeblsnEXrhERLHRwqwUwPOo"
+    }
   },
   {
     "id": "94031",
@@ -141,7 +261,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3027082,
+      "longitude": 7.964262799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.30404902989272,
+          "lng": 7.965612829892722
+        },
+        "southwest": {
+          "lat": 12.30134937010728,
+          "lng": 7.962913170107278
+        }
+      },
+      "formatted_address": "7F498X37+3PJ, Madaurari, 703102, Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3027082,7.964262799999999",
+      "google_place_id": "ChIJGeblsnEXrhERLHRwqwUwPOo"
+    }
   },
   {
     "id": "94032",
@@ -157,7 +294,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94033",
@@ -173,7 +311,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2888691,
+      "longitude": 7.913018300000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29021632989272,
+          "lng": 7.914327879892721
+        },
+        "southwest": {
+          "lat": 12.28751667010728,
+          "lng": 7.911628220107277
+        }
+      },
+      "formatted_address": "7F497WQ7+H5H Yama B, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2888691,7.913018300000001",
+      "google_place_id": "ChIJN-4scIAZrhERUDcpr2XF0Yc"
+    }
   },
   {
     "id": "94034",
@@ -189,7 +344,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3146498,
+      "longitude": 7.900099799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.317405,
+          "lng": 7.901537100000001
+        },
+        "southwest": {
+          "lat": 12.312642,
+          "lng": 7.8969461
+        }
+      },
+      "formatted_address": "703102, Yankamaye, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3146498,7.900099799999999",
+      "google_place_id": "ChIJtYjF55sYrhER68ct1KamYrE"
+    }
   },
   {
     "id": "94035",
@@ -205,7 +377,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94036",
@@ -221,7 +394,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0901851,
+      "longitude": 8.753485699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09175137989272,
+          "lng": 8.75494957989272
+        },
+        "southwest": {
+          "lat": 12.08905172010728,
+          "lng": 8.752249920107277
+        }
+      },
+      "formatted_address": "3QR3+39H, Kano-Gumel Rd, 702101, Gezawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0901851,8.753485699999999",
+      "google_place_id": "ChIJwcThIiSZrhERpDutr8iC6KQ"
+    }
   },
   {
     "id": "94037",
@@ -237,7 +427,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2954782,
+      "longitude": 7.989260499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29706257989272,
+          "lng": 7.990559129892722
+        },
+        "southwest": {
+          "lat": 12.29436292010728,
+          "lng": 7.987859470107278
+        }
+      },
+      "formatted_address": "Yankamaye Village Tsanyawa Lga Kano, Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2954782,7.989260499999999",
+      "google_place_id": "ChIJPxHb-E4XrhER73A1G8V-EYw"
+    }
   },
   {
     "id": "94038",
@@ -253,7 +460,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94039",
@@ -269,7 +477,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3115035,
+      "longitude": 7.9266015,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3492343,
+          "lng": 7.978810200000001
+        },
+        "southwest": {
+          "lat": 12.260646,
+          "lng": 7.8645374
+        }
+      },
+      "formatted_address": "Yankamaye, 703102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3115035,7.9266015",
+      "google_place_id": "ChIJtZDXsGYYrhERaFy0DAW0_mg"
+    }
   },
   {
     "id": "94040",
@@ -285,6 +510,7 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   }
 ]

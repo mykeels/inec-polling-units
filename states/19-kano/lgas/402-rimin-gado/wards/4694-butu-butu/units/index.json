@@ -13,7 +13,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92349",
@@ -29,7 +30,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92350",
@@ -45,7 +47,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92351",
@@ -61,7 +64,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92352",
@@ -77,7 +81,24 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9694738,
+      "longitude": 8.245275099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97097702989272,
+          "lng": 8.246529579892723
+        },
+        "southwest": {
+          "lat": 11.96827737010728,
+          "lng": 8.243829920107279
+        }
+      },
+      "formatted_address": "7F3CX69W+Q45, 701102, Rimin Gado, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9694738,8.245275099999999",
+      "google_place_id": "ChIJD1-4IFZ3rhERqzaBA0qFbQY"
+    }
   },
   {
     "id": "92353",
@@ -93,7 +114,24 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.012923,
+      "longitude": 8.211395600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01428402989272,
+          "lng": 8.212722129892722
+        },
+        "southwest": {
+          "lat": 12.01158437010728,
+          "lng": 8.210022470107278
+        }
+      },
+      "formatted_address": "7F4C2676+6G5 Yango cikin gari Zango Kano, Butubutu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.012923,8.211395600000001",
+      "google_place_id": "ChIJO_Hd_2x1rhER3BtvlrAmATM"
+    }
   },
   {
     "id": "92354",
@@ -109,7 +147,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92355",
@@ -125,7 +164,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92356",
@@ -141,7 +181,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92357",
@@ -157,7 +198,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92358",
@@ -173,7 +215,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92359",
@@ -189,7 +232,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92360",
@@ -205,7 +249,8 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92361",
@@ -221,6 +266,23 @@
     "local_government_id": "402",
     "local_government_name": "RIMIN GADO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.012923,
+      "longitude": 8.211395600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01428402989272,
+          "lng": 8.212722129892722
+        },
+        "southwest": {
+          "lat": 12.01158437010728,
+          "lng": 8.210022470107278
+        }
+      },
+      "formatted_address": "7F4C2676+6G5 Yango cikin gari Zango Kano, Butubutu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.012923,8.211395600000001",
+      "google_place_id": "ChIJO_Hd_2x1rhER3BtvlrAmATM"
+    }
   }
 ]

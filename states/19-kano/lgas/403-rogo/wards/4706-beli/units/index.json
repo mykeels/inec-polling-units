@@ -13,7 +13,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4625747,
+      "longitude": 7.8317643,
+      "viewport": {
+        "northeast": {
+          "lat": 11.46393672989272,
+          "lng": 7.833147529892722
+        },
+        "southwest": {
+          "lat": 11.46123707010728,
+          "lng": 7.830447870107278
+        }
+      },
+      "formatted_address": "7F39FR7J+2PC BELI BELI Kano Dodo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4625747,7.8317643",
+      "google_place_id": "ChIJOyBEi42JrRER-cK57zCH2LA"
+    }
   },
   {
     "id": "92485",
@@ -29,7 +46,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4125157,
+      "longitude": 7.840535000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.416591,
+          "lng": 7.842158
+        },
+        "southwest": {
+          "lat": 11.40798,
+          "lng": 7.837435
+        }
+      },
+      "formatted_address": "704105, Babbarika, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4125157,7.840535000000001",
+      "google_place_id": "ChIJmcLGiCWGrRERhzD7q1kLzDc"
+    }
   },
   {
     "id": "92486",
@@ -45,7 +79,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4762963,
+      "longitude": 7.8395151,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5326911,
+          "lng": 7.882199999999999
+        },
+        "southwest": {
+          "lat": 11.4084123,
+          "lng": 7.806897599999999
+        }
+      },
+      "formatted_address": "Beli, 704105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4762963,7.8395151",
+      "google_place_id": "ChIJRY2j-BuJrRER5-QPc6tyDSI"
+    }
   },
   {
     "id": "92487",
@@ -61,7 +112,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4762963,
+      "longitude": 7.8395151,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5326911,
+          "lng": 7.882199999999999
+        },
+        "southwest": {
+          "lat": 11.4084123,
+          "lng": 7.806897599999999
+        }
+      },
+      "formatted_address": "Beli, 704105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4762963,7.8395151",
+      "google_place_id": "ChIJRY2j-BuJrRER5-QPc6tyDSI"
+    }
   },
   {
     "id": "92488",
@@ -77,7 +145,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.468366,
+      "longitude": 7.833055900000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.474924,
+          "lng": 7.839657900000001
+        },
+        "southwest": {
+          "lat": 11.460202,
+          "lng": 7.828546100000001
+        }
+      },
+      "formatted_address": "704105, Hago, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.468366,7.833055900000001",
+      "google_place_id": "ChIJDb7mKQKJrRERf2FuOq-z8Bc"
+    }
   },
   {
     "id": "92489",
@@ -93,7 +178,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92490",
@@ -109,7 +211,8 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92491",
@@ -125,7 +228,8 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92492",
@@ -141,7 +245,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92493",
@@ -157,7 +278,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92494",
@@ -173,7 +311,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92495",
@@ -189,7 +344,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.4438498,
+      "longitude": 7.840875,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4469889,
+          "lng": 7.8451831
+        },
+        "southwest": {
+          "lat": 11.437123,
+          "lng": 7.833429900000001
+        }
+      },
+      "formatted_address": "704105, Beli, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4438498,7.840875",
+      "google_place_id": "ChIJI5qNVo2IrRERX1Zu8jN2EQ4"
+    }
   },
   {
     "id": "92496",
@@ -205,7 +377,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92497",
@@ -221,7 +410,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92498",
@@ -237,7 +443,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92499",
@@ -253,7 +476,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92500",
@@ -269,7 +509,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5428011,
+      "longitude": 7.8199811,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54414677989272,
+          "lng": 7.821338229892722
+        },
+        "southwest": {
+          "lat": 11.54144712010728,
+          "lng": 7.818638570107278
+        }
+      },
+      "formatted_address": "GRV9+4X5, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5428011,7.8199811",
+      "google_place_id": "ChIJVSDbWfGLrRERfIGQ8EJF5TY"
+    }
   },
   {
     "id": "92501",
@@ -285,7 +542,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92502",
@@ -301,7 +575,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5433819,
+      "longitude": 7.8213596,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54477152989272,
+          "lng": 7.822678229892722
+        },
+        "southwest": {
+          "lat": 11.54207187010728,
+          "lng": 7.819978570107278
+        }
+      },
+      "formatted_address": "GRVC+8GX, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5433819,7.8213596",
+      "google_place_id": "ChIJ-0bYzK2LrRERkcov6khrfxw"
+    }
   },
   {
     "id": "92503",
@@ -317,7 +608,8 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92504",
@@ -333,7 +625,24 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   },
   {
     "id": "92505",
@@ -349,6 +658,23 @@
     "local_government_id": "403",
     "local_government_name": "ROGO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5403181,
+      "longitude": 7.8261112,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54172492989272,
+          "lng": 7.827333079892721
+        },
+        "southwest": {
+          "lat": 11.53902527010728,
+          "lng": 7.824633420107277
+        }
+      },
+      "formatted_address": "GRRG+4CH, 704105, Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5403181,7.8261112",
+      "google_place_id": "ChIJ_VukZK2LrRERGKBz1FM0W48"
+    }
   }
 ]

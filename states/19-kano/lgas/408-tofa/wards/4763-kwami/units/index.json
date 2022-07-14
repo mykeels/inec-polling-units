@@ -13,7 +13,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0586297,
+      "longitude": 8.276998299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05992717989272,
+          "lng": 8.278132129892722
+        },
+        "southwest": {
+          "lat": 12.05722752010728,
+          "lng": 8.275432470107278
+        }
+      },
+      "formatted_address": "7F4C375G+CQX Kofar Gabas Anas, Tofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0586297,8.276998299999999",
+      "google_place_id": "ChIJV8qiKPBxrhER6MwDjKgG4ng"
+    }
   },
   {
     "id": "93794",
@@ -29,7 +46,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0522952,
+      "longitude": 8.2732606,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05362562989272,
+          "lng": 8.274605029892722
+        },
+        "southwest": {
+          "lat": 12.05092597010728,
+          "lng": 8.271905370107278
+        }
+      },
+      "formatted_address": "7F4C372F+V8M, 701103, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0522952,8.2732606",
+      "google_place_id": "ChIJp9S-DgZxrhERKYRwD4JmBG4"
+    }
   },
   {
     "id": "93795",
@@ -45,7 +79,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0586297,
+      "longitude": 8.276998299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05992717989272,
+          "lng": 8.278132129892722
+        },
+        "southwest": {
+          "lat": 12.05722752010728,
+          "lng": 8.275432470107278
+        }
+      },
+      "formatted_address": "7F4C375G+CQX Kofar Gabas Anas, Tofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0586297,8.276998299999999",
+      "google_place_id": "ChIJV8qiKPBxrhER6MwDjKgG4ng"
+    }
   },
   {
     "id": "93796",
@@ -61,7 +112,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93797",
@@ -77,6 +129,23 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8405279,
+      "longitude": 8.2933238,
+      "viewport": {
+        "northeast": {
+          "lat": 11.84183547989272,
+          "lng": 8.294846329892723
+        },
+        "southwest": {
+          "lat": 11.83913582010728,
+          "lng": 8.292146670107279
+        }
+      },
+      "formatted_address": "7F3CR7RV+688, Ruga 701102, Gulu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8405279,8.2933238",
+      "google_place_id": "ChIJteP4b3vbrRERTxejfFTQBLE"
+    }
   }
 ]

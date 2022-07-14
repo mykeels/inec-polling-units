@@ -13,7 +13,8 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94834",
@@ -29,7 +30,8 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94835",
@@ -45,7 +47,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8677318,
+      "longitude": 8.716837300000002,
+      "viewport": {
+        "northeast": {
+          "lat": 11.86908457989272,
+          "lng": 8.718205729892722
+        },
+        "southwest": {
+          "lat": 11.86638492010728,
+          "lng": 8.715506070107278
+        }
+      },
+      "formatted_address": "7F3CVP98+4P4 Jalawa, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8677318,8.716837300000002",
+      "google_place_id": "ChIJUVj0KvMnrBERmRGR65q6HXs"
+    }
   },
   {
     "id": "94836",
@@ -61,7 +80,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8871934,
+      "longitude": 8.7322863,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8894199,
+          "lng": 8.7363838
+        },
+        "southwest": {
+          "lat": 11.8854306,
+          "lng": 8.729174100000002
+        }
+      },
+      "formatted_address": "713104, Warawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8871934,8.7322863",
+      "google_place_id": "ChIJ32GcJtkmrBERon5cvLsInUw"
+    }
   },
   {
     "id": "94837",
@@ -77,7 +113,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8871934,
+      "longitude": 8.7322863,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8894199,
+          "lng": 8.7363838
+        },
+        "southwest": {
+          "lat": 11.8854306,
+          "lng": 8.729174100000002
+        }
+      },
+      "formatted_address": "713104, Warawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8871934,8.7322863",
+      "google_place_id": "ChIJ32GcJtkmrBERon5cvLsInUw"
+    }
   },
   {
     "id": "94838",
@@ -93,7 +146,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8871934,
+      "longitude": 8.7322863,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8894199,
+          "lng": 8.7363838
+        },
+        "southwest": {
+          "lat": 11.8854306,
+          "lng": 8.729174100000002
+        }
+      },
+      "formatted_address": "713104, Warawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8871934,8.7322863",
+      "google_place_id": "ChIJ32GcJtkmrBERon5cvLsInUw"
+    }
   },
   {
     "id": "94839",
@@ -109,7 +179,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9739505,
+      "longitude": 8.706050000000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97527032989272,
+          "lng": 8.707605429892723
+        },
+        "southwest": {
+          "lat": 11.97257067010728,
+          "lng": 8.70490577010728
+        }
+      },
+      "formatted_address": "7F3CXPF4+HCM, Haladawa, 713105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9739505,8.706050000000001",
+      "google_place_id": "ChIJV1jVywedrhER2C1upuDKHaE"
+    }
   },
   {
     "id": "94840",
@@ -125,7 +212,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.87733,
+      "longitude": 8.7366919,
+      "viewport": {
+        "northeast": {
+          "lat": 11.87868277989272,
+          "lng": 8.738055079892723
+        },
+        "southwest": {
+          "lat": 11.87598312010728,
+          "lng": 8.735355420107279
+        }
+      },
+      "formatted_address": "7F3CVPGP+WPW, 713105, Warawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.87733,8.7366919",
+      "google_place_id": "ChIJIbPKXNsnrBERUWHff2AYEgY"
+    }
   },
   {
     "id": "94841",
@@ -141,6 +245,23 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.87733,
+      "longitude": 8.7366919,
+      "viewport": {
+        "northeast": {
+          "lat": 11.87868277989272,
+          "lng": 8.738055079892723
+        },
+        "southwest": {
+          "lat": 11.87598312010728,
+          "lng": 8.735355420107279
+        }
+      },
+      "formatted_address": "7F3CVPGP+WPW, 713105, Warawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.87733,8.7366919",
+      "google_place_id": "ChIJIbPKXNsnrBERUWHff2AYEgY"
+    }
   }
 ]

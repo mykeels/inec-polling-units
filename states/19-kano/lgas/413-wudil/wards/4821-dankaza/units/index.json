@@ -13,7 +13,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9583365,
+      "longitude": 8.4345379,
+      "viewport": {
+        "northeast": {
+          "lat": 11.95960157989272,
+          "lng": 8.435924079892724
+        },
+        "southwest": {
+          "lat": 11.95690192010728,
+          "lng": 8.43322442010728
+        }
+      },
+      "formatted_address": "7F3CXC5M+8R7, 700233, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9583365,8.4345379",
+      "google_place_id": "ChIJzZpWz3B_rhERCq4n4s6nW5o"
+    }
   },
   {
     "id": "94893",
@@ -29,7 +46,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7370884,
+      "longitude": 8.870652999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73842572989272,
+          "lng": 8.871947779892722
+        },
+        "southwest": {
+          "lat": 11.73572607010728,
+          "lng": 8.869248120107278
+        }
+      },
+      "formatted_address": "7F3CPVPC+R7G Bogga Dankaza Kano Utai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7370884,8.870652999999999",
+      "google_place_id": "ChIJB8bHG5cXrBER8IRrS_IIEds"
+    }
   },
   {
     "id": "94894",
@@ -45,7 +79,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7428429,
+      "longitude": 8.8597329,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74427172989272,
+          "lng": 8.86094887989272
+        },
+        "southwest": {
+          "lat": 11.74157207010728,
+          "lng": 8.858249220107275
+        }
+      },
+      "formatted_address": "7F3CPVV5+4VQ Kanyar utai Dankaza Kano Utai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7428429,8.8597329",
+      "google_place_id": "ChIJabCKII0XrBER71zRk6Mzr8I"
+    }
   },
   {
     "id": "94895",
@@ -61,7 +112,8 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94896",
@@ -77,7 +129,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7919126,
+      "longitude": 8.8380081,
+      "viewport": {
+        "northeast": {
+          "lat": 11.79330452989272,
+          "lng": 8.839376079892721
+        },
+        "southwest": {
+          "lat": 11.79060487010728,
+          "lng": 8.836676420107278
+        }
+      },
+      "formatted_address": "QRRQ+Q66, 713101, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7919126,8.8380081",
+      "google_place_id": "ChIJi4Y0MX8YrBERWtFqn4LI8xs"
+    }
   },
   {
     "id": "94897",
@@ -93,7 +162,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7052537,
+      "longitude": 8.8103935,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70662467989272,
+          "lng": 8.81177977989272
+        },
+        "southwest": {
+          "lat": 11.70392502010728,
+          "lng": 8.809080120107277
+        }
+      },
+      "formatted_address": "7F3CPR46+454 Kantudu dankaza Dankaza Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7052537,8.8103935",
+      "google_place_id": "ChIJr_jtP709rBERjza_mhejrH4"
+    }
   },
   {
     "id": "94898",
@@ -109,7 +195,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7227641,
+      "longitude": 8.831946499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72400282989272,
+          "lng": 8.833191379892721
+        },
+        "southwest": {
+          "lat": 11.72130317010728,
+          "lng": 8.830491720107277
+        }
+      },
+      "formatted_address": "7F3CPRFJ+3PC Kekuwa Dankaza Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7227641,8.831946499999999",
+      "google_place_id": "ChIJPdIM7WM9rBERHxQ2Yj6gM8c"
+    }
   },
   {
     "id": "94899",
@@ -125,7 +228,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7227641,
+      "longitude": 8.831946499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.72400282989272,
+          "lng": 8.833191379892721
+        },
+        "southwest": {
+          "lat": 11.72130317010728,
+          "lng": 8.830491720107277
+        }
+      },
+      "formatted_address": "7F3CPRFJ+3PC Kekuwa Dankaza Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7227641,8.831946499999999",
+      "google_place_id": "ChIJPdIM7WM9rBERHxQ2Yj6gM8c"
+    }
   },
   {
     "id": "94900",
@@ -141,7 +261,8 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94901",
@@ -157,7 +278,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7797491,
+      "longitude": 8.8599971,
+      "viewport": {
+        "northeast": {
+          "lat": 11.78092772989272,
+          "lng": 8.861134779892723
+        },
+        "southwest": {
+          "lat": 11.77822807010728,
+          "lng": 8.858435120107279
+        }
+      },
+      "formatted_address": "7F3CQVH6+V2F Wuro-geza, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7797491,8.8599971",
+      "google_place_id": "ChIJyZ2jIUIYrBERwOlJJoaVSeA"
+    }
   },
   {
     "id": "94902",
@@ -173,7 +311,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7679836,
+      "longitude": 8.868406499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.76918497989272,
+          "lng": 8.86958142989272
+        },
+        "southwest": {
+          "lat": 11.76648532010728,
+          "lng": 8.866881770107277
+        }
+      },
+      "formatted_address": "7F3CQV99+5CV, Hurumi, 713101, Utai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7679836,8.868406499999999",
+      "google_place_id": "ChIJNeCpWiUZrBERmeX8_mc5TWw"
+    }
   },
   {
     "id": "94903",
@@ -189,7 +344,8 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94904",
@@ -205,7 +361,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7428429,
+      "longitude": 8.8597329,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74427172989272,
+          "lng": 8.86094887989272
+        },
+        "southwest": {
+          "lat": 11.74157207010728,
+          "lng": 8.858249220107275
+        }
+      },
+      "formatted_address": "7F3CPVV5+4VQ Kanyar utai Dankaza Kano Utai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7428429,8.8597329",
+      "google_place_id": "ChIJabCKII0XrBER71zRk6Mzr8I"
+    }
   },
   {
     "id": "94905",
@@ -221,7 +394,24 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7428429,
+      "longitude": 8.8597329,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74427172989272,
+          "lng": 8.86094887989272
+        },
+        "southwest": {
+          "lat": 11.74157207010728,
+          "lng": 8.858249220107275
+        }
+      },
+      "formatted_address": "7F3CPVV5+4VQ Kanyar utai Dankaza Kano Utai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7428429,8.8597329",
+      "google_place_id": "ChIJabCKII0XrBER71zRk6Mzr8I"
+    }
   },
   {
     "id": "94906",
@@ -237,7 +427,8 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94907",
@@ -253,6 +444,23 @@
     "local_government_id": "413",
     "local_government_name": "WUDIL",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7052537,
+      "longitude": 8.8103935,
+      "viewport": {
+        "northeast": {
+          "lat": 11.70662467989272,
+          "lng": 8.81177977989272
+        },
+        "southwest": {
+          "lat": 11.70392502010728,
+          "lng": 8.809080120107277
+        }
+      },
+      "formatted_address": "7F3CPR46+454 Kantudu dankaza Dankaza Kano Lamire, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7052537,8.8103935",
+      "google_place_id": "ChIJr_jtP709rBERjza_mhejrH4"
+    }
   }
 ]

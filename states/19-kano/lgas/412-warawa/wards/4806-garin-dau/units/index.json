@@ -13,7 +13,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.5943941,
+      "longitude": 8.4767013,
+      "viewport": {
+        "northeast": {
+          "lat": 11.596035,
+          "lng": 8.478546099999999
+        },
+        "southwest": {
+          "lat": 11.592702,
+          "lng": 8.472643
+        }
+      },
+      "formatted_address": "710103, Barnawa Cikin Gari B, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5943941,8.4767013",
+      "google_place_id": "ChIJR0UWLrDKrRERPUFfq4LIkMc"
+    }
   },
   {
     "id": "94731",
@@ -29,7 +46,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8022947,
+      "longitude": 8.8308731,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80356192989272,
+          "lng": 8.832343229892723
+        },
+        "southwest": {
+          "lat": 11.80086227010728,
+          "lng": 8.82964357010728
+        }
+      },
+      "formatted_address": "RR2J+W89, 713105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8022947,8.8308731",
+      "google_place_id": "ChIJhe1xqH4irBERPonM8w1bafQ"
+    }
   },
   {
     "id": "94732",
@@ -45,7 +79,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8022947,
+      "longitude": 8.8308731,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80356192989272,
+          "lng": 8.832343229892723
+        },
+        "southwest": {
+          "lat": 11.80086227010728,
+          "lng": 8.82964357010728
+        }
+      },
+      "formatted_address": "RR2J+W89, 713105, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8022947,8.8308731",
+      "google_place_id": "ChIJhe1xqH4irBERPonM8w1bafQ"
+    }
   },
   {
     "id": "94733",
@@ -61,7 +112,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0373092,
+      "longitude": 8.4709864,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03856257989272,
+          "lng": 8.472273629892722
+        },
+        "southwest": {
+          "lat": 12.03586292010728,
+          "lng": 8.469573970107279
+        }
+      },
+      "formatted_address": "Kurna Tudun Fulani Road, Kofar Lunkdi 700281, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0373092,8.4709864",
+      "google_place_id": "ChIJYTl8_E59rhERMvn_ASLxYcc"
+    }
   },
   {
     "id": "94734",
@@ -77,7 +145,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8009986,
+      "longitude": 8.826706699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80237852989272,
+          "lng": 8.828036729892721
+        },
+        "southwest": {
+          "lat": 11.79967887010728,
+          "lng": 8.825337070107278
+        }
+      },
+      "formatted_address": "7F3CRR2G+9PC Gidan Tuku, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8009986,8.826706699999999",
+      "google_place_id": "ChIJP6yjxJkjrBERx8TrQvflzyg"
+    }
   },
   {
     "id": "94735",
@@ -93,7 +178,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8022795,
+      "longitude": 8.8287956,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80376817989272,
+          "lng": 8.83011367989272
+        },
+        "southwest": {
+          "lat": 11.80106852010728,
+          "lng": 8.827414020107277
+        }
+      },
+      "formatted_address": "RR2H+WG3, 713105, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8022795,8.8287956",
+      "google_place_id": "ChIJjxZ3ZXwirBERRkd1i-g9r8k"
+    }
   },
   {
     "id": "94736",
@@ -109,7 +211,8 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "94737",
@@ -125,7 +228,24 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.8022795,
+      "longitude": 8.8287956,
+      "viewport": {
+        "northeast": {
+          "lat": 11.80376817989272,
+          "lng": 8.83011367989272
+        },
+        "southwest": {
+          "lat": 11.80106852010728,
+          "lng": 8.827414020107277
+        }
+      },
+      "formatted_address": "RR2H+WG3, 713105, Wudil, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8022795,8.8287956",
+      "google_place_id": "ChIJjxZ3ZXwirBERRkd1i-g9r8k"
+    }
   },
   {
     "id": "94738",
@@ -141,6 +261,23 @@
     "local_government_id": "412",
     "local_government_name": "WARAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.7368064,
+      "longitude": 8.7726159,
+      "viewport": {
+        "northeast": {
+          "lat": 11.73815507989272,
+          "lng": 8.77396167989272
+        },
+        "southwest": {
+          "lat": 11.73545542010728,
+          "lng": 8.771262020107276
+        }
+      },
+      "formatted_address": "7F3CPQPF+P2H Zango Indabo Kano Dususu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7368064,8.7726159",
+      "google_place_id": "ChIJEwQ8LMc8rBERr7WYYOwJomA"
+    }
   }
 ]

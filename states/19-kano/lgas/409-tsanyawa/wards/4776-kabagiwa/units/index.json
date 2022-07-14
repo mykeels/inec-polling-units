@@ -13,7 +13,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 45.0004597,
+      "longitude": -122.9868597,
+      "viewport": {
+        "northeast": {
+          "lat": 45.00216802989273,
+          "lng": -122.98448175
+        },
+        "southwest": {
+          "lat": 44.99946837010728,
+          "lng": -122.98765235
+        }
+      },
+      "formatted_address": "3700 Chemawa Rd NE, Salem, OR 97305, United States",
+      "google_map_url": "https://maps.google.com?q=45.0004597,-122.9868597",
+      "google_place_id": "ChIJr1RIWPb9v1QRUNbyGq9Eu3U"
+    }
   },
   {
     "id": "93953",
@@ -29,7 +46,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9247763,
+      "longitude": 8.5446513,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92609757989272,
+          "lng": 8.54601612989272
+        },
+        "southwest": {
+          "lat": 11.92339792010728,
+          "lng": 8.543316470107277
+        }
+      },
+      "formatted_address": "Naibawa kadar karfe sitreet no:6 NAIBAWA YAN KATAKO 263, 722707, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9247763,8.5446513",
+      "google_place_id": "ChIJLzsy5csrrBER6bkQinm4vtM"
+    }
   },
   {
     "id": "93954",
@@ -45,7 +79,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9247763,
+      "longitude": 8.5446513,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92609757989272,
+          "lng": 8.54601612989272
+        },
+        "southwest": {
+          "lat": 11.92339792010728,
+          "lng": 8.543316470107277
+        }
+      },
+      "formatted_address": "Naibawa kadar karfe sitreet no:6 NAIBAWA YAN KATAKO 263, 722707, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9247763,8.5446513",
+      "google_place_id": "ChIJLzsy5csrrBER6bkQinm4vtM"
+    }
   },
   {
     "id": "93955",
@@ -61,7 +112,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3281426,
+      "longitude": 8.005913399999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.32950272989272,
+          "lng": 8.007285179892722
+        },
+        "southwest": {
+          "lat": 12.32680307010728,
+          "lng": 8.004585520107279
+        }
+      },
+      "formatted_address": "Kaba Giwa Cikin Gari Primary School, 703102, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3281426,8.005913399999999",
+      "google_place_id": "ChIJjyrXs4M9rhERM8ZSOLqZz5Y"
+    }
   },
   {
     "id": "93956",
@@ -77,7 +145,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9759545,
+      "longitude": 8.5592568,
+      "viewport": {
+        "northeast": {
+          "lat": 11.97729287989272,
+          "lng": 8.560571979892721
+        },
+        "southwest": {
+          "lat": 11.97459322010728,
+          "lng": 8.557872320107277
+        }
+      },
+      "formatted_address": "Tarauni Market Road, Tarauni 700102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9759545,8.5592568",
+      "google_place_id": "ChIJjUkb6KKBrhERYifSy270BVM"
+    }
   },
   {
     "id": "93957",
@@ -93,7 +178,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93958",
@@ -109,7 +195,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93959",
@@ -125,7 +212,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93960",
@@ -141,7 +229,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93961",
@@ -157,7 +246,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93962",
@@ -173,7 +263,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3936946,
+      "longitude": 8.1538379,
+      "viewport": {
+        "northeast": {
+          "lat": 12.39522782989272,
+          "lng": 8.155182129892722
+        },
+        "southwest": {
+          "lat": 12.39252817010728,
+          "lng": 8.152482470107278
+        }
+      },
+      "formatted_address": "UNGUWAR JAUDU GIDAN MAIGARI, KANO STATE, Bichi Close, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3936946,8.1538379",
+      "google_place_id": "ChIJue_UxvVBrhERVSNKekHPg5Y"
+    }
   },
   {
     "id": "93963",
@@ -189,7 +296,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2834932,
+      "longitude": 8.0602315,
+      "viewport": {
+        "northeast": {
+          "lat": 12.28486247989272,
+          "lng": 8.06157882989272
+        },
+        "southwest": {
+          "lat": 12.28216282010728,
+          "lng": 8.058879170107277
+        }
+      },
+      "formatted_address": "7F4C73M6+94R UNGUWAR MAKAMA, 703102, Yan Mamman, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2834932,8.0602315",
+      "google_place_id": "ChIJDdeG4oUVrhERq-E_YOFLkL4"
+    }
   },
   {
     "id": "93964",
@@ -205,7 +329,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2910602,
+      "longitude": 8.076273,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29235112989272,
+          "lng": 8.077583129892721
+        },
+        "southwest": {
+          "lat": 12.28965147010728,
+          "lng": 8.074883470107277
+        }
+      },
+      "formatted_address": "Unguwar Zango Primary School, 703102, Yan Mamman, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2910602,8.076273",
+      "google_place_id": "ChIJwTmbY7wVrhERoVMXp4O3uFA"
+    }
   },
   {
     "id": "93965",
@@ -221,7 +362,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9247763,
+      "longitude": 8.5446513,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92609757989272,
+          "lng": 8.54601612989272
+        },
+        "southwest": {
+          "lat": 11.92339792010728,
+          "lng": 8.543316470107277
+        }
+      },
+      "formatted_address": "Naibawa kadar karfe sitreet no:6 NAIBAWA YAN KATAKO 263, 722707, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9247763,8.5446513",
+      "google_place_id": "ChIJLzsy5csrrBER6bkQinm4vtM"
+    }
   },
   {
     "id": "93966",
@@ -237,7 +395,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.3121174,
+      "longitude": 8.0249563,
+      "viewport": {
+        "northeast": {
+          "lat": 12.31345422989272,
+          "lng": 8.02626827989272
+        },
+        "southwest": {
+          "lat": 12.31075457010728,
+          "lng": 8.023568620107277
+        }
+      },
+      "formatted_address": "7F4C826F+VXC, Kwaski, 703102, Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3121174,8.0249563",
+      "google_place_id": "ChIJx2x9_FIXrhERsQjA45p0X4g"
+    }
   },
   {
     "id": "93967",
@@ -253,7 +428,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93968",
@@ -269,7 +445,24 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.5799159,
+      "longitude": 8.3708045,
+      "viewport": {
+        "northeast": {
+          "lat": 12.5813131,
+          "lng": 8.372786999999999
+        },
+        "southwest": {
+          "lat": 12.5784811,
+          "lng": 8.368546
+        }
+      },
+      "formatted_address": "705104, Dutsin Kodawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5799159,8.3708045",
+      "google_place_id": "ChIJl357oWFRrhERO_i-YObBDiY"
+    }
   },
   {
     "id": "93969",
@@ -285,7 +478,8 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93970",
@@ -301,6 +495,23 @@
     "local_government_id": "409",
     "local_government_name": "TSANYAWA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.2752027,
+      "longitude": 8.0028892,
+      "viewport": {
+        "northeast": {
+          "lat": 12.3828489,
+          "lng": 8.1355469
+        },
+        "southwest": {
+          "lat": 12.1518693,
+          "lng": 7.848551800000001
+        }
+      },
+      "formatted_address": "Tsanyawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2752027,8.0028892",
+      "google_place_id": "ChIJzadMhwUXrhERX3kSmV-KHKw"
+    }
   }
 ]

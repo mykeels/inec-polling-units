@@ -13,7 +13,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.083609,
+      "longitude": 8.346750199999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08498852989272,
+          "lng": 8.348156279892722
+        },
+        "southwest": {
+          "lat": 12.08228887010728,
+          "lng": 8.345456620107278
+        }
+      },
+      "formatted_address": "Karal Boko Primary School, 701103, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.083609,8.346750199999999",
+      "google_place_id": "ChIJyeSOqfh6rhERfQgP7zc7tjs"
+    }
   },
   {
     "id": "93872",
@@ -29,7 +46,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93873",
@@ -45,7 +63,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93874",
@@ -61,6 +80,7 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   }
 ]

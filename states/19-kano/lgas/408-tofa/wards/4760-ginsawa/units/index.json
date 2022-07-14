@@ -13,7 +13,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93772",
@@ -29,7 +30,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93773",
@@ -45,7 +47,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0952,
+      "longitude": 8.3337,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09655052989272,
+          "lng": 8.335083029892722
+        },
+        "southwest": {
+          "lat": 12.09385087010728,
+          "lng": 8.332383370107278
+        }
+      },
+      "formatted_address": "38WM+3FP, 701101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0952,8.3337",
+      "google_place_id": "ChIJlVNlf_J6rhER2l1AYYUoHa4"
+    }
   },
   {
     "id": "93774",
@@ -61,7 +80,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9467229,
+      "longitude": 8.5108941,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94807272989272,
+          "lng": 8.512248729892724
+        },
+        "southwest": {
+          "lat": 11.94537307010728,
+          "lng": 8.50954907010728
+        }
+      },
+      "formatted_address": "WGW6+M9J, Zoo Rd, 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9467229,8.5108941",
+      "google_place_id": "ChIJ8xSMzjeBrhERxikar1R7BGI"
+    }
   },
   {
     "id": "93775",
@@ -77,6 +113,23 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9467229,
+      "longitude": 8.5108941,
+      "viewport": {
+        "northeast": {
+          "lat": 11.94807272989272,
+          "lng": 8.512248729892724
+        },
+        "southwest": {
+          "lat": 11.94537307010728,
+          "lng": 8.50954907010728
+        }
+      },
+      "formatted_address": "WGW6+M9J, Zoo Rd, 700231, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9467229,8.5108941",
+      "google_place_id": "ChIJ8xSMzjeBrhERxikar1R7BGI"
+    }
   }
 ]

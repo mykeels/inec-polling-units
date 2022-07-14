@@ -13,7 +13,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9859222,
+      "longitude": 7.8918489,
+      "viewport": {
+        "northeast": {
+          "lat": 11.98727367989272,
+          "lng": 7.893203879892723
+        },
+        "southwest": {
+          "lat": 11.98457402010728,
+          "lng": 7.890504220107279
+        }
+      },
+      "formatted_address": "7F39XVPR+9Q6, Badumawa 704101, Lakwaya, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9859222,7.8918489",
+      "google_place_id": "ChIJxbgt5woHrhERzD2H5a3hEuA"
+    }
   },
   {
     "id": "92839",
@@ -29,7 +46,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9241681,
+      "longitude": 7.939722600000001,
+      "viewport": {
+        "northeast": {
+          "lat": 11.92551942989272,
+          "lng": 7.941062079892721
+        },
+        "southwest": {
+          "lat": 11.92281977010728,
+          "lng": 7.938362420107277
+        }
+      },
+      "formatted_address": "WWFQ+MV9, 704101, Gwarzo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9241681,7.939722600000001",
+      "google_place_id": "ChIJicCqup_9rRER5a2rlm9H89Y"
+    }
   },
   {
     "id": "92840",
@@ -45,7 +79,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0961333,
+      "longitude": 7.9157099,
+      "viewport": {
+        "northeast": {
+          "lat": 12.302456,
+          "lng": 8.1588996
+        },
+        "southwest": {
+          "lat": 11.9373183,
+          "lng": 7.821581200000001
+        }
+      },
+      "formatted_address": "Shanono, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0961333,7.9157099",
+      "google_place_id": "ChIJ76CoTsYPrhERGXInPNtdBGU"
+    }
   },
   {
     "id": "92841",
@@ -61,7 +112,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0961333,
+      "longitude": 7.9157099,
+      "viewport": {
+        "northeast": {
+          "lat": 12.302456,
+          "lng": 8.1588996
+        },
+        "southwest": {
+          "lat": 11.9373183,
+          "lng": 7.821581200000001
+        }
+      },
+      "formatted_address": "Shanono, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0961333,7.9157099",
+      "google_place_id": "ChIJ76CoTsYPrhERGXInPNtdBGU"
+    }
   },
   {
     "id": "92842",
@@ -77,7 +145,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0550551,
+      "longitude": 7.990121799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05644252989272,
+          "lng": 7.99152827989272
+        },
+        "southwest": {
+          "lat": 12.05374287010728,
+          "lng": 7.988828620107276
+        }
+      },
+      "formatted_address": "No 17 Kofar Gabas Sako Shanono, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0550551,7.990121799999999",
+      "google_place_id": "ChIJv6ydJO4PrhERnAZDBCbi9Rg"
+    }
   },
   {
     "id": "92843",
@@ -93,7 +178,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0550551,
+      "longitude": 7.990121799999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05644252989272,
+          "lng": 7.99152827989272
+        },
+        "southwest": {
+          "lat": 12.05374287010728,
+          "lng": 7.988828620107276
+        }
+      },
+      "formatted_address": "No 17 Kofar Gabas Sako Shanono, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0550551,7.990121799999999",
+      "google_place_id": "ChIJv6ydJO4PrhERnAZDBCbi9Rg"
+    }
   },
   {
     "id": "92844",
@@ -109,7 +211,8 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92845",
@@ -125,7 +228,8 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "92846",
@@ -141,7 +245,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0922352,
+      "longitude": 7.8782826,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0991967,
+          "lng": 7.883902900000001
+        },
+        "southwest": {
+          "lat": 12.0907936,
+          "lng": 7.872294200000001
+        }
+      },
+      "formatted_address": "704102, Tsaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0922352,7.8782826",
+      "google_place_id": "ChIJi9XFgIgErhEReJe4Z85K7FQ"
+    }
   },
   {
     "id": "92847",
@@ -157,7 +278,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0922352,
+      "longitude": 7.8782826,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0991967,
+          "lng": 7.883902900000001
+        },
+        "southwest": {
+          "lat": 12.0907936,
+          "lng": 7.872294200000001
+        }
+      },
+      "formatted_address": "704102, Tsaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0922352,7.8782826",
+      "google_place_id": "ChIJi9XFgIgErhEReJe4Z85K7FQ"
+    }
   },
   {
     "id": "92848",
@@ -173,7 +311,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0922352,
+      "longitude": 7.8782826,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0991967,
+          "lng": 7.883902900000001
+        },
+        "southwest": {
+          "lat": 12.0907936,
+          "lng": 7.872294200000001
+        }
+      },
+      "formatted_address": "704102, Tsaure, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0922352,7.8782826",
+      "google_place_id": "ChIJi9XFgIgErhEReJe4Z85K7FQ"
+    }
   },
   {
     "id": "92849",
@@ -189,7 +344,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0925607,
+      "longitude": 7.879303099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.099521,
+          "lng": 7.883662
+        },
+        "southwest": {
+          "lat": 12.0899061,
+          "lng": 7.872319099999999
+        }
+      },
+      "formatted_address": "704102, Yammawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0925607,7.879303099999999",
+      "google_place_id": "ChIJEeDi030ErhERLD4-4lvAtE0"
+    }
   },
   {
     "id": "92850",
@@ -205,7 +377,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0452675,
+      "longitude": 8.4867496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04660167989272,
+          "lng": 8.488075429892723
+        },
+        "southwest": {
+          "lat": 12.04390202010728,
+          "lng": 8.485375770107279
+        }
+      },
+      "formatted_address": "Kurna Bajuwa Road, 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0452675,8.4867496",
+      "google_place_id": "ChIJgaVmCeSHrhERZn4J1g3oPFQ"
+    }
   },
   {
     "id": "92851",
@@ -221,7 +410,24 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0452675,
+      "longitude": 8.4867496,
+      "viewport": {
+        "northeast": {
+          "lat": 12.04660167989272,
+          "lng": 8.488075429892723
+        },
+        "southwest": {
+          "lat": 12.04390202010728,
+          "lng": 8.485375770107279
+        }
+      },
+      "formatted_address": "Kurna Bajuwa Road, 700211, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0452675,8.4867496",
+      "google_place_id": "ChIJgaVmCeSHrhERZn4J1g3oPFQ"
+    }
   },
   {
     "id": "92852",
@@ -237,6 +443,7 @@
     "local_government_id": "404",
     "local_government_name": "SHANONO",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   }
 ]

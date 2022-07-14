@@ -13,7 +13,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 11.9656433,
+      "longitude": 8.582101699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.96698567989272,
+          "lng": 8.583473079892723
+        },
+        "southwest": {
+          "lat": 11.96428602010728,
+          "lng": 8.58077342010728
+        }
+      },
+      "formatted_address": "XH8J+7R5, Maiduguri Road, Nayibawa 700102, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.9656433,8.582101699999999",
+      "google_place_id": "ChIJVWhUZ96DrhERr8e3heXQ9tM"
+    }
   },
   {
     "id": "93889",
@@ -29,7 +46,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0586297,
+      "longitude": 8.276998299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.05992717989272,
+          "lng": 8.278132129892722
+        },
+        "southwest": {
+          "lat": 12.05722752010728,
+          "lng": 8.275432470107278
+        }
+      },
+      "formatted_address": "7F4C375G+CQX Kofar Gabas Anas, Tofa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0586297,8.276998299999999",
+      "google_place_id": "ChIJV8qiKPBxrhER6MwDjKgG4ng"
+    }
   },
   {
     "id": "93890",
@@ -45,7 +79,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0952,
+      "longitude": 8.3337,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09655052989272,
+          "lng": 8.335083029892722
+        },
+        "southwest": {
+          "lat": 12.09385087010728,
+          "lng": 8.332383370107278
+        }
+      },
+      "formatted_address": "38WM+3FP, 701101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0952,8.3337",
+      "google_place_id": "ChIJlVNlf_J6rhER2l1AYYUoHa4"
+    }
   },
   {
     "id": "93891",
@@ -61,7 +112,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93892",
@@ -77,7 +129,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0287656,
+      "longitude": 8.3449078,
+      "viewport": {
+        "northeast": {
+          "lat": 12.03010237989272,
+          "lng": 8.346327479892722
+        },
+        "southwest": {
+          "lat": 12.02740272010728,
+          "lng": 8.343627820107278
+        }
+      },
+      "formatted_address": "7F4C28HV+GX5 Santar Dan Kaka Yarimawa Kano Lambu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0287656,8.3449078",
+      "google_place_id": "ChIJa_WPYnZ5rhERFfLq240DNO0"
+    }
   },
   {
     "id": "93893",
@@ -93,7 +162,8 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": null
   },
   {
     "id": "93894",
@@ -109,7 +179,24 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0183549,
+      "longitude": 8.5821851,
+      "viewport": {
+        "northeast": {
+          "lat": 12.01967132989272,
+          "lng": 8.583572829892724
+        },
+        "southwest": {
+          "lat": 12.01697167010728,
+          "lng": 8.58087317010728
+        }
+      },
+      "formatted_address": "2H9J+8VV, kwanar dakata, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0183549,8.5821851",
+      "google_place_id": "ChIJz85kQuWDrhERqgJy2qZnyvY"
+    }
   },
   {
     "id": "93895",
@@ -125,6 +212,23 @@
     "local_government_id": "408",
     "local_government_name": "TOFA",
     "state_id": "19",
-    "state_name": "KANO"
+    "state_name": "KANO",
+    "location": {
+      "latitude": 12.0952,
+      "longitude": 8.3337,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09655052989272,
+          "lng": 8.335083029892722
+        },
+        "southwest": {
+          "lat": 12.09385087010728,
+          "lng": 8.332383370107278
+        }
+      },
+      "formatted_address": "38WM+3FP, 701101, Kano, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0952,8.3337",
+      "google_place_id": "ChIJlVNlf_J6rhER2l1AYYUoHa4"
+    }
   }
 ]
