@@ -13,7 +13,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6521464,
+      "longitude": 4.2948884,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7184074,
+          "lng": 4.3679222
+        },
+        "southwest": {
+          "lat": 11.5769979,
+          "lng": 4.2287777
+        }
+      },
+      "formatted_address": "Jadadi, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6521464,4.2948884",
+      "google_place_id": "ChIJLzIjx2u2yxEROHqztbrkOro"
+    }
   },
   {
     "id": "104040",
@@ -29,7 +46,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.6521464,
+      "longitude": 4.2948884,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7184074,
+          "lng": 4.3679222
+        },
+        "southwest": {
+          "lat": 11.5769979,
+          "lng": 4.2287777
+        }
+      },
+      "formatted_address": "Jadadi, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.6521464,4.2948884",
+      "google_place_id": "ChIJLzIjx2u2yxEROHqztbrkOro"
+    }
   },
   {
     "id": "104041",
@@ -45,7 +79,8 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104042",
@@ -61,6 +96,7 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

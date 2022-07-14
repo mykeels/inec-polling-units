@@ -13,7 +13,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4351855,
+      "longitude": 4.5103909,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43657097989272,
+          "lng": 4.511727279892722
+        },
+        "southwest": {
+          "lat": 11.43387132010728,
+          "lng": 4.509027620107278
+        }
+      },
+      "formatted_address": "Sokoto Yauri Road, Koko Koko/Besse Kebbi NG, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4351855,4.5103909",
+      "google_place_id": "ChIJux3UgBBRyhERmExBzWsHWok"
+    }
   },
   {
     "id": "104034",
@@ -29,7 +46,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5415943,
+      "longitude": 4.4749975,
+      "viewport": {
+        "northeast": {
+          "lat": 11.54297722989272,
+          "lng": 4.476341179892722
+        },
+        "southwest": {
+          "lat": 11.54027757010728,
+          "lng": 4.473641520107278
+        }
+      },
+      "formatted_address": "GFRF+JXQ, 871105, Tungan Ilo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5415943,4.4749975",
+      "google_place_id": "ChIJZVYs_itMyhER0Mfa39PIzQk"
+    }
   },
   {
     "id": "104035",
@@ -45,7 +79,8 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104036",
@@ -61,7 +96,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4301728,
+      "longitude": 4.512686899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.43127587989272,
+          "lng": 4.514050029892722
+        },
+        "southwest": {
+          "lat": 11.42857622010728,
+          "lng": 4.511350370107278
+        }
+      },
+      "formatted_address": "CGJ7+337, 871105, Koko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4301728,4.512686899999999",
+      "google_place_id": "ChIJezEcCD5RyhER-5x9gtXCmK4"
+    }
   },
   {
     "id": "104037",
@@ -77,7 +129,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5250129,
+      "longitude": 4.4490836,
+      "viewport": {
+        "northeast": {
+          "lat": 11.5765158,
+          "lng": 4.4967958
+        },
+        "southwest": {
+          "lat": 11.4952293,
+          "lng": 4.3939354
+        }
+      },
+      "formatted_address": "Dada Alelu, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5250129,4.4490836",
+      "google_place_id": "ChIJtaNUyKxNyhER2rIP51MXbOE"
+    }
   },
   {
     "id": "104038",
@@ -93,6 +162,23 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5525,
+      "longitude": 4.4958,
+      "viewport": {
+        "northeast": {
+          "lat": 11.55441122989272,
+          "lng": 4.4968324
+        },
+        "southwest": {
+          "lat": 11.55171157010728,
+          "lng": 4.492702799999999
+        }
+      },
+      "formatted_address": "HF2W+X8V, 871105, Sokoto, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5525,4.4958",
+      "google_place_id": "ChIJBVLa-JNOyhERLcp6n2BxWyY"
+    }
   }
 ]

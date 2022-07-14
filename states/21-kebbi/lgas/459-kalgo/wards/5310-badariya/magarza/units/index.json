@@ -13,7 +13,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4473813,
+      "longitude": 4.1919794,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44870037989272,
+          "lng": 4.193322179892722
+        },
+        "southwest": {
+          "lat": 12.44600072010728,
+          "lng": 4.190622520107278
+        }
+      },
+      "formatted_address": "C5WR+XQ5, Badariya Road, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4473813,4.1919794",
+      "google_place_id": "ChIJYx_2gxsTyRERAYOXtnLzCHc"
+    }
   },
   {
     "id": "103859",
@@ -29,7 +46,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103860",
@@ -45,7 +63,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4473813,
+      "longitude": 4.1919794,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44870037989272,
+          "lng": 4.193322179892722
+        },
+        "southwest": {
+          "lat": 12.44600072010728,
+          "lng": 4.190622520107278
+        }
+      },
+      "formatted_address": "C5WR+XQ5, Badariya Road, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4473813,4.1919794",
+      "google_place_id": "ChIJYx_2gxsTyRERAYOXtnLzCHc"
+    }
   },
   {
     "id": "103861",
@@ -61,7 +96,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103862",
@@ -77,7 +113,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103863",
@@ -93,7 +130,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103864",
@@ -109,6 +147,23 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
   }
 ]

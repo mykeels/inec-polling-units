@@ -13,7 +13,8 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104073",
@@ -29,7 +30,8 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104074",
@@ -45,7 +47,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.7212254,
+      "longitude": 4.9782781,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7238739,
+          "lng": 4.980490899999999
+        },
+        "southwest": {
+          "lat": 10.7190909,
+          "lng": 4.976318
+        }
+      },
+      "formatted_address": "870103, Tungar Kolo Hakimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.7212254,4.9782781",
+      "google_place_id": "ChIJZb6iZdOoyhERFDYU0tlAIsw"
+    }
   },
   {
     "id": "104075",
@@ -61,7 +80,24 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.3208134,
+      "longitude": 4.469676499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 11.4089143,
+          "lng": 4.5256892
+        },
+        "southwest": {
+          "lat": 11.2396462,
+          "lng": 4.4312638
+        }
+      },
+      "formatted_address": "Takware, 871105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.3208134,4.469676499999999",
+      "google_place_id": "ChIJ25w7Q-JVyhERcckig8KQjYc"
+    }
   },
   {
     "id": "104076",
@@ -77,7 +113,8 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104077",
@@ -93,7 +130,8 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104078",
@@ -109,6 +147,7 @@
     "local_government_id": "460",
     "local_government_name": "KOKO/BESSE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104472",
@@ -29,7 +30,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.1816057,
+      "longitude": 4.1208125,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18295177989272,
+          "lng": 4.122142929892723
+        },
+        "southwest": {
+          "lat": 11.18025212010728,
+          "lng": 4.119443270107279
+        }
+      },
+      "formatted_address": "54JC+J7X, Kaoje Bagudo local government, Kaoge, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1816057,4.1208125",
+      "google_place_id": "ChIJQ8r1f00MyxERoTZnZf0W9CI"
+    }
   },
   {
     "id": "104473",
@@ -45,7 +63,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4530713,
+      "longitude": 4.1902307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45471137989272,
+          "lng": 4.191531279892722
+        },
+        "southwest": {
+          "lat": 12.45201172010728,
+          "lng": 4.188831620107278
+        }
+      },
+      "formatted_address": "F53R+63H, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4530713,4.1902307",
+      "google_place_id": "ChIJSzyc9ysTyRERxNr7mwE7hVQ"
+    }
   },
   {
     "id": "104474",
@@ -61,7 +96,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4530713,
+      "longitude": 4.1902307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45471137989272,
+          "lng": 4.191531279892722
+        },
+        "southwest": {
+          "lat": 12.45201172010728,
+          "lng": 4.188831620107278
+        }
+      },
+      "formatted_address": "F53R+63H, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4530713,4.1902307",
+      "google_place_id": "ChIJSzyc9ysTyRERxNr7mwE7hVQ"
+    }
   },
   {
     "id": "104475",
@@ -77,7 +129,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104476",
@@ -93,7 +146,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104477",
@@ -109,7 +163,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 50.4818934,
+      "longitude": -4.194624699999999,
+      "viewport": {
+        "northeast": {
+          "lat": 50.48309242989271,
+          "lng": -4.193392520107277
+        },
+        "southwest": {
+          "lat": 50.48039277010727,
+          "lng": -4.196092179892721
+        }
+      },
+      "formatted_address": "Station Rd, Bere Alston, Yelverton PL20 7AU, United Kingdom",
+      "google_map_url": "https://maps.google.com?q=50.4818934,-4.194624699999999",
+      "google_place_id": "ChIJkYsEpf2MbEgRqQqOG7NIlBo"
+    }
   },
   {
     "id": "104478",
@@ -125,6 +196,23 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.433839,
+      "longitude": 4.188951,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43571687989272,
+          "lng": 4.190160429892721
+        },
+        "southwest": {
+          "lat": 12.43301722010728,
+          "lng": 4.187460770107277
+        }
+      },
+      "formatted_address": "860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.433839,4.188951",
+      "google_place_id": "ChIJBd52NxwTyRERt6livGgCyRc"
+    }
   }
 ]

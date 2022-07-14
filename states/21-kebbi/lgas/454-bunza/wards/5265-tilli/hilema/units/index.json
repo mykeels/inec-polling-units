@@ -13,7 +13,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103128",
@@ -29,7 +30,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103129",
@@ -45,7 +47,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103130",
@@ -61,7 +64,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103131",
@@ -77,7 +81,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0913128,
+      "longitude": 3.9976957,
+      "viewport": {
+        "northeast": {
+          "lat": 12.09267677989272,
+          "lng": 3.999019429892722
+        },
+        "southwest": {
+          "lat": 12.08997712010728,
+          "lng": 3.996319770107279
+        }
+      },
+      "formatted_address": "3XRX+G3G, Gada area, behind sarkin bunza house, Bunza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0913128,3.9976957",
+      "google_place_id": "ChIJzWiGqCpfyRERB92NINzkan8"
+    }
   },
   {
     "id": "103132",
@@ -93,7 +114,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103133",
@@ -109,7 +131,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103134",
@@ -125,7 +148,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103135",
@@ -141,7 +165,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103136",
@@ -157,7 +182,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103137",
@@ -173,7 +199,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103138",
@@ -189,7 +216,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103139",
@@ -205,7 +233,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103140",
@@ -221,7 +250,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103141",
@@ -237,7 +267,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103142",
@@ -253,7 +284,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103143",
@@ -269,6 +301,7 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

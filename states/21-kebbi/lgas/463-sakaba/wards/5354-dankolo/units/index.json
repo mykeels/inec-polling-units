@@ -13,7 +13,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104462",
@@ -29,7 +30,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104463",
@@ -45,7 +47,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104464",
@@ -61,7 +64,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 13.0428008,
+      "longitude": 8.321089599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 13.04386322989272,
+          "lng": 8.32254727989272
+        },
+        "southwest": {
+          "lat": 13.04116357010728,
+          "lng": 8.319847620107275
+        }
+      },
+      "formatted_address": "28VC+4C8, 824101, Daura, Nigeria",
+      "google_map_url": "https://maps.google.com?q=13.0428008,8.321089599999999",
+      "google_place_id": "ChIJi_bxUHuZrxERIYHwCzVzdPg"
+    }
   },
   {
     "id": "104465",
@@ -77,7 +97,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4458568,
+      "longitude": 4.2261237,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44716447989272,
+          "lng": 4.227326829892722
+        },
+        "southwest": {
+          "lat": 12.44446482010728,
+          "lng": 4.224627170107278
+        }
+      },
+      "formatted_address": "C6WG+8CX, Sani Abacha Bye Pass, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4458568,4.2261237",
+      "google_place_id": "ChIJBR69IiwTyRERLPf8i4jVLFw"
+    }
   },
   {
     "id": "104466",
@@ -93,7 +130,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.294632,
+      "longitude": 4.462288,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29577007989272,
+          "lng": 4.463659929892723
+        },
+        "southwest": {
+          "lat": 12.29307042010728,
+          "lng": 4.460960270107279
+        }
+      },
+      "formatted_address": "7FV6+WW2, opp. artel shop, 863104, Aliero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.294632,4.462288",
+      "google_place_id": "ChIJ2yPD9hacyRERLIx4T7NZX2Y"
+    }
   },
   {
     "id": "104467",
@@ -109,7 +163,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 39.4093366,
+      "longitude": -104.7619329,
+      "viewport": {
+        "northeast": {
+          "lat": 39.41058652989273,
+          "lng": -104.7605995701073
+        },
+        "southwest": {
+          "lat": 39.40788687010728,
+          "lng": -104.7632992298927
+        }
+      },
+      "formatted_address": "3217 CO-83, Franktown, CO 80116, United States",
+      "google_map_url": "https://maps.google.com?q=39.4093366,-104.7619329",
+      "google_place_id": "ChIJHTaenlSWbIcRytLUzI1iuDY"
+    }
   },
   {
     "id": "104468",
@@ -125,7 +196,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4530713,
+      "longitude": 4.1902307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45471137989272,
+          "lng": 4.191531279892722
+        },
+        "southwest": {
+          "lat": 12.45201172010728,
+          "lng": 4.188831620107278
+        }
+      },
+      "formatted_address": "F53R+63H, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4530713,4.1902307",
+      "google_place_id": "ChIJSzyc9ysTyRERxNr7mwE7hVQ"
+    }
   },
   {
     "id": "104469",
@@ -141,7 +229,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4317585,
+      "longitude": 4.1956212,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43309222989272,
+          "lng": 4.196851329892723
+        },
+        "southwest": {
+          "lat": 12.43039257010728,
+          "lng": 4.194151670107279
+        }
+      },
+      "formatted_address": "C5JW+P65, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4317585,4.1956212",
+      "google_place_id": "ChIJvQHAHOESyRER9s28qEx1w1U"
+    }
   },
   {
     "id": "104470",
@@ -157,6 +262,7 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

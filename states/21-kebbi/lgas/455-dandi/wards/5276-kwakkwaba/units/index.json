@@ -13,7 +13,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.7387401,
+      "longitude": 3.7239937,
+      "viewport": {
+        "northeast": {
+          "lat": 11.74015642989272,
+          "lng": 3.725259079892722
+        },
+        "southwest": {
+          "lat": 11.73745677010728,
+          "lng": 3.722559420107278
+        }
+      },
+      "formatted_address": "Kwakwaba Primary School, 862105, Sarafu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7387401,3.7239937",
+      "google_place_id": "ChIJ-zXH72cKzBER5560_zOhW3U"
+    }
   },
   {
     "id": "103337",
@@ -29,7 +46,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103338",
@@ -45,7 +63,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103339",
@@ -61,7 +80,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.7167683,
+      "longitude": 3.7333537,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7871241,
+          "lng": 3.8131097
+        },
+        "southwest": {
+          "lat": 11.6761425,
+          "lng": 3.6877179
+        }
+      },
+      "formatted_address": "Kwakkwaba, 862105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7167683,3.7333537",
+      "google_place_id": "ChIJCyzeuoP1yxERcBuj5ybEbE0"
+    }
   },
   {
     "id": "103340",
@@ -77,7 +113,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103341",
@@ -93,7 +130,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103342",
@@ -109,7 +147,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.7417296,
+      "longitude": 3.7263732,
+      "viewport": {
+        "northeast": {
+          "lat": 11.7437281,
+          "lng": 3.7303209
+        },
+        "southwest": {
+          "lat": 11.737078,
+          "lng": 3.723292
+        }
+      },
+      "formatted_address": "862105, Kwakwaba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7417296,3.7263732",
+      "google_place_id": "ChIJ7WISl2gKzBERk--j-6oYZzI"
+    }
   },
   {
     "id": "103343",
@@ -125,6 +180,23 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.853531,
+      "longitude": 3.650741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85496487989272,
+          "lng": 3.652266979892722
+        },
+        "southwest": {
+          "lat": 11.85226522010728,
+          "lng": 3.649567320107278
+        }
+      },
+      "formatted_address": "VM32+C79, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.853531,3.650741",
+      "google_place_id": "ChIJXX_AN0UPzBER0SMvIdw2zJI"
+    }
   }
 ]

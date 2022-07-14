@@ -13,7 +13,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.2944448,
+      "longitude": 4.672809,
+      "viewport": {
+        "northeast": {
+          "lat": 10.2973301,
+          "lng": 4.6767049
+        },
+        "southwest": {
+          "lat": 10.2893511,
+          "lng": 4.669162
+        }
+      },
+      "formatted_address": "870104, Chupamini Unguwar Makeri, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.2944448,4.672809",
+      "google_place_id": "ChIJb9na0Ok-NRARBK6sKNm0xsM"
+    }
   },
   {
     "id": "104365",
@@ -29,7 +46,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.229146,
+      "longitude": 4.622458099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.23043132989272,
+          "lng": 4.623801879892722
+        },
+        "southwest": {
+          "lat": 10.22773167010728,
+          "lng": 4.621102220107278
+        }
+      },
+      "formatted_address": "6JHC+MX4, 870104, New Libata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.229146,4.622458099999999",
+      "google_place_id": "ChIJEZ755cU9NRAR7mA3gp8FHj4"
+    }
   },
   {
     "id": "104366",
@@ -45,7 +79,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104367",
@@ -61,7 +96,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104368",
@@ -77,7 +113,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104369",
@@ -93,7 +130,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 40.5472829,
+      "longitude": -79.94275329999999,
+      "viewport": {
+        "northeast": {
+          "lat": 40.54851452989272,
+          "lng": -79.94160407010729
+        },
+        "southwest": {
+          "lat": 40.54581487010727,
+          "lng": -79.94430372989272
+        }
+      },
+      "formatted_address": "15000 Burchfield Rd, Allison Park, PA 15101, United States",
+      "google_map_url": "https://maps.google.com?q=40.5472829,-79.94275329999999",
+      "google_place_id": "ChIJW5z5IRONNIgRUOnx5-MzwiM"
+    }
   },
   {
     "id": "104370",
@@ -109,7 +163,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104371",
@@ -125,7 +180,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.8513055,
+      "longitude": 3.6647075,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85282722989272,
+          "lng": 3.665965629892722
+        },
+        "southwest": {
+          "lat": 11.85012757010728,
+          "lng": 3.663265970107278
+        }
+      },
+      "formatted_address": "VM27+GVG, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8513055,3.6647075",
+      "google_place_id": "ChIJx-fXnbUJzBERthMW3y1K7Rs"
+    }
   },
   {
     "id": "104372",
@@ -141,7 +213,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4348774,
+      "longitude": 4.208410499999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43633422989272,
+          "lng": 4.209894679892721
+        },
+        "southwest": {
+          "lat": 12.43363457010728,
+          "lng": 4.207195020107277
+        }
+      },
+      "formatted_address": "C6M5+X93 bayan kara, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4348774,4.208410499999999",
+      "google_place_id": "ChIJb3r3swcTyRERjU4mI1T8X-M"
+    }
   },
   {
     "id": "104373",
@@ -157,6 +246,23 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.2170373,
+      "longitude": -79.7525446,
+      "viewport": {
+        "northeast": {
+          "lat": 43.21825397989272,
+          "lng": -79.75121072010728
+        },
+        "southwest": {
+          "lat": 43.21555432010727,
+          "lng": -79.75391037989272
+        }
+      },
+      "formatted_address": "89 - B King St E, Stoney Creek, ON L8G 1K4, Canada",
+      "google_map_url": "https://maps.google.com?q=43.2170373,-79.7525446",
+      "google_place_id": "ChIJk8loFcaZLIgRjcsFsGPonJU"
+    }
   }
 ]

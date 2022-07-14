@@ -13,7 +13,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.294632,
+      "longitude": 4.462288,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29577007989272,
+          "lng": 4.463659929892723
+        },
+        "southwest": {
+          "lat": 12.29307042010728,
+          "lng": 4.460960270107279
+        }
+      },
+      "formatted_address": "7FV6+WW2, opp. artel shop, 863104, Aliero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.294632,4.462288",
+      "google_place_id": "ChIJ2yPD9hacyRERLIx4T7NZX2Y"
+    }
   },
   {
     "id": "101791",
@@ -29,7 +46,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4630389,
+      "longitude": 4.2013958,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46438577989272,
+          "lng": 4.202742729892721
+        },
+        "southwest": {
+          "lat": 12.46168612010728,
+          "lng": 4.200043070107277
+        }
+      },
+      "formatted_address": "F672+6HJ, Murtala Mohammed Road, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4630389,4.2013958",
+      "google_place_id": "ChIJXcxvLkITyRER-5G-9iSA4z4"
+    }
   },
   {
     "id": "101792",
@@ -45,7 +79,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101793",
@@ -61,7 +96,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4618025,
+      "longitude": 4.2024626,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46280102989272,
+          "lng": 4.203761079892721
+        },
+        "southwest": {
+          "lat": 12.46010137010728,
+          "lng": 4.201061420107277
+        }
+      },
+      "formatted_address": "F662+PXG, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4618025,4.2024626",
+      "google_place_id": "ChIJ-ZCFCVASyRERY0TgTcZXzR0"
+    }
   },
   {
     "id": "101794",
@@ -77,7 +129,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.1916249,
+      "longitude": 6.6332181,
+      "viewport": {
+        "northeast": {
+          "lat": 12.19288707989272,
+          "lng": 6.634586729892722
+        },
+        "southwest": {
+          "lat": 12.19018742010728,
+          "lng": 6.631887070107278
+        }
+      },
+      "formatted_address": "5JRM+M74, 632101, Gusau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1916249,6.6332181",
+      "google_place_id": "ChIJc9VF2bRFsRERwYe5fGICvWo"
+    }
   },
   {
     "id": "101795",
@@ -93,6 +162,7 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

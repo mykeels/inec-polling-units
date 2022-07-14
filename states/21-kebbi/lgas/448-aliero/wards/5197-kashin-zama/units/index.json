@@ -13,7 +13,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2890821,
+      "longitude": 4.4652096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29038972989272,
+          "lng": 4.466523129892722
+        },
+        "southwest": {
+          "lat": 12.28769007010728,
+          "lng": 4.463823470107278
+        }
+      },
+      "formatted_address": "Sokoto jega Road, Aliero local government, opposite Aleiru onion market, Aliero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2890821,4.4652096",
+      "google_place_id": "ChIJ90Dmk8qdyREReC8FfDRH7ig"
+    }
   },
   {
     "id": "101797",
@@ -29,7 +46,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2890821,
+      "longitude": 4.4652096,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29038972989272,
+          "lng": 4.466523129892722
+        },
+        "southwest": {
+          "lat": 12.28769007010728,
+          "lng": 4.463823470107278
+        }
+      },
+      "formatted_address": "Sokoto jega Road, Aliero local government, opposite Aleiru onion market, Aliero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2890821,4.4652096",
+      "google_place_id": "ChIJ90Dmk8qdyREReC8FfDRH7ig"
+    }
   },
   {
     "id": "101798",
@@ -45,7 +79,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101799",
@@ -61,7 +96,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101800",
@@ -77,7 +113,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101801",
@@ -93,7 +130,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101802",
@@ -109,6 +147,7 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

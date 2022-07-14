@@ -13,7 +13,24 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7495311,
+      "longitude": 4.5689365,
+      "viewport": {
+        "northeast": {
+          "lat": 12.75121832989272,
+          "lng": 4.570545679892722
+        },
+        "southwest": {
+          "lat": 12.74851867010728,
+          "lng": 4.567846020107278
+        }
+      },
+      "formatted_address": "PHX9+QHR, 861101, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7495311,4.5689365",
+      "google_place_id": "ChIJDSjTiIOzyRERi60OkAOF2PE"
+    }
   },
   {
     "id": "102145",
@@ -29,7 +46,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102146",
@@ -45,7 +63,24 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7434013,
+      "longitude": 4.5251926,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74475427989272,
+          "lng": 4.526517979892722
+        },
+        "southwest": {
+          "lat": 12.74205462010728,
+          "lng": 4.523818320107278
+        }
+      },
+      "formatted_address": "PGVG+935, 861103, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7434013,4.5251926",
+      "google_place_id": "ChIJrdQ74UWtyRER6uO42XA35vU"
+    }
   },
   {
     "id": "102147",
@@ -61,7 +96,24 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7341937,
+      "longitude": 4.5852511,
+      "viewport": {
+        "northeast": {
+          "lat": 12.73581352989272,
+          "lng": 4.586728329892722
+        },
+        "southwest": {
+          "lat": 12.73311387010728,
+          "lng": 4.584028670107278
+        }
+      },
+      "formatted_address": "861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7341937,4.5852511",
+      "google_place_id": "ChIJWxb_Iu2yyRERxbYpOKetMXI"
+    }
   },
   {
     "id": "102148",
@@ -77,7 +129,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102149",
@@ -93,7 +146,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102150",
@@ -109,7 +163,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102151",
@@ -125,7 +180,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102152",
@@ -141,7 +197,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102153",
@@ -157,7 +214,8 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102154",
@@ -173,6 +231,7 @@
     "local_government_id": "450",
     "local_government_name": "ARGUNGU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

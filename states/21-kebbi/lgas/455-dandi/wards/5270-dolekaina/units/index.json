@@ -13,7 +13,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103204",
@@ -29,7 +30,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103205",
@@ -45,7 +47,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103206",
@@ -61,7 +64,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.7119589,
+      "longitude": 3.637297,
+      "viewport": {
+        "northeast": {
+          "lat": 11.71324277989272,
+          "lng": 3.638446679892722
+        },
+        "southwest": {
+          "lat": 11.71054312010728,
+          "lng": 3.635747020107277
+        }
+      },
+      "formatted_address": "Dolekaina Primary School, 862105, Tungan Rogo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7119589,3.637297",
+      "google_place_id": "ChIJowXG_esMzBERstlaijGh4T8"
+    }
   },
   {
     "id": "103207",
@@ -77,7 +97,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103208",
@@ -93,7 +114,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.7744609,
+      "longitude": 3.6824495,
+      "viewport": {
+        "northeast": {
+          "lat": 11.77570112989272,
+          "lng": 3.683743879892722
+        },
+        "southwest": {
+          "lat": 11.77300147010728,
+          "lng": 3.681044220107278
+        }
+      },
+      "formatted_address": "Tungar Sule Primary School, 862105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7744609,3.6824495",
+      "google_place_id": "ChIJjR5s_18JzBERFSKj3JyXumo"
+    }
   },
   {
     "id": "103209",
@@ -109,7 +147,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103210",
@@ -125,7 +164,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103211",
@@ -141,7 +181,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 8.9992016,
+      "longitude": 7.4783902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.000501029892721,
+          "lng": 7.480019279892722
+        },
+        "southwest": {
+          "lat": 8.997801370107277,
+          "lng": 7.477319620107278
+        }
+      },
+      "formatted_address": "XFXH+M85, Gudu 900110, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9992016,7.4783902",
+      "google_place_id": "ChIJPTeRNfQMThARcVymh93iQMc"
+    }
   },
   {
     "id": "103212",
@@ -157,7 +214,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4317585,
+      "longitude": 4.1956212,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43309222989272,
+          "lng": 4.196851329892723
+        },
+        "southwest": {
+          "lat": 12.43039257010728,
+          "lng": 4.194151670107279
+        }
+      },
+      "formatted_address": "C5JW+P65, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4317585,4.1956212",
+      "google_place_id": "ChIJvQHAHOESyRER9s28qEx1w1U"
+    }
   },
   {
     "id": "103213",
@@ -173,7 +247,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4225689,
+      "longitude": 4.5234052,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42392477989272,
+          "lng": 4.524754679892721
+        },
+        "southwest": {
+          "lat": 11.42122512010728,
+          "lng": 4.522055020107278
+        }
+      },
+      "formatted_address": "CGFF+29C, 871105, Koko, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4225689,4.5234052",
+      "google_place_id": "ChIJOSMyKYpRyhERg_7WRk9pmVQ"
+    }
   },
   {
     "id": "103214",
@@ -189,7 +280,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103215",
@@ -205,7 +297,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103216",
@@ -221,6 +314,7 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

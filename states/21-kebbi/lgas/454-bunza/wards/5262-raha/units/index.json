@@ -13,7 +13,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103095",
@@ -29,7 +30,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103096",
@@ -45,7 +47,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103097",
@@ -61,7 +64,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103098",
@@ -77,7 +81,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0749057,
+      "longitude": 4.1043718,
+      "viewport": {
+        "northeast": {
+          "lat": 12.07621427989272,
+          "lng": 4.105866279892722
+        },
+        "southwest": {
+          "lat": 12.07351462010728,
+          "lng": 4.103166620107278
+        }
+      },
+      "formatted_address": "Sabe, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0749057,4.1043718",
+      "google_place_id": "ChIJWxXSE05gyRERzyEqortEwlw"
+    }
   },
   {
     "id": "103099",
@@ -93,7 +114,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0777,
+      "longitude": 4.081,
+      "viewport": {
+        "northeast": {
+          "lat": 12.07905287989272,
+          "lng": 4.082383529892722
+        },
+        "southwest": {
+          "lat": 12.07635322010728,
+          "lng": 4.079683870107278
+        }
+      },
+      "formatted_address": "33HJ+39H, 862101, Raha, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0777,4.081",
+      "google_place_id": "ChIJb90PQGVgyRERsC2WtCGqIPA"
+    }
   },
   {
     "id": "103100",
@@ -109,7 +147,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
   },
   {
     "id": "103101",
@@ -125,7 +180,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4645518,
+      "longitude": 4.203725299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46574937989272,
+          "lng": 4.205114529892721
+        },
+        "southwest": {
+          "lat": 12.46304972010728,
+          "lng": 4.202414870107277
+        }
+      },
+      "formatted_address": "F673+RFH, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4645518,4.203725299999999",
+      "google_place_id": "ChIJFb_6wLETyRERuTMc_fsro48"
+    }
   },
   {
     "id": "103102",
@@ -141,7 +213,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103103",
@@ -157,7 +230,8 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103104",
@@ -173,7 +247,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0814651,
+      "longitude": 4.008101,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08292052989272,
+          "lng": 4.009420879892722
+        },
+        "southwest": {
+          "lat": 12.08022087010728,
+          "lng": 4.006721220107278
+        }
+      },
+      "formatted_address": "32J5+H6Q, 862101, Bunza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0814651,4.008101",
+      "google_place_id": "ChIJz2S5BuJfyRERRNxU4dbzCJE"
+    }
   },
   {
     "id": "103105",
@@ -189,7 +280,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2167699,
+      "longitude": 4.3875847,
+      "viewport": {
+        "northeast": {
+          "lat": 12.21824062989272,
+          "lng": 4.388936079892721
+        },
+        "southwest": {
+          "lat": 12.21554097010728,
+          "lng": 4.386236420107277
+        }
+      },
+      "formatted_address": "698Q+P24, 863101, Jega, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2167699,4.3875847",
+      "google_place_id": "ChIJDyACD595yRERw0KQOwxr2Do"
+    }
   },
   {
     "id": "103106",
@@ -205,7 +313,24 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0807731,
+      "longitude": 4.0134215,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08213922989272,
+          "lng": 4.014722979892722
+        },
+        "southwest": {
+          "lat": 12.07943957010728,
+          "lng": 4.012023320107279
+        }
+      },
+      "formatted_address": "32J7+887, Unnamed Road, 862101, Bunza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0807731,4.0134215",
+      "google_place_id": "ChIJaaRZmMVfyRERLfEaiaEc4IU"
+    }
   },
   {
     "id": "103107",
@@ -221,6 +346,23 @@
     "local_government_id": "454",
     "local_government_name": "BUNZA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0807731,
+      "longitude": 4.0134215,
+      "viewport": {
+        "northeast": {
+          "lat": 12.08213922989272,
+          "lng": 4.014722979892722
+        },
+        "southwest": {
+          "lat": 12.07943957010728,
+          "lng": 4.012023320107279
+        }
+      },
+      "formatted_address": "32J7+887, Unnamed Road, 862101, Bunza, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0807731,4.0134215",
+      "google_place_id": "ChIJaaRZmMVfyRERLfEaiaEc4IU"
+    }
   }
 ]

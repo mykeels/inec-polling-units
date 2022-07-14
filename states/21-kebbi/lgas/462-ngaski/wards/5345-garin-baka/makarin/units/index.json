@@ -13,7 +13,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104356",
@@ -29,7 +30,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104357",
@@ -45,7 +47,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.560961,
+      "longitude": 4.789873099999999,
+      "viewport": {
+        "northeast": {
+          "lat": 10.7467861,
+          "lng": 4.8517196
+        },
+        "southwest": {
+          "lat": 10.5040103,
+          "lng": 4.7234402
+        }
+      },
+      "formatted_address": "Garin Baka, 870104, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.560961,4.789873099999999",
+      "google_place_id": "ChIJe7F7_vS0yhER1IYg34uSwVc"
+    }
   },
   {
     "id": "104358",
@@ -61,7 +80,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 44.37976450000001,
+      "longitude": -79.7133102,
+      "viewport": {
+        "northeast": {
+          "lat": 44.38111982989273,
+          "lng": -79.71209892010728
+        },
+        "southwest": {
+          "lat": 44.37842017010728,
+          "lng": -79.71479857989272
+        }
+      },
+      "formatted_address": "15 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+      "google_map_url": "https://maps.google.com?q=44.37976450000001,-79.7133102",
+      "google_place_id": "ChIJ0SGQig29KogRzg4aXvKgWhA"
+    }
   },
   {
     "id": "104359",
@@ -77,7 +113,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104360",
@@ -93,7 +130,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104361",
@@ -109,7 +147,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104362",
@@ -125,7 +164,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104363",
@@ -141,6 +181,7 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104401",
@@ -29,7 +30,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104402",
@@ -45,7 +47,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104403",
@@ -61,7 +64,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104404",
@@ -77,7 +81,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 40.0850099,
+      "longitude": -82.8104437,
+      "viewport": {
+        "northeast": {
+          "lat": 40.08640377989271,
+          "lng": -82.80913112010728
+        },
+        "southwest": {
+          "lat": 40.08370412010727,
+          "lng": -82.81183077989272
+        }
+      },
+      "formatted_address": "87 N High St, New Albany, OH 43054, United States",
+      "google_map_url": "https://maps.google.com?q=40.0850099,-82.8104437",
+      "google_place_id": "ChIJzbdu61dnOIgRc0BERCqA2A4"
+    }
   },
   {
     "id": "104405",
@@ -93,7 +114,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104406",
@@ -109,6 +131,7 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

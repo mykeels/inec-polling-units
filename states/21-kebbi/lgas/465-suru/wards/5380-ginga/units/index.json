@@ -13,7 +13,24 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4530713,
+      "longitude": 4.1902307,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45471137989272,
+          "lng": 4.191531279892722
+        },
+        "southwest": {
+          "lat": 12.45201172010728,
+          "lng": 4.188831620107278
+        }
+      },
+      "formatted_address": "F53R+63H, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4530713,4.1902307",
+      "google_place_id": "ChIJSzyc9ysTyRERxNr7mwE7hVQ"
+    }
   },
   {
     "id": "104834",
@@ -29,7 +46,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104835",
@@ -45,7 +63,24 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.0526308,
+      "longitude": 4.1411406,
+      "viewport": {
+        "northeast": {
+          "lat": 12.0741487,
+          "lng": 4.213966099999999
+        },
+        "southwest": {
+          "lat": 12.0019903,
+          "lng": 4.0469555
+        }
+      },
+      "formatted_address": "Ginga, 862108, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.0526308,4.1411406",
+      "google_place_id": "ChIJVTdPhGDfyxEReB8xbfqe5SI"
+    }
   },
   {
     "id": "104836",
@@ -61,7 +96,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104837",
@@ -77,7 +113,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104838",
@@ -93,7 +130,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104839",
@@ -109,7 +147,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104840",
@@ -125,7 +164,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104841",
@@ -141,7 +181,8 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104842",
@@ -157,6 +198,7 @@
     "local_government_id": "465",
     "local_government_name": "SURU",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

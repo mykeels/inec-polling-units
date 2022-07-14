@@ -13,7 +13,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104420",
@@ -29,7 +30,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 44.37976450000001,
+      "longitude": -79.7133102,
+      "viewport": {
+        "northeast": {
+          "lat": 44.38111982989273,
+          "lng": -79.71209892010728
+        },
+        "southwest": {
+          "lat": 44.37842017010728,
+          "lng": -79.71479857989272
+        }
+      },
+      "formatted_address": "15 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+      "google_map_url": "https://maps.google.com?q=44.37976450000001,-79.7133102",
+      "google_place_id": "ChIJ0SGQig29KogRzg4aXvKgWhA"
+    }
   },
   {
     "id": "104421",
@@ -45,7 +63,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.190462,
+      "longitude": 4.624359,
+      "viewport": {
+        "northeast": {
+          "lat": 10.19181222989272,
+          "lng": 4.625709229892722
+        },
+        "southwest": {
+          "lat": 10.18911257010728,
+          "lng": 4.623009570107278
+        }
+      },
+      "formatted_address": "5JRF+5PQ, 870104, New Libata, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.190462,4.624359",
+      "google_place_id": "ChIJZ1x_h10WNRARJLEPLdFOGCw"
+    }
   },
   {
     "id": "104422",
@@ -61,7 +96,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 21.2667349,
+      "longitude": -157.8187536,
+      "viewport": {
+        "northeast": {
+          "lat": 21.26768947989272,
+          "lng": -157.81633575
+        },
+        "southwest": {
+          "lat": 21.26498982010728,
+          "lng": -157.81955955
+        }
+      },
+      "formatted_address": "3840 Paki Ave, Honolulu, HI 96815, United States",
+      "google_map_url": "https://maps.google.com?q=21.2667349,-157.8187536",
+      "google_place_id": "ChIJD631x3pyAHwR4CaPouCW35Q"
+    }
   },
   {
     "id": "104423",
@@ -77,7 +129,8 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104424",
@@ -93,7 +146,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4409206,
+      "longitude": 4.209312,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44249092989272,
+          "lng": 4.211043829892722
+        },
+        "southwest": {
+          "lat": 12.43979127010728,
+          "lng": 4.208344170107278
+        }
+      },
+      "formatted_address": "C6R5+9P7, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4409206,4.209312",
+      "google_place_id": "ChIJITNXMFwTyRERFRKguR0Mg34"
+    }
   },
   {
     "id": "104425",
@@ -109,7 +179,24 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3242459,
+      "longitude": 9.7233444,
+      "viewport": {
+        "northeast": {
+          "lat": 12.32576012989272,
+          "lng": 9.72471782989272
+        },
+        "southwest": {
+          "lat": 12.32306047010728,
+          "lng": 9.722018170107276
+        }
+      },
+      "formatted_address": "8PFF+M8Q, 730102, Marke, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3242459,9.7233444",
+      "google_place_id": "ChIJw2HyngENqRERFUeURcQCxsA"
+    }
   },
   {
     "id": "104426",
@@ -125,6 +212,7 @@
     "local_government_id": "462",
     "local_government_name": "NGASKI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

@@ -13,7 +13,8 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104612",
@@ -29,7 +30,8 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104613",
@@ -45,7 +47,8 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104614",
@@ -61,7 +64,24 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.1790044,
+      "longitude": 4.6433018,
+      "viewport": {
+        "northeast": {
+          "lat": 11.18032102989272,
+          "lng": 4.644668229892721
+        },
+        "southwest": {
+          "lat": 11.17762137010728,
+          "lng": 4.641968570107277
+        }
+      },
+      "formatted_address": "5JHV+J83, 870106, Ganwo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.1790044,4.6433018",
+      "google_place_id": "ChIJo7GM1_PxyhERX38de0ojWAw"
+    }
   },
   {
     "id": "104615",
@@ -77,7 +97,24 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.2605965,
+      "longitude": 4.0151976,
+      "viewport": {
+        "northeast": {
+          "lat": 12.26199087989272,
+          "lng": 4.016580229892722
+        },
+        "southwest": {
+          "lat": 12.25929122010728,
+          "lng": 4.013880570107278
+        }
+      },
+      "formatted_address": "7268+64V, 862104, Keta Hausawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.2605965,4.0151976",
+      "google_place_id": "ChIJa80PMA5DyRER0-f1HVlkSVQ"
+    }
   },
   {
     "id": "104616",
@@ -93,7 +130,24 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4678668,
+      "longitude": 4.199189899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46921467989272,
+          "lng": 4.200602229892722
+        },
+        "southwest": {
+          "lat": 12.46651502010728,
+          "lng": 4.197902570107278
+        }
+      },
+      "formatted_address": "F59X+4MR, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4678668,4.199189899999999",
+      "google_place_id": "ChIJ6cK4RWATyRERgK119FLk0nw"
+    }
   },
   {
     "id": "104617",
@@ -109,7 +163,8 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104618",
@@ -125,7 +180,24 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5600956,
+      "longitude": 5.8238406,
+      "viewport": {
+        "northeast": {
+          "lat": 11.56134397989272,
+          "lng": 5.824611029892722
+        },
+        "southwest": {
+          "lat": 11.55864432010728,
+          "lng": 5.821911370107278
+        }
+      },
+      "formatted_address": "HR6F+2GP, 860272, Surimi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5600956,5.8238406",
+      "google_place_id": "ChIJgckqilJJtBERKzInfj3lG4Y"
+    }
   },
   {
     "id": "104619",
@@ -141,7 +213,24 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.2988746,
+      "longitude": 7.0652573,
+      "viewport": {
+        "northeast": {
+          "lat": 11.30022442989272,
+          "lng": 7.066607129892723
+        },
+        "southwest": {
+          "lat": 11.29752477010728,
+          "lng": 7.063907470107279
+        }
+      },
+      "formatted_address": "73X8+G4R, 830104, Banbawa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.2988746,7.0652573",
+      "google_place_id": "ChIJ4wNcEIersxERpGG2u6X3BoU"
+    }
   },
   {
     "id": "104620",
@@ -157,7 +246,24 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.4385525,
+      "longitude": -80.51176509999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43986637989272,
+          "lng": -80.51037667010728
+        },
+        "southwest": {
+          "lat": 43.43716672010728,
+          "lng": -80.51307632989273
+        }
+      },
+      "formatted_address": "370 Highland Rd W, Kitchener, ON N2M 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4385525,-80.51176509999999",
+      "google_place_id": "ChIJ8c-xZnb1K4gRQq1vCzwErTI"
+    }
   },
   {
     "id": "104621",
@@ -173,6 +279,23 @@
     "local_government_id": "464",
     "local_government_name": "SHANGA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4678668,
+      "longitude": 4.199189899999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46921467989272,
+          "lng": 4.200602229892722
+        },
+        "southwest": {
+          "lat": 12.46651502010728,
+          "lng": 4.197902570107278
+        }
+      },
+      "formatted_address": "F59X+4MR, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4678668,4.199189899999999",
+      "google_place_id": "ChIJ6cK4RWATyRERgK119FLk0nw"
+    }
   }
 ]

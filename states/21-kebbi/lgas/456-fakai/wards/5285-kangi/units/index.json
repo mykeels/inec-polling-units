@@ -13,7 +13,24 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4458568,
+      "longitude": 4.2261237,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44716447989272,
+          "lng": 4.227326829892722
+        },
+        "southwest": {
+          "lat": 12.44446482010728,
+          "lng": 4.224627170107278
+        }
+      },
+      "formatted_address": "C6WG+8CX, Sani Abacha Bye Pass, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4458568,4.2261237",
+      "google_place_id": "ChIJBR69IiwTyRERLPf8i4jVLFw"
+    }
   },
   {
     "id": "103430",
@@ -29,7 +46,8 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103431",
@@ -45,7 +63,8 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103432",
@@ -61,7 +80,24 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.5090595,
+      "longitude": 5.1058115,
+      "viewport": {
+        "northeast": {
+          "lat": 11.51058467989272,
+          "lng": 5.107188579892722
+        },
+        "southwest": {
+          "lat": 11.50788502010728,
+          "lng": 5.104488920107278
+        }
+      },
+      "formatted_address": "G454+J8F, 872102, Fakai, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.5090595,5.1058115",
+      "google_place_id": "ChIJP0RaVnWJtRERk2tWVtLiouk"
+    }
   },
   {
     "id": "103433",
@@ -77,7 +113,8 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103434",
@@ -93,7 +130,8 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103435",
@@ -109,7 +147,24 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4622183,
+      "longitude": 4.200337999999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46354552989272,
+          "lng": 4.201546879892722
+        },
+        "southwest": {
+          "lat": 12.46084587010728,
+          "lng": 4.198847220107278
+        }
+      },
+      "formatted_address": "Murtala Mohammed Road, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4622183,4.200337999999999",
+      "google_place_id": "ChIJB1joI04SyRERJIU-YFEsk-c"
+    }
   },
   {
     "id": "103436",
@@ -125,6 +180,7 @@
     "local_government_id": "456",
     "local_government_name": "FAKAI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

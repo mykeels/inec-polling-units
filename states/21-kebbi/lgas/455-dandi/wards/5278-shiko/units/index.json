@@ -13,7 +13,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103352",
@@ -29,7 +30,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.853531,
+      "longitude": 3.650741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85496487989272,
+          "lng": 3.652266979892722
+        },
+        "southwest": {
+          "lat": 11.85226522010728,
+          "lng": 3.649567320107278
+        }
+      },
+      "formatted_address": "VM32+C79, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.853531,3.650741",
+      "google_place_id": "ChIJXX_AN0UPzBER0SMvIdw2zJI"
+    }
   },
   {
     "id": "103353",
@@ -45,7 +63,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103354",
@@ -61,7 +80,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103355",
@@ -77,7 +97,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103356",
@@ -93,7 +114,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103357",
@@ -109,7 +131,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103358",
@@ -125,7 +148,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103359",
@@ -141,7 +165,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.853531,
+      "longitude": 3.650741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85496487989272,
+          "lng": 3.652266979892722
+        },
+        "southwest": {
+          "lat": 11.85226522010728,
+          "lng": 3.649567320107278
+        }
+      },
+      "formatted_address": "VM32+C79, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.853531,3.650741",
+      "google_place_id": "ChIJXX_AN0UPzBER0SMvIdw2zJI"
+    }
   },
   {
     "id": "103360",
@@ -157,6 +198,7 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

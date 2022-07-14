@@ -13,7 +13,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.468236,
+      "longitude": 4.2022913,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46982992989272,
+          "lng": 4.203638529892721
+        },
+        "southwest": {
+          "lat": 12.46713027010728,
+          "lng": 4.200938870107278
+        }
+      },
+      "formatted_address": "F692+7W7, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.468236,4.2022913",
+      "google_place_id": "ChIJ4dOk5iITyRERMgrELUuxOB8"
+    }
   },
   {
     "id": "103878",
@@ -29,7 +46,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103879",
@@ -45,7 +63,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103880",
@@ -61,7 +80,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103881",
@@ -77,7 +97,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103882",
@@ -93,7 +114,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103883",
@@ -109,7 +131,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103884",
@@ -125,7 +148,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103885",
@@ -141,7 +165,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 8.9992016,
+      "longitude": 7.4783902,
+      "viewport": {
+        "northeast": {
+          "lat": 9.000501029892721,
+          "lng": 7.480019279892722
+        },
+        "southwest": {
+          "lat": 8.997801370107277,
+          "lng": 7.477319620107278
+        }
+      },
+      "formatted_address": "XFXH+M85, Gudu 900110, Abuja, Nigeria",
+      "google_map_url": "https://maps.google.com?q=8.9992016,7.4783902",
+      "google_place_id": "ChIJPTeRNfQMThARcVymh93iQMc"
+    }
   },
   {
     "id": "103886",
@@ -157,7 +198,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103887",
@@ -173,7 +215,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.294632,
+      "longitude": 4.462288,
+      "viewport": {
+        "northeast": {
+          "lat": 12.29577007989272,
+          "lng": 4.463659929892723
+        },
+        "southwest": {
+          "lat": 12.29307042010728,
+          "lng": 4.460960270107279
+        }
+      },
+      "formatted_address": "7FV6+WW2, opp. artel shop, 863104, Aliero, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.294632,4.462288",
+      "google_place_id": "ChIJ2yPD9hacyRERLIx4T7NZX2Y"
+    }
   },
   {
     "id": "103888",
@@ -189,6 +248,7 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

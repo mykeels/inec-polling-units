@@ -13,7 +13,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101939",
@@ -29,7 +30,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 33.5066286,
+      "longitude": -84.3572301,
+      "viewport": {
+        "northeast": {
+          "lat": 33.50808352989272,
+          "lng": -84.35563657010727
+        },
+        "southwest": {
+          "lat": 33.50538387010728,
+          "lng": -84.35833622989271
+        }
+      },
+      "formatted_address": "9151 Tara Blvd, Jonesboro, GA 30236, United States",
+      "google_map_url": "https://maps.google.com?q=33.5066286,-84.3572301",
+      "google_place_id": "ChIJVU-etx369IgRlicefhxMmbY"
+    }
   },
   {
     "id": "101940",
@@ -45,7 +63,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101941",
@@ -61,7 +80,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101942",
@@ -77,7 +113,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101943",
@@ -93,7 +146,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4535209,
+      "longitude": 4.190312599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45491207989272,
+          "lng": 4.191655029892722
+        },
+        "southwest": {
+          "lat": 12.45221242010728,
+          "lng": 4.188955370107278
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4535209,4.190312599999999",
+      "google_place_id": "ChIJbaAukvITyRERYM235JUh4Us"
+    }
   },
   {
     "id": "101944",
@@ -109,7 +179,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5544328,
+      "longitude": 3.820615,
+      "viewport": {
+        "northeast": {
+          "lat": 12.55572242989272,
+          "lng": 3.821725929892721
+        },
+        "southwest": {
+          "lat": 12.55302277010728,
+          "lng": 3.819026270107277
+        }
+      },
+      "formatted_address": "HR3C+Q7F, Dan Bui Computer print Kara Area, Zukuku, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5544328,3.820615",
+      "google_place_id": "ChIJhSkBr7kzyRERLiiZUetWEk8"
+    }
   },
   {
     "id": "101945",
@@ -125,7 +212,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7442401,
+      "longitude": 4.5309918,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74563002989272,
+          "lng": 4.532326279892722
+        },
+        "southwest": {
+          "lat": 12.74293037010728,
+          "lng": 4.529626620107278
+        }
+      },
+      "formatted_address": "PGVJ+JCR, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7442401,4.5309918",
+      "google_place_id": "ChIJBZw4PwqtyRER3DQJ94lL0YA"
+    }
   },
   {
     "id": "101946",
@@ -141,7 +245,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.853531,
+      "longitude": 3.650741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85496487989272,
+          "lng": 3.652266979892722
+        },
+        "southwest": {
+          "lat": 11.85226522010728,
+          "lng": 3.649567320107278
+        }
+      },
+      "formatted_address": "VM32+C79, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.853531,3.650741",
+      "google_place_id": "ChIJXX_AN0UPzBER0SMvIdw2zJI"
+    }
   },
   {
     "id": "101947",
@@ -157,7 +278,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101948",
@@ -173,7 +295,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7442401,
+      "longitude": 4.5309918,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74563002989272,
+          "lng": 4.532326279892722
+        },
+        "southwest": {
+          "lat": 12.74293037010728,
+          "lng": 4.529626620107278
+        }
+      },
+      "formatted_address": "PGVJ+JCR, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7442401,4.5309918",
+      "google_place_id": "ChIJBZw4PwqtyRER3DQJ94lL0YA"
+    }
   },
   {
     "id": "101949",
@@ -189,7 +328,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4535209,
+      "longitude": 4.190312599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45491207989272,
+          "lng": 4.191655029892722
+        },
+        "southwest": {
+          "lat": 12.45221242010728,
+          "lng": 4.188955370107278
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4535209,4.190312599999999",
+      "google_place_id": "ChIJbaAukvITyRERYM235JUh4Us"
+    }
   },
   {
     "id": "101950",
@@ -205,7 +361,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4645518,
+      "longitude": 4.203725299999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46574937989272,
+          "lng": 4.205114529892721
+        },
+        "southwest": {
+          "lat": 12.46304972010728,
+          "lng": 4.202414870107277
+        }
+      },
+      "formatted_address": "F673+RFH, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4645518,4.203725299999999",
+      "google_place_id": "ChIJFb_6wLETyRERuTMc_fsro48"
+    }
   },
   {
     "id": "101951",
@@ -221,7 +394,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4535209,
+      "longitude": 4.190312599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45491207989272,
+          "lng": 4.191655029892722
+        },
+        "southwest": {
+          "lat": 12.45221242010728,
+          "lng": 4.188955370107278
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4535209,4.190312599999999",
+      "google_place_id": "ChIJbaAukvITyRERYM235JUh4Us"
+    }
   },
   {
     "id": "101952",
@@ -237,7 +427,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101953",
@@ -253,7 +444,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101954",
@@ -269,7 +477,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101955",
@@ -285,7 +510,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101956",
@@ -301,7 +543,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7442401,
+      "longitude": 4.5309918,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74563002989272,
+          "lng": 4.532326279892722
+        },
+        "southwest": {
+          "lat": 12.74293037010728,
+          "lng": 4.529626620107278
+        }
+      },
+      "formatted_address": "PGVJ+JCR, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7442401,4.5309918",
+      "google_place_id": "ChIJBZw4PwqtyRER3DQJ94lL0YA"
+    }
   },
   {
     "id": "101957",
@@ -317,7 +576,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101958",
@@ -333,7 +609,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4451053,
+      "longitude": 4.2295349,
+      "viewport": {
+        "northeast": {
+          "lat": 12.44647282989272,
+          "lng": 4.230956979892722
+        },
+        "southwest": {
+          "lat": 12.44377317010727,
+          "lng": 4.228257320107278
+        }
+      },
+      "formatted_address": "C6WH+3V8, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4451053,4.2295349",
+      "google_place_id": "ChIJXRh-7VkTyRERjrKFGngUpPw"
+    }
   },
   {
     "id": "101959",
@@ -349,7 +642,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101960",
@@ -365,7 +659,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101961",
@@ -381,7 +676,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.418191,
+      "longitude": -80.4536825,
+      "viewport": {
+        "northeast": {
+          "lat": 43.41954152989272,
+          "lng": -80.45250982010728
+        },
+        "southwest": {
+          "lat": 43.41684187010728,
+          "lng": -80.45520947989272
+        }
+      },
+      "formatted_address": "5 Manitou Dr Unit 2-3, Kitchener, ON N2C 2J6, Canada",
+      "google_map_url": "https://maps.google.com?q=43.418191,-80.4536825",
+      "google_place_id": "ChIJg4EvGc2KK4gRzzRiuTb-FlA"
+    }
   },
   {
     "id": "101962",
@@ -397,7 +709,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.853531,
+      "longitude": 3.650741,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85496487989272,
+          "lng": 3.652266979892722
+        },
+        "southwest": {
+          "lat": 11.85226522010728,
+          "lng": 3.649567320107278
+        }
+      },
+      "formatted_address": "VM32+C79, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.853531,3.650741",
+      "google_place_id": "ChIJXX_AN0UPzBER0SMvIdw2zJI"
+    }
   },
   {
     "id": "101963",
@@ -413,7 +742,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 44.1389783,
+      "longitude": -81.1318601,
+      "viewport": {
+        "northeast": {
+          "lat": 44.14024177989272,
+          "lng": -81.13051027010728
+        },
+        "southwest": {
+          "lat": 44.13754212010728,
+          "lng": -81.13320992989273
+        }
+      },
+      "formatted_address": "20 Ontario Rd, Walkerton, ON N0G 2V0, Canada",
+      "google_map_url": "https://maps.google.com?q=44.1389783,-81.1318601",
+      "google_place_id": "ChIJU1v3l8-YKYgRkAVE1ctOKpM"
+    }
   },
   {
     "id": "101964",
@@ -429,7 +775,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 34.6088937,
+      "longitude": -83.5240252,
+      "viewport": {
+        "northeast": {
+          "lat": 34.61025507989273,
+          "lng": -83.5226767701073
+        },
+        "southwest": {
+          "lat": 34.60755542010728,
+          "lng": -83.52537642989273
+        }
+      },
+      "formatted_address": "295 Llewellyn St, Clarkesville, GA 30523, United States",
+      "google_map_url": "https://maps.google.com?q=34.6088937,-83.5240252",
+      "google_place_id": "ChIJoTBnrxO0WIgR3ZHo1bQpJuo"
+    }
   },
   {
     "id": "101965",
@@ -445,7 +808,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101966",
@@ -461,7 +825,24 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.5378424,
+      "longitude": 3.7739869,
+      "viewport": {
+        "northeast": {
+          "lat": 12.6161881,
+          "lng": 3.9007269
+        },
+        "southwest": {
+          "lat": 12.4429844,
+          "lng": 3.655984299999999
+        }
+      },
+      "formatted_address": "Kangiwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.5378424,3.7739869",
+      "google_place_id": "ChIJG5uiZAwzyRER4SOCyMDAPvE"
+    }
   },
   {
     "id": "101967",
@@ -477,7 +858,8 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101968",
@@ -493,6 +875,7 @@
     "local_government_id": "449",
     "local_government_name": "AREWA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

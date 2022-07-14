@@ -13,7 +13,24 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 44.37976450000001,
+      "longitude": -79.7133102,
+      "viewport": {
+        "northeast": {
+          "lat": 44.38111982989273,
+          "lng": -79.71209892010728
+        },
+        "southwest": {
+          "lat": 44.37842017010728,
+          "lng": -79.71479857989272
+        }
+      },
+      "formatted_address": "15 Cedar Pointe Dr, Barrie, ON L4N 5R7, Canada",
+      "google_map_url": "https://maps.google.com?q=44.37976450000001,-79.7133102",
+      "google_place_id": "ChIJ0SGQig29KogRzg4aXvKgWhA"
+    }
   },
   {
     "id": "102319",
@@ -29,7 +46,24 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.9995061,
+      "longitude": -79.4713732,
+      "viewport": {
+        "northeast": {
+          "lat": 44.00068682989273,
+          "lng": -79.46996307010728
+        },
+        "southwest": {
+          "lat": 43.99798717010728,
+          "lng": -79.47266272989273
+        }
+      },
+      "formatted_address": "60 Wellington St W, Aurora, ON L4G 3H2, Canada",
+      "google_map_url": "https://maps.google.com?q=43.9995061,-79.4713732",
+      "google_place_id": "ChIJ370Qf6suK4gRKvKjpMAfhF4"
+    }
   },
   {
     "id": "102320",
@@ -45,7 +79,24 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4981827,
+      "longitude": 4.649822599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.49943042989272,
+          "lng": 4.651192879892721
+        },
+        "southwest": {
+          "lat": 12.49673077010728,
+          "lng": 4.648493220107278
+        }
+      },
+      "formatted_address": "Off Ahmadu Bello Way, 860102, Gwandu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4981827,4.649822599999999",
+      "google_place_id": "ChIJpYqW1la5yRERFm9sBxzzwKo"
+    }
   },
   {
     "id": "102321",
@@ -61,7 +112,24 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4321994,
+      "longitude": 4.1946862,
+      "viewport": {
+        "northeast": {
+          "lat": 12.43359947989272,
+          "lng": 4.196029879892722
+        },
+        "southwest": {
+          "lat": 12.43089982010728,
+          "lng": 4.193330220107279
+        }
+      },
+      "formatted_address": "C5JV+VVF, Sarki Aliru Attahiru Road, Back of NEPA Transmission, Along Mechanic Village, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4321994,4.1946862",
+      "google_place_id": "ChIJwy7UMukTyRER_LFuka4ZqgM"
+    }
   },
   {
     "id": "102322",
@@ -77,7 +145,24 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4535209,
+      "longitude": 4.190312599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45491207989272,
+          "lng": 4.191655029892722
+        },
+        "southwest": {
+          "lat": 12.45221242010728,
+          "lng": 4.188955370107278
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4535209,4.190312599999999",
+      "google_place_id": "ChIJbaAukvITyRERYM235JUh4Us"
+    }
   },
   {
     "id": "102323",
@@ -93,7 +178,8 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102324",
@@ -109,7 +195,24 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.7420198,
+      "longitude": 4.525436,
+      "viewport": {
+        "northeast": {
+          "lat": 12.74323532989272,
+          "lng": 4.526770529892721
+        },
+        "southwest": {
+          "lat": 12.74053567010728,
+          "lng": 4.524070870107277
+        }
+      },
+      "formatted_address": "Ahmadu Bello way, 861101, Argungu, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.7420198,4.525436",
+      "google_place_id": "ChIJ07-XuLStyRERIf0jBKLBfyE"
+    }
   },
   {
     "id": "102325",
@@ -125,7 +228,8 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "102326",
@@ -141,6 +245,7 @@
     "local_government_id": "451",
     "local_government_name": "AUGIE",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

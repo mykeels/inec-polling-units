@@ -13,7 +13,8 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "105130",
@@ -29,7 +30,8 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "105131",
@@ -45,7 +47,24 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.848463,
+      "longitude": 4.7422676,
+      "viewport": {
+        "northeast": {
+          "lat": 10.84978387989272,
+          "lng": 4.743611729892721
+        },
+        "southwest": {
+          "lat": 10.84708422010728,
+          "lng": 4.740912070107277
+        }
+      },
+      "formatted_address": "RPXR+9WJ, 870102, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.848463,4.7422676",
+      "google_place_id": "ChIJwTVDUza5yhERuzpu5IzEOQY"
+    }
   },
   {
     "id": "105132",
@@ -61,7 +80,8 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "105133",
@@ -77,7 +97,8 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "105134",
@@ -93,7 +114,8 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "105135",
@@ -109,7 +131,8 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "105136",
@@ -125,7 +148,24 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.848463,
+      "longitude": 4.7422676,
+      "viewport": {
+        "northeast": {
+          "lat": 10.84978387989272,
+          "lng": 4.743611729892721
+        },
+        "southwest": {
+          "lat": 10.84708422010728,
+          "lng": 4.740912070107277
+        }
+      },
+      "formatted_address": "RPXR+9WJ, 870102, Yelwa, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.848463,4.7422676",
+      "google_place_id": "ChIJwTVDUza5yhERuzpu5IzEOQY"
+    }
   },
   {
     "id": "105137",
@@ -141,6 +181,7 @@
     "local_government_id": "467",
     "local_government_name": "YAURI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

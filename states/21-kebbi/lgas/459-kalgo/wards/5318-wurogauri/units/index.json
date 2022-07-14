@@ -13,7 +13,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3546227,
+      "longitude": 4.1987246,
+      "viewport": {
+        "northeast": {
+          "lat": 12.35612762989272,
+          "lng": 4.200067279892722
+        },
+        "southwest": {
+          "lat": 12.35342797010728,
+          "lng": 4.197367620107278
+        }
+      },
+      "formatted_address": "953X+RFX, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3546227,4.1987246",
+      "google_place_id": "ChIJpaI8NtxtyRER4U6Fw29PQ1s"
+    }
   },
   {
     "id": "103952",
@@ -29,7 +46,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103953",
@@ -45,7 +63,8 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103954",
@@ -61,7 +80,24 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3330063,
+      "longitude": 4.1552852,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33436087989272,
+          "lng": 4.156618529892723
+        },
+        "southwest": {
+          "lat": 12.33166122010728,
+          "lng": 4.153918870107279
+        }
+      },
+      "formatted_address": "85M4+643, Birnin Kebbi Kalgo Rd, 862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3330063,4.1552852",
+      "google_place_id": "ChIJ3ygmyrBtyRERDwbkPrYA-VI"
+    }
   },
   {
     "id": "103955",
@@ -77,6 +113,7 @@
     "local_government_id": "459",
     "local_government_name": "KALGO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

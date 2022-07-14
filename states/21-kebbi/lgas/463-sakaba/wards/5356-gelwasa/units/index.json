@@ -13,7 +13,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4932705,
+      "longitude": 5.6379892,
+      "viewport": {
+        "northeast": {
+          "lat": 11.49462032989272,
+          "lng": 5.639339029892723
+        },
+        "southwest": {
+          "lat": 11.49192067010728,
+          "lng": 5.636639370107279
+        }
+      },
+      "formatted_address": "FJVQ+855, 872104, Kuba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4932705,5.6379892",
+      "google_place_id": "ChIJxy5r1YyxtRERGzcS9bw2sM4"
+    }
   },
   {
     "id": "104480",
@@ -29,7 +46,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.6815897,
+      "longitude": 6.3643963,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68293952989272,
+          "lng": 6.365746129892722
+        },
+        "southwest": {
+          "lat": 10.68023987010728,
+          "lng": 6.363046470107278
+        }
+      },
+      "formatted_address": "7F28M9J7+JQJ Ung yalwa, Ukinkina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6815897,6.3643963",
+      "google_place_id": "ChIJU9vkZAiptBERgky5yfsLzkw"
+    }
   },
   {
     "id": "104481",
@@ -45,7 +79,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.49894889999999,
+      "longitude": -80.01785009999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.50024892989272,
+          "lng": -80.01661492010727
+        },
+        "southwest": {
+          "lat": 43.49754927010728,
+          "lng": -80.01931457989272
+        }
+      },
+      "formatted_address": "2439 Ten Side Rd RR1, Campbellville, ON L0P 1B0, Canada",
+      "google_map_url": "https://maps.google.com?q=43.49894889999999,-80.01785009999999",
+      "google_place_id": "ChIJe5H8LvB5K4gRMuR2r65Zkjw"
+    }
   },
   {
     "id": "104482",
@@ -61,7 +112,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104483",
@@ -77,7 +129,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104484",
@@ -93,7 +146,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4620795,
+      "longitude": 4.196491,
+      "viewport": {
+        "northeast": {
+          "lat": 12.46343127989272,
+          "lng": 4.197839329892722
+        },
+        "southwest": {
+          "lat": 12.46073162010728,
+          "lng": 4.195139670107277
+        }
+      },
+      "formatted_address": "Tudun wada by El - Bright Resturant, Murtala Mohammed Road, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4620795,4.196491",
+      "google_place_id": "ChIJr_RX3OQTyRERE_5Vau0M5nQ"
+    }
   },
   {
     "id": "104485",
@@ -109,6 +179,7 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]

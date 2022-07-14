@@ -13,7 +13,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103345",
@@ -29,7 +30,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.7932228,
+      "longitude": 3.9674371,
+      "viewport": {
+        "northeast": {
+          "lat": 11.8370334,
+          "lng": 4.0207134
+        },
+        "southwest": {
+          "lat": 11.7044685,
+          "lng": 3.8261876
+        }
+      },
+      "formatted_address": "Maigwaza, 862105, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.7932228,3.9674371",
+      "google_place_id": "ChIJrSH82eHtyxERrOl148YD4-8"
+    }
   },
   {
     "id": "103346",
@@ -45,7 +63,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103347",
@@ -61,7 +80,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103348",
@@ -77,7 +97,8 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "103349",
@@ -93,7 +114,24 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.8513055,
+      "longitude": 3.6647075,
+      "viewport": {
+        "northeast": {
+          "lat": 11.85282722989272,
+          "lng": 3.665965629892722
+        },
+        "southwest": {
+          "lat": 11.85012757010728,
+          "lng": 3.663265970107278
+        }
+      },
+      "formatted_address": "VM27+GVG, 862105, Kamba, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.8513055,3.6647075",
+      "google_place_id": "ChIJx-fXnbUJzBERthMW3y1K7Rs"
+    }
   },
   {
     "id": "103350",
@@ -109,6 +147,23 @@
     "local_government_id": "455",
     "local_government_name": "DANDI",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.4535209,
+      "longitude": 4.190312599999999,
+      "viewport": {
+        "northeast": {
+          "lat": 12.45491207989272,
+          "lng": 4.191655029892722
+        },
+        "southwest": {
+          "lat": 12.45221242010728,
+          "lng": 4.188955370107278
+        }
+      },
+      "formatted_address": "Buhari Bala Model Primary School, 860101, Birnin Kebbi, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.4535209,4.190312599999999",
+      "google_place_id": "ChIJbaAukvITyRERYM235JUh4Us"
+    }
   }
 ]

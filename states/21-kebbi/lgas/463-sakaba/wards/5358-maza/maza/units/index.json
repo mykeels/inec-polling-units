@@ -13,7 +13,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.3327628,
+      "longitude": 4.1990888,
+      "viewport": {
+        "northeast": {
+          "lat": 12.33415587989272,
+          "lng": 4.200417029892722
+        },
+        "southwest": {
+          "lat": 12.33145622010728,
+          "lng": 4.197717370107278
+        }
+      },
+      "formatted_address": "862104, Kalgo, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.3327628,4.1990888",
+      "google_place_id": "ChIJFU3UPcltyRER-o210HfwHNU"
+    }
   },
   {
     "id": "104498",
@@ -29,7 +46,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 6.4579273,
+      "longitude": 3.3026276,
+      "viewport": {
+        "northeast": {
+          "lat": 6.459328379892722,
+          "lng": 3.303981629892722
+        },
+        "southwest": {
+          "lat": 6.456628720107278,
+          "lng": 3.301281970107278
+        }
+      },
+      "formatted_address": "23 Fashinro St, Amuwo Odofin 102102, Lagos, Nigeria",
+      "google_map_url": "https://maps.google.com?q=6.4579273,3.3026276",
+      "google_place_id": "ChIJ4R5q3B6JOxAR3lHPcLJFEoY"
+    }
   },
   {
     "id": "104499",
@@ -45,7 +79,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.4385525,
+      "longitude": -80.51176509999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.43986637989272,
+          "lng": -80.51037667010728
+        },
+        "southwest": {
+          "lat": 43.43716672010728,
+          "lng": -80.51307632989273
+        }
+      },
+      "formatted_address": "370 Highland Rd W, Kitchener, ON N2M 5J9, Canada",
+      "google_map_url": "https://maps.google.com?q=43.4385525,-80.51176509999999",
+      "google_place_id": "ChIJ8c-xZnb1K4gRQq1vCzwErTI"
+    }
   },
   {
     "id": "104500",
@@ -61,7 +112,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 10.6815897,
+      "longitude": 6.3643963,
+      "viewport": {
+        "northeast": {
+          "lat": 10.68293952989272,
+          "lng": 6.365746129892722
+        },
+        "southwest": {
+          "lat": 10.68023987010728,
+          "lng": 6.363046470107278
+        }
+      },
+      "formatted_address": "7F28M9J7+JQJ Ung yalwa, Ukinkina, Nigeria",
+      "google_map_url": "https://maps.google.com?q=10.6815897,6.3643963",
+      "google_place_id": "ChIJU9vkZAiptBERgky5yfsLzkw"
+    }
   },
   {
     "id": "104501",
@@ -77,7 +145,24 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 43.7734535,
+      "longitude": -79.50186839999999,
+      "viewport": {
+        "northeast": {
+          "lat": 43.7845038,
+          "lng": -79.48153140000001
+        },
+        "southwest": {
+          "lat": 43.7629262,
+          "lng": -79.5288798
+        }
+      },
+      "formatted_address": "4700 Keele St, Toronto, ON M3J 1P3, Canada",
+      "google_map_url": "https://maps.google.com?q=43.7734535,-79.50186839999999",
+      "google_place_id": "ChIJ-3t2CzPN1IkRGW2nncyZuNs"
+    }
   },
   {
     "id": "104502",
@@ -93,7 +178,8 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "104503",
@@ -109,6 +195,23 @@
     "local_government_id": "463",
     "local_government_name": "SAKABA",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 11.4266861,
+      "longitude": 5.2437387,
+      "viewport": {
+        "northeast": {
+          "lat": 11.42802697989272,
+          "lng": 5.245089379892721
+        },
+        "southwest": {
+          "lat": 11.42532732010728,
+          "lng": 5.242389720107277
+        }
+      },
+      "formatted_address": "C6GV+MFH, Along Ribah Road, opposite FSTC, Zuru, Nigeria",
+      "google_map_url": "https://maps.google.com?q=11.4266861,5.2437387",
+      "google_place_id": "ChIJCRoUP1ibtRERFiXyav2dKo8"
+    }
   }
 ]

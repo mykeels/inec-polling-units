@@ -13,7 +13,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101804",
@@ -29,7 +30,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101805",
@@ -45,7 +47,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101806",
@@ -61,7 +64,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101807",
@@ -77,7 +81,24 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": {
+      "latitude": 12.1682571,
+      "longitude": 6.666652,
+      "viewport": {
+        "northeast": {
+          "lat": 12.16962242989272,
+          "lng": 6.668103079892722
+        },
+        "southwest": {
+          "lat": 12.16692277010728,
+          "lng": 6.665403420107278
+        }
+      },
+      "formatted_address": "5M98+8M2, 632101, Gusau, Nigeria",
+      "google_map_url": "https://maps.google.com?q=12.1682571,6.666652",
+      "google_place_id": "ChIJ4wEeealcsRERA6xuskIwO4s"
+    }
   },
   {
     "id": "101808",
@@ -93,7 +114,8 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   },
   {
     "id": "101809",
@@ -109,6 +131,7 @@
     "local_government_id": "448",
     "local_government_name": "ALIERO",
     "state_id": "21",
-    "state_name": "KEBBI"
+    "state_name": "KEBBI",
+    "location": null
   }
 ]
