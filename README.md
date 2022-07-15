@@ -4,55 +4,15 @@ Retrieved from https://www.inecnigeria.org/elections/polling-units/
 
 ## Polling Unit Stats
 
-|                                      |         |
-| ------------------------------------ | ------- |
-| Total Polling Units                  | 176,623 |
-| Polling Units with Known Locations   | 119,297 |
-| Polling Units with Unknown Locations | 57,326  |
-| Location Data Completion (%)         | 67.54%  |
+|  |  |
+| -- | -- |
+| Total Polling Units | 176,623 |
+| Polling Units with Known Locations | 119,297 |
+| Polling Units with Unknown Locations |  57,326 |
+| Location Data Completion (%) | 67.54% |
 
-### State Data Overview
-
-| State                     | LGAs | Wards | Polling Units | Location Data Completion (%) |
-| ------------------------- | ---- | ----- | ------------- | ---------------------------- |
-| ABIA                      | 17   | 184   | 4,026         | 93.02%                       |
-| ADAMAWA                   | 21   | 226   | 4,101         | 72.79%                       |
-| AKWA IBOM                 | 31   | 329   | 4,352         | 68.47%                       |
-| ANAMBRA                   | 21   | 326   | 5,719         | 90.77%                       |
-| BAUCHI                    | 20   | 212   | 5,412         | 68.39%                       |
-| BAYELSA                   | 8    | 105   | 2,244         | 80.12%                       |
-| BENUE                     | 23   | 276   | 5,069         | 83.51%                       |
-| BORNO                     | 27   | 312   | 5,071         | 70.76%                       |
-| CROSS RIVER               | 18   | 193   | 3,268         | 81.61%                       |
-| DELTA                     | 25   | 270   | 5,862         | 77.28%                       |
-| EBONYI                    | 13   | 171   | 2,940         | 92.41%                       |
-| EDO                       | 18   | 192   | 4,519         | 90.02%                       |
-| EKITI                     | 16   | 177   | 2,444         | 84.25%                       |
-| ENUGU                     | 17   | 260   | 4,136         | 94.83%                       |
-| FEDERAL CAPITAL TERRITORY | 6    | 62    | 2,817         | 0.00%                        |
-| GOMBE                     | 11   | 114   | 2,984         | 69.67%                       |
-| IMO                       | 27   | 305   | 4,757         | 92.73%                       |
-| JIGAWA                    | 27   | 287   | 4,509         | 78.04%                       |
-| KADUNA                    | 23   | 255   | 7,984         | 80.72%                       |
-| KANO                      | 44   | 484   | 11,212        | 86.94%                       |
-| KATSINA                   | 34   | 361   | 6,650         | 67.97%                       |
-| KEBBI                     | 21   | 225   | 3,741         | 63.06%                       |
-| KOGI                      | 21   | 239   | 3,507         | 82.12%                       |
-| KWARA                     | 16   | 193   | 2,886         | 72.35%                       |
-| LAGOS                     | 20   | 245   | 13,322        | 88.52%                       |
-| NASARAWA                  | 13   | 147   | 3,252         | 79.52%                       |
-| NIGER                     | 25   | 274   | 4,946         | 73.51%                       |
-| OGUN                      | 20   | 236   | 5,040         | 91.47%                       |
-| ONDO                      | 18   | 203   | 3,930         | 67.12%                       |
-| OSUN                      | 30   | 332   | 3,763         | 87.19%                       |
-| OYO                       | 33   | 351   | 6,389         | 70.76%                       |
-| PLATEAU                   | 17   | 207   | 4,987         | 0.00%                        |
-| RIVERS                    | 23   | 319   | 6,864         | 0.00%                        |
-| SOKOTO                    | 23   | 244   | 3,985         | 0.00%                        |
-| TARABA                    | 16   | 168   | 3,597         | 0.00%                        |
-| YOBE                      | 17   | 178   | 2,809         | 0.00%                        |
-| ZAMFARA                   | 14   | 147   | 3,529         | 0.00%                        |
-
+[Get started exploring the data]("./states/README.md").
+      
 <!-- End of PU stats -->
 
 ## How can You help?
