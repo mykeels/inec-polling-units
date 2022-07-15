@@ -65,7 +65,7 @@ function aggregateNationalRecords(unit, nationalRecords = {}) {
       name: unit.local_government_name,
       pollingUnits: 0,
       unitsWithUnknownLocations: 0,
-      wards: 0
+      wards: 0,
     };
     nationalRecords[unit.state_name]["lgas"]++;
   }
@@ -77,7 +77,7 @@ function aggregateNationalRecords(unit, nationalRecords = {}) {
       id: unit.ward_id,
       name: unit.ward_name,
       pollingUnits: 0,
-      unitsWithUnknownLocations: 0
+      unitsWithUnknownLocations: 0,
     };
     nationalRecords[unit.state_name]["wards"]++;
     nationalRecords[unit.state_name][unit.local_government_id]["wards"]++;
@@ -92,7 +92,7 @@ function aggregateNationalRecords(unit, nationalRecords = {}) {
       unit.id
     ] = {
       id: unit.id,
-      name: unit.name
+      name: unit.name,
     };
     nationalRecords[unit.state_name]["pollingUnits"]++;
     nationalRecords[unit.state_name][unit.local_government_id][
@@ -101,9 +101,6 @@ function aggregateNationalRecords(unit, nationalRecords = {}) {
     nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
       "pollingUnits"
     ]++;
-    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
-      unit.id
-    ]["pollingUnits"]++;
   }
 
   if (!unit.location) {
@@ -159,6 +156,25 @@ async function generateTables(units) {
       lgaDataOverview,
       "utf8"
     );
+
+    for (let [lga, lgaRecords] of Object.entries(stateRecords)) {
+      const wardDataOverview = getWardDataOverview(lgaRecords);
+      if (!lgaRecords.name) {
+        continue;
+      }
+      const lgaLinkId = `${lga.padStart(2, "0")}-${lgaRecords.name
+        .toLowerCase()
+        .replace(/[ .]/g, "-")
+        .replace(/-+/g, "-")}`;
+      await fs.promises.writeFile(
+        path.join(
+          __dirname,
+          `../states/${stateLinkId}/lgas/${lgaLinkId}/README.md`
+        ),
+        wardDataOverview,
+        "utf8"
+      );
+    }
   }
 }
 
@@ -228,21 +244,60 @@ ${Object.keys(stateRecords)
   .sort()
   .map((lga) => {
     if (
-      ["id", "name", "wards", "pollingUnits", "unitsWithUnknownLocations", "lgas"].some(
-        (key) => key === lga
-      )
+      [
+        "id",
+        "name",
+        "wards",
+        "pollingUnits",
+        "unitsWithUnknownLocations",
+        "lgas",
+      ].some((key) => key === lga)
     ) {
       return;
     }
-    console.log(lga);
     const { id, name, wards, pollingUnits, unitsWithUnknownLocations } =
       stateRecords[lga];
     return `| [${name}](./lgas/${id.padStart(2, "0")}-${name
       .toLowerCase()
-      .replace(
-        / /g,
-        "-"
-      )}) | ${wards} | ${pollingUnits.toLocaleString()} | ${(
+      .replace(/ /g, "-")}) | ${wards} | ${pollingUnits.toLocaleString()} | ${(
+      ((pollingUnits - unitsWithUnknownLocations) / pollingUnits) *
+      100
+    )
+      .toFixed(2)
+      .toLocaleString()}% |`;
+  })
+  .join("\n")}`;
+}
+
+/**
+ * @param {{ [ward: string]: { id: string, pollingUnits: number, unitsWithUnknownLocations: number } }} lgaRecords
+ */
+function getWardDataOverview(lgaRecords) {
+  return `
+# ${lgaRecords.name} Wards Data
+
+| Wards | Polling Units | Location Data Completion (%) |
+| ---- | ----- | ------- |
+${Object.keys(lgaRecords)
+  .sort()
+  .map((ward) => {
+    if (
+      ["id", "name", "pollingUnits", "unitsWithUnknownLocations", "wards"].some(
+        (key) => key === ward
+      )
+    ) {
+      return;
+    }
+    const { id, name, pollingUnits, unitsWithUnknownLocations } =
+      lgaRecords[ward];
+    if (!id) {
+      console.log({ id, ward, name, pollingUnits, unitsWithUnknownLocations })
+      return "";
+    }
+    return `| [${name}](./wards/${id.padStart(2, "0")}-${name
+      .toLowerCase()
+      .replace(/[ .]/g, "-")
+      .replace(/-+/g, "-")}) | ${pollingUnits.toLocaleString()} | ${(
       ((pollingUnits - unitsWithUnknownLocations) / pollingUnits) *
       100
     )
