@@ -119,7 +119,7 @@ function getPollingUnitStats(totalUnits, totalUnitsWithUnknownLocations) {
     .toFixed(2)
     .toLocaleString()}% |
 
-[Get started exploring the data]("./states/README.md").
+[Get started exploring the data](./states/README.md).
       `;
 }
 
