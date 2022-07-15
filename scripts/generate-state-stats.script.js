@@ -13,10 +13,12 @@ const walk = require("./walk");
  * @param {string} units[].ward_id
  * @param {string} units[].local_government_id
  * @param {string} units[].state_name
+ * @param {object} units[].location
  */
 function generatePUTable(units) {
   let unitsMap = {};
   let totalUnits = 0;
+  let totalUnitsWithUnknownLocations = 0;
 
   for (const unit of units) {
     if (!unitsMap[unit.state_name]) {
@@ -24,6 +26,8 @@ function generatePUTable(units) {
       unitsMap[unit.state_name]["pollingUnits"] = 0;
       unitsMap[unit.state_name]["wards"] = 0;
       unitsMap[unit.state_name]["lgas"] = 0;
+      unitsMap[unit.state_name]["unitsWithUnknownLocations"] = 0;
+      console.log(unit.state_name);
     }
 
     if (!unitsMap[unit.state_name][unit.local_government_id]) {
@@ -47,17 +51,39 @@ function generatePUTable(units) {
       unitsMap[unit.state_name]["pollingUnits"]++;
       totalUnits++;
     }
+
+    if (!unit.location) {
+      unitsMap[unit.state_name]["unitsWithUnknownLocations"]++;
+      totalUnitsWithUnknownLocations++;
+    }
   }
 
   let tableInfo = `
- Total polling units: ${totalUnits}
+ Total Polling Units: ${totalUnits.toLocaleString()}
+ Polling Units with Known Locations: ${(
+   totalUnits - totalUnitsWithUnknownLocations
+ ).toLocaleString()}
+ Polling Units with Unknown Locations: ${totalUnitsWithUnknownLocations.toLocaleString()}
+ Data Completion: ${(
+   ((totalUnits - totalUnitsWithUnknownLocations) / totalUnits) *
+   100
+ )
+   .toFixed(2)
+   .toLocaleString()}%
 
- | State | LGAs | Wards | Polling Units |
- | ----- | ---- | ----- | ------- |`;
+ | State | LGAs | Wards | Polling Units | Location Data Completion (%) |
+ | ----- | ---- | ----- | ------- | ------- |`;
 
   for (const state of [...Object.keys(unitsMap).sort()]) {
+    const { lgas, wards, pollingUnits, unitsWithUnknownLocations } =
+      unitsMap[state];
     tableInfo += `
- | ${state} | ${unitsMap[state]["lgas"]} | ${unitsMap[state]["wards"]} | ${unitsMap[state]["pollingUnits"]} |`;
+ | ${state} | ${lgas} | ${wards} | ${pollingUnits.toLocaleString()} | ${(
+      ((pollingUnits - unitsWithUnknownLocations) / pollingUnits) *
+      100
+    )
+      .toFixed(2)
+      .toLocaleString()}% |`;
   }
 
   return tableInfo;

@@ -5,7 +5,7 @@
  */
 
 const fs = require("fs");
-const path = require("node:path");
+const path = require("path");
 const walk = require("./walk");
 const converter = require("json-2-csv");
 
