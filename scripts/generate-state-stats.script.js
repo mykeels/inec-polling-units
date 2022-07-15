@@ -59,20 +59,24 @@ function generatePUTable(units) {
   }
 
   let tableInfo = `
- Total Polling Units: ${totalUnits.toLocaleString()}
- Polling Units with Known Locations: ${(
-   totalUnits - totalUnitsWithUnknownLocations
- ).toLocaleString()}
- Polling Units with Unknown Locations: ${totalUnitsWithUnknownLocations.toLocaleString()}
- Data Completion: ${(
-   ((totalUnits - totalUnitsWithUnknownLocations) / totalUnits) *
-   100
- )
-   .toFixed(2)
-   .toLocaleString()}%
+  |  |  |
+| -- | -- |
+| Total Polling Units | ${totalUnits.toLocaleString()} |
+| Polling Units with Known Locations | ${(
+  totalUnits - totalUnitsWithUnknownLocations
+).toLocaleString()} |
+| Polling Units with Unknown Locations |  ${totalUnitsWithUnknownLocations.toLocaleString()} |
+| Location Data Completion (%) | ${(
+  ((totalUnits - totalUnitsWithUnknownLocations) / totalUnits) *
+  100
+)
+  .toFixed(2)
+  .toLocaleString()}% |
 
- | State | LGAs | Wards | Polling Units | Location Data Completion (%) |
- | ----- | ---- | ----- | ------- | ------- |`;
+### State Data Overview
+
+| State | LGAs | Wards | Polling Units | Location Data Completion (%) |
+| ----- | ---- | ----- | ------- | ------- |`;
 
   for (const state of [...Object.keys(unitsMap).sort()]) {
     const { lgas, wards, pollingUnits, unitsWithUnknownLocations } =
@@ -97,12 +101,12 @@ async function updateReadmePUTable(tableInfo) {
   const readme = await fs.promises.readFile(readmePath, {
     encoding: "utf8",
   });
-  const [firstPart] = readme.split("### Polling Unit Stats");
+  const [firstPart] = readme.split("## Polling Unit Stats");
   const [_, lastPart] = readme.split("<!-- End of PU stats -->");
 
   const updatedReadmeText =
     firstPart +
-    "### Polling Unit Stats\n" +
+    "## Polling Unit Stats\n" +
     tableInfo +
     "\n<!-- End of PU stats -->" +
     lastPart;
