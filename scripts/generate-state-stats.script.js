@@ -137,8 +137,7 @@ ${Object.keys(stateData)
   .map((state) => {
     const { id, lgas, wards, pollingUnits, unitsWithUnknownLocations } =
       stateData[state];
-    return `
- | [${state}](./${id.padStart(
+    return `| [${state}](./${id.padStart(
       2,
       "0"
     )}-${state.toLowerCase().replace(/ /g, "%20")}) | ${lgas} | ${wards} | ${pollingUnits.toLocaleString()} | ${(
@@ -148,8 +147,7 @@ ${Object.keys(stateData)
       .toFixed(2)
       .toLocaleString()}% |`;
   })
-  .join("\n")}
-      `;
+  .join("\n")}`;
 }
 
 /**
