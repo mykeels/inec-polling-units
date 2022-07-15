@@ -11,7 +11,7 @@ Retrieved from https://www.inecnigeria.org/elections/polling-units/
 | Polling Units with Unknown Locations |  57,326 |
 | Location Data Completion (%) | 67.54% |
 
-[Get started exploring the data](./states/README.md).
+[Get started exploring the data](./states#readme).
       
 <!-- End of PU stats -->
 

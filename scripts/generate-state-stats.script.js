@@ -17,55 +17,23 @@ const walk = require("./walk");
  */
 function aggregateData(units) {
   /**
-   * @type {{ [state: string]: { lgas: number, wards: number, pollingUnits: number, unitsWithUnknownLocations: number } }}
+   * @type {{ [state: string]: { id: string, lgas: number, wards: number, pollingUnits: number, unitsWithUnknownLocations: number, [lga: string]: { id: string, wards: number, pollingUnits: number, unitsWithUnknownLocations: number }  } }}
    */
-  let stateRecords = {};
+  let nationalRecords = {};
   let totalUnits = 0;
   let totalUnitsWithUnknownLocations = 0;
 
   for (const unit of units) {
-    if (!stateRecords[unit.state_name]) {
-      stateRecords[unit.state_name] = {};
-      stateRecords[unit.state_name]["id"] = unit.state_id;
-      stateRecords[unit.state_name]["pollingUnits"] = 0;
-      stateRecords[unit.state_name]["wards"] = 0;
-      stateRecords[unit.state_name]["lgas"] = 0;
-      stateRecords[unit.state_name]["unitsWithUnknownLocations"] = 0;
-    }
+    aggregateNationalRecords(unit, nationalRecords);
 
-    if (!stateRecords[unit.state_name][unit.local_government_id]) {
-      stateRecords[unit.state_name][unit.local_government_id] = {};
-      stateRecords[unit.state_name]["lgas"]++;
-    }
-
-    if (
-      !stateRecords[unit.state_name][unit.local_government_id][unit.ward_id]
-    ) {
-      stateRecords[unit.state_name][unit.local_government_id][unit.ward_id] =
-        {};
-      stateRecords[unit.state_name]["wards"]++;
-    }
-
-    if (
-      !stateRecords[unit.state_name][unit.local_government_id][unit.ward_id][
-        unit.id
-      ]
-    ) {
-      stateRecords[unit.state_name][unit.local_government_id][unit.ward_id][
-        unit.id
-      ] = true;
-      stateRecords[unit.state_name]["pollingUnits"]++;
-      totalUnits++;
-    }
-
+    totalUnits++;
     if (!unit.location) {
-      stateRecords[unit.state_name]["unitsWithUnknownLocations"]++;
       totalUnitsWithUnknownLocations++;
     }
   }
 
   return {
-    stateRecords,
+    nationalRecords,
     totalUnits,
     totalUnitsWithUnknownLocations,
   };
@@ -78,9 +46,91 @@ function aggregateData(units) {
  * @param {string} units[].local_government_id
  * @param {string} units[].state_name
  * @param {object} units[].location
+ * @param {{ [state: string]: { id: string, lgas: number, wards: number, pollingUnits: number, unitsWithUnknownLocations: number } }} nationalRecords
+ */
+function aggregateNationalRecords(unit, nationalRecords = {}) {
+  if (!nationalRecords[unit.state_name]) {
+    nationalRecords[unit.state_name] = {};
+    nationalRecords[unit.state_name]["id"] = unit.state_id;
+    nationalRecords[unit.state_name]["name"] = unit.state_name;
+    nationalRecords[unit.state_name]["pollingUnits"] = 0;
+    nationalRecords[unit.state_name]["wards"] = 0;
+    nationalRecords[unit.state_name]["lgas"] = 0;
+    nationalRecords[unit.state_name]["unitsWithUnknownLocations"] = 0;
+  }
+
+  if (!nationalRecords[unit.state_name][unit.local_government_id]) {
+    nationalRecords[unit.state_name][unit.local_government_id] = {
+      id: unit.local_government_id,
+      name: unit.local_government_name,
+      pollingUnits: 0,
+      unitsWithUnknownLocations: 0,
+      wards: 0
+    };
+    nationalRecords[unit.state_name]["lgas"]++;
+  }
+
+  if (
+    !nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id]
+  ) {
+    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id] = {
+      id: unit.ward_id,
+      name: unit.ward_name,
+      pollingUnits: 0,
+      unitsWithUnknownLocations: 0
+    };
+    nationalRecords[unit.state_name]["wards"]++;
+    nationalRecords[unit.state_name][unit.local_government_id]["wards"]++;
+  }
+
+  if (
+    !nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
+      unit.id
+    ]
+  ) {
+    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
+      unit.id
+    ] = {
+      id: unit.id,
+      name: unit.name
+    };
+    nationalRecords[unit.state_name]["pollingUnits"]++;
+    nationalRecords[unit.state_name][unit.local_government_id][
+      "pollingUnits"
+    ]++;
+    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
+      "pollingUnits"
+    ]++;
+    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
+      unit.id
+    ]["pollingUnits"]++;
+  }
+
+  if (!unit.location) {
+    nationalRecords[unit.state_name]["unitsWithUnknownLocations"]++;
+    nationalRecords[unit.state_name][unit.local_government_id][
+      "unitsWithUnknownLocations"
+    ]++;
+    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
+      "unitsWithUnknownLocations"
+    ]++;
+    nationalRecords[unit.state_name][unit.local_government_id][unit.ward_id][
+      unit.id
+    ]["unitsWithUnknownLocations"]++;
+  }
+  return nationalRecords;
+}
+
+/**
+ * @param {object[]} units
+ * @param {string} units[].id
+ * @param {string} units[].ward_id
+ * @param {string} units[].local_government_id
+ * @param {string} units[].state_name
+ * @param {object} units[].location
  */
 async function generateTables(units) {
-  const { stateRecords, totalUnits, totalUnitsWithUnknownLocations } =
+  const { nationalRecords, totalUnits, totalUnitsWithUnknownLocations } =
     aggregateData(units);
 
   // generate polling-units
@@ -91,12 +141,25 @@ async function generateTables(units) {
   await updateReadmePUTable(pollingUnitStats);
 
   // generate states
-  const stateDataOverview = getStateDataOverview(stateRecords);
+  const stateDataOverview = getStateDataOverview(nationalRecords);
   await fs.promises.writeFile(
     path.join(__dirname, "../states/README.md"),
     stateDataOverview,
     "utf8"
   );
+
+  for (let [state, stateRecords] of Object.entries(nationalRecords)) {
+    const lgaDataOverview = getLGADataOverview(stateRecords);
+    const stateLinkId = `${stateRecords.id.padStart(
+      2,
+      "0"
+    )}-${state.toLowerCase()}`;
+    await fs.promises.writeFile(
+      path.join(__dirname, `../states/${stateLinkId}/README.md`),
+      lgaDataOverview,
+      "utf8"
+    );
+  }
 }
 
 /**
@@ -119,7 +182,7 @@ function getPollingUnitStats(totalUnits, totalUnitsWithUnknownLocations) {
     .toFixed(2)
     .toLocaleString()}% |
 
-[Get started exploring the data](./states/README.md).
+[Get started exploring the data](./states#readme).
       `;
 }
 
@@ -137,10 +200,49 @@ ${Object.keys(stateData)
   .map((state) => {
     const { id, lgas, wards, pollingUnits, unitsWithUnknownLocations } =
       stateData[state];
-    return `| [${state}](./${id.padStart(
-      2,
-      "0"
-    )}-${state.toLowerCase().replace(/ /g, "%20")}) | ${lgas} | ${wards} | ${pollingUnits.toLocaleString()} | ${(
+    return `| [${state}](./${id.padStart(2, "0")}-${state
+      .toLowerCase()
+      .replace(
+        / /g,
+        "%20"
+      )}) | ${lgas} | ${wards} | ${pollingUnits.toLocaleString()} | ${(
+      ((pollingUnits - unitsWithUnknownLocations) / pollingUnits) *
+      100
+    )
+      .toFixed(2)
+      .toLocaleString()}% |`;
+  })
+  .join("\n")}`;
+}
+
+/**
+ * @param {{ [lga: string]: { id: string, wards: number, pollingUnits: number, unitsWithUnknownLocations: number } }} stateRecords
+ */
+function getLGADataOverview(stateRecords) {
+  return `
+# ${stateRecords.name} LGAs Data
+
+| LGAs | Wards | Polling Units | Location Data Completion (%) |
+| ----- | ---- | ----- | ------- |
+${Object.keys(stateRecords)
+  .sort()
+  .map((lga) => {
+    if (
+      ["id", "name", "wards", "pollingUnits", "unitsWithUnknownLocations", "lgas"].some(
+        (key) => key === lga
+      )
+    ) {
+      return;
+    }
+    console.log(lga);
+    const { id, name, wards, pollingUnits, unitsWithUnknownLocations } =
+      stateRecords[lga];
+    return `| [${name}](./lgas/${id.padStart(2, "0")}-${name
+      .toLowerCase()
+      .replace(
+        / /g,
+        "-"
+      )}) | ${wards} | ${pollingUnits.toLocaleString()} | ${(
       ((pollingUnits - unitsWithUnknownLocations) / pollingUnits) *
       100
     )
